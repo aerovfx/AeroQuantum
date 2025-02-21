@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 23, "column": 0}, "map": {"version":3,"sources":["file:///Users/chungdangviet/aero_lms/app/layout.tsx"],"sourcesContent":["import {\n  ClerkProvider,\n  SignInButton,\n  SignedIn,\n  SignedOut,\n  UserButton\n} from '@clerk/nextjs'\nimport './globals.css'\nexport default function RootLayout({\n  children,\n}: {\n  children: React.ReactNode\n}) {\n  return (\n    <ClerkProvider>\n      <html lang=\"en\">\n        <body>\n          <SignedOut>\n            <SignInButton />\n          </SignedOut>\n          <SignedIn>\n            <UserButton />\n          </SignedIn>\n          {children}\n        </body>\n      </html>\n    </ClerkProvider>\n  )\n}"],"names":[],"mappings":";;;;AAAA;AAAA;;;;AAQe,SAAS,WAAW,EACjC,QAAQ,EAGT;IACC,qBACE,8OAAC,yKAAA,CAAA,gBAAa;kBACZ,cAAA,8OAAC;YAAK,MAAK;sBACT,cAAA,8OAAC;;kCACC,8OAAC,yKAAA,CAAA,YAAS;kCACR,cAAA,8OAAC,sLAAA,CAAA,eAAY;;;;;;;;;;kCAEf,8OAAC,yKAAA,CAAA,WAAQ;kCACP,cAAA,8OAAC,sLAAA,CAAA,aAAU;;;;;;;;;;oBAEZ;;;;;;;;;;;;;;;;;AAKX"}},
+    {"offset": {"line": 78, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}
