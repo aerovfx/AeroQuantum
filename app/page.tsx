@@ -1,4 +1,3 @@
-import Image from "next/image";
 
 export default function Home() {
   return (
@@ -6,8 +5,8 @@ export default function Home() {
       <p className="text-3xl font-medium text-sky-700">
       hello world
     </p>
-    <button variant="primary" className="bg-sky-700 text-white px-4 py-2 rounded-md">
-      click me
+    <button className="bg-sky-700 text-white px-4 py-2 rounded-md">
+  click me
     </button>
 
     </div>
