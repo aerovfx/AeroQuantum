@@ -6,6 +6,13 @@ import {
   UserButton
 } from '@clerk/nextjs'
 import './globals.css'
+import type { Metadata } from 'next'
+
+export const metadata: Metadata = {
+  title: 'Create Next LMS app',
+  description: 'Create a Next.js app with Clerk, Prisma, and PostgreSQL'
+}
+
 export default function RootLayout({
   children,
 }: {
