@@ -10,6 +10,10 @@ export const Sidebar = () => {
             <Logo />
         </div>
 
+        <div className = "flex flex-col w-full">
+          <SidebarRoutes />
+        </div>
+
     </div>
   );
 };
