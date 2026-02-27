@@ -1,0 +1,303 @@
+WEBVTT
+
+WEBVTT
+
+00:00.050 --> 00:00.260
+All right.
+
+00:00.270 --> 00:06.840
+So here's goes log in and my red box which says that the flux through a close surface equals to the
+
+00:06.840 --> 00:13.680
+total charge enclosed by that surface divided by this constant which is our primitive city of free space.
+
+00:13.680 --> 00:19.310
+I now just want to focus specifically now on how do you actually evaluate this thing.
+
+00:19.890 --> 00:21.540
+Because this is just a constant.
+
+00:21.540 --> 00:30.300
+So if we can evaluate the charging closed by any close surface then we already done the right hand side
+
+00:30.300 --> 00:33.000
+of GAUSS LAW and that makes our job a little bit easier.
+
+00:33.000 --> 00:35.030
+So let's work on this term.
+
+00:35.070 --> 00:39.350
+So what I've got over here are some point charges that I've laid out in space.
+
+00:39.390 --> 00:43.550
+They have different magnitudes so I have to highlight some of these right.
+
+00:43.560 --> 00:45.930
+So you have two columns over here.
+
+00:45.930 --> 00:48.480
+You got five cool homes there.
+
+00:48.750 --> 00:54.360
+Negative for cool homes over here and negative one cool home right over here.
+
+00:54.360 --> 00:54.570
+All right.
+
+00:54.600 --> 00:59.350
+So they're all point charges and let me look at some various surfaces.
+
+00:59.790 --> 01:03.060
+What if I had a surface that looked something like this.
+
+01:03.060 --> 01:06.930
+Doesn't matter on the shape as long as it is close.
+
+01:06.970 --> 01:10.070
+I'm going to call this here surface S1.
+
+01:10.470 --> 01:17.380
+So how do you calculate the flux through this closed surface right here.
+
+01:17.380 --> 01:18.050
+OK.
+
+01:18.270 --> 01:26.910
+If I look at the surface S1 the flux through the close surface again the total flux through the close
+
+01:26.910 --> 01:27.690
+surface.
+
+01:27.690 --> 01:34.740
+All I have to do is count how many charges are inside in this case it's simply two columns.
+
+01:34.890 --> 01:38.760
+So it'd be two divided by epsilon 0.
+
+01:38.790 --> 01:39.210
+That's it.
+
+01:39.210 --> 01:43.430
+That is the total flux through that surface which is kind of remarkable.
+
+01:43.430 --> 01:43.960
+Right.
+
+01:44.010 --> 01:48.960
+Because if you think about what the electric field looks like that's produced by this charge over here
+
+01:48.960 --> 01:55.110
+it's in this direction over here it's in this direction.
+
+01:55.110 --> 01:55.320
+All right.
+
+01:55.320 --> 02:01.530
+And the area is constantly changing right the area for this kind of bent surface over here is always
+
+02:01.530 --> 02:03.330
+in different directions.
+
+02:03.420 --> 02:03.630
+Right.
+
+02:03.630 --> 02:11.070
+The direction perpendicular to this surface looks like this.
+
+02:11.070 --> 02:12.420
+It's always changing.
+
+02:12.420 --> 02:18.630
+But what makes Gauss is law quite remarkable is that it's really easy to evaluate the flux through any
+
+02:18.630 --> 02:21.030
+close surface.
+
+02:21.030 --> 02:25.190
+So let me kind of remove some of those just the clean up the picture a little bit.
+
+02:25.200 --> 02:32.310
+What's remarkable is even if I changed the surface Whoops let's keep that like that over Epsilon 0.
+
+02:33.570 --> 02:36.150
+OK so that's the flux through that surface.
+
+02:36.150 --> 02:41.310
+Even if I tried this surface over here let me add a different surface in a different color.
+
+02:41.460 --> 02:43.920
+What if I chose this surface right here
+
+02:46.900 --> 02:51.280
+again kind of rather complicated looking surface and not really a rectangle because of what's going
+
+02:51.280 --> 02:52.140
+on over here.
+
+02:52.150 --> 02:56.850
+However I am in closing the same amount of charge as one.
+
+02:57.340 --> 03:03.070
+So if I looked at the flux going through this surface over here if I did that calculation out long I
+
+03:03.070 --> 03:05.130
+would find the exact same answer.
+
+03:05.140 --> 03:06.370
+It's a closed service.
+
+03:06.370 --> 03:09.970
+Number one and define the flux through a close surface.
+
+03:09.970 --> 03:12.900
+You simply have to evaluate the right hand side.
+
+03:12.910 --> 03:17.290
+So it would be two divided by epsilon 0 all right.
+
+03:17.320 --> 03:24.180
+What if I take this surface down over here let's clean up my picture a little bit.
+
+03:24.280 --> 03:27.180
+All right let's do another surface maybe do this one in purple.
+
+03:27.580 --> 03:28.930
+Here's another surface
+
+03:36.400 --> 03:36.610
+All right.
+
+03:36.610 --> 03:38.740
+First of all it is a closed service.
+
+03:38.740 --> 03:41.960
+You could see let's call this one here S3.
+
+03:42.370 --> 03:45.100
+All right and what is the flux through this close surface.
+
+03:45.130 --> 03:47.720
+Or how much charge is enclosed.
+
+03:47.770 --> 03:50.790
+Again all you have to do is look inside this service.
+
+03:50.800 --> 03:52.990
+I have the total charging closed
+
+03:55.890 --> 04:01.780
+is what it's negative four and negative 1.
+
+04:02.160 --> 04:03.520
+So I get minus five.
+
+04:03.520 --> 04:06.080
+Cool arm is the total charging close.
+
+04:06.180 --> 04:13.500
+So that means that the flux going through that total surface would simply be equal to negative five
+
+04:14.460 --> 04:15.930
+over Epsilon zero.
+
+04:15.930 --> 04:20.900
+Notice I can have a negative value for the flux there is nothing telling me that I can't go.
+
+04:21.160 --> 04:27.180
+And that is because there's gonna be field lines going toward all of these negative charges.
+
+04:27.600 --> 04:27.900
+OK.
+
+04:27.930 --> 04:33.540
+So this is the flux through the surface as 3 as do another one.
+
+04:33.570 --> 04:37.200
+What if I circle all of these charges
+
+04:39.910 --> 04:42.760
+I make a giant surface over here let's call this surface.
+
+04:42.760 --> 04:50.460
+As for how much charge is enclosed through this surface the amount of charging close they're all enclosed
+
+04:50.480 --> 04:50.650
+right.
+
+04:50.680 --> 04:59.290
+I have to sum every single charge over here so it's basically Q1 plus Q2 plus Q3 plus Q4
+
+05:01.990 --> 05:10.620
+to plus 5 is 7 and 7 minus 5 gives me too.
+
+05:10.730 --> 05:15.950
+So that means that the flux through S4 that's a close surface.
+
+05:15.950 --> 05:21.320
+I can evaluate it by simply doing the total charging closed divided by epsilon 0.
+
+05:21.380 --> 05:21.740
+Okay.
+
+05:21.800 --> 05:25.330
+That's the value of the flux through the surface.
+
+05:25.340 --> 05:30.260
+Let me show you another surface over here what if I had a green surface that looks something like this.
+
+05:33.450 --> 05:38.620
+All right this let's call the green one here is surface S5.
+
+05:38.660 --> 05:40.200
+All right surface S5.
+
+05:40.230 --> 05:45.020
+What is the total flux going through that surface again rather complicated surface.
+
+05:45.020 --> 05:50.880
+All right the area would always be perpendicular the field would be the field produced by all of these
+
+05:50.880 --> 05:56.610
+four point charges which itself would be very very complicated because I'd have to evaluate that everywhere
+
+05:56.610 --> 05:58.040
+on the surface.
+
+05:58.080 --> 06:01.250
+However Gauss law makes this really really simple.
+
+06:01.280 --> 06:07.260
+So first of all how much Chargers enclosed by this surface.
+
+06:07.360 --> 06:09.730
+I just look inside inside that surface.
+
+06:09.810 --> 06:12.660
+There is zero charging close.
+
+06:12.780 --> 06:19.920
+So what is the flux going through S5 Gauss as law would tell us they would have to be 0 0 divided by
+
+06:19.920 --> 06:22.480
+epsilon 0 is still 0.
+
+06:22.500 --> 06:22.730
+Okay.
+
+06:22.740 --> 06:28.960
+Hopefully you are a little bit more comfortable now looking at this charge enclosed by a surface.
+
+06:28.980 --> 06:34.500
+We're gonna go back now and rather than doing these more complicated surfaces now we're gonna do something
+
+06:34.500 --> 06:40.560
+that is a little bit friendlier is a little bit more symmetric and then we're gonna see how we can use
+
+06:40.560 --> 06:45.920
+it to actually evaluate the electric field because remember electric field is kind of buried in here.
+
+06:46.100 --> 06:53.160
+All right you use always you always use electric field to calculate the flux so maybe we could use a
+
+06:53.160 --> 06:57.750
+friendlier surface and use that quantity to actually calculate the electric field.

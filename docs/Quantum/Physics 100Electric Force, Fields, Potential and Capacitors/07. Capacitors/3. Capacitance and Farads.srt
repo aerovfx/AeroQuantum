@@ -1,0 +1,217 @@
+WEBVTT
+
+00:00.210 --> 00:00.420
+All right.
+
+00:00.420 --> 00:02.010
+So this what we have right.
+
+00:02.010 --> 00:03.720
+Parallel plates.
+
+00:04.020 --> 00:09.220
+Plus cue negative cue we have a voltage V and this was the equation we got.
+
+00:09.510 --> 00:15.840
+Now remember charge on the plates is Q charge on one plate.
+
+00:15.840 --> 00:21.500
+Right on one plate we have opposite charge on the other plate.
+
+00:21.510 --> 00:24.370
+This here was measured in cool homes.
+
+00:24.510 --> 00:26.260
+What else V.
+
+00:26.310 --> 00:34.890
+This is voltage between the plates although you just write it as just one variable it's really delta
+
+00:34.890 --> 00:35.270
+v
+
+00:39.060 --> 00:43.450
+guy and this is what we call the capacitance
+
+00:47.430 --> 00:50.930
+the capacitance is really the constant of proportionality.
+
+00:50.970 --> 00:55.990
+It's a constant of proportionality.
+
+01:01.730 --> 01:02.220
+Okay.
+
+01:02.240 --> 01:06.200
+Between the charge and the voltage between the plates.
+
+01:06.200 --> 01:10.520
+So V is measured in volts.
+
+01:10.820 --> 01:13.110
+We measure this in volts.
+
+01:13.220 --> 01:16.190
+The units here are charge.
+
+01:16.190 --> 01:24.170
+So that means that if I wrote a an expression for capacitance again you would have see the capacitance
+
+01:24.530 --> 01:32.270
+again this see here refers to the charge the units of cool ohms so C would be evil equal to Q divided
+
+01:32.270 --> 01:34.020
+by the voltage.
+
+01:34.550 --> 01:42.660
+So in terms of its units the units of capacitance would be the units of Q divided by the units of volts.
+
+01:43.340 --> 01:46.270
+So we could say this is in units of cool arms.
+
+01:46.320 --> 01:54.990
+So let me just read it out here of cool arms divided by volts All right.
+
+01:54.990 --> 01:57.910
+This is something we called a fair add.
+
+01:58.200 --> 02:07.290
+We call this so one cool arm revolt is equivalent to one fair add we just kind of shorten it as FAA.
+
+02:07.300 --> 02:09.390
+Okay so the units of capacitance
+
+02:12.130 --> 02:18.370
+have to be measured in fair adds So those are the units.
+
+02:18.380 --> 02:25.180
+So typical values might be sometimes they're pretty small but say 15 micro fare add.
+
+02:25.190 --> 02:26.370
+You would read it like this.
+
+02:26.370 --> 02:29.080
+Another example might be something really small.
+
+02:29.090 --> 02:32.700
+Pico Fair at right you might measure something like this.
+
+02:32.720 --> 02:32.920
+OK.
+
+02:32.930 --> 02:39.730
+These are just kind of two examples over here of capacitance.
+
+02:39.720 --> 02:40.040
+All right.
+
+02:40.040 --> 02:44.240
+Now the other thing that's important here is we had an expression for this.
+
+02:44.240 --> 02:53.810
+However we did it for parallel plates and only for parallel plates capacitors come in different geometries
+
+02:54.350 --> 02:57.200
+one geometry is a parallel plate.
+
+02:57.200 --> 03:05.140
+In that case the capacity to see you can write it as Epsilon 0 multiplied by a over D.
+
+03:05.200 --> 03:10.520
+You can actually put a bracket around this thing because I want to show you two different terms.
+
+03:10.520 --> 03:15.460
+This here is the constant right the permitted city of free space it's only a number.
+
+03:15.590 --> 03:17.340
+We looked at up in the book.
+
+03:17.510 --> 03:21.350
+This is associated to what is between the plates
+
+03:24.790 --> 03:26.380
+if there's nothing between the plates.
+
+03:26.410 --> 03:27.220
+That's the value
+
+03:31.880 --> 03:33.040
+I'm going to see later on.
+
+03:33.040 --> 03:40.080
+If we put a piece of glass wood or a dielectric an insulating material I can change the capacitance.
+
+03:40.280 --> 03:43.870
+But for now we have nothing or just air between the plates.
+
+03:43.940 --> 03:45.920
+So that's simply a number.
+
+03:45.920 --> 03:49.260
+The next term right here look what it has for the parallel plate.
+
+03:49.370 --> 03:57.440
+It has the area of the plate right the area and the other thing was the distance the distance d between
+
+03:57.440 --> 04:07.360
+the plates so this here really only depends on the geometry of the capacitor of the device that we're
+
+04:07.800 --> 04:11.900
+now we have to store charge OK.
+
+04:11.920 --> 04:17.320
+So it really depends only on two things the capacitance and although this is the formula for parallel
+
+04:17.320 --> 04:25.570
+plates if we looked at different examples of capacitors Another example would be kind of tubes.
+
+04:25.570 --> 04:33.060
+If I had like a tube and on the outside here I would have another kind of a shell.
+
+04:33.200 --> 04:36.530
+You can use an example like this as a capacitor.
+
+04:36.530 --> 04:42.920
+In this case here the outside might have a charge q the inside conductor might have a charged negative
+
+04:42.920 --> 04:52.850
+Q there would be some voltage v between the inside conductor and the outside conductor the capacitance
+
+04:52.850 --> 05:00.320
+of this device can be written or the charge is directly proportional to the voltage between both of
+
+05:00.320 --> 05:02.570
+those conductors.
+
+05:02.570 --> 05:05.570
+Now you'd have a different formula for capacitance.
+
+05:05.570 --> 05:09.440
+It would be more complicated because of the geometry is more complicated.
+
+05:09.440 --> 05:13.320
+However it would still only depend on two things.
+
+05:13.340 --> 05:18.690
+It would depend on what is between both of those conductors is it airfield or is there something else.
+
+05:18.930 --> 05:21.160
+And it would depend on the geometry.
+
+05:21.230 --> 05:25.320
+What is the radius for example of these tubes.
+
+05:25.430 --> 05:31.550
+So again capacitance depends on what's between the plates and the geometry of the object that you're
+
+05:31.550 --> 05:33.170
+looking at.
+
+05:33.170 --> 05:37.890
+It does not depend on the charge or the voltage right.
+
+05:37.890 --> 05:44.130
+You don't see charger voltage actually in this expression for capacitance capacitance is just the constant
+
+05:44.130 --> 05:47.430
+of proportionality between charge and voltage.

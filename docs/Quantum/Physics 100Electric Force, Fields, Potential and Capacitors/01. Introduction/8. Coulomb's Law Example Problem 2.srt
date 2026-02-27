@@ -1,0 +1,472 @@
+WEBVTT
+
+00:00.180 --> 00:05.520
+OK so here's problem two again we're going to look at the net force acting on charged Q3.
+
+00:05.520 --> 00:08.410
+Except now it's kind of like a two dimensional problem.
+
+00:08.490 --> 00:13.220
+So let's first start again by labeling all the forces acting on Q3.
+
+00:13.380 --> 00:20.010
+So there's an interaction between Q1 and Q3 since Q1 is positive and Q3 is negative.
+
+00:20.010 --> 00:27.310
+There is an attractive force on Q3 and that force should be in this direction over here.
+
+00:27.420 --> 00:33.130
+We're gonna call this force F 1 again all right.
+
+00:33.130 --> 00:34.860
+That's the direction what else.
+
+00:34.920 --> 00:38.900
+We also have an interaction between Q2 and Q3.
+
+00:38.940 --> 00:44.670
+If I'm looking at all the forces acting on Q3 that means I need to add another vector I need to add
+
+00:44.670 --> 00:46.510
+this vector over here.
+
+00:46.740 --> 00:48.860
+We're gonna call this f 2 again.
+
+00:48.910 --> 00:53.060
+Again these may not be the same we're going to evaluate how big those vectors are.
+
+00:53.070 --> 00:56.900
+But for now let's just label them like this.
+
+00:56.940 --> 00:59.370
+So the first thing we're going to do is want to apply cool Ohm's Law.
+
+00:59.370 --> 01:04.460
+Let's calculate how big is EF 1 what's the magnitude of this vector.
+
+01:04.470 --> 01:04.940
+OK.
+
+01:04.950 --> 01:07.370
+So in order to do this.
+
+01:07.670 --> 01:10.590
+So let's write down our equation so we have EF 1.
+
+01:10.650 --> 01:19.930
+Again it's the constant K that's the same Q1 Q3 and divided by again it's the distance squared.
+
+01:19.940 --> 01:21.950
+What's the distance in this case.
+
+01:22.290 --> 01:27.450
+If I go back to the figure it's going to be the distance between this guy and this guy.
+
+01:27.480 --> 01:30.550
+This is the distance D1 in this case it's different.
+
+01:30.610 --> 01:30.930
+All right.
+
+01:30.930 --> 01:33.590
+It's not the same as what we previously had.
+
+01:33.600 --> 01:35.550
+So this is D 1 squared.
+
+01:35.610 --> 01:39.780
+So actually what you need to do now is you need to do a little bit of math in order to find what is
+
+01:39.780 --> 01:41.190
+D 1.
+
+01:41.220 --> 01:43.920
+Well this we can use just Pythagorean Theorem right.
+
+01:43.920 --> 01:48.050
+We know that one side is zero point for the other is zero point two.
+
+01:48.060 --> 01:58.200
+So that means that d 1 simply going to be root of zero point four squared plus zero point two squared.
+
+01:58.200 --> 01:58.410
+All right.
+
+01:58.410 --> 02:00.260
+Put those numbers in the calculator.
+
+02:00.280 --> 02:04.830
+Now you should get it's approximately zero point four five meters.
+
+02:04.830 --> 02:05.040
+All right.
+
+02:05.040 --> 02:09.360
+Now you can go ahead and substitute everything define how big this forces.
+
+02:09.480 --> 02:12.730
+So we get nine times tend to the nine.
+
+02:12.730 --> 02:16.980
+Q1 was five times tend to the negative six.
+
+02:17.040 --> 02:17.850
+What else.
+
+02:17.850 --> 02:25.110
+Q3 is still negative to micro cool homes I'm not going to put the negative sign again that only tells
+
+02:25.110 --> 02:31.290
+me the direction of the force and at the end now I need to divide by zero point four or five and square
+
+02:31.290 --> 02:32.060
+that value.
+
+02:32.600 --> 02:32.970
+Okay.
+
+02:32.970 --> 02:35.160
+You substitute in all the numbers here.
+
+02:35.160 --> 02:42.360
+What you should find now is a force that's approximately equal to zero point four four Newtons.
+
+02:42.360 --> 02:45.940
+And this is the direction here it's kind of at an angle.
+
+02:46.170 --> 02:46.800
+All right.
+
+02:46.800 --> 02:53.940
+Our other goal is to find what is EF 2 Well EF 2 should be pretty much identical to the previous case
+
+02:53.940 --> 02:55.260
+that we found.
+
+02:55.260 --> 02:55.470
+Right.
+
+02:55.470 --> 03:01.470
+Because we haven't changed anything so let's just write it down just for completeness we get K we get
+
+03:01.590 --> 03:04.410
+Q2 we get Q3 and our distance.
+
+03:04.410 --> 03:09.630
+Now this is our distance d to the distance between both of those charges.
+
+03:09.810 --> 03:11.320
+So we should get zero point.
+
+03:11.780 --> 03:16.400
+Well let's just call it D2 over here D2 and we have to square that value.
+
+03:16.400 --> 03:20.670
+All right you could tell that the value of the magnitude of this force is going to be the exact same
+
+03:21.030 --> 03:24.320
+which we had one point three five Newtons.
+
+03:24.330 --> 03:24.560
+All right.
+
+03:24.570 --> 03:27.290
+Let me go ahead and write this in the top figure.
+
+03:27.510 --> 03:32.270
+So we have both of our forces our goal now is really to find what is the net force.
+
+03:32.340 --> 03:37.530
+So what you have to do now is you have to add these up as vector quantities so we're going to do in
+
+03:37.530 --> 03:39.000
+order to do that.
+
+03:39.810 --> 03:41.360
+We're gonna do a little bit of math.
+
+03:41.390 --> 03:44.880
+So we're gonna have to break the force F one down into two components
+
+03:47.920 --> 03:52.420
+let's start off by making a little bit of extra space we already have all our magnitudes Syriza and
+
+03:52.420 --> 03:53.940
+get rid of this information.
+
+03:54.140 --> 03:58.150
+What else I already have my magnitude on my vector diagram over there.
+
+03:58.230 --> 03:58.660
+OK.
+
+03:58.660 --> 04:00.590
+Now let's go back to this figure.
+
+04:00.690 --> 04:04.930
+Now what I'm gonna do now is I'm simply going to move this to give me a little bit of extra space but
+
+04:04.930 --> 04:07.660
+this is a f one I'll just move it over here.
+
+04:07.840 --> 04:08.270
+All right.
+
+04:08.300 --> 04:10.480
+Now let's look at our diagram.
+
+04:10.480 --> 04:11.660
+This is what I'm going to do here.
+
+04:11.670 --> 04:14.410
+I have a line which is the x axis here.
+
+04:14.440 --> 04:18.490
+I'm gonna go ahead and I'm going to kind of draw a parallel line to that one.
+
+04:18.490 --> 04:25.090
+Now on the inside over here if I call this angle here theta what I want to do is I should notice that
+
+04:25.090 --> 04:28.670
+this here should also be the same angle theta.
+
+04:29.050 --> 04:32.950
+And my goal now is simply to break the force down into components.
+
+04:33.430 --> 04:36.280
+So f 1 is a vector along this angle.
+
+04:36.370 --> 04:38.980
+What I'm going to do is I'm going to break it down into two components.
+
+04:38.980 --> 04:45.970
+This here is going to be the x component of f 1 and the y component of f 1 is going to be pointing down
+
+04:45.970 --> 04:46.460
+like this.
+
+04:46.460 --> 04:50.280
+So this is gonna be the y component of that force.
+
+04:50.290 --> 04:59.350
+Now if you do a little bit of trigonometry you should realize that f 1 x should be equal to the magnitude
+
+04:59.350 --> 05:11.620
+of f 1 multiplied by coast of that angle and f 1 y should be equal to EF 1 sign of the angle theta.
+
+05:11.620 --> 05:16.180
+So it would be nice if we know what that angle theta is but we can actually determine the angle theta
+
+05:16.180 --> 05:19.100
+by looking at our first diagram right the angle theta.
+
+05:19.210 --> 05:25.250
+You could find right here and I can use any of the trigonometric functions in order to find this.
+
+05:25.270 --> 05:26.410
+I'm going to use tangent.
+
+05:26.510 --> 05:27.000
+OK.
+
+05:27.260 --> 05:33.050
+If you write down tangent of theta you should say that's opposite over adjacent right.
+
+05:33.130 --> 05:38.090
+Zero point two over zero point four which is just equal to one half.
+
+05:38.980 --> 05:48.070
+So at the end if you take the inverse function ten negative 1 of 1 1/2 you should get an angle equal
+
+05:48.070 --> 05:51.530
+to approximately twenty six point six degrees.
+
+05:51.770 --> 05:56.380
+All right now I'm in good shape and go back and actually find what the magnitude of both of those forces
+
+05:56.380 --> 05:56.650
+are.
+
+05:57.340 --> 06:04.300
+So for this guy here I substitute zero point four four for F one and then I do coasts of twenty six
+
+06:04.300 --> 06:12.440
+point six for the next one at zero point four four multiply by sign of twenty six point six.
+
+06:12.730 --> 06:13.070
+All right.
+
+06:13.090 --> 06:14.590
+So we have two magnitudes.
+
+06:14.590 --> 06:18.390
+Now we're gonna have f one x and f one y.
+
+06:18.400 --> 06:25.150
+We know the direction by looking at our diagram F1 X and I substituted things I got approximately zero
+
+06:25.150 --> 06:31.710
+point three nine Newtons and F1 Y was approximately zero point two Newtons.
+
+06:31.940 --> 06:38.700
+Okay so I got to use these two values now and in order to find the net force you have to find the net
+
+06:38.700 --> 06:40.200
+force in each direction.
+
+06:40.230 --> 06:46.520
+So let's go ahead and do that now find the net force all you have to do now is find the net force or
+
+06:46.520 --> 06:48.270
+the component of each one.
+
+06:48.280 --> 06:48.880
+OK.
+
+06:49.080 --> 06:53.490
+So let's go ahead and write down our equations for the net force in each direction.
+
+06:53.630 --> 06:59.510
+Again this simply means I add up all of the forces and I only add up their x components in this case
+
+06:59.510 --> 07:04.910
+there's only one and what I'm gonna do to add them up I'm going to choose just a standard x y coordinate
+
+07:04.910 --> 07:11.150
+system so everything pointing to the right is positive everything pointing up will also be positive.
+
+07:11.150 --> 07:14.720
+There's only one force in the x direction here it's this one component.
+
+07:15.530 --> 07:19.570
+And I'm going to set it as negative because it's pointing to the left.
+
+07:19.700 --> 07:25.590
+So zero point three nine again positives or negatives are only telling you something about the direction.
+
+07:25.730 --> 07:26.000
+All right.
+
+07:26.000 --> 07:30.600
+So we have that one how about the forces in the vertical direction.
+
+07:31.040 --> 07:34.800
+We have to add up all the forces in the vertical direction there's two.
+
+07:34.800 --> 07:37.710
+All right I have F two and that one's pointing up.
+
+07:37.760 --> 07:43.250
+I'm going to call that positive and there's only one component acting down it's only this component
+
+07:43.280 --> 07:47.810
+of f one which we calculated here is zero point two.
+
+07:47.840 --> 07:51.830
+So notice these have two different signs because they're in different directions.
+
+07:51.830 --> 08:00.260
+So at the end the net force in the vertical direction is simply going to be one point one five.
+
+08:00.260 --> 08:00.470
+All right.
+
+08:00.470 --> 08:01.160
+Perfect.
+
+08:01.160 --> 08:07.490
+Now the last step now is we have it in components so we may want to calculate how big is the net force
+
+08:07.520 --> 08:09.840
+and what does it look like on a diagram.
+
+08:09.860 --> 08:15.290
+So we have a component of this net force let's just make it black over here.
+
+08:15.530 --> 08:18.530
+We have a component of the net force which is in the x direction.
+
+08:18.740 --> 08:22.800
+And we also have a component which is in the vertical direction.
+
+08:22.880 --> 08:27.220
+So at the end if you add up both of those I should have a vector that kind of looks like this.
+
+08:27.220 --> 08:34.630
+This is really the net force direction first thing I could do is I can calculate what is the magnitude
+
+08:34.630 --> 08:42.830
+of this net force since you know everything about the vector you know both of its components you simply
+
+08:42.830 --> 08:51.080
+use Pythagorean Theorem in order to solve this three nine squared plus one point one five squared again
+
+08:51.080 --> 08:54.070
+I don't have the negative sign because at the end I just end up squaring it.
+
+08:54.530 --> 08:59.780
+Whether you write it in there or not it doesn't bother me one point two Newtons is the magnitude of
+
+08:59.780 --> 09:01.290
+this net force.
+
+09:01.320 --> 09:06.710
+Now the other thing you may want to do also is say define what is the angle and I say define this angle
+
+09:06.710 --> 09:12.830
+here Alpha something like this again if you know both components you know the x component of that force
+
+09:13.890 --> 09:21.860
+F net x and f net why we should be able to use our trigonometry in order to write down an expression
+
+09:21.860 --> 09:24.710
+for what is this angle alpha.
+
+09:24.890 --> 09:26.270
+Let me go ahead and do that over here.
+
+09:26.440 --> 09:32.920
+Let's make some space so what I'm going to use is tangent again kind of like the used tangent.
+
+09:34.240 --> 09:40.780
+So you should be able to write that tangent of this angle alpha tangent is going to be the opposite
+
+09:40.900 --> 09:42.350
+over the adjacent.
+
+09:42.520 --> 09:44.290
+So it's f net
+
+09:47.040 --> 09:58.330
+y over f net X a substitute in our numbers and at the end you want to take the inverse.
+
+09:58.330 --> 10:12.130
+So Alpha is tan of negative 1 F net Y was one point one five and F net was f net X. We had zero point
+
+10:12.130 --> 10:13.300
+three nine the magnitude.
+
+10:14.230 --> 10:15.200
+Okay.
+
+10:15.490 --> 10:22.030
+You should get an angle alpha that's approximately equal to seventy one point two degrees.
+
+10:22.100 --> 10:26.980
+Okay go ahead and draw that one here in this figure seventy one point two degrees.
+
+10:26.980 --> 10:31.000
+Now depending on how you define it you could have defined this angle at the end that doesn't really
+
+10:31.000 --> 10:37.330
+matter as long as you have a vector where you have a magnitude and you have some direction or you could
+
+10:37.330 --> 10:39.250
+also just write it down in two components.
+
+10:39.250 --> 10:41.070
+We have an X and a y component.
+
+10:41.120 --> 10:44.950
+We've defined the total force acting on a charge q three.

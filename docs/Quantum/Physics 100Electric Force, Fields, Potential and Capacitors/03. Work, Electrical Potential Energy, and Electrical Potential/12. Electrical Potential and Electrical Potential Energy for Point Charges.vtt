@@ -1,0 +1,216 @@
+WEBVTT
+
+WEBVTT
+
+00:00.240 --> 00:05.450
+Did this example in a previous video we calculate the electrical potential energy.
+
+00:05.550 --> 00:13.050
+If I had a two micro cooling charge and a four micro cool ohm charge separated by three meters.
+
+00:13.050 --> 00:13.390
+All right.
+
+00:13.410 --> 00:19.050
+Well again now for there to be potential energy we need both of these charges to be there.
+
+00:19.100 --> 00:20.820
+And again this is a scalar quantity.
+
+00:20.820 --> 00:24.120
+This number could be positive if it was a positive a negative.
+
+00:24.120 --> 00:28.730
+We show examples where the potential energy could be negative.
+
+00:28.750 --> 00:33.630
+All right now the question is what happens if we only have one charge.
+
+00:33.630 --> 00:38.370
+Well if we only have one charge or we're gonna do is we're going to get rid of this one.
+
+00:38.400 --> 00:41.670
+Let's get rid of the four micro cooling for now.
+
+00:41.670 --> 00:42.030
+All right.
+
+00:43.240 --> 00:48.330
+Well if I only have one charge I mean I'm going to have to place some point here I'm going to call it
+
+00:48.390 --> 00:55.650
+a point P again if we only have one charge we don't have potential energy because there's only one charge.
+
+00:55.800 --> 01:00.420
+But again let's have a look at what the equation would look like if we only had one charge.
+
+01:00.420 --> 01:06.480
+Well now I'm going to call this quantity V which is different and I'm going to keep everything else
+
+01:06.480 --> 01:17.880
+the same k q 1 and divided by R KS the same Q would be the magnitude of this charge and R are now has
+
+01:17.880 --> 01:19.290
+a different meaning right.
+
+01:19.290 --> 01:25.670
+R is now the distance from the charge to the point where I want to evaluate this quantity V.
+
+01:25.830 --> 01:28.570
+This is what we call the electrical potential.
+
+01:30.420 --> 01:34.280
+And it's the electrical potential produced by a point charge.
+
+01:34.330 --> 01:35.820
+It's also very important.
+
+01:36.250 --> 01:36.540
+OK.
+
+01:36.570 --> 01:44.750
+So this is really this discussion I'm having here is four point charges so let's go ahead and calculate
+
+01:44.750 --> 01:49.220
+this value so we just substitute the values in there right.
+
+01:49.230 --> 01:56.040
+We have nine times 10 to the nine I have q one which is to micro Coolum
+
+01:59.290 --> 01:59.980
+and what else.
+
+01:59.980 --> 02:04.340
+Now I have to divide by three and that's it.
+
+02:04.390 --> 02:07.800
+So V at the end of the day is let me put that in the calculator nine.
+
+02:07.810 --> 02:14.110
+Each of the nine times to e to the negative six and divided by three.
+
+02:14.110 --> 02:18.090
+This gives me a number of six thousand.
+
+02:18.190 --> 02:20.410
+Now what are the units of this value.
+
+02:20.410 --> 02:28.600
+Well it's kind of like this equation and the potential energy was joules except I've removed one of
+
+02:28.600 --> 02:30.150
+the charges.
+
+02:30.250 --> 02:35.010
+Okay this is what we call a jewel per Coolum right.
+
+02:35.050 --> 02:44.230
+So this quantity V is how much energy you have per charge so let's just write this down as a V.
+
+02:44.710 --> 02:55.390
+The units of it are in jewels per Coolum and this means it's energy that we have per unit charge.
+
+02:55.580 --> 02:56.740
+We simplify this.
+
+02:56.770 --> 02:56.980
+OK.
+
+02:56.990 --> 02:58.520
+We give this a special name.
+
+02:58.520 --> 03:01.450
+This is what we call a Volt.
+
+03:01.770 --> 03:05.780
+And this is something that we're a little bit more familiar in everyday life.
+
+03:05.780 --> 03:06.920
+You hear this term a lot.
+
+03:06.920 --> 03:12.310
+Volts go volts is a unit of potential.
+
+03:12.370 --> 03:12.750
+Okay.
+
+03:12.770 --> 03:14.370
+So this is really really important.
+
+03:14.660 --> 03:21.590
+So a lot of times I'm just gonna write sic V equals to six thousand volts in this case.
+
+03:21.650 --> 03:22.370
+That's it.
+
+03:22.370 --> 03:23.590
+That's the same thing.
+
+03:23.600 --> 03:27.850
+So one jewel per cool ohm is equivalent to one volt.
+
+03:27.860 --> 03:33.770
+So the question is now all what if I know this electrical potential is six thousand right here.
+
+03:33.770 --> 03:36.470
+That's what we just calculated.
+
+03:36.480 --> 03:42.100
+Well I'm going to go ahead now and I'm going to place a nother charge right here at this position.
+
+03:42.260 --> 03:49.310
+This charge is going to have a value of 4 micro cooling similar to what we did before.
+
+03:49.370 --> 03:55.280
+How could I calculate what is the potential energy now in the system using the fact that I know I have
+
+03:55.280 --> 03:58.770
+six thousand volts at that point.
+
+03:58.910 --> 04:02.650
+So this is a really important equation right here.
+
+04:02.700 --> 04:09.380
+I think about it here I can write that the potential energy is if you look at the first part of my potential
+
+04:09.380 --> 04:10.760
+energy right here.
+
+04:11.180 --> 04:19.040
+This guy here is really what our volt equation was what the potential was do at the end.
+
+04:19.070 --> 04:26.750
+I can always write an electrical potential as a charge in this case if the charge for micro cooling
+
+04:27.170 --> 04:32.690
+multiplied by the electrical potential at that specific point.
+
+04:32.730 --> 04:37.990
+So in this case the formula would look like this I'm going to place a four micro cooling charge here
+
+04:38.750 --> 04:45.970
+10 to the negative 6 and I'm placing it at a position where the voltage or the electrical potential
+
+04:45.970 --> 04:52.610
+produced by this 2 Micro cooling charge is six thousand volts.
+
+04:52.860 --> 04:57.160
+I guess what we get at the end of the day we're going to get the same thing as we would is if we use
+
+04:57.160 --> 05:03.760
+the top equation right here and this number was zero point zero to four and that answer has to be in
+
+05:03.760 --> 05:08.220
+units of joules that is the potential energy.
+
+05:08.250 --> 05:08.490
+All right.
+
+05:08.520 --> 05:15.390
+So we've used we've introduced this concept and it's actually a really powerful because if we know the
+
+05:15.390 --> 05:22.530
+electrical potential anywhere in space if we know it's six thousand it's very very easy to calculate
+
+05:22.560 --> 05:26.790
+what the total energy is simply by multiplying by whatever charge we have here.

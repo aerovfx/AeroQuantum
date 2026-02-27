@@ -1,0 +1,208 @@
+WEBVTT
+
+00:00.120 --> 00:00.320
+All right.
+
+00:00.330 --> 00:04.440
+Let's have a look at parallel plates now parallel plates we've spent quite a bit of time looking at
+
+00:04.440 --> 00:05.130
+them.
+
+00:05.130 --> 00:11.850
+So let's assume that our top plate is positively charged and our bottom plate is negatively charged
+
+00:11.850 --> 00:15.500
+and these plates are separated by five centimeters.
+
+00:15.510 --> 00:15.720
+All right.
+
+00:15.720 --> 00:19.980
+One thing I know is that the electric field produced by parallel plates.
+
+00:19.980 --> 00:25.560
+Again if you're more or less in the center of the plates the electric field is uniform it's constant
+
+00:25.560 --> 00:26.550
+everywhere.
+
+00:26.630 --> 00:26.930
+Right.
+
+00:27.000 --> 00:29.600
+And it goes from positive toward negative.
+
+00:29.600 --> 00:35.330
+So this would be the electric field that would be the direction like this.
+
+00:35.340 --> 00:40.710
+So again if I wanted to let's assume here that we have a Y axis like this.
+
+00:41.760 --> 00:47.310
+Let's take this plate here to be at zero and this played here to be at positive five centimeters.
+
+00:47.370 --> 00:47.640
+All right.
+
+00:47.670 --> 00:53.650
+So my definition for electric field if I wanted to calculate it again it would be.
+
+00:53.940 --> 00:58.140
+What is the change of voltage relative to the change in position.
+
+00:58.780 --> 00:59.500
+OK.
+
+00:59.670 --> 01:09.380
+So again it's going to be the final minus V initial divided by in this case it's Y final minus Y initial.
+
+01:09.450 --> 01:09.720
+Okay.
+
+01:09.750 --> 01:14.820
+So that's what's going to be my final and my initial really doesn't matter this could be my initial
+
+01:14.820 --> 01:16.650
+and this here could be my final.
+
+01:16.680 --> 01:18.140
+Okay.
+
+01:18.810 --> 01:27.770
+So my final voltage is 30 volts minus the initial voltage which is negative 30 volts.
+
+01:28.010 --> 01:29.170
+OK.
+
+01:29.210 --> 01:32.270
+The final position is five centimeters
+
+01:35.510 --> 01:39.440
+five times tend to the negative two and minus zero.
+
+01:39.470 --> 01:39.710
+OK.
+
+01:39.740 --> 01:44.770
+So let's evaluate this determine the bracket over here it gives me positive 60 volts.
+
+01:44.780 --> 01:50.180
+That's the difference in voltage between the top and the bottom and there's a negative there.
+
+01:50.180 --> 01:50.390
+Right.
+
+01:50.390 --> 01:58.980
+So I should get negative 60 and divided by five times 10 to the negative two.
+
+01:58.990 --> 01:59.240
+OK.
+
+01:59.330 --> 02:07.190
+So to do this math here I would do kind of five over maybe 100 something like this and 60 over five
+
+02:07.190 --> 02:09.730
+gives me twelve.
+
+02:09.740 --> 02:16.040
+All right I think I did the math correctly or I should get 12 hundred and this would be volts per meter.
+
+02:16.040 --> 02:18.970
+Now this is really a field in the y direction.
+
+02:19.210 --> 02:25.100
+So the electric field in the y direction notice I get a negative sine the negative sine is simply telling
+
+02:25.100 --> 02:26.000
+me the direction
+
+02:30.050 --> 02:31.050
+of the electric field.
+
+02:31.380 --> 02:31.970
+Okay.
+
+02:32.060 --> 02:35.900
+And it is pointing down right my positive is pointing up here.
+
+02:35.900 --> 02:40.380
+That's the positive direction is the way I've defined it using this coordinate system right here.
+
+02:40.430 --> 02:40.710
+All right.
+
+02:40.940 --> 02:45.230
+And again if you're just worried about kind of what the magnitude of the field is all you have to do
+
+02:45.230 --> 02:51.700
+is just take the difference of voltage divided by the separation of the plates.
+
+02:51.710 --> 02:51.890
+Right.
+
+02:51.890 --> 02:53.300
+And you'd get twelve hundred.
+
+02:53.360 --> 02:57.020
+You don't have to worry about kind of having this extra negative sine we already know the direction
+
+02:57.020 --> 02:58.730
+of the electric field just by looking at it.
+
+02:59.750 --> 03:03.990
+So what would the equate potential surfaces look like now for this.
+
+03:04.010 --> 03:09.560
+Well again right between the plates if this one is positive 30 and this one is negative 30 right between
+
+03:09.560 --> 03:10.040
+the plates.
+
+03:10.040 --> 03:17.600
+Guess what I would get I would get a zero volts as I would go kind of a quarter of the way.
+
+03:17.780 --> 03:26.240
+That's what I would get positive 15 volts and as I go kind of a quarter of the way I would get minus
+
+03:26.240 --> 03:27.760
+15 volts.
+
+03:27.830 --> 03:30.900
+These are the echoey potential surfaces.
+
+03:30.920 --> 03:36.860
+They are perpendicular to all of the field lines and that's consistent with what we said and we would
+
+03:36.860 --> 03:43.010
+get the same electric field here even if we chose kind of this to be my starting point in this to be
+
+03:43.010 --> 03:44.700
+my final point okay.
+
+03:44.710 --> 03:50.990
+It really doesn't matter because here we'd have a change of 30 volts but we'd have let's just imagine
+
+03:50.990 --> 03:55.680
+we're going to do the calculation between initial and final point here.
+
+03:55.790 --> 04:03.920
+My delta v here would be 30 volts and the spacing difference now is over 2.5 centimeters.
+
+04:04.040 --> 04:09.300
+OK guys that's 2.5 centimeters times tend to the negative 2.
+
+04:09.330 --> 04:09.590
+All right.
+
+04:09.590 --> 04:14.720
+Again if you do the calculation you should get in the negative sign if you want to carry that in the
+
+04:14.720 --> 04:18.410
+front but you're going to get negative twelve hundred volts per meter.
+
+04:18.790 --> 04:24.410
+So it really doesn't matter whether you take the full distance or just half or even just a little bit
+
+04:25.040 --> 04:29.660
+because it varies linearly here with the electrical potential.

@@ -1,0 +1,148 @@
+WEBVTT
+
+00:00.120 --> 00:04.170
+I'll read Question Five says we have two tungsten wires with different cross sections.
+
+00:04.290 --> 00:10.080
+One is a the other one is to a different Currence they're shown here and at the end they want to know
+
+00:10.080 --> 00:16.180
+what is the ratio of the drift velocity of the particles in the second wire to that first wire.
+
+00:16.250 --> 00:16.540
+All right.
+
+00:16.560 --> 00:22.890
+So we're looking for VD that's the drif philosophy and we're basically given things about the geometry
+
+00:22.890 --> 00:27.530
+of the wire and information about the current flowing through it.
+
+00:27.540 --> 00:34.760
+So if you remember now that let's do a wire one over here call this wire two over here.
+
+00:34.760 --> 00:35.060
+All right.
+
+00:35.060 --> 00:39.810
+And really the equation we need is that the current How is that related to the drift velocity if you
+
+00:39.810 --> 00:47.880
+remember it was the number density and it was the charge of the electron multiplied by the cross-sectional
+
+00:47.880 --> 00:57.890
+area and multiplied by the drift velocity is how we related our current to that drift velocity of the
+
+00:57.890 --> 01:00.530
+electrons flowing down the wire.
+
+01:00.530 --> 01:05.720
+So the end is the number density is the charge of each electron.
+
+01:05.720 --> 01:12.390
+Both of these are going to be the same because we're talking about two tungsten wires so n is a material
+
+01:12.390 --> 01:16.160
+property is just the basic charge of the electron So that's the same for both.
+
+01:16.350 --> 01:17.870
+So what are really doing then.
+
+01:17.910 --> 01:22.840
+And we want to know the drift velocity so let's just isolate the drift philosophy for wire 1.
+
+01:22.920 --> 01:28.110
+So we have that the drift velocity here is going to be equal to the current the current is simply I
+
+01:29.950 --> 01:37.680
+see over this one here it's simply an email divided by the cross-sectional area.
+
+01:37.750 --> 01:43.550
+Now for the second wire the drift velocity in this case the current now is four.
+
+01:43.550 --> 01:45.730
+I.
+
+01:45.980 --> 01:46.400
+What else.
+
+01:46.430 --> 01:48.230
+And an e remain the same.
+
+01:48.230 --> 01:52.330
+And now the cross-section is to a.
+
+01:52.460 --> 01:56.650
+So this one here we could simplify this a little bit at the end the expression becomes two.
+
+01:57.020 --> 02:03.830
+And again I and E multiplied by a I just divided for over two and just took that term outside.
+
+02:04.130 --> 02:08.080
+So you see at the end now what we're left with if we're asked for the drift velocity of the second wire
+
+02:08.120 --> 02:12.290
+this one divided by this one which you're going to end up doing now is we're going to end up getting
+
+02:12.290 --> 02:14.860
+the value of two because it's two times bigger.
+
+02:15.200 --> 02:16.540
+So that's it for number five.
+
+02:18.570 --> 02:23.940
+All right here's number six says the following graphs represent the resistivity as a function of the
+
+02:23.940 --> 02:25.650
+absolute temperature.
+
+02:25.650 --> 02:31.560
+Keep that in mind as a function of temperature which are the graph shows the resistivity change of a
+
+02:31.560 --> 02:33.110
+metallic wire.
+
+02:33.330 --> 02:33.680
+All right.
+
+02:33.690 --> 02:39.120
+So metal what happens when I increase the temperature it is the resist Dev-T change.
+
+02:39.120 --> 02:40.950
+Or does it get lower or does it get bigger.
+
+02:40.960 --> 02:43.090
+What certainly doesn't stay constant.
+
+02:43.160 --> 02:45.300
+It's actually just crossed that one out.
+
+02:45.710 --> 02:50.280
+All right this means that the resistivity would not depend on the temperature and you should remember
+
+02:50.280 --> 02:56.470
+from the class that for metals the resistivity increases with temperature so can't be that one it's
+
+02:56.590 --> 02:58.130
+really can't be this one.
+
+02:58.150 --> 03:03.150
+All right so we're left with both of those and this was one of the properties that as you increase the
+
+03:03.150 --> 03:09.360
+temperature over a pretty broad range for most metals you can get a linear dependence which means that
+
+03:09.360 --> 03:14.480
+the resistivity is proportional to the absolute temperature.
+
+03:14.770 --> 03:16.220
+OK.
+
+03:16.290 --> 03:19.320
+So there you have it folks so this one.
+
+03:19.320 --> 03:23.460
+Just knowing a little bit of how material properties change with temperature you'd be able to answer
+
+03:23.460 --> 03:24.010
+that question.

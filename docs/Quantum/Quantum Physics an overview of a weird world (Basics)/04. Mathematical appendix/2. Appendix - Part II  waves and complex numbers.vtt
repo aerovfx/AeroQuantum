@@ -1,0 +1,663 @@
+WEBVTT
+
+WEBVTT
+
+00:00.060 --> 00:06.900
+Here, a very important chapter of our little and fast overview of the mathematical.
+
+00:07.930 --> 00:09.370
+Basics that we need.
+
+00:10.610 --> 00:19.370
+In this cause and this are the trigonometric functions and waves, so let us briefly take a look to
+
+00:19.370 --> 00:24.400
+the formalism that describes waves and is used extensively in quantum mechanics.
+
+00:26.090 --> 00:32.880
+If you are already acquainted with trigonometry and complex numbers, you can, of course, skip all
+
+00:32.900 --> 00:35.900
+this section as all of this appendix.
+
+00:36.080 --> 00:43.940
+However, I think it is important to agree, at least on some basic notions and conventions on the symbolism
+
+00:43.970 --> 00:54.590
+that will be used throughout this course here will lay the foundations for the most basic and elementary
+
+00:54.590 --> 01:02.470
+descriptions of the wave and intemperance phenomena which are ubiquitous in quantum physics.
+
+01:02.480 --> 01:11.660
+And this will also open for us the way on the concept to the concept of the wavefunction and notion
+
+01:11.660 --> 01:16.190
+of paramount importance in all quantum physics discussions.
+
+01:17.870 --> 01:25.820
+You may recall from your school math classes, some to grant trigonometry and how the cosine and sine
+
+01:25.820 --> 01:33.950
+functions resemble, well, a periodic oscillation that is, so to speak, a wavy movement.
+
+01:36.610 --> 01:45.700
+Be it an electromagnetic wave, a sound wave, a water wave or any wave motions or perturbations, they
+
+01:45.700 --> 01:49.420
+can easily be described by sine cosine functions.
+
+01:50.260 --> 01:54.160
+There are, however, notable exceptions, for example.
+
+01:55.080 --> 02:04.620
+Waves in shallow water and so on, which are not cosine functions, but however and for most applications,
+
+02:04.980 --> 02:13.500
+the so-called cosine function that is to trigonometric functions serve well, that to the default for
+
+02:13.500 --> 02:21.780
+our description of the real world, the red curve shows the sine function where the blue one is the
+
+02:21.780 --> 02:22.720
+cosine function.
+
+02:23.880 --> 02:26.010
+Both have the same domain.
+
+02:26.910 --> 02:31.810
+That is, they are both traced along the X axis.
+
+02:32.910 --> 02:40.800
+This x axis could represent a spatial, temporal or angular or any other kind of physical magnitude.
+
+02:42.100 --> 02:51.420
+For example, just think of time passing by along the X axis where you put seconds or minutes or hours
+
+02:53.070 --> 02:53.900
+in this figure.
+
+02:53.910 --> 03:03.930
+Instead, the x axis represents the angular radiance value radians take take the value from zero to
+
+03:03.930 --> 03:13.830
+two pi instead of the angles in degrees from zero to 360 degrees and has been here subdivided in steps
+
+03:13.830 --> 03:15.450
+of PI force.
+
+03:17.290 --> 03:27.970
+The head of the wave at the specific value for X SCIEX is plotted on the vertical axis and is simply
+
+03:27.970 --> 03:31.450
+called the magnitude magnitude of a wave.
+
+03:33.300 --> 03:40.530
+The choice of the Greek letter BPCI is not a coincidence, it is the famous and most used letter in
+
+03:40.530 --> 03:42.690
+all textbooks on quantum mechanics.
+
+03:44.600 --> 03:51.520
+The maximum and minimum hate for sine and cosine functions are plus and minus one, respectively.
+
+03:53.650 --> 04:01.420
+Now, what distinguishes the two waves or the two functions is that they are shifted relative to each
+
+04:01.420 --> 04:05.560
+other along the horizontal x axis, as you can see.
+
+04:06.440 --> 04:13.830
+Otherwise, they are perfectly the same object, how much a wave is shifted relative to the other?
+
+04:14.660 --> 04:18.120
+Is that what determines their relative phase?
+
+04:18.570 --> 04:20.180
+That's a notion of phase.
+
+04:20.190 --> 04:26.480
+That's how two waves are displaced or shifted relative to each other.
+
+04:27.530 --> 04:36.600
+The sine function, if nothing else, then the cosine function shifted by a phase difference of minus
+
+04:36.710 --> 04:39.550
+P half or vice versa.
+
+04:39.980 --> 04:44.270
+The cosine is sine shifted by plus behav.
+
+04:46.630 --> 04:54.490
+Notice that the concept of face is a relative notion, not an absolute one, the face of a wave must
+
+04:54.490 --> 04:59.490
+be determined relative to another wave or against a fixed reference.
+
+05:00.970 --> 05:06.270
+For example, this reference can be another wave or as it is done, usually relative to an origin.
+
+05:06.610 --> 05:11.690
+The intersection between between the two axis at X equals zero.
+
+05:13.570 --> 05:20.620
+Moreover, an important aspect that differs the two functions and will turn out to be useful throughout
+
+05:21.010 --> 05:25.270
+this course is that the cosine is a symmetric function.
+
+05:25.960 --> 05:35.200
+That is, it is symmetric with respect to the reflection along the Y axis or its values are equal on
+
+05:35.200 --> 05:42.970
+the right and left hand side to the to the origin, whereas the sine function is a. symmetric.
+
+05:44.160 --> 05:48.840
+Which means that it has a point symmetry with respect to the origin.
+
+05:49.770 --> 05:57.990
+Or its values are opposite on the right and left hand side with respect to the origin.
+
+06:00.270 --> 06:08.580
+And this figure, we can see a wave that is described by cosine function with the x axis no longer an
+
+06:08.580 --> 06:12.540
+angle in radians, but having the dimension of a spatial quantity.
+
+06:13.490 --> 06:22.130
+The x axis in meters is now meters, centimeters, etc., and with a phase shift relative to the spatial
+
+06:22.130 --> 06:27.470
+origin that is with the same phase angle, V added.
+
+06:30.320 --> 06:39.200
+This space dependent function traces a graph of a wave along the space of the x axis and oscillating
+
+06:39.200 --> 06:42.890
+a certain number of times per space unit.
+
+06:44.400 --> 06:51.360
+This letter, this letter aspect is accounted by the so-called wave number or wave vector, which is
+
+06:51.360 --> 06:58.030
+given by the letter K equal to PI over Lambda.
+
+06:59.460 --> 07:00.870
+Therefore, the quantity.
+
+07:01.770 --> 07:09.570
+K times X is proportional, proportional to a number that tells us how many times a wave of wave length
+
+07:09.660 --> 07:14.340
+wave length lambda can be arranged into a space interval X.
+
+07:15.430 --> 07:25.300
+Times two by The Factor two, PI service serves a purpose to obtain an expression given in radians.
+
+07:27.180 --> 07:35.370
+Then the graph of a wave moving along an x axis in space was initial phase five.
+
+07:36.280 --> 07:52.700
+And with no Kay is given by this little expression, CI of X equals zero times cosine function of K,
+
+07:52.750 --> 08:01.740
+X plus five where size zero represents the maximum value of the oscillator oscillatory movement.
+
+08:02.230 --> 08:10.090
+It is the the amplitude that we expressed previously.
+
+08:10.480 --> 08:16.260
+We I spoke about previously, it is the amplitude of the wave, no longer unity.
+
+08:16.570 --> 08:24.310
+As for the side and cosine function, but any possible value notice that a positive value for the Phase
+
+08:24.310 --> 08:33.280
+V shift the cosine function backwards from the right to the left, whereas a negative value from the
+
+08:33.280 --> 08:34.650
+left to the right.
+
+08:35.320 --> 08:35.450
+Hmm.
+
+08:36.020 --> 08:42.160
+So that's the plus or minus sine determines in which direction the.
+
+08:44.140 --> 08:46.450
+This mathematical wave moves.
+
+08:48.530 --> 08:52.650
+However, real waves are not just frozen grass.
+
+08:52.970 --> 09:00.700
+They move with time passing by to account for the temporal evolution of a travelling wave.
+
+09:01.070 --> 09:09.020
+Another non-negative face term, which changes with time, is added to the description of a wave making
+
+09:09.020 --> 09:12.310
+the graph move towards the right direction.
+
+09:14.470 --> 09:24.640
+Just like here, you see that the blue dot oscillating up and down and the peaks moving from the left
+
+09:24.640 --> 09:27.160
+to the right with time passing by.
+
+09:30.530 --> 09:38.780
+To every periodically oscillating phenomenon, we associate a frequency, the number of oscillations
+
+09:39.530 --> 09:40.550
+time unit.
+
+09:42.000 --> 09:47.790
+The international unit standard for the frequency is the Hertz.
+
+09:48.910 --> 09:57.860
+That is written in shorthand as a Unit H said, which is the number of oscillations per second.
+
+09:58.650 --> 10:08.730
+And is labeled with a Greek letter, no, for example, no equal 50 hertz means 50 oscillations per
+
+10:08.730 --> 10:09.300
+second.
+
+10:11.730 --> 10:22.710
+One then defines as Omega, this Greek letter here, equal to PI, no, as as the angular frequency,
+
+10:23.280 --> 10:28.860
+the frequency times two pi with which the wave oscillates.
+
+10:30.660 --> 10:38.730
+The quantity of Omega times t is proportional to a number that tells us how many times a wave of frequency,
+
+10:38.730 --> 10:46.230
+new oscillates and terror in the time interval, 30 times to PI, as usual.
+
+10:47.820 --> 10:50.850
+One might consider it also a temporary phase shift.
+
+10:52.370 --> 10:55.790
+As the wave no accounts for the spatial coordinates.
+
+10:56.800 --> 11:07.630
+OK, times X, the angular frequency accounts for the temporal displacement olmeda times to a real wave
+
+11:08.080 --> 11:20.680
+of amplitude zero wave number K and initial phase V can therefore be represented by a two valued function
+
+11:21.850 --> 11:29.320
+CI of X T equal size, zero times cosine.
+
+11:30.160 --> 11:35.470
+OK, X minus Omega, T plus five.
+
+11:36.800 --> 11:43.100
+And which depends both from a space coronate X at a time Paramatta T.
+
+11:45.410 --> 11:48.200
+The negative sign in front of the angular frequency.
+
+11:49.120 --> 11:53.590
+Assures that the wave moves from the left to the right.
+
+11:54.830 --> 11:55.140
+Hmm.
+
+11:57.270 --> 12:05.280
+With this general expression for a wave, one can describe any physical wave movement phenomenon in
+
+12:05.280 --> 12:05.790
+physics.
+
+12:07.230 --> 12:13.860
+This equation is the most common mathematical description of oscillatory phenomena.
+
+12:17.490 --> 12:26.520
+Let us now go over to another very important chapter of the mathematical description of quantum mechanics,
+
+12:27.330 --> 12:28.140
+which is the.
+
+12:29.150 --> 12:36.950
+That of complex numbers, complex numbers are and complex, complex functions are used everywhere in
+
+12:36.950 --> 12:37.850
+quantum mechanics.
+
+12:39.850 --> 12:41.080
+Why complex numbers?
+
+12:41.980 --> 12:48.400
+Well, for the simple reason that they are nowadays used everywhere in science where waves come into
+
+12:48.400 --> 12:48.730
+play.
+
+12:50.090 --> 12:56.310
+Moreover, as we shall see, the concept of the wavefunction is a complex, valued function.
+
+12:57.530 --> 13:02.810
+So let us see first where the where the idea of complex numbers comes from.
+
+13:04.370 --> 13:11.420
+Historically, it was because mathematicians tried to solve equations where the square root of a negative
+
+13:11.420 --> 13:13.520
+number could furnish a solution.
+
+13:14.440 --> 13:16.270
+For example, this one.
+
+13:17.280 --> 13:20.380
+Alpha squared plus one equals zero.
+
+13:21.870 --> 13:31.830
+This can be solved only if we admit the existence of a number called the the imaginary number I and
+
+13:31.830 --> 13:34.920
+which is the square root of minus one.
+
+13:36.340 --> 13:41.380
+Here, alpha equals I equals square root of minus one.
+
+13:42.890 --> 13:48.980
+Inserted and you see, obviously, that it is a solution, but also other equations, for example,
+
+13:48.980 --> 13:58.400
+the cubic cubic polynomial equation like this one eight times cubic ULFA plus B.
+
+13:59.380 --> 14:08.770
+Alpha squared, plus see Alpha plus the equals zero with A, B, C, the some real coefficients, this
+
+14:08.770 --> 14:17.140
+equation requests a solution that is given by a more general, complex number which usually is labeled
+
+14:17.470 --> 14:26.080
+with the number that in general, any complex number that is the sum of a conventional real part X and
+
+14:26.080 --> 14:37.180
+written as real of Z plus another imaginary part erm offset and which is the imaginary number times
+
+14:37.480 --> 14:45.250
+another real value y that is that is equal X plus ie times Y.
+
+14:46.090 --> 14:49.010
+Where X and Y are just real numbers.
+
+14:49.270 --> 14:58.150
+But why is multiplied by the imaginary number, which is the square root of minus one?
+
+14:59.700 --> 15:07.890
+This means that we can represent any complex number also graphically on a Cartesian x y plane.
+
+15:09.000 --> 15:11.520
+That is the so-called complex plane.
+
+15:14.400 --> 15:22.050
+In this complex plane, the real part of any complex numbers given on the horizontal x axis, while
+
+15:22.330 --> 15:25.680
+the imaginary part on the Y axis.
+
+15:27.910 --> 15:34.600
+Notice that instead of using the Cartesian x y coordinate axis, it is also possible to represent the
+
+15:34.600 --> 15:45.250
+same complex number with Ray Vector R capital letters R and its corresponding angle teta teta, the
+
+15:45.250 --> 15:51.100
+Greek letter teta as shown by the upper red vector.
+
+15:51.100 --> 16:00.070
+And this figure here, which means that we can represent any complex number resorting to trigonometric
+
+16:00.070 --> 16:03.190
+functions, the sign and cosine functions.
+
+16:04.280 --> 16:11.420
+So we recovered something that we use later, because any complex numbers, real parts value along the
+
+16:11.420 --> 16:17.920
+X axis can be represented by the X equal real part of that, which is nothing else.
+
+16:17.930 --> 16:22.370
+There are times cosine of theta.
+
+16:23.090 --> 16:31.970
+While it's in the imaginary part, value along the Y axis is y equal.
+
+16:32.910 --> 16:39.000
+Imaginary part of that equal ah times sent a sign of data.
+
+16:41.480 --> 16:46.490
+Putting this together and a complex number can be represented, as said.
+
+16:47.660 --> 16:54.650
+Equal X plus Y equals the Rivette, there are times.
+
+16:55.610 --> 16:57.380
+The square back in square brackets.
+
+16:58.580 --> 17:01.970
+Cosine of Theta plus I sign Detta.
+
+17:04.390 --> 17:11.980
+It is customary among physicists and mathematicians to write this in an equivalent, but more compact
+
+17:11.980 --> 17:21.880
+form by using the exponential function that is the so-called oilor number and which has a precise value
+
+17:22.520 --> 17:26.010
+equal to point seven, one, eight and so on.
+
+17:26.020 --> 17:27.810
+It is an irrational number.
+
+17:28.120 --> 17:33.400
+It has an infinite number of delegates and the expression.
+
+17:34.800 --> 17:41.250
+E to the power I take to represent the unitary circle in the complex plane.
+
+17:42.300 --> 17:54.330
+That is the circle of radius are equal one and which crosses the x axis at plus minus one and the Y
+
+17:54.330 --> 18:05.520
+axis at the imaginary numbers plus minus I, that is when one sets are equal one and theta equal plus
+
+18:05.520 --> 18:07.040
+minus by half.
+
+18:08.430 --> 18:16.410
+Then one obtains the so-called oilor formula discovered by the famous Swiss mathematician Leonid Euler
+
+18:16.800 --> 18:25.620
+in the 16th century and which reads E to the power I theta equal.
+
+18:26.790 --> 18:30.660
+Because cosine of Theta plus I sign Detta.
+
+18:32.920 --> 18:37.810
+The important numbers to keep in mind are especially e to the power.
+
+18:38.950 --> 18:50.560
+Zero equals one E to the power plus minus I pay half equals plus minus I e to the power plus minus I
+
+18:50.560 --> 18:52.900
+p equals minus one.
+
+18:54.700 --> 19:03.100
+Therefore, any complex number can be represented also by set equal R times E to the power Eita and
+
+19:03.100 --> 19:03.460
+from.
+
+19:04.420 --> 19:06.070
+That follows.
+
+19:07.730 --> 19:20.450
+X equal real part of our times, E to the power eita equal R Times commentator Y equal imaginary part
+
+19:21.510 --> 19:28.730
+all of our times e to the power I teta equal air are sign detta.
+
+19:31.370 --> 19:38.000
+Another concept you will frequently find in news in the complex, no formalism is a complex conjugate.
+
+19:39.770 --> 19:43.280
+The complex conjugate is that of that.
+
+19:44.320 --> 19:53.230
+Equal X plus I y is nothing else than this number here reflected across the X axis.
+
+19:54.470 --> 20:04.280
+The Red River below the x axis, it is obtained only by changing the sign on the imaginary part on the
+
+20:04.520 --> 20:16.580
+angle theta, as said Star Star stands for the complex conjugate said star equals X minus eye times
+
+20:16.580 --> 20:24.620
+Y, and which is equal are the vector times oil and number to the power minus I.
+
+20:25.650 --> 20:26.700
+TimeStep.
+
+20:28.920 --> 20:35.010
+The complex conjugate that is usually written with a star or bar symbol of a satellite that starts at
+
+20:35.010 --> 20:38.370
+Spart will use the star here.
+
+20:40.020 --> 20:48.570
+This is usually very useful to obtain the the absolute value of any complex number.
+
+20:48.620 --> 20:54.480
+Therefore, we have to distinguish between the absolute values of real numbers that we have seen.
+
+20:54.810 --> 21:01.110
+You take just a square root of the or the number square instead.
+
+21:01.260 --> 21:03.300
+It's a little bit more tricky.
+
+21:05.910 --> 21:16.830
+An easy and quick way to remember and to imagine the absolute value of a complex number is just think
+
+21:17.130 --> 21:25.530
+at the rate vector are capital letter are, which is nothing less than the length of this vector.
+
+21:25.560 --> 21:28.780
+This is the absolute value in the complex plane.
+
+21:29.940 --> 21:41.130
+If we define as the squared modulus of a complex number as model of squared of Z equals, said Times,
+
+21:41.130 --> 21:41.940
+said Star.
+
+21:43.080 --> 21:51.660
+And that is the complex number of times its own complex conjugate, and if you want to buy yourself
+
+21:51.660 --> 21:59.500
+a quick calculation, you will realize that the model A squared offset equals said times.
+
+21:59.540 --> 22:12.570
+That star equals are times e to the power I teta times are times e power minus I teta to equal.
+
+22:13.970 --> 22:27.410
+X plus I Y times X minus I Y, and this gives X squared plus plus Y squared and which is R-squared,
+
+22:28.010 --> 22:37.190
+Kazantsev squared plus sine squared as shown here, and which finally gives the square of the array
+
+22:37.190 --> 22:37.730
+vector.
+
+22:39.540 --> 22:44.460
+And the last step, because of the turmoil in the square brackets being Alwis unit.
+
+22:46.820 --> 22:53.870
+This means also that the rave act or are is the models of the complex number are equal said.
+
+22:55.080 --> 23:05.010
+Absolute value, some of you may have noticed that this is the good old Pythagorean theorem, X and
+
+23:05.010 --> 23:10.950
+Y are the legs and R is the hypotenuse of a right triangle.
+
+23:12.910 --> 23:18.960
+We shall see why the concept of the square models of a complex number is so important in quantum mechanics,
+
+23:19.900 --> 23:27.310
+it turns out it will turn out to be the measure for the probability that an event in the quantum world
+
+23:27.520 --> 23:28.270
+occurs.
+
+23:30.450 --> 23:35.080
+Complex numbers are well suited to represent functions of waves.
+
+23:35.340 --> 23:44.430
+This is not surprising when we think how the complex Reflektor of length our are spending with some
+
+23:44.820 --> 23:46.140
+angular speed.
+
+23:46.320 --> 23:54.150
+The complex circle can represent an oscillatory movement if we if we project.
+
+23:55.420 --> 24:04.660
+Are on the x axis, just like we did on the y axis with a blue dot of the previous figure oscillating
+
+24:04.660 --> 24:05.500
+up and down.
+
+24:07.370 --> 24:15.260
+From this equation, which represents just the projection of the array or are on the x axis.
+
+24:17.860 --> 24:23.920
+And recalling how the travelling wavefunction was constructed.
+
+24:25.040 --> 24:35.390
+We show it here again and we will place the Ray Rector are with the amplitude of the waves side zero.
+
+24:36.580 --> 24:45.520
+This one, while it's oilor angle, theta, is replaced by the spatial and temporal evolution and the
+
+24:45.610 --> 24:48.170
+and the initial phase of the wave function.
+
+24:48.610 --> 24:53.920
+This part here and insert it in the.
+
+24:54.960 --> 25:05.430
+Formula in this formula, then the real part of the complex ray vector gives this as a result where
+
+25:05.430 --> 25:11.310
+we have expressed the mathematical formulation of the traveling wave we have seen before.
+
+25:13.090 --> 25:15.160
+With the oil afunction.
+
+25:16.930 --> 25:25.090
+For compactness, however, physicists and mathematicians used to describe waves or any oscillatory
+
+25:25.090 --> 25:33.100
+and periodic phenomenon that can be described by sign of cosine function as complex numbers without
+
+25:33.100 --> 25:44.840
+taking the real part simply as this one with a pure expression or where the oil function comes in.
+
+25:46.990 --> 25:54.430
+This makes calculations easier, and once a result is obtained, one takes the real path to get an expression
+
+25:54.430 --> 25:55.420
+in real numbers.
+
+25:57.220 --> 26:04.180
+The point in using complex numbers to describe waves, therefore, is that they can retain a phase in
+
+26:04.180 --> 26:12.640
+space and time with some formal advantages over the real trigger on a trigonometric functions.

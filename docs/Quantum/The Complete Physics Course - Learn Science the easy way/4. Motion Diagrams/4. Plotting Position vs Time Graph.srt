@@ -1,0 +1,143 @@
+1
+00:00:00,570 --> 00:00:06,810
+So the instruction tell us to create the plot on the position versus time graph, then calculate the
+
+2
+00:00:06,810 --> 00:00:10,260
+velocities and plot them on the velocities first time graph.
+
+3
+00:00:10,530 --> 00:00:17,340
+So the given information is we are at home right now and it says location on the right hand side.
+
+4
+00:00:17,470 --> 00:00:22,090
+That home is located at position of zero meters.
+
+5
+00:00:22,640 --> 00:00:26,490
+We're in a rush to get to the grocery store in 15 minutes.
+
+6
+00:00:26,530 --> 00:00:30,720
+OK, so it's going to take us 15 minutes to get to the grocery store, which is located at the position
+
+7
+00:00:30,720 --> 00:00:31,680
+of 60.
+
+8
+00:00:32,520 --> 00:00:37,230
+We're going to shop for food for ten minutes at the grocery store, which is that position 60.
+
+9
+00:00:37,620 --> 00:00:41,910
+And we're no longer in a rush to get to our friend's house, which is a 10 minute drive.
+
+10
+00:00:42,250 --> 00:00:44,720
+The friend's house is at the position 40.
+
+11
+00:00:45,270 --> 00:00:51,600
+So I'm just going to take these and just plot them notes that we have position in the Y axis and time
+
+12
+00:00:51,600 --> 00:00:53,840
+in minutes on the X axis.
+
+13
+00:00:54,360 --> 00:00:56,780
+So we're at home right now, which is position zero.
+
+14
+00:00:56,820 --> 00:01:01,830
+That's the reason why we're starting over here, is because we're at position zero at zero minutes.
+
+15
+00:01:02,250 --> 00:01:07,610
+So if you're looking at the X axis, you have five right here, 10, 15.
+
+16
+00:01:07,740 --> 00:01:11,580
+OK, so in 15 minutes, we're going to be going to the grocery store.
+
+17
+00:01:11,910 --> 00:01:16,590
+So we're in a rush to get to the grocery store, which is a position of 60 meters.
+
+18
+00:01:16,770 --> 00:01:19,470
+OK, so we have our 60 meters over here.
+
+19
+00:01:19,470 --> 00:01:20,880
+We have a 15 minutes over here.
+
+20
+00:01:21,150 --> 00:01:23,520
+Let's just drive dot right there.
+
+21
+00:01:24,450 --> 00:01:30,630
+All right, so this is looking good right now, we're in the creation process of our motion diagram
+
+22
+00:01:30,930 --> 00:01:35,170
+and we're going to be spending 10 minutes shopping for food at the grocery store.
+
+23
+00:01:35,400 --> 00:01:40,400
+So keep in mind that each one of these tick marks, it represents five minutes.
+
+24
+00:01:40,860 --> 00:01:44,460
+So we're going to be spending 10 minutes here at the grocery store.
+
+25
+00:01:45,330 --> 00:01:51,360
+Apposition, 60, so we're now leaving the grocery store and we're going to our friend's house, which
+
+26
+00:01:51,360 --> 00:01:56,820
+is located at position 40, and it's going to take us 10 minutes to get there.
+
+27
+00:01:57,180 --> 00:02:04,260
+OK, so we're over here right now and it's going to take us 10 minutes to get there over at position
+
+28
+00:02:04,260 --> 00:02:04,800
+40.
+
+29
+00:02:06,040 --> 00:02:09,110
+So we're just to draw another dot right here.
+
+30
+00:02:10,270 --> 00:02:12,490
+Don't look at this 40 and say, hey, you know what?
+
+31
+00:02:12,500 --> 00:02:13,640
+Oh, that's 40.
+
+32
+00:02:13,690 --> 00:02:19,600
+So therefore, we're going to go there because keeping in mind that this is time and this is our position.
+
+33
+00:02:21,350 --> 00:02:26,630
+So we want to go to the position of 40 and we're just going to draw our line over here and now I know
+
+34
+00:02:26,630 --> 00:02:30,620
+that does say this in the instructions, but we're just coming hang out our friends house, watching
+
+35
+00:02:30,620 --> 00:02:32,240
+the football game, doing whatever.
+
+36
+00:02:32,480 --> 00:02:37,580
+So this is our position versus time graph for our motion diagram.

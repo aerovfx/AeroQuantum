@@ -1,0 +1,318 @@
+WEBVTT
+
+WEBVTT
+
+00:00.520 --> 00:07.680
+All right example three Here is a short kind of conceptual problem involves combination of resistors
+
+00:07.680 --> 00:09.370
+in series and in parallel.
+
+00:09.540 --> 00:15.960
+And we have two questions it says given the circuit over here with many resistors we have six one single
+
+00:15.960 --> 00:17.390
+battery over here.
+
+00:17.400 --> 00:23.780
+First question is which resistor is if any are connected in series.
+
+00:23.820 --> 00:26.990
+How can we find which ones are connected in series.
+
+00:27.000 --> 00:31.620
+Well remember if something is in series I mean you had like kind of simple examples right if we had
+
+00:31.620 --> 00:35.190
+something like this and something like this.
+
+00:35.190 --> 00:38.680
+I mean those ones are clearly in series with each other.
+
+00:38.700 --> 00:42.720
+Now clearly this example doesn't have any of these super easy cases.
+
+00:43.260 --> 00:48.900
+However one thing that's common about something that is in series imagine here if I introduce two points
+
+00:50.190 --> 00:58.820
+A and B if they are in series it means that the current flowing through them necessarily has to be the
+
+00:58.820 --> 01:01.640
+same because the electrons have nowhere else to go.
+
+01:01.640 --> 01:04.270
+There is only a single path.
+
+01:04.280 --> 01:09.920
+In other words there is only a single branch if they are in series with one another.
+
+01:10.010 --> 01:11.520
+So let's have a look at all the branches.
+
+01:11.520 --> 01:13.090
+So how many branches do we have.
+
+01:13.090 --> 01:13.970
+Number one.
+
+01:13.970 --> 01:15.650
+Let's go ahead maybe highlight some of those.
+
+01:15.650 --> 01:16.650
+See if I can do this.
+
+01:16.660 --> 01:19.070
+So here the branch there is won.
+
+01:19.280 --> 01:19.970
+What else.
+
+01:20.030 --> 01:22.070
+Here's another branch down here.
+
+01:23.180 --> 01:25.100
+Maybe a third or another one over here.
+
+01:25.130 --> 01:27.730
+Go down here all the way to the point C.
+
+01:27.750 --> 01:30.780
+And then what else is another branch over here.
+
+01:31.340 --> 01:35.850
+And I don't know one more down here through the diagonal.
+
+01:35.900 --> 01:39.020
+So these are all the branches to this circuit.
+
+01:39.110 --> 01:42.450
+We have one two three four five.
+
+01:42.500 --> 01:48.230
+We have five different branches to the circuit and now we have to identify are there resistors on the
+
+01:48.230 --> 01:49.670
+same branch.
+
+01:50.030 --> 01:55.940
+If you start with the orange highlighted one now although there is a battery in between them that really
+
+01:55.940 --> 02:01.520
+doesn't matter because even in the simple case if I had a battery kind of located right at the midpoint
+
+02:01.520 --> 02:06.890
+here between both of them these two would still be in series because the current flowing through them
+
+02:06.890 --> 02:08.830
+would have to be the same.
+
+02:08.990 --> 02:17.360
+So the resistors that are in series we have to have that are 1 and are six are in series with one another
+
+02:20.400 --> 02:21.990
+anything else.
+
+02:22.020 --> 02:25.210
+Now you might be tempted to try to combine some of these other ones however.
+
+02:25.380 --> 02:27.890
+They're all on different branches right.
+
+02:27.910 --> 02:31.490
+And there is no guarantee that the current flowing through them is going to be the same.
+
+02:31.830 --> 02:32.630
+OK.
+
+02:33.090 --> 02:36.990
+So these ones are definitely certainly not in series with each other.
+
+02:37.440 --> 02:42.010
+So this is really the only pair of resistors that are in series with each other.
+
+02:42.060 --> 02:49.120
+So here I'd be able to combine our one in our six by 1 equivalent resistor simply equal to the sum.
+
+02:49.170 --> 02:49.660
+All right.
+
+02:49.740 --> 02:54.510
+How about KSB which ones are connected in parallel to each other.
+
+02:54.740 --> 03:01.140
+Now for the parallel case or really what I would really suggest with some of these circuits and sometimes
+
+03:01.140 --> 03:06.150
+they try to do something like this on the right hand side is they try to make it more complicated than
+
+03:06.150 --> 03:06.820
+it is.
+
+03:06.990 --> 03:11.310
+So let me kind of clean this up a little bit here okay.
+
+03:11.490 --> 03:14.220
+Yeah they sometimes they draw some resistors and diagonal.
+
+03:14.220 --> 03:19.350
+One thing you have to remember is that these wires here at least in these ideal circuits they dont have
+
+03:19.350 --> 03:24.840
+any resistance which means you can make them longer or you can make them shorter or you can deform this
+
+03:24.840 --> 03:29.970
+as long as you don't change kind of the topology of the circuit you're going to get the same answer.
+
+03:29.970 --> 03:31.620
+So let me show you what I mean by that.
+
+03:31.620 --> 03:35.880
+So imagine if I redraw the circuit kind of quickly here just do it in black.
+
+03:35.880 --> 03:37.830
+But here's our one.
+
+03:37.950 --> 03:39.390
+Let's keep that in the same.
+
+03:39.390 --> 03:44.070
+Let's draw a more kind of in Cartesian form get rid of that diagonal I think is what I really want to
+
+03:44.070 --> 03:47.470
+get to let's draw our six down here.
+
+03:47.850 --> 03:48.230
+OK.
+
+03:48.240 --> 03:52.370
+So here we have our two here we have our six.
+
+03:52.980 --> 03:53.340
+All right.
+
+03:53.340 --> 03:54.870
+Now this is point D down here.
+
+03:54.860 --> 03:58.940
+Now if I extend point the I'm going to keep our 5 or 8 where it is.
+
+03:59.020 --> 04:01.330
+That's this one over here are five.
+
+04:01.870 --> 04:06.460
+Now instead of kind of launching these three kind of from the same point really what I'm going to do
+
+04:06.460 --> 04:08.090
+is I can extend this.
+
+04:08.410 --> 04:14.470
+I can extend this a little bit this way and I know that are four can kind of connect after our 5 over
+
+04:14.470 --> 04:15.840
+here here's pt. s..
+
+04:16.210 --> 04:16.880
+And it goes.
+
+04:16.880 --> 04:22.330
+Now although point B is here I can make this wire longer and it really doesn't change anything here.
+
+04:23.250 --> 04:26.760
+And I can put our For like this.
+
+04:26.810 --> 04:29.950
+This is our 4 and now I'm left with.
+
+04:30.050 --> 04:32.060
+So you can call this kind of point B prime.
+
+04:32.060 --> 04:33.750
+I haven't really changed anything.
+
+04:34.310 --> 04:40.400
+And the last thing now would be the resistance are three are three K'NEX point B to point C log in to
+
+04:40.400 --> 04:41.610
+connect point B to points.
+
+04:41.600 --> 04:42.530
+You can do this
+
+04:45.620 --> 04:48.970
+this would be the resistance are three.
+
+04:49.280 --> 04:54.600
+Now you see if you have it in this form it's much easier actually to determine which resistors are in
+
+04:54.600 --> 04:56.320
+and parallel with each other.
+
+04:56.920 --> 05:00.240
+Now right away you think you should be able to say that.
+
+05:00.290 --> 05:06.370
+Well let's look at these clearly are four and are three are in parallel with each other.
+
+05:06.650 --> 05:07.940
+So we can write that down.
+
+05:09.220 --> 05:11.890
+There is one pair that are in parallel.
+
+05:11.900 --> 05:19.870
+So we have our three and R for the voltage across both of these have to be the same.
+
+05:20.090 --> 05:24.650
+Now what about R2 I guess the other problem is what do we do with our two halves are two in parallel
+
+05:24.650 --> 05:26.180
+with our three.
+
+05:26.180 --> 05:32.040
+Now the only complication with this one is we have that this resistor our 5 comes into play here.
+
+05:32.120 --> 05:39.110
+So that means that the voltage across our four and our three is not going to be the same necessarily
+
+05:39.110 --> 05:44.480
+as the voltage across our two because we have this other resistor over here.
+
+05:44.480 --> 05:46.710
+So that kind of ruins it for us.
+
+05:46.730 --> 05:54.890
+So the only combination we have are are three and are four are in parallel and that's it.
+
+05:54.890 --> 06:00.740
+Now this entire network can be simplified now we can combine our three and our 4 and 2 1 equivalent
+
+06:01.260 --> 06:03.040
+resist there.
+
+06:03.200 --> 06:08.150
+Then I can combine that equivalent resistor with our Because the equivalent resistor of our three and
+
+06:08.360 --> 06:14.750
+four are going to be in series with R5 and then you can proceed kind of all the way until the end.
+
+06:16.390 --> 06:18.440
+OK but that's it for these two.
+
+06:18.580 --> 06:20.020
+So you got that one right.
+
+06:20.140 --> 06:25.000
+These kinds of questions can sometimes be a little bit more conceptually difficult but keep in mind
+
+06:25.000 --> 06:30.220
+you can deform you can make these wires as long as possible as long as you're still kind of you haven't
+
+06:30.220 --> 06:32.270
+really changed anything about the circuit.
+
+06:32.420 --> 06:33.670
+OK and I haven't really.
+
+06:33.670 --> 06:39.870
+This is really is the same circuit as this one I've just deform the wires which is OK to do.

@@ -1,0 +1,184 @@
+WEBVTT
+
+00:00.470 --> 00:03.620
+All right one last case here what happens if you have more than two.
+
+00:03.810 --> 00:05.530
+We previously saw the equation.
+
+00:05.640 --> 00:11.890
+Well if you have more than two equation is simply just a generalization of that.
+
+00:11.910 --> 00:14.270
+So now you simply add them all up except you don't.
+
+00:14.310 --> 00:17.280
+You always add the reciprocal of the resistance value.
+
+00:17.820 --> 00:25.680
+So if you have three terms simply looks like this one over are one plus one over R2 plus one over our
+
+00:25.680 --> 00:28.130
+three and that's it.
+
+00:28.140 --> 00:28.890
+That's our value.
+
+00:28.890 --> 00:32.310
+Now for one divided by my equivalent resistance.
+
+00:32.640 --> 00:36.180
+So let's consider this case imagine here this was a three ohm resistance.
+
+00:36.210 --> 00:38.360
+This was a six resistance.
+
+00:38.370 --> 00:40.810
+This was a one ohm resistance.
+
+00:40.890 --> 00:47.280
+So the way to apply the formula here is one divided by my equivalent resistance value is 1 over three
+
+00:48.150 --> 00:53.300
+plus one over six plus one over one.
+
+00:53.310 --> 00:54.060
+All right.
+
+00:54.060 --> 00:56.380
+I could put things on a common denominator.
+
+00:56.850 --> 01:04.210
+Maybe six is kind of a good common denominator here you'd have two plus one plus six.
+
+01:04.290 --> 01:10.270
+This gives me nine over six which I can simplify to three over two.
+
+01:11.160 --> 01:11.510
+OK.
+
+01:11.510 --> 01:14.660
+And that's the value for one divided by are equivalent.
+
+01:14.940 --> 01:18.210
+So at the end of the day are equivalent.
+
+01:18.210 --> 01:22.740
+You simply have to flip this number gives me two thirds.
+
+01:23.030 --> 01:28.350
+One thing I want you to notice about this equivalent value of the resistance that I got.
+
+01:29.250 --> 01:31.420
+Notice it's less than 1 right.
+
+01:31.440 --> 01:39.260
+The smallest value I had here was 1 ohm and the value of the equivalent resistance is always going to
+
+01:39.260 --> 01:44.970
+be smaller than the smallest value that you have in for your original circuit.
+
+01:45.020 --> 01:49.640
+So keep that in mind if ever you do a calculation of resistors in parallel and you end up getting a
+
+01:49.640 --> 01:53.600
+bigger number than one or more you must make a mistake somewhere.
+
+01:53.630 --> 01:55.510
+You're always going to get a smaller value.
+
+01:57.140 --> 02:04.030
+Now I previously showed you a trick where I was you know if you only had two of them it was very easy
+
+02:04.030 --> 02:06.950
+to simply multiply them and divided by the sum.
+
+02:07.000 --> 02:09.850
+In this case I have three but can I use that trick.
+
+02:10.240 --> 02:13.650
+Well you can what you can do is you can treat them two at a time.
+
+02:13.850 --> 02:16.470
+Well let me maybe use a different color here.
+
+02:16.630 --> 02:19.140
+Let me highlight what I want to show you here.
+
+02:19.160 --> 02:25.510
+So the way I would do it now is well let's consider everything in the green box.
+
+02:25.850 --> 02:27.640
+Everything in these green boxes.
+
+02:27.680 --> 02:33.410
+I can simplify everything in the green box and represent everything in the green box by one equivalent
+
+02:33.410 --> 02:34.680
+resistance.
+
+02:35.000 --> 02:39.700
+And I know how to do that because the value here.
+
+02:40.240 --> 02:45.360
+Well what I want to do the value here would be are equivalent.
+
+02:45.380 --> 02:50.450
+Let's call our equivalent one because I have to do this in two steps in order to find the equivalent
+
+02:50.450 --> 02:52.650
+resistance of everything in this green box.
+
+02:52.670 --> 02:53.560
+There's only two.
+
+02:53.810 --> 03:02.660
+You simply multiply them and divided by the sum we just did that case 18 over 9 years Me 2 ohms.
+
+03:02.750 --> 03:08.510
+So now what I can do is well if you're going to redraw the circuit what it would look like it would
+
+03:08.510 --> 03:10.080
+look something like this.
+
+03:10.100 --> 03:17.550
+So you really have everything in the green box here which is a tool resistor which is now in parallel
+
+03:17.550 --> 03:21.900
+with everything outside the Green Box is a 1 ohm resistor
+
+03:28.720 --> 03:36.070
+while Guess what I can do now I could apply the same trick because now I have two resistors in parallel
+
+03:36.070 --> 03:36.870
+with each other.
+
+03:38.150 --> 03:42.750
+I can use the same trick as I previously did and find the total equivalent resistance.
+
+03:42.920 --> 03:45.050
+So are equivalent.
+
+03:45.440 --> 03:52.910
+I have a 2 and a 1 only multiply them 2 times 1 divided by the sum two plus one gives me three at the
+
+03:52.910 --> 03:53.060
+end.
+
+03:53.060 --> 03:57.340
+I get two thirds of an ohm.
+
+03:57.350 --> 04:02.450
+Notice I get the exact same values I did using kind of the longer approach.
+
+04:02.540 --> 04:02.960
+OK.
+
+04:03.110 --> 04:09.710
+So even if you have more than two you can still just pair them up simplify them using our trick and
+
+04:09.710 --> 04:12.590
+then just repeat the same steps.
+
+04:12.590 --> 04:14.410
+Pretty straightforward.

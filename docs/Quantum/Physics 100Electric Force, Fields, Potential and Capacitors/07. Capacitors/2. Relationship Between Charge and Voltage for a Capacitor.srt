@@ -1,0 +1,256 @@
+WEBVTT
+
+00:00.120 --> 00:04.440
+Let's see what we know about capacitors so far what I have here is a positively charged plate and a
+
+00:04.440 --> 00:06.040
+negatively charged PLATE.
+
+00:06.150 --> 00:09.380
+THE ELECTRIC FIELD BETWEEN THE PLATES goes like this.
+
+00:09.570 --> 00:11.010
+And again on the outside.
+
+00:11.220 --> 00:13.950
+Let's try a different color over here on the outside.
+
+00:13.950 --> 00:16.540
+We should have a fringing field.
+
+00:16.760 --> 00:22.920
+It kind of looks like this again starts from the positive and ends to the negative aura and the feel
+
+00:22.920 --> 00:27.820
+on the outside gets weaker and it's stronger between the plates.
+
+00:28.230 --> 00:35.370
+The magnitude of that electric field again is written as Sigma over Epsilon 0.
+
+00:35.400 --> 00:39.510
+That's the magnitude the direction we know right here just by looking at it.
+
+00:39.540 --> 00:47.870
+So remember what sigma is Sigma is a charge density we just write this down.
+
+00:48.170 --> 00:55.850
+So it's basically the number of cool homes we have per meter squared on those plates.
+
+00:55.890 --> 01:00.140
+So if you think about it over here well we're gonna have a certain amount of charge which I'm gonna
+
+01:00.170 --> 01:06.170
+write as total charge q over here and we're gonna have basically minus the same amount of charge as
+
+01:06.170 --> 01:07.890
+the different sign on the other plate.
+
+01:09.170 --> 01:11.690
+So how would I write my surface charge density.
+
+01:11.750 --> 01:19.400
+Well here I would write as the total charge q on one of these plates divided by the area and a here
+
+01:19.400 --> 01:23.910
+again is the area of each plate.
+
+01:23.920 --> 01:29.060
+All right let's substitute that expression over here so we can write down that the magnitude of my electric
+
+01:29.060 --> 01:37.020
+field would be the total charge on one of the plates divided by a multiplied by epsilon 0.
+
+01:37.190 --> 01:37.540
+All right.
+
+01:37.700 --> 01:41.540
+And we're going to take this one last step but I want to do is I want to look for an expression for
+
+01:41.540 --> 01:48.770
+the charge the charge q here if I bring a n Epsilon zero on the other side what it ends up looking like
+
+01:48.770 --> 01:57.530
+is Epsilon 0 and then I have the area and multiplied by the magnitude of the field.
+
+01:58.110 --> 01:58.440
+Okay.
+
+01:58.470 --> 02:02.530
+Let's have a look now at an expression for the field we didn't talk about the potential.
+
+02:02.640 --> 02:08.640
+Right now if this one is positively charge and this one here is negatively charged we're going to say
+
+02:08.640 --> 02:16.530
+that the positive one is at a higher electrical potential and we call it V Plus and the negative one
+
+02:16.530 --> 02:19.100
+is at a lower electrical potential.
+
+02:19.110 --> 02:24.170
+So what we have is we have a difference of electrical potential between the positive and the negative.
+
+02:25.120 --> 02:29.830
+So in this case it would be V plus minus V minus.
+
+02:29.880 --> 02:30.060
+All right.
+
+02:30.060 --> 02:32.110
+That's the difference of potential.
+
+02:32.310 --> 02:37.800
+Now if you consider the geometry of this plate these plates here are probably separated by a certain
+
+02:37.800 --> 02:38.460
+distance.
+
+02:38.460 --> 02:39.580
+We're going to call that.
+
+02:41.100 --> 02:47.670
+So we previously saw that we can also write an expression for the electric field if we know the difference
+
+02:47.670 --> 02:55.710
+of potential and it kind of looks something like this minus delta v divided by delta x delta x was a
+
+02:55.710 --> 02:58.690
+distance over which the voltage changed over here.
+
+02:59.070 --> 03:02.190
+For now let's not worry about this negative sign right here.
+
+03:02.190 --> 03:02.460
+Okay.
+
+03:02.490 --> 03:04.590
+So I'm just going to worry about the magnitude.
+
+03:04.920 --> 03:10.540
+So let's just do this on the negative side remember just tells us the direction.
+
+03:10.540 --> 03:16.050
+So at the end I can write this at least for this particular problem the change of voltage over here
+
+03:16.050 --> 03:24.540
+is simply delta v what I call delta v right here and now divided by well what is this distance over
+
+03:24.540 --> 03:31.190
+here where this voltage is changing the distance is going to be the distance between the plates I'm
+
+03:31.200 --> 03:33.610
+going to call that D.
+
+03:34.370 --> 03:39.540
+Okay so now what I could do is I could take my expression for the electric field and I could substitute
+
+03:39.540 --> 03:44.100
+it right over here in the charge equation that I had.
+
+03:44.100 --> 03:47.640
+All right so let's go and do that one more step.
+
+03:47.640 --> 03:50.670
+Epsilon 0 a.
+
+03:50.880 --> 04:00.960
+Again here I'm gonna have Delta V voltage between the plates and divided by the All right.
+
+04:00.990 --> 04:03.600
+So this is actually a very very important equation right here.
+
+04:03.630 --> 04:05.560
+So you're going to write it one more time.
+
+04:05.670 --> 04:11.580
+I just want to group some of the terms together to put a square bracket in over here I'm gonna call
+
+04:11.580 --> 04:13.120
+this delta V.
+
+04:13.890 --> 04:16.120
+This term right here.
+
+04:16.470 --> 04:17.010
+All right.
+
+04:17.010 --> 04:24.240
+And over D let me put a box around this actually very very important equation.
+
+04:24.470 --> 04:30.440
+What it says again in the charge q remember It's Q on one plate and the opposite charge on the other
+
+04:30.440 --> 04:30.680
+plate.
+
+04:30.680 --> 04:31.770
+That's what this charge means.
+
+04:31.780 --> 04:38.480
+So if it's positive three cool ohms over here negative three columns on the other one delta v is the
+
+04:38.480 --> 04:41.950
+difference of potential between both of those plates.
+
+04:41.990 --> 04:50.850
+Sometimes this here is written in textbooks sometimes if you look at it's written as simply v OK.
+
+04:51.200 --> 04:56.720
+Sometimes they drop the delta but what they really mean is the difference between the voltage between
+
+04:56.720 --> 04:59.110
+both plates.
+
+04:59.150 --> 05:07.010
+So actually this is a very very general equation which says that the charge is actually always proportional
+
+05:07.010 --> 05:13.850
+to the voltage between the plates and the constant of proportionality between the plates is something
+
+05:13.850 --> 05:17.010
+we call the capacitance.
+
+05:17.100 --> 05:20.270
+Okay so this is actually really really important.
+
+05:20.270 --> 05:25.340
+So let me write this over here so C is a value we call the capacitance
+
+05:29.010 --> 05:34.240
+so it's the constant of proportionality between the charge and the voltage.
+
+05:34.320 --> 05:39.570
+So for this parallel plate capacitor What is that constant of proportionality.
+
+05:39.570 --> 05:42.750
+Well it's going to be the term in the square bracket right here.
+
+05:42.840 --> 05:50.190
+So for the parallel plate we have that the capacitance is simply written as Epsilon 0 the area and divided
+
+05:50.190 --> 05:57.000
+by the distance between the plates the formula right here that I'm gonna call the formula here in this
+
+05:57.000 --> 06:03.420
+green box this is true for any type of capacitance.
+
+06:03.760 --> 06:09.580
+It doesn't necessarily only apply to parallel plates what applies to parallel plates is this value right
+
+06:09.580 --> 06:10.890
+here in the bottom.
+
+06:10.930 --> 06:17.050
+I put it in a purple All right this here applies to parallel plates.
+
+06:19.130 --> 06:24.530
+But this expression right here in the green box is actually quite general so we're typically always
+
+06:24.530 --> 06:29.520
+going to have that the charge is proportional to the voltage between the plates.
+
+06:29.530 --> 06:32.370
+All right so we're gonna be using this equation quite a bit.
+
+06:33.370 --> 06:38.860
+So that means if I double the voltage between the plates I'm going to have twice as much charge.

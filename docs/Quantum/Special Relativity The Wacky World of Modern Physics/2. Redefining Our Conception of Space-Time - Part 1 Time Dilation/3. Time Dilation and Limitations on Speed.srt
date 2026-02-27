@@ -1,0 +1,643 @@
+1
+00:00:18,320 --> 00:00:24,320
+OK, so we've just gone through the painful process of carrying out this convoluted experiment.
+
+2
+00:00:24,590 --> 00:00:26,420
+What did we discover?
+
+3
+00:00:26,690 --> 00:00:32,630
+What we have found is that by accounting for the fact or the second postulate a special relativity,
+
+4
+00:00:32,840 --> 00:00:37,610
+that light is always going to be a constant regardless of your reference frame.
+
+5
+00:00:37,910 --> 00:00:46,310
+We found that the time elapsed by two events in different inertial reference frames are not the same.
+
+6
+00:00:46,310 --> 00:00:53,060
+That time is going to flow in a different manner compared to observer and observer B if they are in
+
+7
+00:00:53,060 --> 00:00:54,900
+different inertial reference frames.
+
+8
+00:00:54,920 --> 00:01:01,790
+OK, so we have identified that it's different, but we don't know how the effect transpires, how it
+
+9
+00:01:02,000 --> 00:01:03,350
+comes into play, right?
+
+10
+00:01:03,650 --> 00:01:04,920
+Does it differ by a lot?
+
+11
+00:01:04,940 --> 00:01:06,200
+Does it differ by a little bit?
+
+12
+00:01:06,740 --> 00:01:08,050
+Which one is running faster?
+
+13
+00:01:08,060 --> 00:01:09,290
+Which one is running slower?
+
+14
+00:01:09,590 --> 00:01:14,840
+So let's explore what we have just discovered and try and figure out if we can pinpoint the type of
+
+15
+00:01:14,840 --> 00:01:19,080
+behavior that we're going to observe between these reference frames.
+
+16
+00:01:19,100 --> 00:01:27,320
+So again, we found that Delta T or the time as observed by somebody in the S reference frame on Earth
+
+17
+00:01:27,320 --> 00:01:33,560
+is equal to this Lorentz factor gamma times, delta t prime or the time measured by the person in the
+
+18
+00:01:33,560 --> 00:01:35,540
+moving reference frame, Terence.
+
+19
+00:01:36,350 --> 00:01:43,130
+Now what we want to do is we want to plot up this Lorenz factor here and see what kind of values we
+
+20
+00:01:43,130 --> 00:01:49,540
+get, see how it behaves for different values of relative velocities or this guy right here in the Bay
+
+21
+00:01:49,550 --> 00:01:51,650
+Area and see what we could find.
+
+22
+00:01:51,660 --> 00:01:57,440
+Okay, so if we do that, you know, you could plop it in MATLAB, plop it in Mathematica, use Wolfram
+
+23
+00:01:57,440 --> 00:01:59,270
+Alpha, use whatever you want to use.
+
+24
+00:01:59,990 --> 00:02:03,320
+We get the following OK, so we have this curve here.
+
+25
+00:02:03,320 --> 00:02:08,690
+We see that gamma is pretty small and it's pretty small for a lot of ranges of beta.
+
+26
+00:02:10,440 --> 00:02:17,880
+Once we hit 0.5 tabular values here, it's only one point one five times the moving reference frames
+
+27
+00:02:17,880 --> 00:02:18,390
+time.
+
+28
+00:02:18,750 --> 00:02:24,810
+That's not a big increase in time, but what we found here is that regardless of what value we have,
+
+29
+00:02:25,200 --> 00:02:31,550
+gamma is always greater than one, and it tends to go to infinity when beta gets large.
+
+30
+00:02:31,560 --> 00:02:37,170
+So, you know, initially at these small ranges, the low point eight six six six.
+
+31
+00:02:39,160 --> 00:02:40,180
+You know, we're close to one.
+
+32
+00:02:40,420 --> 00:02:46,360
+There's not much of a change and then above that, oh, it blows up or we start getting these awesome
+
+33
+00:02:46,360 --> 00:02:47,770
+effects coming into play here.
+
+34
+00:02:48,280 --> 00:02:50,620
+And that's where it's it's bound by infinity.
+
+35
+00:02:50,920 --> 00:02:58,390
+And what I'm going to say is that relativistic effects are most constraints in this region, that this
+
+36
+00:02:58,390 --> 00:02:59,920
+range are pointing to.
+
+37
+00:03:00,040 --> 00:03:04,990
+This, which corresponds to a value of two as tabulated here starts to blow up.
+
+38
+00:03:05,320 --> 00:03:11,110
+We get really close to the speed of light point nine nine nine nine five or I'm going to say that again
+
+39
+00:03:11,130 --> 00:03:13,360
+point nine nine nine nine five.
+
+40
+00:03:14,710 --> 00:03:17,770
+The time difference is we have a factor here.
+
+41
+00:03:18,160 --> 00:03:25,540
+So in a table we're finding is that time or the Lawrence factor is bounded between one an affinity.
+
+42
+00:03:27,090 --> 00:03:33,810
+And it's always a positive value, so the time that it's observed on Earth is always larger than the
+
+43
+00:03:33,810 --> 00:03:36,180
+time as observed in the moving reference frame.
+
+44
+00:03:36,420 --> 00:03:38,490
+That's what this equation is telling us, right?
+
+45
+00:03:38,880 --> 00:03:42,060
+So the implied effect we just discovered.
+
+46
+00:03:43,370 --> 00:03:47,840
+We're going to call it time dilation, as I say, and finish a lot of the time.
+
+47
+00:03:48,170 --> 00:03:53,480
+The names we give to confess the names we give to ideas dictate the behavior of the phenomenon that's
+
+48
+00:03:53,480 --> 00:03:55,460
+taking place dilation.
+
+49
+00:03:55,970 --> 00:03:58,820
+Think of dilation of your eyeballs.
+
+50
+00:03:59,060 --> 00:04:01,490
+It means getting bigger, getting larger.
+
+51
+00:04:01,730 --> 00:04:09,320
+So the time is getting bigger as observed by somebody on Earth, as observed by the stationary or observing
+
+52
+00:04:09,320 --> 00:04:09,860
+entity.
+
+53
+00:04:11,180 --> 00:04:19,490
+And it also means that a moving clock the clock in the moving round has been in the space ship is observed
+
+54
+00:04:19,790 --> 00:04:23,000
+to move slow the observed very slow.
+
+55
+00:04:23,030 --> 00:04:24,090
+What do I mean by that?
+
+56
+00:04:24,110 --> 00:04:25,100
+Let's let's observe that.
+
+57
+00:04:25,340 --> 00:04:32,120
+So when this happens, let's say that Terence is going actually at point eight, six, six times the
+
+58
+00:04:32,120 --> 00:04:32,960
+speed of light.
+
+59
+00:04:33,260 --> 00:04:39,050
+So we get a bit of pointing fix this, and that's why it is so useful because we don't have to Ulysses.
+
+60
+00:04:39,320 --> 00:04:42,050
+We just get this relative factor.
+
+61
+00:04:42,470 --> 00:04:44,150
+Let's say it's going at that speed of light.
+
+62
+00:04:44,450 --> 00:04:50,570
+And Terence says, Hey, this took 10 minutes, this to happen.
+
+63
+00:04:50,720 --> 00:04:51,830
+Of course, that wouldn't happen.
+
+64
+00:04:51,830 --> 00:04:58,040
+But just for this circumstance to express what is going on in this relationship, he says it takes 10
+
+65
+00:04:58,040 --> 00:04:59,870
+minutes for the light to go up and come down.
+
+66
+00:05:00,890 --> 00:05:02,990
+You know, my light was lazy in this this situation.
+
+67
+00:05:04,060 --> 00:05:08,740
+Philip, what do you get he does this calculation, he's like, Oh my God, that's why his face is so
+
+68
+00:05:08,740 --> 00:05:09,100
+big.
+
+69
+00:05:09,550 --> 00:05:15,200
+He says, Well, this relation we just discovered it's this beta is poisonous.
+
+70
+00:05:15,250 --> 00:05:17,730
+Snakes are gamma.
+
+71
+00:05:17,740 --> 00:05:18,670
+It's going to be too.
+
+72
+00:05:19,730 --> 00:05:21,390
+If it took 10 minutes for you.
+
+73
+00:05:21,650 --> 00:05:23,540
+You know what, it took 20 minutes for me.
+
+74
+00:05:24,170 --> 00:05:26,050
+Wow, that's crazy.
+
+75
+00:05:26,060 --> 00:05:26,570
+That's crazy.
+
+76
+00:05:26,570 --> 00:05:36,290
+This is this seems so unconventional, it seems so just take a slap in the face of our general wisdom,
+
+77
+00:05:36,290 --> 00:05:42,170
+our general intuition, because this never happens quite often.
+
+78
+00:05:42,290 --> 00:05:45,080
+Like, who disagrees about time?
+
+79
+00:05:45,800 --> 00:05:46,710
+Hardly anybody.
+
+80
+00:05:47,060 --> 00:05:47,990
+Hardly anybody.
+
+81
+00:05:48,410 --> 00:05:57,550
+But the reason why this doesn't crop up in every like every day events is because this guy is like flat.
+
+82
+00:05:57,620 --> 00:05:57,980
+Look at it.
+
+83
+00:05:58,010 --> 00:05:58,640
+It's flat.
+
+84
+00:05:59,330 --> 00:06:00,920
+It has to do with the equation here.
+
+85
+00:06:01,250 --> 00:06:07,550
+The gamma level risk factor is about one until two we go point five times the speed of light point five
+
+86
+00:06:07,940 --> 00:06:12,110
+times three times 10 to the eight meters per second.
+
+87
+00:06:12,500 --> 00:06:16,850
+That's 1.5 times 10 to the eight meters per second.
+
+88
+00:06:18,620 --> 00:06:22,610
+That's when we only get a relativistic factor of one point one, five five.
+
+89
+00:06:23,240 --> 00:06:25,010
+So in other words?
+
+90
+00:06:25,980 --> 00:06:29,340
+In everyday situations, this is not observable.
+
+91
+00:06:29,370 --> 00:06:30,450
+It does not arise.
+
+92
+00:06:31,080 --> 00:06:33,030
+It's hidden beneath layers.
+
+93
+00:06:33,720 --> 00:06:40,710
+And that's why I say here, when there's is much less than see beat is approximately zero and gamma
+
+94
+00:06:41,070 --> 00:06:42,510
+is about equal to one, right?
+
+95
+00:06:42,780 --> 00:06:44,940
+We don't get relativistic effects.
+
+96
+00:06:45,510 --> 00:06:47,940
+That's why the Galilean transformation.
+
+97
+00:06:48,920 --> 00:06:51,530
+When Bill up in Terence did their experiment.
+
+98
+00:06:52,750 --> 00:06:57,520
+That's why their observations, their time lined up.
+
+99
+00:06:57,760 --> 00:06:58,990
+It wasn't different.
+
+100
+00:06:59,980 --> 00:07:00,340
+Right?
+
+101
+00:07:00,610 --> 00:07:04,630
+Because this relativistic effect did not crop up.
+
+102
+00:07:05,200 --> 00:07:08,800
+It only arises when we travel close to the speed of light.
+
+103
+00:07:09,220 --> 00:07:12,340
+And that's why it feels so unintuitive.
+
+104
+00:07:12,550 --> 00:07:19,600
+That's why it spits in the face of everything we know about the universe in physics.
+
+105
+00:07:19,680 --> 00:07:19,830
+Right.
+
+106
+00:07:19,840 --> 00:07:22,040
+It's a very weird idea.
+
+107
+00:07:22,450 --> 00:07:25,630
+And if it's hard to accept that time dilation.
+
+108
+00:07:26,850 --> 00:07:28,230
+It's something that happens.
+
+109
+00:07:28,680 --> 00:07:36,090
+Just remember, this is a consequence of an observation we found that the speed of light is constant
+
+110
+00:07:36,510 --> 00:07:40,920
+because we're a reference frame which we have tested again and again and again.
+
+111
+00:07:42,020 --> 00:07:47,720
+OK, so there's one other cool effect that's hidden and what we've just discovered.
+
+112
+00:07:48,500 --> 00:07:49,880
+We take this guy here.
+
+113
+00:07:50,920 --> 00:07:55,360
+We know that if we divide by a number, we cannot divide by zero.
+
+114
+00:07:56,050 --> 00:07:57,970
+So what's hidden in here?
+
+115
+00:07:59,600 --> 00:08:01,580
+Well, we cannot divide by zero.
+
+116
+00:08:02,390 --> 00:08:05,450
+And we also cannot have negative numbers under the square root.
+
+117
+00:08:06,810 --> 00:08:07,050
+Right.
+
+118
+00:08:07,320 --> 00:08:10,200
+So that means that a beat is greater than one, we get a negative number.
+
+119
+00:08:10,200 --> 00:08:11,550
+We get imaginary numbers.
+
+120
+00:08:11,880 --> 00:08:13,200
+We got an imaginary time.
+
+121
+00:08:13,380 --> 00:08:18,530
+We don't deal with imaginary numbers in physical quantities, right?
+
+122
+00:08:18,750 --> 00:08:19,590
+Nature is nice.
+
+123
+00:08:19,590 --> 00:08:21,600
+It behaves pretty well for the most part.
+
+124
+00:08:22,670 --> 00:08:26,540
+So Peter here cannot be less than one.
+
+125
+00:08:27,050 --> 00:08:31,820
+So what I'm saying and what I just ran through my mind, I'll spell it out.
+
+126
+00:08:31,820 --> 00:08:35,540
+In terms of this, I say, oh, one minus beta squared.
+
+127
+00:08:38,740 --> 00:08:40,570
+This guy has to be greater than zero.
+
+128
+00:08:44,820 --> 00:08:48,450
+So we bring Beta Square there to the square root that doesn't change much.
+
+129
+00:08:50,650 --> 00:08:51,130
+You get.
+
+130
+00:08:53,330 --> 00:08:54,920
+PETA or.
+
+131
+00:08:56,020 --> 00:08:57,730
+I'll make a match up for you guys you get.
+
+132
+00:09:00,510 --> 00:09:01,080
+Beta.
+
+133
+00:09:02,630 --> 00:09:03,560
+Is less than one.
+
+134
+00:09:04,220 --> 00:09:04,640
+OK.
+
+135
+00:09:05,300 --> 00:09:07,850
+What does that tell us right here?
+
+136
+00:09:08,840 --> 00:09:10,520
+Basically, this guy is less than one.
+
+137
+00:09:13,330 --> 00:09:13,930
+This guy.
+
+138
+00:09:15,120 --> 00:09:17,100
+It's less than one, which means.
+
+139
+00:09:18,690 --> 00:09:19,200
+That.
+
+140
+00:09:20,250 --> 00:09:20,820
+They.
+
+141
+00:09:23,100 --> 00:09:29,910
+Is less than sea, right, and this is why you've probably heard maybe it's sci fi, maybe somewhere
+
+142
+00:09:29,910 --> 00:09:37,530
+else that the speed of light beam, not the speed of light, the speed of anything in the universe cannot
+
+143
+00:09:37,860 --> 00:09:39,960
+exceed the speed of light.
+
+144
+00:09:40,650 --> 00:09:42,720
+We see this a set of tonic particles.
+
+145
+00:09:42,870 --> 00:09:48,330
+We see this in CERN when they're doing their particle acceleration experiments.
+
+146
+00:09:49,050 --> 00:09:50,700
+Nothing can exceed the speed of light.
+
+147
+00:09:51,270 --> 00:09:57,570
+This is a cap on the limit of speed imposed by the universe, and it is 100 percent real.
+
+148
+00:09:57,570 --> 00:09:58,440
+This is not fictional.
+
+149
+00:09:58,680 --> 00:10:00,360
+This is a real effect that we observe.
+
+150
+00:10:01,410 --> 00:10:01,740
+OK.
+
+151
+00:10:02,140 --> 00:10:06,660
+A time violation, I want to make it clear time dilation is an observable fact.
+
+152
+00:10:06,990 --> 00:10:10,590
+OK, this is something that you're going to see, no matter what it's going to arise.
+
+153
+00:10:11,700 --> 00:10:16,830
+If you've seen the movie Interstellar and this is a different relativistic effect, but it's similar.
+
+154
+00:10:17,640 --> 00:10:23,940
+You may remember that the individuals in the spaceship, they went down to that planet with heavy gravity,
+
+155
+00:10:24,510 --> 00:10:27,030
+with a huge waves, and they came back up.
+
+156
+00:10:28,900 --> 00:10:31,150
+They were it's a different effect.
+
+157
+00:10:31,600 --> 00:10:37,840
+It's more in terms of general relativity, which we won't get into, but the time time had to bend to
+
+158
+00:10:37,840 --> 00:10:39,190
+account for these ideas.
+
+159
+00:10:39,550 --> 00:10:45,820
+Space time bends to correct and account for the second part of a special relativity.
+
+160
+00:10:46,120 --> 00:10:47,800
+That's what's giving rise to all this stuff.
+
+161
+00:10:48,040 --> 00:10:49,420
+That's what's given rise to this.

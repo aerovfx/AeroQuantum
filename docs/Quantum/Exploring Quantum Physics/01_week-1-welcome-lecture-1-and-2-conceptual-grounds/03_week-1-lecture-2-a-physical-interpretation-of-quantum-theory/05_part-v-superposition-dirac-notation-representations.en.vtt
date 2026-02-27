@@ -1,0 +1,756 @@
+WEBVTT
+
+1
+00:00:00.660 --> 00:00:06.072
+So now, we will continue putting together
+the basic conditional principles of
+
+2
+00:00:06.072 --> 00:00:11.812
+quantum mechanics, and I'm also going to
+introduce the so-called Dirac notations,
+
+3
+00:00:11.812 --> 00:00:16.926
+which are mathematical symbols Dirac
+introduced back in the early days.
+
+4
+00:00:16.927 --> 00:00:21.719
+And these symbols turned out to be very
+convenient in doing calculations in
+
+5
+00:00:21.719 --> 00:00:26.598
+quantum mechanics.
+So, let me mention actually that as a
+
+6
+00:00:26.598 --> 00:00:32.070
+practicing theoretical physicist I noticed
+that an important component of a new,
+
+7
+00:00:32.070 --> 00:00:37.504
+putting together a new physical theory is
+to come up with the convenient and elegant
+
+8
+00:00:37.504 --> 00:00:41.223
+notation.
+So, these are not some minor unimportant
+
+9
+00:00:41.224 --> 00:00:45.373
+questions.
+So, it's actually quite important, and
+
+10
+00:00:45.374 --> 00:00:50.405
+having awkward notations could make our
+lives very difficult.
+
+11
+00:00:50.405 --> 00:00:54.888
+So, Dirac notations certainly satisfy the
+criterion of being convenient, and also
+
+12
+00:00:54.888 --> 00:00:59.830
+they are widely used in the literature.
+So, if you don't know them already, it's a
+
+13
+00:00:59.830 --> 00:01:04.660
+good idea to familiarize yourselves with
+the, with them, and this is what we're
+
+14
+00:01:04.660 --> 00:01:09.067
+going to do today.
+But before introducing the Dirac notations
+
+15
+00:01:09.067 --> 00:01:14.575
+and going further with the development of
+sort of more abstract quantum theory, I
+
+16
+00:01:14.575 --> 00:01:19.759
+would like to mention a relevant
+superposition principle in quantum
+
+17
+00:01:19.759 --> 00:01:24.150
+mechanics.
+So, this so called superposition principle
+
+18
+00:01:24.150 --> 00:01:29.760
+simply states that if we have 2 solutions
+to the Schrodinger equation, psi 1 of r
+
+19
+00:01:29.760 --> 00:01:35.030
+and t and psi 2 of r and t, they are
+arbitrary linear combination such as here
+
+20
+00:01:35.030 --> 00:01:40.300
+with some arbitrary complex constant, c1
+and c2, is also a solution to this
+
+21
+00:01:40.300 --> 00:01:42.935
+equation.
+So actually, this so-called superposition
+
+22
+00:01:42.935 --> 00:01:45.195
+principle is not specific to the
+Schrodinger equation.
+
+23
+00:01:45.196 --> 00:01:50.794
+The superposition principle holds for any
+linear differential equation, which the
+
+24
+00:01:50.794 --> 00:01:54.450
+Schrodinger equation happens to be.
+So, there are no terms between that.
+
+25
+00:01:54.450 --> 00:01:58.716
+There are no terms like psi squared psi
+cubed, etc.
+
+26
+00:01:58.716 --> 00:02:02.192
+So well, to prove this, one can just
+simply plug it into the Schrodinger
+
+27
+00:02:02.192 --> 00:02:05.085
+equation and cancel the corresponding
+pieces, term by term.
+
+28
+00:02:05.086 --> 00:02:12.462
+So, what this superposition principle
+motivates is the notion of so-called
+
+29
+00:02:12.462 --> 00:02:20.244
+Hilbert space, which is a linear vector
+space where quantum states sort of live.
+
+30
+00:02:20.244 --> 00:02:26.454
+To remind you, a linear vector space is a
+basic concept of Linear Algebra, which
+
+31
+00:02:26.454 --> 00:02:32.940
+implies a set of elements that we call
+vectors such that we can define a sum of
+
+32
+00:02:32.940 --> 00:02:39.144
+any two vectors and a sum of any two
+vectors itself belongs to this set, to
+
+33
+00:02:39.144 --> 00:02:43.006
+this vector space.
+And where we can also define a
+
+34
+00:02:43.006 --> 00:02:47.746
+multiplication by a constant, either real
+or complex, depending on the
+
+35
+00:02:47.746 --> 00:02:53.434
+circumstances, and this sort of stretching
+of a vector, also gives rise to another
+
+36
+00:02:53.434 --> 00:02:57.364
+element of the set.
+So, in other words, this multiplication
+
+37
+00:02:57.364 --> 00:03:00.703
+and addition of vectors are closed
+operations.
+
+38
+00:03:01.730 --> 00:03:07.559
+So, through this superposition principle,
+we can suspect that whatever the
+
+39
+00:03:07.559 --> 00:03:13.388
+mathematical objects are the described
+quantum states, they also in some sense
+
+40
+00:03:13.388 --> 00:03:19.234
+belong to a closed linear vector space
+that is what we call the Hilbert space.
+
+41
+00:03:19.234 --> 00:03:23.155
+But what about the wave-function that we
+have become already familiar with.
+
+42
+00:03:23.156 --> 00:03:30.098
+So, this wave-function psi of r should be
+thought of in this abstract language and
+
+43
+00:03:30.098 --> 00:03:35.330
+approached as a specific representation of
+a quantum state.
+
+44
+00:03:35.330 --> 00:03:37.784
+We're going to discuss the meaning of it a
+little later.
+
+45
+00:03:37.785 --> 00:03:41.650
+But here, I just would like to mention
+that it's much like coordinates of a
+
+46
+00:03:41.650 --> 00:03:44.702
+vector.
+So, let's say, if we have in the simplest
+
+47
+00:03:44.702 --> 00:03:49.958
+example we could have, let's say, vector
+in two dimensions with some coordinates ax
+
+48
+00:03:49.958 --> 00:03:52.484
+and ay.
+So, these particular coordinates are
+
+49
+00:03:52.484 --> 00:03:56.256
+specific to a choice of coordinate axis.
+See, we are free to choose another
+
+50
+00:03:56.256 --> 00:04:00.018
+coordinate system, in which case, the
+coordinates will change, but the vector
+
+51
+00:04:00.018 --> 00:04:03.170
+itself in some sense, in some absolute
+sense will remain the same.
+
+52
+00:04:03.170 --> 00:04:08.252
+So likewise, in quantum theory, one can
+think about an existing quantum state,
+
+53
+00:04:08.252 --> 00:04:11.780
+which is sort of independent of our way to
+describe it.
+
+54
+00:04:11.780 --> 00:04:17.452
+And if we choose to do so using the
+wave-function, it, sort of, corresponds to
+
+55
+00:04:17.452 --> 00:04:22.789
+the choice of particular basis.
+But there are circumstances, however,
+
+56
+00:04:22.789 --> 00:04:26.624
+where we don't want to specify a
+representation.
+
+57
+00:04:26.624 --> 00:04:32.342
+In this case, we could have called our
+vector, state vector as psi with a vector
+
+58
+00:04:32.342 --> 00:04:37.550
+sign on top which would have been the
+usual notation in Linear Algebra, but
+
+59
+00:04:37.550 --> 00:04:42.842
+instead of using this notation, Dirac
+found useful to use another notation
+
+60
+00:04:42.842 --> 00:04:47.124
+presented here which is so-called ket
+vector by Dirac.
+
+61
+00:04:47.124 --> 00:04:52.389
+And also, there is a bra vector which
+corresponds essentially to psi dagger and
+
+62
+00:04:52.389 --> 00:04:57.264
+I, to tell you the truth, there is no
+profound reason for the choice of this
+
+63
+00:04:57.264 --> 00:05:02.412
+particular notation so they just turned
+out to be convenient to a couple metric
+
+64
+00:05:02.412 --> 00:05:06.987
+elements, etc., we will see.
+And, not that there is a profound reason
+
+65
+00:05:06.987 --> 00:05:12.237
+to call them this way, bra and ket vectors
+basically are called this way because when
+
+66
+00:05:12.237 --> 00:05:16.683
+put together, they sound like a bracket,
+which sort of they look like.
+
+67
+00:05:16.683 --> 00:05:21.650
+So now, let me present a few
+embarrassingly simple facts from the basic
+
+68
+00:05:21.650 --> 00:05:27.010
+Linear Algebra that I do expect most of
+you to know but however, I'm going to, I'm
+
+69
+00:05:27.010 --> 00:05:32.530
+still going to remind you of those because
+they're going to be connected to slightly
+
+70
+00:05:32.530 --> 00:05:38.050
+more complicated structures that arise in
+the abstract mathematical formulas of
+
+71
+00:05:38.050 --> 00:05:43.726
+quantum mechanics.
+So, what I have here is simply a planar
+
+72
+00:05:43.726 --> 00:05:49.966
+vector in two dimensions, some vector e
+and if I have a coordinate system, x and
+
+73
+00:05:49.966 --> 00:05:55.726
+y, with some unit vectors ex and ey, so I
+can write my vector as a linear
+
+74
+00:05:55.726 --> 00:06:03.596
+combination of this unit vectors.
+So, ex here is 1, 0 and ey is 0, 1.
+
+75
+00:06:03.597 --> 00:06:10.202
+Or I can write it as so.
+So, the vector and its conjugate.
+
+76
+00:06:10.202 --> 00:06:15.244
+So, another things I want to emphasize is
+that if we consider the full length
+
+77
+00:06:15.244 --> 00:06:20.204
+structure, ex, ex dagger plus ey, ey
+dagger, on this two, there's a metrics
+
+78
+00:06:20.204 --> 00:06:25.886
+multiplication of these vectors.
+So, we're going to have 1, 0, 0, 0 in the
+
+79
+00:06:25.886 --> 00:06:33.752
+first room plus 0, 0, 0, 1 in the second
+room, which when put together, becomes an
+
+80
+00:06:33.752 --> 00:06:39.231
+identity matrix.
+But very importantly, this result is not
+
+81
+00:06:39.231 --> 00:06:44.647
+unique to the particular choice of these
+orthonormal bases.
+
+82
+00:06:44.648 --> 00:06:51.800
+The result holds for any such orthonormal
+bases in any dimension and in any linear
+
+83
+00:06:51.800 --> 00:06:55.386
+vector space.
+Now, the reason I'm telling you all these
+
+84
+00:06:55.386 --> 00:07:00.146
+is because in quantum mechanics, so as we
+just discussed, so the state vectors, they
+
+85
+00:07:00.146 --> 00:07:04.974
+represent elements in some Hilbert space,
+in some linear vector space, which we call
+
+86
+00:07:04.974 --> 00:07:08.238
+Hilbert space.
+But in order to be able to work with this
+
+87
+00:07:08.238 --> 00:07:12.654
+vector, just like here, we need introduce
+a coordinate system so that we have
+
+88
+00:07:12.654 --> 00:07:17.412
+something concrete to work with.
+So, in quantum mechanics, we have to
+
+89
+00:07:17.412 --> 00:07:20.979
+define a basis.
+Since the Hilbert space is much more
+
+90
+00:07:20.979 --> 00:07:26.162
+complicated in, generally than this two
+dimensional vector space, and most often,
+
+91
+00:07:26.162 --> 00:07:30.564
+we're dealing actually with infinite
+dimensional Hilbert spaces, so the
+
+92
+00:07:30.564 --> 00:07:34.437
+structure of the basis is generally more
+complicated.
+
+93
+00:07:34.437 --> 00:07:39.620
+But nevertheless, the properties that we
+just discussed, the simple properties of
+
+94
+00:07:39.620 --> 00:07:42.462
+Linear Algebra, so are, still remain the
+same.
+
+95
+00:07:42.462 --> 00:07:49.197
+So, for example, this identity that we
+just derived for this basis ex and ey also
+
+96
+00:07:49.197 --> 00:07:53.390
+is, holds for the basis in a, in the
+Hilbert space.
+
+97
+00:07:53.390 --> 00:07:57.571
+So, let's see if we have a set of the x as
+either a discrete set or a continuum set.
+
+98
+00:07:57.572 --> 00:08:03.621
+We will see both of them.
+So the sum of this ket-bra products over
+
+99
+00:08:03.621 --> 00:08:08.017
+all basis vectors, gives rise to an
+Identity operation.
+
+100
+00:08:08.017 --> 00:08:14.273
+And this resolution of identity is going
+to be extremely useful for us in a number
+
+101
+00:08:14.273 --> 00:08:18.981
+of derivations that we're going to see
+throughout the course.
+
+102
+00:08:18.981 --> 00:08:22.620
+So, for example, for this q, I haven't
+really specified the physical meaning of
+
+103
+00:08:22.620 --> 00:08:26.622
+this q, it can be anything.
+So, one example we're going to see pretty
+
+104
+00:08:26.622 --> 00:08:33.072
+often is when we're dealing with the
+integral over volume of product like this,
+
+105
+00:08:33.072 --> 00:08:38.724
+where this vectors respond to eigenstates
+of the position operator.
+
+106
+00:08:38.724 --> 00:08:45.024
+So, another thing I want to mention here
+is that any wave-function, so what,what
+
+107
+00:08:45.024 --> 00:08:51.234
+basis really means is that any vector in a
+linear vector space can be represented as
+
+108
+00:08:51.234 --> 00:08:57.496
+a linear combination of the basis vectors.
+Just like here, I represented my vector a
+
+109
+00:08:57.496 --> 00:09:02.612
+as a linear combination of ex and ey.
+So, the fact that I have a basis here
+
+110
+00:09:02.612 --> 00:09:08.420
+implies that I can represent my
+wave-function or my state vector as a
+
+111
+00:09:08.420 --> 00:09:13.754
+linear combination of these q's.
+And the matrix elements between q and psi
+
+112
+00:09:13.754 --> 00:09:18.542
+is what we actually call the wave-function
+in the q representation.
+
+113
+00:09:18.542 --> 00:09:25.862
+So, this is much like these coordinates.
+So, these coordinates, for instance here,
+
+114
+00:09:25.862 --> 00:09:34.914
+ax is can be written as ex dagger times a,
+and here psi of q can be written as a
+
+115
+00:09:34.914 --> 00:09:40.198
+bracket product of q and psi.
+So, and again, in principle, we can have
+
+116
+00:09:40.198 --> 00:09:44.752
+two situations, either we have a discrete
+spectrum or we have a continuum spectrum
+
+117
+00:09:44.752 --> 00:09:49.108
+in the former case, we have a sum over q,
+in the latter case we have an integral
+
+118
+00:09:49.108 --> 00:09:53.510
+over q.
+But now, a question remains of how to
+
+119
+00:09:53.510 --> 00:10:00.075
+actually choose a basis or representation
+to describe our state vector or
+
+120
+00:10:00.075 --> 00:10:04.210
+wave-function.
+Just like in the usual Linear Algebra
+
+121
+00:10:04.210 --> 00:10:09.030
+there is no absolute or correct answer.
+The choice of a basis is a question of
+
+122
+00:10:09.030 --> 00:10:14.212
+convenience.
+But there is some standard or natural
+
+123
+00:10:14.212 --> 00:10:20.928
+choices that can be constructed, and so
+I'm going to discuss now how it's how it's
+
+124
+00:10:20.928 --> 00:10:23.704
+done.
+So, we already know that physical
+
+125
+00:10:23.704 --> 00:10:28.852
+observables in Quantum Mechanics are
+associated with linear Hermitian or
+
+126
+00:10:28.852 --> 00:10:33.272
+self-adjoined operators.
+For a generic such operator, one can
+
+127
+00:10:33.272 --> 00:10:39.110
+define the eigenvalue problem as here,
+which basically is the problem of finding
+
+128
+00:10:39.110 --> 00:10:45.116
+a vector or vectors, set of vectors, which
+under the action of the operator don't
+
+129
+00:10:45.116 --> 00:10:50.050
+really change but just are stretched with
+a certain eigenvalue a.
+
+130
+00:10:50.050 --> 00:10:55.554
+And for the Hermitian and self-adjoined
+operator, these values of a are real
+
+131
+00:10:55.554 --> 00:10:59.590
+numbers.
+So what's essential is that, in many
+
+132
+00:10:59.590 --> 00:11:07.180
+cases, this set of eigenvalues of such
+operators form a basis in the Hilbert
+
+133
+00:11:07.180 --> 00:11:10.610
+space.
+This means that we can expand our
+
+134
+00:11:10.610 --> 00:11:14.855
+wave-function in terms of this basis
+vectors.
+
+135
+00:11:14.855 --> 00:11:21.623
+And the corresponding matrix elements, so
+let's say for this vector a, whatever it
+
+136
+00:11:21.623 --> 00:11:26.230
+is, is called the wave-function in the a
+representation.
+
+137
+00:11:26.230 --> 00:11:30.863
+So, one can construct an infinite number
+of such representations, just like there
+
+138
+00:11:30.863 --> 00:11:35.201
+exist an infinite number of observables
+and corresponding operators.
+
+139
+00:11:35.201 --> 00:11:40.407
+But sort of a natural way to choose a
+basis is to use operators that are
+
+140
+00:11:40.408 --> 00:11:45.682
+irrelevant to our problem, such as for
+instance, the coordinate operator, it's
+
+141
+00:11:45.682 --> 00:11:51.379
+just here in one dimensional quantum
+mechanics, so the momentum operator.
+
+142
+00:11:51.380 --> 00:11:56.201
+And the corresponding matrix elements, psi
+of x or psi of p, are called the
+
+143
+00:11:56.201 --> 00:12:01.077
+coordinate representation and the momentum
+representation correspondingly.
+
+144
+00:12:01.078 --> 00:12:07.395
+So for example, psi of x or psi of r, we
+have already seen many times in our
+
+145
+00:12:07.395 --> 00:12:11.152
+lectures.
+Now, the meaning of this of this basis
+
+146
+00:12:11.152 --> 00:12:15.717
+vector is, is essentially this tightly
+localized wave packets.
+
+147
+00:12:15.718 --> 00:12:19.991
+We shall locate it in a precise point and
+space.
+
+148
+00:12:19.992 --> 00:12:27.347
+So in contrast, the vectors p correspond
+to states with the well-defined momentum,
+
+149
+00:12:27.347 --> 00:12:31.140
+but which are completely delocalized in
+space.
+
+150
+00:12:31.140 --> 00:12:35.628
+So, these are completely different
+vectors, completely different basis, and
+
+151
+00:12:35.628 --> 00:12:39.143
+which one to choose is entirely the
+question of convenience.

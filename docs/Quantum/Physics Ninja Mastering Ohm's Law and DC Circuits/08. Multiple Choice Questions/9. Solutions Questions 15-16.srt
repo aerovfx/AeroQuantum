@@ -1,0 +1,160 @@
+WEBVTT
+
+00:00.230 --> 00:01.170
+All right here's a problem.
+
+00:01.180 --> 00:07.710
+Fifteen two resistors with resistances three home and two OAM are connected in series with a 12 volt
+
+00:07.710 --> 00:08.590
+battery.
+
+00:08.790 --> 00:11.830
+The current in the circuit is two apes.
+
+00:12.030 --> 00:15.630
+What is the internal resistance down although they don't really show you the internal resistance.
+
+00:15.630 --> 00:20.450
+You can always kind of assume that there is one especially if the questions asking you that to calculate
+
+00:20.450 --> 00:22.410
+what the internal resistance is.
+
+00:22.410 --> 00:26.640
+So first thing we're going to do well let's do a loop rule around here.
+
+00:26.640 --> 00:29.740
+Right if we do a loop rule around here we know there's two amps.
+
+00:29.760 --> 00:35.730
+So right away we're going to first see there's going to be a voltage drop across this internal resistance.
+
+00:35.730 --> 00:37.770
+Let me just call it lower case r.
+
+00:38.100 --> 00:43.920
+So we get minus two multiply by little are now going across the battery I'm going to get a 12 volt battery
+
+00:44.700 --> 00:50.610
+and then I'm going to just combine the three and the two over here again is going to be a voltage drop
+
+00:50.670 --> 00:55.870
+given by five multiplied by the current the current flowing through it is two.
+
+00:56.330 --> 00:56.790
+OK.
+
+00:57.000 --> 00:58.960
+And that there has to be equal to zero.
+
+00:59.310 --> 01:00.930
+So let's simplify this a little bit.
+
+01:00.970 --> 01:08.250
+So this becomes 12 that is 10 and minus two times are has to be equal to zero.
+
+01:08.250 --> 01:08.520
+All right.
+
+01:08.520 --> 01:11.750
+So we get two must be equal to two times.
+
+01:11.780 --> 01:16.150
+R R should be equal to one point zero ohms.
+
+01:16.410 --> 01:24.930
+Correct answer for this one is choice a ok problem 16 is similar you have two resistors this time in
+
+01:24.930 --> 01:29.910
+parallel 30 and 60 ohm they're connected to a 6 volt battery.
+
+01:29.940 --> 01:33.860
+They tell us the current is flowing through the battery here 0.25 amps.
+
+01:33.950 --> 01:35.960
+What's the internal resistance.
+
+01:35.970 --> 01:40.680
+Again it doesn't look like there's one in the drawing but you just put one in there right next to the
+
+01:40.680 --> 01:42.520
+battery it's in series with the battery.
+
+01:42.630 --> 01:48.420
+OK so one day I would probably do to begin with here is probably to combine both of these into one equivalent
+
+01:48.420 --> 01:51.280
+resistance since there's only two.
+
+01:51.300 --> 01:54.660
+It's very easy the equivalent resistance if they're in parallel.
+
+01:54.660 --> 02:02.510
+You just multiply them and divided by the sum so you get 180 over 9.
+
+02:02.760 --> 02:04.730
+Should give me 20 ohms.
+
+02:05.380 --> 02:05.900
+OK.
+
+02:06.210 --> 02:11.160
+So now I could start at one corner and do a complete loop around.
+
+02:11.160 --> 02:13.770
+So and do a loop rule that's it.
+
+02:13.980 --> 02:19.710
+So first thing I'm going to get a voltage drop across this internal resistance that's given by the current
+
+02:20.340 --> 02:27.380
+0.25 multiplied by the value of the unknown internal resistance plus 6 volts.
+
+02:27.390 --> 02:33.290
+And then I get another voltage drop across this eq. 20 ohm resistor and the current is still zero point
+
+02:33.290 --> 02:34.770
+twenty five.
+
+02:34.770 --> 02:38.980
+Now that's multiplied by 20 and that's equal to zero.
+
+02:39.350 --> 02:40.950
+OK you just have to do a little bit of math.
+
+02:40.950 --> 02:43.770
+Let me bring this term on the other side.
+
+02:43.880 --> 02:49.760
+So you get 0.25 are going to be equal to 6 minus.
+
+02:50.010 --> 02:54.410
+This is one over four multiplied by 20.
+
+02:54.420 --> 03:00.220
+Should Give me five OK six minus five gives me one.
+
+03:00.580 --> 03:03.110
+So ours should be equal to four.
+
+03:03.110 --> 03:03.870
+All right.
+
+03:03.910 --> 03:07.640
+One divided by 0.25 gives me forums.
+
+03:07.780 --> 03:09.700
+So at the end I should get a choice.
+
+03:09.700 --> 03:12.600
+DS The correct answer for a problem 16.
+
+03:13.240 --> 03:13.630
+OK.
+
+03:13.630 --> 03:19.060
+Kind of the same procedure as the previous one just resistors in parallel.
+
+03:19.060 --> 03:19.840
+Pretty straightforward.

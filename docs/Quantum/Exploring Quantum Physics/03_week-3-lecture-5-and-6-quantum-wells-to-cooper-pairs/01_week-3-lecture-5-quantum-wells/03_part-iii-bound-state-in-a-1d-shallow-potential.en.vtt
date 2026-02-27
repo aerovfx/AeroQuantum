@@ -1,0 +1,1102 @@
+WEBVTT
+
+1
+00:00:00.810 --> 00:00:03.840
+In the previous video we saw
+that the shallow quantum well
+
+2
+00:00:03.840 --> 00:00:09.360
+can be faithfully represented as
+an attractive derived delta potential.
+
+3
+00:00:09.360 --> 00:00:13.200
+And in this video we're going to
+solve the Schrödinger equation
+
+4
+00:00:13.200 --> 00:00:16.630
+with a delta potential in an arbitrary
+dimension, one, two or three.
+
+5
+00:00:17.650 --> 00:00:20.110
+And we're going to use
+a very powerful method,
+
+6
+00:00:20.110 --> 00:00:25.340
+mathematical method, that as a matter
+of fact was used by Leon Cooper,
+
+7
+00:00:25.340 --> 00:00:28.870
+to solve the key problem in
+the theory of superconductivity and
+
+8
+00:00:28.870 --> 00:00:33.300
+the problem of electron pairing which
+brought him eventually a Nobel Prize and
+
+9
+00:00:33.300 --> 00:00:36.540
+now this phenomenon of pairing is
+actually called Cooper pairing.
+
+10
+00:00:36.540 --> 00:00:38.797
+But we'll talk a little about this later,
+
+11
+00:00:38.797 --> 00:00:42.686
+but at this stage we're going to focus
+on just a single particle Schrödinger
+
+12
+00:00:42.686 --> 00:00:45.587
+equation with this sort of
+short-range attraction.
+
+13
+00:00:45.587 --> 00:00:48.519
+And so
+before going through the technicalities,
+
+14
+00:00:48.519 --> 00:00:51.586
+I want to give you the bottom line,
+the main result,
+
+15
+00:00:51.586 --> 00:00:54.616
+if you sort of get lost in
+these technical details.
+
+16
+00:00:54.616 --> 00:00:58.980
+So, at least I'd like you to know the very
+important outcome of this calculation
+
+17
+00:00:58.980 --> 00:01:00.015
+we're going to see.
+
+18
+00:01:00.015 --> 00:01:05.058
+And so the outcome would be the following,
+so we'll see that in one and
+
+19
+00:01:05.058 --> 00:01:09.763
+two dimensions that measure how
+weak attractive potential gives
+
+20
+00:01:09.763 --> 00:01:12.870
+rise to bound state of a quantum particle.
+
+21
+00:01:12.870 --> 00:01:17.900
+So, doesn't matter how shallow a well,
+we have it always will bind the particle.
+
+22
+00:01:17.900 --> 00:01:21.490
+But in three dimensions, it turns out that
+if you have a very weak potential, very
+
+23
+00:01:21.490 --> 00:01:26.470
+shallow potential, it's not enough to keep
+the particle to localize the particle.
+
+24
+00:01:26.470 --> 00:01:29.550
+And this difference,
+qualitative difference,
+
+25
+00:01:29.550 --> 00:01:32.730
+actually have a very important
+consequences in various fields.
+
+26
+00:01:32.730 --> 00:01:34.590
+In physics, you may want to remember that.
+
+27
+00:01:34.590 --> 00:01:38.470
+But now let me go to the technical part.
+
+28
+00:01:38.470 --> 00:01:41.906
+Okay, so and I will start with
+a certain math reminder which
+
+29
+00:01:41.906 --> 00:01:45.150
+basically will remind you
+what a Fourier transform is.
+
+30
+00:01:45.150 --> 00:01:46.540
+So, we can solve the problem, but
+
+31
+00:01:46.540 --> 00:01:48.960
+we'll solve the problem using
+only the Fourier transform.
+
+32
+00:01:48.960 --> 00:01:51.960
+There will be nothing else involved
+essentially this solution.
+
+33
+00:01:51.960 --> 00:01:54.240
+Fourier transform and
+inreverse Fourier transform.
+
+34
+00:01:54.240 --> 00:01:56.190
+So, what is a Fourier transform?
+
+35
+00:01:56.190 --> 00:01:59.960
+So, if you have an arbitrary function,
+well reasonable function g(x),
+
+36
+00:01:59.960 --> 00:02:06.410
+in our case it will be a wave function and
+various derivatives of it.
+
+37
+00:02:06.410 --> 00:02:11.900
+So the Fourier transform of this function
+g(x), which we call f of g(x) or
+
+38
+00:02:11.900 --> 00:02:16.290
+g tilde (k) is an integral of
+g(x) with this exponential.
+
+39
+00:02:16.290 --> 00:02:21.668
+So physically this K in our case
+will represent the wave and
+
+40
+00:02:21.668 --> 00:02:26.663
+H x K is going to be the particles
+momentum but in principle you can
+
+41
+00:02:26.663 --> 00:02:31.479
+view this Fourier transform
+as a mathematical procedure.
+
+42
+00:02:31.479 --> 00:02:36.087
+And an important fact here is that if you
+know the Fourier transform function you
+
+43
+00:02:36.087 --> 00:02:40.438
+can restore the function itself but
+doing the inverse Fourier transform.
+
+44
+00:02:40.438 --> 00:02:45.413
+So, g (x) is equal to an integral of,
+there should be a g
+
+45
+00:02:45.413 --> 00:02:49.992
+tilde (k) into the power minus ikx,
+dk over 2 Pi.
+
+46
+00:02:49.992 --> 00:02:53.287
+So, I remind you or
+emphasize that where to put this,
+
+47
+00:02:53.287 --> 00:02:57.972
+2 Pi is actually a matter of convention or
+convenience, so we could have put
+
+48
+00:02:57.972 --> 00:03:02.810
+the 2 Pi in the [INAUDIBLE] transform or
+we could have separated them.
+
+49
+00:03:02.810 --> 00:03:06.330
+Sort of like this, so we could have
+put 1 over square root of 2 Pi here,
+
+50
+00:03:06.330 --> 00:03:10.250
+1 over square root of 2 Pi here or
+any other combination of powers so
+
+51
+00:03:10.250 --> 00:03:13.780
+that the total power of 2 Pi in
+the denominator is equal to 1.
+
+52
+00:03:13.780 --> 00:03:17.610
+And this is a metric convention
+in the quantum mechanics,
+
+53
+00:03:17.610 --> 00:03:22.090
+the convention is that 2 Pi
+appears in this inverse Fourier
+
+54
+00:03:22.090 --> 00:03:26.510
+transform which features the wave
+reaction or the momentum.
+
+55
+00:03:26.510 --> 00:03:30.270
+So, I will just erase this stuff here.
+
+56
+00:03:30.270 --> 00:03:34.640
+So, anyways so, this is what we know and
+now the simplest perhaps example of
+
+57
+00:03:34.640 --> 00:03:37.940
+a Fourier transform will be actually
+a Fourier transform of the delta function.
+
+58
+00:03:37.940 --> 00:03:39.990
+So, if we want to Fourier
+transform the delta function,
+
+59
+00:03:39.990 --> 00:03:45.610
+we know that the delta function
+when integrated the value
+
+60
+00:03:45.610 --> 00:03:49.660
+of the function is being
+integrated with at x = 0.
+
+61
+00:03:49.660 --> 00:03:54.396
+So and if we integrate the delta of x with
+the e to par ikx from minus infinity to
+
+62
+00:03:54.396 --> 00:03:58.688
+plus infinity we'll simply will get
+one because e exponent of zero is
+
+63
+00:03:58.688 --> 00:03:59.592
+equal to one.
+
+64
+00:03:59.592 --> 00:04:03.001
+So, therefore the Fourier image
+of the delta function is one.
+
+65
+00:04:03.001 --> 00:04:06.264
+Just same identity in this case basically.
+
+66
+00:04:06.264 --> 00:04:11.048
+So, and we can also do the inverse Fourier
+transform which basically gives us
+
+67
+00:04:11.048 --> 00:04:15.024
+our presentation of the delta function and
+it's an integral for
+
+68
+00:04:15.024 --> 00:04:19.025
+minus infinity to plus infinity
+of this exponential dk over 2.
+
+69
+00:04:19.025 --> 00:04:21.375
+We have seen it already actually before.
+
+70
+00:04:21.375 --> 00:04:25.755
+So and these identities actually will
+be enough for us to solve the problem.
+
+71
+00:04:25.755 --> 00:04:29.903
+So, now the problem that we actually
+want to solve mathematically
+
+72
+00:04:29.903 --> 00:04:33.320
+is the Schrödinger equation
+which is presented here.
+
+73
+00:04:33.320 --> 00:04:37.649
+So, the left hand side of this equation
+here represents the Newtonian, so
+
+74
+00:04:37.649 --> 00:04:41.085
+the Newtonian in this part is
+the kinetic energy or the usual
+
+75
+00:04:41.085 --> 00:04:45.299
+kinetic energy written explicitly
+in the coordinate representation.
+
+76
+00:04:45.299 --> 00:04:49.131
+So, this is just p squared over 2m and
+this guy is our potential,
+
+77
+00:04:49.131 --> 00:04:50.257
+delta potential.
+
+78
+00:04:50.257 --> 00:04:53.200
+So, later on we're going to generalize
+it to arbitrary dimension but
+
+79
+00:04:53.200 --> 00:04:56.580
+at this stage I'm just doing
+1 dimension for simplicity.
+
+80
+00:04:56.580 --> 00:05:00.850
+So, of course, we're dealing now
+with Schrödinger equation and
+
+81
+00:05:00.850 --> 00:05:02.930
+the goal of this calculation, basically,
+
+82
+00:05:02.930 --> 00:05:07.810
+the goal of our derivation, would be
+to determine the value of the energy.
+
+83
+00:05:07.810 --> 00:05:11.590
+And in particular we would
+want to figure out whether or
+
+84
+00:05:11.590 --> 00:05:13.239
+not there are bound states
+with negative energy.
+
+85
+00:05:14.310 --> 00:05:18.898
+So, essentially if we want to
+sort of draw symbolically the,
+
+86
+00:05:18.898 --> 00:05:23.841
+potential that we're dealing with so
+it's, zero everywhere but
+
+87
+00:05:23.841 --> 00:05:28.030
+in the vicinity of x =0 there
+is a sharp sort of well.
+
+88
+00:05:28.030 --> 00:05:30.430
+And the question is whether
+theres a bound state or
+
+89
+00:05:30.430 --> 00:05:33.470
+bound states in this well
+with some negative energy.
+
+90
+00:05:33.470 --> 00:05:34.950
+So, this is basically the question.
+
+91
+00:05:35.980 --> 00:05:40.935
+And so now, let me do the actual
+calculation using this reminder and
+
+92
+00:05:40.935 --> 00:05:41.940
+Schrödinger equation.
+
+93
+00:05:43.130 --> 00:05:46.290
+So, what we're going to do,
+we're going to represent inside facts
+
+94
+00:05:46.290 --> 00:05:51.035
+as free of transform of the wave
+function in moment of our presentation.
+
+95
+00:05:51.035 --> 00:05:56.850
+So, this is going to be an integral of
+dk over 2 Pi of sum psi tilde sub key,
+
+96
+00:05:56.850 --> 00:05:57.820
+I'm going to write it.
+
+97
+00:05:57.820 --> 00:06:00.620
+E to the power- ikx,
+from minus infinity to positive infinity.
+
+98
+00:06:02.200 --> 00:06:06.830
+And just for the sake of brevity,
+I'm going to call this integral and so, so
+
+99
+00:06:06.830 --> 00:06:10.840
+that I don't have to write the standard
+factories and limits again.
+
+100
+00:06:10.840 --> 00:06:15.620
+So, it is identically equal
+in my notations to this.
+
+101
+00:06:17.190 --> 00:06:20.700
+So, there are three types of theorems
+that appear in this equation.
+
+102
+00:06:20.700 --> 00:06:21.990
+So, the wave function itself,
+
+103
+00:06:21.990 --> 00:06:24.988
+appears in the right hand side,
+multiplied by the energy.
+
+104
+00:06:24.988 --> 00:06:27.940
+In the left-hand side, though,
+we have, for instance, this guy,
+
+105
+00:06:27.940 --> 00:06:31.990
+which is the second derivative of
+the delta function, psi double prime.
+
+106
+00:06:31.990 --> 00:06:37.580
+So, differentiate this Fourier
+transform twice over the coordinant,
+
+107
+00:06:37.580 --> 00:06:42.760
+we're going to pull out, so the of
+the exponential is the exponential itself,
+
+108
+00:06:42.760 --> 00:06:45.750
+but they're going to pull
+out this minus i t squared.
+
+109
+00:06:45.750 --> 00:06:50.873
+So, therefore,
+we can represent this as derivative s
+
+110
+00:06:50.873 --> 00:06:57.359
+psi tilde sub x (-ik)
+squared e to the power- ikx.
+
+111
+00:06:57.359 --> 00:07:03.790
+So, this guy is the Fourier
+transform of psi double prime.
+
+112
+00:07:03.790 --> 00:07:09.760
+And finally we also have this term,
+so delta(x) psi(x).
+
+113
+00:07:09.760 --> 00:07:13.600
+But since delta (x) is a sharply
+peaked function that x = 0,
+
+114
+00:07:13.600 --> 00:07:18.840
+so it essentially pulls out only
+the value of the wave function of x = 0.
+
+115
+00:07:18.840 --> 00:07:21.780
+So, all other values of this
+wave function, in this product,
+
+116
+00:07:21.780 --> 00:07:23.190
+basically don't matter.
+
+117
+00:07:23.190 --> 00:07:27.491
+So, this term is going to be identically
+equal to psi (0), delta (x).
+
+118
+00:07:28.540 --> 00:07:29.660
+Okay?
+
+119
+00:07:29.660 --> 00:07:34.022
+And delta (x), we know that delta (x),
+before you even measure
+
+120
+00:07:34.022 --> 00:07:39.140
+the delta (x) we discussed in the previous
+slide, is simply equal to one.
+
+121
+00:07:39.140 --> 00:07:43.620
+So, we can represent this as a side
+of zero and integral over k again,
+
+122
+00:07:43.620 --> 00:07:49.130
+it's implied that it's minus infinity to
+the plus infinity either from minus ikx.
+
+123
+00:07:49.130 --> 00:07:52.150
+That's it.
+
+124
+00:07:52.150 --> 00:07:58.520
+So, this is basically the way we
+can write this in this situation.
+
+125
+00:07:58.520 --> 00:08:00.930
+And so,
+if you can put everything together, so
+
+126
+00:08:00.930 --> 00:08:06.820
+we're going to have in the left-hand side,
+we're going to have- h squared over
+
+127
+00:08:06.820 --> 00:08:12.230
+2m side tilde psi tilde sub k- ik
+
+128
+00:08:12.230 --> 00:08:17.850
+squared either to power- ikx.
+
+129
+00:08:17.850 --> 00:08:18.890
+So this term,
+
+130
+00:08:18.890 --> 00:08:25.250
+the second term is going to be minus alpha
+psi (0) which here is simply a constant.
+
+131
+00:08:25.250 --> 00:08:29.720
+So, we have pulled out the value of
+the wave function (x) = 0 just a constant.
+
+132
+00:08:29.720 --> 00:08:32.940
+And here we have this
+integral e to par- ikx.
+
+133
+00:08:34.670 --> 00:08:39.500
+In the right hand side, we're going to
+have simply energy times the wave function
+
+134
+00:08:40.540 --> 00:08:44.914
+coming from here k psi
+tilde e to the par- ikx.
+
+135
+00:08:46.030 --> 00:08:49.550
+So, we see that in all three terms,
+we have these integrals and
+
+136
+00:08:49.550 --> 00:08:50.760
+we have these exponentials.
+
+137
+00:08:50.760 --> 00:08:55.320
+So, we can simply focus on the overall
+coefficients that multiplies
+
+138
+00:08:55.320 --> 00:08:59.890
+all these exponentials and
+essentially get what we can call it and
+
+139
+00:08:59.890 --> 00:09:02.440
+shorten your equation in momentum space.
+
+140
+00:09:02.440 --> 00:09:06.980
+So in some sense, we can just
+get rid of these integrals, and
+
+141
+00:09:06.980 --> 00:09:08.790
+let me have some space here.
+
+142
+00:09:08.790 --> 00:09:11.990
+Let me erase most of this stuff.
+
+143
+00:09:11.990 --> 00:09:16.040
+So as a result, if we basically look at
+
+144
+00:09:16.040 --> 00:09:19.950
+this equation without the integrals for
+a particular key.
+
+145
+00:09:19.950 --> 00:09:25.225
+So, this term, the first term on
+the left-hand side is going to give us
+
+146
+00:09:25.225 --> 00:09:28.900
+plus each squared over 2m
+k squared psi tilde (k).
+
+147
+00:09:28.900 --> 00:09:32.987
+The second term is going to give
+us minus alpha times psi 0.
+
+148
+00:09:35.440 --> 00:09:38.723
+So, this psi zero is
+elevated real space though.
+
+149
+00:09:38.723 --> 00:09:43.609
+And at the right-hand side is going to
+be the energy that we're looking for
+
+150
+00:09:43.609 --> 00:09:45.220
+so this is our unknown.
+
+151
+00:09:45.220 --> 00:09:47.599
+This is what we're looking for.
+
+152
+00:09:47.599 --> 00:09:48.424
+Psi tilde (k).
+
+153
+00:09:48.424 --> 00:09:52.825
+So, we see that instead of solving the
+complicated differential equation as it
+
+154
+00:09:52.825 --> 00:09:57.990
+looked in the beginning we're now, reduced
+the problem to solving essentially.
+
+155
+00:09:57.990 --> 00:10:02.100
+A linear equation that we know
+how to do from high school math.
+
+156
+00:10:02.100 --> 00:10:08.026
+So, we simply can put this psi tilde,
+in the left-hand side of this guy,
+
+157
+00:10:08.026 --> 00:10:12.135
+in the right-hand side is
+we going to have h squared,
+
+158
+00:10:12.135 --> 00:10:15.400
+k squared over 2m- energy x psi tilde.
+
+159
+00:10:15.400 --> 00:10:17.400
+So these two guys.
+
+160
+00:10:17.400 --> 00:10:21.373
+And in the right-hand side we're
+going to have + alpha psi (0).
+
+161
+00:10:21.373 --> 00:10:25.514
+So, the wave function,
+the another unknown,
+
+162
+00:10:25.514 --> 00:10:31.219
+the wave function therefore is
+simply equal to alpha psi (0).
+
+163
+00:10:31.219 --> 00:10:38.690
+Wave function in real space divided by h
+squared p squared over 2m minus energy.
+
+164
+00:10:38.690 --> 00:10:43.290
+And, in some sense this is already
+a partially solution to our problem.
+
+165
+00:10:45.345 --> 00:10:48.911
+It's a solution in the sense that it
+determines the wave function in momentum
+
+166
+00:10:48.911 --> 00:10:53.210
+space and if we want for instance to
+find the wave function in real space.
+
+167
+00:10:53.210 --> 00:10:59.100
+All we have to do is just inverse
+Fourier transform it back to x.
+
+168
+00:10:59.100 --> 00:11:02.770
+But our main interest again is to
+answer the question of whether or
+
+169
+00:11:02.770 --> 00:11:07.410
+not there are bounds
+states in this potential.
+
+170
+00:11:07.410 --> 00:11:12.920
+So this, I just copied here the same
+equation we derived previously.
+
+171
+00:11:12.920 --> 00:11:17.860
+So, it emphasize that this is
+really what we're after here.
+
+172
+00:11:17.860 --> 00:11:21.280
+So, the question is are there
+any available energy levels,
+
+173
+00:11:21.280 --> 00:11:24.180
+level in this shallow quantum well
+
+174
+00:11:24.180 --> 00:11:28.060
+which responds to particle beam
+localized in the vicinity of the works.
+
+175
+00:11:28.060 --> 00:11:33.217
+So, it turns out that this question
+can be answered from this equation,
+
+176
+00:11:33.217 --> 00:11:35.087
+in just two simple steps.
+
+177
+00:11:35.087 --> 00:11:40.309
+And those of you who like mathematical
+puzzles, sort of aficionados of these
+
+178
+00:11:40.309 --> 00:11:45.388
+puzzles may want to just stop the
+presentation and stare at this equation.
+
+179
+00:11:45.388 --> 00:11:53.270
+And try to come up with a trick that will
+allow you to figure out this energy.
+
+180
+00:11:53.270 --> 00:11:55.890
+But if you just want to know the trick,
+let me show you how it works.
+
+181
+00:11:55.890 --> 00:11:57.580
+And it's actually very neat.
+
+182
+00:11:57.580 --> 00:12:01.130
+It doesn't require any super
+complicated calculations.
+
+183
+00:12:01.130 --> 00:12:07.180
+So this stage, let me recall that psi
+of x basically, can be represented as
+
+184
+00:12:07.180 --> 00:12:13.366
+the inverse Fourier transform of
+psi tilde of k either from- iks.
+
+185
+00:12:13.366 --> 00:12:17.615
+So therefore, psi 0 which appears on
+the right-hand side of this equation,
+
+186
+00:12:17.615 --> 00:12:22.060
+psi 0 corresponds simply to
+setting f to 0 in this equation.
+
+187
+00:12:22.060 --> 00:12:27.490
+So it's going to be an integral
+of all over all k over 2 pi
+
+188
+00:12:27.490 --> 00:12:28.556
+of this side tilde (k).
+
+189
+00:12:28.556 --> 00:12:32.504
+So, let me elevate this integral
+in both sides of this equation.
+
+190
+00:12:32.504 --> 00:12:37.060
+So, we have an equation, I can take
+integral of both sides of this equation.
+
+191
+00:12:38.130 --> 00:12:43.450
+And if I do so in the left-hand side,
+I'm going to have side tilde of
+
+192
+00:12:43.450 --> 00:12:48.313
+k which for
+this relation gives me simply psi (0).
+
+193
+00:12:48.313 --> 00:12:53.423
+While in the right-hand
+side I will have this
+
+194
+00:12:53.423 --> 00:12:58.802
+coefficient which is
+simply constant alpha psi
+
+195
+00:12:58.802 --> 00:13:04.046
+(0) an integral over key 1 over h squared,
+
+196
+00:13:04.046 --> 00:13:07.958
+k squared over 2 m minus epsilon.
+
+197
+00:13:07.958 --> 00:13:11.040
+And so, the neat thing that
+happens here is that this,
+
+198
+00:13:11.040 --> 00:13:15.060
+we see that there is a psi zero that
+we don't really know at this stage but
+
+199
+00:13:15.060 --> 00:13:19.429
+the psi zero appears on both sides of
+this equation so we can simply cancel it.
+
+200
+00:13:19.429 --> 00:13:24.379
+So, we end up with an equation that
+doesn't have the function anymore.
+
+201
+00:13:25.640 --> 00:13:27.320
+So, it has only one unknown.
+
+202
+00:13:27.320 --> 00:13:30.010
+And this unknown is exactly
+the energy we are after.
+
+203
+00:13:30.010 --> 00:13:34.770
+So, if we can solve our equation and
+find the value of the energy,
+
+204
+00:13:34.770 --> 00:13:40.170
+this would imply that there exists
+a bond state in our potential.
+
+205
+00:13:40.170 --> 00:13:44.090
+And remember that the bond
+state has negative energy, so
+
+206
+00:13:44.090 --> 00:13:45.980
+it must be below the continuum.
+
+207
+00:13:45.980 --> 00:13:48.440
+And this would correspond sort
+of to localized particles, so
+
+208
+00:13:48.440 --> 00:13:51.870
+we can simply put the same models here and
+the plus sign.
+
+209
+00:13:51.870 --> 00:13:56.250
+So, this would correspond to
+our energy we are looking for.
+
+210
+00:13:56.250 --> 00:14:00.550
+And also if we want sort of to
+restore normal form of the integral.
+
+211
+00:14:00.550 --> 00:14:05.660
+So, we can recall that
+my notation was simply
+
+212
+00:14:05.660 --> 00:14:08.740
+to save some space so
+this is really what we have.
+
+213
+00:14:10.810 --> 00:14:15.065
+So, let me skip the remaining technical
+step which essentially boils down just to
+
+214
+00:14:15.065 --> 00:14:18.581
+calculating this integral,
+which is an elementary integral, and
+
+215
+00:14:18.581 --> 00:14:19.953
+just present the result.
+
+216
+00:14:19.953 --> 00:14:24.302
+And here,
+I sort of re-written this equation,
+
+217
+00:14:24.302 --> 00:14:31.422
+in the sort of slight a different form,
+and this is a result of the calculation.
+
+218
+00:14:31.422 --> 00:14:35.507
+So, if you double the integral you
+will see, that there exist one and
+
+219
+00:14:35.507 --> 00:14:38.170
+only one solution for the energy.
+
+220
+00:14:38.170 --> 00:14:43.960
+And the energy is equal to minus m
+alpha squared over two h squared,
+
+221
+00:14:43.960 --> 00:14:48.770
+so remember alpha here is
+the parameter which multiplies
+
+222
+00:14:48.770 --> 00:14:53.230
+the delta potentials since sometimes Alpha
+controls the strength of this potentials.
+
+223
+00:14:53.230 --> 00:14:58.310
+This more of the Alpha the weaker
+the potentials that X of the particle.
+
+224
+00:14:58.310 --> 00:15:03.456
+And the result here is that, in the
+shallow quantum well in one dimension or
+
+225
+00:15:03.456 --> 00:15:08.523
+in the corresponding Delta potential well,
+there exists one and only one
+
+226
+00:15:08.523 --> 00:15:14.426
+bound state with this energy, which scales
+as so with the strength of the potential.
+
+227
+00:15:14.426 --> 00:15:18.665
+So, in the second part of this video
+we're going to discuss how this result is
+
+228
+00:15:18.665 --> 00:15:23.173
+modified in a very essential way if we go
+to more physical dimensions, to two and
+
+229
+00:15:23.173 --> 00:15:24.345
+three dimensions.

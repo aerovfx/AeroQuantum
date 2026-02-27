@@ -1,0 +1,895 @@
+1
+00:00:18,110 --> 00:00:18,510
+All right.
+
+2
+00:00:18,530 --> 00:00:23,240
+And our last video, we invest a lot of time and energy and putting together this nice relationship
+
+3
+00:00:23,240 --> 00:00:28,410
+between momentum and energy, and in doing so, it gave us really two main advantages.
+
+4
+00:00:28,430 --> 00:00:29,750
+What exactly were they?
+
+5
+00:00:30,110 --> 00:00:35,600
+Number one, the first advantage we got is that we were able to determine this invariant quantity that
+
+6
+00:00:35,600 --> 00:00:42,200
+is true in any reference frame, regardless of how an event is perceived or the perspective that actually
+
+7
+00:00:42,200 --> 00:00:42,710
+viewed it.
+
+8
+00:00:43,160 --> 00:00:43,550
+OK.
+
+9
+00:00:43,670 --> 00:00:50,330
+In other words, it allowed us to bridge the gap between an infinite set of perceptions or perspectives.
+
+10
+00:00:50,720 --> 00:00:56,780
+In addition to this, I also noted that it gave us a lot of analytical leverage and ability such that
+
+11
+00:00:56,780 --> 00:00:59,510
+we can run through problems more efficiently.
+
+12
+00:00:59,520 --> 00:01:02,150
+However, I haven't really demonstrated that.
+
+13
+00:01:02,360 --> 00:01:07,880
+So what I want to do is I want to take everything we've been doing, including this relationship, all
+
+14
+00:01:07,880 --> 00:01:13,010
+the equations we've put together, all the ideas, all the concepts, and I want to sort of bring them
+
+15
+00:01:13,010 --> 00:01:19,040
+into the full picture right here into this this lesson by running through some example problems that
+
+16
+00:01:19,040 --> 00:01:26,030
+really highlights the anukul efficiency and ability we obtain from all these relationships, ideas,
+
+17
+00:01:26,180 --> 00:01:28,600
+concepts, so on and so forth in particular.
+
+18
+00:01:28,610 --> 00:01:32,540
+So you can get comfortable with doing calculations in special relativity, right?
+
+19
+00:01:32,840 --> 00:01:38,150
+What I like to like and what we've done is putting together all these different puzzle pieces to the
+
+20
+00:01:38,330 --> 00:01:40,280
+full puzzle, the full picture.
+
+21
+00:01:40,580 --> 00:01:44,600
+Now what we're going to do is we're going to take this puzzle pieces, drop them into place, see how
+
+22
+00:01:44,600 --> 00:01:45,980
+they interact with one another.
+
+23
+00:01:46,220 --> 00:01:51,200
+And in doing so, this is going to show the big picture is going to have everything come together,
+
+24
+00:01:51,320 --> 00:01:56,420
+and it's going to give you that nice aha moment in showing you how to run through different special
+
+25
+00:01:56,420 --> 00:01:57,850
+relativity problems.
+
+26
+00:01:57,860 --> 00:01:58,220
+OK?
+
+27
+00:01:58,340 --> 00:02:03,320
+So the first problem we're going to run through is it's pretty simple, pretty straightforward.
+
+28
+00:02:03,680 --> 00:02:07,310
+It's going to build off of what we did maybe a few videos ago.
+
+29
+00:02:07,670 --> 00:02:14,780
+If you recall, we looked at an electron that had some kind of velocity and we determine its mass,
+
+30
+00:02:14,930 --> 00:02:17,540
+which then allowed us to determine its energy.
+
+31
+00:02:17,780 --> 00:02:23,870
+And I showed you the different units we were able to to use with that, and I said that would be a better
+
+32
+00:02:23,870 --> 00:02:25,590
+unit using in our analysis.
+
+33
+00:02:25,610 --> 00:02:26,750
+Let's jump into the problem.
+
+34
+00:02:26,960 --> 00:02:32,060
+Let's see how that helps us run through this quickly, given the different tools, the different puzzle
+
+35
+00:02:32,060 --> 00:02:34,130
+pieces we've put together, OK?
+
+36
+00:02:34,460 --> 00:02:36,920
+So the primary to look at, as I mentioned, is the like John.
+
+37
+00:02:37,130 --> 00:02:45,440
+And the problem statement says that if an electron e is moving with a total energy e of 1.3 mega electron
+
+38
+00:02:45,440 --> 00:02:50,720
+volts, and that's the new unit we're using for energy recall, we talked about the electron volt previously.
+
+39
+00:02:51,050 --> 00:02:56,600
+What we want to do is determine its momentum, speed and kinetic energy.
+
+40
+00:02:56,600 --> 00:02:59,330
+Now is these three quantities we're trying to determine.
+
+41
+00:02:59,330 --> 00:03:04,220
+And I'm sort of guiding you through the problem because in order to determine the kinetic energy, what
+
+42
+00:03:04,220 --> 00:03:08,720
+you're going to find is we would need to run through all these things before it in order to get some
+
+43
+00:03:08,720 --> 00:03:12,050
+information that would allow us to determine that kinetic energy.
+
+44
+00:03:12,050 --> 00:03:14,310
+So is a quick picture of what we're seeing.
+
+45
+00:03:14,330 --> 00:03:19,880
+We have an electron, we some velocity b we don't know what that is, but we know the total energy.
+
+46
+00:03:20,090 --> 00:03:22,760
+Perhaps we measured that perhaps somebody gave it to us.
+
+47
+00:03:23,450 --> 00:03:25,580
+Who knows, but we have this, this quantity here.
+
+48
+00:03:25,790 --> 00:03:33,590
+So first thing we want to do if we have an electron and we know its total energy, we also know it's
+
+49
+00:03:33,590 --> 00:03:38,420
+rest energy because as you know, previously, well, we calculated it.
+
+50
+00:03:38,420 --> 00:03:43,490
+But when you run into these problems, what you want to do is you want to get that mass, the mass or
+
+51
+00:03:43,490 --> 00:03:47,090
+the rest energy of that particle so we can look up an electron.
+
+52
+00:03:47,090 --> 00:03:48,200
+We know the electrons.
+
+53
+00:03:48,500 --> 00:03:54,110
+That's energy is zero point five one one mega electron volts over C square.
+
+54
+00:03:54,110 --> 00:04:01,400
+That new unit we used and if we know the rest energy and we know the total energy, we want to figure
+
+55
+00:04:01,400 --> 00:04:02,120
+out the momentum.
+
+56
+00:04:02,660 --> 00:04:09,890
+Well, there's only one missing thing we have in the moment of energy relation we put together previously,
+
+57
+00:04:09,890 --> 00:04:10,100
+right?
+
+58
+00:04:10,340 --> 00:04:11,320
+We have this guy here.
+
+59
+00:04:11,330 --> 00:04:17,660
+So what you'll find is that in all these problems, if you have energy, you want to get momentum,
+
+60
+00:04:17,870 --> 00:04:23,570
+you want to get rest mass and then you can all throw those puzzles puzzle pieces into this nice equation
+
+61
+00:04:23,570 --> 00:04:26,480
+here and here to any missing entity.
+
+62
+00:04:26,530 --> 00:04:28,130
+OK, so we're missing the latter.
+
+63
+00:04:28,430 --> 00:04:33,770
+So what we could do is we can isolate this PC term, throwing these values we have previously and then
+
+64
+00:04:33,770 --> 00:04:35,870
+plug and chug and get a result.
+
+65
+00:04:36,170 --> 00:04:40,640
+Let's do that right now so we can take the main relationship right here.
+
+66
+00:04:41,340 --> 00:04:43,460
+We can say, OK, I'm a PC squared.
+
+67
+00:04:43,460 --> 00:04:49,010
+I'm going to sort of flip this guy, subtract and that's the square from the E Square over here, and
+
+68
+00:04:49,010 --> 00:04:51,230
+we have to take a square root to get rid of this guy.
+
+69
+00:04:51,800 --> 00:04:53,750
+And it's the relationship we get.
+
+70
+00:04:53,930 --> 00:04:56,810
+We have all these quantities we can plug them in.
+
+71
+00:04:57,290 --> 00:04:58,340
+We can solve a problem.
+
+72
+00:04:58,550 --> 00:05:04,220
+Now, when we plug these guys in, this is going to really highlight the elegance of expressing mass
+
+73
+00:05:04,550 --> 00:05:08,840
+and shortly momentum with this new different unit here.
+
+74
+00:05:09,110 --> 00:05:10,580
+But we haven't seen this come into play.
+
+75
+00:05:10,580 --> 00:05:12,800
+We haven't seen this in action really yet.
+
+76
+00:05:13,040 --> 00:05:13,850
+Very briefly.
+
+77
+00:05:14,090 --> 00:05:14,450
+OK.
+
+78
+00:05:14,570 --> 00:05:17,280
+So let's plug in Chuck Energy total.
+
+79
+00:05:18,270 --> 00:05:24,570
+1.3 million electron volts, plus that guy in here squared subtract, we need the rest energy.
+
+80
+00:05:24,750 --> 00:05:26,700
+So what we can do is we plug in the mass.
+
+81
+00:05:28,210 --> 00:05:29,440
+Point five, one one.
+
+82
+00:05:29,560 --> 00:05:36,760
+That's the rest, mass, of course, as mega electron volts over C squared and you multiply by C squared.
+
+83
+00:05:37,090 --> 00:05:41,260
+And what's really cool is you see what that guy pops off.
+
+84
+00:05:41,740 --> 00:05:43,900
+We don't have to do any insane calculations.
+
+85
+00:05:43,900 --> 00:05:45,640
+We don't have to do a lot of work.
+
+86
+00:05:46,360 --> 00:05:47,210
+It's right there.
+
+87
+00:05:47,240 --> 00:05:50,530
+We're sort of priming the fact that we want to use it for energy.
+
+88
+00:05:50,860 --> 00:05:54,730
+So we express in terms of energy units over C squared.
+
+89
+00:05:55,240 --> 00:05:57,910
+And when we take this, this expression here.
+
+90
+00:05:59,410 --> 00:06:04,060
+And we throw it into a calculator, a Wolfram Alpha Mathematica.
+
+91
+00:06:04,720 --> 00:06:06,040
+My personal fear MATLAB.
+
+92
+00:06:06,670 --> 00:06:09,820
+What are you going to end up with is we saw for PC.
+
+93
+00:06:09,940 --> 00:06:14,260
+It's an energy term and we get a one point two mega electron volts.
+
+94
+00:06:14,500 --> 00:06:15,840
+So I know what you're thinking about.
+
+95
+00:06:15,890 --> 00:06:16,630
+Whoa, wait.
+
+96
+00:06:16,630 --> 00:06:18,770
+A second, probably thinking we were all that's on.
+
+97
+00:06:18,790 --> 00:06:21,320
+What in the world is this PC PC?
+
+98
+00:06:21,600 --> 00:06:22,450
+What does that mean?
+
+99
+00:06:22,480 --> 00:06:26,710
+Well, what I'm going to say is just like rest mass.
+
+100
+00:06:28,420 --> 00:06:30,970
+How KG were not very useful?
+
+101
+00:06:31,360 --> 00:06:36,070
+Well, we're going to see what momentum, you know, kg meter per second are, you know, Marston's
+
+102
+00:06:36,070 --> 00:06:36,640
+velocity.
+
+103
+00:06:37,780 --> 00:06:40,270
+I don't want to have to convert to electron volts.
+
+104
+00:06:40,540 --> 00:06:41,650
+That's going to take a lot of work.
+
+105
+00:06:41,980 --> 00:06:48,310
+So what we could do is we could say, OK, let's formulate a new unit of measurement for momentum.
+
+106
+00:06:49,300 --> 00:06:54,490
+By literally looking at usually we're going to use this relationship, so we're going to prime the unit
+
+107
+00:06:55,300 --> 00:06:57,160
+to be compatible with this information.
+
+108
+00:06:57,760 --> 00:07:01,320
+So let's just divide by AC and the momentum we get.
+
+109
+00:07:01,360 --> 00:07:08,740
+And this is how momentum is expressed in special relativity is just one way to make electron volts per
+
+110
+00:07:08,740 --> 00:07:09,100
+seat.
+
+111
+00:07:09,430 --> 00:07:09,730
+OK.
+
+112
+00:07:10,480 --> 00:07:10,820
+OK.
+
+113
+00:07:11,230 --> 00:07:16,300
+This is a more conventional measurement, because if we're doing these calculations, the special relativity,
+
+114
+00:07:16,300 --> 00:07:22,780
+all we need to do is we take this guy, we multiply by C and we get the energy unit back.
+
+115
+00:07:23,230 --> 00:07:25,330
+And it's very convenient, right?
+
+116
+00:07:25,810 --> 00:07:28,600
+It boosts our analytical efficiency.
+
+117
+00:07:28,600 --> 00:07:30,150
+In essence, you can see that I play.
+
+118
+00:07:30,490 --> 00:07:31,410
+You can see that I play.
+
+119
+00:07:31,420 --> 00:07:33,700
+So we're making good progress.
+
+120
+00:07:33,730 --> 00:07:35,140
+We got one parameter down.
+
+121
+00:07:35,440 --> 00:07:41,440
+The next thing you want to do after, you know, momentum, we can take advantage of that next relationship.
+
+122
+00:07:41,440 --> 00:07:43,960
+We had to determine velocity, right?
+
+123
+00:07:44,110 --> 00:07:46,750
+Because as I said, we had a dimensionless.
+
+124
+00:07:47,900 --> 00:07:49,850
+Relationship dimensionless quantity.
+
+125
+00:07:51,700 --> 00:07:55,600
+Which expressed the relative velocity v over C or beta.
+
+126
+00:07:56,850 --> 00:07:59,460
+As being equal to pissy over eat.
+
+127
+00:08:00,090 --> 00:08:07,080
+So we have all these quantities, we can put them in and quickly figure out the speed or the velocity,
+
+128
+00:08:07,080 --> 00:08:08,340
+the magnitude of velocity.
+
+129
+00:08:09,090 --> 00:08:10,800
+So we plug in.
+
+130
+00:08:12,660 --> 00:08:19,080
+This guy right here we can I can show you the analytical awesomeness of this firsthand, right?
+
+131
+00:08:19,470 --> 00:08:21,720
+So momentum is one million electron volts over.
+
+132
+00:08:21,720 --> 00:08:23,430
+See you plug in for P.
+
+133
+00:08:23,910 --> 00:08:30,690
+We're going to see and we see again, just like with rest energy, the CS cancel and we get that energy
+
+134
+00:08:30,960 --> 00:08:31,770
+unit back.
+
+135
+00:08:32,190 --> 00:08:38,250
+And then we want to divide by the total energy which we know to be 1.3 million electron volts.
+
+136
+00:08:38,580 --> 00:08:40,500
+Again, evaluate this guy.
+
+137
+00:08:40,680 --> 00:08:41,340
+What do you get?
+
+138
+00:08:41,490 --> 00:08:43,020
+We get a pretty high relative.
+
+139
+00:08:43,020 --> 00:08:44,910
+Last we had a relative velocity.
+
+140
+00:08:45,030 --> 00:08:47,940
+And this is not surprising because we're dealing about subatomic particle.
+
+141
+00:08:49,290 --> 00:08:56,730
+We get a velocity of 0.9 two and we can either use that later on in our calculations.
+
+142
+00:08:57,210 --> 00:09:05,520
+Or we can say, Oh, we we just take the C over here and we can express the speed as 0.9 to see band
+
+143
+00:09:05,850 --> 00:09:07,230
+two thirds of the problem done.
+
+144
+00:09:07,980 --> 00:09:12,210
+Now men are the problem is trying to figure out the kinetic energy.
+
+145
+00:09:12,600 --> 00:09:15,570
+And I don't have it written up here because I'm limited on board space.
+
+146
+00:09:15,960 --> 00:09:23,940
+But where I want to recall is that kinetic energy, as we defined it was gamma minus one.
+
+147
+00:09:25,100 --> 00:09:28,100
+And the rest, energy and Moxie Square.
+
+148
+00:09:30,820 --> 00:09:31,210
+OK.
+
+149
+00:09:32,080 --> 00:09:37,660
+So in other words, you're taking the total energy, subtracting the rest of energy, and we get this
+
+150
+00:09:37,690 --> 00:09:38,380
+equation here.
+
+151
+00:09:39,100 --> 00:09:44,500
+So what we could do is we could take e, we could take the rest of energy here because subtract them.
+
+152
+00:09:45,720 --> 00:09:49,470
+And that will give us the result, because, you know, there are multiple ways to do that, so we could
+
+153
+00:09:49,470 --> 00:09:57,270
+do we could say energy is equal to you and not c squared plus kinetic energy.
+
+154
+00:09:58,500 --> 00:10:01,380
+And we know this guy, we know this guy that could solve it.
+
+155
+00:10:02,130 --> 00:10:07,740
+Why don't I try and use the equation we put together to give you some more practice with using these
+
+156
+00:10:07,740 --> 00:10:07,920
+guys?
+
+157
+00:10:07,920 --> 00:10:13,050
+So obviously we need to figure out how the magnitude of relativistic effects.
+
+158
+00:10:13,530 --> 00:10:17,310
+So using this B, we could calculate gamma, right?
+
+159
+00:10:17,550 --> 00:10:22,440
+That could give us information about, Oh, maybe you want to see if there's a time difference in the
+
+160
+00:10:22,440 --> 00:10:25,140
+reference frame moving with the electron?
+
+161
+00:10:25,470 --> 00:10:29,880
+I want to see if there's some kind of time dilation going on or length contraction.
+
+162
+00:10:30,270 --> 00:10:36,570
+We would need this guy so we could use all this stuff to figure out the velocity and then we have to
+
+163
+00:10:36,570 --> 00:10:37,350
+figure out gamma.
+
+164
+00:10:37,650 --> 00:10:39,110
+Well, we call gamma.
+
+165
+00:10:39,210 --> 00:10:44,580
+Gamma is nothing more than one over the square root of one, minus the relative velocity squared, beta
+
+166
+00:10:44,580 --> 00:10:45,000
+squared.
+
+167
+00:10:45,600 --> 00:10:47,310
+So we got this guy.
+
+168
+00:10:47,460 --> 00:10:51,060
+We can literally plug it straight in plug and shock, baby.
+
+169
+00:10:51,210 --> 00:10:52,590
+So we take one.
+
+170
+00:10:52,590 --> 00:10:55,860
+We divide by the square root of one minus beta squared.
+
+171
+00:10:56,250 --> 00:10:58,080
+We plug in that point nine to you.
+
+172
+00:10:58,260 --> 00:10:59,100
+We square it.
+
+173
+00:11:00,700 --> 00:11:06,370
+And we get up a gamma value of 2.5 five, which is, you know, that's somewhat significant.
+
+174
+00:11:06,380 --> 00:11:13,480
+So we're going to see relativistic effects cropping up coming into play here, and we would expect some
+
+175
+00:11:13,480 --> 00:11:20,410
+kind of time dilation length contraction to occur and we expect somebody moving in this reference frame
+
+176
+00:11:20,500 --> 00:11:27,190
+to have a different experience than somebody else who is perhaps stationary or moving at a different
+
+177
+00:11:27,310 --> 00:11:27,850
+speed.
+
+178
+00:11:28,390 --> 00:11:30,640
+OK, so we could use this for all those calculations.
+
+179
+00:11:31,060 --> 00:11:32,710
+We're going to figure out the kinetic energy.
+
+180
+00:11:32,980 --> 00:11:37,990
+So what we need to do to figure that out is take this guy, plug it in here.
+
+181
+00:11:39,490 --> 00:11:45,140
+And when we do that, we get a 2.5 five minus one.
+
+182
+00:11:45,670 --> 00:11:48,100
+And then we want to multiply by the rest energy.
+
+183
+00:11:48,790 --> 00:11:55,030
+And since you've seen previously how the Sea Square cancels with that guy right there, I'm going to
+
+184
+00:11:55,030 --> 00:11:56,830
+see what I would typically do.
+
+185
+00:11:57,370 --> 00:11:59,770
+I wouldn't write this out because that's a little inconvenient.
+
+186
+00:11:59,770 --> 00:12:02,840
+So what I say is, Oh, we got a c squared and I just can't in my head.
+
+187
+00:12:03,550 --> 00:12:04,540
+Easy peasy, right?
+
+188
+00:12:04,690 --> 00:12:07,180
+So it ends up becoming this guy.
+
+189
+00:12:07,540 --> 00:12:11,530
+Times zero point five one one.
+
+190
+00:12:12,340 --> 00:12:14,140
+Mega electron volts.
+
+191
+00:12:15,980 --> 00:12:26,090
+And when we do that, that calculation, we end up with again, we got an energy union right there because
+
+192
+00:12:26,090 --> 00:12:36,500
+the seas are canceled, that guy, we end up with a kinetic energy of zero point seven nine two mega
+
+193
+00:12:37,430 --> 00:12:38,570
+electron volts.
+
+194
+00:12:40,780 --> 00:12:48,430
+OK, so that's the energy we get that is composed due to its velocity.
+
+195
+00:12:49,940 --> 00:12:51,500
+We got that nice guy right there.
+
+196
+00:12:52,130 --> 00:12:53,420
+And as a check.
+
+197
+00:12:54,440 --> 00:13:01,250
+What we could do is we could say, well, if we take this and add the rest of energy, that should equal
+
+198
+00:13:01,250 --> 00:13:02,090
+the total energy.
+
+199
+00:13:02,090 --> 00:13:06,200
+So OK, that's about point one plus point five.
+
+200
+00:13:06,530 --> 00:13:09,020
+Oh, that's one point three million electron volts.
+
+201
+00:13:09,290 --> 00:13:12,380
+So yes, we're doing this correctly.
+
+202
+00:13:12,560 --> 00:13:14,540
+That strengthens our confidence and.
+
+203
+00:13:17,240 --> 00:13:22,340
+What's the first problem we ran through in relativistic mechanics besides, you know, we ran through
+
+204
+00:13:22,340 --> 00:13:29,330
+the energy problem, but you can see here how our modifications to units, our relationships and our
+
+205
+00:13:29,330 --> 00:13:32,090
+momentum really drive the analysis forward.
+
+206
+00:13:32,330 --> 00:13:32,600
+Right.
+
+207
+00:13:32,660 --> 00:13:38,360
+This is a useful tool used for useful puzzle piece, which gives us a huge glimpse into the full picture,
+
+208
+00:13:38,750 --> 00:13:39,010
+right?
+
+209
+00:13:39,200 --> 00:13:43,490
+So when you solve all these problems and we're going to run through another one a bit more complex shortly,
+
+210
+00:13:43,940 --> 00:13:49,250
+what you want to do is you want to say, OK, I have all these tools, I have all these puzzle pieces.
+
+211
+00:13:49,880 --> 00:13:52,730
+How can I rearrange them and put them together?
+
+212
+00:13:52,730 --> 00:13:54,290
+How can they interact with one another?
+
+213
+00:13:54,560 --> 00:13:58,910
+So should I put the full picture together of what's happening in this example problem?
+
+214
+00:13:59,360 --> 00:14:06,080
+OK, so if you get lost in any kind of problem, what you should do is you say, OK, maybe I have energy
+
+215
+00:14:06,680 --> 00:14:09,140
+no matter what, let's calculate the energy.
+
+216
+00:14:09,530 --> 00:14:10,820
+Let's calculate the momentum.
+
+217
+00:14:11,060 --> 00:14:17,630
+Let's calculate the velocity to each one and then question, OK, they gave me another puzzle piece
+
+218
+00:14:18,080 --> 00:14:20,060
+How can I fit that in with the other puzzle pieces?
+
+219
+00:14:20,060 --> 00:14:22,100
+I have to see the full picture.
+
+220
+00:14:22,310 --> 00:14:22,640
+OK.
+
+221
+00:14:22,940 --> 00:14:28,580
+So remember, we're always going to be using conservation of energy, so relationship conservation of
+
+222
+00:14:28,580 --> 00:14:30,470
+momentum, so on and so forth.
+
+223
+00:14:30,740 --> 00:14:35,510
+And that's the name of the game in special relativity and relativistic mechanics.
+
+224
+00:14:35,750 --> 00:14:39,260
+OK, let's jump into another example problem.

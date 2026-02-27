@@ -1,0 +1,1069 @@
+WEBVTT
+
+1
+00:00:18.100 --> 00:00:18.580
+All right.
+
+2
+00:00:18.640 --> 00:00:23.950
+And our last video, we had our first encounter with a concept known as a Doppler shift.
+
+3
+00:00:24.280 --> 00:00:26.080
+What do we find in that video?
+
+4
+00:00:26.110 --> 00:00:33.490
+We discovered that any kind of relative motion, whether it's closing the gap or opening the gap between
+
+5
+00:00:33.490 --> 00:00:41.350
+a source, an observer of any kind of waveform experiences, a change, a relative shift in that frequency,
+
+6
+00:00:41.350 --> 00:00:46.700
+and it's due to the relative motion between that observer and the source.
+
+7
+00:00:46.770 --> 00:00:48.910
+OK, so what the helped us do?
+
+8
+00:00:48.910 --> 00:00:55.300
+It helped us extend our universal conception of reality such that we could further bridge the gap between
+
+9
+00:00:55.300 --> 00:01:00.250
+different perspectives and get a nice, all inclusive perspective of the universe.
+
+10
+00:01:00.490 --> 00:01:07.390
+Now what I want to do in this video is take another look, another perspective of that same phenomenon
+
+11
+00:01:07.570 --> 00:01:09.430
+and derive the same exact result.
+
+12
+00:01:09.610 --> 00:01:16.570
+But this time, instead of taking a physical approach by using our physical observation and understanding
+
+13
+00:01:16.750 --> 00:01:24.130
+of the phenomenon at hand, what I want to do is take a more organic mathematical approach by taking
+
+14
+00:01:24.130 --> 00:01:25.840
+a look at ENM waves.
+
+15
+00:01:25.840 --> 00:01:28.220
+That's electro and magnetism waves.
+
+16
+00:01:28.240 --> 00:01:28.690
+OK.
+
+17
+00:01:28.930 --> 00:01:34.090
+So in order to do that first, what I want to do is I want to review what happens with the traveling,
+
+18
+00:01:34.270 --> 00:01:41.260
+propagating wave, and I want to use that information and some, some input we had in the beginning
+
+19
+00:01:41.260 --> 00:01:46.450
+of this course for the non relativistic shift between different perspectives.
+
+20
+00:01:46.690 --> 00:01:51.730
+We're going to use that to derive the same result to strengthen what we obtained and increase our confidence
+
+21
+00:01:51.730 --> 00:01:53.020
+in that result.
+
+22
+00:01:53.410 --> 00:01:53.890
+OK.
+
+23
+00:01:54.160 --> 00:01:57.490
+So first and foremost, traveling waves, OK?
+
+24
+00:01:58.800 --> 00:02:02.880
+We're going to we're going to go over the key characteristics of sir.
+
+25
+00:02:03.100 --> 00:02:08.850
+So any kind of traveling way of what we have is just like we saw previously in the last video on some
+
+26
+00:02:08.850 --> 00:02:12.900
+function, which the function of X and time this is at time equals zero.
+
+27
+00:02:13.320 --> 00:02:15.480
+The independent variable is X.
+
+28
+00:02:15.780 --> 00:02:20.190
+When you have a source that emits wave, it's going to go up and down in a cyclical fashion.
+
+29
+00:02:20.460 --> 00:02:25.560
+It's going to have an amplitude, a that's going to be the maximum point of the crest and the travel
+
+30
+00:02:26.400 --> 00:02:27.900
+and one is propagating.
+
+31
+00:02:27.900 --> 00:02:30.810
+We know that the wave moves in the right direction.
+
+32
+00:02:30.840 --> 00:02:36.690
+Now you study physics before, maybe also to throw away phenomenon some kind of stuff like that.
+
+33
+00:02:37.020 --> 00:02:42.200
+What you find is that we can describe this wave mathematically in two ways.
+
+34
+00:02:42.210 --> 00:02:42.690
+First.
+
+35
+00:02:42.930 --> 00:02:49.410
+What we can do is we can use the Euler identity to describe in terms of cool signs and signs that function,
+
+36
+00:02:49.410 --> 00:02:53.010
+which is the function of X and T, usually describe as the amplitude.
+
+37
+00:02:53.340 --> 00:02:55.590
+And this exponential function with J.
+
+38
+00:02:55.590 --> 00:02:58.620
+We're J is the square root of negative one.
+
+39
+00:02:58.620 --> 00:03:05.280
+An imaginary number times the quantity omega T minus K X. This representation.
+
+40
+00:03:06.630 --> 00:03:12.990
+Is intended to describe a wave of travels in the X direction, and I'm going to go over the difference
+
+41
+00:03:12.990 --> 00:03:17.910
+between traveling in the X direction and traveling in the negative X direction because they are a little
+
+42
+00:03:17.910 --> 00:03:18.330
+different.
+
+43
+00:03:18.600 --> 00:03:22.080
+And that's going to drive what we talk about in this lesson here.
+
+44
+00:03:22.100 --> 00:03:24.850
+First and foremost, what in the world is so mega?
+
+45
+00:03:24.900 --> 00:03:27.090
+And one, the world is this Kater?
+
+46
+00:03:27.460 --> 00:03:28.980
+And he studied the stuff previously.
+
+47
+00:03:29.400 --> 00:03:34.410
+You've probably found that K, which is the propagation constant or the wave number.
+
+48
+00:03:34.590 --> 00:03:41.430
+It describes how many radians are transpired per each wavelength of our waves.
+
+49
+00:03:41.430 --> 00:03:46.110
+The wave ones, as we described previously, is once like one complete cycle that wave.
+
+50
+00:03:46.560 --> 00:03:51.930
+And it's generally defined as K is equal to two pi over land at the wavelength.
+
+51
+00:03:52.380 --> 00:03:53.430
+That's the wave number.
+
+52
+00:03:53.610 --> 00:03:59.550
+We're trying to figure out how the angle changes with respect to one one wavelength.
+
+53
+00:03:59.640 --> 00:03:59.910
+Right?
+
+54
+00:04:00.150 --> 00:04:01.260
+It's in terms of distance.
+
+55
+00:04:01.650 --> 00:04:05.460
+We also have omega, which is the angular frequency.
+
+56
+00:04:05.760 --> 00:04:13.830
+So conversely, to the propagation concept with wave number, this is how much time progresses or rather
+
+57
+00:04:13.830 --> 00:04:17.400
+how many radius progress per one period one cycle.
+
+58
+00:04:17.640 --> 00:04:24.570
+OK, so we know one cycle is going to be you two pi going from beginning to the end, OK?
+
+59
+00:04:24.720 --> 00:04:31.050
+So omega is defined as two pi over the period C, and we also discovered in the last video that one
+
+60
+00:04:31.050 --> 00:04:32.490
+or T one of the period.
+
+61
+00:04:33.390 --> 00:04:35.190
+That's basically the frequency, right?
+
+62
+00:04:35.310 --> 00:04:38.010
+So this is defined as two pi times frequency.
+
+63
+00:04:38.010 --> 00:04:40.260
+OK, so that's our angular frequency.
+
+64
+00:04:41.440 --> 00:04:47.860
+And what I what I want to point your attention to is a wave that's traveling in a positive direction
+
+65
+00:04:48.070 --> 00:04:49.090
+and the negative direction.
+
+66
+00:04:49.360 --> 00:04:52.360
+Why is this guy traveling in the opposite direction?
+
+67
+00:04:52.900 --> 00:04:57.970
+The trick I like to use for figuring that out is to take any points.
+
+68
+00:04:58.080 --> 00:05:03.850
+It's got any point on the way we take this crest right here as it moves.
+
+69
+00:05:04.150 --> 00:05:07.180
+It's going to move only in the X direction, but.
+
+70
+00:05:08.110 --> 00:05:12.190
+If we want to describe this point as a muse after a time's up at sea, it might be over here.
+
+71
+00:05:13.030 --> 00:05:16.300
+We know that the theta is constant, right?
+
+72
+00:05:16.570 --> 00:05:23.820
+So for example, if we're trying to describe when F Vex equals zero at this point here, we know that
+
+73
+00:05:23.830 --> 00:05:26.860
+this is always occurs at an angle of two pot.
+
+74
+00:05:27.870 --> 00:05:28.200
+Right.
+
+75
+00:05:28.620 --> 00:05:36.630
+And it could be two multiples of two pirate two, and it lets you describe this, that this the angle
+
+76
+00:05:36.630 --> 00:05:41.490
+has three main thing is try the same exact point as it moves in the X direction.
+
+77
+00:05:41.910 --> 00:05:42.960
+So that means is that.
+
+78
+00:05:44.070 --> 00:05:50.130
+The angular term, which is described right here, omega seed has three main causes, so if we take
+
+79
+00:05:50.370 --> 00:05:51.270
+omega T.
+
+80
+00:05:52.830 --> 00:05:56.630
+Minus K X equals zero.
+
+81
+00:05:57.850 --> 00:05:58.120
+Right.
+
+82
+00:05:58.540 --> 00:05:59.860
+There's no no change.
+
+83
+00:06:02.200 --> 00:06:05.230
+What we can do is we can say, OK.
+
+84
+00:06:06.300 --> 00:06:13.020
+If it increases, we don't want any change in the sky, we want the Anglo angler part remain the same
+
+85
+00:06:13.620 --> 00:06:17.070
+and where the anger comes into play, sometimes we have a face constant.
+
+86
+00:06:17.520 --> 00:06:19.860
+So you could add a.
+
+87
+00:06:20.920 --> 00:06:25.410
+Little face constant, they're added, they're in this case, I'm thinking it to be zero.
+
+88
+00:06:25.470 --> 00:06:26.430
+That's our reference point.
+
+89
+00:06:26.610 --> 00:06:30.510
+But if we want to maintain that same point, right, this has to be true.
+
+90
+00:06:31.330 --> 00:06:34.590
+Um, so well, maybe it's the must equal access of time.
+
+91
+00:06:34.590 --> 00:06:35.350
+It's increasing.
+
+92
+00:06:35.370 --> 00:06:36.660
+You never go backwards in time.
+
+93
+00:06:37.200 --> 00:06:41.130
+And we want this to remain the same X as that increases.
+
+94
+00:06:43.540 --> 00:06:44.230
+As such.
+
+95
+00:06:45.290 --> 00:06:50.120
+Actually increases, and we see that this guy balances out because of these relationships here.
+
+96
+00:06:50.540 --> 00:06:54.200
+So in order for it to travel in the X direction, this guy must be zero.
+
+97
+00:06:54.590 --> 00:06:57.560
+This is positive that that works.
+
+98
+00:06:58.340 --> 00:07:03.590
+So this is truly an extraction because as as X increases and time increases.
+
+99
+00:07:05.550 --> 00:07:07.530
+We have no change in the angular displacement.
+
+100
+00:07:08.220 --> 00:07:13.020
+Now, if we want travel in the opposite direction, what we would have to do is we just change the sign
+
+101
+00:07:13.350 --> 00:07:15.030
+omega t plus.
+
+102
+00:07:17.120 --> 00:07:17.360
+OK.
+
+103
+00:07:18.170 --> 00:07:23.180
+And the reason why this works is because as time increases, acts as a function of time.
+
+104
+00:07:24.230 --> 00:07:26.810
+We find out if he's traveling in the negative direction.
+
+105
+00:07:28.350 --> 00:07:31.170
+X must decrease because if it's going this way.
+
+106
+00:07:31.440 --> 00:07:37.200
+It's going to decrease, so in the same sense, this negative term cancels out with that positive turn.
+
+107
+00:07:37.560 --> 00:07:39.120
+And we still have a constant value.
+
+108
+00:07:39.120 --> 00:07:43.070
+We still get that phase term right there.
+
+109
+00:07:43.080 --> 00:07:48.210
+OK, so that's how you can determine whether a wave travels in the right direction or the left direction.
+
+110
+00:07:48.460 --> 00:07:48.750
+OK.
+
+111
+00:07:48.960 --> 00:07:54.750
+And you might see this rate as let me make some more space here really fast for you guys.
+
+112
+00:07:55.170 --> 00:07:59.970
+You might see this term written a little bit differently, but I can show you that they're actually
+
+113
+00:07:59.970 --> 00:08:00.540
+equivalent.
+
+114
+00:08:01.420 --> 00:08:04.570
+So you might see it written as K acts.
+
+115
+00:08:05.900 --> 00:08:07.190
+Minus Omega T.
+
+116
+00:08:08.910 --> 00:08:14.160
+Some textbooks or if you do a search online and it's the same thing because as T increases.
+
+117
+00:08:17.020 --> 00:08:19.000
+X must increase in the right direction.
+
+118
+00:08:19.300 --> 00:08:20.260
+This guy is constant.
+
+119
+00:08:20.620 --> 00:08:25.680
+That's the trick I've always used for determining if a wave that I'm provided is going in the positive
+
+120
+00:08:25.810 --> 00:08:29.740
+direction or negative x direction, and I hope that makes sense for you guys.
+
+121
+00:08:29.740 --> 00:08:33.760
+So in this situation, when we're we're going to look at this.
+
+122
+00:08:35.610 --> 00:08:36.070
+Um.
+
+123
+00:08:37.520 --> 00:08:43.610
+It's going in the right direction and the observed entity, it's going to be in the positive right direction.
+
+124
+00:08:43.760 --> 00:08:44.300
+Awesome.
+
+125
+00:08:44.720 --> 00:08:45.110
+OK.
+
+126
+00:08:45.320 --> 00:08:49.340
+So one last key term, I want to go before we actually jump into the analysis.
+
+127
+00:08:49.580 --> 00:08:50.720
+It's got two options.
+
+128
+00:08:50.730 --> 00:08:52.310
+I'll go over briefly is.
+
+129
+00:08:53.750 --> 00:08:57.680
+Usually, we don't want to deal with a lot of cases and fines.
+
+130
+00:08:57.980 --> 00:09:03.050
+So we want to work with the real term, not the imaginary term, because if we remember from Euler's
+
+131
+00:09:03.050 --> 00:09:11.640
+identity e to the I X is equal to cosine x plus, I can sign X and I switched off the guy with a j here.
+
+132
+00:09:12.350 --> 00:09:13.990
+Usually, physics uses a j.
+
+133
+00:09:14.000 --> 00:09:18.560
+Mathematics uses an AI, but regardless what you use, it's going to the square root of negative one.
+
+134
+00:09:20.270 --> 00:09:25.730
+If we're dealing with real entities of physics, we had to take the real part all the oil or identity.
+
+135
+00:09:25.910 --> 00:09:31.310
+So this wave is usually expressed as eight times the cosine, which is the real part of this right.
+
+136
+00:09:31.340 --> 00:09:37.810
+The amplitude pops out and the cosine and then the angular term in here.
+
+137
+00:09:37.830 --> 00:09:39.740
+OK, so that's what we're going to use the analysis.
+
+138
+00:09:40.100 --> 00:09:46.730
+And one last thing I want to note is that if we take definitions of the frequency, the wavelength,
+
+139
+00:09:47.420 --> 00:09:51.320
+the angular frequency and the wave number, we can relate them.
+
+140
+00:09:52.260 --> 00:09:53.820
+And we're going to use that throughout our analysis.
+
+141
+00:09:53.850 --> 00:09:54.750
+Let's run through that.
+
+142
+00:09:55.260 --> 00:10:00.180
+We know previously that the frequency was defined as see over the wavelength.
+
+143
+00:10:00.270 --> 00:10:00.660
+OK.
+
+144
+00:10:00.990 --> 00:10:05.010
+And this seemed to work out in terms of units meters per second, divided by meters because you won
+
+145
+00:10:05.010 --> 00:10:10.170
+over a second, which is the units where the frequency if we take this term here.
+
+146
+00:10:11.600 --> 00:10:17.840
+And we plug in what we have for Lander, so we multiply the story to get a two pie arc to buy comes
+
+147
+00:10:17.840 --> 00:10:21.410
+down here, the cave flips up, we get a KC over two PI.
+
+148
+00:10:22.960 --> 00:10:29.200
+And if we note that to pie in the sky over a times, F is equal to a mega.
+
+149
+00:10:30.350 --> 00:10:32.960
+We can find that Casey is equal to Omega.
+
+150
+00:10:33.200 --> 00:10:36.020
+So that's a term which we can relate these two guys.
+
+151
+00:10:36.230 --> 00:10:41.360
+And it's going to help us pop this guy out in some of our analysis and get the result that we're trying
+
+152
+00:10:41.360 --> 00:10:41.670
+to look.
+
+153
+00:10:42.110 --> 00:10:47.840
+OK, so now what I want to do, you have some background, some understanding of traveling or propagating
+
+154
+00:10:47.840 --> 00:10:48.800
+ENM waves.
+
+155
+00:10:49.280 --> 00:10:54.890
+We're going to take that definition and just organically derive a Doppler shift by working through the
+
+156
+00:10:54.890 --> 00:10:56.630
+mathematics that are behind this.
+
+157
+00:10:56.990 --> 00:10:59.900
+Some textbooks take the approach that I took in the last video.
+
+158
+00:11:00.170 --> 00:11:02.210
+That's sort of an elementary approach.
+
+159
+00:11:02.360 --> 00:11:08.780
+More of a sophisticated, complex physics approach that you'll probably see at higher levels is the
+
+160
+00:11:08.780 --> 00:11:10.010
+approach I'm going to take here.
+
+161
+00:11:10.010 --> 00:11:11.780
+So let's delve into that and do that now.
+
+162
+00:11:12.110 --> 00:11:12.500
+OK.
+
+163
+00:11:12.710 --> 00:11:18.500
+So if we make use of the non relativistic relationship we derived in our first video, we are trying
+
+164
+00:11:18.500 --> 00:11:24.170
+to bridge the gap between two different perspectives of the same phenomenon.
+
+165
+00:11:24.440 --> 00:11:29.180
+What we found is that if you don't account for relativistic effects, we find that a moving reference
+
+166
+00:11:29.180 --> 00:11:35.120
+frame ex-prime can be related to a non-moving referencing X.
+
+167
+00:11:36.860 --> 00:11:41.840
+By the relative motion between them, we find that as prime is equal to X minus B T.
+
+168
+00:11:42.290 --> 00:11:46.610
+And we also found that there is no difference between the moving reference frames conception of time
+
+169
+00:11:46.820 --> 00:11:52.850
+and original ones, which is unlike what we saw with relativistic effects, where we observe time dilation,
+
+170
+00:11:52.850 --> 00:11:55.850
+where time sees the tick at a different rate.
+
+171
+00:11:56.120 --> 00:11:58.160
+OK, so we're ignoring those effects for now.
+
+172
+00:11:58.160 --> 00:12:00.410
+We'll jump into that in subsequent videos.
+
+173
+00:12:00.980 --> 00:12:06.470
+But if we just take these simple relationships and take what we've just discovered for propagating plane
+
+174
+00:12:06.470 --> 00:12:15.770
+waves, we can take f x see a wave that is a function of x A. We know that's defined as a cosine omega
+
+175
+00:12:15.770 --> 00:12:20.060
+T minus K X, and what we could do is we can just plop these guys straight.
+
+176
+00:12:20.660 --> 00:12:24.020
+So here we have a time to adjust changes to T Prime.
+
+177
+00:12:24.440 --> 00:12:25.730
+And here we have an X.
+
+178
+00:12:26.690 --> 00:12:34.490
+Well, we can take this and we can say OK, if we plus v t x is equal to x prime loss v t.
+
+179
+00:12:35.120 --> 00:12:38.270
+And you know, you could actually observe that pretty clearly.
+
+180
+00:12:38.270 --> 00:12:43.850
+Like if we have x y here and I show this in the video, it's confusing.
+
+181
+00:12:43.850 --> 00:12:45.380
+Jump back to the first few videos.
+
+182
+00:12:45.380 --> 00:12:49.850
+Of course we get x y if we have an x prime y prime.
+
+183
+00:12:52.590 --> 00:12:55.590
+That's moving in a positive direction.
+
+184
+00:12:56.130 --> 00:13:01.200
+Well, if you want to figure out X, you can take what X Prize is to this point here.
+
+185
+00:13:01.560 --> 00:13:05.160
+It's going to be there for there, plus the distance that has elapsed.
+
+186
+00:13:05.460 --> 00:13:05.700
+Right?
+
+187
+00:13:05.850 --> 00:13:07.470
+The same thing works for X Prize, right?
+
+188
+00:13:07.830 --> 00:13:13.890
+If you want prime, you can take the distance of this guy all the way from there with respect to X minus
+
+189
+00:13:14.190 --> 00:13:15.450
+the distance to travel there.
+
+190
+00:13:15.450 --> 00:13:20.820
+And then you would get that guy, which is just the measurement and the moving reference.
+
+191
+00:13:21.120 --> 00:13:21.480
+OK.
+
+192
+00:13:21.690 --> 00:13:23.790
+So we can use this stuff we get.
+
+193
+00:13:23.790 --> 00:13:28.560
+This relationship is universal conception of reality to make use of it, make use of it, right?
+
+194
+00:13:29.100 --> 00:13:31.410
+We invested all that time and writing this let's actually use it.
+
+195
+00:13:31.800 --> 00:13:41.100
+So if we plug in for x x prime plus b t right, we get the mega C prime minus K x prize plus beauty.
+
+196
+00:13:41.340 --> 00:13:42.750
+We use this relationship here.
+
+197
+00:13:43.380 --> 00:13:50.100
+And then if we distribute all these guys, we get omega t prime minus K v t prime.
+
+198
+00:13:51.080 --> 00:13:59.090
+Minus K X. Prime, and then we can group the terms sort of make use of some of the relationships we
+
+199
+00:13:59.090 --> 00:14:00.200
+have, right?
+
+200
+00:14:00.220 --> 00:14:01.340
+We can come back up here.
+
+201
+00:14:01.340 --> 00:14:03.470
+We say, Oh, we have a mega, we have an AK.
+
+202
+00:14:03.860 --> 00:14:10.460
+I want to group the TS so that we can find some relationship because we know from this definition here,
+
+203
+00:14:11.120 --> 00:14:14.180
+whatever is in front of a T is the frequency of our weight.
+
+204
+00:14:14.630 --> 00:14:15.660
+That's how it works.
+
+205
+00:14:15.680 --> 00:14:17.600
+That's what the angular frequency is defined as.
+
+206
+00:14:18.020 --> 00:14:21.920
+So if we try to get rid of the K, define it in terms of our original frequency.
+
+207
+00:14:22.400 --> 00:14:26.900
+We know that this relationship off here that we establish a mega is equal to Casey.
+
+208
+00:14:27.320 --> 00:14:31.460
+So if we divide by C, we know that K is equal to a mega over C.
+
+209
+00:14:31.760 --> 00:14:38.650
+We plop this guy in there and we end up with is a cosine times or negative line minus a mega tonnes
+
+210
+00:14:38.660 --> 00:14:39.830
+b over C.
+
+211
+00:14:39.860 --> 00:14:40.130
+Right?
+
+212
+00:14:40.280 --> 00:14:42.020
+We just plug this straight into here.
+
+213
+00:14:42.140 --> 00:14:48.530
+Put a mega receiver omega over C and then we see that we have a common omega and T prime between the
+
+214
+00:14:48.530 --> 00:14:49.010
+terms.
+
+215
+00:14:49.950 --> 00:14:54.210
+So we're not really interested in this guy, but we can just pull out straight ahead.
+
+216
+00:14:54.630 --> 00:14:57.900
+Now, Megan, to Prime Omega's prime, what are we left with?
+
+217
+00:14:58.260 --> 00:14:59.070
+One?
+
+218
+00:15:00.140 --> 00:15:04.070
+And an Omega tribe has VRC one minus B or C.
+
+219
+00:15:05.000 --> 00:15:11.240
+That that's the result we're looking for, so if we take this literally a mathematical reduction of
+
+220
+00:15:11.240 --> 00:15:17.120
+everything we have been doing, what we can do is we could say OK, based upon that, based on our mathematics,
+
+221
+00:15:17.120 --> 00:15:22.140
+based upon our relationships, we found that just because of this relative motion, right?
+
+222
+00:15:23.060 --> 00:15:24.830
+The V between this guy and this guy.
+
+223
+00:15:26.140 --> 00:15:33.520
+That says that our apparent frequency, what we're supposed to observe in the wave is literally as follows.
+
+224
+00:15:33.700 --> 00:15:35.170
+It's really this parameter here.
+
+225
+00:15:35.530 --> 00:15:43.450
+So we get the observed frequency at omega prime equal to one minus B or C omega, which looks very similar
+
+226
+00:15:43.540 --> 00:15:44.800
+to the previous term.
+
+227
+00:15:46.100 --> 00:15:47.150
+We observed, right?
+
+228
+00:15:47.390 --> 00:15:48.690
+However, right.
+
+229
+00:15:48.980 --> 00:15:51.710
+That was in terms of the frequency, not the angular frequency.
+
+230
+00:15:51.720 --> 00:15:57.880
+So, you know, we know that this is just different by a parameter of one of two PI.
+
+231
+00:15:57.930 --> 00:16:04.550
+So if we take this guy multiply by one hour two pi, that is equal to f you multiply on the left, you
+
+232
+00:16:04.550 --> 00:16:09.020
+multiply on the right that maintains the equality and then omega two.
+
+233
+00:16:09.030 --> 00:16:09.620
+What about two?
+
+234
+00:16:09.620 --> 00:16:11.840
+Pi is no different than the frequency.
+
+235
+00:16:12.320 --> 00:16:14.630
+So mega primes becomes um.
+
+236
+00:16:16.130 --> 00:16:16.760
+F Prime.
+
+237
+00:16:16.850 --> 00:16:22.490
+Which I should make note of that the apparent observed frequency and that is just the quantity one minus
+
+238
+00:16:22.490 --> 00:16:24.380
+B or C times the original frequency.
+
+239
+00:16:24.380 --> 00:16:27.930
+And I know, wait a minute, you're thinking, what's going on here?
+
+240
+00:16:27.950 --> 00:16:29.240
+This is a different sign.
+
+241
+00:16:29.630 --> 00:16:33.650
+That's just because based upon how we derived all this stuff.
+
+242
+00:16:34.680 --> 00:16:42.360
+Our original derivation was assuming a V in the positive direction, positive direction when we derived
+
+243
+00:16:42.360 --> 00:16:47.430
+the previous one, the the V was in the opposite direction.
+
+244
+00:16:47.700 --> 00:16:49.740
+So the results are synonymous.
+
+245
+00:16:49.890 --> 00:16:51.480
+We've got the same exact result.
+
+246
+00:16:51.720 --> 00:16:54.650
+This if it's going in a positive direction, right?
+
+247
+00:16:54.750 --> 00:17:00.900
+We're adding that on top of the city, the the distance, the way it travels, that's traveled an extra
+
+248
+00:17:00.900 --> 00:17:04.600
+distance to get to that observed and that observer, right?
+
+249
+00:17:05.070 --> 00:17:12.780
+We get less crisp hitting that observer that results in less cycles completed per second, which he
+
+250
+00:17:12.870 --> 00:17:15.870
+observes or results in a lower frequency.
+
+251
+00:17:16.230 --> 00:17:17.100
+This is the result.
+
+252
+00:17:17.100 --> 00:17:18.510
+We expect this is the result.
+
+253
+00:17:18.510 --> 00:17:21.060
+We got the same as we previously had.
+
+254
+00:17:21.180 --> 00:17:22.470
+That strengthens our confidence.
+
+255
+00:17:22.650 --> 00:17:23.770
+That's awesome.
+
+256
+00:17:23.790 --> 00:17:24.180
+OK.
+
+257
+00:17:24.480 --> 00:17:31.500
+But but this was option number one we worked with, and it makes use of a previous result, which sort
+
+258
+00:17:31.500 --> 00:17:33.330
+of uses from relativity.
+
+259
+00:17:33.570 --> 00:17:37.410
+What we could do right is just purely by mathematical means.
+
+260
+00:17:37.780 --> 00:17:39.030
+I mean, pretty cool, right?
+
+261
+00:17:39.150 --> 00:17:40.920
+That would strengthen.
+
+262
+00:17:42.330 --> 00:17:47.520
+The validity of the argument and increase our confidence, so next, what we're going to do, we're
+
+263
+00:17:47.520 --> 00:17:49.200
+going to one more derivation.
+
+264
+00:17:49.410 --> 00:17:50.370
+Stick with me.
+
+265
+00:17:50.700 --> 00:17:51.900
+We're going to get the same result.
+
+266
+00:17:52.080 --> 00:17:58.170
+But doing it purely just by the physics, the math and what we've put up here.
+
+267
+00:17:58.650 --> 00:17:59.340
+Stay tuned.

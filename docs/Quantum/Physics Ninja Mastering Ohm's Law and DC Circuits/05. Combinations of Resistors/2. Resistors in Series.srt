@@ -1,0 +1,223 @@
+WEBVTT
+
+00:00.240 --> 00:03.450
+All right we're first going to start off with resistors in series.
+
+00:03.450 --> 00:05.780
+So let's consider the case here on the laugh.
+
+00:05.850 --> 00:10.710
+So I've got I've labeled three points A B and C there are just points that are located on wires connecting
+
+00:10.710 --> 00:17.820
+two different resistors are one are two I have labeled the current I and the first thing to notice about
+
+00:17.820 --> 00:25.770
+resistors in series is if there is a current flowing through this wire it has to flow through the resistance
+
+00:25.790 --> 00:26.510
+are.
+
+00:26.700 --> 00:32.320
+It's going to go through point B and then it's going to flow through resistance are two through Point
+
+00:32.320 --> 00:36.280
+C the current AI is going to be the same everywhere.
+
+00:36.300 --> 00:37.600
+And that's very important.
+
+00:38.610 --> 00:47.100
+If the current flows down everywhere it means that on this side of the resistance remember current always
+
+00:47.100 --> 00:53.790
+flows the positive current always flows from the higher potential toward the lower electrical potential.
+
+00:53.790 --> 00:59.310
+So that means at this point a is at a higher potential than this side.
+
+00:59.400 --> 01:06.240
+It also means that the potential at this point is higher than the potential at that point.
+
+01:06.270 --> 01:11.100
+So actually if I go through and I label the potential at three different points at a it might have some
+
+01:11.100 --> 01:19.330
+voltage a at point B you might have some voltage B and at point C have some voltage C.
+
+01:19.710 --> 01:26.070
+Now the voltage difference between points A and points B could write it like this.
+
+01:26.100 --> 01:28.770
+V A mine is VB.
+
+01:28.770 --> 01:30.480
+Sometimes you would simply call that V.
+
+01:30.510 --> 01:30.750
+Right.
+
+01:30.750 --> 01:36.600
+The potential difference between both of those points that is given by Ohm's law in ohms law remember
+
+01:36.600 --> 01:42.180
+what it said the voltage drop across a resistor is equal to the value of the resistance.
+
+01:42.330 --> 01:46.680
+In this case it's R1 multiplied by the current flowing through it.
+
+01:46.920 --> 01:53.800
+That's simply the current I can do the same thing now for the voltage drop across the next.
+
+01:53.800 --> 01:55.090
+There are two.
+
+01:55.260 --> 02:01.650
+Now I'm comparing points B and point C and I know that point B is at a higher electrical potential than
+
+02:01.650 --> 02:02.520
+point C.
+
+02:02.520 --> 02:04.270
+So let me write it like this.
+
+02:04.390 --> 02:06.620
+VB mine is visi.
+
+02:06.620 --> 02:12.340
+I know I'm going to get a positive number here because current is flowing from left to right.
+
+02:12.450 --> 02:18.550
+In this case the ohms law applied to this resistor over here is the value of the resistance are two.
+
+02:18.990 --> 02:22.940
+And it's the same current same current flowing through it.
+
+02:23.520 --> 02:29.310
+So if I call this equation 1 and call this equation to or what if I wanted to know what is the voltage
+
+02:29.310 --> 02:39.120
+difference between point A and Point C Well what you could do is we can actually add both of these equations.
+
+02:39.140 --> 02:41.730
+Look what happens if I add both of those equations.
+
+02:41.780 --> 02:43.270
+What am I going to get.
+
+02:43.340 --> 02:47.910
+I'm going to get vitÃ¦ because there's no other V.A term in the second equation.
+
+02:47.930 --> 02:50.120
+Look what happens to the VB terms.
+
+02:50.120 --> 02:54.000
+I have negative VB over here and I have VB right here.
+
+02:54.170 --> 03:00.460
+Those are actually going to cancel out and then I'm going to be left with mine as VC.
+
+03:01.050 --> 03:01.880
+Look with that gives me.
+
+03:01.880 --> 03:07.410
+That is simply the potential difference between point A and Point Z at the end.
+
+03:07.410 --> 03:14.960
+Now if I add both of these terms now on the right hand side look what I get are 1 multiplied by the
+
+03:14.960 --> 03:19.130
+current plus are two multiplied by the current.
+
+03:19.670 --> 03:21.150
+Well this equation.
+
+03:21.350 --> 03:22.270
+Look what I can do to it.
+
+03:22.280 --> 03:24.880
+I can factor out the current.
+
+03:24.880 --> 03:33.950
+I this is simply R1 Plus are two multiplied by the current.
+
+03:34.190 --> 03:36.470
+Now the term in the bracket is important over here.
+
+03:37.360 --> 03:43.090
+It tells me that if I want to know the potential difference between points A and Point see Actually
+
+03:43.090 --> 03:51.950
+I can replace both of these resistors here by 1 equivalent resistor an equivalent resistor if two of
+
+03:51.950 --> 03:56.560
+them are in series like this is simply the algebraic sum.
+
+03:56.660 --> 03:59.150
+So that is our equation over here.
+
+03:59.840 --> 04:04.890
+So my equivalent resistor when I have two resistors in series you simply add them up.
+
+04:04.940 --> 04:06.560
+Very very simple.
+
+04:06.560 --> 04:15.270
+So if this is a forum resistor this here is a 6 ohm resistor my equivalent resistor is simply 10 homes.
+
+04:15.320 --> 04:16.520
+I'm done.
+
+04:16.520 --> 04:22.520
+I can simplify my network and simply replace it by 1 equivalent resistance equals the 10 ohm and then
+
+04:22.610 --> 04:25.120
+try to solve the problem.
+
+04:25.130 --> 04:27.700
+Now the other important thing is that the current I.
+
+04:27.890 --> 04:31.590
+It's the same current flowing through my equivalent resistor.
+
+04:31.730 --> 04:36.770
+It has to be the same current flowing through the forum resistor through the six ohm resistor and now
+
+04:36.770 --> 04:40.130
+through the equivalent 10 ohm resistor.
+
+04:40.130 --> 04:44.240
+So that is our rule number one the equivalent resistance.
+
+04:44.240 --> 04:48.760
+If I have two of them in series with each other you simply add them up.
+
+04:49.430 --> 04:55.200
+Well what would happen if I had 10 of them or 20 of them in series with each other.
+
+04:55.310 --> 05:02.350
+So the more general formula now is if I have several of them that are in series with each other you
+
+05:02.350 --> 05:09.510
+would just use the same arguments except all you do now is you simply add them up you add up all the
+
+05:09.510 --> 05:15.480
+individual resistors that are in series with each other and then you come up with a number.
+
+05:15.600 --> 05:21.010
+So there's some here can go from one to whatever number of resistors you have in series.
+
+05:21.390 --> 05:22.790
+In this case I only have two.
+
+05:22.950 --> 05:28.380
+So I only have two terms over here but if I'd have five of them then my sum would go from I equals the
+
+05:28.380 --> 05:31.860
+1 to 5 and I'd add up all the individual values.
+
+05:33.340 --> 05:36.400
+So resistors in series are pretty straightforward.
+
+05:36.640 --> 05:37.420
+Simply add them up.

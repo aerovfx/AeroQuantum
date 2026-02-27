@@ -1,0 +1,504 @@
+WEBVTT
+
+WEBVTT
+
+00:00.150 --> 00:05.850
+Or here's the last problem from the problems that got the three batteries for resistors.
+
+00:06.020 --> 00:07.020
+A few questions here.
+
+00:07.020 --> 00:09.390
+First one find the current in each resistor.
+
+00:09.390 --> 00:09.630
+All right.
+
+00:09.630 --> 00:12.000
+So what I'm going to do is to label the current over here.
+
+00:12.000 --> 00:13.040
+Let's call this the current.
+
+00:13.040 --> 00:15.670
+I don't know what's going to happen here.
+
+00:15.690 --> 00:21.690
+Let's assume that the current here is going like in this direction going up near the junction and then
+
+00:21.690 --> 00:22.350
+maybe the current.
+
+00:22.350 --> 00:27.570
+I don't know maybe I'm going to go down here call this the current Aitu.
+
+00:27.660 --> 00:32.850
+Next thing I can do right down the junction rule for the junction over here it says whatever is flowing
+
+00:32.850 --> 00:37.770
+into the junction has to be what's going out now be a little careful here there's two currents flowing
+
+00:37.770 --> 00:40.030
+in the way I have it labeled.
+
+00:40.130 --> 00:40.560
+All right.
+
+00:40.580 --> 00:45.570
+There's I plus the current I want in this first branch and then that must be equal to the current flowing
+
+00:45.570 --> 00:47.170
+out Aitu.
+
+00:47.820 --> 00:52.710
+All right that's going to be my equation 1 3 unknown's I need at least two more equations so let's go
+
+00:52.710 --> 00:57.730
+ahead and write some loop rules for the loop rules make them start down over here at this point.
+
+00:57.760 --> 01:00.070
+Let's do the outer loop.
+
+01:00.330 --> 01:02.760
+All right if I do the outer loop what am I going to get.
+
+01:02.760 --> 01:05.660
+Well first thing I get is Plus 8.
+
+01:05.830 --> 01:07.170
+Call this equation 2.
+
+01:07.510 --> 01:14.040
+I cross a battery in the direction of the current then I get a voltage drop equal to 1 multiplied by
+
+01:14.040 --> 01:15.370
+the current.
+
+01:16.100 --> 01:22.830
+Then I get a voltage gain because I'm crossing that battery plus four and I get another voltage drop
+
+01:22.980 --> 01:24.820
+two times the current.
+
+01:25.200 --> 01:29.790
+And then after I switch I go to the outer branch and I'm going to get another voltage drop given by
+
+01:29.790 --> 01:32.300
+six times the current flowing through it.
+
+01:32.310 --> 01:36.990
+Aitu is equal to zero.
+
+01:37.190 --> 01:38.400
+That's equation too.
+
+01:38.660 --> 01:44.390
+Let's maybe simplify this if I can combine the eight and the for what else.
+
+01:44.390 --> 01:45.980
+Combine both of those.
+
+01:46.040 --> 01:50.020
+Both of these are multiplied by I can combine both of those.
+
+01:50.210 --> 01:51.840
+So equation 2 can look like this.
+
+01:51.840 --> 01:58.320
+It's 12 minus three times I and minus six times I.
+
+01:58.640 --> 01:59.920
+That equals zero.
+
+02:00.110 --> 02:02.710
+So this will really be the equation too that I'm going to use.
+
+02:03.050 --> 02:04.280
+And we need at least one more.
+
+02:04.280 --> 02:08.100
+Now when I'm going to do a mini choose this inner loop over here.
+
+02:08.780 --> 02:12.980
+All right again the first four terms are going to look exactly the same right.
+
+02:12.980 --> 02:18.830
+So you're gonna have eight minus a voltage drop across the one ohm resistor Plus the voltage gain of
+
+02:18.830 --> 02:24.290
+that other battery minus the voltage drop across that 2 ohm resistor.
+
+02:24.290 --> 02:27.910
+Again I could have combined both of those resistors because they're in series with each other.
+
+02:28.430 --> 02:29.330
+But that's OK for now.
+
+02:29.350 --> 02:31.880
+Now I'm going to go down this middle branch here.
+
+02:31.970 --> 02:36.970
+Now you got to be careful now I'm going across a resistor in the opposite direction of the current.
+
+02:37.280 --> 02:41.880
+So there is a voltage gain equal to two times the current one.
+
+02:42.500 --> 02:47.690
+And then again I'm going to cross a battery now I'm going from the high potential to the lower potential.
+
+02:47.690 --> 02:55.150
+So there is a voltage drop given by four volts and I go back to where I start and that's equal to zero.
+
+02:55.400 --> 02:59.440
+Now let's simplify some things I have plus for here I have minus four here.
+
+02:59.540 --> 03:02.270
+Again you can combine both of those again.
+
+03:03.020 --> 03:13.790
+So this equation 3 will simplify to eight minus three times I plus two times one equals zero.
+
+03:13.850 --> 03:16.020
+So that's equation 3.
+
+03:16.040 --> 03:19.510
+So now what I'm going to do I'm going to do the same steps I did previously.
+
+03:19.790 --> 03:26.980
+What I'm going to do is I'm going to isolate the current Aitu from equation 2 and I'm going to isolate
+
+03:26.980 --> 03:29.730
+the current one from equation 3.
+
+03:30.160 --> 03:33.480
+If you do that here you're going to get that Aitu.
+
+03:33.940 --> 03:37.540
+So I bring it on the other side and then you divide through by six.
+
+03:37.780 --> 03:41.890
+So you should get two gives me two minus.
+
+03:41.910 --> 03:43.620
+I have over two.
+
+03:43.970 --> 03:48.000
+There's an important equation for us.
+
+03:48.110 --> 03:51.290
+I might end up substituting this in the junction rule in a minute.
+
+03:51.520 --> 03:56.750
+And from this bottom equation again you do the same thing you isolate what the current one is.
+
+03:56.900 --> 04:01.640
+I won simply going to be equal to what should I do here.
+
+04:01.660 --> 04:08.290
+I'm going to bring everything on the other side so I'm going to get three over two multiplied by and
+
+04:08.290 --> 04:09.680
+minus four.
+
+04:10.090 --> 04:11.960
+So here's my equation for I.
+
+04:13.610 --> 04:17.680
+Again this gets a little bit tedious but in the end it's pretty straightforward algebra.
+
+04:17.690 --> 04:24.470
+Now both of these expressions here I can then I'd like to go back and I substitute things into the junction
+
+04:24.480 --> 04:31.130
+rule and once I do that the only unknown is going to be the current I let me go ahead and do that.
+
+04:31.130 --> 04:33.950
+So I'm going to get I instead of won.
+
+04:34.460 --> 04:41.170
+I substitute I won by this expression so you get three halfs I minus four.
+
+04:41.390 --> 04:45.950
+And that must be equal to two minus I over two.
+
+04:45.950 --> 04:49.760
+All right now you group all the terms of the I's on one side you group all the other terms on the other
+
+04:49.760 --> 04:50.280
+side.
+
+04:50.450 --> 04:52.150
+So you get six over here.
+
+04:52.550 --> 04:58.580
+What I end up doing here so you get one plus 1.5 when I bring this on the other side I get another half.
+
+04:58.580 --> 05:03.710
+So you should get two so three times I won or three times I'd rather.
+
+05:04.370 --> 05:06.470
+So you're automatically left with now at the current.
+
+05:06.470 --> 05:09.250
+I must be equal to 2 amps.
+
+05:09.670 --> 05:10.130
+OK.
+
+05:13.180 --> 05:14.770
+Again that's the current everywhere here.
+
+05:14.770 --> 05:17.070
+So this is two amps.
+
+05:17.230 --> 05:21.280
+Two amps over here two amps going into that junction over here.
+
+05:22.590 --> 05:26.940
+All right now let's go ahead now we can substitute our expression back into both of these equations
+
+05:26.940 --> 05:32.630
+in the blue boxes so we can find what the currents I want and I to our let's go ahead and do that.
+
+05:32.640 --> 05:39.360
+So you get that the current one now is going to be three over two multiplied by two minus four.
+
+05:39.360 --> 05:44.210
+And we get get mine is one ups you have minus 1 amp.
+
+05:44.220 --> 05:45.270
+What does that tell you.
+
+05:47.770 --> 05:51.190
+That simply tells me that my guess was wrong.
+
+05:51.190 --> 05:57.410
+It actually should be opposite to this.
+
+05:57.490 --> 06:00.780
+So let me go ahead fix it now just so I have it in the right direction.
+
+06:00.940 --> 06:07.030
+So actually if I switch it and I make the arrow kind of going in the proper direction that means that
+
+06:07.030 --> 06:08.940
+this current now is 1 amp.
+
+06:08.990 --> 06:18.310
+So that tells me all right how about the current I to I to is simply equal to two times minus two over
+
+06:18.310 --> 06:19.260
+two.
+
+06:19.300 --> 06:26.850
+That gives me one amp so that when I did guess correctly and this one is also equal to 1 amp.
+
+06:26.900 --> 06:30.560
+Let's go ahead now and make sure this is correct if it's correct.
+
+06:30.590 --> 06:36.060
+We should calculate that the voltage between both of those points has to be the same.
+
+06:36.170 --> 06:38.370
+Doesn't matter on the path that I take.
+
+06:38.810 --> 06:41.240
+Let's go ahead and do this path right down the middle.
+
+06:41.420 --> 06:43.290
+If I choose this path what do I get.
+
+06:43.490 --> 06:49.060
+Well I'm going to get a voltage drop given by two multiplied by one that's the current.
+
+06:49.340 --> 06:56.350
+And then I get a voltage drop of hopes of four when I crossed the battery.
+
+06:57.110 --> 07:02.410
+So I get a voltage drop of six volts when I go from this point to that point.
+
+07:02.420 --> 07:08.450
+How about now when I go on the outside when I go on the outside while there's only one resistance and
+
+07:08.450 --> 07:11.220
+the voltage drop is six multiplied by one.
+
+07:11.450 --> 07:13.850
+Look at I get minus six volts.
+
+07:14.330 --> 07:17.990
+Actually you can also check this branch over here if you go all the way on the right branch you're also
+
+07:17.990 --> 07:20.340
+going to get negative six volts.
+
+07:20.480 --> 07:21.060
+OK.
+
+07:21.560 --> 07:22.990
+So that works out.
+
+07:23.000 --> 07:29.210
+We've got all our currents we've actually solve for this first part done and next part the power supplied
+
+07:29.210 --> 07:34.670
+by each source of M.F. are going to go in the other page and figure this out.
+
+07:35.850 --> 07:42.310
+And go back to the circuit now we want to find the power supplied by each DMF source we have here we've
+
+07:42.350 --> 07:48.590
+got an 8 volt battery so I'll start with that one the power from the evil battery simply the voltage
+
+07:48.590 --> 07:55.130
+multiplied by the current flowing through it eight multiplied by 2 gives me 16 watts.
+
+07:55.130 --> 07:57.330
+How about the four volt battery.
+
+07:57.830 --> 07:59.240
+Oh there's two four volt battery.
+
+07:59.250 --> 08:01.270
+Let's call this one number one.
+
+08:01.760 --> 08:02.600
+Let's call this one here.
+
+08:02.600 --> 08:09.470
+Number two now the power supplied by this one to the voltage multiplied by the current.
+
+08:09.710 --> 08:17.290
+Very easy four multiplied by two gives me eight watts How about the power in this one now you've got
+
+08:17.290 --> 08:18.160
+to be careful with this one.
+
+08:18.160 --> 08:19.210
+Look what happens.
+
+08:19.360 --> 08:22.720
+The currents flowing opposite.
+
+08:22.730 --> 08:26.870
+So actually the power for this one for volts.
+
+08:26.870 --> 08:28.390
+Number two again it's v times.
+
+08:28.420 --> 08:31.040
+I again you get four times two.
+
+08:31.440 --> 08:33.540
+Oh you don't get four times two.
+
+08:33.710 --> 08:35.560
+I am going way too fast here.
+
+08:35.630 --> 08:37.860
+The current flowing through it is only one.
+
+08:38.270 --> 08:39.440
+So that's four watts.
+
+08:39.440 --> 08:43.700
+However we're going to be a little bit careful with this one right because the currents opposite.
+
+08:44.360 --> 08:46.460
+Let's go ahead and I'll explain this in just a minute.
+
+08:46.460 --> 08:49.340
+Let's find all the power dissipated in these resistors.
+
+08:49.640 --> 08:54.240
+So we've got the power dissipated in any resistor remember equations.
+
+08:54.290 --> 08:58.550
+The value of the resistance multiplied by the current squared.
+
+08:58.820 --> 09:01.780
+So the power dissipated in the 1 ohm resistor.
+
+09:02.000 --> 09:06.680
+It's one multiplied by the current squared.
+
+09:06.680 --> 09:15.250
+We get four watts the power dissipated and the 2 ohm resistor it's two multiplied by two squared.
+
+09:15.320 --> 09:21.280
+That gives me 8 watts the power dissipated in this other two ohm resistor.
+
+09:21.570 --> 09:25.520
+So again I'm going to call that number one call this guy here.
+
+09:25.520 --> 09:33.850
+Number two the power dissipated in this two ohm resistor the value of r is too and the current is one.
+
+09:34.220 --> 09:40.810
+So you get 2 watts and the last one is the power dissipated in the six ohm resistor.
+
+09:41.390 --> 09:44.560
+Well again the value of the resistance is six.
+
+09:44.630 --> 09:47.080
+The current flowing through it is one.
+
+09:47.140 --> 09:50.880
+So a square that you get six watts.
+
+09:50.910 --> 09:53.200
+So let's look at everything being dissipated.
+
+09:54.240 --> 09:56.570
+What is the total power being dissipated.
+
+09:56.880 --> 09:58.980
+Well we get to add all these resistor powers.
+
+09:58.980 --> 09:59.740
+Right.
+
+09:59.790 --> 10:06.510
+So you get four plus eight plus two plus six.
+
+10:06.570 --> 10:08.910
+Looks like we get 12 plus 8.
+
+10:08.940 --> 10:18.070
+Gives me 20 watts However look at these we know both of those are supplying power and we get 24 watts
+
+10:18.070 --> 10:20.670
+being supplied by both of those batteries.
+
+10:21.950 --> 10:25.190
+However we only have 20 that's being dissipated.
+
+10:25.190 --> 10:28.910
+And remember I want to go back now to this other case this other case here we have the current kind
+
+10:28.910 --> 10:32.400
+of flowing in the opposite direction here.
+
+10:32.480 --> 10:39.210
+So that is actually power being absorbed by this battery basically charging up this battery OK.
+
+10:39.530 --> 10:44.090
+So that is basically the power or the energy transfer in the circuit.
+
+10:44.090 --> 10:48.550
+Most of the energy is being dissipated into heat.
+
+10:48.860 --> 10:51.020
+Some of the energy is being absorbed.
+
+10:52.270 --> 10:57.560
+And if you add all of those up this guy this guy you're going to get our 24 Watts right here.
+
+10:58.530 --> 10:59.070
+OK.
+
+10:59.280 --> 11:02.880
+So you just got to be careful you got to look at the direction of the current with respect to the battery
+
+11:02.880 --> 11:07.260
+to see whether or not it's power being supplied or it's charging the battery.

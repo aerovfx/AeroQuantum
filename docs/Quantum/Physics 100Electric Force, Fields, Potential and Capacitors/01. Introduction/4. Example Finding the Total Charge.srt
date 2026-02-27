@@ -1,0 +1,148 @@
+WEBVTT
+
+00:00.120 --> 00:04.860
+I've got to kind of short problems over here and they're both involve kind of finding the charge or
+
+00:04.860 --> 00:06.500
+the total number of charge.
+
+00:06.600 --> 00:12.990
+So in the first case here I have an object that has two point three million protons.
+
+00:13.020 --> 00:18.300
+Okay so two point three million and we want to find what is the total charge.
+
+00:18.360 --> 00:24.780
+So here I would just simply use my equation that the total charge was from the previous lecture over
+
+00:24.780 --> 00:26.400
+here it's two point three million.
+
+00:26.400 --> 00:30.120
+So it's always n multiplied by the charge of each proton.
+
+00:30.180 --> 00:32.110
+That's the elementary charge.
+
+00:32.130 --> 00:37.740
+So in this case little end is two point three multiplied by ten to the six.
+
+00:37.740 --> 00:39.750
+That's to get my million okay.
+
+00:39.840 --> 00:47.630
+And the charge of each one of these little guys is one point six multiplied by ten to the negative 19.
+
+00:47.740 --> 00:48.810
+Cool homes.
+
+00:48.840 --> 00:49.060
+Okay.
+
+00:49.080 --> 00:52.320
+So at the end all you have to do is do this multiplication.
+
+00:52.330 --> 00:53.740
+I'm want to do that one of my calculator.
+
+00:53.740 --> 00:55.680
+So two point three.
+
+00:55.680 --> 01:05.130
+Each of the six times one point six either the negative nine teen at the end I get three point six eight
+
+01:05.490 --> 01:12.250
+multiplied by ten to the negative thirteen and that should be also measured in columns.
+
+01:12.270 --> 01:15.420
+So this would be the total charge of this object.
+
+01:15.600 --> 01:16.280
+Okay.
+
+01:16.320 --> 01:18.090
+Pretty straightforward.
+
+01:18.090 --> 01:19.680
+Let's do an arrow here.
+
+01:19.680 --> 01:21.780
+Connect that one now would be the charge of this guy.
+
+01:22.320 --> 01:22.530
+All right.
+
+01:22.530 --> 01:27.930
+How about example number two I'm told that this object over here which kind of has a weird shape has
+
+01:27.930 --> 01:33.780
+a total charge of minus four this letter MEU refers to micro cool home.
+
+01:33.840 --> 01:40.110
+So if you're going to write micro you would write it as negative four times 10 to the negative six columns.
+
+01:40.140 --> 01:40.340
+Okay.
+
+01:40.350 --> 01:41.940
+That's the total charge of this object.
+
+01:42.210 --> 01:46.540
+So how many electrons would be present here in this object.
+
+01:46.590 --> 01:46.890
+All right.
+
+01:46.920 --> 01:53.160
+So again we're gonna use the same equation here that I previously used except this time what do I know.
+
+01:53.160 --> 01:58.560
+Well I know the total charge in this case and all I want to do is I want to find out what little Ed
+
+01:58.560 --> 01:59.150
+is.
+
+01:59.200 --> 02:05.730
+OK so from using that equation you should build the right that little N is equal to the total charge
+
+02:07.680 --> 02:13.210
+and divided by again the elementary charge or the charge of each electron.
+
+02:13.210 --> 02:13.640
+OK.
+
+02:13.800 --> 02:16.280
+So again here I'm gonna have negative e right.
+
+02:16.320 --> 02:20.530
+I'm going to have negative e because I'm dividing by the charge of each electron.
+
+02:20.580 --> 02:27.060
+So in this case I would have minus four times 10 to the negative sixth total charge divided by the charge
+
+02:27.060 --> 02:27.940
+of each guy.
+
+02:27.960 --> 02:33.480
+Which is one point six times ten of the negative 19 charge of each electron is negative.
+
+02:33.480 --> 02:38.670
+So I have that negative there at the end the number should always be a positive value.
+
+02:38.760 --> 02:44.730
+So a little N for this specific object here let me do this one in my calculator that's for either the
+
+02:44.730 --> 02:56.850
+negative six divided by one point six e of the negative nineteen at the end I get 2.5 times 10 to the
+
+02:57.770 --> 03:03.570
+thirteen it's a very very large number and that is measured that's just the number of electrons at the
+
+03:03.570 --> 03:07.880
+end I would simply write electrons right here okay.
+
+03:08.190 --> 03:13.230
+Anyway so to short examples just to show you how to use my equation here in the red box that the total
+
+03:13.230 --> 03:17.490
+charge is always an integer number of elementary charges.

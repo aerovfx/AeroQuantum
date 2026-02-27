@@ -1,0 +1,573 @@
+WEBVTT
+
+WEBVTT
+
+00:00.390 --> 00:00.680
+All right.
+
+00:00.690 --> 00:06.990
+So here we have a question once have a look at it says a pair of charge conducted plates produce a uniform
+
+00:06.990 --> 00:10.480
+field of 12000 newtons per cool.
+
+00:10.770 --> 00:12.090
+It's directed to the right.
+
+00:12.120 --> 00:14.180
+OK so this is what we have over here.
+
+00:14.340 --> 00:17.100
+The separation between the plates is 40 millimeters.
+
+00:17.100 --> 00:23.700
+And we have an electron here is projected from plate a toward plate B.
+
+00:23.780 --> 00:28.290
+And in this case we're also given some initial velocity of this value.
+
+00:28.290 --> 00:29.490
+Kind of a big value right.
+
+00:29.940 --> 00:32.460
+What is the speed as it strikes the other plate.
+
+00:32.520 --> 00:33.270
+Okay.
+
+00:33.310 --> 00:36.150
+And we've given you some data here for the electron.
+
+00:36.270 --> 00:36.520
+OK.
+
+00:36.540 --> 00:38.490
+So let's have a look at what's going on over here.
+
+00:38.550 --> 00:41.990
+If we just draw that electron we just draw it over here.
+
+00:42.000 --> 00:47.670
+So it has a charge of negative e and it has a mass given over here.
+
+00:47.670 --> 00:53.670
+Now if the electric field points in this direction over here what's going to happen well imagine we
+
+00:53.670 --> 00:59.360
+are going to draw the charges on the plates first of all if the electric field is pointing like this.
+
+00:59.370 --> 01:02.750
+That means that this here is positive.
+
+01:03.000 --> 01:03.500
+And what else.
+
+01:03.510 --> 01:07.840
+This played here would be negatively charged.
+
+01:07.890 --> 01:08.090
+All right.
+
+01:08.090 --> 01:09.480
+And what happens to this electron.
+
+01:09.480 --> 01:12.150
+Well initially it has a big velocity right.
+
+01:12.150 --> 01:15.620
+It's given a velocity v zero.
+
+01:15.630 --> 01:19.310
+The question is how fast is it moving when it strikes over here.
+
+01:19.320 --> 01:21.910
+So what is the force acting on the electron.
+
+01:22.410 --> 01:26.520
+As the electron moves I'm actually going to get rid of this for now because I really just want to do
+
+01:26.520 --> 01:28.990
+a free body diagram over here.
+
+01:29.010 --> 01:35.490
+So the force on this electron well again is being attracted by the positive it's being repelled by these.
+
+01:36.510 --> 01:41.580
+So that means that the force on the electron has to be in this direction and that's it.
+
+01:41.580 --> 01:43.020
+That's the only force acting on it.
+
+01:43.650 --> 01:47.510
+So noon second law says you add up all the forces.
+
+01:47.510 --> 01:52.650
+There's only one and that should be equal to the charge of the electron the magnitude multiplied by
+
+01:52.650 --> 01:55.220
+the magnitude of the electric field.
+
+01:55.220 --> 01:58.950
+And this here has to be equal to mass times the acceleration.
+
+01:58.950 --> 01:59.180
+OK.
+
+01:59.190 --> 02:03.240
+So our acceleration for our electron is E.
+
+02:03.430 --> 02:04.160
+The charge.
+
+02:04.200 --> 02:08.130
+The magnitude of the field and divided by the mass of this electron.
+
+02:08.130 --> 02:14.210
+I know all the numbers here so in principle I could get a value for the acceleration of the electron.
+
+02:14.220 --> 02:17.670
+Now I'm just going to make a note here saying that it is slowing down
+
+02:20.510 --> 02:24.980
+so if the acceleration was big enough it might actually not even reach this plate.
+
+02:24.990 --> 02:27.680
+So here I guess they're assuming that it does strike the other plate.
+
+02:27.680 --> 02:31.470
+So let's go ahead and use one of our key nomadic equations.
+
+02:31.580 --> 02:38.690
+If we're looking for the final speed and we know the distance one of them is this equation here that
+
+02:38.690 --> 02:45.860
+the velocity squared equals to the initial velocity squared plus two times the acceleration and the
+
+02:45.890 --> 02:46.950
+displacement.
+
+02:47.120 --> 02:48.490
+Delta X.
+
+02:48.610 --> 02:53.230
+Now in this case again the acceleration and the displacement are in different directions.
+
+02:53.240 --> 02:55.210
+So one of these is going to have to be negative.
+
+02:55.220 --> 02:55.570
+Right.
+
+02:55.580 --> 03:01.370
+We're gonna take our coordinate system so that everything that's pointing this way is a positive value.
+
+03:02.300 --> 03:02.520
+Okay.
+
+03:02.540 --> 03:07.070
+So let's go ahead and substitute in our thing and at the end what we want is just the final velocity
+
+03:07.070 --> 03:09.770
+so all we have to do is take the square root of everything here.
+
+03:09.800 --> 03:11.240
+So let's substitute our values.
+
+03:11.270 --> 03:17.590
+So we have our initial velocity which is right here two point zero times 10 to the seven.
+
+03:17.590 --> 03:21.320
+You have to square that value plus two times.
+
+03:21.320 --> 03:22.730
+Now again it's going to slow down.
+
+03:22.730 --> 03:27.200
+So really at the end this term is going to end up being negative and that's because the acceleration
+
+03:27.200 --> 03:29.260
+is pointing in a different direction.
+
+03:29.280 --> 03:29.450
+Right.
+
+03:29.450 --> 03:34.070
+The acceleration is pointing to the left but our displacement is to the right.
+
+03:34.610 --> 03:39.080
+So the acceleration here should be minus E E.
+
+03:39.170 --> 03:39.950
+Actually that's good.
+
+03:39.950 --> 03:41.830
+Go ahead and substitute the numbers.
+
+03:41.870 --> 03:50.160
+So you should get minus one point six times ten to the negative 19 the electric field is twelve thousand
+
+03:51.470 --> 03:58.820
+and all of this divided by the mass of the electron which is nine point one one times 10 to the negative
+
+03:58.820 --> 03:59.480
+31.
+
+04:00.070 --> 04:00.370
+OK.
+
+04:00.380 --> 04:07.280
+That is my acceleration and then multiplied by the displacement in this case it's 40 millimeters.
+
+04:07.370 --> 04:11.100
+This is 40 times ten to the negative three.
+
+04:11.190 --> 04:12.280
+OK.
+
+04:12.470 --> 04:13.700
+Extend that square root.
+
+04:13.700 --> 04:18.500
+There is a whole bunch of terms in here but at the end all we have to do is substitute in all our numbers
+
+04:18.920 --> 04:21.770
+and just be a little bit careful when you evaluate this.
+
+04:21.810 --> 04:22.610
+OK.
+
+04:22.700 --> 04:25.180
+At the end I think we should get that the answer again.
+
+04:25.270 --> 04:26.930
+It's got to be slower right.
+
+04:26.930 --> 04:31.490
+So actually I could have right away it really eliminated those ones because it will slow down and then
+
+04:31.490 --> 04:33.140
+we're left with three choices.
+
+04:33.140 --> 04:38.780
+Put that in your calculator I think you should get choice B which is one point five times 10 to the
+
+04:38.780 --> 04:41.780
+seven meters per second.
+
+04:41.810 --> 04:42.320
+OK.
+
+04:43.950 --> 04:49.340
+Here's problem two says electron is projected in this case it's going up over here with an initial velocity
+
+04:49.340 --> 04:56.730
+of eight point seven times 10 to the 7 along the vertical y axis.
+
+04:56.840 --> 04:57.140
+OK.
+
+04:57.140 --> 05:03.200
+And that's kind of in between this plate here that has a separation of 10 centimeters or point one metres.
+
+05:03.200 --> 05:03.560
+All right.
+
+05:03.560 --> 05:06.920
+Now we have a uniform electric field in the x direction.
+
+05:06.980 --> 05:07.220
+Okay.
+
+05:07.220 --> 05:09.910
+So that's kind of shown over here.
+
+05:10.460 --> 05:13.610
+If the magnitude of the acceleration is measured.
+
+05:13.710 --> 05:14.050
+Okay.
+
+05:14.050 --> 05:17.750
+This is measured what is the magnitude of the electric field between the plates.
+
+05:18.300 --> 05:18.630
+Okay.
+
+05:18.660 --> 05:23.600
+Well again this one is pretty straightforward I think.
+
+05:23.600 --> 05:24.820
+Right.
+
+05:24.920 --> 05:30.230
+Again if we go back to our free body diagram again this electron here again the plates here are going
+
+05:30.230 --> 05:33.740
+to be charge if you think about it should be charged like this again.
+
+05:35.020 --> 05:35.530
+OK.
+
+05:35.540 --> 05:37.700
+And negative on this side.
+
+05:37.730 --> 05:40.130
+Now this problem gives you a lot of additional information.
+
+05:40.130 --> 05:46.070
+However there is only one force acting on that electron and that force is given by the charge multiplied
+
+05:46.070 --> 05:47.360
+by the field.
+
+05:47.900 --> 05:52.010
+And that has to be equal to the mass times the acceleration.
+
+05:52.010 --> 05:52.190
+All right.
+
+05:52.190 --> 05:53.780
+Do we know the mass of the electron.
+
+05:53.780 --> 05:54.570
+Yes we do.
+
+05:54.600 --> 05:55.120
+OK.
+
+05:55.130 --> 05:55.590
+What else.
+
+05:55.610 --> 05:59.480
+We know the acceleration that's given in the problem and we know the charge.
+
+05:59.480 --> 06:02.590
+So all we're asking for is the magnitude of the electric field.
+
+06:02.630 --> 06:04.060
+That's this guy right here.
+
+06:04.070 --> 06:06.140
+So let's just get an expression for it.
+
+06:06.200 --> 06:10.430
+So it's a mass acceleration and divided by the charge.
+
+06:10.550 --> 06:15.050
+Again we don't have to worry about the negative side that only tells us the direction but we know automatically
+
+06:15.050 --> 06:18.350
+that the electron wants to go toward the positive plate.
+
+06:19.040 --> 06:26.480
+So here we just substitute in all our numbers the masses nine point 1 1 times 10 to the negative 31
+
+06:27.230 --> 06:31.000
+multiplied by the acceleration that was given in the problem right here.
+
+06:31.310 --> 06:35.990
+Eight point nine multiplied by 10 to 15.
+
+06:35.990 --> 06:36.510
+OK.
+
+06:36.530 --> 06:39.640
+And the last one is divided by the charge.
+
+06:39.650 --> 06:44.690
+That's our one point six times ten to the negative 19.
+
+06:44.720 --> 06:44.960
+All right.
+
+06:44.960 --> 06:48.050
+We have to substitute in all the values over here.
+
+06:48.050 --> 06:51.750
+And I think you should get 50 1000 roughly.
+
+06:52.740 --> 06:53.780
+Newton's preschool on.
+
+06:54.320 --> 07:00.290
+So in that case the correct answer should be choice a Here's problem three.
+
+07:00.290 --> 07:07.290
+It asks for the magnitude of the electric field that will balance a plastic weight that has a massive
+
+07:07.310 --> 07:09.040
+two point one grams.
+
+07:09.070 --> 07:09.280
+All right.
+
+07:09.290 --> 07:10.570
+So here's our plastic weight.
+
+07:10.580 --> 07:14.000
+And we're going to have a weight which is acting down.
+
+07:14.000 --> 07:19.370
+That's equal to M.G. and that better be balanced by an electric force.
+
+07:19.370 --> 07:25.580
+The electric force should be acting opposite and that there has a magnitude equal to 0 the charge saw
+
+07:25.580 --> 07:27.980
+the charges Q In this case.
+
+07:27.980 --> 07:33.640
+This case is a negative three nano coolant multiplied by the field.
+
+07:33.890 --> 07:34.300
+Okay.
+
+07:34.310 --> 07:34.820
+And that's it.
+
+07:34.820 --> 07:40.350
+So the electric field if you were really to think about it the electric field should be in this direction.
+
+07:40.370 --> 07:45.070
+We're only asking for the magnitude however and the electric feels in this direction because the force
+
+07:45.070 --> 07:48.720
+is opposite because we have a negative charge.
+
+07:48.800 --> 07:49.120
+Okay.
+
+07:49.150 --> 07:57.920
+So we want to balance everything out here so we have QE equals 2 M G E bring the Q on the bottom over
+
+07:57.920 --> 08:01.550
+here M.G. divided by Q All right.
+
+08:01.550 --> 08:08.420
+Now all we have to do is just substitute in all the values the mass is two point one grams that's two
+
+08:08.420 --> 08:17.090
+point one multiplied by ten to the negative three multiplied by a little G that's nine point eight and
+
+08:17.090 --> 08:23.850
+divided by the charge charge in this case just the magnitude three times tend to the negative nine cool
+
+08:23.850 --> 08:30.500
+ohms All right at the end of the day I think you should get a choice a which is six point nine times
+
+08:30.500 --> 08:37.630
+10 to the 6:00 news per call on all right that's it for that one.
+
+08:37.670 --> 08:45.280
+Let's go to next one last problem over here says that a proton is placed in an electric field with a
+
+08:45.280 --> 08:51.280
+magnitude of eight hundred newtons per column what are the magnitude and direction of the acceleration.
+
+08:51.310 --> 08:51.580
+Okay.
+
+08:51.610 --> 08:55.540
+So here is a proton we know it has a charge of positive
+
+08:58.130 --> 09:02.900
+so imagine now it's placed in a field which is just like this.
+
+09:02.930 --> 09:08.100
+This is the electric field and the magnitude is eight hundred.
+
+09:08.710 --> 09:09.020
+All right.
+
+09:09.020 --> 09:13.820
+How would you draw a force on that positive Proton.
+
+09:14.120 --> 09:18.550
+Again the force is given by QE and since the charge is positive.
+
+09:18.740 --> 09:25.760
+Our electric force F has to be simply e multiplied by E and they're in the same direction because our
+
+09:25.760 --> 09:26.900
+charge is positive.
+
+09:27.370 --> 09:28.190
+OK.
+
+09:28.280 --> 09:32.860
+So all we want to do now is just to determine the acceleration.
+
+09:32.990 --> 09:35.540
+So if this is the only force acting on it.
+
+09:35.690 --> 09:43.080
+Newton's second law says you add up all the forces and that has to be equal to mass times acceleration.
+
+09:43.130 --> 09:50.560
+And again this guy here is simply the charge multiplied by the field has the equal mass times acceleration.
+
+09:50.720 --> 09:51.010
+All right.
+
+09:51.020 --> 10:00.920
+So this leads to one final expression for acceleration is the charge the field and divided by the mass.
+
+10:00.920 --> 10:03.140
+All right let me give myself a little bit more space over here.
+
+10:03.140 --> 10:09.700
+So the acceleration is the charge one point six times 10 to the negative 19.
+
+10:10.130 --> 10:13.150
+Our field here has a magnitude of eight hundred.
+
+10:14.390 --> 10:15.820
+And again the mass.
+
+10:15.830 --> 10:23.550
+Now the mass of the proton is given its one point six seven multiplied by ten to the negative twenty
+
+10:23.550 --> 10:25.150
+seven.
+
+10:25.730 --> 10:28.280
+So you've got to put all that in your calculator.
+
+10:28.460 --> 10:33.980
+And at the end I think you should get something that's going to be looking like this six point sorry
+
+10:33.980 --> 10:43.780
+seven point six six multiplied by ten to the ten that's in meters per second squared.
+
+10:43.970 --> 10:46.660
+Now so let's look at all these choices.
+
+10:46.700 --> 10:49.430
+First of all this one here is the wrong magnitude.
+
+10:49.430 --> 10:55.060
+Now what about the direction the direction we said has to be in the same direction of the electric field.
+
+10:55.070 --> 10:56.140
+So can't be opposite.
+
+10:56.150 --> 10:56.290
+Right.
+
+10:56.300 --> 11:02.000
+Any choice with opposite here that can't be true opposite D also has opposite.
+
+11:02.000 --> 11:06.830
+And this one here has a different magnitude actually so C is really the correct answer.
+
+11:06.860 --> 11:12.590
+It has the direction that's in the direction of the electric field and the magnitude is also correct.
+
+11:12.590 --> 11:12.830
+All right.
+
+11:12.830 --> 11:13.670
+Good job.
+
+11:13.670 --> 11:14.750
+Hopefully you got all those.

@@ -1,0 +1,586 @@
+WEBVTT
+
+00:00.110 --> 00:06.180
+It's sometimes cool Ohm's Law gets mixed into problems where there's other types of forces present not
+
+00:06.240 --> 00:08.000
+only electrical forces.
+
+00:08.010 --> 00:15.120
+OK so in this problem I want to see an electrical force with other forces in the system for example
+
+00:15.120 --> 00:17.250
+gravitational force and tension.
+
+00:17.250 --> 00:22.230
+So let's have a look at this example and see how we would incorporate cool homes law to help us solve
+
+00:22.230 --> 00:22.980
+this problem.
+
+00:22.980 --> 00:25.700
+Here's the example so we have a two Styrofoam balls.
+
+00:25.710 --> 00:25.980
+OK.
+
+00:25.980 --> 00:28.430
+Number one and number two on this side.
+
+00:28.680 --> 00:30.240
+And they each have a mass.
+
+00:30.270 --> 00:30.510
+OK.
+
+00:30.510 --> 00:36.360
+The masses 10 grams and they're suspended by threads and the threads we're given their length is 25
+
+00:36.360 --> 00:37.620
+centimeters.
+
+00:37.620 --> 00:39.690
+All right now these balls are charged.
+
+00:39.720 --> 00:42.790
+OK so that's kind of what's gonna make this problem a little bit different.
+
+00:42.930 --> 00:49.110
+And when they're charged after you set the system up they make this angle here which is 15 degrees with
+
+00:49.110 --> 00:50.960
+respect to the vertical direction.
+
+00:51.090 --> 00:57.440
+OK then I've got a couple questions relating to this configuration for these two Styrofoam balls.
+
+00:57.480 --> 01:01.930
+First of all are the signs of the charges the same or opposite.
+
+01:01.950 --> 01:05.880
+Do both of those have to be positive both negative or can one be positive or negative.
+
+01:05.880 --> 01:08.160
+I think that one's pretty easy to say right.
+
+01:08.190 --> 01:10.000
+This one definitely yes.
+
+01:10.000 --> 01:10.160
+Right.
+
+01:10.170 --> 01:15.700
+They both have to have the same because we want to have this repulsive force that pushes them apart.
+
+01:15.810 --> 01:20.070
+If one of them was negative well then they would be stuck together.
+
+01:20.090 --> 01:20.220
+Right.
+
+01:20.220 --> 01:24.180
+They'd be kind of over here at the middle and they would rather be kind of right next to each other
+
+01:24.180 --> 01:24.560
+like that.
+
+01:24.570 --> 01:26.010
+But that's not what we have.
+
+01:26.010 --> 01:33.060
+So yes they either have to be both positive or both negative are the magnitudes of the charges necessarily
+
+01:33.060 --> 01:34.050
+the same.
+
+01:34.050 --> 01:34.260
+All right.
+
+01:34.260 --> 01:39.600
+Can you have a Q1 and Q2 and can those be different as long as they're both positive.
+
+01:40.020 --> 01:44.340
+Actually the answer of this one is they don't necessarily have to be the same.
+
+01:44.370 --> 01:44.600
+OK.
+
+01:44.640 --> 01:48.410
+So not not necessarily.
+
+01:49.200 --> 01:52.710
+You can actually have for example one cool arm and two columns.
+
+01:52.730 --> 01:52.880
+Right.
+
+01:52.890 --> 01:58.670
+That would produce a force on this guy in that direction and it would also produce we saw from Coombs
+
+01:58.770 --> 02:02.180
+law an equal and opposite force on this one.
+
+02:02.180 --> 02:02.960
+All right.
+
+02:03.000 --> 02:08.210
+And it really doesn't matter on the magnitude of each one because these forces are going to be the same.
+
+02:08.220 --> 02:12.730
+OK so that means that they don't necessarily have to have the same magnitude.
+
+02:12.750 --> 02:12.950
+All right.
+
+02:12.960 --> 02:18.930
+So that's kind of a little bit of a trickier problem so long as the force is the same the magnitude
+
+02:18.930 --> 02:21.060
+of the charges can be different.
+
+02:21.060 --> 02:21.400
+All right.
+
+02:21.630 --> 02:27.600
+However with that being said in the last problem we're going to say let's find the net charge on each
+
+02:27.600 --> 02:28.260
+one.
+
+02:28.350 --> 02:36.090
+And the important thing here is we are going to assume we are going to assume that the charges are equal.
+
+02:36.240 --> 02:36.820
+OK.
+
+02:36.840 --> 02:42.390
+So let's assume that they're either both positive or both negative and we're going to get rid of this
+
+02:42.390 --> 02:48.750
+little subscript because we're going to assume that both charges are the value Q And that's going to
+
+02:48.750 --> 02:54.240
+give us a repulsive force and that's going to give us a free body diagram that looks similar to this
+
+02:54.240 --> 02:54.810
+one.
+
+02:54.930 --> 03:01.420
+We have a wait acting down because our styrofoam balls have a mass of 10 grams.
+
+03:01.710 --> 03:06.870
+It's connected to a thread which means there has to be some tension acting on it in the direction and
+
+03:06.890 --> 03:11.160
+the tension is always along in the direction of the thread or the rope.
+
+03:11.250 --> 03:17.310
+And now we're going to have this new force which is our electric force and the magnitude of this guy
+
+03:17.310 --> 03:18.870
+is given by columns law.
+
+03:19.140 --> 03:22.120
+All right so let's go on the page the next page and set this up.
+
+03:22.140 --> 03:26.630
+Now it doesn't matter whether you do a free body diagram on this guy or the other guy.
+
+03:26.680 --> 03:28.470
+Right you're gonna get the same thing.
+
+03:28.590 --> 03:29.010
+Just the.
+
+03:29.010 --> 03:30.510
+Forces are going to be flipped around.
+
+03:30.510 --> 03:34.240
+My attention would be like this my electric force would be like this.
+
+03:34.260 --> 03:38.640
+And the weight would be down if I did it on the charge on the left hand side.
+
+03:38.640 --> 03:42.720
+All right let's go set up the system and our equations and see how we can actually obtain.
+
+03:42.900 --> 03:46.110
+Our goal is to find what is this value Q Right here.
+
+03:46.110 --> 03:49.030
+So let's set it up and solve the problem right.
+
+03:49.050 --> 03:54.960
+So here's the free body diagram over here and I've listed some of the numbers so the length of the thread
+
+03:54.960 --> 04:01.110
+was 25 centimeters the angle here that the thread makes with relative to the vertical that angle theta
+
+04:01.110 --> 04:02.670
+is 15 degrees.
+
+04:02.700 --> 04:08.040
+I've also listed this number here or introduce the variable which is the distance between the two charges
+
+04:08.040 --> 04:11.420
+which is r and that's required for cool Ohm's Law.
+
+04:11.420 --> 04:11.720
+All right.
+
+04:11.730 --> 04:18.800
+And if we look at just the charge on the right hand side again if it's not moving it should be an equilibrium.
+
+04:18.840 --> 04:24.600
+So that means that the sum of the forces acting on that charge have to be equal to zero.
+
+04:24.600 --> 04:26.460
+That's Newton's first law.
+
+04:26.730 --> 04:31.440
+So since it's a two dimensional problem what we're gonna do here is we're gonna look at it in the x
+
+04:31.440 --> 04:35.410
+direction and in the y direction separately.
+
+04:35.430 --> 04:40.740
+This is gonna be my x direction and this is my vertical direction is the y direction over here.
+
+04:40.830 --> 04:41.180
+All right.
+
+04:41.210 --> 04:43.730
+So let's just kind of clean this up a little bit.
+
+04:43.770 --> 04:45.410
+So in the x direction what do we have.
+
+04:45.420 --> 04:49.340
+We have an electric force and the electric force is pointing to the right.
+
+04:49.410 --> 04:55.490
+So we're gonna have plus the electrical force that's given by columns law.
+
+04:55.490 --> 04:56.480
+We'll come back in a minute.
+
+04:56.910 --> 04:59.130
+And then what else is acting in the x direction.
+
+04:59.130 --> 05:01.980
+Well there's all a component of the tension right.
+
+05:01.990 --> 05:07.210
+If I break my tension down into two forces there's this guy right here and this is the tension in the
+
+05:07.210 --> 05:13.680
+x direction so I'm gonna write this as minus the tension in the x direction.
+
+05:13.680 --> 05:13.910
+All right.
+
+05:14.020 --> 05:15.990
+So we can take this one step further.
+
+05:16.030 --> 05:17.710
+This is my electric force.
+
+05:17.860 --> 05:23.710
+And how do I write tension in the x direction using the magnitude of the tension right here.
+
+05:23.710 --> 05:30.490
+I could use some trigonometry over here if this angle is 15 degrees then the tension in the x direction
+
+05:31.120 --> 05:36.850
+should be the tension multiplied by sign of 15 degrees.
+
+05:36.910 --> 05:38.340
+Make sure you understand this part.
+
+05:38.370 --> 05:39.610
+That's really important.
+
+05:39.790 --> 05:45.140
+And that is should be equal to zero because there is no net force in that x direction.
+
+05:45.190 --> 05:47.480
+All right how about in the vertical direction now.
+
+05:47.520 --> 05:47.740
+Okay.
+
+05:47.830 --> 05:50.500
+In the vertical direction we have two forces.
+
+05:50.620 --> 05:53.600
+We have a component of the tension that is acting up.
+
+05:53.620 --> 05:55.170
+That's this guy right here.
+
+05:55.630 --> 06:01.510
+I'm gonna call this t y and then we have the wait acting down and the magnitude of the weight is simply
+
+06:01.510 --> 06:02.380
+M.G..
+
+06:02.450 --> 06:08.560
+Right the mass of the styrofoam ball multiplied by Little G and the mass was 10 grams I think.
+
+06:08.560 --> 06:08.830
+All right.
+
+06:08.860 --> 06:12.840
+So let's go back now and writes right the sum of the forces in the vertical direction.
+
+06:12.910 --> 06:19.950
+So we have t y acting up and we have minus the weight or minus M.G. acting down again.
+
+06:19.960 --> 06:23.890
+Let's get rid of t y and let's write it in terms of the tension T.
+
+06:24.130 --> 06:30.190
+Again if that angle is 15 degrees that means that this interior angle here is also 15 degrees.
+
+06:30.190 --> 06:40.690
+And then you should be able to write t coasts of 15 degrees minus the weight minus M.G. equals to zero.
+
+06:40.930 --> 06:43.480
+OK so now we've got two equations right.
+
+06:43.490 --> 06:47.770
+Here's equation 1 in the x direction and equation 2 in the y direction.
+
+06:47.770 --> 06:53.830
+Now let's go see what our unknowns are really we want to get rid of tension right now because tension
+
+06:53.830 --> 06:54.580
+doesn't help us.
+
+06:54.580 --> 06:58.430
+So let me go ahead and first fix the equation 1.
+
+06:58.720 --> 07:05.080
+What I'm gonna do is I'm going to bring t sine 15 on the other side so I have that my electrical force
+
+07:05.830 --> 07:10.840
+should be equal to T sign of 15 degrees.
+
+07:10.840 --> 07:15.340
+All right how about equation 2 equation to do the same thing.
+
+07:15.340 --> 07:20.110
+I'm going to bring the weight on the other side and the weight is something I know because I know the
+
+07:20.110 --> 07:22.180
+mass of the styrofoam balls.
+
+07:22.180 --> 07:30.870
+So we have M.G. which is t coasts of 15 degrees for me to eliminate the tension which you can do here
+
+07:30.870 --> 07:32.700
+is is using both of these equations.
+
+07:32.710 --> 07:34.020
+Let's get rid of tension.
+
+07:34.060 --> 07:38.020
+One thing I could do is just divide one equation by the other equation.
+
+07:38.020 --> 07:42.250
+If I just divide both sides that's going to eliminate the tension.
+
+07:42.550 --> 07:44.200
+So that's gonna be something I want to do here.
+
+07:44.230 --> 07:49.330
+So if I do one divided by equation 2 this will eliminate
+
+07:52.430 --> 07:54.650
+T and we're gonna be left with this.
+
+07:54.680 --> 08:03.170
+So the electrical force divided by M.G. is going to be equal sine divided by coasts is actually tangent
+
+08:03.770 --> 08:06.080
+tangent of 15 degrees.
+
+08:06.570 --> 08:08.480
+All right one last step now I want to.
+
+08:08.480 --> 08:12.760
+Well let's figure out what is my electrical force here for this problem.
+
+08:12.830 --> 08:16.010
+So what I have our two charges they have the same magnitude.
+
+08:16.050 --> 08:22.520
+Right so let's go ahead and write an expression for this electrical force we have our constant k both
+
+08:22.520 --> 08:28.970
+charges are the same so that numerator for cool Ohm's law simply becomes Q squared and now it's divided
+
+08:28.970 --> 08:33.590
+by the distance squared r squared R squared.
+
+08:33.590 --> 08:35.340
+I don't really know right now.
+
+08:35.410 --> 08:35.850
+Right.
+
+08:35.870 --> 08:41.200
+However I do know that the string is twenty five centimeters long.
+
+08:41.290 --> 08:41.790
+Right.
+
+08:41.810 --> 08:46.340
+So actually if you use a little bit of trigonometry you should be able to find this distance right here
+
+08:46.650 --> 08:47.340
+D right.
+
+08:47.350 --> 08:52.780
+This is called D the distance from the charge all the way to the vertical are half.
+
+08:52.940 --> 08:57.950
+And once you know D then R is simply going to be two times that value D.
+
+08:57.950 --> 09:00.340
+So you should be able to write something like this.
+
+09:00.440 --> 09:07.270
+This is simply two times D and then D you should be on the right in terms of some trigonometry.
+
+09:07.730 --> 09:14.010
+You should be able to write this is too and this here should be D should be the length of that rope
+
+09:14.050 --> 09:22.230
+twenty five centimeters already and meters right away and multiplied by sine a 15 degrees.
+
+09:22.490 --> 09:23.630
+All right good.
+
+09:23.690 --> 09:29.660
+So that is the value are you can go ahead and substitute and find a value for that.
+
+09:31.470 --> 09:37.290
+And that's required because that's what gets substituted into my cool Ohm's Law.
+
+09:37.320 --> 09:37.710
+All right.
+
+09:37.740 --> 09:42.540
+So and again the reason you have to introduce this at the end this is what we're trying to find is the
+
+09:42.540 --> 09:43.260
+Q value.
+
+09:43.320 --> 09:46.920
+So let's do a little bit more algebra and get Q by itself.
+
+09:46.920 --> 09:53.100
+So what I'm going to do is I'm going to substitute this entire expression here inside my force the electrical
+
+09:53.100 --> 09:54.900
+force expression right here.
+
+09:55.290 --> 09:58.430
+First thing you could do is bring the M.G. over on the other side.
+
+09:58.530 --> 10:00.170
+So let's go ahead and start by doing that.
+
+10:00.190 --> 10:07.010
+Let's get rid of this and if I write it on this side I'm gonna have M.G. and the other thing I want
+
+10:07.010 --> 10:10.650
+to do now is eliminate my electrical force.
+
+10:11.000 --> 10:19.480
+So the electrical force I'm going gonna write it as K Q squared over R squared.
+
+10:19.610 --> 10:24.860
+All right now you have to do is just get Q by itself which means I bring the r squared over here.
+
+10:26.670 --> 10:29.360
+Get rid of it over here and I bring the K at the bottom.
+
+10:29.430 --> 10:35.290
+Which means I can get rid of it there and I have to divide by that value okay.
+
+10:35.490 --> 10:39.650
+The last thing I want to eliminate is the squared term.
+
+10:40.200 --> 10:43.830
+So my final expression for q is equal to this.
+
+10:43.840 --> 10:46.400
+And then you've got to take the square root of everything.
+
+10:46.590 --> 10:52.140
+So I have tangent of 15 degrees I have the weight.
+
+10:52.430 --> 11:01.000
+M.G. I have our squared and are here I'm gonna just go ahead and substitute everything here.
+
+11:01.130 --> 11:09.830
+This is two zero point two five sign of 15 is kind of a really long expression.
+
+11:09.940 --> 11:12.830
+You have to be careful when you substitute this in your calculator.
+
+11:13.010 --> 11:19.120
+Then at the end it's divided by my constant K and everything here is actually under the square root
+
+11:19.120 --> 11:20.980
+term.
+
+11:21.380 --> 11:23.510
+B put another bracket around there.
+
+11:23.580 --> 11:28.880
+All right if you're really really careful when you do this at the end you should get a value of the
+
+11:28.880 --> 11:29.780
+constant.
+
+11:29.930 --> 11:37.160
+Sorry the charge the magnitude of the charge which is zero point to two times 10 to the negative 6 and
+
+11:37.160 --> 11:39.840
+that's measured in columns.
+
+11:41.710 --> 11:43.220
+All right kind of a lengthy problem.
+
+11:43.250 --> 11:46.180
+It involves two equations and two unknowns.
+
+11:46.310 --> 11:52.610
+And the reason that we needed two equations and two at least two equations was even from equation 1.
+
+11:52.700 --> 11:57.300
+We weren't really able to find the charge cube because we have to get rid of this right.
+
+11:57.330 --> 12:01.220
+There is nowhere where we're asked to solve for tension and we don't know what the value of the tension
+
+12:01.220 --> 12:01.620
+is.
+
+12:01.760 --> 12:06.590
+So that's really why we needed the second equation in order to right the tension in terms of the weight
+
+12:07.010 --> 12:08.390
+and the weight is something we know right.
+
+12:08.420 --> 12:11.030
+The math was given as a 10 grams I think.
+
+12:11.130 --> 12:15.420
+So remember to convert that into kilograms.
+
+12:15.560 --> 12:17.150
+Anyway that's it for this problem.

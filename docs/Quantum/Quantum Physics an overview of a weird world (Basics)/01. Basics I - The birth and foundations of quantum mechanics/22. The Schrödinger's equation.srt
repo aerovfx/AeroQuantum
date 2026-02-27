@@ -1,0 +1,733 @@
+WEBVTT
+
+00:00.970 --> 00:03.850
+Now, what do physicists do with all that?
+
+00:05.050 --> 00:10.450
+The point is that if we want to deal with real world measurements, we must specify which information
+
+00:10.450 --> 00:17.440
+from this mathematical construct, the wavefunction or state vector we want to extract, that is which
+
+00:17.440 --> 00:22.150
+physical quantity, more precisely which dynamic variable we want to measure.
+
+00:22.810 --> 00:28.710
+Among them, for example, the position, momentum, the energy, the angular momentum and so on.
+
+00:30.280 --> 00:38.140
+What mathematicians and physicists do is to define an operator, which, as the world says, operates
+
+00:38.140 --> 00:46.630
+on the wavefunction or state vector to extract, to project, to obtain a specific piece of information
+
+00:46.630 --> 00:53.760
+associated with the observable examples of mathematical operator operators.
+
+00:53.770 --> 01:00.550
+Every one of us knows are the addition, subtraction, multiplication and division operators.
+
+01:00.550 --> 01:08.020
+For example, the multiplication operator X on two quantities, A and B to obtain and other quantities
+
+01:08.440 --> 01:16.890
+C as A times B equal c that simple that this is a meaning of operator at this point is an operator.
+
+01:17.230 --> 01:25.990
+Similarly, one can conceive of an more abstract operator, let's call it all, acting on a state vector
+
+01:26.170 --> 01:26.620
+CI.
+
+01:27.560 --> 01:34.400
+If we consider this operation as a formal equivalence with an act of measurement of a dynamic variable
+
+01:34.700 --> 01:42.980
+that is observable of a system, the output of this operation should tell us something about the outcome
+
+01:42.980 --> 01:50.750
+of this measurement and which is always a number as a quantity and which usually we will call always
+
+01:50.750 --> 01:58.700
+lamda a number, which represents the expected value from this measurement, the so-called eigenvalue.
+
+02:00.330 --> 02:09.680
+And you write that the operator all operates on the state lactobacilli and gives is equal lamda times,
+
+02:09.720 --> 02:16.040
+BPCI lamda the outcome of a measurement or more broadly, simply an observation.
+
+02:16.620 --> 02:18.090
+It could be the perfect example.
+
+02:18.120 --> 02:25.140
+The position of a particle lambda would be then it is in position at the position and at three centimeters
+
+02:25.740 --> 02:28.330
+in some reference system.
+
+02:29.640 --> 02:32.320
+This equation is therefore called the Eigen Funk.
+
+02:32.400 --> 02:35.490
+The Eigen equation, sorry, the Igen equation.
+
+02:35.670 --> 02:38.190
+It is the mathematical procedure.
+
+02:39.130 --> 02:45.880
+We have to perform in order to make predictions once we know the experimental setup and the boundary
+
+02:45.880 --> 02:53.530
+conditions stated a bit more precisely, one should say that each dynamic variable, for example, position,
+
+02:53.530 --> 03:01.590
+omentum, angular momentum, energy and so on, is associated with an so called self ajoint operator,
+
+03:02.830 --> 03:03.820
+the observable.
+
+03:04.710 --> 03:13.920
+The operator is the observable associated to that dynamic variable that acts on the state vector of
+
+03:13.920 --> 03:22.140
+the quantum of the quantum system CI and which furnishes Escala quantity, the eigenvalue lambda.
+
+03:23.450 --> 03:29.780
+I said self ajoint, this is not so important, subagent means that the complex conjugate of the operator
+
+03:29.810 --> 03:36.460
+is again the operator, but these mathematical aspects that are not so important for our purposes here
+
+03:36.470 --> 03:43.220
+simply remember the connection between the classical notion of dynamic variable and its counterpart
+
+03:43.220 --> 03:46.790
+in quantum mechanics as operator, the observable.
+
+03:49.030 --> 03:57.910
+To avoid a possible source of confusion, let us state this again from another perspective, operators
+
+03:57.910 --> 04:04.930
+are not numbers one, two, three, four, five, etc are numbers, whereas.
+
+04:05.860 --> 04:07.540
+Plus minus.
+
+04:09.390 --> 04:18.960
+Multiplication or division are binary operators binary because they combine two numbers called operands
+
+04:19.350 --> 04:23.430
+to obtain another number, for example, one plus two equals three.
+
+04:24.910 --> 04:36.310
+Therefore, it makes no sense to state that if an operator acting on a state function BPCI is equal
+
+04:36.440 --> 04:45.910
+lamda times side dog or cat, SPSSI, the state vector, then we can equate all equal lunder.
+
+04:47.110 --> 04:51.700
+This makes no sense because you're then equating an operator with a number.
+
+04:52.000 --> 04:55.030
+And we have said these are two distinct objects.
+
+04:55.780 --> 05:00.130
+That is, one is mistaking apples for bananas.
+
+05:01.660 --> 05:05.080
+So this distinction must be clear in our mind.
+
+05:06.070 --> 05:13.240
+Moreover, the operators used in quantum mechanics operate on functions rather than on numbers.
+
+05:14.820 --> 05:25.230
+Perhaps the simplest, non-trivial, unary operator is the derivation operator, the over the ex unary
+
+05:25.230 --> 05:29.220
+because it operates on one function to obtain another function.
+
+05:30.800 --> 05:36.380
+For those who know how to take derivatives, for those who do not.
+
+05:36.410 --> 05:39.170
+Don't worry, we will not need them anymore.
+
+05:39.830 --> 05:47.150
+An example could be that the rebate, the derivation of the exponential function e.
+
+05:48.710 --> 06:00.470
+Power to act, which gives two times the same exponential function, two times the power to X, but
+
+06:00.620 --> 06:09.320
+nobody would equate the operator the over the X and say this is equal to the operators as one thing
+
+06:09.560 --> 06:11.430
+and the numbers are another thing.
+
+06:11.780 --> 06:22.460
+Operators act on functions and obtain another function, whereas there are also these big banner operators
+
+06:22.460 --> 06:31.610
+we use in our daily experience plus minus charter, which work on function, on numbers and again obtained
+
+06:31.610 --> 06:32.180
+numbers.
+
+06:33.440 --> 06:39.080
+But in that the quantum operators act on functions and obtain functions.
+
+06:39.920 --> 06:45.830
+And these quantum operators, that is observables are also called, by the way.
+
+06:46.560 --> 06:50.870
+Q Numbers because they have a formal analogy with numbers.
+
+06:51.530 --> 06:54.530
+But remember that they are numbers at all.
+
+06:56.920 --> 07:03.220
+Once that has become clear, here are some examples of the observables.
+
+07:05.400 --> 07:16.290
+So, for example, in in in in the classical world, we have the position X, whereas this year we have
+
+07:16.350 --> 07:18.020
+an example of an observable.
+
+07:18.330 --> 07:22.020
+The simplest one is the simplest one is the position operator.
+
+07:22.020 --> 07:30.720
+And just we say that the operator for X is that some operator X, which X on the way function and will
+
+07:30.720 --> 07:33.960
+give me the position of the Patika.
+
+07:33.990 --> 07:41.070
+If that wavefunction is the description of the quantum system, if we want to know the position of a
+
+07:41.070 --> 07:41.610
+particle.
+
+07:41.640 --> 07:46.830
+Therefore, we have just to multiply the wavefunction with the position variable X and then take the
+
+07:46.830 --> 07:53.820
+model square to obtain, as usual, the probability density function of X and which tells us something
+
+07:53.820 --> 07:55.040
+about its whereabouts.
+
+07:57.000 --> 08:04.350
+The momentum operator that is the observable, which tells me something about the momentum of the particle,
+
+08:04.680 --> 08:15.060
+has a form of a derivative operator and it is given by this derivation operator of over a function where
+
+08:15.450 --> 08:24.090
+the the over the X times, some constant it will turn out in quantum mechanics that it is minus I times
+
+08:24.090 --> 08:35.160
+h bar where I is the imaginary number H bar is Planck's constant divided of by two pi where this comes
+
+08:35.160 --> 08:35.520
+from.
+
+08:36.270 --> 08:42.560
+This would need all the mathematical interaction and we would see why this is all.
+
+08:42.630 --> 08:52.770
+The important point is that you recall that the momentum in classical mechanics was just mass times
+
+08:52.770 --> 08:56.520
+the velocity in quantum mechanics.
+
+08:56.530 --> 08:59.220
+You must not no longer think as.
+
+09:00.450 --> 09:07.860
+Dynamical variables in classical physics, but as operators, that is observables and one operator is
+
+09:07.860 --> 09:14.570
+the derivation operator that you may have learned when you have learned a bit of calculus.
+
+09:14.580 --> 09:23.880
+If you didn't take a look at the appendix and where we discussed also this aspect, taking the derivative
+
+09:23.880 --> 09:32.250
+in space of the wavefunction, therefore time supplying constant bar and an imaginary number will furnish
+
+09:32.250 --> 09:38.160
+a mathematical expression that tells us something about the speed of the particle that the wavefunction
+
+09:38.160 --> 09:38.850
+describes.
+
+09:40.950 --> 09:47.490
+So similarly, the energy operator, which is called the evolution operator, or also Hamiltonian,
+
+09:48.210 --> 09:49.980
+has a bit more complex structure.
+
+09:50.370 --> 09:59.970
+It is given by a second derivative in space times minus H, but squared over to M, where M is the mass
+
+09:59.970 --> 10:06.660
+of the particle, plus A function V of X, which represents the potential energy of the particle.
+
+10:07.320 --> 10:08.630
+So we have the operator.
+
+10:09.000 --> 10:18.030
+The Hamiltonian age is given by this quantity here, and this is nothing else than an operator, which
+
+10:18.030 --> 10:26.490
+if it operates on the way function of a quantum system, it will give me as output the energy of the
+
+10:26.490 --> 10:31.260
+system, the oil, the possible energy states of the system.
+
+10:31.950 --> 10:38.370
+It is in particular this letter observable, which leads to the famous Schrodinger equation, which
+
+10:38.520 --> 10:46.500
+in a compact form can be written here as H operating on the state vector PSI is equal.
+
+10:46.500 --> 10:52.740
+The Igan the energy eigenvalue e here in capital letter e e times.
+
+10:52.980 --> 11:01.200
+Sorry that this is the Igen equation for the energy state of a system.
+
+11:02.250 --> 11:08.790
+Once the wave function of the state vector describing the system is given, one applies the Hamiltonian
+
+11:09.210 --> 11:16.080
+as prescribed by the igan equation and we will obtain as eigenvalue e the energy of the state.
+
+11:16.740 --> 11:23.850
+The Schrodinger equation is so important because it helps us in obtaining the energy states of any quantum
+
+11:23.850 --> 11:33.600
+system as the energy levels of atoms and then nuclei, nuclei or even more complicated objects like
+
+11:33.810 --> 11:34.680
+molecules.
+
+11:36.110 --> 11:45.260
+Let us make only a brief insertion here that will turn out to be important later, another important
+
+11:45.260 --> 11:51.430
+quantity in quantum mechanics is the so-called expectation value of an operator.
+
+11:52.340 --> 11:58.320
+That is the average value one obtains by measuring an observable.
+
+11:58.490 --> 12:07.430
+Many times it is operatively a fundamental notion in quantum mechanics because in the laboratory, what
+
+12:07.430 --> 12:14.240
+one usually must tackle in the real world are average, measured values.
+
+12:15.340 --> 12:26.530
+For example, for the position operator X equal small X X, four foot particle one integrates its position
+
+12:27.460 --> 12:35.370
+X, weighting it by the probability of finding it in X or in analytical terms.
+
+12:35.620 --> 12:44.680
+You can see here it is the integral over all the space, if you wish, or where all the universe of
+
+12:44.680 --> 12:58.180
+the way function, say X times the position X times size, the complex conjugate of the wavefunction
+
+12:58.180 --> 12:59.020
+itself.
+
+13:01.630 --> 13:11.200
+It is the average value of the position of a particle that one expects to obtain after a large number
+
+13:11.200 --> 13:12.050
+of measurements.
+
+13:13.360 --> 13:22.720
+More generally, this can be written in more compact, compact form by using Dirac's notation, stating
+
+13:22.720 --> 13:31.510
+that the expectation value of an operator, a let's call it, just is a letter capital letter.
+
+13:31.510 --> 13:39.640
+A in state XYZ is defined as that Brassai.
+
+13:41.590 --> 13:44.140
+The operator are on a.
+
+13:45.740 --> 13:47.660
+Sigh, as you can see here.
+
+13:49.080 --> 13:56.640
+With right with the right hand side, there are brackets as defined in the integral above.
+
+14:03.020 --> 14:12.380
+Now, turning back to Schrodinger's equation we saw previously, this is, however, not the most general
+
+14:12.380 --> 14:22.250
+equation because this was the time independent Schrodinger equation, while physical systems are in
+
+14:22.250 --> 14:24.720
+many cases, time dependent.
+
+14:25.250 --> 14:31.010
+There is a factor of time working as everything in the physical world.
+
+14:31.250 --> 14:40.290
+It evolves according to time and and we express this by a time dependent function.
+
+14:41.180 --> 14:46.730
+Therefore, the time dependent energy operator is called.
+
+14:46.730 --> 14:53.390
+There exists also at a time dependent energy operator and which is called evolution, a port operator
+
+14:54.020 --> 14:56.910
+and is given by this quantity here.
+
+14:57.380 --> 15:07.790
+So we generalize the Hamiltonian to a time dependent operator or parameter to a time t..
+
+15:08.570 --> 15:17.120
+And which is age of T equal, uh, quantity, which is again an operator.
+
+15:17.660 --> 15:28.910
+The imaginary number times H bar times the derivative operator over time the over the T.
+
+15:30.980 --> 15:39.140
+That's why you will frequently find that time dependent Schrodinger equation in this form here you have
+
+15:39.170 --> 15:49.400
+the Hamiltonian, that time dependent Hamiltonian who acts on the state vector PSI Kappa Capsid equal
+
+15:50.150 --> 15:51.890
+i h bar.
+
+15:53.160 --> 15:54.270
+The authority.
+
+15:55.500 --> 15:56.640
+Over that.
+
+15:57.620 --> 15:59.330
+Same contractor.
+
+16:01.390 --> 16:04.960
+This is, again, the time dependent.
+
+16:05.820 --> 16:06.900
+Igen equation.
+
+16:08.230 --> 16:15.580
+An important property of Schrodinger's equation is that it is linear differential equation is set to
+
+16:15.580 --> 16:26.050
+be linear when given to different allowed solutions and say I want MCI to also that some say one plus
+
+16:26.410 --> 16:29.590
+two is again and allow the solution.
+
+16:30.520 --> 16:37.870
+As an example, you might recall the superposition of two waves forming a new wave as discussed with
+
+16:37.870 --> 16:39.470
+the interference phenomenon.
+
+16:41.290 --> 16:49.330
+This means that also the sum of two solutions is, again, the solution to this differential equation
+
+16:49.330 --> 16:53.800
+or this one, this one, this or this to the to the Schrodinger equation.
+
+16:53.830 --> 16:58.750
+This means that the Schrodinger equation is a linear differential equation.
+
+16:59.650 --> 17:07.630
+This will be crucial later when we will discuss quantum superposition in principle and also the measurement
+
+17:07.750 --> 17:11.140
+measurement problem in a lecture later.
+
+17:13.740 --> 17:22.440
+The Hamiltonian operator also defines the time, evolution of the wavefunction from a time zero to a
+
+17:22.680 --> 17:23.550
+time T..
+
+17:25.260 --> 17:35.070
+In particular, if age is independent of times, the very right age without the time parameter, given
+
+17:35.250 --> 17:45.140
+a state size zero at time zero, we have the state vector at 10 00 at an initial time, T equals zero,
+
+17:46.470 --> 17:48.840
+the state of the quantum system.
+
+17:50.090 --> 17:59.720
+Head of society, at any subsequent time t is generated, Wiecek, it is in quantum mechanics, you
+
+17:59.720 --> 18:08.900
+say it's generated by the so-called unitary operator, which is this quantity given here and is expressed
+
+18:08.900 --> 18:12.940
+with the exponential unitary operator.
+
+18:12.950 --> 18:18.320
+You capital letter U equals E exponential.
+
+18:19.430 --> 18:30.530
+Minus I h t over h bar and using this quantity, applying this operator on to the.
+
+18:33.300 --> 18:43.980
+State initial, state vector, initial in time, you operating over a cat of site zero, this quantity
+
+18:43.980 --> 18:44.430
+here.
+
+18:45.470 --> 18:54.800
+Then you obtain the state of the system at a subsequent time, t that is the cat of society.
+
+18:56.570 --> 19:06.710
+So this quantity, this equation here tells me how BPCI within this initial state, besides zero, evolves,
+
+19:07.310 --> 19:09.020
+develops in time.
+
+19:10.210 --> 19:12.680
+And becomes BPCI of tea.
+
+19:12.940 --> 19:22.780
+And how do we do that, we just apply the evolution operator you upon the state vector site of zero
+
+19:23.080 --> 19:24.160
+at this time zero.
+
+19:26.930 --> 19:34.250
+Its main physical interpretation of all of this is that it is an operator, that evolution operator
+
+19:34.250 --> 19:39.230
+that does not describe an observable that is a measurement.
+
+19:39.860 --> 19:42.320
+The evolution operator is not an observable.
+
+19:42.650 --> 19:43.610
+It is something that.
+
+19:44.530 --> 19:46.240
+Involves the state function.
+
+19:47.590 --> 19:51.350
+In fact, it is the evolution in time of a quantum system.
+
+19:51.370 --> 19:54.240
+It gives us an evolution in time of a quantum system.
+
+19:54.550 --> 20:00.550
+It changes the face of the wave function or state vector, but not its length.
+
+20:02.220 --> 20:02.660
+At.
+
+20:03.870 --> 20:13.440
+Imagine a vector and you change the direction, not the length of this vector, this, so to speak,
+
+20:13.440 --> 20:22.020
+length conservation that you conserve the length of this state vector reflects nothing else, then the
+
+20:22.020 --> 20:29.910
+necessity to conserve, to conserve the sum of all the probabilities associated to the Afghan states
+
+20:30.240 --> 20:32.570
+before and after the state evolution.
+
+20:33.480 --> 20:37.290
+This case can be expressed using the.
+
+20:38.550 --> 20:48.120
+Equation that we used in a previous slide, remember this one where Roquette of BPCI, that is the sum
+
+20:48.120 --> 20:51.480
+of all the model, the square of the coefficients must give one.
+
+20:53.100 --> 21:01.680
+Then we can generalize this expression from and time independent from this time, independent expression
+
+21:02.040 --> 21:04.940
+to the time dependent expression.
+
+21:04.950 --> 21:09.750
+But the sum of all the probabilities must always be equal.
+
+21:09.750 --> 21:19.160
+One If in in our quantum system there is no interaction from the outside that destroys everything.
+
+21:19.740 --> 21:27.390
+But for an isolated quantum system that evolves in time, this expression must be conserved.
+
+21:28.020 --> 21:35.020
+Therefore, its name unitary operator because it transforms something.
+
+21:35.040 --> 21:37.230
+But unity is conserved.
+
+21:38.680 --> 21:46.030
+Moreover, note that if you is a unitary operator that avoids the quantum state forward in time, its
+
+21:46.030 --> 22:00.580
+complex conjugate, you star equal a the oil, a number power plus eye HD over each bar sends it backward
+
+22:00.580 --> 22:04.060
+in time by an interval to.
+
+22:05.610 --> 22:13.350
+Then it becomes obvious that applying first you start the complex conjugate and you consecutively.
+
+22:14.430 --> 22:21.780
+This means that it preserves the state, that is it is an equal formal definition of a unit unitary
+
+22:22.140 --> 22:26.670
+operator, it is that it satisfies the general relation.
+
+22:27.180 --> 22:34.320
+You start times, you equal one because you go forward in time, then you come back.
+
+22:34.530 --> 22:36.720
+And nothing has changed, of course.
+
+22:37.220 --> 22:42.750
+Again, this must give that this is the identity operator.
+
+22:43.680 --> 22:52.950
+It leaves everything identical with the one being a scholar, just a number one or more generally an
+
+22:53.070 --> 22:54.200
+identity operator.
+
+22:54.210 --> 22:58.200
+That leaves the things as as they are more.
+
+22:58.590 --> 23:07.190
+We will tell on this later because this concept of the unitary unitary operator, operator or unitary
+
+23:07.200 --> 23:13.740
+of evolution, more generally, it is a very important concept in quantum mechanics, as we will see
+
+23:14.040 --> 23:22.980
+this operator reappears throughout our journey and we will discuss its properties in different contexts
+
+23:22.980 --> 23:23.430
+again.
+
+23:24.960 --> 23:32.940
+For completeness, since we will make use of it when dealing with quantum decoherence, let us point
+
+23:32.940 --> 23:40.830
+out how once the Schrodinger equation has been solved and the Igan states with its Igen energies are
+
+23:40.830 --> 23:47.360
+known, it is possible to calculate the transition, so-called transition amplitudes.
+
+23:47.640 --> 23:55.380
+That is the probability that an atom transitions say, because of the scattering or absorption of a
+
+23:55.380 --> 24:02.400
+photon from an initial state capsid to a final state Khaddafi.
+
+24:03.510 --> 24:11.850
+Dirac's notation allows to determine the probability that this transition will take place as follows.
+
+24:12.150 --> 24:15.750
+Here you see the usual model, the square.
+
+24:17.160 --> 24:25.260
+And what is squared is the bracket of the state C two state fee.
+
+24:26.280 --> 24:37.350
+So we have an expression in direct annotation of what the probability is that a state that typically
+
+24:37.350 --> 24:45.240
+an atom or quantum system transitions from a state BPCI to a state five and.
+
+24:46.180 --> 24:54.310
+You express this with the intention of this way, for example, the probability that an atom in isolation
+
+24:54.790 --> 25:03.430
+spontaneously transitions from an energetic lower, I can state it e0 to a higher one.
+
+25:03.610 --> 25:06.100
+Each one is zero.
+
+25:07.000 --> 25:18.700
+Which implies that the bracket of E zero e one equals zero in this case, one speaks of or thought orthogonal
+
+25:18.820 --> 25:28.360
+state vectors because geometrically this is displayed as being the ideal state vectors perpendicular
+
+25:28.360 --> 25:29.290
+to each other.
+
+25:29.570 --> 25:38.680
+Yeah, that's, after all, the meaning of the Igen states and their display in a Cartesian.
+
+25:41.050 --> 25:52.660
+Space as multidimensional space where the axis have an orthogonal orthogonal orientation, and if you
+
+25:52.660 --> 26:01.150
+make the circle a product of orthogonal vectors, you have always zero, which in quantum mechanical
+
+26:01.150 --> 26:06.170
+terms means that the probability to transition from one state to the other is zero.
+
+26:06.460 --> 26:12.520
+And that's why the igan states, when we measure them always, always, always, many times there remain
+
+26:12.550 --> 26:13.060
+there.
+
+26:13.810 --> 26:21.280
+That's the real fundamental meaning of the igan states and orthogonality in quantum mechanics.
+
+26:22.750 --> 26:31.600
+However, for any quantum system which is subjected to an outside interaction, say, such as in a scattering
+
+26:31.780 --> 26:40.420
+or a measurement process, an atom receives a photon or something like that, the state vectors may
+
+26:40.420 --> 26:41.830
+no longer be orthogonal.
+
+26:42.730 --> 26:52.840
+And this equation acquires a non-zero value and represents the transition probability from one state
+
+26:52.840 --> 26:53.780
+to another.
+
+26:54.940 --> 27:03.160
+There is then a certain chance that due to this interaction or measurement, a state transition occurs
+
+27:03.550 --> 27:09.400
+in case of atoms eventually by emission or absorption of photons.
+
+27:12.440 --> 27:16.680
+This was just a brief introduction to the formalism of quantum mechanics.
+
+27:16.700 --> 27:25.550
+We will not go too much to we will not dwell too deep into this formal aspect of quantum mechanics.
+
+27:25.580 --> 27:34.160
+I wanted only to make a short, brief and a bit superficial overview of the subject, but it is necessary
+
+27:34.160 --> 27:42.800
+because here and there something will always pop up and it will be necessary to have at least an idea
+
+27:42.800 --> 27:43.820
+of what's about.

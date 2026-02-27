@@ -1,0 +1,645 @@
+WEBVTT
+
+1
+00:00:00.830 --> 00:00:03.720
+Hello everyone,
+welcome back to Exploring Quantum Physics.
+
+2
+00:00:03.720 --> 00:00:06.620
+I'm Charles Clark,
+we're now beginning the last week of
+
+3
+00:00:06.620 --> 00:00:10.350
+lectures which is going to focus
+on current research topics.
+
+4
+00:00:10.350 --> 00:00:15.396
+And we'll begin with the study of
+the state of the art in quantum gasses.
+
+5
+00:00:17.904 --> 00:00:22.821
+We're going to begin by looking at the
+problem of ultra-cold Bose-Einstein gases,
+
+6
+00:00:22.821 --> 00:00:27.260
+which lead to the famous phenomena
+of Bose-Einstein condensation.
+
+7
+00:00:27.260 --> 00:00:31.070
+So we'll start by seeing how
+that concept originated.
+
+8
+00:00:32.960 --> 00:00:36.420
+And the basic idea began very simply.
+
+9
+00:00:36.420 --> 00:00:41.620
+Albert Einstein decided to understand how
+to quantize many particle systems and
+
+10
+00:00:41.620 --> 00:00:46.220
+he chose the simplest one,
+the ideal gas, to ask the question of
+
+11
+00:00:46.220 --> 00:00:50.980
+what's the equation of state of an idea
+gas when you apply quantum mechanics?
+
+12
+00:00:50.980 --> 00:00:57.550
+So, the simplest approach is to construct
+quantum states of motion for a single
+
+13
+00:00:57.550 --> 00:01:02.830
+gas atom and then ask how do these get
+modified when many atoms are present.
+
+14
+00:01:04.240 --> 00:01:10.570
+So Einstein decided to try
+the following assumption that for
+
+15
+00:01:10.570 --> 00:01:15.420
+a given quantum state any
+number of atoms can occupy it.
+
+16
+00:01:17.770 --> 00:01:22.470
+So, there's no restriction on the number
+of atoms that can be in the same
+
+17
+00:01:22.470 --> 00:01:23.980
+quantum state of the system.
+
+18
+00:01:23.980 --> 00:01:29.350
+So, if you think of a particle in a box
+the ground state has no nodes and
+
+19
+00:01:29.350 --> 00:01:33.570
+presumably you can populate that state
+with as many atoms as you'd like.
+
+20
+00:01:33.570 --> 00:01:38.310
+And then, you use statistical mechanics
+to calculate the properties of the gas
+
+21
+00:01:38.310 --> 00:01:39.680
+in thermal equilibrium.
+
+22
+00:01:41.670 --> 00:01:43.890
+So now, in modern language,
+
+23
+00:01:43.890 --> 00:01:48.230
+this assumption that any number of
+atoms can occupy given a quantum state
+
+24
+00:01:49.670 --> 00:01:54.460
+is called Bose Einstein statistics
+which will apply to bosons,
+
+25
+00:01:54.460 --> 00:02:01.040
+which have integer spin zero,
+one, two, and so on.
+
+26
+00:02:01.040 --> 00:02:06.856
+So photon is a boson, and
+a pair of fairmions is also a boson,
+
+27
+00:02:06.856 --> 00:02:10.060
+we'll get to that momentarily.
+
+28
+00:02:11.540 --> 00:02:15.510
+Well, in carrying out this
+seemingly simple program,
+
+29
+00:02:15.510 --> 00:02:18.970
+Einstein discovered something
+absolutely amazing.
+
+30
+00:02:20.830 --> 00:02:23.920
+Here is the original paper
+in which he announces it.
+
+31
+00:02:25.290 --> 00:02:32.700
+And he describes the finding here in blue,
+I'll give you my own translation.
+
+32
+00:02:34.010 --> 00:02:38.870
+He starts by considering the problem
+of compressing an ideal gas
+
+33
+00:02:38.870 --> 00:02:40.010
+at a constant temperature.
+
+34
+00:02:40.010 --> 00:02:46.550
+So you take a gas that has some particular
+value, take the air in the room,
+
+35
+00:02:46.550 --> 00:02:51.730
+and you keep the temperature
+constant while condensing it.
+
+36
+00:02:51.730 --> 00:02:55.750
+And he finds that for a given temperature,
+
+37
+00:02:55.750 --> 00:02:58.650
+there's a saturation
+density of the ideal gas.
+
+38
+00:02:58.650 --> 00:03:04.740
+So in other words, as you keep compressing
+it you reach a critical pressure
+
+39
+00:03:06.510 --> 00:03:12.010
+at which suddenly a number
+of the molecules of the gas
+
+40
+00:03:12.010 --> 00:03:17.210
+no longer engage in thermal motion, so
+
+41
+00:03:17.210 --> 00:03:22.960
+its like you create by increasing
+the pressure, a new phase of the gas,
+
+42
+00:03:22.960 --> 00:03:26.430
+which has zero temperature,
+this is very strange.
+
+43
+00:03:27.530 --> 00:03:33.020
+And in fact Einstein, in this paper,
+wondered whether it was simply
+
+44
+00:03:33.020 --> 00:03:37.640
+a mathematical artifact of the theory and
+had any correspondence in reality.
+
+45
+00:03:41.890 --> 00:03:45.660
+Well when does this condensation
+phenomena occur and what is it?
+
+46
+00:03:45.660 --> 00:03:48.490
+So we're going to go back and
+
+47
+00:03:48.490 --> 00:03:52.970
+return to classical statistical
+mechanics which is what Einstein used.
+
+48
+00:03:52.970 --> 00:03:57.000
+Now, you might say it's quasi-classical
+because it has a Planck's constant in it,
+
+49
+00:03:57.000 --> 00:04:00.230
+but this is the accepted standard form for
+
+50
+00:04:00.230 --> 00:04:05.800
+calculating the number of thermally
+accessible states of a classical system.
+
+51
+00:04:05.800 --> 00:04:09.200
+And you will recall that
+in the previous lecture,
+
+52
+00:04:09.200 --> 00:04:13.220
+we discussed the calculation of
+the partition function in this form.
+
+53
+00:04:16.010 --> 00:04:20.190
+So I trust you were able to
+evaluate that integral again.
+
+54
+00:04:20.190 --> 00:04:23.330
+And here's the,
+let me rewrite the partition function
+
+55
+00:04:23.330 --> 00:04:26.970
+by taking the contribution
+from the volume out front and
+
+56
+00:04:26.970 --> 00:04:32.150
+then isolating this contribution from
+the momentum divided by h bar cubed.
+
+57
+00:04:34.410 --> 00:04:37.990
+So this first integral just
+has the dimensions of volume.
+
+58
+00:04:37.990 --> 00:04:43.790
+In fact, we might just have
+v equals 0 inside a box and
+
+59
+00:04:43.790 --> 00:04:47.690
+use that as a volume for
+the purposes of thinking about this.
+
+60
+00:04:47.690 --> 00:04:52.820
+And the second integral also has
+the dimensions of volume, or
+
+61
+00:04:52.820 --> 00:04:54.220
+the inverse dimensions of volume.
+
+62
+00:04:54.220 --> 00:04:58.120
+You see it's, you can think about
+the uncertainty principle p over h
+
+63
+00:04:59.850 --> 00:05:02.720
+is equal to 1 over x.
+
+64
+00:05:04.000 --> 00:05:10.560
+So in fact this partition function
+takes a simple form, easy to remember.
+
+65
+00:05:10.560 --> 00:05:16.190
+It's the ratio of the volume to the cube
+of the de Broglie wavelength, and
+
+66
+00:05:16.190 --> 00:05:21.695
+the de Broglie wavelength
+is defined as the well,
+
+67
+00:05:21.695 --> 00:05:24.845
+this integral here is an integral
+over three spatial dimensions.
+
+68
+00:05:24.845 --> 00:05:28.205
+The de Broglie wavelength is defined
+
+69
+00:05:28.205 --> 00:05:31.795
+as the inverse of the one dimensional
+equivalent of that integral.
+
+70
+00:05:33.395 --> 00:05:36.945
+That's right here, and so
+that's the de Broglie wavelength there,
+
+71
+00:05:36.945 --> 00:05:38.795
+inversely proportional to
+the square root of temperature.
+
+72
+00:05:41.460 --> 00:05:45.650
+Now the conventional
+terminology in this field is to
+
+73
+00:05:45.650 --> 00:05:50.550
+measure quantum gases in terms
+of their phase space density.
+
+74
+00:05:51.840 --> 00:05:57.260
+Which is if you have a gas with a given
+number density, say a number of atoms per
+
+75
+00:05:57.260 --> 00:06:02.140
+cubic centimeter, then the phase
+space density is a pure number.
+
+76
+00:06:03.490 --> 00:06:09.360
+So product of the density and
+the cube of the de Broglie wavelength and
+
+77
+00:06:09.360 --> 00:06:13.290
+it has the interpretation of
+being the number of atoms
+
+78
+00:06:13.290 --> 00:06:17.530
+that exist in the sample per
+available quantum state.
+
+79
+00:06:19.920 --> 00:06:24.520
+So let's see what that implies,
+here's a cartoon
+
+80
+00:06:24.520 --> 00:06:29.490
+from a very nice paper by Eric Cornell,
+which you can find additional materials.
+
+81
+00:06:29.490 --> 00:06:30.400
+It's a good introduction,
+
+82
+00:06:30.400 --> 00:06:34.030
+an accessible introduction to
+Bose-Einstein Condensation.
+
+83
+00:06:35.620 --> 00:06:39.250
+And it makes note that in an ideal,
+classical gas,
+
+84
+00:06:39.250 --> 00:06:45.080
+there's basically one scale
+parameter that describes the gas.
+
+85
+00:06:45.080 --> 00:06:49.270
+It's the mean distance per particle or
+the inverse cube root
+
+86
+00:06:49.270 --> 00:06:53.470
+of the number density that represents
+the average separation of particles.
+
+87
+00:06:54.970 --> 00:06:59.060
+In the quantum gas there
+is a new length scale
+
+88
+00:06:59.060 --> 00:07:02.920
+that's introduced by the de
+Broglie wavelength, and
+
+89
+00:07:02.920 --> 00:07:07.570
+this is a wave length that
+depends upon the temperatures.
+
+90
+00:07:07.570 --> 00:07:10.450
+It depends upon the mean thermal
+energy of the gas, you might say.
+
+91
+00:07:11.550 --> 00:07:18.660
+So the interesting physics occurs when
+these two length scales become comparable,
+
+92
+00:07:18.660 --> 00:07:22.770
+in other words when the face based
+density of the system approaches one.
+
+93
+00:07:24.800 --> 00:07:29.020
+And what happens then is that
+as the phase based density
+
+94
+00:07:29.020 --> 00:07:33.230
+increases above the critical
+value needed for condensation,
+
+95
+00:07:33.230 --> 00:07:37.340
+a value that depends on circumstances
+that we'll discuss a little bit later,
+
+96
+00:07:38.610 --> 00:07:43.430
+then macroscopic number of atoms
+occupy the ground state of the system.
+
+97
+00:07:43.430 --> 00:07:44.670
+So in other words,
+
+98
+00:07:44.670 --> 00:07:49.650
+a significant fraction of the system
+has effectively zero temperature.
+
+99
+00:07:51.170 --> 00:07:54.850
+And as the phase based density increases,
+
+100
+00:07:54.850 --> 00:08:00.060
+a larger quantity of the system
+goes into the ground state.
+
+101
+00:08:01.230 --> 00:08:05.739
+Well let's see how close we are to
+Bose-Einstein condensation in
+
+102
+00:08:05.739 --> 00:08:06.873
+everyday life.
+
+103
+00:08:09.266 --> 00:08:14.129
+So you see, the air in your room
+right now is not very close to
+
+104
+00:08:14.129 --> 00:08:18.000
+being a Bose-Einstein condensate.
+
+105
+00:08:18.000 --> 00:08:22.830
+And if you just take a simple
+consideration of what would be required to
+
+106
+00:08:22.830 --> 00:08:26.920
+get it to a phase-based density,
+of one, you have two choices.
+
+107
+00:08:26.920 --> 00:08:30.970
+You either increase number density
+by a factor of ten to the seventh.
+
+108
+00:08:30.970 --> 00:08:35.270
+If you did that,
+you'd have a very heavy form of matter.
+
+109
+00:08:35.270 --> 00:08:38.490
+It would be nothing like an ideal gas and
+
+110
+00:08:38.490 --> 00:08:43.000
+these ideas of Einstein would
+simply be inapplicable.
+
+111
+00:08:44.580 --> 00:08:48.560
+As an alternative you might decrease the
+temperature by a factor of 10 to the 5th.
+
+112
+00:08:48.560 --> 00:08:54.340
+Well that brings you down
+to the milli Kelvin regime,
+
+113
+00:08:54.340 --> 00:08:58.090
+rather hard to access and
+
+114
+00:08:58.090 --> 00:09:04.380
+also almost everything freezes
+out at such a cold temperature.
+
+115
+00:09:04.380 --> 00:09:07.295
+And so, basically, the prospects for
+
+116
+00:09:07.295 --> 00:09:13.030
+Bose-Einstein condensation for a very
+long time seemed to be very improbable.
+
+117
+00:09:13.030 --> 00:09:18.120
+So, here's a very nice book by
+Schroedinger, a little essay,
+
+118
+00:09:18.120 --> 00:09:22.490
+of probably only 100 pages long or
+so on on statistical thermodynamics.
+
+119
+00:09:22.490 --> 00:09:25.620
+He covers a number of interesting
+topics in this book, and
+
+120
+00:09:25.620 --> 00:09:29.380
+here's a quote which represents
+the consensus feeling in the scientific
+
+121
+00:09:29.380 --> 00:09:34.230
+community, that the conditions
+of phase-based density are so
+
+122
+00:09:34.230 --> 00:09:38.370
+demanding, that they're just never
+going to apply to ordinary matter.
+
+123
+00:09:42.720 --> 00:09:49.060
+Nevertheless, there were signs of the
+existence of same like the Bose-Einstein
+
+124
+00:09:49.060 --> 00:09:53.720
+condensation and most notably
+the phenomena of Helium super fluidity.
+
+125
+00:09:55.980 --> 00:10:00.190
+That was discovered in 1938 and
+very quickly,
+
+126
+00:10:00.190 --> 00:10:04.552
+it was suggested by
+Fritz London that the super
+
+127
+00:10:04.552 --> 00:10:09.420
+fluidity of Helium was related in some
+way to Bose-Einstein condensation.
+
+128
+00:10:10.990 --> 00:10:14.370
+However, liquid helium
+is a dense system and
+
+129
+00:10:14.370 --> 00:10:18.300
+very strong interactions
+exist between the atoms.
+
+130
+00:10:18.300 --> 00:10:25.430
+So its not really reasonable to suggest
+that it has the dynamics of an ideal gas,
+
+131
+00:10:25.430 --> 00:10:30.930
+and there are a lot of problems associated
+with trying to treat liquid helium
+
+132
+00:10:30.930 --> 00:10:35.510
+as if it were a Bose-Einstein condensate,
+but then about
+
+133
+00:10:35.510 --> 00:10:40.490
+70 years later, the situation changed
+which is the topic of the next part.

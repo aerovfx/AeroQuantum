@@ -1,0 +1,342 @@
+WEBVTT
+
+WEBVTT
+
+00:00.310 --> 00:06.210
+OK so to illustrate this a little bit now what I want to do is I just want to draw a cross section of
+
+00:06.210 --> 00:07.530
+my plate.
+
+00:07.530 --> 00:07.730
+All right.
+
+00:07.740 --> 00:10.280
+So let me go ahead and draw a plate here.
+
+00:10.350 --> 00:11.070
+I'm going to make it.
+
+00:11.070 --> 00:14.220
+Give it a little bit of thickness just like this.
+
+00:14.220 --> 00:18.610
+So again the area goes in and out of the page here over here.
+
+00:18.790 --> 00:26.970
+And let's assume now that I again I it's a conductor and I've placed some charges on this plate.
+
+00:27.060 --> 00:31.810
+And again those charges are going to evenly distribute.
+
+00:31.820 --> 00:33.330
+They really want to repel each other.
+
+00:33.330 --> 00:39.090
+So what we have here is some charge density which is the total charge divided by the area.
+
+00:39.090 --> 00:39.290
+All right.
+
+00:39.290 --> 00:43.650
+How would you go ahead now and plot this electric field vector everywhere in space here.
+
+00:43.650 --> 00:45.870
+So on the left hand side and on the right hand side.
+
+00:46.560 --> 00:49.280
+Well again what I would do is I would just plod vectors right.
+
+00:49.320 --> 00:55.230
+The vector at this point is a vector that points away from it everywhere with simply point away from
+
+00:55.230 --> 00:56.660
+the plate.
+
+00:56.730 --> 01:01.940
+I would equally space those vectors because the field is uniform everywhere.
+
+01:02.220 --> 01:04.760
+And the magnitude of this field again.
+
+01:04.770 --> 01:06.460
+Here's the equation right here.
+
+01:06.480 --> 01:11.900
+So in this case here would be Sigma divided by two times my constant Epsilon 0.
+
+01:12.030 --> 01:14.390
+That is the magnitude of the electric field here.
+
+01:14.490 --> 01:15.950
+The same everywhere.
+
+01:16.020 --> 01:17.960
+How about on the left hand side of the plate.
+
+01:17.970 --> 01:19.140
+Again I would do the same thing
+
+01:22.130 --> 01:22.350
+again.
+
+01:22.380 --> 01:23.920
+This is when I'm close to the plate.
+
+01:24.000 --> 01:26.210
+I can move a little bit farther away from the plate.
+
+01:26.280 --> 01:28.420
+And this is what the electric field looks like.
+
+01:28.470 --> 01:30.330
+Again e is the same magnitude here.
+
+01:30.480 --> 01:32.320
+Even if I move farther away.
+
+01:33.040 --> 01:33.210
+All right.
+
+01:33.240 --> 01:34.540
+This is what I have to have.
+
+01:34.560 --> 01:40.970
+The field simply points away from that plate and it's constant everywhere.
+
+01:40.970 --> 01:47.930
+Let me do one more set of vectors over here and then we'll add another plate to this configuration.
+
+01:47.970 --> 01:48.290
+All right.
+
+01:48.300 --> 01:50.350
+So far so good.
+
+01:50.370 --> 01:51.330
+Last thing I want to do now.
+
+01:51.330 --> 01:52.730
+Well let's add another plate.
+
+01:53.160 --> 01:55.470
+Let's maybe put it over here.
+
+01:55.590 --> 01:58.470
+I'll draw a similar plate.
+
+01:58.520 --> 02:02.610
+The question now is well what kind of charge do I want to place on this plate.
+
+02:03.030 --> 02:04.620
+Let's play some negative charges.
+
+02:04.650 --> 02:10.050
+So we add some additional electrons on that plate.
+
+02:10.050 --> 02:15.720
+Now what I'm going to do here is I'm actually going to put the same number of electrons let's assume
+
+02:15.720 --> 02:17.450
+those are the same size.
+
+02:17.520 --> 02:17.780
+All right.
+
+02:17.790 --> 02:23.670
+So that the charge density for this plate over here is going to be well it's going to be a negative
+
+02:23.670 --> 02:27.000
+total charge divided by the same area.
+
+02:27.540 --> 02:33.890
+So this is negatively charge.
+
+02:34.070 --> 02:39.280
+So what would the electric field look like produced by the negative plate.
+
+02:39.320 --> 02:40.850
+How would we how would we plot that.
+
+02:41.840 --> 02:44.020
+Well let's go ahead and draw vectors again.
+
+02:44.180 --> 02:45.350
+It's a plate.
+
+02:45.350 --> 02:46.970
+So the formula is this.
+
+02:46.970 --> 02:48.660
+That's the magnitude.
+
+02:48.830 --> 02:53.030
+The only difference now is that the electric field points toward it.
+
+02:53.050 --> 02:57.980
+So I would have to add a whole bunch of vectors everywhere in space that are pointing toward
+
+03:00.600 --> 03:02.110
+this plate.
+
+03:02.130 --> 03:04.250
+How about on the left hand side.
+
+03:04.380 --> 03:09.150
+Again I have to add a whole bunch of vectors that are pointing toward it.
+
+03:10.020 --> 03:13.540
+Or that I draw a whole bunch of them here.
+
+03:13.620 --> 03:16.840
+Let's just keep on going just on want this is a really really important thing.
+
+03:18.930 --> 03:23.610
+And then we're going to look at the total electric field everywhere in space.
+
+03:23.610 --> 03:26.300
+But for now we're going to continue everywhere.
+
+03:26.310 --> 03:31.220
+When I'm on the left hand side of this plate the blue one over here the negatively charged plate.
+
+03:31.230 --> 03:34.540
+I have to have vectors that are pointing toward it.
+
+03:34.590 --> 03:37.380
+All right what we have now are really three regions.
+
+03:37.380 --> 03:42.910
+We have region number one which is over on the left hand side of the positive plate.
+
+03:43.080 --> 03:47.400
+I have region number two which is going to be between both plates.
+
+03:47.490 --> 03:54.010
+And here I have region number three which is going to be to the right of the negatively charged plate.
+
+03:54.030 --> 03:59.920
+My goal now is really define what is the total electric field everywhere in space.
+
+04:00.420 --> 04:04.790
+So let me just kind of make myself a little bit of room to do some writing here.
+
+04:04.800 --> 04:10.890
+So let me just kind of delete these and I can write the total field if you first have a look here what
+
+04:10.890 --> 04:11.910
+is the total field.
+
+04:11.910 --> 04:14.750
+Well have a look at these two vectors.
+
+04:15.000 --> 04:22.020
+What we have here are two vectors that are in the opposite direction and they have the exact same magnitude.
+
+04:22.050 --> 04:24.420
+So that means that the total field in this region
+
+04:27.130 --> 04:29.500
+total field here has to be equal to zero.
+
+04:29.500 --> 04:36.170
+There is no field anywhere over here because these vectors cancel out let's have a look at Region three
+
+04:36.170 --> 04:39.430
+region three is something similar is going on here.
+
+04:39.680 --> 04:45.760
+What I have here are two vectors cancelling out let me go ahead and write that out vectors cancel.
+
+04:45.950 --> 04:48.230
+All right the electric fields cancel.
+
+04:48.230 --> 04:56.530
+So that means that the total electric field in this region has to be equal to zero.
+
+04:56.550 --> 04:56.790
+All right.
+
+04:56.790 --> 05:00.830
+And the last one well let's look at what's going on in the center doesn't matter which one you consider
+
+05:00.840 --> 05:02.780
+look at these two vectors right here.
+
+05:02.880 --> 05:09.000
+There are two vectors that have the exact same length the length of the vectors given by this except
+
+05:09.000 --> 05:12.020
+now they're pointing in the same direction.
+
+05:12.060 --> 05:15.500
+So if I plot the total electric field it should be something like this.
+
+05:15.500 --> 05:16.830
+This should be e total
+
+05:19.800 --> 05:20.750
+let's go ahead and write it out.
+
+05:20.820 --> 05:26.030
+So e total should be the field produced by the red one
+
+05:29.400 --> 05:29.780
+all right.
+
+05:29.780 --> 05:32.950
+Plus the field produced by the blue one.
+
+05:32.960 --> 05:37.830
+While the magnitude of that field is Sigma over to Epsilon 0.
+
+05:38.330 --> 05:45.380
+So that means that the total field at the end of the day is 1 while simply Epsilon over zero.
+
+05:45.690 --> 05:45.940
+Right.
+
+05:45.940 --> 05:53.270
+So between the plates you go ahead and write this down right over here between the plates the fields
+
+05:53.270 --> 05:55.440
+are additive.
+
+05:56.480 --> 05:59.210
+The total field the magnitude.
+
+05:59.210 --> 06:04.520
+We know the direction that the direction has to be pointing away from positive and pointing toward the
+
+06:04.520 --> 06:05.230
+negative.
+
+06:05.390 --> 06:12.820
+But the total magnitude then is simply the charge density divided by epsilon 0.
+
+06:12.980 --> 06:15.710
+Okay super super important.
+
+06:15.830 --> 06:18.770
+And again what we have here is a constant.
+
+06:18.860 --> 06:21.460
+It's still a constant electric field.
+
+06:21.830 --> 06:23.410
+It's the same everywhere in space.
+
+06:23.410 --> 06:28.550
+So really I could draw other vectors over here between the plates the electric field is uniform.
+
+06:28.640 --> 06:32.650
+It's the same if it was right here as it is right here.
+
+06:33.920 --> 06:39.320
+If someone asks you compare the electric field at this point versus this point versus this point they
+
+06:39.320 --> 06:41.010
+all have to be the same.
+
+06:41.150 --> 06:45.200
+They're all the same and they're all equal to the total electric field between the plates.

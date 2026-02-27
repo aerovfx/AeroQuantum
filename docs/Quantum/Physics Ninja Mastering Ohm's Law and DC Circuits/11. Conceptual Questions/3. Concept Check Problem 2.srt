@@ -1,0 +1,70 @@
+WEBVTT
+
+00:00.260 --> 00:02.460
+OK so is concept a problem too.
+
+00:02.520 --> 00:07.850
+So the batteries use to light bulbs is shown to light bulbs are in parallel with each other.
+
+00:08.010 --> 00:13.420
+What happens now in bulb to bulb one bulb is unscrewed from its socket.
+
+00:13.590 --> 00:15.260
+So the bulb is unscrewed.
+
+00:15.260 --> 00:21.510
+It basically means that the resistance of this the resistance of a tends toward something very very
+
+00:21.510 --> 00:23.020
+big.
+
+00:23.040 --> 00:24.770
+So what happens now.
+
+00:25.320 --> 00:28.020
+Well again I've got a whole bunch of different choices here.
+
+00:28.020 --> 00:34.230
+Bulb goes out bulb gets dimmer without going out gets slightly dimmer stays the same slightly brighter
+
+00:34.230 --> 00:37.190
+noticeably brighter possible to determine that.
+
+00:37.380 --> 00:38.040
+So what do we think.
+
+00:38.040 --> 00:42.320
+Well again the brightness is a soci to how much current is flowing.
+
+00:42.330 --> 00:47.410
+Now remember this problem here again we are always dealing with the ideal kind of power supplies here.
+
+00:47.420 --> 00:50.080
+Ideal batteries no internal resistance.
+
+00:50.100 --> 00:53.640
+So what happens over here is imagine you do a loop rule before.
+
+00:53.640 --> 00:54.470
+Right.
+
+00:54.510 --> 00:59.400
+If you do a loop rule before after you're going to get the exact same answer right you're going to get
+
+00:59.400 --> 01:06.350
+a voltage gain across the battery and you're going to get a drop across this light bulb.
+
+01:06.360 --> 01:11.430
+Light bulb and that equals zero regardless of whether A is there or not.
+
+01:12.030 --> 01:12.640
+OK.
+
+01:12.810 --> 01:18.330
+You always have the same potential difference across light bulb and you always have the same current
+
+01:18.900 --> 01:22.230
+which means that the brightness has to stay the same.
+
+01:22.260 --> 01:29.690
+So Bulbus be brightness stays the same for is the best answer out of these ones.

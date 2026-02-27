@@ -1,0 +1,429 @@
+WEBVTT
+
+WEBVTT
+
+00:00.720 --> 00:07.590
+All right here's example 15 called the unknown resistance in the circuit over here the reading of this
+
+00:07.680 --> 00:09.520
+e-meter.
+
+00:09.570 --> 00:16.910
+They say it's going to be the same whether or not you keep the switches open or whether it's closed.
+
+00:16.990 --> 00:22.650
+That's kind of a key thing right this current in that upper brain is going to be the same whether both
+
+00:22.650 --> 00:24.630
+of them are open or both of them are close.
+
+00:24.660 --> 00:28.740
+The question is how do you find this unknown resistance.
+
+00:28.740 --> 00:29.030
+All right.
+
+00:29.040 --> 00:33.520
+So first I'm going to do the case when both of them are open.
+
+00:33.660 --> 00:37.480
+Let's have a look at what happens when it's open.
+
+00:37.830 --> 00:39.440
+So let's look at where the current can go.
+
+00:39.440 --> 00:42.260
+So the current is probably going to flow down here up here.
+
+00:42.300 --> 00:49.210
+Now if it's open there's not going to be any current here because this here basically is infinite resistance.
+
+00:49.320 --> 00:55.720
+So the current must go up here it must go through this ammeter current must go over here now any current
+
+00:55.720 --> 00:56.610
+is going to flow down here.
+
+00:56.610 --> 01:00.050
+No because look at it it's open that's infinite resistance.
+
+01:00.210 --> 01:02.980
+So the current basically just going to go around this loop.
+
+01:03.030 --> 01:10.180
+So actually when both of them are open this is basically nothing more than a single loop circuit.
+
+01:10.350 --> 01:14.550
+So that means that we can actually find what that current is it has to be the same current flowing through
+
+01:14.550 --> 01:16.640
+the battery.
+
+01:16.650 --> 01:22.900
+So in this case we're going to do now since it's a single loop I can use an equivalent resistor and
+
+01:22.900 --> 01:25.950
+equivalent resistance is simply you simply add them up.
+
+01:25.950 --> 01:35.380
+They're all in series with each other 300 plus 100 plus 50 gives me 450 ohms.
+
+01:36.540 --> 01:38.860
+All right the battery is 1.5 volts.
+
+01:39.090 --> 01:43.890
+So automatically I can calculate what that current is and I'm going to call the current up here let's
+
+01:43.890 --> 01:44.760
+call it.
+
+01:45.030 --> 01:49.140
+I won and right now it's the same everywhere.
+
+01:49.170 --> 01:54.690
+However in the next problem when both switches are open it's not necessarily going to be the same.
+
+01:54.750 --> 01:57.250
+So I'm going to call the current I want up here.
+
+01:57.300 --> 01:59.130
+So in this case I'm allowed to find one.
+
+01:59.130 --> 02:04.380
+It's simply the voltage of the battery divided by my equivalent resistance.
+
+02:04.380 --> 02:09.120
+This is 1.5 over 450.
+
+02:09.120 --> 02:12.890
+This is the same thing as on over 300.
+
+02:13.450 --> 02:19.470
+Three point three three multiply times ten of them minus three so very small current the resistance
+
+02:19.470 --> 02:20.660
+is pretty big.
+
+02:21.170 --> 02:21.370
+All right.
+
+02:21.390 --> 02:22.510
+That's why it's open.
+
+02:22.530 --> 02:24.850
+Now let's do the case when it's closed.
+
+02:25.140 --> 02:27.320
+So let me clean up this diagram now.
+
+02:27.390 --> 02:31.950
+Actually one is close the problem tells us that the current one up here is going to be the same because
+
+02:31.950 --> 02:34.260
+the reading in the ammeter is the same.
+
+02:34.410 --> 02:35.930
+So you have to keep that in mind.
+
+02:36.240 --> 02:40.980
+So now all we're going to have is we're going to have this current one which we just solved for this
+
+02:40.980 --> 02:46.710
+value right here and that's going to be the same whether or not the switches are open or closed so let's
+
+02:46.710 --> 02:52.530
+close them up and let me solve the problem now when it's closed.
+
+02:53.310 --> 02:57.840
+Now you might not know exactly how to solve this right now but we're asked at the end to find the unknown
+
+02:57.840 --> 03:02.300
+resistance so we're really going to have to introduce this unknown resistance.
+
+03:02.340 --> 03:06.830
+So let me find some points over here maybe Let's define this as a junction I can call this point.
+
+03:06.850 --> 03:11.550
+Hey this is another junction over here that's called Point B.
+
+03:11.580 --> 03:12.630
+What else do we know about it.
+
+03:12.630 --> 03:18.710
+While we know that this 100 ohm resistor is actually in parallel with this one.
+
+03:19.200 --> 03:23.040
+So you know that the voltage across has to be the same right.
+
+03:23.100 --> 03:27.790
+The voltage across this resistance must be the same as the voltage across this one.
+
+03:28.440 --> 03:34.050
+Well I think we can calculate the voltage across this 100 ohm resistor because we know the current because
+
+03:34.050 --> 03:37.350
+the current is the same for both cases.
+
+03:37.350 --> 03:39.040
+So let's maybe start with that.
+
+03:39.450 --> 03:48.990
+So the voltage across the 100 ohm resistor is what well the value of the resistance is 100 multiplied
+
+03:48.990 --> 03:50.530
+by the current flowing through it.
+
+03:50.550 --> 03:52.970
+In this case is the current one.
+
+03:53.700 --> 04:00.770
+So we get 100 multiplied by 1 over 300 or three point three three times ten to the minus three.
+
+04:00.840 --> 04:07.260
+We're left with one over 3 volts so that there is the voltage between this point and that point.
+
+04:07.260 --> 04:11.010
+So actually we know the voltage across this unknown resistance.
+
+04:11.010 --> 04:13.450
+So let's define the current in a branch.
+
+04:13.450 --> 04:17.950
+Now the current that branch let's just call it I of our.
+
+04:18.180 --> 04:25.470
+So we know automatically know now that the voltage across must be equal to this unknown resistance multiplied
+
+04:25.470 --> 04:28.920
+by whatever current is flowing through that resistance.
+
+04:28.920 --> 04:34.050
+So this is an important equation on the box that up when I have to come back to it.
+
+04:34.440 --> 04:38.360
+Now the reason you can't just solve this right now is because you don't know what the value of the resistance
+
+04:38.360 --> 04:38.840
+is.
+
+04:39.090 --> 04:43.440
+But you also don't know what the current flowing through here is.
+
+04:43.440 --> 04:46.720
+All we know is the currents in this upper branch.
+
+04:47.030 --> 04:53.700
+However if we somehow knew what is the current in this main branch then maybe we can calculate what
+
+04:53.760 --> 04:55.340
+I Ariz.
+
+04:56.100 --> 04:59.340
+So let's go see how can we calculate the current in the main branch.
+
+04:59.520 --> 05:02.280
+Well maybe we can do a loop.
+
+05:02.280 --> 05:08.190
+Right we know the voltage across a and b maybe we can just do apply a loop rule.
+
+05:08.200 --> 05:09.660
+Let's go ahead and do that.
+
+05:09.660 --> 05:14.560
+The first thing we're going to notice is what happens over here when the switch is closed.
+
+05:14.820 --> 05:19.650
+Member you're going to have some current that's going to flow into another junction over here and the
+
+05:19.650 --> 05:21.650
+current now splits up.
+
+05:21.780 --> 05:27.930
+However you know that the voltage from let's call this point C Let's call this point D.
+
+05:28.260 --> 05:34.190
+The difference in voltage between points C and point D has to be equal to zero.
+
+05:34.200 --> 05:38.670
+All right if I go straight down from this point to that point there is no resistance here in this wire
+
+05:39.900 --> 05:47.280
+which automatically tells me that the current flowing out here through this 50 ohm resistor must be
+
+05:47.280 --> 05:53.750
+equal to zero because the only way you can have that if there's no voltage drop across here there's
+
+05:53.760 --> 06:00.720
+no voltage drop when I go across here and the only way I can have that is if the current is zero.
+
+06:00.720 --> 06:04.490
+So again all the current now is simply going to go through the battery.
+
+06:04.690 --> 06:07.880
+It's going to go up here some of it's going to go through the 100 ohm resistor.
+
+06:07.950 --> 06:11.700
+Some of that's going to go through the unknown resistance and then it's going to go down this path from
+
+06:11.700 --> 06:14.110
+C to D.
+
+06:14.130 --> 06:17.700
+All right so we can actually do a loop so let's go ahead and apply a loop rule.
+
+06:17.760 --> 06:22.510
+I'm going to start at point D and I'm going to go I have to introduce here.
+
+06:23.370 --> 06:28.740
+I'm going to go just around this big upper loop here so I'm going to go from D to A to B C and then
+
+06:28.740 --> 06:30.330
+come back.
+
+06:30.330 --> 06:37.210
+So first thing you get now is a voltage gain 1.5 volt an across the battery.
+
+06:37.410 --> 06:43.710
+Then I get a voltage drop the voltage drop is going to be 300 multiplied by the current in this branch.
+
+06:43.710 --> 06:49.470
+What are we going to call this current Let's just call it the current I in this case.
+
+06:49.730 --> 06:50.850
+All right.
+
+06:50.910 --> 06:52.540
+Now I've decided to go up here.
+
+06:52.560 --> 06:56.260
+Well I already know the voltage drop going from A to B.
+
+06:56.700 --> 07:03.590
+I just calculated that it's one third So minus zero point three three three.
+
+07:03.720 --> 07:05.320
+That's it.
+
+07:05.370 --> 07:09.300
+Now I go to point C and I go back to point D What am I left with.
+
+07:09.300 --> 07:11.720
+I go down and that's equal to zero.
+
+07:12.560 --> 07:17.340
+Well this is a useful equation because look at the only unknown in this equation is that letter II is
+
+07:17.340 --> 07:19.870
+the current and this other branch.
+
+07:20.310 --> 07:21.850
+Let's go ahead and find that.
+
+07:21.940 --> 07:26.580
+So the current I then is simply going to be 1.5 minus
+
+07:29.440 --> 07:31.440
+all of this is over 300.
+
+07:31.960 --> 07:33.290
+So here's the value of the current.
+
+07:33.310 --> 07:41.610
+I substituted numbers in the calculator and here's what I got 10 of them minus three amps.
+
+07:41.710 --> 07:43.320
+So let's have a look now at our junction.
+
+07:43.360 --> 07:50.410
+So we have a current I going in and how much current is going out while his current one which is going
+
+07:50.410 --> 07:57.010
+through the top branch and there's some of that current Now that's going through this unknown resistance.
+
+07:57.550 --> 08:01.220
+But look what I know in this equation I just calculated what this guy is.
+
+08:01.720 --> 08:06.220
+I know from the first part that the current through this other branch is the same whether it's open
+
+08:06.220 --> 08:06.700
+or close.
+
+08:06.700 --> 08:08.100
+I know that value.
+
+08:08.350 --> 08:14.420
+So now I'm able to solve for what the current through that unknown resistances.
+
+08:14.560 --> 08:16.000
+Let's go ahead and write that out.
+
+08:16.120 --> 08:22.780
+The current through the unknown resistance is simply that current flowing through the battery minus
+
+08:22.780 --> 08:26.110
+the current one.
+
+08:26.470 --> 08:30.760
+All right you substitute the numbers in the calculator you're eventually going to find that the current
+
+08:30.760 --> 08:37.380
+through that unknown resistance is going to be five point five seven.
+
+08:37.970 --> 08:43.370
+It's a very small 10 to the minus 4 amps.
+
+08:43.450 --> 08:48.580
+So now we have everything we need here are two equations here.
+
+08:48.730 --> 08:56.030
+We have a voltage drop across points A and B we know the current flowing through this unknown resistance.
+
+08:56.080 --> 08:58.800
+We can now solve for the unknown resistance.
+
+08:58.920 --> 09:01.320
+Let's go and maybe do that down here.
+
+09:02.020 --> 09:05.720
+So here we have the resistance R is one third.
+
+09:05.770 --> 09:12.730
+That's the unknown voltage and one over the current flowing through that resistance.
+
+09:12.730 --> 09:15.110
+Substitute the numbers in your calculator.
+
+09:15.130 --> 09:21.130
+Now you should get five hundred ninety eight point four homes.
+
+09:21.910 --> 09:23.230
+That's our final answer.
+
+09:23.230 --> 09:25.130
+So that's our unknown resistance.
+
+09:27.360 --> 09:30.230
+And this is kind of how you set up a problem like this.
+
+09:30.240 --> 09:37.980
+So again there's no kind of fixed method here you have to introduce the variable r at some point whether
+
+09:37.980 --> 09:40.650
+you started with the switch is closed or open.
+
+09:40.650 --> 09:47.410
+You'll eventually have to use both cases in order to kind of end up solving this problem.
+
+09:47.430 --> 09:48.870
+All right so review that problem.
+
+09:48.870 --> 09:52.800
+It's kind of a good one it's kind of a different style of problem where in this case you have to find
+
+09:52.800 --> 09:55.820
+the resistance knowing what the currents are.
+
+09:55.930 --> 09:56.200
+So.

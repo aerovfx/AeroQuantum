@@ -1,0 +1,387 @@
+WEBVTT
+
+WEBVTT
+
+00:01.720 --> 00:06.910
+Hi everybody physics ninja here today I want to look at a problem known as the wheatstone bridge problem
+
+00:07.380 --> 00:14.860
+wheatstone bridge is a circuit as I shown here typically uses four values of the resistance or resistors
+
+00:14.890 --> 00:19.780
+and one of the values is unknown in this case the value of the unknown resistance is going to be this
+
+00:19.780 --> 00:27.490
+one this value of our X. Now depending on the values of the three other resistors it is possible to
+
+00:27.490 --> 00:31.200
+balance a wheatstone bridge and what that term means.
+
+00:31.330 --> 00:36.850
+If you read a question it says that the bridge is balance it basically means that the current flowing
+
+00:36.850 --> 00:40.430
+through the center branch is equal to zero.
+
+00:40.450 --> 00:45.790
+Now you can either measure the voltage across points B and D on the circuit and if that reading is zero
+
+00:45.790 --> 00:50.980
+then there is no potential difference there will not be a current flowing in that branch or sometimes
+
+00:50.980 --> 00:52.790
+you place a Galvin dominator.
+
+00:52.960 --> 00:58.960
+So you this typically uses the letter G for it and that's simply a device that measures current flowing
+
+00:58.960 --> 01:04.270
+through that wire and in that case if there's no deflection in the needle of the galvanic emitter it
+
+01:04.270 --> 01:08.940
+means there is that the bridge is balanced when the is balance.
+
+01:08.980 --> 01:13.270
+I can actually solve for the value of this unknown resistance and that's what I'm going to do today.
+
+01:13.330 --> 01:18.010
+I'm going to show you how to get the value of our x in terms of the other three resistors.
+
+01:18.010 --> 01:21.730
+ALL RIGHT SO HERE'S THE CIRCUIT AGAIN THAT I'M GONNA CONSIDER again I'm going to say that this bridge
+
+01:21.730 --> 01:25.690
+is balanced which means that the current flowing down that center branch is zero.
+
+01:25.690 --> 01:31.480
+That means one thing that the voltage between points D and B has to be zero.
+
+01:31.840 --> 01:37.180
+If there's any potential difference between both of those points and if we have a kind of a wire linking
+
+01:37.180 --> 01:39.520
+them there will be a current flowing through there.
+
+01:39.640 --> 01:45.490
+So it's very important here that we have this condition over here and again or that the current I through
+
+01:45.490 --> 01:48.020
+that center branch has to be equal to zero.
+
+01:48.370 --> 01:52.170
+And this kind of depends on what measuring device you use if you're using a Galvin emitter.
+
+01:52.180 --> 01:56.170
+You can easily measure that the current to zero if there's no deflection in that needle.
+
+01:56.260 --> 01:56.580
+All right.
+
+01:56.710 --> 02:02.230
+So once we have established both of these criteria we're now going to do is we're gonna simply do some
+
+02:02.230 --> 02:07.840
+loops we're gonna use the cure cost loop rule in order to get to a relationship that allows us to solve
+
+02:07.840 --> 02:09.940
+for this unknown resistance.
+
+02:10.030 --> 02:16.180
+So first I'm going to do a loop like this and it really doesn't matter which loop you use we're gonna
+
+02:16.180 --> 02:21.580
+assume here that this battery over here has an IMF equal to E and we're not even going to use that the
+
+02:21.580 --> 02:25.570
+loops I'm gonna choose are going to be this one and then I'll choose this other triangle here on the
+
+02:25.570 --> 02:26.470
+right hand side.
+
+02:27.010 --> 02:30.730
+So first things first let's define some current values.
+
+02:30.850 --> 02:35.220
+I'm gonna assume here that the current flowing through this branch here.
+
+02:35.230 --> 02:40.090
+Let's just give it a name let's call it i1 and let's assume here that the current flowing down here
+
+02:40.090 --> 02:44.830
+through resistance are 3 let's call it ie three that's fine.
+
+02:44.830 --> 02:45.880
+Now have a look at the current.
+
+02:45.880 --> 02:48.670
+If I have a current I want flowing up here.
+
+02:48.670 --> 02:51.400
+Once it reaches this know that I've labeled b over here.
+
+02:51.610 --> 02:56.410
+If there is no current flowing down the center branch if the bridge is balanced that means that you're
+
+02:56.410 --> 03:01.390
+also going to have the same current ie one flowing over here and you're also going to have the same
+
+03:01.390 --> 03:07.350
+current ie three flowing through this unknown resistance because there's no current in that center branch.
+
+03:07.450 --> 03:07.750
+OK.
+
+03:07.780 --> 03:13.510
+So let's do the loop rule again the loop rule means you add up all of the voltage differences across
+
+03:13.510 --> 03:17.620
+resistors and if you go back to where you started those should sum the zero.
+
+03:18.430 --> 03:20.750
+OK so let's do the first loop the first loop.
+
+03:20.800 --> 03:23.620
+I'm going to label it a B.
+
+03:23.680 --> 03:28.780
+I'm going to go down here to D and then I'm going to go back to a point where I started.
+
+03:28.780 --> 03:30.280
+So why would that loop rule look like.
+
+03:30.280 --> 03:32.920
+Well the first thing I encountered is a resistor.
+
+03:32.920 --> 03:38.500
+If the current is flowing through the resistor in this fashion and I'm going in the same direction that
+
+03:38.500 --> 03:44.680
+means there is a voltage drop across that resistor and the voltage drop is i1 R1 that's given by Ohm's
+
+03:44.680 --> 03:46.060
+Law.
+
+03:46.060 --> 03:50.500
+Next thing I'm going to do I'm going to go down the center branch but we said if the bridge is balanced
+
+03:50.500 --> 03:51.750
+there is no current.
+
+03:51.820 --> 03:57.010
+So there is no voltage drop across this point over here so there's nothing else to add.
+
+03:57.040 --> 04:00.700
+The next thing I'm going to do now is I'm going to go across the resistance are three.
+
+04:01.030 --> 04:07.360
+However look at I'm going across an opposite direction of the current which means I'm going from a low
+
+04:07.360 --> 04:09.580
+potential to a high potential.
+
+04:09.700 --> 04:13.840
+So the voltage difference now it's important to have this negative sign here.
+
+04:13.900 --> 04:20.060
+It's going to be given by Ohm's Law I three are three and that there equals the zero.
+
+04:20.680 --> 04:22.510
+So that's my first equation.
+
+04:22.810 --> 04:26.100
+Next equation I'm gonna do now I'm going to do this other loop.
+
+04:26.110 --> 04:28.160
+Let's go ahead and kind of draw it out here.
+
+04:28.180 --> 04:33.160
+Let's start at point B and I'm gonna do a loop on this side because I have to introduce the variable
+
+04:33.190 --> 04:35.110
+r x somehow.
+
+04:35.110 --> 04:44.940
+So let's do a loop like this so that loop would be starting at point B C D and then back to be okay.
+
+04:45.310 --> 04:46.620
+So let's go ahead and do this.
+
+04:46.630 --> 04:52.720
+The first thing I encounter here if I am going round this loop is the resistance R to the voltage drop
+
+04:52.720 --> 04:55.580
+across that resistance is I want R2.
+
+04:55.900 --> 04:58.180
+That's the voltage drop given by Ohm's Law.
+
+04:58.180 --> 05:02.830
+The next thing I encounter now is I'm at point C going toward Point D.
+
+05:03.250 --> 05:10.000
+I'm encountering this unknown resistance R X and I'm moving my loop as I'm going around it in the opposite
+
+05:10.000 --> 05:16.180
+direction of the current so I go from a low to a high potential and in this case over here it would
+
+05:16.180 --> 05:23.110
+be I three multiplied by hour X All right equals to zero.
+
+05:23.110 --> 05:26.300
+Now we're going to rearrange these equations a little bit.
+
+05:26.320 --> 05:31.210
+Let's go back to one I'll call it one star and I'm simply going to bring this second term here on the
+
+05:31.210 --> 05:35.030
+other side just the right in nice friendly friendly form.
+
+05:36.810 --> 05:44.160
+We're almost done next thing I'm gonna do the same step here for equation to just rewrite it a little
+
+05:44.160 --> 05:44.460
+bit.
+
+05:44.500 --> 05:51.700
+I1 R2 equals to i3 r x okay.
+
+05:51.810 --> 05:57.020
+Now what I want to do now is eliminate the current values in one way to eliminate the current values
+
+05:57.030 --> 06:04.500
+notice I have I want on this side I also have i1 on the left hand side for equation 2 and on this side
+
+06:04.530 --> 06:06.960
+I also have the same current right I 3.
+
+06:07.080 --> 06:14.040
+So what I can do a simple way to kind of eliminate them is simply to do equation 1 divided by equation
+
+06:14.040 --> 06:18.900
+2 and I can do that all right because as long as these currents are not zero they're not going to be
+
+06:18.900 --> 06:20.940
+zero I can divide by equation too.
+
+06:21.630 --> 06:23.000
+So what do we get if we do that.
+
+06:23.010 --> 06:24.900
+Well we're gonna get our one over here.
+
+06:24.900 --> 06:27.450
+We're going to get our two over here.
+
+06:27.450 --> 06:33.150
+We're gonna get our three here and our X which is our unknown resistance which is really what we're
+
+06:33.150 --> 06:34.920
+trying to find.
+
+06:34.950 --> 06:37.980
+So what I do now is I'm simply going to rearrange this.
+
+06:38.290 --> 06:39.900
+I can bring our X on this side.
+
+06:39.930 --> 06:48.390
+I can bring our two on this side and this equation here simply becomes our X multiplied by our 1 equals
+
+06:48.390 --> 06:51.880
+to our 2 multiplied by our 3.
+
+06:51.900 --> 06:56.220
+This is really the equation that we need in order to solve it.
+
+06:56.250 --> 07:00.720
+And I'll write it down one more time the other thing I could do now is if I'm really just looking for
+
+07:00.720 --> 07:07.170
+our X I simply have to divide through by the value R 1 and you're left with this expression.
+
+07:07.230 --> 07:14.430
+So if we know the values of our 1 hour to an hour 3 and we measure that the current is 0 through this
+
+07:14.520 --> 07:15.300
+center branch.
+
+07:15.300 --> 07:21.330
+That means that our weed Stonebridge is balanced and that condition is satisfied as long as our value
+
+07:21.330 --> 07:26.970
+of the unknown resistance which I can measure is going to be equal to this value over here.
+
+07:26.970 --> 07:31.200
+Now this might look like how do I kind of remember that without doing all these steps right if it's
+
+07:31.200 --> 07:31.920
+just a test.
+
+07:31.920 --> 07:36.410
+For example what you want to do here is if you look at the equation here in the red box.
+
+07:36.480 --> 07:43.110
+Notice that I am multiplying resistances that are diagonal from each other right.
+
+07:43.500 --> 07:48.690
+If I multiply resistances that are diagonal from each other I get the equation here in the red box and
+
+07:48.680 --> 07:51.740
+it's very easy to solve for the unknown resistance.
+
+07:51.750 --> 07:55.550
+All right so let's go to the next page and we'll actually solve a problem to solve for this.
+
+07:55.620 --> 07:55.820
+All right.
+
+07:55.830 --> 07:59.880
+So here's my weed Stonebridge problem here we're gonna assume again that it's balance.
+
+07:59.880 --> 08:04.950
+So this volt meter here is reading 0 volts.
+
+08:05.000 --> 08:07.010
+How do we find the unknown resistance.
+
+08:07.070 --> 08:13.460
+Our x r 1 is equal to 15 ohms are two is 900 homes are three is fifty ohms.
+
+08:13.460 --> 08:18.440
+So the way you do this again you simply have to remember in order solve for our X. We need to remember
+
+08:18.440 --> 08:19.580
+the equation.
+
+08:19.580 --> 08:26.660
+It's very simple if you simply cross multiply the resistors that are opposite of each other all you
+
+08:26.660 --> 08:29.690
+have to do now is write down our equation.
+
+08:29.690 --> 08:36.810
+So this here would be our 1 multiplied by our X has to be equal to our 2 multiplied by our 3.
+
+08:36.920 --> 08:43.140
+OK so our X hour two hour three over hour one.
+
+08:43.140 --> 08:53.820
+Now you simply substitute our values in here are two is nine hundred are three was fifty OK an hour
+
+08:53.820 --> 09:03.790
+one was fifteen fifteen goes in ninety six times three are left with sixty multiplied by fifty.
+
+09:03.910 --> 09:14.400
+Now that gives me three thousand so if our X equals to three thousand ohms there will be no current
+
+09:15.870 --> 09:22.440
+flowing through the center branch and the Wheatstone bridge will be balanced okay if our x is any other
+
+09:22.440 --> 09:27.840
+value I will measure a deflection I will have a current flowing through down this center branch.
+
+09:27.850 --> 09:33.060
+Okay that's really what it means over here only for this specific value of the resistance will I get
+
+09:33.060 --> 09:37.620
+zero deflection from that no current flowing through that center branch.

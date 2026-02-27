@@ -1,0 +1,526 @@
+WEBVTT
+
+00:00.120 --> 00:03.690
+All right I now want to look at single tube circuits and a little bit more detail.
+
+00:03.720 --> 00:08.250
+There's three basic questions you need to be able to answer about single loop circuits you need to be
+
+00:08.250 --> 00:11.580
+able to find what is the current flowing in the circuit.
+
+00:11.640 --> 00:16.070
+You need to be able to find what is the voltage difference between any two points on this circuit.
+
+00:16.410 --> 00:21.780
+What's the voltage difference between points being point a point to see him Point A C and B.
+
+00:21.780 --> 00:22.260
+Doesn't matter.
+
+00:22.260 --> 00:26.130
+Pick any two points you should be able to tell me what is the voltage difference between both of those
+
+00:26.130 --> 00:31.410
+points and the last one you need to be able to tell me what is the power being delivered to the circuit
+
+00:31.740 --> 00:34.890
+and what is the power being dissipated so we're going to go through all three of these.
+
+00:34.890 --> 00:37.240
+Let's start with the current.
+
+00:37.950 --> 00:40.250
+Notice there's a singular right.
+
+00:40.240 --> 00:45.420
+There's only a single current everywhere there's only a single branch by conservation of charge whatever
+
+00:45.420 --> 00:52.590
+current flows here as to be the same current flowing through the resistance are A-one same current flowing
+
+00:52.590 --> 01:00.390
+through resistance are to in order to solve for the current one that you can use is Kirchoff's voltage
+
+01:00.390 --> 01:01.230
+law.
+
+01:01.320 --> 01:06.620
+We can set up an equation start at a point some all the voltage differences across the different elements
+
+01:06.630 --> 01:08.110
+when you do a complete loop.
+
+01:08.490 --> 01:12.420
+Again the only difference is whether you choose to go clockwise or counter-clockwise but that that'll
+
+01:12.420 --> 01:14.600
+be the same answer or you.
+
+01:14.610 --> 01:19.950
+In this case we could also simplify this right we have two resistors that are in series with one another
+
+01:20.340 --> 01:25.500
+and you can represent them by an equivalent five ohm resistor and you'll get at the end of the day to
+
+01:25.500 --> 01:26.490
+the same answer.
+
+01:26.490 --> 01:28.130
+So let's go ahead and show you how to do that.
+
+01:28.410 --> 01:34.470
+So first way will use the Kirchoff's voltage law first thing we do is I start at point A and I'm going
+
+01:34.470 --> 01:40.260
+to go around clockwise I cross a 10 mile battery I go from the low to the high.
+
+01:40.260 --> 01:41.550
+That's it.
+
+01:41.550 --> 01:45.030
+Next thing I cross a resistor in the direction of the current.
+
+01:45.270 --> 01:49.380
+When you do that you get a voltage drop given by the value of the resistance multiplied by the current
+
+01:49.380 --> 01:50.470
+flowing through it.
+
+01:51.910 --> 01:56.170
+And then I'm going across a two resistor again to get a voltage drop because I'm crossing it in the
+
+01:56.170 --> 02:03.700
+direction of the current So I'm going from a high to a lower voltage and the voltage drop is given by
+
+02:03.700 --> 02:04.280
+two times.
+
+02:04.280 --> 02:05.420
+I for this case.
+
+02:05.560 --> 02:07.490
+Then I go all the way to where I started.
+
+02:08.650 --> 02:10.060
+That's it.
+
+02:10.060 --> 02:13.080
+So rearrange this you can group all of those terms you get minus five.
+
+02:13.090 --> 02:17.450
+I at the end you get I then will simply be equal to ten.
+
+02:17.470 --> 02:21.640
+Divided by five you get two amps.
+
+02:21.640 --> 02:25.240
+So the current in the circuit here has to be equal to two.
+
+02:25.330 --> 02:29.050
+It's the same everywhere.
+
+02:29.090 --> 02:35.470
+Now if you would have represented this circuit by an equivalent resistance you could have done that
+
+02:35.850 --> 02:38.140
+he would have been the battery tenable battery.
+
+02:38.230 --> 02:42.770
+That's the same you would have had one single resistor.
+
+02:43.270 --> 02:45.140
+Let's give it a different color here.
+
+02:47.160 --> 02:48.400
+What it looks something like that.
+
+02:48.500 --> 02:56.200
+And then I just close the circuit the value of the equivalent resistance in this case would have simply
+
+02:56.200 --> 02:59.770
+been while you simply add both of these up there in series with each other.
+
+02:59.830 --> 03:02.900
+So you would have had a 5 ohm equivalent resistance.
+
+03:03.100 --> 03:09.280
+And now what you could do is you could apply the voltage Kirchoff's voltage law to this simple circuit
+
+03:09.400 --> 03:15.460
+and when you do that it just looks like Ohm's law right because you get plus 10 for here you get plus
+
+03:15.460 --> 03:19.900
+10 and then you get a voltage drop across this resistance.
+
+03:19.910 --> 03:24.340
+Voltage drop is given by five multiplied by the current flowing through it.
+
+03:24.400 --> 03:25.620
+You go back to where you start.
+
+03:25.630 --> 03:29.240
+And yes look you get the exact same equation right.
+
+03:29.320 --> 03:32.840
+You get I which equals the two amps at the end of the day.
+
+03:32.890 --> 03:35.500
+Pretty straightforward.
+
+03:35.500 --> 03:35.920
+All right.
+
+03:35.920 --> 03:39.340
+So let me go ahead and kind of clean this up a little bit.
+
+03:39.400 --> 03:40.880
+This doesn't really get us too far.
+
+03:40.880 --> 03:42.190
+So I'm just going to delete this part.
+
+03:42.190 --> 03:46.270
+I just want to show you how you complete that.
+
+03:46.270 --> 03:46.950
+All right.
+
+03:47.140 --> 03:48.790
+So now we know the current everywhere.
+
+03:48.790 --> 03:53.120
+The next thing we want to do is how do you find the voltage differences everywhere.
+
+03:53.560 --> 03:58.060
+So the voltage differences that I'm going to be interested in here are what is the potential difference
+
+03:58.060 --> 04:00.290
+here between Point B and point a.
+
+04:00.790 --> 04:01.990
+You might call that VB.
+
+04:01.990 --> 04:03.780
+Mine is vitæ.
+
+04:04.210 --> 04:08.530
+How do I get that guy to find the voltage differences between two points.
+
+04:08.650 --> 04:11.890
+What you end up doing is you're just not doing a complete loop.
+
+04:12.040 --> 04:13.450
+So we're going to start at point A.
+
+04:13.450 --> 04:17.870
+So right now we're going to be at some potential and this term again you typically don't include it
+
+04:17.890 --> 04:22.390
+when you do a full loop because at the end you end up having the same term on the left hand side and
+
+04:22.390 --> 04:24.840
+on the right hand side and then it simply cancels out.
+
+04:25.090 --> 04:31.030
+But in this case it's not going to cancel out because we're not doing a complete loop so we're going
+
+04:31.030 --> 04:36.690
+to start here at some potential and then we're simply going to get all the way to point B OK.
+
+04:36.780 --> 04:40.080
+So the first thing I encounter now is a battery.
+
+04:40.320 --> 04:46.340
+And when I cross a battery now I'm going to get a plus 10 volts because I'm increasing in electrical
+
+04:46.340 --> 04:48.350
+potential when I get there and that's it.
+
+04:48.350 --> 04:53.510
+Then I go all the way to point B so I'm going to be at some potential vib once I get there.
+
+04:54.080 --> 04:56.510
+So now you have to do is rearrange this equation.
+
+04:56.510 --> 05:00.210
+If I rearrange this equation I get VB.
+
+05:00.230 --> 05:01.510
+Mine is vitæ.
+
+05:01.910 --> 05:07.160
+So this here is the difference of potential between both of those points that there would be equal to
+
+05:07.160 --> 05:09.280
+10 volts.
+
+05:09.330 --> 05:12.810
+So that's the potential difference between two points.
+
+05:12.840 --> 05:14.630
+Now you can choose any two points.
+
+05:14.630 --> 05:17.620
+What if I wanted VC mine is VB.
+
+05:18.660 --> 05:19.580
+Let's go ahead and do that.
+
+05:19.590 --> 05:22.710
+VC mine is VB.
+
+05:22.710 --> 05:24.680
+Which one is that where you start now.
+
+05:24.700 --> 05:28.630
+VB that is that some potential.
+
+05:28.820 --> 05:34.190
+And now I'm going to go again I'm going to cross this three ohm resistance in the direction of the current
+
+05:34.200 --> 05:36.370
+So I know there's a voltage drop.
+
+05:36.710 --> 05:39.420
+The magnitude of the voltage drop is given by Ohm's law.
+
+05:39.440 --> 05:47.500
+That's three multiplied by 2 6 volts and then that's equal to c.
+
+05:47.550 --> 05:56.780
+All right so now you rearrange this equation you see that V C minus VB is equal to minus 6 volts this
+
+05:56.780 --> 06:02.480
+equation tells me that point C is 6 volts lower then point B.
+
+06:03.980 --> 06:05.300
+All right you can imagine that
+
+06:08.150 --> 06:11.710
+voltage B is at 10 volts right.
+
+06:11.740 --> 06:18.930
+If voltage B is at 10 volts take an example 10 volts right here.
+
+06:18.940 --> 06:27.990
+That means that voltage C would be a negative six plus 10 volts would be at 4 volts.
+
+06:28.030 --> 06:30.170
+That's what this equation here would tell me.
+
+06:30.180 --> 06:33.580
+There are some six volts lower than point B.
+
+06:33.580 --> 06:39.710
+Now let's go ahead and maybe find a difference between Point C and point the SO in that case I'm looking
+
+06:39.710 --> 06:42.080
+for what is the voltage difference between VD.
+
+06:42.080 --> 06:50.720
+Mine is Visi OK in order to find that one again you started Visi and now I get to travel toward point
+
+06:50.720 --> 06:54.570
+V The first thing I have to cross is a two arm resistor.
+
+06:54.950 --> 07:03.040
+I get a voltage drop given by two multiplied by two and then that's equal to VD rearrange this equation.
+
+07:03.560 --> 07:08.920
+You're going to find a D mine v c is equal to minus four volts.
+
+07:12.140 --> 07:21.810
+Again what that equation tells me that the point D is 4 volts lower than points C so VC is for Voltz
+
+07:22.350 --> 07:26.560
+that means VD should be at zero volts.
+
+07:26.930 --> 07:29.660
+Now you don't have to be consecutive points like this.
+
+07:29.750 --> 07:35.570
+I can use the same technique to find what is the voltage difference between point A and Point C in that
+
+07:35.570 --> 07:37.850
+case I'd be looking for visi.
+
+07:37.850 --> 07:40.960
+Mine is V.A.
+
+07:41.150 --> 07:42.510
+Again you start at point A.
+
+07:42.520 --> 07:45.140
+So you're at some electrical potential.
+
+07:45.340 --> 07:49.360
+And now there's two directions you can go you can either go through the battery and through this resistor
+
+07:49.390 --> 07:50.760
+or you can go this way.
+
+07:51.220 --> 07:54.560
+Let's first go through point B to head toward Point C.
+
+07:54.670 --> 07:58.120
+First thing I encounter is tenable battery.
+
+07:58.150 --> 08:00.910
+Next thing I encounter is this three ohm resistor.
+
+08:00.910 --> 08:08.810
+I know there's a voltage drop of six volts across there and then that's equal to point C so you rearrange
+
+08:08.810 --> 08:11.210
+this equation you see that Visi mine is V.A
+
+08:15.110 --> 08:23.630
+simply equal to four volts the potential difference between point and point C is four volts.
+
+08:23.630 --> 08:27.770
+You would have gotten the same answer now if you would have went this direction here.
+
+08:28.340 --> 08:30.100
+You could check that out for yourself.
+
+08:30.440 --> 08:34.450
+OK so last thing we had to figure out now is how you calculate the power.
+
+08:35.360 --> 08:36.930
+OK so to calculate the power.
+
+08:37.100 --> 08:41.960
+Well let's look at first the power being delivered the power being delivered is power being delivered
+
+08:41.960 --> 08:45.570
+by this power supply in this case it's our 10 volt battery.
+
+08:45.700 --> 08:52.580
+And in this case the power being delivered to a circuit is simply the MF multiplied by the current flowing
+
+08:52.580 --> 08:55.010
+through that battery.
+
+08:55.190 --> 09:00.660
+We calculated the current was two amps the value the IMF was 10 volts.
+
+09:00.860 --> 09:05.390
+Simple calculation 10 multiplied by 2 gives me 20 watts
+
+09:09.040 --> 09:10.930
+20 joules per second.
+
+09:11.650 --> 09:16.260
+All right the next cases we want to look at what is the power being dissipated.
+
+09:16.330 --> 09:18.370
+What happened in my piece here.
+
+09:19.120 --> 09:21.910
+The power being dissipated Well there's two resistors.
+
+09:22.060 --> 09:26.920
+So each one of those resistors will dissipate some energy per unit time.
+
+09:26.950 --> 09:31.050
+So let's find First the power being dissipated by the 3 ohm resistor.
+
+09:32.290 --> 09:34.840
+It's kind of the same equation right.
+
+09:34.840 --> 09:40.880
+It's the voltage across that resistor multiplied by the current flowing through that resistor.
+
+09:41.390 --> 09:46.270
+And a lot of times we write the equation somewhat differently we use Ohm's law just to maybe eliminate
+
+09:46.270 --> 09:50.060
+the voltage and just replace it by the resistance and the current.
+
+09:50.110 --> 09:51.060
+So you can do that.
+
+09:51.100 --> 09:56.230
+So instead of voltage across that resistor Sometimes you just multiply it by the value of the resistance
+
+09:56.260 --> 09:59.710
+are 1 times the current flowing through it.
+
+10:00.040 --> 10:03.720
+And then you still have the current that goes into the power equation.
+
+10:03.730 --> 10:12.840
+So this here simply ends up being R R R 1 I squared like this each equation gives you the exact same
+
+10:12.840 --> 10:14.060
+answer it doesn't matter.
+
+10:14.310 --> 10:17.060
+So let's maybe just use this one here at the end.
+
+10:17.730 --> 10:23.070
+OK so the power being dissipated in the 3 ohm resistor is the value of the resistance which is three
+
+10:23.820 --> 10:28.350
+multiplied by the current and just square that current.
+
+10:28.350 --> 10:31.530
+So you get four multiply by three you get 12 watts
+
+10:34.490 --> 10:34.840
+OK.
+
+10:34.840 --> 10:37.830
+So that's our power being dissipated by this resistor.
+
+10:37.830 --> 10:44.250
+And the last one we want to know what is the power being dissipated by the 2 ohm resistor in this case
+
+10:44.250 --> 10:50.970
+it's the value of the resistance multiplied again by the current squared the same current through all
+
+10:50.970 --> 10:53.470
+the different components since it's a single loop circuit.
+
+10:53.730 --> 10:58.480
+So in this case do we get to multiply by two squared.
+
+10:58.950 --> 11:03.960
+Oh give me four times two gives me eight watts.
+
+11:04.000 --> 11:09.280
+One thing that should be evident to you is that the total power that's being delivered to the circuit
+
+11:10.090 --> 11:13.380
+is actually equal to the total power being dissipated.
+
+11:13.420 --> 11:14.080
+Right.
+
+11:14.230 --> 11:21.100
+Both of these resistors dissipate energy per unit time and they dissipate energy at the same rate as
+
+11:21.100 --> 11:24.160
+you put in energy into the system.
+
+11:24.630 --> 11:24.870
+Right.
+
+11:24.880 --> 11:30.040
+Twelve plus eight gives me 20 which equals to the power being delivered by that battery.
+
+11:30.040 --> 11:32.240
+You're always going to find this in circuits.
+
+11:32.590 --> 11:33.440
+OK.
+
+11:34.060 --> 11:38.760
+So anyway those are the three questions that you really need to have a good handle on for single loops
+
+11:38.760 --> 11:39.790
+circuits.
+
+11:39.790 --> 11:42.680
+Hopefully this clears up some of the questions you had.

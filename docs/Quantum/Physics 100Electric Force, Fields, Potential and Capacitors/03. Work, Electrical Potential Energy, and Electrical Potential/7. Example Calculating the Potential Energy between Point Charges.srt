@@ -1,0 +1,169 @@
+WEBVTT
+
+00:00.240 --> 00:00.480
+All right.
+
+00:00.510 --> 00:05.220
+Have a look at two kind of silly examples over here we only have two point chargers in the top figure
+
+00:05.630 --> 00:11.180
+and we want to use my equation to calculate now the total electrical potential energy in the system.
+
+00:11.700 --> 00:17.190
+So I have two micro columns and a four micro column point charger separated by three meters.
+
+00:17.190 --> 00:20.170
+So again the formula is exactly the same.
+
+00:20.340 --> 00:25.290
+So we have nine times 10 to the 9 that's the K value same as before.
+
+00:25.290 --> 00:29.210
+And now I'm going to have two times ten to the negative six.
+
+00:29.210 --> 00:33.080
+I'm going to have four times 10 to the negative six.
+
+00:33.210 --> 00:37.140
+And at the end here I have to divide by the distance and it's only three.
+
+00:37.140 --> 00:39.480
+So you've got gotta be a little bit careful and that's it.
+
+00:39.480 --> 00:45.540
+Now we put the number in the calculator and we get zero point zero to four.
+
+00:45.540 --> 00:48.660
+Now that is measured in Joules pretty straightforward.
+
+00:48.660 --> 00:49.680
+How about the second case.
+
+00:49.680 --> 00:58.320
+So this case a little bit different to micro column a negative 5 micro column and separated by 5 meters
+
+00:58.320 --> 00:59.790
+in this case.
+
+00:59.790 --> 01:03.220
+What is the electrical potential energy in the system.
+
+01:03.230 --> 01:07.050
+So I would go nine times 10 to the nine what else.
+
+01:07.050 --> 01:10.390
+Two times ten to the negative six.
+
+01:10.500 --> 01:10.830
+Ha.
+
+01:10.830 --> 01:11.880
+Now the key here.
+
+01:11.880 --> 01:13.740
+Notice I have the negative side.
+
+01:13.740 --> 01:21.390
+Negative five times 10 to the negative six and divided by five in this case.
+
+01:21.390 --> 01:26.850
+All right put that number in the calculator and lo and behold I'm gonna get a negative number and zero
+
+01:26.850 --> 01:28.870
+point zero one eight.
+
+01:28.920 --> 01:31.680
+Jules this is OK.
+
+01:31.830 --> 01:32.880
+This can be negative.
+
+01:32.880 --> 01:33.240
+OK.
+
+01:33.270 --> 01:35.160
+So don't let that scare you.
+
+01:35.310 --> 01:42.210
+Right what if I did a third case and let's just keep it rather simple instead of having a positive to
+
+01:42.210 --> 01:43.050
+micro cool on.
+
+01:43.050 --> 01:46.840
+Let's have a negative in this case and another negative.
+
+01:46.840 --> 01:52.770
+We'll keep this one the same minus five micro cool on and let's convert this one to negative to micro
+
+01:52.770 --> 01:55.500
+cool on and we'll keep the same spacing.
+
+01:55.500 --> 01:57.760
+Let's see what happens in this case.
+
+01:57.810 --> 02:06.000
+Again the formula is the same again it's going to look the exact same except 10 to the 9.
+
+02:06.510 --> 02:06.870
+OK.
+
+02:06.870 --> 02:11.640
+Now I've switched the sine here so it's important for me to have that sign here because I'm calculating
+
+02:11.640 --> 02:13.190
+a scalar quantity.
+
+02:13.410 --> 02:16.680
+And actually the sign is important.
+
+02:16.680 --> 02:18.090
+Times 10 to the negative 6.
+
+02:18.090 --> 02:22.490
+So both of those are negative charges and multiply.
+
+02:22.500 --> 02:24.510
+Sorry divided by five meters again.
+
+02:24.510 --> 02:29.430
+So what are we going to get in this case again these two negative signs are going to cancel out and
+
+02:29.430 --> 02:34.050
+we're going to be left with a positive zero point zero one eight jewels.
+
+02:34.830 --> 02:40.950
+So notice when I have two positive charges I'm going to have positive potential energy when I have two
+
+02:40.950 --> 02:41.730
+negatives.
+
+02:41.730 --> 02:44.980
+I'm also going to have positive potential energy.
+
+02:45.180 --> 02:50.730
+And when I have charges that are of different sign like in the second case right here I'm going to end
+
+02:50.730 --> 02:54.330
+up having negative electrical potential energy.
+
+02:54.360 --> 02:55.870
+And that's OK.
+
+02:55.920 --> 03:02.160
+Now the other thing to notice is that when r gets very very big when it tends toward infinity the electrical
+
+03:02.160 --> 03:05.070
+potential energy tends toward zero.
+
+03:05.340 --> 03:06.420
+OK.
+
+03:06.660 --> 03:08.400
+So that's kind of the other important thing.
+
+03:08.400 --> 03:08.570
+All right.
+
+03:08.580 --> 03:10.710
+If you understand this we're off to the races.

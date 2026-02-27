@@ -1,0 +1,139 @@
+WEBVTT
+
+00:00.120 --> 00:06.750
+We previously looked at the electric dipole and here it is again this electric dipole is made from a
+
+00:06.750 --> 00:11.430
+positive charge and one negative charge.
+
+00:11.430 --> 00:17.370
+The magnitudes of those charge are minus one nano cool and plus one for the positive.
+
+00:18.120 --> 00:20.850
+And again they're separated by a certain distance.
+
+00:20.940 --> 00:26.070
+The white arrows represent the electric field vector is at different positions.
+
+00:26.070 --> 00:28.670
+If I was gonna draw the field lines they would look like this.
+
+00:28.680 --> 00:29.910
+You remember what they look like.
+
+00:29.910 --> 00:31.460
+Something like this.
+
+00:31.620 --> 00:34.320
+Try to draw them accurately.
+
+00:34.350 --> 00:36.200
+Again you kind of have to trace out
+
+00:39.080 --> 00:42.100
+or make sure that the lines go through those vectors like this.
+
+00:44.520 --> 00:46.810
+I'm only going to draw some of them right here.
+
+00:47.000 --> 00:50.550
+Maybe one more down here at the bottom all right.
+
+00:50.550 --> 00:55.710
+This is what the electric field lines look like the vectors are just the white arrows right here.
+
+00:55.710 --> 00:57.150
+And again there's other ones over here.
+
+00:57.150 --> 01:05.080
+I could extend that like this and maybe have other field lines that end on the negative charges.
+
+01:05.100 --> 01:06.750
+All right that's what the sketch looks like.
+
+01:06.750 --> 01:14.760
+The green lines represent the equip potentials again and I wrote just some of them.
+
+01:14.760 --> 01:15.960
+Let me go ahead and fill this out.
+
+01:15.960 --> 01:18.640
+These are the equip potential surfaces.
+
+01:18.780 --> 01:29.190
+I think I started out at 20 volts 10 volts 5 volts and 2.5 volts negative on this side so negative 2.5
+
+01:29.190 --> 01:40.080
+volts positive 2.5 volts positive 5 volts negative 5 volts and you could see what they look like again.
+
+01:40.320 --> 01:41.730
+Let me just trace out one of them.
+
+01:41.730 --> 01:44.100
+The line right in the center right here.
+
+01:44.200 --> 01:50.300
+This is 0 volts right there is a 0 volt aquÃ­ potential for this electric dipole.
+
+01:51.090 --> 01:57.000
+And that is because again if you imagine just one particular point up here right.
+
+01:57.030 --> 02:03.150
+We have two contributions we have the positive one which is a certain distance away and we also have
+
+02:03.150 --> 02:06.030
+the negative one which is a certain distance away.
+
+02:06.120 --> 02:14.810
+When you add both of those contributions up you're going to get zero volts everywhere along that line.
+
+02:15.420 --> 02:22.480
+Again as I start moving closer to the positive I'm starting to get positive electrical potential.
+
+02:22.500 --> 02:27.300
+This here was 10 volts All right what else.
+
+02:27.300 --> 02:34.840
+Twenty volts ups say 20 and I right 30 20 volts All right and negative is on the other side.
+
+02:35.030 --> 02:35.550
+Okay.
+
+02:36.600 --> 02:44.070
+So again the key that we're going to notice is that the echoey potentials again these guys here they
+
+02:44.070 --> 02:50.480
+are perpendicular to the electric field lines everywhere right.
+
+02:50.490 --> 02:54.650
+They're never parallel to the field lines.
+
+02:54.670 --> 03:00.730
+The other thing you could see again when you go from positive electrical potential toward negative electrical
+
+03:00.730 --> 03:06.810
+potential right the field lines always go from high voltage toward low voltage.
+
+03:06.810 --> 03:07.230
+Okay.
+
+03:07.240 --> 03:11.860
+So again you could see those properties and it really doesn't matter how complicated the field looks
+
+03:11.860 --> 03:17.400
+like even if I added other point charges out here in space I would still get the same result.
+
+03:17.410 --> 03:22.450
+Okay so we're gonna go look at the mathematical link now between them and why do we always get this
+
+03:22.450 --> 03:24.130
+relationship right here.
+
+03:24.240 --> 03:24.560
+Okay.
+
+03:24.790 --> 03:27.640
+But this is the example for the electric dipole.
+
+03:27.640 --> 03:30.310
+And again you could see that relationship hold nicely.

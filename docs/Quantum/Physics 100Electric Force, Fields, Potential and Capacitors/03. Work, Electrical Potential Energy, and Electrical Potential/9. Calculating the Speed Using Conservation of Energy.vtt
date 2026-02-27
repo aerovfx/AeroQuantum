@@ -1,0 +1,246 @@
+WEBVTT
+
+WEBVTT
+
+00:00.240 --> 00:00.450
+All right.
+
+00:00.450 --> 00:06.630
+The big advantage of having a potential energy at our disposal and the fact that the electrical force
+
+00:06.630 --> 00:14.490
+is a conservative force is it allows us to use conservation of energy to solve problems.
+
+00:14.520 --> 00:21.140
+So let's consider the same problem a two and a four micro cooling charge separated by three meters.
+
+00:21.150 --> 00:28.190
+I said initially I'm going to have it like this so I have some electrical potential energy in the system.
+
+00:28.200 --> 00:32.240
+Now the two micro cool home charge is going to be fixed in this problem.
+
+00:32.430 --> 00:35.680
+And the four micro cooling charges free to move around.
+
+00:35.760 --> 00:37.880
+I'm going to release it from rest.
+
+00:38.010 --> 00:42.780
+And so it's going to start to accelerate because there's a force acting on it.
+
+00:43.050 --> 00:47.000
+And as it starts to accelerate it starts to speed up.
+
+00:47.100 --> 00:47.370
+Right.
+
+00:47.370 --> 00:54.050
+So it's going to start moving away and it's going to be increasing its speed faster and faster and faster.
+
+00:54.300 --> 00:59.130
+Eventually it's going to be really really far away from the two micro cooling charge.
+
+00:59.130 --> 01:04.170
+The question is now how fast is that charge moving when it's really really far away.
+
+01:04.170 --> 01:10.860
+Let's see how we can now use this concept and use conservation of total energy in order to solve a whole
+
+01:10.860 --> 01:12.310
+bunch of problems.
+
+01:12.360 --> 01:18.030
+So here's our example again we have to inform micro cool on this one is fixed and this one I'm going
+
+01:18.030 --> 01:23.520
+to release it from rest so right at this position I'd be able to calculate the force right just using
+
+01:23.520 --> 01:29.010
+cool Ohm's law all the distance I know the magnitude of the charge so I would get a force for example
+
+01:29.010 --> 01:35.600
+of X number of cool ohms X in the first Newton's actually acting on that charge.
+
+01:35.670 --> 01:38.010
+So it's going to start to speed up.
+
+01:38.010 --> 01:44.010
+The question I have is when it's really really far away down over here how fast is it moving.
+
+01:44.010 --> 01:48.390
+So in order to use this what we're going to use is conservation of total energy.
+
+01:48.390 --> 01:48.650
+OK.
+
+01:48.690 --> 01:50.450
+So let me go ahead write that.
+
+01:50.760 --> 01:56.250
+And the reason I can have conservation of total energy is because the electric force is a conservative
+
+01:56.250 --> 01:56.970
+force
+
+01:59.880 --> 02:04.210
+so the energy in this problem is made up of two different kinds.
+
+02:04.380 --> 02:07.340
+We're going to have electrical potential energy.
+
+02:07.650 --> 02:13.530
+And once it starts moving we're also going to have energy associated the motion and that is called kinetic
+
+02:13.530 --> 02:14.690
+energy.
+
+02:14.760 --> 02:20.130
+So this is what we do we have to define the initial position and the final position.
+
+02:20.130 --> 02:26.880
+So let me go ahead and call this the initial position and I'm going to call this here the final position
+
+02:27.830 --> 02:32.490
+and what I want to do is I want to write the total energy at each point.
+
+02:33.000 --> 02:40.650
+So the total energy for example initial has to be equal to the total energy at any other position.
+
+02:40.650 --> 02:43.590
+In this case it'll be the final.
+
+02:43.980 --> 02:44.160
+All right.
+
+02:44.160 --> 02:47.620
+The total energy is composed of two terms.
+
+02:47.790 --> 02:53.400
+It's going to be I'm going to move over here it's going to be the initial kinetic energy plus the initial
+
+02:54.270 --> 02:56.160
+electrical potential energy.
+
+02:56.580 --> 03:04.440
+And this here has to be equal to the final kinetic energy plus the final electrical potential energy.
+
+03:04.440 --> 03:07.790
+Now what I'm going to do now is substitute my equations in here.
+
+03:07.860 --> 03:18.540
+So what is the initial kinetic energy What's 1 1/2 and V initial squared plus what's the initial electrical
+
+03:18.540 --> 03:19.470
+potential energy.
+
+03:20.010 --> 03:29.230
+Well it's going to be k Q1 Q2 and divided by whatever the initial spacing was between them and this
+
+03:29.230 --> 03:31.800
+here has to be equal to the final kinetic energy
+
+03:34.330 --> 03:37.270
+plus the final potential energy
+
+03:40.190 --> 03:41.820
+divided by our final.
+
+03:42.020 --> 03:45.030
+All right now there's a lot of terms here that are going to be equal to zero.
+
+03:45.050 --> 03:50.300
+First of all if I'm initially at rest that means it's initially not moving.
+
+03:50.300 --> 03:54.110
+So that means that this term here has to be equal to zero.
+
+03:54.170 --> 03:54.880
+What else.
+
+03:54.920 --> 04:01.460
+Initially I have some potential energy I calculated that I actually have zero point to four jewels of
+
+04:01.850 --> 04:08.540
+electrical potential energy all of that now is eventually going to get converted into kinetic energy.
+
+04:08.690 --> 04:11.280
+And what happens when I'm really really far away.
+
+04:11.300 --> 04:16.490
+That means that the spacing between the charges basically tends toward infinity.
+
+04:16.490 --> 04:21.580
+So if I divide by something that's really really big this term here is going to go to zero.
+
+04:21.590 --> 04:27.380
+So here you're transferring all of this potential energy into kinetic energy.
+
+04:27.380 --> 04:30.170
+My goal is define how fast the charge is moving.
+
+04:30.530 --> 04:35.750
+So let's go over here and we have actually an expression that we could use.
+
+04:35.750 --> 04:41.870
+So again this whole term here is basically what I calculated before the zero point zero to four.
+
+04:42.170 --> 04:44.650
+So I'm actually just going to leave that number the way it is.
+
+04:44.810 --> 04:48.320
+And I want to get an expression for the speed using this.
+
+04:48.410 --> 04:53.810
+So if I bring the two on the other side and this is my initial potential energy I also have to get rid
+
+04:53.810 --> 04:59.390
+of the mass and then at the end I'll have to take the square root in order to get the expression for
+
+04:59.390 --> 05:01.400
+the speed.
+
+05:01.490 --> 05:01.670
+All right.
+
+05:01.670 --> 05:04.320
+Now we could substitute in all our numbers.
+
+05:04.340 --> 05:11.150
+So we have two zero point zero to four joules and the mass now is actually important.
+
+05:11.160 --> 05:18.300
+Now the mass of the particle I've given you right here is 1 times tend to the negative 6 kilograms.
+
+05:18.320 --> 05:18.550
+All right.
+
+05:18.550 --> 05:23.630
+We put everything in here you're gonna get a number that is should be around two hundred nineteen meters
+
+05:23.630 --> 05:24.630
+per second.
+
+05:24.800 --> 05:24.960
+Right.
+
+05:24.950 --> 05:28.150
+When I'm really really far away this is the answer I get.
+
+05:28.310 --> 05:33.260
+Now if I wasn't really really far away imagine I wanted to know how fast it's moving when it's six meters
+
+05:33.260 --> 05:34.280
+away.
+
+05:34.280 --> 05:38.290
+In that case I wouldn't be able to make this simplification right here.
+
+05:38.480 --> 05:40.240
+This term would not be equal to zero.
+
+05:40.250 --> 05:42.310
+So I'd have to keep that there.
+
+05:42.380 --> 05:47.110
+All right but this is how you can use conservation of energy now to solve problems.

@@ -1,0 +1,427 @@
+1
+00:00:01,587 --> 00:00:02,407
+Hello, everyone.
+
+2
+00:00:02,407 --> 00:00:04,867
+Welcome back to Exploring Quantum Physics.
+
+3
+00:00:04,867 --> 00:00:10,140
+We're now going to proceed on the work
+done in the previous lecture and
+
+4
+00:00:10,140 --> 00:00:14,028
+start applying it to
+problems of atomic structure
+
+5
+00:00:14,028 --> 00:00:18,579
+using the old quantum theory and
+then work on towards new.
+
+6
+00:00:21,010 --> 00:00:25,458
+Once again, let me remind you
+of the relevance of Bohr's
+
+7
+00:00:25,458 --> 00:00:30,195
+original paper to the discussion
+that we're having today.
+
+8
+00:00:35,155 --> 00:00:39,135
+So to remind you where we left off
+at the end of the last lecture.
+
+9
+00:00:39,135 --> 00:00:45,709
+We solved the problem for
+the motion of the hydrogen-like systems,
+
+10
+00:00:45,709 --> 00:00:51,720
+one electron,
+one nucleus in classical mechanics.
+
+11
+00:00:51,720 --> 00:00:56,287
+We found a sort of generic,
+fairly simple solution.
+
+12
+00:00:56,287 --> 00:01:03,030
+It allows for
+any real value of the total energy.
+
+13
+00:01:03,030 --> 00:01:08,780
+When that energy is negative,
+the orbits, they're not only bounded,
+
+14
+00:01:08,780 --> 00:01:15,980
+but they close on themselves,
+a very non-generic fact in dynamics.
+
+15
+00:01:15,980 --> 00:01:19,846
+And when the energy is positive,
+
+16
+00:01:19,846 --> 00:01:23,857
+then they travel off to infinity.
+
+17
+00:01:26,637 --> 00:01:29,370
+Now I strongly encourage
+reading this paper,
+
+18
+00:01:29,370 --> 00:01:33,270
+which is contained in
+the additional materials.
+
+19
+00:01:33,270 --> 00:01:34,790
+I mean, not from start to end, but
+
+20
+00:01:34,790 --> 00:01:39,300
+just to get a sense of the great
+thing that it accomplished.
+
+21
+00:01:40,330 --> 00:01:43,980
+And you have to go rather
+far down into the paper, and
+
+22
+00:01:43,980 --> 00:01:48,760
+this is one of the homework problems,
+is to go find and analyze the language
+
+23
+00:01:51,060 --> 00:01:54,040
+that is used in this section.
+
+24
+00:01:54,040 --> 00:02:00,175
+And we give some hints as to what page to
+look at in the guidance to the homework.
+
+25
+00:02:00,175 --> 00:02:05,805
+And the really fantastic thing that
+
+26
+00:02:05,805 --> 00:02:10,690
+Bohr did that still survives.
+
+27
+00:02:10,690 --> 00:02:19,217
+His foundational idea is that it's
+the quantization of angular momentum.
+
+28
+00:02:19,217 --> 00:02:24,108
+So he found the series of
+circular orbits that he
+
+29
+00:02:24,108 --> 00:02:28,155
+thought should be stationary states.
+
+30
+00:02:28,155 --> 00:02:35,177
+And he actually sort of mentions
+this almost as an after thought,
+
+31
+00:02:35,177 --> 00:02:40,668
+that the selection criteria
+that he used amounts to
+
+32
+00:02:40,668 --> 00:02:46,159
+requiring that the angular
+momentum is an integral
+
+33
+00:02:46,159 --> 00:02:50,640
+value of the reduced blast cause in h bar.
+
+34
+00:02:54,100 --> 00:02:59,637
+So you see, when you do that,
+you get an instant
+
+35
+00:02:59,637 --> 00:03:04,627
+solution for the discrete energy levels.
+
+36
+00:03:04,627 --> 00:03:09,546
+So you require that the angular
+momentum be an intern multiple of
+
+37
+00:03:09,546 --> 00:03:12,287
+h bar running from one to infinity.
+
+38
+00:03:12,287 --> 00:03:16,317
+Now actually, in modern quantum mechanics
+the value of zero is allowed as well so
+
+39
+00:03:16,317 --> 00:03:18,300
+let's be very clear about that.
+
+40
+00:03:18,300 --> 00:03:25,267
+But in any event, here is
+an expression for the energy levels,
+
+41
+00:03:25,267 --> 00:03:30,534
+which I've casted here
+in sort of modern form.
+
+42
+00:03:30,534 --> 00:03:33,934
+Alpha's the so-called
+fine-structure constant.
+
+43
+00:03:33,934 --> 00:03:39,757
+Again, the definition depends upon
+the choice of electrical units.
+
+44
+00:03:44,837 --> 00:03:49,246
+You might see a four pi epsilon naught
+in the denominator depending on
+
+45
+00:03:49,246 --> 00:03:50,710
+the choice of units.
+
+46
+00:03:50,710 --> 00:03:51,500
+But in any event,
+
+47
+00:03:51,500 --> 00:03:56,060
+the fine structure constant is a pure
+number, it's approximately equal to that.
+
+48
+00:03:56,060 --> 00:03:59,415
+And so if you want a mnemonic for
+
+49
+00:03:59,415 --> 00:04:04,447
+remembering what the Bohr
+energy levels are,
+
+50
+00:04:04,447 --> 00:04:08,974
+it's kind of like e is
+equal to mc squared.
+
+51
+00:04:08,974 --> 00:04:13,316
+So all the dimensionality of energy
+that appears in this expression is
+
+52
+00:04:13,316 --> 00:04:18,037
+due to the rest mass energy of
+the electron, Einstein's rest mass energy.
+
+53
+00:04:18,037 --> 00:04:22,983
+And then the coupling constant,
+this is a pure number,
+
+54
+00:04:22,983 --> 00:04:26,050
+z alpha squared over 2n squared.
+
+55
+00:04:26,050 --> 00:04:30,274
+I'm going to phrase that in a slightly
+different way in the inline quiz,
+
+56
+00:04:30,274 --> 00:04:33,791
+have a look and see if you come
+up with the same conclusion.
+
+57
+00:04:35,551 --> 00:04:43,937
+So the Bohr energy equation gives rise to
+a very important fundamental constant.
+
+58
+00:04:43,937 --> 00:04:50,163
+One of the most accurately measured,
+the so called Rydberg constant,
+
+59
+00:04:50,163 --> 00:04:54,637
+which takes this value in
+units of inverse meters.
+
+60
+00:04:54,637 --> 00:04:59,414
+And so the energy levels
+of the hydrogen atom can be
+
+61
+00:04:59,414 --> 00:05:04,197
+conveniently expressed
+in complete dimensional
+
+62
+00:05:04,197 --> 00:05:09,316
+form in terms of the product,
+the Rydberg constant,
+
+63
+00:05:09,316 --> 00:05:14,120
+and Planck's constant,
+and the speed of light.
+
+64
+00:05:14,120 --> 00:05:17,720
+And this number R infinity hc
+
+65
+00:05:17,720 --> 00:05:21,870
+is approximately equal to this
+number in electron volts.
+
+66
+00:05:21,870 --> 00:05:29,960
+That's the energy change that
+you get by moving an electron
+
+67
+00:05:29,960 --> 00:05:35,390
+through a potential difference of 13.6
+volts, about the voltage of a car battery.
+
+68
+00:05:38,170 --> 00:05:42,490
+Now another thing that falls out very
+nicely from the Bohr theory, and
+
+69
+00:05:44,700 --> 00:05:50,170
+at least this type of scaling is
+retained in modern quantum mechanics,
+
+70
+00:05:50,170 --> 00:05:54,270
+is the relationship between
+the radius of the orbit and
+
+71
+00:05:54,270 --> 00:05:56,162
+the so-called principle quantum number.
+
+72
+00:05:57,820 --> 00:06:02,454
+So the radius goes as a square,
+the principal quantum number, and
+
+73
+00:06:02,454 --> 00:06:07,423
+the coefficient of proportionality's
+the length, the Bohr radius,
+
+74
+00:06:07,423 --> 00:06:09,187
+which takes this value.
+
+75
+00:06:18,807 --> 00:06:22,127
+I guess you'd say that's 53
+picometers approximately.
+
+76
+00:06:26,747 --> 00:06:30,899
+Now there's another important relation,
+
+77
+00:06:30,899 --> 00:06:35,955
+which I'll just let you
+discover in the inline quiz.
+
+78
+00:06:35,955 --> 00:06:42,856
+So the varial relationship that you got
+through working through the inline quiz,
+
+79
+00:06:42,856 --> 00:06:48,658
+yet again, the constants of
+proportionality that connect the total
+
+80
+00:06:48,658 --> 00:06:55,677
+energy with the expectation value of the
+kinetic energy and the potential energy.
+
+81
+00:06:55,677 --> 00:07:00,297
+Those are preserved in
+modern quantum mechanics.
+
+82
+00:07:00,297 --> 00:07:06,850
+Now, well,
+we said Bohr had a great breakthrough.
+
+83
+00:07:06,850 --> 00:07:08,297
+What's the basis for that judgement?
+
+84
+00:07:08,297 --> 00:07:14,077
+One was just these spectacular
+agreement with experiment.
+
+85
+00:07:14,077 --> 00:07:21,634
+So again, the frequency of the spectral
+line, the inverse of the wavelength and
+
+86
+00:07:21,634 --> 00:07:26,207
+spectral line is given
+by an energy difference.
+
+87
+00:07:26,207 --> 00:07:31,127
+And so it was possible to
+compute all the possible
+
+88
+00:07:31,127 --> 00:07:36,417
+energy differences according
+to the Bohr formula.
+
+89
+00:07:36,417 --> 00:07:42,031
+And, this as we shall see,
+gave an account of all the known
+
+90
+00:07:42,031 --> 00:07:47,772
+lines of hydrogen,
+solved some other problems and predict

@@ -1,0 +1,328 @@
+WEBVTT
+
+00:00.150 --> 00:06.210
+Problem 3 now we have a potential difference of one hundred volts here is applied across two of them
+
+00:06.210 --> 00:08.360
+that are in series with each other.
+
+00:08.460 --> 00:08.720
+All right.
+
+00:08.730 --> 00:14.220
+They give us the capacitance of only see one and they also say we have a voltage across it.
+
+00:14.220 --> 00:16.320
+That's seventy five volts.
+
+00:16.440 --> 00:19.700
+So first question what's the voltage across the second one.
+
+00:19.730 --> 00:23.180
+Okay so imagine I measure the voltage right here.
+
+00:23.250 --> 00:24.780
+What value would I get.
+
+00:24.900 --> 00:28.600
+Again whatever voltage I have over here one hundred I have to have.
+
+00:28.620 --> 00:35.580
+They have to sum to the voltage across both capacitors like this because they're going to be in series.
+
+00:35.580 --> 00:35.850
+All right.
+
+00:35.850 --> 00:43.250
+So v total that we would kind of write that as an equation has to be the voltage across capacitor C
+
+00:43.250 --> 00:46.560
+one plus the voltage across capacitor C two.
+
+00:46.560 --> 00:47.910
+So this is one hundred.
+
+00:48.120 --> 00:54.360
+And I've given you that V.C. one is is seventy five.
+
+00:54.850 --> 00:58.640
+So right here this here has to be seventy five.
+
+00:58.650 --> 01:05.100
+So you have to have that the voltage across capacitor C two should be twenty five volts.
+
+01:05.220 --> 01:05.510
+OK.
+
+01:05.550 --> 01:08.370
+You have to have twenty five volts right here.
+
+01:08.370 --> 01:08.610
+All right.
+
+01:08.640 --> 01:09.540
+So that's it for that one.
+
+01:09.540 --> 01:10.440
+That's pretty straightforward.
+
+01:10.440 --> 01:16.780
+Find the capacitance see to it what is this capacitance C2.
+
+01:16.860 --> 01:18.740
+Well how do we do this.
+
+01:19.020 --> 01:25.670
+If I was gonna write an equation well one capacitor equation I could write is that the charge on capacitor
+
+01:25.670 --> 01:30.640
+C two is its capacitance and multiplied by the voltage which I just calculated.
+
+01:31.570 --> 01:31.890
+OK.
+
+01:31.920 --> 01:36.780
+So if I knew how to calculate the charge then I could easily get to this because I know this is twenty
+
+01:36.780 --> 01:38.200
+five volts.
+
+01:38.430 --> 01:39.660
+So how do we get the charge.
+
+01:39.660 --> 01:46.440
+Well there's one thing to know about capacitors in series is that the charge has to be the same on all
+
+01:46.440 --> 01:47.480
+the capacitors.
+
+01:48.000 --> 01:53.350
+So what I could do is I could use this in order to find the capacity C2.
+
+01:53.580 --> 01:55.330
+So what would be the charge on Q one.
+
+01:55.340 --> 02:01.950
+I'd have a same equation here except for Q one so I would have the capacity and C one multiplied by
+
+02:01.950 --> 02:04.550
+the voltage across c 1.
+
+02:04.630 --> 02:10.610
+And again this here has to be equal to C2 multiplied by the voltage across C two.
+
+02:10.680 --> 02:18.210
+So let's just rearrange just to get one final expression for the capacitance C to see one again multiplied
+
+02:18.210 --> 02:21.060
+by the ratio of both of these.
+
+02:21.060 --> 02:22.460
+So this is easy to evaluate.
+
+02:22.460 --> 02:29.670
+I'm just gonna leave this in micro Feride so this is 10 micro Feride and the ratio of the voltages here
+
+02:29.670 --> 02:33.230
+I have seventy five and here I have twenty five.
+
+02:34.170 --> 02:41.170
+So this here gives me three multiplied by ten so C two has to be thirty micro Feride.
+
+02:41.460 --> 02:44.530
+All right so I mean go ahead and write that on the figure over here.
+
+02:44.750 --> 02:45.090
+Okay.
+
+02:45.110 --> 02:46.080
+So that wasn't too bad.
+
+02:46.560 --> 02:49.570
+What's the equivalent capacitance of the system.
+
+02:49.660 --> 02:54.900
+So there's kind of two ways to do this one one is to again remember that they are in series and if you
+
+02:54.900 --> 03:01.770
+have capacitors in series or the equivalent capacitance is the sum of the reciprocal equals one over
+
+03:01.770 --> 03:04.430
+the reciprocal of the equivalent.
+
+03:04.650 --> 03:08.620
+It's the opposite when you do circuits with resistors.
+
+03:08.730 --> 03:13.740
+So in here again I'm just gonna leave everything in microfiber adds and have one over 10 plus one over
+
+03:13.740 --> 03:14.520
+30.
+
+03:14.530 --> 03:15.080
+Okay.
+
+03:15.140 --> 03:17.450
+And now you've got to do a bit of math over here.
+
+03:17.640 --> 03:22.080
+What I'd probably do is put this on a common denominator of 30.
+
+03:22.080 --> 03:29.280
+So if I do three over 30 plus one over 30 excuse me for over 30.
+
+03:29.380 --> 03:30.820
+OK so see equivalent.
+
+03:30.810 --> 03:35.730
+Now just gotta flip that fraction thirty over four.
+
+03:36.190 --> 03:36.520
+Okay.
+
+03:36.540 --> 03:41.610
+So the equivalent one should be equal to seven point five micro Feride.
+
+03:41.640 --> 03:48.060
+Notice that the equivalent is smaller than any one of the capacitors in a circuit.
+
+03:48.780 --> 03:49.290
+Okay.
+
+03:49.380 --> 03:54.600
+So this is kind of a one way of doing this another way of doing it is again if I replace this with an
+
+03:54.600 --> 04:00.690
+equivalent capacitance I'm going to get that the charge is also equal to the charge on the equivalent
+
+04:00.690 --> 04:06.270
+capacitance and I know what the charge is I can calculate that pretty easily because I know the capacitance
+
+04:06.270 --> 04:11.580
+that I know the voltage so at the end what you could do here is simply use that equation right there
+
+04:12.080 --> 04:18.780
+that the equivalent capacitance the charge on it is equal to the capacitance multiplied by the voltage
+
+04:18.780 --> 04:24.570
+across the voltage across would be simply a hundred volts.
+
+04:24.780 --> 04:25.030
+All right.
+
+04:25.050 --> 04:30.600
+So how much charge is on the equivalence I can use any one of those I can use kind of Q One multiplied
+
+04:30.600 --> 04:36.540
+by the voltage across it and that's C equivalence multiplied by one hundred.
+
+04:36.540 --> 04:36.860
+All right.
+
+04:36.920 --> 04:41.310
+So C1 I'm sorry I wrote a mistake over here.
+
+04:41.310 --> 04:45.510
+This should be c 1 C1.
+
+04:45.620 --> 04:45.930
+Okay.
+
+04:45.960 --> 04:51.500
+So again just multiplying that through so we're gonna have 10 micro ad for this.
+
+04:51.500 --> 04:59.880
+The voltage across C was seventy five and that equals to the equivalent capacitance multiplied by 100
+
+05:00.740 --> 05:05.660
+anyway you could see here at the end we're going to get the same value we're still going to get C equivalent
+
+05:06.170 --> 05:09.730
+equals to seven point five micro Feride.
+
+05:10.090 --> 05:10.530
+Okay.
+
+05:10.580 --> 05:16.030
+So that's kind of a another way of doing it for this problem quickly running out of space here.
+
+05:16.040 --> 05:16.190
+Oh.
+
+05:16.210 --> 05:18.960
+So how much charges on each capacitance.
+
+05:18.960 --> 05:19.080
+No.
+
+05:19.100 --> 05:20.710
+This is super easy to calculate.
+
+05:20.800 --> 05:21.140
+All right.
+
+05:21.140 --> 05:24.660
+Because we've we've used this equation several times.
+
+05:24.860 --> 05:33.360
+So let's just go ahead it's the same charge on each capacitor so once we know this again I may as well
+
+05:33.360 --> 05:36.330
+just use this one the equivalent multiplied by the voltage.
+
+05:36.330 --> 05:37.770
+That's all you need.
+
+05:37.770 --> 05:40.630
+It doesn't matter which one you choose.
+
+05:40.710 --> 05:43.610
+We have to have the same charge.
+
+05:43.650 --> 05:47.700
+For me it's just easier to use the equivalence right now since I just calculate the value.
+
+05:47.700 --> 05:54.240
+So the charge is going to be equal to C equivalent multiplied by V across the equivalent capacitor which
+
+05:54.240 --> 05:56.010
+is 100 volts.
+
+05:56.100 --> 05:58.980
+So this is seven point five.
+
+05:58.980 --> 06:05.900
+Now I'm gonna go to Fair Ed so it's negative six Feride and multiplied by a hundred.
+
+06:06.010 --> 06:06.670
+Okay.
+
+06:06.840 --> 06:10.330
+So at the end I should get 750.
+
+06:10.390 --> 06:14.520
+This will be in times 10 to the negative six.
+
+06:14.520 --> 06:17.870
+Cool on this is the total charge.
+
+06:17.880 --> 06:21.800
+So I'm running out of space here okay.
+
+06:21.830 --> 06:25.580
+Anyway that's how you would calculate how much charge there is on the capacitor.
+
+06:25.580 --> 06:28.370
+And again it doesn't matter which equation you use over here.
+
+06:28.370 --> 06:34.490
+If you use any of the other ones you can use Q1 or Q2 you know the value of the capacitance multiplied
+
+06:34.490 --> 06:35.530
+by the voltage across.
+
+06:35.530 --> 06:41.720
+You could see that all these products are going to end up giving you a 750 times tend to the negative
+
+06:41.720 --> 06:42.260
+six.

@@ -1,0 +1,977 @@
+WEBVTT
+
+1
+00:00:00.720 --> 00:00:04.660
+Now we're going to rely on
+wave particle duality to use
+
+2
+00:00:04.660 --> 00:00:09.150
+the form of the main equation of quantum
+physics, the SchrÃ¶dinger equation.
+
+3
+00:00:10.180 --> 00:00:12.010
+But before going into this main part,
+
+4
+00:00:12.010 --> 00:00:16.390
+let me ask the following question,
+which picture is more fundamental?
+
+5
+00:00:16.390 --> 00:00:18.700
+The particle based picture,
+or the wave based picture?
+
+6
+00:00:19.890 --> 00:00:23.180
+So here I have an example of what
+we usually mean by particle.
+
+7
+00:00:23.180 --> 00:00:26.450
+In this case, here's a baseball, and
+
+8
+00:00:26.450 --> 00:00:32.010
+this is an object which has a well defined
+velocity and position at any given time.
+
+9
+00:00:33.060 --> 00:00:38.090
+We can identify it's position simply just
+by looking at it and measure its velocity.
+
+10
+00:00:38.090 --> 00:00:40.600
+In contrast,
+when we're talking about waves,
+
+11
+00:00:40.600 --> 00:00:45.790
+it doesn't really make sense to ask
+the question where the wave is located.
+
+12
+00:00:45.790 --> 00:00:47.630
+So here in this example,
+
+13
+00:00:47.630 --> 00:00:52.500
+I'm showing the wave which is
+generated using a rope and just by
+
+14
+00:00:52.500 --> 00:00:57.110
+looking at it you realize that there
+is no well-defined position of a wave.
+
+15
+00:00:58.330 --> 00:01:04.080
+However, what we can do, we can define
+the wave velocity and wave vector,
+
+16
+00:01:04.080 --> 00:01:09.000
+and also we can describe a wave
+using this mathematical expression.
+
+17
+00:01:10.060 --> 00:01:13.530
+So in this expression,
+u is the displacement.
+
+18
+00:01:13.530 --> 00:01:15.180
+So in this particular example,
+
+19
+00:01:15.180 --> 00:01:20.070
+u is the vertical displacement which is
+a function of the coordinate and time.
+
+20
+00:01:20.070 --> 00:01:23.300
+And the x coordinate is
+this horizontal direction.
+
+21
+00:01:23.300 --> 00:01:27.240
+And for a simple sinusoidal wave, this is
+a kind of expression we're going to get.
+
+22
+00:01:28.610 --> 00:01:33.870
+Now, the relation between the wavelength
+and the wave vector is lambda,
+
+23
+00:01:33.870 --> 00:01:39.720
+the wavelength,
+is equal to 2 pi over the wave vector key.
+
+24
+00:01:39.720 --> 00:01:44.030
+And the relation between the frequency,
+omega, and
+
+25
+00:01:44.030 --> 00:01:48.400
+the velocity of the wave, so the velocity
+is essentially the coefficient of
+
+26
+00:01:48.400 --> 00:01:52.380
+proportionality between omega and
+the wave vector key.
+
+27
+00:01:54.040 --> 00:01:58.220
+There are actually two types of
+commonly used expressions to describe
+
+28
+00:01:58.220 --> 00:02:01.690
+a simple sinusoidal wave such as this one.
+
+29
+00:02:01.690 --> 00:02:03.680
+So the one I just described and
+
+30
+00:02:03.680 --> 00:02:08.930
+also the one using this
+exponential of a complex argument.
+
+31
+00:02:08.930 --> 00:02:13.160
+So i here is the square root of minus one.
+
+32
+00:02:13.160 --> 00:02:15.650
+And they are equivalent to one another.
+
+33
+00:02:15.650 --> 00:02:20.330
+So here, the balance is established
+by simply remembering that
+
+34
+00:02:20.330 --> 00:02:26.430
+exponential of i times some
+real constant let's say x,
+
+35
+00:02:26.430 --> 00:02:31.410
+is equal to cosine of x, plus i sine of x.
+
+36
+00:02:31.410 --> 00:02:36.290
+So this is, this equivalence in
+this case is simply an identity.
+
+37
+00:02:38.480 --> 00:02:42.040
+In the future we mostly will be dealing
+with this description of a wave,
+
+38
+00:02:42.040 --> 00:02:45.830
+in terms of the exponential
+of a complex number, and
+
+39
+00:02:45.830 --> 00:02:48.580
+often times, we're not going to
+actually see this imaginary part.
+
+40
+00:02:48.580 --> 00:02:51.310
+The real part, we're simply
+going to be describing a plane wave
+
+41
+00:02:51.310 --> 00:02:53.020
+in terms of this exponential.
+
+42
+00:02:53.020 --> 00:02:54.430
+So don't be surprised to see that.
+
+43
+00:02:55.800 --> 00:03:00.800
+Now going back to the question about which
+feature is more fundamental, particles or
+
+44
+00:03:00.800 --> 00:03:02.140
+waves.
+
+45
+00:03:02.140 --> 00:03:04.910
+I'm going to make
+a statement that the latter,
+
+46
+00:03:04.910 --> 00:03:08.480
+the waves are more
+fundamental than particles.
+
+47
+00:03:08.480 --> 00:03:11.930
+Because we cannot represent
+the wave in terms of a particle but
+
+48
+00:03:11.930 --> 00:03:16.160
+we certainly can represent
+a particle in terms of waves and
+
+49
+00:03:16.160 --> 00:03:21.250
+this representation in the mathematical
+language is called Fourier transform.
+
+50
+00:03:22.710 --> 00:03:26.480
+So Fourier transform, so
+here is a generic mathematical
+
+51
+00:03:26.480 --> 00:03:30.950
+example of a Fourier transform for
+some arbitrary function f(x).
+
+52
+00:03:30.950 --> 00:03:35.110
+And in this case, so
+this ace of k represents so
+
+53
+00:03:35.110 --> 00:03:40.830
+called free harmonics or
+amplitudes of this function f of x and
+
+54
+00:03:40.830 --> 00:03:45.720
+this guy's for ikx, in some sense,
+
+55
+00:03:45.720 --> 00:03:49.990
+responds to a snap shot of
+a wave at any given time.
+
+56
+00:03:51.440 --> 00:03:56.760
+So by decomposing an arbitrary reasonable
+function into this Fourier harmonics,
+
+57
+00:03:56.760 --> 00:04:01.800
+we essentially are representing
+as a linear combination of waves.
+
+58
+00:04:01.800 --> 00:04:06.342
+In particular what we can do,
+we can consider, let's say in this case,
+
+59
+00:04:06.342 --> 00:04:13.870
+function f(x) which has a very sharp
+
+60
+00:04:13.870 --> 00:04:19.550
+peak with some spread-out narrow width
+around this location, let's say delta x.
+
+61
+00:04:19.550 --> 00:04:23.690
+And so if this is our f(x), so
+
+62
+00:04:23.690 --> 00:04:26.880
+we can represent this f(x)
+in terms of these waves.
+
+63
+00:04:26.880 --> 00:04:31.160
+And this would be a decomposition of
+a particle like amplitude in the waves.
+
+64
+00:04:32.610 --> 00:04:37.140
+Now going back to quantum mechanics
+we can resolve a dilemma that was
+
+65
+00:04:37.140 --> 00:04:42.695
+presented by the experiments which
+revealed wave particle duality.
+
+66
+00:04:42.695 --> 00:04:47.990
+The dilemma being of how we want to
+describe our quantum mechanical objects
+
+67
+00:04:47.990 --> 00:04:50.050
+either as particles or waves.
+
+68
+00:04:50.050 --> 00:04:54.180
+And according to the discussion in the
+previous slides, it seems reasonable to
+
+69
+00:04:54.180 --> 00:04:59.860
+try describe quantum mechanical objects
+in a more general form as waves.
+
+70
+00:05:00.950 --> 00:05:05.940
+And what I have in mind here are the
+experiments of the type by Davidson and
+
+71
+00:05:05.940 --> 00:05:11.760
+Germer who saw that electrons when
+being reflected from a crystalline
+
+72
+00:05:11.760 --> 00:05:16.660
+structure, they exhibit interference
+like patterns just like light would do.
+
+73
+00:05:16.660 --> 00:05:20.520
+If we wanted to describe
+interference of light,
+
+74
+00:05:20.520 --> 00:05:25.830
+we actually know how to do it because we
+know how to solve Maxwell's equations.
+
+75
+00:05:25.830 --> 00:05:29.420
+So the solution of Maxwell's
+equations in vacuum
+
+76
+00:05:29.420 --> 00:05:33.952
+are called electro magnetic waves and in
+the case of free electro-magnetic wave we
+
+77
+00:05:33.952 --> 00:05:38.420
+would simply have written a plane wave
+just like in the previous slide, and so
+
+78
+00:05:38.420 --> 00:05:42.050
+this indeed would describe the data
+in terms of interference of light.
+
+79
+00:05:43.080 --> 00:05:47.860
+Now, having in mind these experiments,
+we established sort of
+
+80
+00:05:47.860 --> 00:05:52.040
+one to one correspondence between
+the interference of light and
+
+81
+00:05:52.040 --> 00:05:54.550
+interference of quantum electrons.
+
+82
+00:05:54.550 --> 00:05:59.640
+We are forced to write a plane wave
+to describe these quantum electrons.
+
+83
+00:05:59.640 --> 00:06:00.950
+So we're going to write, let's say for
+
+84
+00:06:00.950 --> 00:06:03.630
+electron, free electron
+moving in the x direction,
+
+85
+00:06:03.630 --> 00:06:09.810
+we're going to write this exponential
+to the power i kx minus omega t.
+
+86
+00:06:09.810 --> 00:06:11.590
+But without the left-hand side or
+
+87
+00:06:11.590 --> 00:06:15.770
+right-hand side, this is not
+a legitimate mathematical expression.
+
+88
+00:06:16.770 --> 00:06:21.560
+To make it such, we introduce
+essentially new mathematical object,
+
+89
+00:06:22.810 --> 00:06:26.630
+the wave function psi (xt).
+
+90
+00:06:26.630 --> 00:06:30.408
+And we, in some sense,
+postulate that free electrons,
+
+91
+00:06:30.408 --> 00:06:35.820
+I describe by this plane wave with some
+coefficient it's not very important.
+
+92
+00:06:35.820 --> 00:06:40.000
+Now, and k is the wave vector for
+an electron and
+
+93
+00:06:40.000 --> 00:06:41.440
+wt is the frequency of the electron.
+
+94
+00:06:42.470 --> 00:06:47.900
+Now, to relate k and
+omega to more familiar
+
+95
+00:06:47.900 --> 00:06:52.630
+physical properties such as momentum and
+energy,
+
+96
+00:06:52.630 --> 00:06:58.800
+recall the Duvall relations between them,
+between p and k and omega and energy.
+
+97
+00:06:58.800 --> 00:07:01.190
+And those relations are the full lengths,
+so
+
+98
+00:07:01.190 --> 00:07:06.444
+p is equal to the plane
+constant h bar times k and
+
+99
+00:07:06.444 --> 00:07:12.070
+energy is equal to h bar times w.
+
+100
+00:07:13.200 --> 00:07:17.690
+So, we may as well try this
+wave function for the electron
+
+101
+00:07:19.240 --> 00:07:24.970
+with now with momentum p as some
+coefficient e to the power i over h bar
+
+102
+00:07:26.440 --> 00:07:30.120
+p times x minus energy times t.
+
+103
+00:07:32.050 --> 00:07:38.700
+So we sort of postulated a solution
+to our quantum mechanical problem but
+
+104
+00:07:38.700 --> 00:07:42.310
+we don't have a problem yet
+we don't have a fundamental equation
+
+105
+00:07:42.310 --> 00:07:46.480
+that our wave functions electronic
+wave functions are going to satisfy.
+
+106
+00:07:47.980 --> 00:07:54.710
+So in order to figure out this equation we
+can recall the following simple equation,
+
+107
+00:07:54.710 --> 00:08:00.070
+namely the equation for the energy,
+the kinetic energy of a free particle, and
+
+108
+00:08:00.070 --> 00:08:06.070
+as most of you know, this kinetic
+energy is equal to m v squared over 2.
+
+109
+00:08:06.070 --> 00:08:08.860
+Or if we want to write
+it in terms of momentum,
+
+110
+00:08:08.860 --> 00:08:13.825
+momentum is mass times velocity so
+we can write it as p squared over 2m.
+
+111
+00:08:16.500 --> 00:08:19.940
+And now comes the main
+trick in figuring out or
+
+112
+00:08:19.940 --> 00:08:25.660
+guessing measure to c fundamental
+equation of quantum physics.
+
+113
+00:08:25.660 --> 00:08:28.520
+So first of all, we're going to
+demand that whatever equation we're
+
+114
+00:08:28.520 --> 00:08:32.750
+going to guess must give this
+plane wave as its solution.
+
+115
+00:08:33.990 --> 00:08:39.160
+And also we're going to demand that the
+energy which appears in this plane wave
+
+116
+00:08:39.160 --> 00:08:42.380
+must be related to momentum
+after this relation.
+
+117
+00:08:42.380 --> 00:08:45.430
+Basically, you must enforce that
+free electrons indeed have so
+
+118
+00:08:45.430 --> 00:08:48.400
+called free particle dispersion or
+free particle spectrum.
+
+119
+00:08:48.400 --> 00:08:50.980
+mv squared over 2 or p squared over 2m.
+
+120
+00:08:52.340 --> 00:08:54.710
+So this also must be satisfied.
+
+121
+00:08:54.710 --> 00:09:00.570
+Well, a reasonable naive guess, and it
+turns out to be incorrect let me just say,
+
+122
+00:09:00.570 --> 00:09:05.020
+would be to assume that the electron
+wave function satisfies
+
+123
+00:09:05.020 --> 00:09:08.409
+the usual wave equation.
+
+124
+00:09:10.230 --> 00:09:15.326
+So let's say in the one-dimensional
+case we would write
+
+125
+00:09:15.326 --> 00:09:22.120
+simply (d2) over (dx) squared minus
+one over the velocity of our wave,
+
+126
+00:09:22.120 --> 00:09:26.490
+(d2) over (dt) squared, psi equals to 0.
+
+127
+00:09:26.490 --> 00:09:31.280
+Now, if we plug either of these
+expressions in this equation and
+
+128
+00:09:31.280 --> 00:09:37.110
+you can check it as an exercise,
+we're going to get the familiar relation
+
+129
+00:09:37.110 --> 00:09:41.520
+between the frequency and the wave vector
+that I wrote in the previous slide or
+
+130
+00:09:41.520 --> 00:09:48.194
+the analogous expression for
+the energy and momentum.
+
+131
+00:09:48.194 --> 00:09:52.250
+But, it would work actually for
+electromagnetic waves.
+
+132
+00:09:52.250 --> 00:09:55.860
+It would work for photons which
+are quantum electromagnetic waves.
+
+133
+00:09:55.860 --> 00:10:00.450
+But, it does not manifestly work for
+electrons because this
+
+134
+00:10:00.450 --> 00:10:05.850
+linear relations between the energy and
+momentum is not the kind
+
+135
+00:10:05.850 --> 00:10:11.680
+of relation we are looking for, so,
+we must construct some other equation.
+
+136
+00:10:11.680 --> 00:10:14.820
+And the simplest such
+equation can be constructed,
+
+137
+00:10:14.820 --> 00:10:17.170
+let me just erase this part here.
+
+138
+00:10:18.180 --> 00:10:21.070
+So the simplest such
+equation can be constructed
+
+139
+00:10:21.070 --> 00:10:23.880
+if we notice that the derivative,
+
+140
+00:10:23.880 --> 00:10:29.780
+if we apply let's say the time derivative
+to this plane wave wave function side.
+
+141
+00:10:30.810 --> 00:10:34.920
+It's going to give us
+the same wave function but
+
+142
+00:10:34.920 --> 00:10:41.270
+multiplied with minus i over
+h bar times E, times psi.
+
+143
+00:10:41.270 --> 00:10:46.030
+So this is essentially the result of
+the action of this time derivative and
+
+144
+00:10:46.030 --> 00:10:50.687
+for the spatial derivative,
+we're going to get plus
+
+145
+00:10:50.687 --> 00:10:55.120
+i over h bar p times psi.
+
+146
+00:10:55.120 --> 00:10:57.753
+So this is the action of the x derivative.
+
+147
+00:11:01.083 --> 00:11:09.810
+And so we find here a clear correspondence
+between the energy and the derivative.
+
+148
+00:11:09.810 --> 00:11:12.774
+i h bar d / dt.
+
+149
+00:11:12.774 --> 00:11:18.045
+The momentum, in this case one-dimensional
+
+150
+00:11:18.045 --> 00:11:22.290
+momentum and -i h bar d / dx.
+
+151
+00:11:22.290 --> 00:11:25.830
+And of course, if we were to have
+a three-dimensional momentum,
+
+152
+00:11:25.830 --> 00:11:32.490
+momentum vector, we would need to write,
+-i h bar gradient.
+
+153
+00:11:32.490 --> 00:11:34.178
+Let me write it like this.
+
+154
+00:11:34.178 --> 00:11:40.470
+So this is called radiant,
+which is if we have a function,
+
+155
+00:11:40.470 --> 00:11:46.770
+let's say f is by definition df / dx.
+
+156
+00:11:46.770 --> 00:11:50.300
+The unit vector in the x direction,
+df over dy.
+
+157
+00:11:50.300 --> 00:11:58.190
+The unit vector in the y direction plus df
+over dz, unit vector in the z direction.
+
+158
+00:11:59.620 --> 00:12:06.270
+So, if we want to enforce the constraint
+
+159
+00:12:06.270 --> 00:12:11.140
+that the energy of the particle,
+E, is equal to p squared over 2m.
+
+160
+00:12:11.140 --> 00:12:13.850
+So we sort of forced
+
+161
+00:12:13.850 --> 00:12:18.190
+to construct the simplest equation that
+would do it in the following form.
+
+162
+00:12:18.190 --> 00:12:23.900
+So, let's say in the left hand side
+we're going to write our energy and
+
+163
+00:12:23.900 --> 00:12:29.220
+E i h bar d over dt acting
+on the wave function side,
+
+164
+00:12:29.220 --> 00:12:33.520
+and in the right-hand side we're going to
+write this so-called momentum operator.
+
+165
+00:12:33.520 --> 00:12:36.726
+Let me put the hat here.
+
+166
+00:12:36.726 --> 00:12:38.100
+P squared over 2 m.
+
+167
+00:12:39.790 --> 00:12:40.790
+Also acting on psi.
+
+168
+00:12:42.510 --> 00:12:47.940
+Now if we write it explicitly as
+a mathematical differential equation, i h
+
+169
+00:12:47.940 --> 00:12:53.810
+bar d over dt,
+p squared over 2m will follow from here.
+
+170
+00:12:53.810 --> 00:12:58.250
+So i squared gives us minus one,
+h squared is h squared and
+
+171
+00:12:58.250 --> 00:13:02.302
+this gradient squared is called LaPlacian.
+
+172
+00:13:02.302 --> 00:13:04.860
+So it's just the usual notation for
+
+173
+00:13:04.860 --> 00:13:09.200
+this LaPlacian is either these gradient
+squared explicitly or this triangle.
+
+174
+00:13:10.500 --> 00:13:15.050
+So moving this p squared over 2 m to
+the left hand side I can write it as
+
+175
+00:13:15.050 --> 00:13:20.080
+plus h squared, the LaPlacian divided
+
+176
+00:13:20.080 --> 00:13:24.866
+by two m and this whole thing acts on
+the wave function which in the three
+
+177
+00:13:24.866 --> 00:13:29.470
+dimensional case is a function of the
+three dimensional position r and times t.
+
+178
+00:13:31.530 --> 00:13:35.560
+And this equation is the free
+Schroedinger equation
+
+179
+00:13:38.220 --> 00:13:43.190
+which we sort of derived, but of course
+we should use the word derived in quotes
+
+180
+00:13:43.190 --> 00:13:47.800
+because there is no way we can derive
+a fundamental law of physics and
+
+181
+00:13:47.800 --> 00:13:51.100
+Schroedinger equation is
+an example of such a law.
+
+182
+00:13:52.518 --> 00:13:57.500
+So our derivation is nothing but a guess,
+but it's a very convenient guess.
+
+183
+00:13:57.500 --> 00:14:01.880
+Because it allows us to
+generalize this equation
+
+184
+00:14:01.880 --> 00:14:04.300
+to a very important class of problems.
+
+185
+00:14:04.300 --> 00:14:09.940
+Namely to the problems where
+the electrons are not free electrons but
+
+186
+00:14:09.940 --> 00:14:12.040
+move in the presence of a potential.
+
+187
+00:14:14.070 --> 00:14:19.230
+So to see how this happens let me
+sort of identify the right-hand
+
+188
+00:14:19.230 --> 00:14:24.570
+side of this equation in this
+form with an energy operator,
+
+189
+00:14:24.570 --> 00:14:28.130
+which in quantum mechanics
+is called Hamiltonian.
+
+190
+00:14:28.130 --> 00:14:32.192
+So this operator H hat is a very
+important object in quantum mechanics,
+
+191
+00:14:32.192 --> 00:14:34.575
+let me actually write it, Hamiltonian.
+
+192
+00:14:36.721 --> 00:14:42.277
+And in the case of the free particle,
+it is simply this kinetic energy,
+
+193
+00:14:42.277 --> 00:14:48.668
+but, it's very natural to generalize it
+to the case of an interacting particle or
+
+194
+00:14:48.668 --> 00:14:54.223
+particle in the potential in which
+case I will write p squared over 2m,
+
+195
+00:14:54.223 --> 00:14:58.513
+the kinetic energy,
+plus the potential energy V of r.
+
+196
+00:14:58.513 --> 00:15:04.200
+And if I do so, and
+if I write the resulting equation
+
+197
+00:15:04.200 --> 00:15:09.092
+as i h bar d psi over dt
+on the left hand side and
+
+198
+00:15:09.092 --> 00:15:13.213
+in the right hand side this h hat psi.
+
+199
+00:15:13.213 --> 00:15:17.712
+So this actually becomes
+the fundamental equation of quantum
+
+200
+00:15:17.712 --> 00:15:22.123
+physics that actually appears
+on the logo of our course, and
+
+201
+00:15:22.123 --> 00:15:27.312
+which quite amazingly contains just
+about all of non-relativistic,
+
+202
+00:15:27.312 --> 00:15:29.907
+well, single particle physics and
+
+203
+00:15:29.907 --> 00:15:34.940
+it can be generalized also to
+describe many particle physics.
+
+204
+00:15:34.940 --> 00:15:39.790
+So, the theory of Methos, the super
+conductors, pretty much everything we can
+
+205
+00:15:39.790 --> 00:15:46.010
+imagine that doesn't involve relativistic
+effects, is contained in this equation.

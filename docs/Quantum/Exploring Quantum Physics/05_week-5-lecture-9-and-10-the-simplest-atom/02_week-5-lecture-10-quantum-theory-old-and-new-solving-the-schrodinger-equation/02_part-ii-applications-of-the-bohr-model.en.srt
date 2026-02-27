@@ -1,0 +1,832 @@
+1
+00:00:02,180 --> 00:00:04,181
+Hello, everyone.
+Welcome back to Exploring Quantum Physics.
+
+2
+00:00:04,181 --> 00:00:05,689
+I'm Charles Clark.
+
+3
+00:00:05,689 --> 00:00:09,896
+Now we're going to look briefly at some of
+the many applications of the Bohr model.
+
+4
+00:00:13,907 --> 00:00:18,708
+I'll remind you again that
+it can be found, sorry,
+
+5
+00:00:18,708 --> 00:00:24,382
+a copy of Bohr's paper can be
+found in the original scientific
+
+6
+00:00:24,382 --> 00:00:29,399
+literature, and
+you probably will need to look at that
+
+7
+00:00:29,399 --> 00:00:34,000
+in order to successfully
+complete the homework.
+
+8
+00:00:34,000 --> 00:00:38,091
+Plus, and
+I'll try not to keep saying this over and
+
+9
+00:00:38,091 --> 00:00:42,565
+over again,
+if you read some of Bohr's original work,
+
+10
+00:00:42,565 --> 00:00:48,200
+then you'll be a step above most
+physicists, who have never done so.
+
+11
+00:00:48,200 --> 00:00:54,402
+They've only read of his work by
+people who have interpreted it,
+
+12
+00:00:54,402 --> 00:01:01,300
+so it's a chance to do something
+original and creative, in my opinion.
+
+13
+00:01:05,343 --> 00:01:11,989
+Okay, so here's Bohr's energy
+expression once again,
+
+14
+00:01:11,989 --> 00:01:19,585
+so reminding you R infinity has
+the dimensions of inverse length,
+
+15
+00:01:19,585 --> 00:01:25,030
+H bar c is energy times length,
+n is an integer.
+
+16
+00:01:25,030 --> 00:01:29,274
+And so
+the basic idea that Bohr had was that
+
+17
+00:01:29,274 --> 00:01:34,246
+these define a system of
+stationary states, but
+
+18
+00:01:34,246 --> 00:01:38,733
+those stationary states
+can be disturbed by
+
+19
+00:01:38,733 --> 00:01:44,687
+the electromagnetic field
+which can cause transitions.
+
+20
+00:01:44,687 --> 00:01:51,742
+So absorption of a quantum of light
+can either increase the energy,
+
+21
+00:01:51,742 --> 00:01:56,956
+raise the electron from
+a lower to a higher orbit.
+
+22
+00:01:56,956 --> 00:02:04,940
+Or emission of a photon can cause an
+excited state to fall to the ground state.
+
+23
+00:02:04,940 --> 00:02:10,106
+And this idea is still an essential
+part of quantum theory.
+
+24
+00:02:10,106 --> 00:02:16,228
+The main point is there is
+fundamentally a lowest state.
+
+25
+00:02:16,228 --> 00:02:21,808
+So in the fullness of time
+things will radiate down there.
+
+26
+00:02:21,808 --> 00:02:28,575
+So these are the expressions
+that one gets for
+
+27
+00:02:28,575 --> 00:02:32,502
+the inverse wavelength.
+
+28
+00:02:32,502 --> 00:02:38,409
+This is why the Rydberg
+constant is expressed
+
+29
+00:02:38,409 --> 00:02:43,699
+in this strange unit of inverse meters.
+
+30
+00:02:43,699 --> 00:02:48,776
+It's in some sense a historical
+artifact that the wavelength of light
+
+31
+00:02:48,776 --> 00:02:55,530
+is something that was very easy to measure
+by diffraction interference experiments.
+
+32
+00:02:55,530 --> 00:02:59,740
+Frequency, on the other hand,
+is hard to measure directly, even today.
+
+33
+00:03:02,040 --> 00:03:07,620
+So the inverse wavelengths of the light
+are given by this simple formula.
+
+34
+00:03:07,620 --> 00:03:12,087
+So for the infinite nuclear mass it's
+just a Rydberg constant divided by these
+
+35
+00:03:12,087 --> 00:03:12,771
+integers.
+
+36
+00:03:12,771 --> 00:03:17,625
+For finite mass,
+which is something we're going to talk
+
+37
+00:03:17,625 --> 00:03:22,268
+about momentarily,
+there is a factor of the value of
+
+38
+00:03:22,268 --> 00:03:27,031
+the reduced mass divided by
+the mass of the electron.
+
+39
+00:03:31,090 --> 00:03:35,143
+So these famous lines seen both
+in emission and absorption,
+
+40
+00:03:35,143 --> 00:03:40,070
+the Balmer series, the visible part
+of the spectrum of atomic hydrogen,
+
+41
+00:03:40,070 --> 00:03:42,622
+were all explained by the Bohr model.
+
+42
+00:03:42,622 --> 00:03:49,619
+Furthermore, There
+
+43
+00:03:49,619 --> 00:03:55,383
+were other lines that were known
+at the time in the infrared,
+
+44
+00:03:55,383 --> 00:04:00,582
+the so-called Paschen series,
+and Bohr also applied
+
+45
+00:04:00,582 --> 00:04:06,685
+to his model to helium-plus,
+where you change the value of z and
+
+46
+00:04:06,685 --> 00:04:13,377
+now you get predictions of where
+the lines of helium-plus should be.
+
+47
+00:04:13,377 --> 00:04:18,117
+And so in the paper that we have
+available in the additional materials,
+
+48
+00:04:18,117 --> 00:04:23,015
+he shows that he can explain all the known
+lines of hydrogen, and then also
+
+49
+00:04:23,015 --> 00:04:28,563
+explained the so-called Pickering series
+lines as being lines of helium-plus.
+
+50
+00:04:28,563 --> 00:04:31,535
+There was some uncertainty
+at the time as to whether,
+
+51
+00:04:31,535 --> 00:04:34,056
+many people thought they were for
+hydrogen.
+
+52
+00:04:34,056 --> 00:04:40,996
+Then immediately following Bohr's work,
+within early the next year,
+
+53
+00:04:40,996 --> 00:04:46,571
+Lyman, a famous spectroscopist
+at Harvard University,
+
+54
+00:04:46,571 --> 00:04:51,820
+looked in the far ultraviolet
+region of the spectrum.
+
+55
+00:04:51,820 --> 00:04:56,175
+It's a very difficult technological
+region that hadn't really been explored
+
+56
+00:04:56,175 --> 00:04:56,958
+previously.
+
+57
+00:04:56,958 --> 00:05:01,387
+And he found lines with n1 = 1,
+
+58
+00:05:01,387 --> 00:05:05,827
+that's the lowest value of n1.
+
+59
+00:05:05,827 --> 00:05:10,264
+n1 must be greater than or
+equal to 1 in Bohr's theory.
+
+60
+00:05:10,264 --> 00:05:14,269
+So he found another series.
+
+61
+00:05:14,269 --> 00:05:18,252
+1922, the series with n1 = 2,
+
+62
+00:05:18,252 --> 00:05:22,491
+n1 = 3 were accounted for at the time.
+
+63
+00:05:22,491 --> 00:05:25,544
+n1 = 4 was discovered 1922.
+
+64
+00:05:25,544 --> 00:05:28,800
+Shortly thereafter when the n1 = 5,
+and so on.
+
+65
+00:05:28,800 --> 00:05:30,298
+They just keep going and going and going.
+
+66
+00:05:30,298 --> 00:05:34,961
+At some point they stop naming,
+actually not a some point, at n = 6,
+
+67
+00:05:34,961 --> 00:05:38,915
+they stopped naming these
+series after their discoverer,
+
+68
+00:05:38,915 --> 00:05:44,073
+because it became appreciated there's
+an infinite number of these series.
+
+69
+00:05:47,195 --> 00:05:52,439
+Indeed, here's a fairly
+recent paper that shows just
+
+70
+00:05:52,439 --> 00:05:58,500
+how striking this phenomenon
+of the Bohr-like series is.
+
+71
+00:05:58,500 --> 00:06:03,522
+These are absorption lines seen, so
+
+72
+00:06:03,522 --> 00:06:10,812
+there's an interstellar
+cloud that is between us and
+
+73
+00:06:10,812 --> 00:06:16,000
+the supernova remnant Cassiopeia A.
+
+74
+00:06:17,850 --> 00:06:21,977
+And this is a spectrum, I don't know
+if you can read it that clearly here,
+
+75
+00:06:21,977 --> 00:06:23,790
+in the radio frequency region.
+
+76
+00:06:23,790 --> 00:06:30,320
+These are numbers like 25 MHz.
+
+77
+00:06:31,520 --> 00:06:36,970
+And you see this regular
+series of absorption lines,
+
+78
+00:06:36,970 --> 00:06:42,418
+all very sharp, and
+they satisfy the Bohr formula but
+
+79
+00:06:42,418 --> 00:06:47,260
+now the values of n are not
+of the order of 1, but
+
+80
+00:06:47,260 --> 00:06:50,431
+range up to about 1,000.
+
+81
+00:06:50,431 --> 00:06:54,511
+Now if you recall,
+the radius in the Bohr model
+
+82
+00:06:54,511 --> 00:06:59,323
+goes as the square of
+the principal quantum number, so
+
+83
+00:06:59,323 --> 00:07:04,985
+these are atoms that are 1 million
+times larger than hydrogen.
+
+84
+00:07:04,985 --> 00:07:09,220
+They're the size of a bacteria.
+
+85
+00:07:11,190 --> 00:07:14,054
+And so this relationship,
+
+86
+00:07:14,054 --> 00:07:19,283
+the Bohr frequency of from
+what you've seen now,
+
+87
+00:07:19,283 --> 00:07:25,560
+it's observed to hold over
+eight decades of frequency.
+
+88
+00:07:25,560 --> 00:07:30,975
+This is sort of
+the the Lyman-alpha region,
+
+89
+00:07:30,975 --> 00:07:36,829
+optical frequencies down
+into the radio waves.
+
+90
+00:07:36,829 --> 00:07:40,938
+So it's a great unifying concept, and
+
+91
+00:07:40,938 --> 00:07:45,917
+even though, as we'll see or
+as you must know,
+
+92
+00:07:45,917 --> 00:07:52,529
+Bohr described things purely in
+terms of the classical orbit.
+
+93
+00:07:52,529 --> 00:07:56,985
+He didn't have the essence of
+quantum mechanics in terms of
+
+94
+00:07:56,985 --> 00:08:01,989
+the superposition principle and
+the existence of wave function.
+
+95
+00:08:01,989 --> 00:08:08,652
+Nevertheless, it's extremely valuable
+mnemonic and organizing concept.
+
+96
+00:08:08,652 --> 00:08:14,161
+Now I want to mention another
+aspect of the Bohr model which
+
+97
+00:08:14,161 --> 00:08:20,461
+is very important in a fundamental
+discovery in nuclear physics,
+
+98
+00:08:20,461 --> 00:08:25,087
+the discovery of the heavy
+isotope of hydrogen.
+
+99
+00:08:25,087 --> 00:08:28,913
+So as of this year, 1931,
+
+100
+00:08:28,913 --> 00:08:33,919
+which was 20 years after the Bohr model
+
+101
+00:08:33,919 --> 00:08:38,780
+approximately had been articulated,
+
+102
+00:08:38,780 --> 00:08:45,719
+atoms were thought to be made
+of protons and electrons.
+
+103
+00:08:45,719 --> 00:08:51,402
+The neutron was not known, but
+there was this curious phenomenon
+
+104
+00:08:51,402 --> 00:08:57,921
+that many elements had constituents
+that had slightly different masses.
+
+105
+00:08:57,921 --> 00:09:01,950
+They were chemically similar, but
+they had sightly different masses.
+
+106
+00:09:01,950 --> 00:09:06,980
+And this is a plot made by
+a man named Harold Urey,
+
+107
+00:09:06,980 --> 00:09:11,767
+a great chemist,
+which showed the filled dots
+
+108
+00:09:11,767 --> 00:09:17,307
+are the known isotopes,
+isotopes known at the time.
+
+109
+00:09:17,307 --> 00:09:22,341
+And he perceived a pattern
+here that led down
+
+110
+00:09:22,341 --> 00:09:30,538
+to the possible prediction of isotopes
+that had not yet been observed.
+
+111
+00:09:30,538 --> 00:09:35,526
+There are some other clues, and
+
+112
+00:09:35,526 --> 00:09:41,441
+actually in the additional materials
+
+113
+00:09:41,441 --> 00:09:48,844
+there's some guidance
+to those discoveries.
+
+114
+00:09:48,844 --> 00:09:50,910
+Those are these two contributions.
+
+115
+00:09:50,910 --> 00:09:56,837
+The discovery of deuterium, which is
+a collection of the original papers,
+
+116
+00:09:56,837 --> 00:10:01,464
+and then a sort of a simplified
+account written for, well,
+
+117
+00:10:01,464 --> 00:10:04,520
+a professional association journal,
+
+118
+00:10:04,520 --> 00:10:09,820
+which is a summary account of how
+deuterium was discovered by Urey.
+
+119
+00:10:12,220 --> 00:10:17,406
+I should mention that at the time,
+virtually all of the isotopes that
+
+120
+00:10:17,406 --> 00:10:22,550
+had been discovered had been discovered
+by mass spectrometry, in which
+
+121
+00:10:24,240 --> 00:10:29,190
+you put particles through a combination
+of cross-magnetic and electric fields and
+
+122
+00:10:29,190 --> 00:10:34,085
+find a deflection that is dependent
+upon the charge-to-mass ratio.
+
+123
+00:10:34,085 --> 00:10:39,635
+In the case of hydrogen,
+there's a stable molecular ion,
+
+124
+00:10:39,635 --> 00:10:43,520
+H2+ which has the mass of two expected,
+
+125
+00:10:43,520 --> 00:10:48,071
+two units of proton mass
+that would be expected of
+
+126
+00:10:48,071 --> 00:10:52,845
+the heavy isotope of hydrogen and
+the same charge.
+
+127
+00:10:52,845 --> 00:10:59,164
+And there's a lot of interference
+from the electric signal, so
+
+128
+00:10:59,164 --> 00:11:05,725
+there was no conclusive proof of
+the existence of heavy hydrogen.
+
+129
+00:11:05,725 --> 00:11:08,084
+So Urey had the idea of looking for
+
+130
+00:11:08,084 --> 00:11:13,488
+this heavy isotope of hydrogen in
+the optical spectrum of atomic hydrogen.
+
+131
+00:11:13,488 --> 00:11:18,549
+And here is how he states his idea.
+
+132
+00:11:18,549 --> 00:11:22,510
+This is taken from his
+Nobel lecture of 1934.
+
+133
+00:11:22,510 --> 00:11:27,829
+Bohr's theory, given some 20 years ago,
+permits the calculation
+
+134
+00:11:27,829 --> 00:11:33,781
+of the Ballmer spectrum of the heavier
+isotopes of hydrogen from this spectrum
+
+135
+00:11:33,781 --> 00:11:39,839
+of hydrogen by the well-known theoretical
+formula for the Rydberg constant.
+
+136
+00:11:39,839 --> 00:11:47,314
+So even though by this time, 1934,
+we had Schroedinger mechanics,
+
+137
+00:11:51,847 --> 00:11:57,087
+And Urey was the first American
+author of a monograph-type
+
+138
+00:11:57,087 --> 00:12:03,120
+textbook on quantum mechanics,
+very familiar with the subject.
+
+139
+00:12:03,120 --> 00:12:08,430
+He preferred to describe to
+the general audience the plausibility
+
+140
+00:12:08,430 --> 00:12:12,900
+of his idea in terms of
+Bohr's well-accepted theory.
+
+141
+00:12:14,470 --> 00:12:15,665
+Now basically,
+
+142
+00:12:15,665 --> 00:12:20,956
+the difference in the spectrum of
+a heavy isotope of hydrogen from regular
+
+143
+00:12:20,956 --> 00:12:26,606
+hydrogen in the Bohr theory can just be
+traced to the reduced mass difference.
+
+144
+00:12:26,606 --> 00:12:33,304
+So in the online quiz,
+you get a chance to think about that.
+
+145
+00:12:35,428 --> 00:12:41,303
+So no one had seen a heavy
+isotope of hydrogen.
+
+146
+00:12:41,303 --> 00:12:45,413
+Urey thought it might be detected in
+the optical spectrum of atomic hydrogen.
+
+147
+00:12:45,413 --> 00:12:49,080
+But how to prove that decisively?
+
+148
+00:12:52,806 --> 00:12:59,839
+He had the idea of taking large
+quantities of liquid hydrogen,
+
+149
+00:12:59,839 --> 00:13:04,882
+cryogenic fluid, evaporating the liquid,
+
+150
+00:13:04,882 --> 00:13:09,393
+in which in the process of evaporation,
+
+151
+00:13:09,393 --> 00:13:16,561
+presumably the lighter isotope
+will evaporate more rapidly and
+
+152
+00:13:16,561 --> 00:13:24,050
+so the heavier isotope will be
+concentrated in the residue.
+
+153
+00:13:24,050 --> 00:13:27,527
+So he recruited a man named
+Ferdinand Graft Brickwedde,
+
+154
+00:13:27,527 --> 00:13:32,607
+who was United States' leading expert in
+low-temperature physics at that time.
+
+155
+00:13:32,607 --> 00:13:38,743
+He was the first person to produce
+liquid helium in the United States,
+
+156
+00:13:38,743 --> 00:13:43,952
+and so Brickwedde carried out
+this distillation process.
+
+157
+00:13:43,952 --> 00:13:50,165
+You can read about it in the summary
+article if you're interested,
+
+158
+00:13:50,165 --> 00:13:55,914
+and produced a sample,
+In which it was possible
+
+159
+00:13:55,914 --> 00:14:01,270
+to find the evidence for
+the heavy isotope hydrogen.
+
+160
+00:14:01,270 --> 00:14:07,949
+So this is an emissions
+
+161
+00:14:07,949 --> 00:14:11,467
+spectrum.
+
+162
+00:14:11,467 --> 00:14:16,104
+In this particular figure it happens to be
+from the Balmer beta line in this spectrum
+
+163
+00:14:16,104 --> 00:14:19,132
+that we've been talking
+about all this time.
+
+164
+00:14:19,132 --> 00:14:26,370
+And here's the central peak, so really
+this peak continues up off the scale.
+
+165
+00:14:26,370 --> 00:14:30,660
+And now here is the prediction
+from the Bohr theory
+
+166
+00:14:30,660 --> 00:14:34,850
+of where an isotope of mass 2 should be.
+
+167
+00:14:35,950 --> 00:14:40,822
+And you see that these three
+curves are spectra taken under
+
+168
+00:14:40,822 --> 00:14:46,107
+different hypothetical
+concentration of the heavy isotope.
+
+169
+00:14:46,107 --> 00:14:50,430
+And so
+that predicted feature grows as expected.
+
+170
+00:14:50,430 --> 00:14:53,358
+There's no evidence for a mass 3 isotope.
+
+171
+00:14:53,358 --> 00:14:55,885
+There is a mass 3 isotope, tritium, but
+
+172
+00:14:55,885 --> 00:14:58,810
+it's unstable and
+it has a very low abundance.
+
+173
+00:14:58,810 --> 00:15:03,810
+So this is a nice application of
+a very simple reduced mass picture
+
+174
+00:15:05,160 --> 00:15:06,550
+provided by Bohr.
+
+175
+00:15:06,550 --> 00:15:13,310
+The discovery of a substance that in 1931,
+no one knew it existed.

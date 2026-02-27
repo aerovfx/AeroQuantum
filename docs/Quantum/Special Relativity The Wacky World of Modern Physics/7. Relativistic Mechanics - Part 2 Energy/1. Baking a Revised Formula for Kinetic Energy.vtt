@@ -1,0 +1,1313 @@
+WEBVTT
+
+1
+00:00:18.030 --> 00:00:21.420
+Now that a ripple effect in the body of physics has indeed been identified.
+
+2
+00:00:21.690 --> 00:00:26.610
+Let's take a closer look at those ripples and try to better understand what kind of theoretical implications
+
+3
+00:00:26.880 --> 00:00:28.500
+they actually have now.
+
+4
+00:00:28.740 --> 00:00:33.930
+In our last video, we found that momentum, for the most part, seemed to follow the conventions we
+
+5
+00:00:34.110 --> 00:00:38.490
+have from classical physics, namely that it is conserved between two states.
+
+6
+00:00:38.970 --> 00:00:45.840
+However, what we found is that weird, odd relativistic effects tend to crop up close to high speeds
+
+7
+00:00:45.840 --> 00:00:47.220
+close to the speed of light.
+
+8
+00:00:47.610 --> 00:00:53.250
+In particular, what we found is that as we approach the speed of light, the inertial inertia of an
+
+9
+00:00:53.250 --> 00:00:59.040
+object or body, or any kind of system tends to increase in a sense that it tends to resist any kind
+
+10
+00:00:59.040 --> 00:01:02.000
+of force that tries to accelerate to a higher velocity.
+
+11
+00:01:02.010 --> 00:01:08.010
+So the net effect is that if you're trying to accelerate an object closer to the speed of light, it
+
+12
+00:01:08.010 --> 00:01:12.930
+gets harder and harder and harder as we approach that cap.
+
+13
+00:01:13.290 --> 00:01:18.270
+OK, now if we think about this from an energy standpoint, it becomes very interesting, right?
+
+14
+00:01:18.570 --> 00:01:25.650
+Logically, we can assert that if it's harder and harder to apply, force and accelerate to a higher
+
+15
+00:01:25.650 --> 00:01:32.610
+velocity, that seems to insinuate that as we get closer and closer to the speed of light, we would
+
+16
+00:01:32.610 --> 00:01:39.990
+need more and more and more energy to get an additional velocity into that particle into that system
+
+17
+00:01:40.200 --> 00:01:41.310
+that we're analyzing.
+
+18
+00:01:41.310 --> 00:01:48.930
+So naturally, we could assume that just like momentum, perhaps some kind of relativistic effect could
+
+19
+00:01:48.930 --> 00:01:54.900
+come into play, crop up in reality and start to appear close to the speed of light.
+
+20
+00:01:55.650 --> 00:02:00.720
+So what we're going to do in this video is we're going to follow along what we did with classical mechanics,
+
+21
+00:02:01.110 --> 00:02:02.880
+back with Newtonian mechanics.
+
+22
+00:02:03.000 --> 00:02:06.300
+What do we do after we derived expressions for momentum?
+
+23
+00:02:07.200 --> 00:02:10.260
+What we did is we use that to derive expressions for force.
+
+24
+00:02:10.560 --> 00:02:17.070
+And then that was used to do to derive notions and concepts of energy and in particular, what we hope
+
+25
+00:02:17.070 --> 00:02:21.060
+would hold in special relativity conservation of energy.
+
+26
+00:02:21.330 --> 00:02:21.630
+Right.
+
+27
+00:02:21.930 --> 00:02:23.280
+We're going to investigate energy.
+
+28
+00:02:23.280 --> 00:02:28.230
+We're going to see if our intuition, which feels like there's some kind of weird effect that would
+
+29
+00:02:28.230 --> 00:02:31.800
+crop up close to the speed of light, whether that's true or not.
+
+30
+00:02:32.280 --> 00:02:36.390
+And the way in which we're going to do this again, we're going to follow the same conventions now back
+
+31
+00:02:36.390 --> 00:02:39.510
+in classical physics and Newtonian mechanics.
+
+32
+00:02:39.780 --> 00:02:45.000
+What we did is we made use of something known as the work energy principle, which in essence states
+
+33
+00:02:45.000 --> 00:02:51.040
+that any force you apply to an object that's going to result in a change of kinetic energy.
+
+34
+00:02:51.060 --> 00:02:57.360
+In other words, if you push an object that's going to create kinetic energy, you're putting energy
+
+35
+00:02:57.360 --> 00:03:01.350
+into the system, and that energy allows us to move at a higher velocity, right?
+
+36
+00:03:01.740 --> 00:03:03.630
+Recall the work energy principle, right?
+
+37
+00:03:04.140 --> 00:03:11.640
+In words where I just explain this theory that any work W done by all forces acting on a particle is
+
+38
+00:03:11.640 --> 00:03:14.330
+equivalent to the change in the particles kinetic energy.
+
+39
+00:03:14.340 --> 00:03:14.700
+OK?
+
+40
+00:03:14.970 --> 00:03:21.600
+So if we use this, this really provides us with the recipe and ingredients that are required for baking
+
+41
+00:03:21.600 --> 00:03:24.840
+a new relativistic energy equation.
+
+42
+00:03:25.020 --> 00:03:27.620
+And that's what we're going to tackle right now.
+
+43
+00:03:27.630 --> 00:03:28.900
+So the first thing we want to do.
+
+44
+00:03:29.310 --> 00:03:30.540
+We got the ingredients.
+
+45
+00:03:30.550 --> 00:03:32.760
+We got this new relativistic momentum.
+
+46
+00:03:34.110 --> 00:03:36.990
+We have a recipe, a structure that we use in classical physics.
+
+47
+00:03:37.320 --> 00:03:44.490
+Let's take those ingredients and start throwing them into our recipe and see what is ulit from cooking
+
+48
+00:03:44.490 --> 00:03:45.390
+up this new formula.
+
+49
+00:03:45.420 --> 00:03:52.950
+So the first thing we find is that as we do in classical physics, our force is equal to the derivative
+
+50
+00:03:52.950 --> 00:03:53.640
+of the momentum.
+
+51
+00:03:54.960 --> 00:03:55.310
+OK?
+
+52
+00:03:55.500 --> 00:03:58.630
+That's what we use to figure out the force.
+
+53
+00:03:58.650 --> 00:03:58.920
+Right.
+
+54
+00:03:58.920 --> 00:04:00.390
+It forces a change in momentum.
+
+55
+00:04:00.390 --> 00:04:02.910
+It's a change in the motion of a particle.
+
+56
+00:04:03.150 --> 00:04:08.160
+We're going to apply the same ideas here to see what happens using our new special relativity ideas.
+
+57
+00:04:08.640 --> 00:04:13.950
+So what we could do is we could take what we derived in the previous video from an atom, which is momentum
+
+58
+00:04:13.950 --> 00:04:15.390
+is equal to this gamma.
+
+59
+00:04:15.390 --> 00:04:23.010
+In terms of the velocity of the object, the particle, the system are analyzing times, the rest mass
+
+60
+00:04:23.010 --> 00:04:25.470
+of that object, Typekit velocity of it.
+
+61
+00:04:25.950 --> 00:04:33.630
+So if we take this and recall, that became a factor which is responsible for, I guess, introducing
+
+62
+00:04:33.630 --> 00:04:39.210
+all these relativistic effects and to find out such we can take this and throw it straight through the
+
+63
+00:04:39.210 --> 00:04:40.170
+work energy principle.
+
+64
+00:04:40.170 --> 00:04:45.840
+So as I said, any kind of work done on the system is due to the force trying to move it.
+
+65
+00:04:46.230 --> 00:04:49.350
+It's the force over the distance that object moves.
+
+66
+00:04:49.560 --> 00:04:53.490
+F. Scott, D. Yes, this is the distance of what you mutes.
+
+67
+00:04:53.910 --> 00:05:00.120
+So that work that you put into the system allows to speed up and that results in a change in its kinetic
+
+68
+00:05:00.120 --> 00:05:00.470
+energy.
+
+69
+00:05:00.480 --> 00:05:03.510
+OK, so we're going to use this as the recipe.
+
+70
+00:05:03.900 --> 00:05:06.270
+We got the ingredients we started putting those ingredients in.
+
+71
+00:05:06.600 --> 00:05:11.910
+Let's charge forward in this recipe and cooking up this nice new formula, OK?
+
+72
+00:05:12.180 --> 00:05:16.930
+So using this guy, what we could do is say the change of kinetic energy is just.
+
+73
+00:05:16.990 --> 00:05:22.030
+This we take f we plug that guy in here, we have the same exact result.
+
+74
+00:05:22.360 --> 00:05:28.840
+The derivative of gamma, every with respect to time right there and that is dot it into this.
+
+75
+00:05:28.900 --> 00:05:29.280
+Yes.
+
+76
+00:05:29.300 --> 00:05:36.280
+Now if we're assuming a constant velocity, no kind of change, no external force being applied aside
+
+77
+00:05:36.280 --> 00:05:46.480
+from this guy here, what we know is that a change in distance, it's just the right fit one 180.
+
+78
+00:05:46.600 --> 00:05:50.320
+We plug that guy in and we end up with this weird formula here.
+
+79
+00:05:50.560 --> 00:05:54.070
+And what we're going to do is we're going to assume that initially this object was at rest.
+
+80
+00:05:55.300 --> 00:05:57.190
+We're trying to put energy into the system.
+
+81
+00:05:57.200 --> 00:06:01.330
+So it goes from rest to some velocity, right?
+
+82
+00:06:01.630 --> 00:06:04.030
+So after a time, t, it has velocity.
+
+83
+00:06:04.150 --> 00:06:07.540
+So we're going to integrate from zero to T from state one to state two.
+
+84
+00:06:07.570 --> 00:06:07.960
+OK.
+
+85
+00:06:08.290 --> 00:06:10.630
+So using this, how do we make progress?
+
+86
+00:06:10.960 --> 00:06:12.370
+How can we make additional progress?
+
+87
+00:06:12.760 --> 00:06:20.460
+What we can do is we can make a note of what we had previously in the last video on momentum that mass,
+
+88
+00:06:20.470 --> 00:06:22.240
+we're going to use an invariant mass.
+
+89
+00:06:22.600 --> 00:06:23.350
+It's not a to change.
+
+90
+00:06:23.350 --> 00:06:27.070
+We're not going to assume there's a variable mass because that introduces a lot of problems.
+
+91
+00:06:27.520 --> 00:06:28.750
+We're not even going to go into that.
+
+92
+00:06:29.200 --> 00:06:31.090
+We're going to see in that there's a rest mass, right?
+
+93
+00:06:31.090 --> 00:06:35.650
+The mass we measure when an object at rest and that is constant.
+
+94
+00:06:35.650 --> 00:06:41.830
+So what we could do is we could pull this mass out of the derivative, out of the integral and it becomes
+
+95
+00:06:41.830 --> 00:06:42.340
+as such.
+
+96
+00:06:42.700 --> 00:06:45.850
+The other thing we're going to make use of is the dot product, right, the DOT product.
+
+97
+00:06:46.120 --> 00:06:50.500
+We have this vector here in that vector right there.
+
+98
+00:06:50.710 --> 00:06:52.570
+This is the differential doesn't matter.
+
+99
+00:06:52.570 --> 00:06:54.190
+It still behaves in the same fashion.
+
+100
+00:06:54.190 --> 00:06:59.290
+So we have V2V and the angle between those vectors is zero.
+
+101
+00:06:59.530 --> 00:07:04.270
+What's going to happen is you just get the magnitude of the time, the magnitude of V and, you know,
+
+102
+00:07:04.270 --> 00:07:07.280
+cosine of the angle between the cosine 0s one.
+
+103
+00:07:07.840 --> 00:07:10.540
+So DV dot v.
+
+104
+00:07:10.570 --> 00:07:12.010
+Well, you know what?
+
+105
+00:07:12.190 --> 00:07:14.790
+That's just the magnitudes a v and V.
+
+106
+00:07:15.040 --> 00:07:20.580
+So what we end up with is we're going to pull the mass out and we just get the magnitude of the I'm
+
+107
+00:07:20.590 --> 00:07:22.870
+going to start dealing with vectors henceforth.
+
+108
+00:07:23.140 --> 00:07:25.150
+So that's, you know, energy is not a vector.
+
+109
+00:07:25.150 --> 00:07:26.830
+So that drives well for intuition.
+
+110
+00:07:27.280 --> 00:07:30.880
+And we get the phone, we get the magnitude of velocity times.
+
+111
+00:07:30.880 --> 00:07:38.890
+This weird differential of gamma times, the magnitude of velocity and we make a change of the differential.
+
+112
+00:07:39.070 --> 00:07:42.670
+We have to switch from time to this new differential, Crosby.
+
+113
+00:07:42.670 --> 00:07:46.360
+So we're going to go from zero to final velocity times Ghana.
+
+114
+00:07:46.570 --> 00:07:49.360
+Now at this point, you're thinking, Whoa, OK.
+
+115
+00:07:49.420 --> 00:07:55.330
+So we put all these ingredients into this recipe that didn't really bake a nice relativistic energy
+
+116
+00:07:55.330 --> 00:07:56.050
+equation for us.
+
+117
+00:07:56.080 --> 00:07:58.780
+So what we need to do is we need a marinade in a bit.
+
+118
+00:07:58.960 --> 00:08:00.430
+We need to put some seasoning in there.
+
+119
+00:08:00.430 --> 00:08:05.740
+So it's more appetizing and it gives us some kind of form that's more appealing to us.
+
+120
+00:08:05.740 --> 00:08:09.820
+So what we're going to do is we're going to take this guy here, which we have no idea what in the world
+
+121
+00:08:09.820 --> 00:08:10.840
+is to try and communicate.
+
+122
+00:08:11.800 --> 00:08:16.690
+What we're going to do is we're going to use our favorite tool in all physics, right?
+
+123
+00:08:16.870 --> 00:08:23.890
+One of my professors has asserted that integration by parts which you studied in calc two, most likely
+
+124
+00:08:24.220 --> 00:08:29.050
+is probably one of the most useful tools in all physics because it allows us to make a lot of progress
+
+125
+00:08:29.050 --> 00:08:30.820
+in deriving very important results.
+
+126
+00:08:31.030 --> 00:08:32.410
+So we're going to make use of this here.
+
+127
+00:08:32.770 --> 00:08:40.210
+And if you recall what this data states that if we have an integral of some quantum you'd've that is
+
+128
+00:08:40.210 --> 00:08:47.860
+equal to you tied to be defined from states one or two minus the integral of the EU, another way of
+
+129
+00:08:47.860 --> 00:08:54.300
+thinking about this is literally just taking the derivative of this guy right here you would get you'd've
+
+130
+00:08:54.620 --> 00:08:55.550
+plus BTU.
+
+131
+00:08:55.810 --> 00:08:58.180
+It's just a rearrangement of that idea.
+
+132
+00:08:58.210 --> 00:09:04.180
+So if we take this, we can make headway on this guy and convert it into a form which we could actually
+
+133
+00:09:04.180 --> 00:09:06.850
+evaluate it using our calc one on one talks.
+
+134
+00:09:07.240 --> 00:09:10.780
+So what we're going to do is we're going to say this v here.
+
+135
+00:09:11.140 --> 00:09:12.400
+It's going to be the U.
+
+136
+00:09:12.640 --> 00:09:20.700
+Down here, as you can see in green and the Delta Gamma V, this guy is going to be the DV as designated
+
+137
+00:09:20.710 --> 00:09:21.460
+in blue here.
+
+138
+00:09:21.790 --> 00:09:27.850
+So if we take that, we can start getting a very interesting form of equation here.
+
+139
+00:09:27.850 --> 00:09:36.640
+So I'm going to work it out with you just because it involves a lot of math and a lot of textbooks actually,
+
+140
+00:09:36.640 --> 00:09:41.050
+unfortunately just says, Oh, they say, Oh, it can be shown that do this.
+
+141
+00:09:41.050 --> 00:09:41.740
+I don't like that.
+
+142
+00:09:41.740 --> 00:09:45.730
+I want to be your ally in learning this, so we're going to work through it together.
+
+143
+00:09:46.090 --> 00:09:50.800
+So Delta K e when we apply, this guy here are term.
+
+144
+00:09:51.040 --> 00:09:54.220
+It's going to pop out and we see we have a U.
+
+145
+00:09:54.490 --> 00:09:56.470
+V right here, defined from one to two.
+
+146
+00:09:56.860 --> 00:09:57.310
+OK.
+
+147
+00:09:57.640 --> 00:09:58.900
+So we have you here.
+
+148
+00:09:59.300 --> 00:10:02.320
+V is just going to be what is inside the differential here.
+
+149
+00:10:02.320 --> 00:10:04.860
+So we get a delta, not a delta.
+
+150
+00:10:04.900 --> 00:10:06.130
+Again, sorry about that.
+
+151
+00:10:06.310 --> 00:10:09.430
+We get a gamma b plus another B.
+
+152
+00:10:10.210 --> 00:10:13.900
+Actually, I'm going to keep the M here just because it's going to look.
+
+153
+00:10:14.050 --> 00:10:14.830
+It's going to look nice.
+
+154
+00:10:14.830 --> 00:10:16.570
+So we get this guy times.
+
+155
+00:10:16.710 --> 00:10:17.100
+AMA.
+
+156
+00:10:18.660 --> 00:10:19.640
+And B squared.
+
+157
+00:10:19.830 --> 00:10:21.450
+And you're probably thinking what happened to this?
+
+158
+00:10:21.660 --> 00:10:27.240
+This going from state to state to in essence what we did, we just we literally plugged it in.
+
+159
+00:10:27.360 --> 00:10:33.870
+So you plug in Gamma B and then zero at state one that literally cancels so we don't get any kind of
+
+160
+00:10:33.870 --> 00:10:34.230
+results.
+
+161
+00:10:34.230 --> 00:10:35.880
+So it just disappears from that.
+
+162
+00:10:36.090 --> 00:10:41.160
+And in next what we get, we need to subtract this integral here.
+
+163
+00:10:41.820 --> 00:10:43.950
+So I'm to bring the M.
+
+164
+00:10:43.980 --> 00:10:49.140
+It comes along for the ride and then we have this integral and then we have the U.
+
+165
+00:10:49.410 --> 00:10:51.600
+Well, this is just Gamma V..
+
+166
+00:10:51.720 --> 00:10:53.580
+OK, so that's gamma.
+
+167
+00:10:55.180 --> 00:11:00.790
+I'm just going to leave it as gamma, so we get gamma the and then deal is Steve.
+
+168
+00:11:02.950 --> 00:11:09.190
+And what we're going to do if we go from zero to, I don't know why I keep saying Delta as a gamma gamma
+
+169
+00:11:09.190 --> 00:11:09.490
+v.
+
+170
+00:11:09.970 --> 00:11:12.600
+We're going to f with zero two V.
+
+171
+00:11:12.730 --> 00:11:15.730
+If we change the differential, that's just to be there.
+
+172
+00:11:15.880 --> 00:11:20.860
+And we see here now we have a form which we could potentially integrate.
+
+173
+00:11:20.860 --> 00:11:25.570
+So we made some progress in a range of my parts is awesome and allows you to do that most of the time.
+
+174
+00:11:26.050 --> 00:11:30.480
+So we get this guy here and we know that this is a function of velocity.
+
+175
+00:11:30.490 --> 00:11:33.010
+So we can't just leave it as a gamma anymore.
+
+176
+00:11:33.610 --> 00:11:38.110
+What we're going to do is we're going to really throw in the exact value right there.
+
+177
+00:11:38.380 --> 00:11:39.520
+So we get a B.
+
+178
+00:11:39.790 --> 00:11:43.990
+And again, I'm going to drop all the vector notation because we're just dealing with scholars here.
+
+179
+00:11:44.590 --> 00:11:51.820
+We're going to be divided by the square root of one minus V or C.
+
+180
+00:11:53.210 --> 00:12:00.920
+Squared and when we see that, we say, Oh, that looks like something I solved and talk one on one
+
+181
+00:12:00.930 --> 00:12:01.490
+before.
+
+182
+00:12:03.220 --> 00:12:04.190
+I can make headway.
+
+183
+00:12:04.510 --> 00:12:07.330
+I can work with this, I can solve it.
+
+184
+00:12:07.810 --> 00:12:13.030
+So we're going to do is we're going to solve this guy here by making a simple use of substitution,
+
+185
+00:12:13.450 --> 00:12:18.580
+which you've probably done in calculus before a lot of individuals who are running through this, they
+
+186
+00:12:18.580 --> 00:12:21.460
+say, Oh, we're just going to get some kind of integral from a table.
+
+187
+00:12:21.670 --> 00:12:25.030
+Now we're going to do it, we're going to do the math right.
+
+188
+00:12:25.420 --> 00:12:27.110
+You learn physics by doing physics.
+
+189
+00:12:27.110 --> 00:12:28.270
+So we're going to do it, OK?
+
+190
+00:12:28.450 --> 00:12:35.410
+So what we get is we're going to say and maybe you can pick up the use of yourself.
+
+191
+00:12:35.740 --> 00:12:37.230
+We're going to let G.
+
+192
+00:12:37.310 --> 00:12:38.400
+So we don't get confused.
+
+193
+00:12:38.410 --> 00:12:39.660
+I don't like having a you.
+
+194
+00:12:39.680 --> 00:12:40.640
+It's too close to a V.
+
+195
+00:12:40.990 --> 00:12:48.580
+We're going to say G is going to equal negative v over C quantity squared.
+
+196
+00:12:50.070 --> 00:12:50.430
+OK.
+
+197
+00:12:50.640 --> 00:12:55.690
+So when we make this substitution, we need to solve this in four days.
+
+198
+00:12:55.920 --> 00:13:01.850
+We need to differentiate this first in terms of B, so what we're going to do is we're going to dig
+
+199
+00:13:03.180 --> 00:13:03.440
+deep.
+
+200
+00:13:03.660 --> 00:13:06.270
+Take the derivative and we end up with.
+
+201
+00:13:07.630 --> 00:13:10.390
+The first derivative, we get this quantity squared.
+
+202
+00:13:10.720 --> 00:13:13.840
+This is a constant it pops out, so we get negative to be.
+
+203
+00:13:16.980 --> 00:13:23.490
+Over C squared that comes along for the ride and then change, which we would get like a DVD something
+
+204
+00:13:23.490 --> 00:13:25.140
+else, but we're doing it in terms of fee.
+
+205
+00:13:25.440 --> 00:13:27.650
+So we're pushing it so we don't have to apply that.
+
+206
+00:13:27.660 --> 00:13:34.170
+So what happens is we get this guy and we want to isolate a fee and a DVD so we can actually integrate
+
+207
+00:13:34.170 --> 00:13:35.130
+this right?
+
+208
+00:13:35.370 --> 00:13:37.220
+So we're in good shape.
+
+209
+00:13:37.230 --> 00:13:38.400
+We got confidence here.
+
+210
+00:13:38.790 --> 00:13:42.060
+We can multiply by negative c squared.
+
+211
+00:13:43.610 --> 00:13:44.410
+Over two.
+
+212
+00:13:45.470 --> 00:13:45.980
+Times.
+
+213
+00:13:48.140 --> 00:13:52.620
+And that is equal to the DV.
+
+214
+00:13:53.060 --> 00:13:56.510
+So what I want to do is I want to put your attention to two parameters.
+
+215
+00:13:56.960 --> 00:13:58.280
+We got this guy.
+
+216
+00:13:59.260 --> 00:13:59.860
+Right here.
+
+217
+00:14:01.370 --> 00:14:09.110
+And we have the same term right in there, so we can literally plug this in substitute g there and we'll
+
+218
+00:14:09.110 --> 00:14:13.640
+get a form of the integral that we can actually solve.
+
+219
+00:14:13.700 --> 00:14:14.000
+OK.
+
+220
+00:14:14.180 --> 00:14:15.350
+So what happens is.
+
+221
+00:14:16.730 --> 00:14:20.450
+We get the following we find that this integral.
+
+222
+00:14:22.100 --> 00:14:35.750
+From zero 02 v v over Route one minus v over C quantity squared, DV is no different than an integral.
+
+223
+00:14:39.490 --> 00:14:41.320
+Of the quantity.
+
+224
+00:14:42.380 --> 00:14:46.340
+One man is VRC squared or one plus G.
+
+225
+00:14:50.300 --> 00:14:52.310
+That quantity to the negative one half.
+
+226
+00:14:55.930 --> 00:15:00.460
+And we got two slots of two in a value for this guy, which we found here.
+
+227
+00:15:01.060 --> 00:15:02.680
+So this gets multiplied by.
+
+228
+00:15:04.000 --> 00:15:07.360
+A negative C squared.
+
+229
+00:15:09.210 --> 00:15:09.990
+Over two.
+
+230
+00:15:11.790 --> 00:15:12.690
+DG.
+
+231
+00:15:15.060 --> 00:15:16.170
+And when we see this.
+
+232
+00:15:17.940 --> 00:15:21.450
+It's something that you've probably solved many times before.
+
+233
+00:15:21.810 --> 00:15:25.050
+This is an easy, easy guide to solve.
+
+234
+00:15:25.440 --> 00:15:31.130
+So let's actually do that, but before we do it, we need to go from TV to the IG.
+
+235
+00:15:31.860 --> 00:15:36.390
+So if we're going from zero to be, we're going from plus zero in here.
+
+236
+00:15:36.480 --> 00:15:40.880
+We're going from zero to negative yursik squared.
+
+237
+00:15:41.160 --> 00:15:45.420
+OK, so we're going to use that guy at the limit of the integration.
+
+238
+00:15:49.060 --> 00:15:55.690
+And let's solve this, well, if we have 1+ due to the baby one half, what you do is you literally
+
+239
+00:15:56.230 --> 00:16:01.410
+add one to the exponent and you get one plus year.
+
+240
+00:16:03.140 --> 00:16:08.630
+So the one half and then you invert that exponent, so we're going to have to multiply by two.
+
+241
+00:16:09.700 --> 00:16:10.930
+So count for the funeral.
+
+242
+00:16:12.640 --> 00:16:19.390
+And then we multiply by this concern right here, it comes along for the ride, this negative C squared
+
+243
+00:16:20.440 --> 00:16:21.100
+over two.
+
+244
+00:16:22.290 --> 00:16:24.870
+And then we would have to evaluate from zero.
+
+245
+00:16:25.840 --> 00:16:33.970
+To the oversea quantities square, and we have a little negative right out front right there.
+
+246
+00:16:34.030 --> 00:16:37.960
+OK, so what we do is we find these twos cancel.
+
+247
+00:16:39.670 --> 00:16:49.660
+And this just becomes no different than let's plug this guy in David C squared.
+
+248
+00:16:51.800 --> 00:16:52.310
+And.
+
+249
+00:16:53.940 --> 00:16:54.900
+It's the square root.
+
+250
+00:16:56.990 --> 00:16:59.360
+One plus the.
+
+251
+00:17:00.610 --> 00:17:05.410
+Over C squared, I made a sign of steak that's actually a negative.
+
+252
+00:17:07.420 --> 00:17:13.990
+And then we subtract when we plug in a zero four g, which would give us literally a C squared, so
+
+253
+00:17:13.990 --> 00:17:17.860
+we add a C square or wait a minute, let's back up a bit.
+
+254
+00:17:18.070 --> 00:17:22.450
+So that negative sign, we're subtracting a negative sign that becomes a positive.
+
+255
+00:17:22.720 --> 00:17:23.620
+So we get that guy.
+
+256
+00:17:23.620 --> 00:17:29.320
+So Rick, anyway, we went through the exercise of evaluating this integral.
+
+257
+00:17:29.530 --> 00:17:30.510
+We got a result.
+
+258
+00:17:32.260 --> 00:17:33.640
+I didn't cop out on you guys.
+
+259
+00:17:33.640 --> 00:17:34.660
+I solved it with you.
+
+260
+00:17:34.660 --> 00:17:35.440
+I held your hand.
+
+261
+00:17:35.860 --> 00:17:36.610
+We're good to go.
+
+262
+00:17:36.620 --> 00:17:40.870
+So what we could do is we plug this guy straight into that integral there.
+
+263
+00:17:41.080 --> 00:17:44.590
+And what we end up with is gamma.
+
+264
+00:17:45.820 --> 00:17:47.860
+M the squared.
+
+265
+00:17:49.990 --> 00:17:53.870
+Minus M times the quantity.
+
+266
+00:17:54.670 --> 00:18:04.720
+Negative C squared routes, one minus the over C squared plus C squared.
+
+267
+00:18:05.800 --> 00:18:09.430
+And close off that bracket, so we're making headway, we're making headway.
+
+268
+00:18:09.670 --> 00:18:15.550
+What we find is we get this weird expression, and at first it sort of seems like what in the world
+
+269
+00:18:15.550 --> 00:18:16.540
+happened to our energy?
+
+270
+00:18:16.810 --> 00:18:18.490
+This is sort of foreign to us.
+
+271
+00:18:18.760 --> 00:18:19.450
+Let's make headway.
+
+272
+00:18:19.450 --> 00:18:21.130
+Let's keep working on this recipe.
+
+273
+00:18:21.130 --> 00:18:22.630
+Let's keep baking the equation.
+
+274
+00:18:22.960 --> 00:18:37.300
+So this is equal to gamma M.V. squared plus and c squared is square root one minus B or C quantity squared.
+
+275
+00:18:38.830 --> 00:18:41.950
+Minus and c squared.
+
+276
+00:18:42.400 --> 00:18:47.890
+So you see us and see square popping up, and that might make you think of that famous equation that
+
+277
+00:18:47.890 --> 00:18:49.450
+Einstein came up with, which is good.
+
+278
+00:18:50.050 --> 00:18:53.500
+So seems like we're converging upon what Einstein did.
+
+279
+00:18:54.130 --> 00:18:55.270
+Let's see what we can do.
+
+280
+00:18:55.450 --> 00:18:57.500
+What we want to do is what a group terms.
+
+281
+00:18:57.850 --> 00:19:01.810
+But it's not in a form that looks very appealing.
+
+282
+00:19:01.840 --> 00:19:04.930
+OK, so what I'm going to do is I'm going to plug this guy in.
+
+283
+00:19:05.710 --> 00:19:06.550
+Basically, this.
+
+284
+00:19:07.790 --> 00:19:16.130
+Divide by the square root of one minus v be overseen, and I'm gonna try and make these guys have a
+
+285
+00:19:16.130 --> 00:19:20.030
+common denominator such that we can apply the numerator.
+
+286
+00:19:20.350 --> 00:19:20.660
+OK?
+
+287
+00:19:20.960 --> 00:19:26.900
+And as you probably would guess, you probably would guess a gamma is also going to pop out, as has
+
+288
+00:19:26.900 --> 00:19:28.700
+happened with previous results.
+
+289
+00:19:29.060 --> 00:19:33.830
+So what we do is we want to get this guy having the same form.
+
+290
+00:19:34.700 --> 00:19:45.200
+What we could do is we can get this and we can say this times one, we're multiply by one this same
+
+291
+00:19:45.200 --> 00:19:45.680
+term.
+
+292
+00:19:51.560 --> 00:19:56.840
+Such and I had a negative M.S. squared with a very ugly end there.
+
+293
+00:19:57.290 --> 00:19:58.310
+What we do is.
+
+294
+00:20:00.430 --> 00:20:06.190
+We see that this becomes literally I'll write it, I'll spell it out for you guys, so this just becomes
+
+295
+00:20:07.300 --> 00:20:09.460
+m v squared.
+
+296
+00:20:12.150 --> 00:20:12.750
+Plus.
+
+297
+00:20:14.080 --> 00:20:22.930
+And C squared times this times that one half plus one half gives you a one in the exponent one minus
+
+298
+00:20:22.930 --> 00:20:26.650
+B or C quantity squared.
+
+299
+00:20:28.690 --> 00:20:36.430
+Divided by this guy, so we got our gamma factor out in front, that's looking good.
+
+300
+00:20:36.850 --> 00:20:39.580
+And then the NSC squared comes along for the ride.
+
+301
+00:20:39.790 --> 00:20:47.350
+So what we can see is that we get an empty square here minus and c squared about a square o minus empty
+
+302
+00:20:47.350 --> 00:20:47.730
+square.
+
+303
+00:20:47.750 --> 00:20:49.770
+Oh, look at that bam.
+
+304
+00:20:50.020 --> 00:20:51.730
+And then this term cancels out with that.
+
+305
+00:20:52.390 --> 00:20:54.700
+So what are we left with?
+
+306
+00:20:55.240 --> 00:20:57.130
+So if we erased this guy here?
+
+307
+00:21:00.670 --> 00:21:02.050
+And we finish.
+
+308
+00:21:03.150 --> 00:21:15.480
+If belabored exercise, what we get is that the change in kinetic energy is equal to again, this guy
+
+309
+00:21:15.480 --> 00:21:16.260
+and b squared.
+
+310
+00:21:17.380 --> 00:21:22.660
+Minus C squared cancels here we get minus envy squared plus C squared.
+
+311
+00:21:22.870 --> 00:21:31.990
+So we get in and C squared over the square root of one minus B or C, that's our beautiful gamma factor.
+
+312
+00:21:32.350 --> 00:21:36.880
+So we see relativistic effects cropping up minus M.C. squared.
+
+313
+00:21:36.940 --> 00:21:45.190
+Ooh, that's looking a bit nicer than previously, and we can make this super fly by pulling out the
+
+314
+00:21:45.370 --> 00:21:49.870
+C squared, noting that this is a gamma, so I'll work through it for you.
+
+315
+00:21:49.870 --> 00:21:57.550
+So we don't get confused is again as c squared minus M.C. squared, which is no different than gamma
+
+316
+00:21:58.060 --> 00:21:59.380
+minus one.
+
+317
+00:22:01.620 --> 00:22:03.000
+M c squared.
+
+318
+00:22:03.030 --> 00:22:06.360
+Oh, that looks interesting, so.
+
+319
+00:22:08.100 --> 00:22:14.640
+We look at this result here, and we find that our intuition was indeed correct.
+
+320
+00:22:14.850 --> 00:22:20.670
+It's the inertia or the resistance to speeding up increases as we approach the speed of light.
+
+321
+00:22:21.450 --> 00:22:26.760
+Then our intuition that that would require more and more energy, greater amounts of energy for every
+
+322
+00:22:26.760 --> 00:22:32.550
+single unit of velocity that is gained closer to the speed of light that would require more energy.
+
+323
+00:22:32.670 --> 00:22:36.360
+And we see here that that possibly may be cropping up.
+
+324
+00:22:36.820 --> 00:22:37.140
+Right.
+
+325
+00:22:37.500 --> 00:22:43.800
+So what we're going to do next is we're going to try to reduce this guy here down to the classical result
+
+326
+00:22:44.070 --> 00:22:51.030
+and see if that can give us any kind of information regarding the kinetic energy regarding relativistic
+
+327
+00:22:51.030 --> 00:22:53.670
+effects close to the speed of light.
+
+328
+00:22:53.820 --> 00:22:54.930
+Let's do that next.

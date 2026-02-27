@@ -1,0 +1,169 @@
+WEBVTT
+
+00:00.140 --> 00:04.200
+The other way that you can actually charge an object is through something called induction.
+
+00:04.230 --> 00:04.460
+OK.
+
+00:04.500 --> 00:07.130
+So let's start with the figure here at the top.
+
+00:07.140 --> 00:10.160
+We have here is a kind of a metal sphere.
+
+00:10.170 --> 00:17.610
+So I mean just write this down metal sphere and first of all it is a neutral.
+
+00:17.700 --> 00:20.540
+So it has the same number of positives and negatives.
+
+00:20.590 --> 00:21.370
+OK.
+
+00:21.660 --> 00:24.410
+It's also not sitting on the ground here right.
+
+00:24.420 --> 00:30.210
+This here is a piece of glass or something that is a not a conductor.
+
+00:30.240 --> 00:30.430
+OK.
+
+00:30.450 --> 00:36.270
+As long as this piece you that's supporting it is non conducting right we say it's kind of an insulator
+
+00:38.460 --> 00:38.850
+OK.
+
+00:38.940 --> 00:43.680
+So that means that whatever charges are here are kind of stuck on the sphere.
+
+00:43.900 --> 00:49.290
+All right and Figure B what you do here imagine I bring my PDC Rod here that I've rubbed with the rabbit
+
+00:49.290 --> 00:53.220
+pelt and it's negatively charged again.
+
+00:53.480 --> 00:55.560
+Now it's kind of the same picture as the can.
+
+00:55.560 --> 00:55.860
+Right.
+
+00:55.920 --> 01:00.840
+Can we had those electrons that moved to the other side of the can is shown over here and the positive
+
+01:00.840 --> 01:02.940
+ones are over here and that's fine.
+
+01:02.970 --> 01:08.160
+So there is a little bit of an attractive force here between the rod and the metal sphere.
+
+01:08.160 --> 01:09.750
+Well that's all fine and dandy.
+
+01:09.750 --> 01:13.970
+Now this is not going to move because it's kind of stuck to the ground down here.
+
+01:14.010 --> 01:14.310
+All right.
+
+01:14.310 --> 01:21.480
+So now imagine we connected a wire as connected from the sphere and goes all the way to the ground and
+
+01:21.480 --> 01:23.650
+we repeat the same experiment.
+
+01:23.670 --> 01:28.520
+What that means is now the electrons instead of piling up here on the opposite side of the sphere.
+
+01:28.650 --> 01:33.110
+We now give them a path to actually leave the surface of the sphere.
+
+01:33.730 --> 01:33.950
+OK.
+
+01:33.990 --> 01:39.370
+So they're actually leaving and going to the ground the ground can accept a lot of charges.
+
+01:39.600 --> 01:45.280
+And then what we remove while we remove that we remove that wire OK.
+
+01:45.390 --> 01:48.670
+We remove the wire and then if we remove the rod.
+
+01:49.140 --> 01:49.940
+Well what happens.
+
+01:49.950 --> 01:50.790
+So a couple of things.
+
+01:50.790 --> 01:55.950
+So all those electrons that were on the other side of the sphere went through that wire and they ended
+
+01:55.950 --> 01:56.630
+up on the ground.
+
+01:56.640 --> 02:00.300
+So the ground becomes slightly negatively charged.
+
+02:00.450 --> 02:00.840
+OK.
+
+02:00.840 --> 02:02.500
+And you could see that down here.
+
+02:02.640 --> 02:11.370
+And then once you remove the rod again what you're going to end up getting here is a positively charged
+
+02:11.370 --> 02:12.810
+sphere at the end.
+
+02:12.840 --> 02:13.330
+OK.
+
+02:13.500 --> 02:15.400
+It becomes positively charged.
+
+02:15.420 --> 02:19.160
+Now these pictures a little bit misleading these charges are not physically moving.
+
+02:19.170 --> 02:25.140
+It's just the total charge of the object now will become because of the electron motion and they go
+
+02:25.140 --> 02:27.950
+back to some equilibrium configuration at the end.
+
+02:27.960 --> 02:30.700
+The object will become positively charged.
+
+02:30.720 --> 02:31.020
+OK.
+
+02:31.260 --> 02:34.910
+So at no point did the actual rod touch the sphere.
+
+02:34.920 --> 02:36.250
+So that's really important.
+
+02:36.270 --> 02:36.590
+Yeah.
+
+02:36.780 --> 02:39.730
+And this is what is called charging by induction.
+
+02:39.780 --> 02:44.530
+This is how we would obtain a positively charged object.
+
+02:44.530 --> 02:45.070
+OK.
+
+02:45.090 --> 02:47.310
+Remember it's only the electrons that can move.
+
+02:47.400 --> 02:49.460
+That's really really important.
+
+02:49.980 --> 02:52.020
+The positive charges do not move.

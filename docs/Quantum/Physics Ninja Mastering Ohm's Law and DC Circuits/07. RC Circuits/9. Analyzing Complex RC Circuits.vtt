@@ -1,0 +1,417 @@
+WEBVTT
+
+WEBVTT
+
+00:00.570 --> 00:07.430
+All right and what we did before we had our AC circuits however we only had one resistor and one capacitor
+
+00:07.440 --> 00:09.280
+so is pretty straight forward.
+
+00:09.300 --> 00:14.400
+I now want to look at what happens if we have more complicated RC circuits but we're not going to do
+
+00:14.400 --> 00:17.100
+all of the differential equations in the calculus.
+
+00:17.200 --> 00:20.700
+Well we're going to do is we're going to analyze two time limits.
+
+00:20.760 --> 00:25.210
+We're going to analyze the behavior of the current in the short time limit.
+
+00:25.200 --> 00:29.610
+So that's immediately after you close the switch just after you close the switch what happens.
+
+00:29.610 --> 00:30.410
+What is the current.
+
+00:30.410 --> 00:35.460
+For example in this circuit and also what happens after a long time.
+
+00:35.690 --> 00:35.930
+OK.
+
+00:35.930 --> 00:41.900
+We saw in our charging and discharging cases after a long time the current goes to zero for example.
+
+00:42.120 --> 00:46.850
+But again we only had one resistor and one capacitor what happens if we have something more complicated.
+
+00:47.130 --> 00:53.240
+So I've illustrated just one more complicated one more complicated circuit here on the left hand side.
+
+00:53.250 --> 00:59.970
+So here I have two resistors and I also have a capacitor here that is in parallel with the 8 ohm resistor
+
+01:00.360 --> 01:02.560
+that's connected to a power supply.
+
+01:02.580 --> 01:07.710
+So now you can ask yourself where I'm going to close the switch and I want to look at what happens in
+
+01:07.710 --> 01:09.630
+both of these time limits.
+
+01:09.630 --> 01:13.650
+So the top figure here represents the short time limit.
+
+01:13.680 --> 01:15.270
+I'll explain in just a minute.
+
+01:15.780 --> 01:20.310
+And the long time limit will be this bottom one.
+
+01:21.390 --> 01:22.000
+OK.
+
+01:22.350 --> 01:28.950
+So when we're tackling problems like this if you remember the charging case previously in that short
+
+01:28.950 --> 01:32.500
+time limit we actually had a lot of current initially.
+
+01:32.610 --> 01:38.430
+And the reason you have a lot of current is the capacitor in the short time limit basically behaves
+
+01:38.430 --> 01:39.630
+as though it's not there.
+
+01:39.630 --> 01:42.130
+It's as though there's a wire connected here.
+
+01:42.180 --> 01:47.550
+So the way we represent that on a circuit diagram in a short time limit what I would do I would suggest
+
+01:47.550 --> 01:54.080
+is you redraw the exact same circuit except wherever there is a capacitor you simply shorted out.
+
+01:54.090 --> 02:00.120
+You don't have to even draw the capacitor but you do have to draw the wire that connects the two points
+
+02:00.120 --> 02:01.940
+where the capacitor was located.
+
+02:02.250 --> 02:08.610
+So you see here between nodes seen I had a capacitor of six micro Feraud and now I simply connect that
+
+02:08.610 --> 02:13.130
+with a wire with basically no resistance.
+
+02:14.040 --> 02:18.750
+In the long time limit however what you end up doing here because in the long time limit remember what
+
+02:18.750 --> 02:21.760
+happens are capacitors become fully charged.
+
+02:22.050 --> 02:28.170
+In this case and that means when they become fully charge there's not going to be any more current flowing
+
+02:28.170 --> 02:30.780
+in branches where there is a capacitor.
+
+02:30.900 --> 02:36.660
+The way we represent that in circuit diagrams if we don't want any more current flowing in long time
+
+02:36.660 --> 02:42.200
+limit what you do is you simply produce a break in that in that part of the wire.
+
+02:42.330 --> 02:46.060
+So don't include the capacitor and just basically disconnected.
+
+02:46.560 --> 02:52.200
+When we do something like this is basically means that the resistance here of this guy here is very
+
+02:52.200 --> 02:53.040
+very big.
+
+02:53.190 --> 02:59.310
+So there will not be any current now flowing between points Siham point D here there's going to be a
+
+02:59.310 --> 03:00.270
+lot of current.
+
+03:00.540 --> 03:02.430
+But here there's not going to be any good.
+
+03:02.520 --> 03:07.740
+So whenever you're dealing with short and time limits short and long time limits this is how he suggests.
+
+03:07.740 --> 03:10.140
+So now let's do the analysis for each one of these cases.
+
+03:10.140 --> 03:12.680
+So how much current is there in each branch.
+
+03:12.900 --> 03:18.240
+Well you would apply Kirchoff's laws again in this case here I'm going to limit my math a little bit.
+
+03:18.240 --> 03:22.980
+I want to first what happened so I imagine here we're going to initially have some current Let's give
+
+03:22.980 --> 03:29.700
+it a color here current is going to flow away from the positive toward the negative.
+
+03:29.700 --> 03:36.420
+Now what happens when this current which flows through this forum resistor reaches the junction where
+
+03:36.420 --> 03:37.640
+is it going to go.
+
+03:38.040 --> 03:43.080
+Well is it going to go through the 8 ohm resistor or is it going to go through the path where there
+
+03:43.080 --> 03:44.930
+is no resistance.
+
+03:44.930 --> 03:45.760
+All right.
+
+03:46.240 --> 03:50.220
+And although you have to be a little bit careful here if you try to simplify this and write this as
+
+03:50.220 --> 03:53.260
+an equivalent resistor because this case is really zero.
+
+03:53.490 --> 03:58.740
+So you just got to be careful that you take the limit then you take it properly OK.
+
+03:59.080 --> 04:03.910
+Basically this whole network now all of the current that's here there is no reason for it to go through
+
+04:03.910 --> 04:06.040
+the path where there is resistance.
+
+04:06.130 --> 04:11.260
+You'd rather go through the path where there is no resistance.
+
+04:11.410 --> 04:18.050
+So it's simply all going to go out through that outer branch the current here in the center branch.
+
+04:18.100 --> 04:27.310
+This guy here one is going to be equal to zero because there is resistance here there is no voltage
+
+04:27.310 --> 04:28.780
+drop across here.
+
+04:29.110 --> 04:29.830
+Right.
+
+04:29.860 --> 04:35.500
+Going between seeing point D There is no voltage drop across there because there's no resistance.
+
+04:35.500 --> 04:38.380
+So that means that there can't be any voltage drop across.
+
+04:38.380 --> 04:39.210
+Point being.
+
+04:39.230 --> 04:40.450
+E.
+
+04:40.870 --> 04:47.350
+So if there's no voltage drop across an 8 ohm resistor The only reason you can have that the voltage
+
+04:47.350 --> 04:50.420
+drop across the 8 ohm resistor equals to zero.
+
+04:50.800 --> 04:54.880
+Well think about it the resistance multiplied by the current one.
+
+04:55.150 --> 04:59.310
+So you have to have that the current I want equals zero.
+
+04:59.680 --> 05:00.240
+So that's it.
+
+05:00.250 --> 05:09.640
+So this simply becomes a single loop circuit where we simply have one battery one TMF and one for ohm
+
+05:09.640 --> 05:10.720
+resistor.
+
+05:11.260 --> 05:18.550
+So the current I can easily be calculated in this time limit simply going to be 12 divided by four.
+
+05:19.000 --> 05:21.440
+We're going to have three amps.
+
+05:21.970 --> 05:24.620
+So you're going to have three amps in that short time limit.
+
+05:26.670 --> 05:26.940
+All right.
+
+05:26.940 --> 05:29.080
+How about now the long time limit.
+
+05:29.700 --> 05:30.960
+Well in the long time limit.
+
+05:30.960 --> 05:35.190
+Now again we have basically an infinite resistance.
+
+05:35.190 --> 05:41.910
+So we initially set up a current here and current going to flow through this form resistor I've closed
+
+05:41.910 --> 05:42.320
+the switch.
+
+05:42.320 --> 05:43.710
+Now it's been a long time.
+
+05:43.740 --> 05:49.550
+Once the current reaches this junction right here what's going to happen well is the current McGlinchey
+
+05:49.560 --> 05:52.320
+going to go through the infinite resistance.
+
+05:52.320 --> 05:55.550
+No there can't be any current flowing out here.
+
+05:55.830 --> 06:01.160
+So this current out here let's call it current Aitu must be equal to zero.
+
+06:03.050 --> 06:06.590
+Because the resistance is infinite.
+
+06:06.760 --> 06:12.490
+So that means all of that current is flowing through this forum resistor flowing through this 12 volt
+
+06:12.490 --> 06:16.550
+battery must flow down here through this 8 ohm resistor.
+
+06:17.790 --> 06:24.510
+It's go ahead and just fill in that into our diagram here and that's it again in a long time limit for
+
+06:24.510 --> 06:25.470
+the circuit.
+
+06:25.470 --> 06:27.320
+We simply have a single loop.
+
+06:27.390 --> 06:30.140
+However now we have two resistors that are in this loop.
+
+06:30.180 --> 06:36.600
+These resistors are in series with one another the equivalent resistance is 12 ohm So that means and
+
+06:36.600 --> 06:42.620
+this time limit the current that we're going to get it to it in a different color here.
+
+06:42.660 --> 06:52.420
+So the current I simply going to be 12 divided by our equivalent That's 12 over 12 is going to be equal
+
+06:52.420 --> 06:54.490
+to 1.
+
+06:54.610 --> 07:01.590
+So we initially had 3 amps and then we're eventually going to get to 1 amp.
+
+07:01.930 --> 07:08.050
+Actually if you look at the middle branch right middle branch the initial current was 0 and then the
+
+07:08.050 --> 07:10.640
+final current was 1.
+
+07:10.870 --> 07:16.660
+And if you look at the outer branch in the outer branch the initial current was three and then it went
+
+07:16.660 --> 07:18.030
+towards zero.
+
+07:18.520 --> 07:23.330
+So keep that in mind each branch has its own different characteristic right.
+
+07:23.410 --> 07:30.100
+The current through the battery started out at three and then it eventually went to one.
+
+07:31.240 --> 07:37.150
+So when you mean the short and long time limit short on long time limits I mean what does that mean
+
+07:37.150 --> 07:38.530
+in terms of actual time.
+
+07:38.530 --> 07:41.360
+How many seconds is that.
+
+07:41.740 --> 07:48.070
+In this case it's not very clear what exactly that time limit means but it's typically if you compare
+
+07:48.070 --> 07:55.450
+it to some characteristic time scale and a characteristic time scale again you wouldn't know which resistance
+
+07:55.450 --> 07:55.830
+to use.
+
+07:55.840 --> 08:01.660
+But it's kind of the RC time constant This will give you a pretty good indication whether you use 4
+
+08:01.660 --> 08:06.740
+or 8 or whether to use the value of the capacitance we would use six.
+
+08:06.790 --> 08:11.410
+But just gives you a rough idea of how many you know kind of an order of magnitude estimate of what
+
+08:11.410 --> 08:15.070
+the long and short time scale means for this particular circuit.
+
+08:15.430 --> 08:17.800
+It's not exact in this case.
+
+08:17.800 --> 08:24.370
+When we have more resistors and more capacitors you can't simply write it as just one value of resistance
+
+08:24.370 --> 08:26.350
+one value of capacitance.
+
+08:26.350 --> 08:30.520
+You'd have to find what the values of the capacitance in the resistance are that you would use in this
+
+08:30.520 --> 08:30.910
+equation.
+
+08:30.910 --> 08:35.200
+But just to give you a rough idea it's still going to give you an order of magnitude estimates of what
+
+08:35.200 --> 08:38.030
+the long and time limits actually mean for this case.
+
+08:39.420 --> 08:39.700
+All right.
+
+08:39.700 --> 08:45.810
+So that's the basic analysis technique whenever you're faced with any complex RC circuit.
+
+08:46.240 --> 08:51.730
+If you're only interested in these time limits here this is the approach to use simply short out the
+
+08:51.730 --> 08:53.610
+capacitor and the short time limit.
+
+08:53.980 --> 08:56.110
+And basically
+
+08:58.710 --> 09:01.390
+produce an open circuit in a long time limit.
+
+09:01.560 --> 09:03.780
+OK so let me just write that down.
+
+09:04.020 --> 09:08.980
+Here is an open circuit where the resistance is infinite.
+
+09:09.270 --> 09:10.950
+And here it's a shorted circuit
+
+09:13.700 --> 09:15.910
+where the resistance is zero.
+
+09:16.460 --> 09:17.060
+All right.
+
+09:17.060 --> 09:18.070
+Good job everybody.
+
+09:18.110 --> 09:18.990
+Hope you understood that.

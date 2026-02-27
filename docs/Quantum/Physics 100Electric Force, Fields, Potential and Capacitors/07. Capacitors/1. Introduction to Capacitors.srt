@@ -1,0 +1,88 @@
+WEBVTT
+
+00:00.270 --> 00:00.690
+Hi guys.
+
+00:00.690 --> 00:05.340
+So in this section we're going to review properties of capacitors.
+
+00:05.340 --> 00:10.380
+I've got a figure here that shows you all kinds of various capacitors.
+
+00:10.430 --> 00:12.660
+There are two terminal devices.
+
+00:12.660 --> 00:12.960
+OK.
+
+00:12.960 --> 00:18.150
+They come either a kind of cylindrical they could come kind of a disease flat little kind of pancake
+
+00:18.150 --> 00:19.260
+things.
+
+00:19.260 --> 00:25.350
+These ones over here are kind of some plates that you can rotate so you can kind of put the plates kind
+
+00:25.350 --> 00:28.020
+of closer together or farther apart.
+
+00:28.080 --> 00:34.430
+So there are variable capacitors the ones we're going to focus on mainly our parallel plate capacitor
+
+00:34.430 --> 00:37.230
+is just like the parallel plates we previously saw.
+
+00:37.230 --> 00:44.120
+So capacitors are simply devices that are used to store charge or to create an electric field.
+
+00:44.130 --> 00:49.770
+Another way of saying that is by storing charge we're going to say we're going to store energy in the
+
+00:49.770 --> 00:54.010
+field in the plates and then we can use that energy later on.
+
+00:54.060 --> 00:55.730
+They're also used in filtering.
+
+00:55.740 --> 01:00.900
+If you start looking at AC circuits capacitors can be used to filter signal.
+
+01:00.920 --> 01:06.980
+OK we're going to keep it rather simple for this section so we're going to introduce capacitors.
+
+01:07.200 --> 01:12.780
+There's some fundamental equation that relates the charge on the plates to the voltage between the plates
+
+01:13.440 --> 01:19.020
+and then we're going to see what happens if you place a dielectric or like a piece of paper or glass
+
+01:19.020 --> 01:22.190
+between the plates an insulator for example.
+
+01:22.380 --> 01:24.530
+What does that change what properties.
+
+01:24.540 --> 01:25.320
+Does it change.
+
+01:25.350 --> 01:25.550
+OK.
+
+01:25.560 --> 01:30.720
+So by the end of this you'll be able to answer a whole bunch of questions regarding capacitors namely
+
+01:30.720 --> 01:37.080
+how much charge there is how much voltage how much energy is stored and what type of electric field
+
+01:37.080 --> 01:37.890
+is produced.
+
+01:38.090 --> 01:38.430
+OK.
+
+01:38.940 --> 01:39.170
+All right.
+
+01:39.210 --> 01:40.860
+So let's get started with the section.

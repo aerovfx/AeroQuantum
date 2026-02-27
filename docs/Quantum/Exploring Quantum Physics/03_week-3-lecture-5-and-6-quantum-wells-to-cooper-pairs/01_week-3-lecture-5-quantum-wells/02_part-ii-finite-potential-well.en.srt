@@ -1,0 +1,1350 @@
+1
+00:00:01,063 --> 00:00:05,327
+In the previous segment, we saw that
+the Schrodinger equation for an infinite
+
+2
+00:00:05,327 --> 00:00:09,796
+potential, well, without even writing
+down the Schrodinger equation itself.
+
+3
+00:00:09,796 --> 00:00:12,736
+So, of course,
+it doesn't always happen this way so for
+
+4
+00:00:12,736 --> 00:00:16,597
+a more complicated potentials we actually
+have to do some calculations and
+
+5
+00:00:16,597 --> 00:00:20,761
+in this segment I'm going to present
+an example of a general method, actually,
+
+6
+00:00:20,761 --> 00:00:23,335
+that is used to solve
+the Schrödinger equation and
+
+7
+00:00:23,335 --> 00:00:25,942
+I would consider a so-called
+finite potential.
+
+8
+00:00:25,942 --> 00:00:31,779
+Well, so the potential that we're actually
+going to study is illustrated here,
+
+9
+00:00:31,779 --> 00:00:35,786
+so here is a formal sort of
+mathematical expression for
+
+10
+00:00:35,786 --> 00:00:39,640
+this potential and
+this is the, its illustration.
+
+11
+00:00:39,640 --> 00:00:43,818
+So for x, so
+this is one dimensional potential for
+
+12
+00:00:43,818 --> 00:00:47,700
+x greater than a/2 or smaller than- a/2,
+
+13
+00:00:47,700 --> 00:00:52,474
+we have a finite wall if you
+want with a height of u naught,
+
+14
+00:00:52,474 --> 00:00:57,474
+and in between- a/2 and a/2,
+we have potential well.
+
+15
+00:00:57,474 --> 00:01:01,968
+And so the question that we're going to
+be interested in is whether or
+
+16
+00:01:01,968 --> 00:01:06,785
+not we have energy levels,
+allowed states within the potential well,
+
+17
+00:01:06,785 --> 00:01:12,242
+which implies that the energy of these
+states must be smaller than this maximum,
+
+18
+00:01:12,242 --> 00:01:14,356
+u naught, but larger than 0.
+
+19
+00:01:14,356 --> 00:01:19,448
+So these are positive energies
+here in this formulation.
+
+20
+00:01:19,448 --> 00:01:23,800
+Now, clearly we have three regions
+that appear in this potential.
+
+21
+00:01:23,800 --> 00:01:28,860
+So one region will be to
+the left of the point,- a/2.
+
+22
+00:01:28,860 --> 00:01:32,598
+The second region, which is the potential
+well itself, will be between -a/2 and
+
+23
+00:01:32,598 --> 00:01:36,870
+a/2 and the third region is x>a/2.
+
+24
+00:01:36,870 --> 00:01:41,400
+And for each of the regions,
+we can write down the corresponding
+
+25
+00:01:41,400 --> 00:01:46,333
+Schrödinger equation, let's say,
+for regions the 1 and 3 for
+
+26
+00:01:46,333 --> 00:01:52,600
+absolute x>a/2 we have the kinetic
+energy + the potential energy U
+
+27
+00:01:52,600 --> 00:01:59,510
+naught = energy that we're actually
+looking for, E times psi (x).
+
+28
+00:01:59,510 --> 00:02:02,140
+And for the region of the potential,
+well, we'll formally
+
+29
+00:02:02,140 --> 00:02:07,120
+have just the free Schrodinger equation,
+since the potential here is equal to zero.
+
+30
+00:02:08,510 --> 00:02:11,660
+Now, to solve this Schrodinger equation,
+
+31
+00:02:11,660 --> 00:02:15,190
+the main challenge in some sense of
+solving the Schrodinger equation
+
+32
+00:02:15,190 --> 00:02:18,600
+is actually would be to match
+the solutions in different regions.
+
+33
+00:02:20,350 --> 00:02:22,460
+And by match, I mean the following.
+
+34
+00:02:22,460 --> 00:02:27,375
+We are going to demand that both
+the wave function itself and
+
+35
+00:02:27,375 --> 00:02:31,613
+its first derivative
+are continuous everywhere.
+
+36
+00:02:31,613 --> 00:02:35,198
+In particular in these matching points,
+-a/2 and
+
+37
+00:02:35,198 --> 00:02:38,872
+a/2, and so
+here I've formally represented as so.
+
+38
+00:02:38,872 --> 00:02:42,698
+So +0 basically means to
+the right of a certain point and
+
+39
+00:02:42,698 --> 00:02:46,250
+-0 means to the left of a certain point.
+
+40
+00:02:46,250 --> 00:02:50,550
+And the reason we want our wave function
+or let's say is derivative to be
+
+41
+00:02:50,550 --> 00:02:55,638
+continues, is because if we do not have
+this continuity, let's say in this point,
+
+42
+00:02:55,638 --> 00:03:00,224
+if we let's say solve our Schrodinger
+equation in region three and in region
+
+43
+00:03:00,224 --> 00:03:05,026
+two, and depending I don't bother to
+measure them, then in general so our wave
+
+44
+00:03:05,026 --> 00:03:09,750
+function, in this case, is going to
+be something like this, let's say.
+
+45
+00:03:09,750 --> 00:03:17,340
+And there will be a jump, a final jump in
+the wave function or in this derivative.
+
+46
+00:03:17,340 --> 00:03:20,880
+And if we calculate the second derivative,
+here,
+
+47
+00:03:20,880 --> 00:03:25,780
+due to the jump, we're going to
+have an infinite second derivative,
+
+48
+00:03:25,780 --> 00:03:29,590
+which wouldn't be able to compensate
+in our Schrödinger equation.
+
+49
+00:03:29,590 --> 00:03:33,020
+So there will be essentially a delta
+function coming up from this
+
+50
+00:03:33,020 --> 00:03:37,750
+discontinuity, and, well,
+we don't have it in our problem.
+
+51
+00:03:37,750 --> 00:03:39,880
+In our problem,
+we don't have a delta function.
+
+52
+00:03:39,880 --> 00:03:44,340
+So therefore,
+we must demand that the wave function and
+
+53
+00:03:44,340 --> 00:03:45,940
+its derivatives are continuous everywhere.
+
+54
+00:03:45,940 --> 00:03:51,670
+And it turns out that this,
+along with this condition, would be
+
+55
+00:03:51,670 --> 00:03:55,935
+enough to find the constraints which
+will determine the actual energy levels.
+
+56
+00:03:55,935 --> 00:04:00,680
+So, now the electric constraint,
+namely that the wave function should decay
+
+57
+00:04:00,680 --> 00:04:05,640
+at infinity is essentially
+physically meaningful constraint,
+
+58
+00:04:05,640 --> 00:04:08,840
+so we were looking for
+bound state of our particle.
+
+59
+00:04:08,840 --> 00:04:15,796
+So we want the probability of finding
+this particle at infinity to be 0.
+
+60
+00:04:15,796 --> 00:04:20,553
+And we want the probability to be
+sort of localized in the vicinity of
+
+61
+00:04:20,553 --> 00:04:25,985
+the potential well and so this is where
+the second constraint is coming from.
+
+62
+00:04:25,985 --> 00:04:31,919
+Now to simplify this equation,
+we could just notice that,
+
+63
+00:04:31,919 --> 00:04:35,834
+well, we can rewrite it, let's say,
+
+64
+00:04:35,834 --> 00:04:41,411
+the first one we can introduce
+a new parameter, gamma,
+
+65
+00:04:41,411 --> 00:04:47,486
+which is 2m over h squared,
+(U naught- epsilon,- E).
+
+66
+00:04:47,486 --> 00:04:48,867
+And so
+let me actually call it gamma squared.
+
+67
+00:04:48,867 --> 00:04:54,818
+And well, we can just put the energy
+in the left-hand side and
+
+68
+00:04:54,818 --> 00:04:59,397
+multiply everything by -2m/h squared, and
+
+69
+00:04:59,397 --> 00:05:04,090
+this would give rise to
+the following equation,
+
+70
+00:05:04,090 --> 00:05:07,653
+psi 2 primes- gamma squared = 0.
+
+71
+00:05:07,653 --> 00:05:10,362
+So the second equation,
+
+72
+00:05:10,362 --> 00:05:15,651
+we can introduce a parameter,
+let's say, k and
+
+73
+00:05:15,651 --> 00:05:21,985
+we are going to have this with
+psi + k square root of psi = 0.
+
+74
+00:05:21,985 --> 00:05:24,705
+So let me just rewrite it
+in a slightly nicer way.
+
+75
+00:05:24,705 --> 00:05:27,344
+So here are the basically the two
+equations I just wrote, and
+
+76
+00:05:27,344 --> 00:05:28,945
+here are the parameters.
+
+77
+00:05:28,945 --> 00:05:31,395
+Both these equations, actually,
+very simple equations.
+
+78
+00:05:31,395 --> 00:05:36,915
+So this one has a solutions,
+either the power plus, minus gamma x.
+
+79
+00:05:36,915 --> 00:05:41,070
+You can just plug it in and see
+the the derivative of the exponential and
+
+80
+00:05:41,070 --> 00:05:43,130
+the exponential is
+the exponential itself and,
+
+81
+00:05:43,130 --> 00:05:45,880
+well, clearly is going to
+satisfy this equation.
+
+82
+00:05:45,880 --> 00:05:49,340
+And the second equation, well,
+is just the three Schrodinger equation,
+
+83
+00:05:49,340 --> 00:05:53,220
+unsurprisingly, gives us just
+plain waves as the solution,
+
+84
+00:05:53,220 --> 00:05:57,550
+either applying plus minus pi K times x.
+
+85
+00:05:57,550 --> 00:06:01,200
+So and again, the challenge is going to
+be to match those guys in each of these
+
+86
+00:06:01,200 --> 00:06:03,310
+points, -a/2 and a/2.
+
+87
+00:06:03,310 --> 00:06:07,703
+Now it's not really necessary for
+the solution of the problem, but
+
+88
+00:06:07,703 --> 00:06:11,324
+I would like to use the symmetry
+of the problem here, and
+
+89
+00:06:11,324 --> 00:06:16,256
+this would give me an excuse in some
+sense to introduce the symmetry concepts
+
+90
+00:06:16,256 --> 00:06:19,438
+in quantum mechanics in
+a much broader context.
+
+91
+00:06:19,438 --> 00:06:24,145
+So namely, I would like to
+point out the following fact.
+
+92
+00:06:24,145 --> 00:06:30,090
+If the Hamiltonian commutes with an
+operator, A, this can be an operator for
+
+93
+00:06:30,090 --> 00:06:35,852
+any physical quantity, then the solutions
+to the Schrodinger equation,
+
+94
+00:06:35,852 --> 00:06:42,330
+that is, an equation which is
+an eigenvalue problem for the Hamiltonian.
+
+95
+00:06:42,330 --> 00:06:47,480
+So then these solutions can also be
+chosen to have definite value of E,
+
+96
+00:06:47,480 --> 00:06:52,180
+which means that the same solutions
+are going to be the eigenstates
+
+97
+00:06:52,180 --> 00:06:56,840
+of the eigenvalue problem for
+this operator A, whatever it is.
+
+98
+00:06:56,840 --> 00:07:02,090
+So in general, if the two operators were
+not to commute, so I wouldn't necessarily
+
+99
+00:07:02,090 --> 00:07:06,980
+have been able to find such a set of wave
+
+100
+00:07:06,980 --> 00:07:13,080
+function which would have both A and
+E, the energy, definite.
+
+101
+00:07:13,080 --> 00:07:18,379
+So but in the presence of such a symmetry,
+if you want this possibility exists.
+
+102
+00:07:18,379 --> 00:07:20,037
+Now what does this have
+to do with our problem?
+
+103
+00:07:20,037 --> 00:07:24,167
+So in our problem, we have a sort
+of rather obvious symmetry which
+
+104
+00:07:24,167 --> 00:07:27,710
+is essentially inversion
+symmetry of the potentials.
+
+105
+00:07:27,710 --> 00:07:33,250
+If we flip x, x goes to- x, so
+the potential is unchanged.
+
+106
+00:07:33,250 --> 00:07:36,287
+And so
+the kinetic energy also doesn't change, so
+
+107
+00:07:36,287 --> 00:07:39,263
+it's just a second derivative
+with respect to x.
+
+108
+00:07:39,263 --> 00:07:42,929
+So therefore the Hamiltonian,
+one can check,
+
+109
+00:07:42,929 --> 00:07:48,991
+that the Hamiltonian is indeed symmetric
+or invariant under this operation.
+
+110
+00:07:48,991 --> 00:07:53,190
+And so operator that actually enforces
+this inversion is this operator,
+
+111
+00:07:53,190 --> 00:07:57,726
+I, which basically takes x to minus x,
+and this operator has two eigenvalues,
+
+112
+00:07:57,726 --> 00:08:00,660
+the parities,
+which are either plus or minus one.
+
+113
+00:08:01,810 --> 00:08:06,710
+So, the functions which are eigenfunctions
+of this inversion operator
+
+114
+00:08:06,710 --> 00:08:09,428
+are either even or
+odd function of the coordinate.
+
+115
+00:08:09,428 --> 00:08:15,410
+And so, what are saying in this very
+complicated language is that we can
+
+116
+00:08:15,410 --> 00:08:21,010
+find the Eigen states of our problem,
+the solution to the Schrodinger equation,
+
+117
+00:08:21,010 --> 00:08:23,640
+which would be either odd or
+even functions.
+
+118
+00:08:23,640 --> 00:08:27,150
+That's all we're saying and, well, another
+statement that I would like to make is
+
+119
+00:08:27,150 --> 00:08:29,750
+that if there is a symmetry in
+the problem, you better use it.
+
+120
+00:08:29,750 --> 00:08:33,290
+So, it always simplifies things and
+never it makes things more complicated.
+
+121
+00:08:33,290 --> 00:08:35,300
+It always simplifies things.
+
+122
+00:08:35,300 --> 00:08:37,020
+And so
+that's what I'm going to do here as well.
+
+123
+00:08:37,020 --> 00:08:40,460
+So in general,
+if I were to ignore this symmetry, so
+
+124
+00:08:40,460 --> 00:08:44,820
+the solution to the Schrodinger
+equations we just discussed in this
+
+125
+00:08:44,820 --> 00:08:49,129
+region of the well would be an arbitrary
+linear combination of two plane waves.
+
+126
+00:08:50,150 --> 00:08:54,775
+Now I'm saying, so since there is this
+symmetry in the problem, so I would like,
+
+127
+00:08:54,775 --> 00:08:58,396
+instead of just having this
+arbitrary coefficient C1 and C2,
+
+128
+00:08:58,396 --> 00:09:02,372
+I would like to consider separately
+solutions with definite parity.
+
+129
+00:09:02,372 --> 00:09:08,230
+Either even functions,
+which is basically cosine with C1 = C2 or
+
+130
+00:09:08,230 --> 00:09:13,365
+a sine, which is an odd function,
+in which case C1 is equal
+
+131
+00:09:13,365 --> 00:09:19,148
+to a complex conjugate and
+these are purely measuring constants.
+
+132
+00:09:19,148 --> 00:09:20,399
+So in the following,
+
+133
+00:09:20,399 --> 00:09:24,776
+I'm going to specifically consider
+focus on this even solution, just for
+
+134
+00:09:24,776 --> 00:09:29,028
+simplicity, but you can find the general
+analysis in a number of books.
+
+135
+00:09:29,028 --> 00:09:32,860
+So this is the problem we are solving by
+the way is absolutely classical problem.
+
+136
+00:09:32,860 --> 00:09:36,840
+Classical not in the sense of classical
+physics, but in the sense that it appears
+
+137
+00:09:36,840 --> 00:09:42,430
+in just about every course or
+every book on quantum physics.
+
+138
+00:09:43,430 --> 00:09:46,940
+Now, having determined the solution
+we're interested in in region two,
+
+139
+00:09:46,940 --> 00:09:51,370
+we now have to determine
+the solutions in regions one and
+
+140
+00:09:51,370 --> 00:09:53,850
+three that we're going to be focusing on.
+
+141
+00:09:53,850 --> 00:09:56,840
+And by the way,
+the symmetry of the problem,
+
+142
+00:09:56,840 --> 00:09:58,940
+we can actually pick just
+one of these regions.
+
+143
+00:09:58,940 --> 00:10:02,260
+So we don't really have to use in
+this case both matching points.
+
+144
+00:10:02,260 --> 00:10:04,550
+We can do, well, just using one point.
+
+145
+00:10:05,560 --> 00:10:09,586
+And as we discussed, the general
+solution to the Schrodinger equation,
+
+146
+00:10:09,586 --> 00:10:14,480
+to this equation, in the region three
+is given by a linear combination of
+
+147
+00:10:14,480 --> 00:10:18,980
+these two exponentials, which are no
+longer oscillating functions but
+
+148
+00:10:18,980 --> 00:10:23,380
+are functions that are either decaying,
+
+149
+00:10:23,380 --> 00:10:27,790
+a rapidly decaying function,
+or a rapidly growing function.
+
+150
+00:10:27,790 --> 00:10:32,298
+And so, to simplify, to find the proper
+solution in the region three,
+
+151
+00:10:32,298 --> 00:10:37,031
+let's say, for R > a/2, we have to
+recall the constraint at infinity,
+
+152
+00:10:37,031 --> 00:10:40,288
+namely that the wave
+function must remain finite.
+
+153
+00:10:40,288 --> 00:10:41,996
+Well, actually, I should correct it.
+
+154
+00:10:41,996 --> 00:10:47,070
+It should actually go to
+0 as we go to infinity.
+
+155
+00:10:47,070 --> 00:10:51,763
+So otherwise if we don't impose this
+constraint, if we allow in this case this
+
+156
+00:10:51,763 --> 00:10:56,525
+term in the wave function, the probability
+of a particle to leak in some sense to
+
+157
+00:10:56,525 --> 00:11:00,962
+infinity would explode exponentially,
+which doesn't make any sense.
+
+158
+00:11:00,962 --> 00:11:07,098
+So therefore, we simply draw up
+the B term in this wave function and
+
+159
+00:11:07,098 --> 00:11:12,485
+only will focus on this wave
+function in the region three.
+
+160
+00:11:12,485 --> 00:11:18,740
+So now we're in a position to
+actually match the solutions.
+
+161
+00:11:18,740 --> 00:11:20,460
+We know the solution in each region.
+
+162
+00:11:20,460 --> 00:11:25,340
+So here I do present a solution in all
+of the regions, including region one.
+
+163
+00:11:25,340 --> 00:11:27,000
+So this guy is for region one.
+
+164
+00:11:27,000 --> 00:11:28,070
+This guy is for region two.
+
+165
+00:11:28,070 --> 00:11:29,710
+And this guy is for region three.
+
+166
+00:11:29,710 --> 00:11:30,460
+But as I said,
+
+167
+00:11:30,460 --> 00:11:35,810
+the symmetry, we can focus on one matching
+point and this is what I'm going to do.
+
+168
+00:11:35,810 --> 00:11:38,960
+So now we can write the wave
+function to the left at this point,
+
+169
+00:11:38,960 --> 00:11:44,740
+which is going to be C
+times cosine (ka/2) and
+
+170
+00:11:44,740 --> 00:11:47,710
+it must be equal to the wave function
+to the right, which is this guy,
+
+171
+00:11:47,710 --> 00:11:53,754
+which is A e- gamma a/2.
+
+172
+00:11:53,754 --> 00:11:56,180
+So this is the first matching condition.
+
+173
+00:11:56,180 --> 00:12:00,383
+And the second matching condition is going
+to be the derivative of this function.
+
+174
+00:12:00,383 --> 00:12:03,705
+So the derivative of cosine is minus sine,
+
+175
+00:12:03,705 --> 00:12:07,592
+so we're going to have-
+c times k sine (ka/2).
+
+176
+00:12:07,592 --> 00:12:12,055
+To the left, must be equal to-
+
+177
+00:12:12,055 --> 00:12:17,385
+A gamma e- gamma a/2 to the right.
+
+178
+00:12:17,385 --> 00:12:21,868
+And now what I'm going to do, I'm going to
+divide so let me call this equation,
+
+179
+00:12:21,868 --> 00:12:25,320
+equation number 2 and
+this going to be equation number 1.
+
+180
+00:12:25,320 --> 00:12:30,110
+And so if we divide equation
+number 2 by equation number 1,
+
+181
+00:12:30,110 --> 00:12:35,120
+which we're allowed to do, what we're
+going to get in the left-hand side
+
+182
+00:12:35,120 --> 00:12:42,350
+we're going to have k times sine
+over cosine is a tangent (ka/2).
+
+183
+00:12:42,350 --> 00:12:45,560
+And in the right-hand side, so
+the minuses will go away and
+
+184
+00:12:45,560 --> 00:12:48,250
+the exponentials are going to go away,
+we're going to get just gamma.
+
+185
+00:12:49,450 --> 00:12:53,790
+So here I have the same equation
+written explicitly in a nicer way.
+
+186
+00:12:53,790 --> 00:12:58,325
+And also I recall the definitions of gamma
+and K, that I made in a previous slide,
+
+187
+00:12:58,325 --> 00:13:02,150
+so K itself is the square
+root of 2mE over A squared,
+
+188
+00:13:02,150 --> 00:13:04,590
+and the energy is really
+what we're looking for.
+
+189
+00:13:04,590 --> 00:13:07,549
+The energy appears both
+in the left-hand side and
+
+190
+00:13:07,549 --> 00:13:10,586
+in the right-hand side in
+a rather nonlinear way.
+
+191
+00:13:10,586 --> 00:13:13,139
+And as a matter of fact, there is no way,
+
+192
+00:13:13,139 --> 00:13:16,080
+we cannot solve this
+equation analytically.
+
+193
+00:13:16,080 --> 00:13:19,405
+So this is a nonlinear
+algebraic equation and
+
+194
+00:13:19,405 --> 00:13:23,960
+it doesn't have a formal
+sort of closed solution in.
+
+195
+00:13:23,960 --> 00:13:27,578
+So which, by the way, is quite amazing
+that the problem as simple as this finite
+
+196
+00:13:27,578 --> 00:13:30,602
+potential, well, in one dimensional
+quantum mechanics which,
+
+197
+00:13:30,602 --> 00:13:34,169
+is just about the simplest problem you
+can think of, cannot really be solved.
+
+198
+00:13:34,169 --> 00:13:38,277
+So this tells you something about
+the technical complexity of
+
+199
+00:13:38,277 --> 00:13:40,180
+the Schrödinger equation.
+
+200
+00:13:41,530 --> 00:13:47,740
+Now, to proceed further towards a bit of
+numerical analysis or asymptotic analysis,
+
+201
+00:13:47,740 --> 00:13:52,870
+it's always a good idea in such
+cases to get rid of the physical,
+
+202
+00:13:52,870 --> 00:13:56,610
+dimensional quantity such as energy or
+this potential height,
+
+203
+00:13:56,610 --> 00:14:01,740
+which have physical dimension, and
+move to dimensionless parameters.
+
+204
+00:14:01,740 --> 00:14:06,460
+And so here the nature of dimensionless
+parameters are going to be, well,
+
+205
+00:14:06,460 --> 00:14:10,820
+basically the argument of this tangent,
+which is ka/2 and
+
+206
+00:14:10,820 --> 00:14:15,720
+the parameter introduced here,
+which is basically to be able to
+
+207
+00:14:15,720 --> 00:14:21,350
+write our equation in a nice and
+dimensionless way.
+
+208
+00:14:21,350 --> 00:14:26,510
+The reason why dealing with dimensionless
+quantities is much more convenient than
+
+209
+00:14:26,510 --> 00:14:31,970
+with quantities that has non-trivial,
+physical dimensions is because for
+
+210
+00:14:31,970 --> 00:14:35,880
+the former, we can talk about
+them being large or small.
+
+211
+00:14:35,880 --> 00:14:40,360
+So, we can say that something is small or
+large just comparing it with one.
+
+212
+00:14:40,360 --> 00:14:44,966
+While, for a dimensional quantity, it does
+really make sense to talk about larger.
+
+213
+00:14:44,966 --> 00:14:49,050
+It's more, unless we specify what we
+actually mean by that, for instance,
+
+214
+00:14:49,050 --> 00:14:51,100
+is one meter large or small?
+
+215
+00:14:51,100 --> 00:14:55,050
+Well, we don't know unless we compare it
+with the, let's say, size of an atom,
+
+216
+00:14:55,050 --> 00:14:58,170
+in which case it's clearly larger over
+the size of universe, in which case,
+
+217
+00:14:58,170 --> 00:14:59,730
+one meter is really small.
+
+218
+00:14:59,730 --> 00:15:03,810
+So here, once we get this parameter psi,
+
+219
+00:15:03,810 --> 00:15:09,680
+it allows us to define basically
+a deep and shallow potential.
+
+220
+00:15:09,680 --> 00:15:14,144
+So we will call the potential deep
+if this guy, this k psi squared,
+
+221
+00:15:14,144 --> 00:15:15,977
+is much larger than 1, and
+
+222
+00:15:15,977 --> 00:15:21,270
+the potential is going to be called
+shallow if it's much smaller than 1.
+
+223
+00:15:21,270 --> 00:15:26,360
+And by the way, in the following two
+video segments, we're going to be
+
+224
+00:15:26,360 --> 00:15:32,140
+focusing on shallow potentials which
+are well modeled by a delta function.
+
+225
+00:15:32,140 --> 00:15:36,423
+So, naively, you would think that
+delta function is something which is
+
+226
+00:15:36,423 --> 00:15:40,866
+actually very deep because it goes to
+infinity if you approach x equals 0.
+
+227
+00:15:40,866 --> 00:15:47,117
+Let's say if we're talking about potential
+u (x) which is, let's say,- u Delta (x).
+
+228
+00:15:47,117 --> 00:15:53,102
+But, well, delta (x),
+the potential of delta(x) is really,
+
+229
+00:15:53,102 --> 00:15:58,352
+it means to represent potential
+with a very small radius and
+
+230
+00:15:58,352 --> 00:16:05,320
+the radius in order for the integral of
+the Delta function to be equal to o1ne.
+
+231
+00:16:05,320 --> 00:16:07,150
+So the radius of the potential,
+
+232
+00:16:07,150 --> 00:16:11,600
+the size of the potential should scale
+with the depth of the potential as so.
+
+233
+00:16:11,600 --> 00:16:18,030
+So as a goes to zero, well, u naught
+is sort of proportional to one over a.
+
+234
+00:16:18,030 --> 00:16:22,870
+But here we see that
+the definition of a shallow
+
+235
+00:16:22,870 --> 00:16:28,000
+potential is u naught a squared times
+m over a squared must be more than 1,
+
+236
+00:16:28,000 --> 00:16:32,210
+which means that the delta potential is
+actually closer to a shallow potential
+
+237
+00:16:32,210 --> 00:16:35,630
+which is an important observation
+that we will take advantage later of.
+
+238
+00:16:35,630 --> 00:16:39,170
+But at this stage, let me just say that
+while we have these two special cases.
+
+239
+00:16:39,170 --> 00:16:43,990
+And even though we cannot solve
+exactly this equation for
+
+240
+00:16:43,990 --> 00:16:48,840
+a arbitrary side,
+we can do two separate analysis of this
+
+241
+00:16:48,840 --> 00:16:54,280
+equation in such two special cases,
+and here I present these analysis.
+
+242
+00:16:54,280 --> 00:16:56,426
+So this is, again, the same equation.
+
+243
+00:16:56,426 --> 00:17:00,002
+So the red tangent of x is plotted here.
+
+244
+00:17:00,002 --> 00:17:03,986
+So here, basically, I plot the functions
+on the left of this equation and
+
+245
+00:17:03,986 --> 00:17:06,260
+on the right of this equation.
+
+246
+00:17:06,260 --> 00:17:11,558
+And you see, by the way,
+that when x becomes larger than psi,
+
+247
+00:17:11,558 --> 00:17:16,910
+so this right-hand side becomes
+a purely imaginary constant,
+
+248
+00:17:16,910 --> 00:17:20,960
+which implies that there is definitely
+no solution to this equation,
+
+249
+00:17:20,960 --> 00:17:23,260
+as the tangent here does
+not become imaginary.
+
+250
+00:17:23,260 --> 00:17:28,707
+So it makes sense only to plot this
+
+251
+00:17:28,707 --> 00:17:34,550
+function for x as smaller than psi.
+
+252
+00:17:34,550 --> 00:17:39,860
+So, here I have an example of a deep
+potential where I say, set psi
+
+253
+00:17:39,860 --> 00:17:44,090
+to 20 and so I have all these red
+curves corresponding to the tangent and
+
+254
+00:17:44,090 --> 00:17:49,460
+this blue curve corresponds to
+the right-hand side, and wherever
+
+255
+00:17:49,460 --> 00:17:56,420
+I see a crossing between these two guys,
+so I see here, here, here, here, etcetera.
+
+256
+00:17:56,420 --> 00:17:58,360
+So I have a level.
+
+257
+00:17:58,360 --> 00:18:02,051
+In this case, I can count the number of
+levels that are allowed in this quantum.
+
+258
+00:18:02,051 --> 00:18:07,135
+Well, one, two, three, four, five,
+six, seven levels are allowed for
+
+259
+00:18:07,135 --> 00:18:10,321
+the symmetric wave functions, if psi = 20.
+
+260
+00:18:10,321 --> 00:18:14,840
+Now let's consider a relatively shallow
+potential that is on the other hand, so
+
+261
+00:18:14,840 --> 00:18:16,320
+let's say with psi = 1.
+
+262
+00:18:16,320 --> 00:18:21,332
+In this case, I only have to plot these
+functions for x is more than 1 and
+
+263
+00:18:21,332 --> 00:18:26,097
+there is just one crossing between
+the blue curve and the red curve,
+
+264
+00:18:26,097 --> 00:18:31,299
+which means that there is just one
+single level in the shallow potential.
+
+265
+00:18:31,299 --> 00:18:35,473
+Which by the way is a very important
+resolve that we're going to confirm on
+
+266
+00:18:35,473 --> 00:18:38,183
+the case of a one
+dimensional delta potential.
+
+267
+00:18:38,183 --> 00:18:42,170
+And we're going to see how this result
+is more defined in higher dimensions.
+
+268
+00:18:43,190 --> 00:18:47,124
+Now the last comment I'm going to
+make is that, and first of all,
+
+269
+00:18:47,124 --> 00:18:52,025
+I could have continued analysis of this
+self-consistency equation and there
+
+270
+00:18:52,025 --> 00:18:56,703
+is a lot to do to determine the actual
+numerical value of the energy levels to
+
+271
+00:18:56,703 --> 00:19:01,478
+see what happens with the anti-symmetric
+levels with the wave functions.
+
+272
+00:19:01,478 --> 00:19:05,992
+And I'm not going to do it right now
+in the lecture because admittedly it's
+
+273
+00:19:05,992 --> 00:19:10,358
+probably not the most exciting thing
+in quantum mechanics, so we'll
+
+274
+00:19:10,358 --> 00:19:15,100
+encourage you to take a look a various
+textbooks and other lectures online.
+
+275
+00:19:15,100 --> 00:19:20,680
+For example, these set of lectures
+by Professor Michael Fowler
+
+276
+00:19:20,680 --> 00:19:23,780
+at the University of Virginia.
+
+277
+00:19:23,780 --> 00:19:26,400
+In those we will see a few
+
+278
+00:19:26,400 --> 00:19:30,130
+problems of following up on
+this solution in your homework.
+
+279
+00:19:30,130 --> 00:19:35,850
+So you will have a chance to look
+into this problem in more detail and
+
+280
+00:19:35,850 --> 00:19:37,700
+understand the solution at a deeper level.

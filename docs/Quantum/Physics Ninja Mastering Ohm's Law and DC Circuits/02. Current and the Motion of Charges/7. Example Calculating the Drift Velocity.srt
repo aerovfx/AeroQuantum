@@ -1,0 +1,430 @@
+WEBVTT
+
+00:00.460 --> 00:04.560
+As do a simple example here of finding the draft philosophy.
+
+00:04.620 --> 00:12.090
+So why are used in experiments is typically made of copper and this radius here is approximately 0.7
+
+00:12.090 --> 00:19.020
+millimeters take the density of copper it's the density the material is eight point nine grams per centimeter
+
+00:19.020 --> 00:25.160
+cube and the molar mass of copper is approximately 63 three and a half grams per mole.
+
+00:25.170 --> 00:30.510
+All right so estimate the total charge of free electrons in each meter of this wire.
+
+00:30.840 --> 00:33.460
+If you have a current of one ampere.
+
+00:33.730 --> 00:33.970
+OK.
+
+00:33.990 --> 00:37.650
+So let's kind of just draw it out for a second here.
+
+00:37.650 --> 00:41.940
+Remember we have our equation here an equation that relates the current the drift velocity and everything
+
+00:41.940 --> 00:43.040
+else.
+
+00:43.090 --> 00:44.790
+Let's just examine what's going on here.
+
+00:44.790 --> 00:53.500
+So first we're going to have a length of copper that is 1 meter.
+
+00:53.750 --> 00:57.830
+So the first thing we have to do we know the density we have to figure out how many electrons are located
+
+00:57.830 --> 00:58.590
+in this one.
+
+00:58.670 --> 01:00.060
+What is the total charge.
+
+01:00.060 --> 01:01.760
+Q inside.
+
+01:02.030 --> 01:04.680
+Well let's think about our equation for a second.
+
+01:04.730 --> 01:08.800
+So if we have one meter I know that density of copper is this.
+
+01:08.900 --> 01:13.520
+Let me try to figure out how many actual copper atoms are located in this one meter.
+
+01:13.610 --> 01:14.200
+Right.
+
+01:14.240 --> 01:15.650
+What is the number of atoms.
+
+01:15.770 --> 01:19.940
+And I know each one here gives me approximately 1 free electron.
+
+01:19.940 --> 01:26.450
+So if I can figure out what is the number of copper atoms in per meter I know the volume because I know
+
+01:26.450 --> 01:29.560
+the cross-sectional area here I know the radius.
+
+01:29.720 --> 01:33.170
+So I could probably calculate what the cross-sectional area is.
+
+01:33.260 --> 01:35.670
+I know the length is 1 meter.
+
+01:35.690 --> 01:37.530
+So lets start thinking about this.
+
+01:37.550 --> 01:45.220
+So first you consider the volume What is the total volume while its going to be the length multiplied
+
+01:45.220 --> 01:48.240
+by the area in that area.
+
+01:48.250 --> 01:50.190
+So let's just do the length is one.
+
+01:50.250 --> 01:51.840
+Actually I don't even need to write that.
+
+01:52.330 --> 02:01.630
+And it's a one multiplied by the cross section which is going to be pi the circle an R squared in radius
+
+02:01.630 --> 02:08.240
+here is 0.7 times ten to the minus three and I'll square that value.
+
+02:08.670 --> 02:12.000
+OK so that's the total volume and that's measured in meters cube.
+
+02:12.410 --> 02:14.380
+So I have a number for that.
+
+02:14.470 --> 02:19.280
+Our next thing we have to do now is figure out how many atoms do I have here how many copper atoms do
+
+02:19.280 --> 02:20.970
+I have per meter cube.
+
+02:21.370 --> 02:24.280
+So let's think about this just from the dimensions.
+
+02:24.320 --> 02:31.130
+So if you're given the density our density here is in grams per centimeter cube.
+
+02:31.340 --> 02:31.730
+All right.
+
+02:31.730 --> 02:34.670
+And I know that the molar mass is in grams per mole.
+
+02:35.060 --> 02:42.800
+So actually if I wanted to get rid of grams here I could do is I could do something like this I could
+
+02:42.800 --> 02:50.430
+do grams per mole and you'll see that here I got grams in the numerator here I have it in the denominator.
+
+02:50.750 --> 02:56.720
+So at the end here I'm going to get the number of miles per centimeter cube and I can do one more thing
+
+02:56.720 --> 02:59.110
+I want to really know where it is the number of atoms.
+
+02:59.110 --> 03:00.050
+Right.
+
+03:00.170 --> 03:07.580
+The overall goal number of atoms copper atoms per meter cube while we could first start by calculating
+
+03:07.580 --> 03:10.630
+per centimeter cube then I can convert it.
+
+03:10.670 --> 03:15.430
+So this first term here is the density This is eight point nine.
+
+03:15.440 --> 03:21.830
+Now this second term over here in grams per mole the second bracket over here if you wish is this smaller
+
+03:21.830 --> 03:27.950
+mass you got to be careful this is sixty three point five grams per mole.
+
+03:28.070 --> 03:28.390
+All right.
+
+03:28.390 --> 03:30.890
+And that takes care of these grams.
+
+03:30.920 --> 03:33.920
+Now I'm not quite there at the end I wanted to know how many atoms there are.
+
+03:33.920 --> 03:36.530
+Now all I know is how many moles per centimeter cube.
+
+03:36.710 --> 03:41.960
+But if I use Avogadro's number I think I can do that right because Avogadro's number is measured in
+
+03:41.960 --> 03:46.280
+the number of atoms we want to get rid of moles.
+
+03:46.370 --> 03:48.980
+So we have to have it like this.
+
+03:48.980 --> 03:50.780
+You introduce another bracket here.
+
+03:51.020 --> 03:59.380
+This here is simply Avogadro's number which is six point zero two times ten of the 23 atoms primal.
+
+03:59.570 --> 04:01.440
+And now you see the moles are going to cancel out.
+
+04:01.460 --> 04:03.300
+Moles are going to cancel out.
+
+04:03.620 --> 04:08.600
+And if I evaluate these three thing these three terms just multiply through well here you got to divide
+
+04:08.630 --> 04:13.200
+but at the end what you are going to get is the number of atoms percentage meter cube.
+
+04:13.670 --> 04:19.710
+I did this correctly it should get eight point four seven multiplied by 10 of the 22.
+
+04:20.360 --> 04:27.890
+And again this is an atoms per centimeter cube you can convert that right away to meter's cube.
+
+04:27.900 --> 04:29.560
+Let you do that again.
+
+04:29.570 --> 04:30.670
+Pretty straightforward.
+
+04:30.680 --> 04:37.980
+Eight point seven times ten to the twenty eight atoms per metre cube.
+
+04:40.820 --> 04:41.200
+All right.
+
+04:41.210 --> 04:46.220
+So now that we know that we know that each one now each of those Adam gives you one electron.
+
+04:46.700 --> 04:49.490
+So we now really have our charge density.
+
+04:49.760 --> 04:50.850
+All right.
+
+04:51.240 --> 04:52.180
+Let's write that out.
+
+04:52.190 --> 05:02.300
+So the charge density of the free electrons again charge density will be measured in cool ohms per metre
+
+05:02.300 --> 05:05.670
+cube.
+
+05:05.700 --> 05:10.740
+So what you need to do now is if I have something in atoms per metre cube I would need to multiply that
+
+05:10.740 --> 05:17.070
+by cool ohms per atom in order to get rid of that and that I know right because I know each atom gives
+
+05:17.070 --> 05:18.170
+me one electron.
+
+05:18.180 --> 05:25.970
+So you have to have 1.6 times tend the negative 19 cool ohms per annum.
+
+05:26.190 --> 05:32.430
+Thats the number of free electrons multiplied by the total number of atoms so this is going to be eight
+
+05:32.430 --> 05:36.150
+point four seven multiplied by 10 of the 28
+
+05:38.720 --> 05:40.200
+atoms per meter cube.
+
+05:40.880 --> 05:43.550
+All right you see that the atoms cancel out.
+
+05:43.550 --> 05:49.800
+And at the end my total kind of charge density for these free electrons I right is f e over here.
+
+05:50.050 --> 05:57.230
+If I did this correctly should give me one point three six times ten to the ten.
+
+05:57.230 --> 06:00.930
+Cool ohms perimeter cube.
+
+06:00.990 --> 06:01.520
+All right.
+
+06:01.810 --> 06:05.080
+So you want to know now is the total charge.
+
+06:05.250 --> 06:08.570
+Well again we know what our total volume is.
+
+06:08.670 --> 06:08.930
+All right.
+
+06:08.930 --> 06:12.580
+Because the length is one in our cross-sectional area was here.
+
+06:13.020 --> 06:16.040
+So what you can do now is if you want to determine what the total charges.
+
+06:16.050 --> 06:22.590
+Q Is you simply multiply this density that we just got the density of the free electrons multiplied
+
+06:22.590 --> 06:24.570
+by the volume.
+
+06:24.570 --> 06:26.600
+All right I'll let you carry that out.
+
+06:26.610 --> 06:33.700
+I did it and I found 2.8 multiplied by 10 of the four cool ohms perimeter.
+
+06:33.870 --> 06:40.140
+Again it's cool almost because we're really just looking at one meter here of wire.
+
+06:40.430 --> 06:50.440
+So on one meter of wire there's quite a bit of charge 2.8 times 10 of the four coulombs 28000 cool homes.
+
+06:50.450 --> 06:50.720
+All right.
+
+06:50.720 --> 06:54.350
+So this is these kind of the problems kind of come up pretty often.
+
+06:54.560 --> 07:00.410
+Again if you're given some information about the density typically just do some dimensional analysis
+
+07:00.410 --> 07:06.820
+to figure out how many kind of atoms do you actually have in a block of material.
+
+07:07.040 --> 07:12.530
+Now each atom has a lot more electrons but only some of them will contribute to the current.
+
+07:12.530 --> 07:18.980
+For copper it's typically one free electron per atom for silver for other materials it might be a slightly
+
+07:18.980 --> 07:24.430
+different number but it's not all of these electrons that contribute right.
+
+07:24.440 --> 07:28.880
+Not all of the copper electrons that are going to contribute to the current And I think that's the important
+
+07:28.880 --> 07:29.830
+point here.
+
+07:30.240 --> 07:30.530
+OK.
+
+07:30.620 --> 07:35.450
+So for Part B we're just asked to calculate what the drift philosophy is in the equations up here so
+
+07:35.450 --> 07:39.560
+let's just start with that and maybe just rearrange the equation a little bit so you can right that
+
+07:39.560 --> 07:41.470
+the drift velocity if you know the current.
+
+07:41.630 --> 07:48.200
+I know got to be a little bit careful how we have still our number density number of free electrons
+
+07:48.680 --> 07:49.120
+meters.
+
+07:49.130 --> 07:55.130
+Q multiplied by the charge of each one multiply by that cross-section which we know what this expression
+
+07:55.130 --> 07:56.690
+simplifies a little bit.
+
+07:56.690 --> 08:02.420
+Remember what this is a number of electrons per meter.
+
+08:02.420 --> 08:09.830
+Q And if you multiplied by the charge of each electron This basically is given me in the number of charges
+
+08:09.920 --> 08:14.590
+right the total charge and cool ohms per meter cube.
+
+08:15.800 --> 08:17.090
+Well I had that value right.
+
+08:17.090 --> 08:19.090
+I mean this is basically the total charge.
+
+08:19.090 --> 08:26.230
+Q divided by the volume which is the area multiplied by the length the length is 1 meter.
+
+08:26.800 --> 08:27.240
+OK.
+
+08:27.440 --> 08:32.360
+So let's just go ahead and just replace this right that's what any is any is basically the total charge
+
+08:32.660 --> 08:35.550
+divided by the total volume that I'm looking at.
+
+08:35.570 --> 08:38.200
+So all you have to do here is just multiply or just right.
+
+08:38.210 --> 08:44.780
+I say that if this guy were going to raise the total charge here and that 1 meter length of wire divided
+
+08:44.780 --> 08:52.980
+by a and multiply by 1 here I still have that definition which includes another area term over here.
+
+08:53.240 --> 08:57.480
+So you could see this simplifies a little bit those area terms cancel out.
+
+08:57.950 --> 09:00.830
+The length is one so you don't really have to worry about that.
+
+09:01.130 --> 09:06.230
+So all we're left with here is what is the current divided by basically the charge per unit length here
+
+09:06.840 --> 09:09.310
+the current for this problem here was 1 amp.
+
+09:09.580 --> 09:16.740
+So you get 1 divided by 2.8 times ten to the four.
+
+09:16.810 --> 09:20.990
+And this is going to be giving me my drift velocity so the drift velocity put that in the calculator
+
+09:21.640 --> 09:28.320
+which you get at the end is approximately 3.6 times ten of the minus 5.
+
+09:28.400 --> 09:32.690
+And since I've kept everything in S-I units I should get meters per second.
+
+09:33.080 --> 09:34.250
+At the end.
+
+09:34.840 --> 09:35.760
+OK.
+
+09:35.870 --> 09:41.630
+A lot of times you write these philosophies in millimeters per second just kind of get rid of some of
+
+09:41.630 --> 09:42.850
+those terms.
+
+09:43.040 --> 09:48.640
+So that's 3.6 times ten to the minus two that's in millimeters per second.
+
+09:49.190 --> 09:53.530
+So you can see that the drift velocity in kind of typical copper is extremely small.
+
+09:53.540 --> 09:54.100
+Right.

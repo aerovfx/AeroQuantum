@@ -1,0 +1,85 @@
+WEBVTT
+
+00:00.130 --> 00:05.280
+I concept check a light bulb is connected to the battery is shown here and figure a one a second bulb
+
+00:05.280 --> 00:10.190
+is connected like in figure B what happens to the brightness of the original bulb.
+
+00:10.620 --> 00:12.820
+OK you are comparing A to B.
+
+00:12.830 --> 00:16.030
+Those the original bulb increase decrease they the same.
+
+00:16.030 --> 00:16.540
+Go out.
+
+00:16.540 --> 00:18.420
+Are you unable to determine.
+
+00:18.870 --> 00:19.620
+So again.
+
+00:19.740 --> 00:22.560
+Well we could just calculate the current in each case.
+
+00:22.560 --> 00:24.160
+This one is pretty straightforward.
+
+00:24.370 --> 00:25.710
+Just assume you have some.
+
+00:25.710 --> 00:27.920
+Again we're considering ideal cases here.
+
+00:28.110 --> 00:36.330
+So the amount of current you get for Case Number one given by Ohm's law you should get v over are.
+
+00:36.480 --> 00:41.260
+Now what do you get in the second case if you connect another bulb and let's assume that it's identical.
+
+00:41.640 --> 00:46.890
+Well again if you do the same loop is what you previously did you're going to get that the current again
+
+00:46.920 --> 00:47.840
+through this one.
+
+00:47.850 --> 00:54.170
+Call it I one is going to be a battery divided by the value of the resistance.
+
+00:54.510 --> 01:02.070
+You're also going to find that the current Aitu through the top bulb is also going to be the same and
+
+01:02.070 --> 01:04.540
+it's the same as the first case.
+
+01:04.670 --> 01:07.980
+Right because we have an ideal powers apply here.
+
+01:07.980 --> 01:14.100
+So at the end of the day the bulb brightness has to be the same for every bulb in this configuration
+
+01:14.100 --> 01:14.690
+here.
+
+01:14.700 --> 01:16.890
+So what happens to the original bulb.
+
+01:16.890 --> 01:20.400
+The best answer here is stays the same.
+
+01:20.400 --> 01:25.320
+In the ideal case which you end up doing since the currents are always the same you just end up getting
+
+01:25.320 --> 01:28.110
+more current flowing through this battery.
+
+01:28.110 --> 01:32.870
+So the battery has to do more work on these charges.
+
+01:32.880 --> 01:36.710
+Right so there's more power being supplied by the battery to light up.
+
+01:36.720 --> 01:37.710
+Both of these bulbs.

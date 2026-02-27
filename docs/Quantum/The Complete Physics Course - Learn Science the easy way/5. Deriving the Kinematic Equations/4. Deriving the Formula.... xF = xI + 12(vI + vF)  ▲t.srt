@@ -1,0 +1,71 @@
+1
+00:00:00,150 --> 00:00:05,820
+We have Formula One, which represents our average philosophy and formulative, which represents our
+
+2
+00:00:05,820 --> 00:00:11,460
+average velocity, when I'm going to do right now is this I'm just going to rewrite the both of them.
+
+3
+00:00:13,240 --> 00:00:14,890
+And set them equal to each other.
+
+4
+00:00:15,980 --> 00:00:25,540
+Now, what I'm do is I'm going to solve this out for Veth I'm sorry EXIF and we'll get ourselves a third
+
+5
+00:00:25,870 --> 00:00:26,850
+kinematic formula.
+
+6
+00:00:27,610 --> 00:00:29,080
+So how do I go about doing this.
+
+7
+00:00:29,770 --> 00:00:37,220
+OK, well if I want to isolate the access, I have a division of Delta T over here.
+
+8
+00:00:37,480 --> 00:00:38,640
+So what do I have to do.
+
+9
+00:00:38,650 --> 00:00:43,210
+I have to multiply Delta T on both sides of the equation.
+
+10
+00:00:44,220 --> 00:00:51,250
+OK, so now that we have that let's add exi to both sides of the equation.
+
+11
+00:00:52,250 --> 00:00:52,950
+All right.
+
+12
+00:00:53,140 --> 00:00:56,050
+And we're just going to do one last thing here.
+
+13
+00:00:56,170 --> 00:01:05,190
+Looking at this, the eye plus de'ath divided by two isn't that's taking one half of the eye plus the
+
+14
+00:01:05,200 --> 00:01:05,500
+math.
+
+15
+00:01:05,500 --> 00:01:07,620
+Isn't that just taking a half of it.
+
+16
+00:01:07,990 --> 00:01:13,870
+I could rewrite this and the very last thing is I'm just going to rearrange this.
+
+17
+00:01:13,870 --> 00:01:16,930
+I'm just going to put our exile in the front.
+
+18
+00:01:19,210 --> 00:01:22,750
+And this is our third kinematic equation.

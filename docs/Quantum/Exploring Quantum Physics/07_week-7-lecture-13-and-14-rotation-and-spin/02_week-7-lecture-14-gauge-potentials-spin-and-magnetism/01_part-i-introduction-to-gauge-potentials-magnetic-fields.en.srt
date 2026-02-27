@@ -1,0 +1,557 @@
+1
+00:00:01,940 --> 00:00:06,350
+Hello everyone, welcome back to Exploring
+Quantum Physics, I'm Charles Clark.
+
+2
+00:00:06,350 --> 00:00:09,870
+In this lecture, we're just going to, go
+through and explore some very
+
+3
+00:00:09,870 --> 00:00:13,260
+practical tools, for understanding and
+using angular
+
+4
+00:00:13,260 --> 00:00:16,310
+momentum, to tailor to your own
+applications.
+
+5
+00:00:16,310 --> 00:00:18,690
+At least when you look with simple
+problems.
+
+6
+00:00:18,690 --> 00:00:22,470
+And I think these techniques will be
+useful to you, in a
+
+7
+00:00:22,470 --> 00:00:24,800
+variety of other areas of angular
+
+8
+00:00:24,800 --> 00:00:27,409
+work solving problems in physics and
+engineering.
+
+9
+00:00:28,830 --> 00:00:31,520
+simulation, even video game composition.
+
+10
+00:00:32,690 --> 00:00:38,991
+So, in previous discussion we found that
+any purely, [SOUND]
+
+11
+00:00:38,991 --> 00:00:44,930
+radial function, has zero angular
+momentum, almost by, it's by definition.
+
+12
+00:00:44,930 --> 00:00:46,210
+There's no variation.
+
+13
+00:00:46,210 --> 00:00:51,730
+An angle and that for example is
+demonstrated by
+
+14
+00:00:53,940 --> 00:00:59,990
+by this, this [INAUDIBLE]
+So, lets look at the some familiar
+
+15
+00:00:59,990 --> 00:01:05,010
+things to find functions that have
+definite and nontrivial angular Momentum.
+
+16
+00:01:05,010 --> 00:01:09,540
+And we understand the spherical system,
+pretty clearly by now.
+
+17
+00:01:09,540 --> 00:01:12,680
+Okay, so how about the, the three
+Cartesian coordinates?
+
+18
+00:01:12,680 --> 00:01:13,180
+Well,
+
+19
+00:01:15,730 --> 00:01:20,930
+we've, gone, you've gone through these,
+type of calculations before.
+
+20
+00:01:20,930 --> 00:01:26,210
+Here is the, operation [INAUDIBLE]
+operator.
+
+21
+00:01:26,210 --> 00:01:32,810
+On one of the Cartesian coordinates
+returns the other Cartesian coordinates.
+
+22
+00:01:32,810 --> 00:01:37,360
+So this, this indicates that, when an
+angular momentum operates
+
+23
+00:01:37,360 --> 00:01:40,710
+on a cartesian coordiante, it It works
+within a close set.
+
+24
+00:01:40,710 --> 00:01:45,580
+Whatever it does, it brings back, a linear
+combination of others.
+
+25
+00:01:45,580 --> 00:01:52,324
+And so this is consistent with what you
+can show that the the Cartesian
+
+26
+00:01:52,324 --> 00:01:58,400
+coordinates are members that have a
+definite momentum of l.
+
+27
+00:01:58,400 --> 00:02:04,300
+Equal to one, meaning in quantum mechanics
+that value that is in them.
+
+28
+00:02:04,300 --> 00:02:06,910
+Associated with the motion of, motion
+that's
+
+29
+00:02:06,910 --> 00:02:09,970
+combined to a single set of Cartesian
+
+30
+00:02:09,970 --> 00:02:12,820
+coordinates, is Associated with an angular
+momentum
+
+31
+00:02:12,820 --> 00:02:15,325
+of h bar, we'd use Planck's constant.
+
+32
+00:02:15,325 --> 00:02:20,640
+[SOUND].
+
+33
+00:02:20,640 --> 00:02:25,410
+So, we've found ourselves, some handy
+eigenfunctions of angular momentum
+
+34
+00:02:25,410 --> 00:02:30,760
+with [INAUDIBLE]
+the one.
+
+35
+00:02:30,760 --> 00:02:33,670
+And now, here's what you might call
+practical use if
+
+36
+00:02:33,670 --> 00:02:40,740
+you just, you just multiply those
+coordinates by a spherical galsin.
+
+37
+00:02:42,480 --> 00:02:46,030
+You get, you get a convenient set of
+molecular orbitals.
+
+38
+00:02:47,140 --> 00:02:52,210
+These are often used by chemists in
+describing bonding, because
+
+39
+00:02:52,210 --> 00:02:56,750
+they are, they're orbitals that are direct
+along a particular axis.
+
+40
+00:02:56,750 --> 00:02:57,198
+Here's the.
+
+41
+00:02:57,198 --> 00:03:03,420
+p1 or px the p2 or p y, p3 or p z.
+
+42
+00:03:04,600 --> 00:03:06,710
+So these are, these are again things that
+
+43
+00:03:06,710 --> 00:03:11,530
+have very simple, properties with respect
+to angular momentum.
+
+44
+00:03:11,530 --> 00:03:14,970
+But they can be oriented in space no more
+less arbitrary fashion.
+
+45
+00:03:14,970 --> 00:03:21,830
+[BLANK_AUDIO]
+
+46
+00:03:21,830 --> 00:03:27,320
+So here is a, fairly straightforward light
+hearted quiz for you to
+
+47
+00:03:27,320 --> 00:03:31,420
+investigate some of the other properties
+associated with this type of flexibility.
+
+48
+00:03:31,420 --> 00:03:35,020
+You know, what other things are,
+determined by the positioning
+
+49
+00:03:35,020 --> 00:03:38,880
+of states of angular momentum where you
+want them to be.
+
+50
+00:03:39,940 --> 00:03:46,190
+Okay, so these Cartesian coordinates are
+in some sense, you might say chemists.
+
+51
+00:03:46,190 --> 00:03:48,986
+[BLANK_AUDIO]
+
+52
+00:03:48,986 --> 00:03:53,700
+Choice of [INAUDIBLE]
+of eigenfunctions.
+
+53
+00:03:53,700 --> 00:03:59,850
+They're well, they're well suited to
+describing structural relationships.
+
+54
+00:03:59,850 --> 00:04:02,030
+If you have a carbon ring you might, you
+
+55
+00:04:02,030 --> 00:04:05,810
+might use Orbitals that are lying along
+molecular bonds.
+
+56
+00:04:07,680 --> 00:04:08,510
+But here's another one.
+
+57
+00:04:08,510 --> 00:04:10,380
+It's, in some sense a very
+
+58
+00:04:10,380 --> 00:04:14,720
+straight forward, linear combination of
+those three.
+
+59
+00:04:14,720 --> 00:04:17,810
+It just involves X1 and X2, and X3.
+
+60
+00:04:17,810 --> 00:04:22,910
+So here are, here are three independent,
+choices.
+
+61
+00:04:22,910 --> 00:04:25,210
+But these have, a definite,
+
+62
+00:04:27,760 --> 00:04:29,940
+projection, of, of the.
+
+63
+00:04:31,130 --> 00:04:37,660
+Third L3 the conventional z component of
+the angular momentum.
+
+64
+00:04:37,660 --> 00:04:39,400
+1, 0, and minus 1.
+
+65
+00:04:39,400 --> 00:04:41,870
+And they satisfy
+
+66
+00:04:44,670 --> 00:04:45,960
+this relationship.
+
+67
+00:04:45,960 --> 00:04:51,316
+[BLANK_AUDIO]
+
+68
+00:04:51,316 --> 00:04:56,963
+Which we, the raising and lowering op,
+[UNKNOWN]
+
+69
+00:04:56,963 --> 00:05:02,770
+raising and lowering operators When they
+act upon one of these they change
+
+70
+00:05:02,770 --> 00:05:08,380
+its its magnetic quantum number and 5 plus
+or minus 1.
+
+71
+00:05:08,380 --> 00:05:16,470
+And useful feature of these is that let's
+say let's take the 1, 1 which is the
+
+72
+00:05:18,490 --> 00:05:27,960
+The, the eigenfunction with, m equal, plus
+1, L equal 1, and m equal plus 1.
+
+73
+00:05:27,960 --> 00:05:36,800
+And if we just take if we raise it to an
+arbitrary power, We get a
+
+74
+00:05:39,050 --> 00:05:44,890
+a state with a, with that raising the lth
+power, we get
+
+75
+00:05:46,000 --> 00:05:52,510
+L units of angular momentum along the, the
+lth re-axis.
+
+76
+00:05:52,510 --> 00:05:56,830
+And it turns out that that, that is also
+
+77
+00:05:56,830 --> 00:06:01,790
+a, an Eigen function of angular momentum
+with value L.
+
+78
+00:06:01,790 --> 00:06:08,470
+So by, by taking, taking successive powers
+of, of this,
+
+79
+00:06:10,600 --> 00:06:13,590
+of either this, this, function or the.
+
+80
+00:06:13,590 --> 00:06:20,256
+The minus 1, we can go to extremal,
+
+81
+00:06:20,256 --> 00:06:28,300
+[SOUND]
+value of m.
+
+82
+00:06:28,300 --> 00:06:38,169
+And then, that becomes the, the largest m,
+[SOUND].
+
+83
+00:06:38,169 --> 00:06:39,950
+For a given L.
+
+84
+00:06:42,230 --> 00:06:46,850
+And one can then use the lowering
+operator, for example, to step down and
+
+85
+00:06:46,850 --> 00:06:50,220
+systematically generate all the,
+eigenfunctions of any
+
+86
+00:06:50,220 --> 00:06:52,770
+given minimum with that particular Value
+of L.
+
+87
+00:06:56,970 --> 00:06:59,900
+[SOUND] Yes here's that constructive
+procedure I was just mentioning.
+
+88
+00:07:01,850 --> 00:07:03,700
+You define these primitives.
+
+89
+00:07:05,092 --> 00:07:10,940
+You use those with ah,angular momentum of
+plus 1 Minus 1.
+
+90
+00:07:10,940 --> 00:07:12,460
+And then, for example just
+
+91
+00:07:16,580 --> 00:07:24,760
+take the, the L full product of the plus 1
+to get the LL state and then use L minus.
+
+92
+00:07:24,760 --> 00:07:30,880
+Operating on that, in order to, to step
+down, and then just,
+
+93
+00:07:30,880 --> 00:07:37,960
+repeat as necessary to exhaust, all the,
+states of spectrum.
+
+94
+00:07:37,960 --> 00:07:43,204
+And perhaps, perhaps you can see that,
+when
+
+95
+00:07:43,204 --> 00:07:48,330
+you do this, you're basically creating.
+
+96
+00:07:48,330 --> 00:07:53,049
+A large polynomial in the, in the three
+
+97
+00:07:53,049 --> 00:07:58,340
+variables, x1, x2, x3, and then your
+
+98
+00:07:59,484 --> 00:08:04,203
+the minus operator, l minus is equal to
+
+99
+00:08:04,203 --> 00:08:09,208
+Lx minus iLy you know, so Lx Lx or L1 I
+
+100
+00:08:09,208 --> 00:08:14,650
+should say is equal to x2p3 minus x3p2.
+
+101
+00:08:14,650 --> 00:08:18,340
+What that does is, it keeps the order of a
+polynomial the same,
+
+102
+00:08:18,340 --> 00:08:20,770
+but it just dis, it redistributes
+
+103
+00:08:20,770 --> 00:08:24,200
+the powers, between the several Cartesian
+coordinates.
+
+104
+00:08:24,200 --> 00:08:26,520
+So, this is, this is an, you know.
+
+105
+00:08:26,520 --> 00:08:29,150
+Is a little indication, that, when you,
+when
+
+106
+00:08:29,150 --> 00:08:32,140
+you operate in the lowering, the lowering
+operator.
+
+107
+00:08:32,140 --> 00:08:35,235
+You're not changing the, degree of the
+polynomial structure.
+
+108
+00:08:35,235 --> 00:08:43,460
+[SOUND]
+Well, finally, if you.
+
+109
+00:08:43,460 --> 00:08:47,010
+Do a Google search on the phrase spherical
+harmonics.
+
+110
+00:08:47,010 --> 00:08:53,690
+You'll see that they are used in, remain,
+remarkable, variety of applications.
+
+111
+00:08:53,690 --> 00:08:55,010
+For example in,
+
+112
+00:08:57,230 --> 00:09:02,920
+processing and synthesis of images, and
+understand,
+
+113
+00:09:02,920 --> 00:09:08,500
+trying to give greater realism, in the
+apparent properties of reflected light.
+
+114
+00:09:09,590 --> 00:09:11,850
+it, it turns out that the spherical
+harmonic's
+
+115
+00:09:11,850 --> 00:09:16,810
+an incredibly efficient way, of
+representing and encoding information.
+
+116
+00:09:16,810 --> 00:09:22,454
+They're sort of like the 48 transform, on
+the surface of a sphere, and in many
+
+117
+00:09:22,454 --> 00:09:28,340
+cases as we've seen in some of these
+quantum mechanics Problems.
+
+118
+00:09:28,340 --> 00:09:33,340
+They, they encode, information about an
+orbit that extends
+
+119
+00:09:33,340 --> 00:09:36,640
+throughout all of space, in a very
+efficient way.

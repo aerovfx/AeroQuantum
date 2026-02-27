@@ -1,0 +1,184 @@
+WEBVTT
+
+00:00.590 --> 00:04.070
+All right here's example three called charge on the plates.
+
+00:04.110 --> 00:09.680
+So we have a 10 mega ohm resistor that's connected in series to a 1 micro ferrite capacitor.
+
+00:09.810 --> 00:16.140
+And in this case here there's also a 12 volt battery at time equals to zero the capacitors on charge.
+
+00:16.140 --> 00:21.450
+They're asking you what fraction of the final charge is on the plate that time equals the 46 seconds
+
+00:21.450 --> 00:26.460
+that the longtime And here are kind of five different choices.
+
+00:26.460 --> 00:27.710
+There's nothing you can really guess.
+
+00:27.710 --> 00:29.880
+You actually just have to solve the problem.
+
+00:29.940 --> 00:34.050
+Again this is a circuit here the charging circuit.
+
+00:34.050 --> 00:35.620
+So it looks something like this.
+
+00:35.640 --> 00:38.420
+We have a battery.
+
+00:38.780 --> 00:40.670
+We have a resistor.
+
+00:41.090 --> 00:45.590
+And then we're going to have our capacitor over here.
+
+00:45.590 --> 00:45.880
+All right.
+
+00:45.890 --> 00:54.530
+So just a basic circuit that we've seen value of the capacitance over here is one micro one times ten
+
+00:54.530 --> 01:06.950
+to the minus 6 Feraud the value of the resistance is ten and Mega is ten times ten to the six ohms.
+
+01:06.950 --> 01:11.080
+And then the value of the battery here is a 12 volt battery.
+
+01:11.330 --> 01:11.870
+OK.
+
+01:12.230 --> 01:16.700
+Other important information that tell us is it's initially uncharged.
+
+01:16.850 --> 01:18.890
+If it's initially an charge it means two things.
+
+01:18.890 --> 01:22.490
+It means the initial charge q zero is zero.
+
+01:22.730 --> 01:26.920
+And it also means that the voltage the initial voltage across the plates is zero.
+
+01:27.350 --> 01:27.560
+Right.
+
+01:27.560 --> 01:34.610
+Remember our basic capacitor equation is that the charge at any time equals to C multiplied by the voltage
+
+01:34.610 --> 01:36.160
+at any time.
+
+01:36.170 --> 01:38.860
+All right so what do we have going on here.
+
+01:39.260 --> 01:43.910
+As soon as you kind of connect this system here you're going to start building charge on the plates.
+
+01:43.910 --> 01:49.490
+If you plot the charge of the function of time remember what it looks like it looks like this exponential
+
+01:49.490 --> 01:50.210
+function.
+
+01:50.480 --> 01:58.940
+And this tends toward some saturation value some final value and the value over here simply see multiplied
+
+01:58.940 --> 02:01.130
+by the voltage of the battery.
+
+02:01.370 --> 02:05.800
+That's the final charge and for the charging case our equation now was.
+
+02:05.900 --> 02:11.790
+Q As a function of time equals to my final charge which is C multiplied by V.
+
+02:12.380 --> 02:19.630
+And now the time dependence looks like this minus T over R C.
+
+02:20.120 --> 02:20.350
+All right.
+
+02:20.360 --> 02:26.870
+And this function over here is represented by kind of this sketch over here as time gets very very big
+
+02:27.230 --> 02:33.440
+this term here doesn't matter anymore and you're simply left with c times V multiplied by 1.
+
+02:33.440 --> 02:38.000
+All right let's have a look at our equation now and see what they want they want which fraction of the
+
+02:38.000 --> 02:39.560
+final charge.
+
+02:39.830 --> 02:42.240
+All right what is the fraction of the final charge.
+
+02:42.500 --> 02:48.590
+Well that's actually what they're really asking for here is q of T multiplied by the final charge the
+
+02:48.590 --> 02:51.320
+final charge is c times V K.
+
+02:51.320 --> 02:54.110
+This is the final charge.
+
+02:54.140 --> 02:56.630
+Let me just make a note of that.
+
+02:56.720 --> 03:01.800
+Q f the final charges C multiplied by the voltage of the battery.
+
+03:02.450 --> 03:08.960
+So really all are really asked in this problem then is to evaluate this function exponential of minus
+
+03:08.990 --> 03:12.290
+T over R C.
+
+03:12.720 --> 03:13.790
+Substitute the values.
+
+03:13.790 --> 03:19.420
+Now we have one minus exponential minus 46.
+
+03:19.430 --> 03:28.350
+It's already in seconds and divided by 1 times 10 of the minus 6 multiplied by 10.
+
+03:28.460 --> 03:33.470
+Ten of the six actually see this tend to the 6 and 10 to the minus 6 they're simply going to cancel
+
+03:33.470 --> 03:33.880
+out.
+
+03:34.040 --> 03:37.030
+So really you're going to be left with 10 over here.
+
+03:37.220 --> 03:41.680
+So once you substitute this in to your calculator you should evaluate something that comes up to zero
+
+03:41.680 --> 03:43.470
+point nine nine.
+
+03:44.220 --> 03:45.440
+OK.
+
+03:45.470 --> 03:51.680
+So really after 46 seconds if I look on this graph you're really kind of right here at the end right
+
+03:51.770 --> 03:53.630
+if this is 46 seconds.
+
+03:53.840 --> 04:00.420
+You're at ninety nine percent of the final charge that you're going to get if you let this go on forever.
+
+04:00.830 --> 04:04.190
+All right you've got ninety nine percent of the way there.
+
+04:04.610 --> 04:08.430
+So kind of a standard charging at the plates.
+
+04:08.540 --> 04:10.240
+Hopefully you kind of understand this one.

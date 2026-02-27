@@ -1,0 +1,88 @@
+WEBVTT
+
+00:00.170 --> 00:00.410
+All right.
+
+00:00.450 --> 00:03.620
+I want to show you here are just some electric field maps here.
+
+00:03.630 --> 00:10.110
+So on the left hand side I have just a single one nano Coolum charge placed right here at the center.
+
+00:10.240 --> 00:15.360
+And now you could see and all of the vectors here represent the electric field at different positions
+
+00:15.360 --> 00:19.450
+in space so you'd see the electric field over here points away from it.
+
+00:19.560 --> 00:26.300
+The electric field on this side points away from this positive charge always away from the charge.
+
+00:26.780 --> 00:31.850
+At every point you can calculate the magnet to the brightness of the arrow represents the magnitude.
+
+00:31.860 --> 00:37.470
+So as I go far away from those charges you could see that the brightness goes down.
+
+00:37.470 --> 00:43.030
+And again that's because we have k q over R squared.
+
+00:43.320 --> 00:47.440
+As I go far away again the distance R gets bigger.
+
+00:47.480 --> 00:47.810
+Right.
+
+00:47.820 --> 00:52.730
+Imagine here I'd be looking at a distance R which is significantly bigger.
+
+00:52.890 --> 00:58.410
+And if I'm dividing by a large distance I'm going to make the magnitude smaller.
+
+00:59.100 --> 01:01.620
+So again over here the vectors aren't shorter.
+
+01:01.620 --> 01:03.120
+That's another way to depict them.
+
+01:03.210 --> 01:06.150
+In this case here the vectors are just not as bright.
+
+01:06.150 --> 01:10.630
+And that means that the magnitude is less but they still point away.
+
+01:12.310 --> 01:18.390
+Even out here they point away from this positive charge on the right hand side here what I have is just
+
+01:18.390 --> 01:18.990
+the opposite.
+
+01:18.990 --> 01:25.230
+OK I have a negative one nano cool home charge and now you can see everywhere that the electric field
+
+01:25.260 --> 01:33.840
+always points toward it and always a vector always pointing toward whatever is producing it.
+
+01:33.840 --> 01:40.710
+Because I know it's negative over here as I get closer those vectors would be bigger in magnitude again
+
+01:40.740 --> 01:47.180
+because of this guy right here I'm dividing by a smaller number one I'm close to the negative charge.
+
+01:47.190 --> 01:53.710
+So the electric field gets very very big but again it always points toward negative charges.
+
+01:53.970 --> 01:54.150
+OK.
+
+01:54.150 --> 02:00.090
+Kind of a nice tool but I want to do now is look at what happens now if we have several point charges.
+
+02:00.090 --> 02:00.300
+All right.
+
+02:00.300 --> 02:06.000
+How do we apply or how do we calculate the electric field in the space if we have a positive point charge
+
+02:06.000 --> 02:09.240
+here maybe another positive or negative somewhere else in space.

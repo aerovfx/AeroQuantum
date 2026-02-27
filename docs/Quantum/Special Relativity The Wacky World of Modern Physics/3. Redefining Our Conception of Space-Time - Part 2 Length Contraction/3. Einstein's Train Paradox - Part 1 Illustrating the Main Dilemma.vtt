@@ -1,0 +1,909 @@
+WEBVTT
+
+1
+00:00:18.200 --> 00:00:24.200
+All right, in our last lesson, we go a bit further down the wacky world of special relativity and
+
+2
+00:00:24.200 --> 00:00:29.210
+we learn about a new relativistic effect known as length contraction.
+
+3
+00:00:29.480 --> 00:00:30.500
+What do we find out?
+
+4
+00:00:30.800 --> 00:00:38.210
+We discovered that a moving body is observed to be contracted, that in a rest frame.
+
+5
+00:00:38.210 --> 00:00:46.220
+If we observe an entity that's moving any kind of length in that reference frame will appear to be shortened.
+
+6
+00:00:46.700 --> 00:00:53.180
+OK, so this is known as length contraction and compared to our everyday experience of length of things
+
+7
+00:00:53.180 --> 00:00:57.240
+in the world, in the universe, this idea was very weird.
+
+8
+00:00:57.470 --> 00:01:00.110
+It was very contrary to how we would experience things.
+
+9
+00:01:00.110 --> 00:01:07.640
+We in general, we we feel like the length or the way which measure the length of an object should not
+
+10
+00:01:07.640 --> 00:01:10.610
+change if there's any relative motion between the two.
+
+11
+00:01:11.150 --> 00:01:16.600
+OK, so this implied effect of life contraction is weird in and of itself.
+
+12
+00:01:16.610 --> 00:01:20.920
+So what I want to do in this video is run through a quick example with you.
+
+13
+00:01:20.930 --> 00:01:22.010
+I'm holding your hand.
+
+14
+00:01:22.310 --> 00:01:26.090
+Help you to build up intuition with this weird effect so you can understand it.
+
+15
+00:01:26.450 --> 00:01:31.460
+And then I'll unleash you to do your own kind of problems by yourself to learn independently.
+
+16
+00:01:32.240 --> 00:01:38.120
+In this video, we're going to run through an example, and it's going to divulge a very weird effect
+
+17
+00:01:38.300 --> 00:01:41.100
+that arises as a result of length contraction, right?
+
+18
+00:01:41.120 --> 00:01:47.120
+As we have seen in previous lessons, previous effects we've uncovered, right?
+
+19
+00:01:47.360 --> 00:01:54.290
+It may arise some weird relativistic effect, but if you dive further down into the rabbit hole, it
+
+20
+00:01:54.290 --> 00:01:56.270
+just gets weirder and weirder and weirder.
+
+21
+00:01:56.420 --> 00:02:01.010
+OK, so we're going to make things strange or we're going to challenge your interpretation of this idea,
+
+22
+00:02:01.220 --> 00:02:08.390
+challenge your conception of the universe and open your eyes to what is actually happening at relativistic
+
+23
+00:02:08.390 --> 00:02:08.870
+speeds.
+
+24
+00:02:08.900 --> 00:02:14.690
+OK, so the problem we're going to take a look at is the following OK, we're going to have terrorism
+
+25
+00:02:14.720 --> 00:02:15.080
+fill up.
+
+26
+00:02:15.080 --> 00:02:16.520
+They're going to do a new experiment.
+
+27
+00:02:17.210 --> 00:02:21.980
+They discover this weird effects that they want to build intuition with it, with you.
+
+28
+00:02:21.980 --> 00:02:22.370
+Two.
+
+29
+00:02:22.940 --> 00:02:30.440
+So what they do is they buy a standard box car, which has a length of fifty five point four two feet
+
+30
+00:02:30.830 --> 00:02:35.180
+and that was looked up by standard manufacturers of box cars.
+
+31
+00:02:35.540 --> 00:02:40.700
+And what they're going to do is Terence, he says, OK, I'm going to travel up some speed and I'm going
+
+32
+00:02:40.700 --> 00:02:42.590
+to travel into this tunnel.
+
+33
+00:02:43.400 --> 00:02:51.020
+The question is, if Philip, you're observing this on Earth, how fast do I have to travel such that
+
+34
+00:02:51.020 --> 00:02:57.140
+my life, according to you, is contracted is shortened so that this tunnel can encapsulate my life
+
+35
+00:02:57.140 --> 00:03:02.270
+so that I can shrink to such an amount that I fit inside this tunnel, OK?
+
+36
+00:03:02.510 --> 00:03:07.220
+So the problem statement officially says the pose that a standard boxcar of life 55 point forty two
+
+37
+00:03:07.220 --> 00:03:10.910
+feet is about to travel through a tunnel of like 20 feet.
+
+38
+00:03:11.450 --> 00:03:14.720
+So this guy 20 feet, how fast must it travel?
+
+39
+00:03:14.870 --> 00:03:18.730
+Such an observer sees the train fit inside the tunnel.
+
+40
+00:03:18.740 --> 00:03:22.940
+OK, so what have you kind of problems and special relativity?
+
+41
+00:03:23.150 --> 00:03:25.900
+The first thing you want to do is get your bearings straight.
+
+42
+00:03:25.920 --> 00:03:27.770
+OK, what is the proper length?
+
+43
+00:03:28.040 --> 00:03:29.330
+What is the proper time?
+
+44
+00:03:29.390 --> 00:03:34.910
+OK, so first and foremost, what we're dealing with here is length contraction.
+
+45
+00:03:34.910 --> 00:03:40.870
+We're going to focus on the mike, but it might be a valuable exercise to also identify the proper time.
+
+46
+00:03:40.880 --> 00:03:49.070
+So what we learned in the last video is that the proper length is the length of which it's the reference
+
+47
+00:03:49.070 --> 00:03:53.090
+frame where measuring the length of something jives, well, her intuition, right?
+
+48
+00:03:53.420 --> 00:03:55.280
+And that occurs in the rest frame, right?
+
+49
+00:03:55.340 --> 00:03:58.190
+When we measure something generally, we don't move it.
+
+50
+00:03:58.340 --> 00:03:59.590
+We keep it stationary.
+
+51
+00:03:59.630 --> 00:04:02.480
+We figure out the left and the right side and then we measure it.
+
+52
+00:04:02.480 --> 00:04:04.040
+And that occurs in a rest frame.
+
+53
+00:04:04.040 --> 00:04:05.300
+That's the best way to do it.
+
+54
+00:04:05.630 --> 00:04:08.420
+That's how we do it in everyday life situations.
+
+55
+00:04:08.430 --> 00:04:18.830
+So what we found is that the proper length is defined as the reference frame where the object is stationary.
+
+56
+00:04:19.020 --> 00:04:25.250
+OK, and then life gets contract in the reference frame, where that object is moving relative to the
+
+57
+00:04:25.250 --> 00:04:25.820
+rest room.
+
+58
+00:04:25.820 --> 00:04:32.720
+So what situation implies that the life of this guy is stationary?
+
+59
+00:04:33.110 --> 00:04:37.400
+Well, or rather at rest, well in is frame.
+
+60
+00:04:37.760 --> 00:04:46.130
+What he sees is he's in the car and he does not think that the boxcar is moving at all because he's
+
+61
+00:04:46.130 --> 00:04:47.840
+moving at the same speed as the boxcar.
+
+62
+00:04:47.840 --> 00:04:51.800
+What he sees is it looks like the tunnel is moving towards him.
+
+63
+00:04:52.190 --> 00:04:59.270
+So in his reference frame, the length of the boxcar is at rest and he would measure it just as we do
+
+64
+00:04:59.420 --> 00:05:01.370
+in any kind of everyday situation, right?
+
+65
+00:05:01.580 --> 00:05:07.010
+You pull out that measuring tape, figure out the left side, figure out the right side and measure
+
+66
+00:05:07.010 --> 00:05:07.190
+it.
+
+67
+00:05:07.460 --> 00:05:15.470
+So based upon that, that I guess interpretation of what's going on, we would say the proper length
+
+68
+00:05:15.800 --> 00:05:17.500
+would be intact.
+
+69
+00:05:17.600 --> 00:05:21.880
+This is a reference frame right there, so I'm going to put that element right there.
+
+70
+00:05:22.120 --> 00:05:28.000
+We know that in his reference frame, the car fifty five point four two feet is not going to change.
+
+71
+00:05:28.330 --> 00:05:35.560
+So this is going to be fifty five point four two feet now if we're doing things related to time.
+
+72
+00:05:35.740 --> 00:05:43.300
+We would also want to measure the proper, yeah, the proper time.
+
+73
+00:05:43.390 --> 00:05:43.750
+OK.
+
+74
+00:05:44.800 --> 00:05:46.300
+In this situation, we're going to skip that.
+
+75
+00:05:46.330 --> 00:05:46.630
+OK.
+
+76
+00:05:46.750 --> 00:05:49.270
+So this is the proper light, according to Terrence.
+
+77
+00:05:51.150 --> 00:05:58.890
+So Philip is going to see a contract at length, and we want to specify the philosophy it takes for
+
+78
+00:05:58.890 --> 00:06:02.160
+this guy to look like it contracted to fit inside this guy.
+
+79
+00:06:02.520 --> 00:06:02.820
+But.
+
+80
+00:06:03.930 --> 00:06:07.680
+Just taking the life right here, we know that this guy is going to be 20 feet.
+
+81
+00:06:07.830 --> 00:06:10.110
+That's what it is, regardless of a reference frame.
+
+82
+00:06:11.390 --> 00:06:14.870
+And we need to figure out the velocity that Terrence has to travel.
+
+83
+00:06:15.020 --> 00:06:20.720
+What should he set the car to travel, such as it looks like to him that it fits inside this tunnel?
+
+84
+00:06:21.020 --> 00:06:27.260
+OK, so we can do that by taking advantage of what we just arrived our life contraction formula so we
+
+85
+00:06:27.260 --> 00:06:31.940
+could take L is equal to L not.
+
+86
+00:06:33.060 --> 00:06:33.870
+Over.
+
+87
+00:06:34.910 --> 00:06:36.800
+Gamma, and I'm going to back up a bit here.
+
+88
+00:06:37.190 --> 00:06:44.510
+I want to specify this as well is the length time that we want this guy to shrink to, OK?
+
+89
+00:06:44.780 --> 00:06:50.600
+Because remember, this is the proper length it's going to be shaped by this shrunk by this Lorentz
+
+90
+00:06:50.600 --> 00:06:51.110
+factor.
+
+91
+00:06:51.860 --> 00:06:55.610
+And then it's going to be that we want this to be the same life as this guy.
+
+92
+00:06:55.730 --> 00:06:57.290
+OK, so we know these parameters.
+
+93
+00:06:57.290 --> 00:06:58.790
+We know Elmo, and we know.
+
+94
+00:06:59.180 --> 00:07:06.080
+OK, so let's factor we know is one over the square root of one, minus the relativistic velocity PETA
+
+95
+00:07:06.080 --> 00:07:06.590
+squared.
+
+96
+00:07:06.980 --> 00:07:10.490
+So if we divide by this, the radical flips up.
+
+97
+00:07:11.000 --> 00:07:20.360
+So this just becomes nothing more than Elmont times the square root of one minus theta square.
+
+98
+00:07:20.960 --> 00:07:27.290
+So if we want to solve for the velocity we need to solve for beta, because remember, theta is the
+
+99
+00:07:27.290 --> 00:07:28.670
+relativistic velocity.
+
+100
+00:07:29.030 --> 00:07:31.640
+It's just B over C.
+
+101
+00:07:31.880 --> 00:07:32.360
+All right.
+
+102
+00:07:32.570 --> 00:07:33.830
+So how can we do this?
+
+103
+00:07:33.830 --> 00:07:36.160
+What we could do is we could square both sides.
+
+104
+00:07:36.170 --> 00:07:41.420
+We can get el squared is equal to Elmont squared.
+
+105
+00:07:43.220 --> 00:07:46.220
+Times one minus beta squared.
+
+106
+00:07:48.220 --> 00:07:50.980
+And then we could divide this guy over there to get.
+
+107
+00:07:52.810 --> 00:07:55.830
+Elsewhere over Elmont Square.
+
+108
+00:07:58.910 --> 00:07:59.720
+And.
+
+109
+00:08:02.690 --> 00:08:07.010
+We accept set that equal to one minus beta square.
+
+110
+00:08:07.610 --> 00:08:11.090
+Now what we could do is we could add the beta squared over here.
+
+111
+00:08:11.450 --> 00:08:15.250
+Move this guy over there by subtracting it, and then we could take the square root.
+
+112
+00:08:15.600 --> 00:08:17.780
+So I'll do it in a criminal statute.
+
+113
+00:08:17.780 --> 00:08:19.850
+Make sure you guys are following along with me.
+
+114
+00:08:22.140 --> 00:08:29.670
+So data comes over here, we get the data squared and then we get a one minus L over L not.
+
+115
+00:08:30.360 --> 00:08:32.950
+And I'm going to write it as such, right?
+
+116
+00:08:32.970 --> 00:08:36.000
+Because if we write as such, the square applies to both terms.
+
+117
+00:08:38.500 --> 00:08:42.190
+And all we have left to do is just to say well.
+
+118
+00:08:43.520 --> 00:08:44.030
+Data.
+
+119
+00:08:45.330 --> 00:08:52.770
+The square root is equal to the square root of one minus L or El Norte.
+
+120
+00:08:53.520 --> 00:08:55.460
+And then we square the sky.
+
+121
+00:08:55.470 --> 00:09:01.050
+So with this guy, we can use this to figure out, well, the relativistic velocity.
+
+122
+00:09:01.050 --> 00:09:03.240
+That's let's be pretty straightforward.
+
+123
+00:09:03.840 --> 00:09:07.410
+So that's going to be just multiplied by C. We take better multiply by C.
+
+124
+00:09:09.030 --> 00:09:12.750
+And we get one minus L.
+
+125
+00:09:14.420 --> 00:09:20.720
+Over Elmont, this guy squared and multiply it by a factor of C.
+
+126
+00:09:20.840 --> 00:09:22.910
+OK, so what we could do?
+
+127
+00:09:22.940 --> 00:09:28.010
+What's left is we just plug and chug, plug in the parameters we've identified, and that's why it's
+
+128
+00:09:28.010 --> 00:09:30.320
+important to identify the proper length.
+
+129
+00:09:30.800 --> 00:09:31.700
+Just plug it in there.
+
+130
+00:09:31.880 --> 00:09:38.990
+And that will tell us how fast tenants will have to travel to shrink to the size of that tunnel.
+
+131
+00:09:39.200 --> 00:09:39.650
+OK.
+
+132
+00:09:40.820 --> 00:09:44.270
+So if I check my notes, we got the same exact result.
+
+133
+00:09:44.720 --> 00:09:45.380
+So that's good.
+
+134
+00:09:45.740 --> 00:09:49.080
+And what we need to do is we need to just plug it shocks.
+
+135
+00:09:49.100 --> 00:09:49.790
+Let's do that.
+
+136
+00:09:49.790 --> 00:09:53.210
+So we write the square root.
+
+137
+00:09:53.540 --> 00:09:54.950
+We put one minus.
+
+138
+00:09:55.310 --> 00:09:59.510
+We want the Lincoln Tunnel right here as identified 20 feet.
+
+139
+00:10:02.460 --> 00:10:04.770
+Over the proper length of 55 point four.
+
+140
+00:10:11.440 --> 00:10:14.710
+And we want to square these guys and then multiply by 50.
+
+141
+00:10:15.940 --> 00:10:21.850
+So if we whip out to 83 and plot these numbers straight in, we plug and chug chug along.
+
+142
+00:10:22.790 --> 00:10:34.190
+We find that the train will have to chug along at a value of zero point nine three three times the speed
+
+143
+00:10:34.190 --> 00:10:34.760
+of light.
+
+144
+00:10:35.180 --> 00:10:36.350
+OK, so.
+
+145
+00:10:38.150 --> 00:10:44.540
+It's not surprising that we have to go close to the speed of light because relativistic effects such
+
+146
+00:10:44.540 --> 00:10:47.750
+as length, contraction and time dilation.
+
+147
+00:10:49.990 --> 00:10:52.630
+Occur when we're traveling close to the speed of light.
+
+148
+00:10:53.110 --> 00:10:57.490
+OK, so this says and this is a remarkable feature, remarkable fact.
+
+149
+00:10:58.000 --> 00:10:59.470
+This is verifiable.
+
+150
+00:10:59.620 --> 00:11:03.730
+This is exactly what we would observe in real life if this actually happened.
+
+151
+00:11:04.210 --> 00:11:10.720
+But what we find is that if parents travels at a velocity of zero point nine three three times the speed
+
+152
+00:11:10.720 --> 00:11:18.070
+of light to fill up, it's going to look as though this guide short shrinks down to the size of this
+
+153
+00:11:18.070 --> 00:11:18.560
+tunnel.
+
+154
+00:11:18.610 --> 00:11:20.770
+And it will fit inside of the tunnel.
+
+155
+00:11:21.290 --> 00:11:21.820
+Whoa.
+
+156
+00:11:22.210 --> 00:11:23.890
+That's a crazy, crazy idea, right?
+
+157
+00:11:24.220 --> 00:11:32.710
+So that really takes a slap in the face of our intuition, of our everyday conception of reality.
+
+158
+00:11:32.800 --> 00:11:33.150
+OK.
+
+159
+00:11:33.370 --> 00:11:35.080
+But we've sort of seen that.
+
+160
+00:11:35.080 --> 00:11:38.380
+So it's not a surprising this is what we would have expected.
+
+161
+00:11:38.830 --> 00:11:42.140
+But as I said in the beginning of the year, we're going to dive a bit deeper.
+
+162
+00:11:42.160 --> 00:11:42.520
+OK.
+
+163
+00:11:42.820 --> 00:11:43.870
+So fill up.
+
+164
+00:11:44.500 --> 00:11:47.950
+This conception of what would happen here is correct.
+
+165
+00:11:48.850 --> 00:11:53.410
+Let's take a deeper look at what Terrence is going to observe.
+
+166
+00:11:53.920 --> 00:11:55.090
+What is he going to observe?
+
+167
+00:11:55.100 --> 00:12:03.490
+So for him in his situation, as I said, it looks like the train is stationary and both fill up and
+
+168
+00:12:03.490 --> 00:12:05.560
+the tunnel are going to be moving towards him.
+
+169
+00:12:06.220 --> 00:12:14.380
+So as I mentioned in the last video, there's an inherent asymmetry that is built into this effect,
+
+170
+00:12:14.380 --> 00:12:14.710
+right?
+
+171
+00:12:15.590 --> 00:12:24.680
+He may see a life contraction fill up, that is, but Terrence may also observe a life contraction,
+
+172
+00:12:25.070 --> 00:12:27.050
+and they're both right.
+
+173
+00:12:27.320 --> 00:12:28.260
+They're both right.
+
+174
+00:12:28.280 --> 00:12:28.580
+Right.
+
+175
+00:12:28.850 --> 00:12:36.980
+Because your experience of the universe is nothing more than your perspective than the way in which
+
+176
+00:12:36.980 --> 00:12:39.410
+you perceive events transpiring in front of you.
+
+177
+00:12:40.010 --> 00:12:48.050
+So, according to Terrence, if it looks like this is moving well, you know, the applied effect of
+
+178
+00:12:48.050 --> 00:12:52.730
+life contraction is that a moving body is observed to contract.
+
+179
+00:12:53.060 --> 00:12:54.560
+So to him.
+
+180
+00:12:55.640 --> 00:13:00.800
+It will look as though the title contracts, even though to fill up, that does not contract.
+
+181
+00:13:01.310 --> 00:13:03.500
+And he's right, he's right.
+
+182
+00:13:03.890 --> 00:13:06.340
+So that's what I feel sort of scratching his head.
+
+183
+00:13:06.350 --> 00:13:08.690
+He's like, Yo, Terrence, what are you talking about, man?
+
+184
+00:13:09.140 --> 00:13:10.250
+That makes no sense.
+
+185
+00:13:10.250 --> 00:13:11.060
+I don't observe that.
+
+186
+00:13:11.060 --> 00:13:11.960
+You're crazy, bro.
+
+187
+00:13:12.440 --> 00:13:14.200
+So let's take a deeper look at this.
+
+188
+00:13:14.210 --> 00:13:18.500
+So according to him, what he's going to say is.
+
+189
+00:13:19.800 --> 00:13:27.830
+Fill up, you know, this is stationary and his reference frame, so now according to fill up, this
+
+190
+00:13:27.830 --> 00:13:28.850
+is the proper length.
+
+191
+00:13:29.780 --> 00:13:32.690
+And the life he measures is going to be.
+
+192
+00:13:33.220 --> 00:13:39.950
+And then it becomes L, it becomes L, so again, the implied effect is that a moving body is observed
+
+193
+00:13:39.950 --> 00:13:41.000
+to be contracted.
+
+194
+00:13:41.410 --> 00:13:42.440
+So he's less moving.
+
+195
+00:13:42.590 --> 00:13:43.670
+It has to get smaller.
+
+196
+00:13:44.150 --> 00:13:46.110
+Let's calculate what that would have to be.
+
+197
+00:13:46.170 --> 00:13:47.930
+So we just use the same exact formula.
+
+198
+00:13:48.410 --> 00:13:50.060
+These guys are just sort of flipped.
+
+199
+00:13:50.180 --> 00:13:54.590
+So according to two, I'll put a little line there, according to Terrence.
+
+200
+00:13:54.890 --> 00:14:00.800
+He's going to say the length of the tunnel is going to be contracted as such.
+
+201
+00:14:01.190 --> 00:14:01.550
+OK.
+
+202
+00:14:01.760 --> 00:14:06.640
+So what we could do is, you know.
+
+203
+00:14:07.670 --> 00:14:16.460
+The Lorentz factor, the square root pops up, we get nothing more than Elmont and the square root of
+
+204
+00:14:16.460 --> 00:14:19.610
+one minus B the squared.
+
+205
+00:14:21.180 --> 00:14:25.580
+You know, PETA is no more than point ninety three million plug in show up.
+
+206
+00:14:26.180 --> 00:14:26.600
+So.
+
+207
+00:14:27.880 --> 00:14:30.970
+In this case, the proper length is going to be the 20.
+
+208
+00:14:31.970 --> 00:14:41.840
+So we get 20 feet times the square root of one minus zero point nine three three.
+
+209
+00:14:42.770 --> 00:14:44.060
+Quantity squared
+
+210
+00:14:46.640 --> 00:14:52.040
+and that's going to be equal to wait for this.
+
+211
+00:14:52.050 --> 00:14:52.820
+Wait for it.
+
+212
+00:14:52.820 --> 00:14:53.570
+Wait for it.
+
+213
+00:14:55.140 --> 00:14:56.150
+Three six feet.
+
+214
+00:14:57.170 --> 00:15:01.280
+That's right, it gets contracted to two point three six feet.
+
+215
+00:15:05.220 --> 00:15:06.090
+Wait a minute.
+
+216
+00:15:08.300 --> 00:15:15.350
+If Phillips says that this guy is going to shrink down to a size, that's 20 feet.
+
+217
+00:15:16.810 --> 00:15:18.070
+And he's got to feet in the tunnel.
+
+218
+00:15:18.580 --> 00:15:24.850
+But Terrence says that the tunnel is going to shrink from 20 feet to two point three six feet.
+
+219
+00:15:25.360 --> 00:15:29.920
+And according to him, the length of his car, which is fifty five point four two feet.
+
+220
+00:15:30.250 --> 00:15:34.390
+There's no way it could fit inside of this.
+
+221
+00:15:34.780 --> 00:15:36.790
+Well, what's going on?
+
+222
+00:15:37.450 --> 00:15:40.390
+According to Einstein Phillips, right?
+
+223
+00:15:41.840 --> 00:15:43.250
+Terrence is right to.
+
+224
+00:15:46.370 --> 00:15:48.200
+You want to scratch your head, like fill up.
+
+225
+00:15:49.100 --> 00:15:53.450
+How can they both be right when their conclusions contradict each other?
+
+226
+00:15:53.870 --> 00:15:54.800
+What's going on here?
+
+227
+00:15:55.220 --> 00:15:56.150
+What's going on here?

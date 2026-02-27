@@ -1,0 +1,251 @@
+1
+00:00:00,210 --> 00:00:05,610
+OK, so let's get into problem number nine, so number nine says when Maggie apply the brakes of her
+
+2
+00:00:05,610 --> 00:00:14,240
+car, the car slows uniformly from 15 meters per second to zero meters per second in 2.5 seconds.
+
+3
+00:00:14,250 --> 00:00:18,150
+How many meters before a stop sign Mushi apply her brakes.
+
+4
+00:00:18,780 --> 00:00:20,370
+OK, well, what's happening here?
+
+5
+00:00:20,580 --> 00:00:27,150
+Kind of sounds like that Maggie is driving in our car and she's slowing down to a stop sign that she's
+
+6
+00:00:27,150 --> 00:00:28,560
+coming to a complete stop.
+
+7
+00:00:28,740 --> 00:00:31,590
+That's what the zero meters per second is telling us right now.
+
+8
+00:00:31,620 --> 00:00:33,960
+So let's pull out some given information.
+
+9
+00:00:34,290 --> 00:00:36,980
+What do you think that her initial position is going to be?
+
+10
+00:00:37,230 --> 00:00:40,080
+Hey, it doesn't really tell us anything specific.
+
+11
+00:00:40,080 --> 00:00:42,330
+So we're just going to go ahead and say it's zero
+
+12
+00:00:46,200 --> 00:00:49,110
+slows uniformly from this.
+
+13
+00:00:50,050 --> 00:00:54,560
+Velocity down to this velocity, we know its velocity because it says meters per second.
+
+14
+00:00:54,760 --> 00:00:57,770
+So what is this, 15 meters per second actually representing?
+
+15
+00:00:57,790 --> 00:00:59,670
+Is that the initial velocity or final velocity?
+
+16
+00:00:59,870 --> 00:01:05,860
+And what she's uniformly slowing down from 15 meters per second to zero meters per second.
+
+17
+00:01:05,890 --> 00:01:11,920
+Hopefully you're saying yourself that that's her initial velocity, the 15 and that the zero is her
+
+18
+00:01:11,920 --> 00:01:13,090
+final velocity.
+
+19
+00:01:14,270 --> 00:01:20,570
+And we have two point five seconds, that's the time span that she's doing and how many meters before
+
+20
+00:01:20,570 --> 00:01:22,970
+steps on Mushie apply her brakes.
+
+21
+00:01:23,390 --> 00:01:28,310
+OK, so it sounds like that we're really just looking for the distance or the the final position.
+
+22
+00:01:29,230 --> 00:01:29,670
+Right.
+
+23
+00:01:31,520 --> 00:01:38,630
+OK, so the there's no mention of acceleration and it's not asking us for the acceleration, so that's
+
+24
+00:01:38,630 --> 00:01:42,950
+going to be the variable that we don't care about and that's the one that we're going to be using to
+
+25
+00:01:43,040 --> 00:01:44,360
+determine our equation.
+
+26
+00:01:44,390 --> 00:01:48,770
+So once again, how are we dealing with the average velocity now?
+
+27
+00:01:48,780 --> 00:01:49,070
+Right.
+
+28
+00:01:49,080 --> 00:01:50,360
+So we're not going to be using that one.
+
+29
+00:01:50,540 --> 00:01:54,680
+Let's come through here and actually just pick out all the ones that do have the acceleration.
+
+30
+00:01:54,710 --> 00:01:59,830
+We do see right here we have acceleration, not going to use this one or by this formula.
+
+31
+00:02:00,530 --> 00:02:02,360
+I don't see acceleration in there.
+
+32
+00:02:02,630 --> 00:02:04,650
+OK, what about this one?
+
+33
+00:02:04,670 --> 00:02:08,100
+Yeah, we got acceleration right there, OK.
+
+34
+00:02:08,450 --> 00:02:10,010
+And what about this formula?
+
+35
+00:02:10,580 --> 00:02:11,690
+We got acceleration right there.
+
+36
+00:02:11,690 --> 00:02:13,760
+So we're not going to be using this one.
+
+37
+00:02:14,210 --> 00:02:14,690
+All right.
+
+38
+00:02:14,700 --> 00:02:18,140
+So it looks like that we're going to be using Formula number four for this problem.
+
+39
+00:02:18,560 --> 00:02:21,440
+So let's go through this math.
+
+40
+00:02:24,970 --> 00:02:31,660
+And once again, just make sure that you wrote the center correctly, and I think that we're looking
+
+41
+00:02:31,660 --> 00:02:32,030
+good.
+
+42
+00:02:32,140 --> 00:02:36,340
+OK, so always once again, make sure that you verify that you were done correctly.
+
+43
+00:02:36,530 --> 00:02:37,180
+Oh, look at this.
+
+44
+00:02:37,180 --> 00:02:37,720
+I like this.
+
+45
+00:02:37,960 --> 00:02:40,270
+So we have Zeph over here.
+
+46
+00:02:40,270 --> 00:02:41,380
+We have Zeph over here.
+
+47
+00:02:41,530 --> 00:02:44,710
+All we're going to have to do is plug this into the calculator and we get our answer.
+
+48
+00:02:44,860 --> 00:02:47,210
+I love those promises are just super simple.
+
+49
+00:02:47,620 --> 00:02:48,130
+All right.
+
+50
+00:02:48,140 --> 00:02:48,930
+So here we go.
+
+51
+00:02:48,940 --> 00:02:52,210
+Let's do this at zero plus one.
+
+52
+00:02:53,380 --> 00:02:57,400
+Our initial velocity and final velocity and.
+
+53
+00:02:59,590 --> 00:03:02,800
+Times are 2.5 seconds.
+
+54
+00:03:03,820 --> 00:03:04,740
+OK.
+
+55
+00:03:04,960 --> 00:03:09,460
+Ah, this doesn't provide any value, this doesn't provide any value.
+
+56
+00:03:09,490 --> 00:03:15,850
+So all we're left with is one half of 15 times 2.5.
+
+57
+00:03:16,270 --> 00:03:16,800
+OK.
+
+58
+00:03:16,810 --> 00:03:18,420
+He played on the calculator once again.
+
+59
+00:03:18,460 --> 00:03:24,820
+This is one 1/2 times 15 times 2.5.
+
+60
+00:03:26,600 --> 00:03:33,230
+And when plug in the calculator and we will get our answer so we get XPath is equal to.
+
+61
+00:03:34,200 --> 00:03:38,760
+Eighteen point seven, five meters.
+
+62
+00:03:40,410 --> 00:03:42,340
+Right, and that's the problem.
+
+63
+00:03:42,360 --> 00:03:42,750
+Janine.

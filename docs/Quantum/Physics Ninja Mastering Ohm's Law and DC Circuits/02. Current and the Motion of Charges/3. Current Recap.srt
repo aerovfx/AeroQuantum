@@ -1,0 +1,76 @@
+WEBVTT
+
+00:00.240 --> 00:00.460
+All right.
+
+00:00.480 --> 00:02.610
+So here's our kind of important summary here.
+
+00:02.730 --> 00:09.570
+Definition of the current flow of charge the rate at which charge moves or flows past some point per
+
+00:09.570 --> 00:10.340
+unit time.
+
+00:10.510 --> 00:13.940
+OK current is measured in cool ohms per second.
+
+00:14.010 --> 00:17.370
+We refer that as being an ampere an amp.
+
+00:17.400 --> 00:20.000
+Sometimes you just use the letter A.
+
+00:20.070 --> 00:26.180
+So one cool on per second is equivalent to 1 amp and looking at the microscopic.
+
+00:26.190 --> 00:32.610
+If we're looking at electrons moving in a conductor the definition of the current If you look at all
+
+00:32.610 --> 00:38.750
+the charges that could move through this conductor you can write it in terms of different properties.
+
+00:39.000 --> 00:45.360
+You can read it in terms of a charge density how many electrons are free to move per unit volume of
+
+00:45.360 --> 00:53.340
+the conductor multiplied by the charge of each electron multiplied by the cross-section of my wire.
+
+00:53.430 --> 00:58.720
+Typically these are circles so typically have like a PI are squared for the area.
+
+00:58.750 --> 01:04.430
+You can calculate that in the last term here is this drift velocity.
+
+01:04.720 --> 01:05.030
+OK.
+
+01:05.190 --> 01:09.120
+How fast are those electrons moving in this conductor.
+
+01:09.540 --> 01:16.710
+Now there's drif velocity again if I go back to my back to basics slide right how fast the electrons
+
+01:16.710 --> 01:21.100
+moving it really depends on how big that electric field is.
+
+01:21.110 --> 01:23.590
+All right Ed we'll see in a minute.
+
+01:23.610 --> 01:30.150
+When we look at what's going on it also depends on other aspects because these electrons although they
+
+01:30.150 --> 01:34.810
+accelerate a little bit they will and they will encounter other electrons.
+
+01:34.950 --> 01:40.360
+They'll also encounter positive ions and they're basically going to collide.
+
+01:40.650 --> 01:45.310
+So they don't just accelerate forever and then this term just gets bigger and bigger.
+
+01:45.450 --> 01:46.350
+So let's have a look.
+
+01:46.380 --> 01:49.290
+Let's zoom into a wire and see what it looks like.

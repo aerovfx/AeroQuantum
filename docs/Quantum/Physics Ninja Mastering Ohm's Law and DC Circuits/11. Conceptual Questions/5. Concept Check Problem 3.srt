@@ -1,0 +1,220 @@
+WEBVTT
+
+00:00.180 --> 00:06.560
+All writers problem three says consider this Surtur below which resistor has the largest power consumption
+
+00:06.570 --> 00:09.720
+so which one dissipates the most amount of power.
+
+00:09.780 --> 00:12.460
+This is kind of a good problem here.
+
+00:12.720 --> 00:17.370
+So if we're talking about a power dissipated by resistance again power equation you can write three
+
+00:17.370 --> 00:18.260
+different ways right.
+
+00:18.270 --> 00:24.840
+That was a one way we can write it as our squared was also another way and we can also write it as V
+
+00:24.840 --> 00:27.160
+squared over r.
+
+00:27.330 --> 00:30.440
+So let's start comparing them so we got to compare the three.
+
+00:30.450 --> 00:33.460
+I don't want to do I don't want to solve for the entire circuit.
+
+00:33.570 --> 00:37.500
+All we have to do is determine which one has the largest We don't actually have to do any math.
+
+00:37.500 --> 00:39.530
+We don't want to know the actual value of it.
+
+00:39.570 --> 00:41.560
+We just want to know which one is the biggest.
+
+00:41.850 --> 00:45.320
+So let's first compare 10 to 1000.
+
+00:45.330 --> 00:46.030
+Right.
+
+00:46.050 --> 00:53.730
+One thing we know is that the voltage between points B and D right the voltage between the Point B and
+
+00:53.720 --> 01:00.630
+D should be the same as the voltage between Point B and C because both of these are in parallel with
+
+01:00.630 --> 01:01.580
+each other.
+
+01:01.710 --> 01:06.670
+So that must be equal to the voltage between Point B and C..
+
+01:06.720 --> 01:12.300
+So actually if you use now this for Use the third equation that I wrote I.
+
+01:12.340 --> 01:18.360
+At this equation over here remember V here is the voltage across that resistor R is the value of the
+
+01:18.360 --> 01:19.840
+resistance.
+
+01:19.890 --> 01:25.770
+So if you compare the power across the 10 arm resistance what you would do is you would say all the
+
+01:25.770 --> 01:27.250
+power.
+
+01:27.560 --> 01:34.590
+You're right the power dissipated in this 10 arm resistance is equal to the voltage across that 10 ohm
+
+01:34.590 --> 01:35.760
+resistance.
+
+01:35.790 --> 01:38.710
+That's what we called VBIED.
+
+01:38.850 --> 01:40.250
+You've got to square that value.
+
+01:40.410 --> 01:46.880
+And now you divide it by 10 if you'd compare it now to the power dissipated by the thousand ohm resistor
+
+01:47.340 --> 01:49.680
+Well you'd get the voltage across a thousand.
+
+01:49.690 --> 01:56.340
+It's actually the same as this one so the voltage B.C which is the same divided now by not 10 is divided
+
+01:56.340 --> 01:57.670
+by a thousand.
+
+01:58.080 --> 02:06.130
+So you automatically see that the 10 ohm definitely dissipates more energy than a thousand on me because
+
+02:06.130 --> 02:09.330
+I'm dividing by a much smaller number here.
+
+02:09.460 --> 02:09.750
+OK.
+
+02:09.760 --> 02:12.330
+So we've got this guy is the winner between both of those.
+
+02:12.340 --> 02:17.750
+Now we have to compare the power dissipated between the 50 and the 10.
+
+02:17.800 --> 02:19.660
+So what's the best way of looking at this.
+
+02:19.660 --> 02:22.370
+Well you know the current is going to be different.
+
+02:22.400 --> 02:22.630
+Right.
+
+02:22.630 --> 02:27.820
+So you have current that's going to flow in here it's call it current AI and then we have a junction
+
+02:27.820 --> 02:28.730
+over here.
+
+02:28.750 --> 02:30.320
+So what happens to that current.
+
+02:30.550 --> 02:33.500
+Well part of the current is going to flow down here.
+
+02:33.730 --> 02:38.560
+Let's call that one and part of the current is going to flow through the thousand.
+
+02:39.100 --> 02:41.300
+Let's call this Aitu.
+
+02:41.440 --> 02:45.850
+Now you should know from that junction rule that whatever flows into the junction has to be what's flowing
+
+02:45.850 --> 02:46.750
+out.
+
+02:46.750 --> 02:49.720
+Therefore from that I think you should conclude that the current.
+
+02:49.750 --> 02:58.780
+I must be bigger than the current one right because we know that I have to be equal to I one plus I
+
+02:58.780 --> 03:02.980
+had to write and since there's only a single power is applied you know the current is going to flow
+
+03:02.980 --> 03:05.040
+in this direction here and then go back.
+
+03:05.590 --> 03:05.920
+All right.
+
+03:05.920 --> 03:11.890
+So if you can understand this part I think now we just go back to our power equations now for this problem
+
+03:11.890 --> 03:16.860
+here it's probably a little bit easier to use this equation over here.
+
+03:16.870 --> 03:20.020
+Again it doesn't matter which one you use there I'll give you the same answer.
+
+03:20.020 --> 03:25.310
+However now we're going to compare the value of the resistance and the current flowing through it.
+
+03:25.750 --> 03:32.160
+So let's compare the fifth wheel versus the 10 ohm So the power dissipated in the 50 ohm resistor you
+
+03:32.260 --> 03:37.120
+would read like this it's 50 multiplied by the current How much current is flowing through it.
+
+03:37.120 --> 03:38.030
+I label that.
+
+03:38.130 --> 03:40.210
+And that's squared.
+
+03:40.210 --> 03:43.470
+Now when I compare this to the 10 ohm resistance.
+
+03:43.990 --> 03:45.690
+So what do we get we get 10.
+
+03:45.700 --> 03:49.770
+Now it's the current going through it is I.
+
+03:49.960 --> 03:51.840
+So let's compare both of these things.
+
+03:52.000 --> 03:54.060
+Well the resistance is bigger here.
+
+03:54.070 --> 03:56.130
+It's bigger than 10 so that number is bigger.
+
+03:56.410 --> 04:02.380
+And we also know from what we have over here about our current that the current eye is also bigger.
+
+04:02.380 --> 04:05.510
+So if I square it it's certainly going to be in the B.
+
+04:06.070 --> 04:14.530
+Ok so the largest power consumption then certainly has to be the 50 ohm has the largest value of the
+
+04:14.530 --> 04:17.170
+resistance between the 50 and then in the tank.
+
+04:17.260 --> 04:19.620
+And we know that the currents are also going to be bigger.
+
+04:19.840 --> 04:26.890
+And so 50 is the biggest or the most power dissipated in that 50 ohm resistance so choice number one
+
+04:26.890 --> 04:28.420
+is the correct answer for this one.

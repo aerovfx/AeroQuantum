@@ -1,0 +1,255 @@
+WEBVTT
+
+WEBVTT
+
+00:00.150 --> 00:05.640
+All right here is concept check five cent batteries used to light a bulb is shown an identical battery.
+
+00:05.640 --> 00:11.070
+This one here on the left is connected now by closing the switch to close that up over here.
+
+00:11.670 --> 00:16.650
+And the question is what happens to the bulb when I close the switch so it goes out and goes dimmer
+
+00:16.650 --> 00:23.670
+slightly dimmer stays the same and gets slightly brighter gets noticed lewdly brighter or combination
+
+00:23.670 --> 00:26.230
+of kind of two of these answers.
+
+00:26.250 --> 00:31.260
+So in order to kind of look at this one I would suggest Well let's see what happens initially before
+
+00:31.260 --> 00:32.680
+I close the switch.
+
+00:33.080 --> 00:33.330
+OK.
+
+00:33.330 --> 00:38.700
+Before you close the switch if you apply a loop rule Kurkov loop rule over here what you're going to
+
+00:38.700 --> 00:39.710
+find here again.
+
+00:39.730 --> 00:42.790
+Both of these batteries here soon to be the same.
+
+00:42.870 --> 00:43.860
+Now let's do that.
+
+00:43.950 --> 00:50.400
+And now if I do a loop rule around this one this here has a resistance are let's label the current through
+
+00:50.400 --> 00:52.080
+here just as big.
+
+00:52.080 --> 00:54.320
+I know what you're going to find here.
+
+00:54.330 --> 01:01.110
+If I do a loop around this direction over here so you'd add the voltage of the battery you get V and
+
+01:01.110 --> 01:08.130
+then you would get a voltage drop across that resistor given by minus our ohms law.
+
+01:08.340 --> 01:10.370
+And then you go back to where you started.
+
+01:10.830 --> 01:16.020
+So you'd find that the current here is equal to V divided by the resistance.
+
+01:16.020 --> 01:20.160
+Now how about now once you close the switch what happens once you close the switch.
+
+01:20.160 --> 01:23.510
+Now this battery here becomes activated.
+
+01:23.520 --> 01:24.960
+Right.
+
+01:24.970 --> 01:30.910
+Imagine I did a loop rule now and I went across this outer loop where would I get well again and started
+
+01:30.920 --> 01:31.670
+here at the red point.
+
+01:31.680 --> 01:33.980
+Let's go around in the clockwise fashion.
+
+01:34.230 --> 01:39.420
+So again you get V and then you get minus i r equals zero.
+
+01:39.660 --> 01:40.320
+And look what you get.
+
+01:40.320 --> 01:43.230
+You get the exact same current.
+
+01:43.240 --> 01:43.810
+All right.
+
+01:43.860 --> 01:50.340
+So you get the exact same current here whether or not you put one battery or two batteries.
+
+01:50.480 --> 01:51.030
+OK.
+
+01:51.270 --> 01:57.230
+So the brightness of the bulb has to stay the same if the current stays the same there is no difference.
+
+01:57.240 --> 02:00.210
+Now you might ask what really is the difference now in this problem.
+
+02:00.210 --> 02:06.450
+I mean so the current in this branch over here stays the same current over here stays the same current
+
+02:06.450 --> 02:08.480
+flowing through the resistor stays the same.
+
+02:08.490 --> 02:15.510
+However if you are now going to just look at the current in each individual branch what you would find
+
+02:15.510 --> 02:21.980
+now is that the battery doesn't have to work as hard if the current is the same through this resistor
+
+02:22.000 --> 02:27.420
+it means that the power dissipated in this resistor is the same whether or not you include one battery
+
+02:27.420 --> 02:29.220
+or two battery.
+
+02:29.250 --> 02:34.030
+So the only difference now is that the batteries don't have to work as hard.
+
+02:34.080 --> 02:40.410
+The power dissipated in the resistor has to equal to the total power supplied by each battery.
+
+02:40.410 --> 02:45.060
+Now the way you really show this now so you imagine here we have that current I kind of flowing in this
+
+02:45.120 --> 02:51.270
+outer branch in order to really show that the current Now what's going to happen is that the current
+
+02:51.270 --> 02:54.130
+in each battery is going to be cut in half.
+
+02:54.360 --> 02:59.670
+And the way you show that is unfortunately you do have to include a little bit of resistance so I just
+
+02:59.670 --> 03:01.970
+want to just show you how to do this.
+
+03:02.100 --> 03:08.390
+I imagine there was a little bit of internal resistance to each battery and I imagine now we're going
+
+03:08.390 --> 03:14.430
+to call the current through this one let's call this one going to call the current in this middle branch
+
+03:14.430 --> 03:20.340
+call it to and what we have here is we have a junction will either at the top or the bottom and the
+
+03:20.340 --> 03:22.750
+junction rule tells us that I won.
+
+03:22.980 --> 03:26.490
+Plus I too must be equal to I.
+
+03:27.270 --> 03:28.650
+So now we need a way to link.
+
+03:28.680 --> 03:29.710
+I want an I too.
+
+03:29.710 --> 03:34.510
+We just know the total current here the total current is given by this expression here.
+
+03:35.010 --> 03:39.810
+But how do we find the individual current through each branch in order to do this you really have to
+
+03:39.810 --> 03:43.410
+introduce a little bit of resistance and you'll see it's going to cancel out.
+
+03:43.410 --> 03:48.510
+But in order to do the math by applying Kirchoff's laws you have to do that.
+
+03:48.780 --> 03:53.550
+So now we're going to do we're into a loose rule and we're going to go on this elder and then come back
+
+03:53.550 --> 03:54.830
+through the middle.
+
+03:55.290 --> 04:02.780
+So if I do that in again I'll choose the let's shoot clockwise direction again.
+
+04:03.110 --> 04:06.510
+And what we're going to do or just we're just going round this way through the battery we're going to
+
+04:06.510 --> 04:09.120
+assume there's a little bit of resistance and then come back down.
+
+04:10.470 --> 04:10.820
+All right.
+
+04:10.830 --> 04:15.700
+So plie Kirchoff's law the first thing I encounter is that voltage of the battery V.
+
+04:15.960 --> 04:21.150
+Now if there is there's a little resistance there's going to be a drop in the drop voltage drops that
+
+04:21.150 --> 04:23.450
+little resistance is going to be this.
+
+04:23.640 --> 04:29.240
+And now I go back I go through the battery now but I'm going in the opposite direction of the current.
+
+04:29.390 --> 04:34.340
+It looks like this again I just assume the internal resistance of the battery is the same.
+
+04:34.360 --> 04:35.200
+And now look what happens.
+
+04:35.190 --> 04:41.260
+Now I cross this ideal well enough so you get mine and then you go back to where you started.
+
+04:41.340 --> 04:44.880
+Right let's look at this expression Vee's cancel out.
+
+04:44.880 --> 04:48.470
+Now you see why I had to introduce a little bit of resistance if I didn't have that.
+
+04:48.490 --> 04:50.770
+There you would just have zero equals zero.
+
+04:51.030 --> 04:57.450
+But by introducing both of these terms you could see now about simplify this expression we have we have
+
+04:57.450 --> 05:00.580
+a little R on both terms actually you can cancel it out now.
+
+05:00.590 --> 05:06.030
+So it really doesn't matter what the internal resistance is which you do this and you can show now that
+
+05:06.050 --> 05:09.520
+I one has to be equal to Aitu.
+
+05:10.100 --> 05:11.840
+So that's kind of one equation.
+
+05:11.940 --> 05:18.950
+And now if you go to the top this is our junction rule if I one equals the Aitu that means that to I
+
+05:18.950 --> 05:22.720
+on have to be equal to the total burn I.
+
+05:22.890 --> 05:30.500
+So now you can see that the current through each battery B is actually cut in half kind of different
+
+05:30.500 --> 05:32.240
+ways of looking at this problem.
+
+05:32.390 --> 05:34.760
+But in both cases the brightness has to stay the same.
+
+05:34.760 --> 05:36.150
+And we got that just from the first part.

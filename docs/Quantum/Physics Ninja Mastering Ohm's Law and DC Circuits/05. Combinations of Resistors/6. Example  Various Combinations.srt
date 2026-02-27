@@ -1,0 +1,373 @@
+WEBVTT
+
+00:00.620 --> 00:03.650
+All right let's have a look at this example it's a much more complicated circuit.
+
+00:03.650 --> 00:09.860
+We have one power supply and I have seven resistors and the goal now is going to be to simplify the
+
+00:09.860 --> 00:18.110
+circuit so I could simply represent it like this the same 5 volt power supply and I'm going to combine
+
+00:18.170 --> 00:27.550
+everything and write it all in terms of one single equivalent resistor and the purpose now is going
+
+00:27.550 --> 00:31.870
+to be to find what is the value of the equivalent resistor.
+
+00:32.140 --> 00:36.390
+Let's call this simply our equivalent and that's it.
+
+00:36.400 --> 00:37.540
+Let's find what the value is.
+
+00:37.540 --> 00:42.000
+So I have the individual values of each resistor here in my network.
+
+00:42.010 --> 00:46.090
+Now we're going to apply the tools that we learned in order to find what the value of the equivalent
+
+00:46.090 --> 00:47.320
+resistor is.
+
+00:47.320 --> 00:52.060
+Because once you have a simple circuit like this you can immediately apply Ohm's law and find how much
+
+00:52.060 --> 00:56.140
+current is actually flowing through the battery.
+
+00:56.140 --> 00:56.470
+All right.
+
+00:56.470 --> 01:03.610
+So in order to simplify this network kind of first sit back and just look at it a little bit and before
+
+01:03.610 --> 01:10.330
+using any of the rules well start simplifying things that are kind of jump straight out at me for example
+
+01:10.840 --> 01:15.990
+are six and seven I know are along the same branch.
+
+01:16.000 --> 01:22.730
+Right whatever current flows through R6 has to be the same current that flows through R7.
+
+01:23.090 --> 01:23.550
+Right.
+
+01:23.590 --> 01:28.570
+So this here must be a series combination.
+
+01:28.810 --> 01:30.690
+So both of those must be in series
+
+01:33.250 --> 01:36.420
+another series combination that you should be able to see.
+
+01:36.520 --> 01:43.630
+Is this one over here are two and are three whatever current flows through are two has to be the same
+
+01:43.630 --> 01:45.900
+current that flows through three.
+
+01:46.210 --> 01:47.690
+It has nowhere else to go.
+
+01:49.220 --> 01:55.910
+Now other currents are not quite that straight forward whatever current flows through our four not necessarily
+
+01:55.910 --> 01:59.450
+the same as the current flowing through our fiber through the other branches.
+
+01:59.540 --> 02:02.060
+And you could say that for any other combination.
+
+02:02.540 --> 02:03.640
+Okay.
+
+02:03.650 --> 02:08.640
+So we have two series combinations both of those.
+
+02:08.690 --> 02:11.130
+So let's start by simplifying those.
+
+02:11.690 --> 02:17.090
+So what I'm going to do first is I'm going to combine our two and our three and if you remember the
+
+02:17.090 --> 02:22.670
+series combination for our two and our three if they're in series all you do is you basically add them
+
+02:22.670 --> 02:23.880
+up.
+
+02:24.230 --> 02:34.690
+So we're going to call this our equivalent one is going to be our two plus our three R2 is four owns
+
+02:34.690 --> 02:40.640
+our three is 8 4 plus 8 equals the 12
+
+02:43.740 --> 02:51.140
+are equivalent to these I'm going to call our equivalent to the equivalent resistance of our 6 and our
+
+02:51.160 --> 02:52.000
+7.
+
+02:52.000 --> 02:54.180
+Both of those are in series with each other.
+
+02:54.460 --> 03:03.390
+So it's simply our 6 plus R7 which gives me 2 plus 2.
+
+03:03.490 --> 03:08.520
+So this is equivalent to a 4 ohm resistor.
+
+03:08.550 --> 03:08.780
+All right.
+
+03:08.790 --> 03:09.220
+Great.
+
+03:09.240 --> 03:12.250
+So let's put that on the diagram and clean this up a little bit.
+
+03:15.540 --> 03:15.900
+All right.
+
+03:15.900 --> 03:19.470
+So here we've got this is a 4 ohm.
+
+03:19.470 --> 03:23.820
+This here is a 12 ohm equivalent resistance.
+
+03:23.820 --> 03:24.120
+OK.
+
+03:24.120 --> 03:25.400
+Now what can I do.
+
+03:25.830 --> 03:35.140
+Well now I would now start looking at probably try to combine our five and a four Omers this.
+
+03:35.710 --> 03:45.050
+Now if I look at it let's put everything in a in a bubble over here I have our five which is four ohms
+
+03:45.560 --> 03:52.200
+which is now in parallel with basically another 4 ohm resistor because I've combined our six and our
+
+03:52.200 --> 03:55.600
+seven now they're represented by this 400 resistor.
+
+03:55.640 --> 03:58.920
+So this is what it looks like on the outside.
+
+03:58.940 --> 04:00.720
+So those are ones I can combine.
+
+04:01.220 --> 04:08.180
+So the combination of our five and the four all McQuivey resistance that I called are equivalent to
+
+04:09.520 --> 04:11.400
+will give me an equivalent resistance.
+
+04:11.450 --> 04:11.990
+OK.
+
+04:12.260 --> 04:19.650
+So let's call that our equivalent three are equivalent three is again this are.
+
+04:19.670 --> 04:22.790
+These are going to be two resistors that are in parallel with each other.
+
+04:22.820 --> 04:28.500
+So what you have to do is you multiply them and divided by the sum you get four times for divided by
+
+04:28.530 --> 04:34.910
+eight that's 16 over eight which gives me 2 ohms.
+
+04:35.550 --> 04:43.380
+So this everything in this outer box now is basically the equivalent of a two Omers is that combined
+
+04:43.380 --> 04:47.870
+these these three resistors here are combined into a two arm resistor.
+
+04:50.370 --> 04:53.330
+So let's just make that clear in our diagram over here.
+
+04:57.100 --> 04:57.900
+OK.
+
+04:58.390 --> 05:00.030
+So now what else can I simplify.
+
+05:00.130 --> 05:06.490
+Well once you have that well now look what you can do with this 10 I have are four which is a 10 ohm
+
+05:06.490 --> 05:11.970
+resistor which is now going to be connected to a single resistance right.
+
+05:11.980 --> 05:16.200
+All of these three combine into a 2 ohm resistor.
+
+05:16.570 --> 05:24.600
+So what you have now is 10 which is in series with a 2 ohm resistor so you can then combine this 10
+
+05:24.600 --> 05:26.800
+with the next one with the two.
+
+05:27.630 --> 05:31.180
+So if you draw the circuit at this point this is what it's going to look like.
+
+05:32.430 --> 05:34.730
+So do an intermediate step here.
+
+05:35.140 --> 05:35.980
+You have five
+
+05:39.460 --> 05:42.680
+we have our fourth resistor are one.
+
+05:42.770 --> 05:43.800
+What else.
+
+05:43.850 --> 05:49.730
+I had already combined both of those in this first branch.
+
+05:49.800 --> 05:57.760
+This gives me 12 and then I had what I had 10.
+
+05:57.970 --> 05:59.910
+This was the resistance are four.
+
+06:00.160 --> 06:04.630
+And now I've combined everything in this outer branch to give me an equivalent resistance of two
+
+06:10.080 --> 06:10.560
+OK.
+
+06:10.650 --> 06:14.560
+Now this should be pretty straightforward.
+
+06:14.730 --> 06:17.490
+You should be able to combine the 10 and the two right away.
+
+06:17.490 --> 06:21.920
+Now be careful these resistors here are in series with each other.
+
+06:21.950 --> 06:27.340
+There is only a single branch that's connecting them.
+
+06:27.400 --> 06:34.890
+So let's do one more equivalent resistance we can do is you can combine both of those
+
+06:38.430 --> 06:42.570
+equivalent resistance of everything here.
+
+06:42.570 --> 06:49.030
+Or are we now are equivalent for a lot of different steps here but that's it.
+
+06:49.040 --> 06:56.520
+This is simply going to be the resistance are four plus my are equivalent three.
+
+06:56.740 --> 07:07.950
+So this gives me 10 ohms plus two ohms so at the end that whole branch gives me 12 ohms OK.
+
+07:09.170 --> 07:16.140
+So the next step you have a 12 ahome resistance.
+
+07:16.200 --> 07:24.670
+This guy over here that is in parallel with a 12 ohm resistance.
+
+07:24.760 --> 07:25.440
+So what can you do.
+
+07:25.440 --> 07:27.040
+You can combine both of those.
+
+07:27.060 --> 07:27.760
+Right.
+
+07:28.300 --> 07:30.580
+So now we should have our equivalent five
+
+07:38.920 --> 07:41.600
+again multiply them and divide by the sum.
+
+07:41.710 --> 07:48.010
+In this case the numbers are getting big so gets a little bit trickier but 12 by 12 and divided by the
+
+07:48.010 --> 07:51.100
+sum 12 plus 12.
+
+07:51.410 --> 07:57.960
+And what you can do here is just simply factor out a 12 if you factor out a 12.
+
+07:58.140 --> 08:07.740
+You're going to be left with one plus one which gives me two at the end 12 divided by two gives me 6
+
+08:07.740 --> 08:09.820
+ohms.
+
+08:10.410 --> 08:17.410
+So everything now in the blue is equivalent to a 6 ohm resistor.
+
+08:19.510 --> 08:21.280
+So one last step.
+
+08:21.730 --> 08:27.070
+How can I combine this forum resistor with everything here in the box.
+
+08:27.070 --> 08:29.850
+Everything in blue is represented by 6 ohm resistor.
+
+08:30.010 --> 08:36.010
+You simply have to add them up in series with one another.
+
+08:36.150 --> 08:39.500
+So the last step you get is our equivalent.
+
+08:39.600 --> 08:41.560
+We're up to six.
+
+08:41.700 --> 08:48.450
+Gives me four ohms which is our one plus our equivalent five
+
+08:51.710 --> 09:00.710
+so four plus six gives me ten ohms so all of that so we can simplify our network in terms of a 10 ohm
+
+09:00.710 --> 09:02.750
+resistor.
+
+09:03.140 --> 09:11.000
+So that would automatically mean if I apply Ohm's law to this circuit ohms law equals to our set my
+
+09:11.000 --> 09:17.540
+equivalent resistance now is our equivalent multiplied by the current you'd automatically be able to
+
+09:17.540 --> 09:24.110
+show that the current now is simply 5 over 10 which gives me half an amp
+
+09:27.550 --> 09:36.100
+so tells me there is half an amp flowing through the battery that's the current flowing in the circuit
+
+09:37.170 --> 09:40.220
+that's actually going to be the same current flowing through here.
+
+09:40.570 --> 09:45.760
+It's actually the same current flowing through the resistance are one it has to be the same current
+
+09:45.790 --> 09:48.340
+everywhere in this branch.
+
+09:48.430 --> 09:51.050
+There can't be any other current.
+
+09:51.070 --> 09:54.180
+Now once you get to this point now it's going to be different.
+
+09:54.350 --> 09:59.020
+But using the equivalent resistance really is the simplest way to get the amount of current that flows
+
+09:59.020 --> 10:00.030
+through the battery.
+
+10:00.190 --> 10:04.840
+And also the going to be the same current flowing through any resistor that is in series with the battery.

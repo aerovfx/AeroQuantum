@@ -1,0 +1,226 @@
+WEBVTT
+
+00:00.590 --> 00:02.710
+Example eight let's find the currents.
+
+00:02.820 --> 00:03.940
+So between points.
+
+00:03.970 --> 00:06.840
+B We have a 12 volt potential difference.
+
+00:06.840 --> 00:10.460
+Find the current in each one of these resistors or start with case over here.
+
+00:10.650 --> 00:15.140
+If you have 12 volts across that means you have 12 volts across each one of those resistors right.
+
+00:15.140 --> 00:16.820
+Even if these are in parallel.
+
+00:16.950 --> 00:17.940
+That's what it means.
+
+00:17.940 --> 00:23.640
+So if you have 12 volts across this forum resistor that means you apply Ohm's law to each one of those
+
+00:23.640 --> 00:27.590
+you have to get four in the current flowing through that.
+
+00:27.750 --> 00:29.180
+That resistor.
+
+00:29.310 --> 00:35.670
+So you get the current flowing through this forum resistor has to be three amps automatically should
+
+00:35.670 --> 00:46.080
+be able to write this down the current flowing through the three ohm resistor is 12 over 3 4 amps and
+
+00:46.080 --> 00:53.220
+the current flowing through the 6 ohm resistor is the potential difference divided by the resistance
+
+00:53.220 --> 01:01.020
+which gives me 2 x I could have asked you what is the current flowing through point a major in the current
+
+01:01.020 --> 01:02.310
+flowing like this.
+
+01:02.310 --> 01:06.030
+Again this is kind of a junction over here and you know you've got current flowing through each one
+
+01:06.030 --> 01:08.020
+of those resistors we just calculated.
+
+01:08.190 --> 01:12.820
+We have three amps here you've got four amps here you've got two amps here.
+
+01:12.930 --> 01:17.430
+All right and you've multiply each one of those values you have to get 12.
+
+01:17.430 --> 01:21.910
+That means that the current kind of going into that junction has to be 9 amps.
+
+01:21.930 --> 01:25.280
+It also has to be 9 amps leaving the junction.
+
+01:25.410 --> 01:27.730
+We need to conserve the charge.
+
+01:28.230 --> 01:31.090
+OK so next part case be.
+
+01:31.320 --> 01:35.160
+I think the first thing I would probably do is try to simplify this a little bit.
+
+01:35.160 --> 01:40.410
+Let's maybe try to simplify the parallel combination over here.
+
+01:40.410 --> 01:45.350
+The way I would do that our equivalent one there's only two of them.
+
+01:45.360 --> 01:49.880
+I always liked the multiply divided by the sum divided by eight.
+
+01:49.920 --> 01:53.000
+You can divide through by four on each term.
+
+01:53.160 --> 01:57.440
+You are left with three over 2 ohms.
+
+01:57.930 --> 02:04.140
+And now if I combine the three ohms with the three over to the total are equivalent for this or between
+
+02:04.140 --> 02:15.750
+points and point B call that are equivalent total is three plus 1.5 is me 4.5 ohms.
+
+02:15.810 --> 02:21.540
+Let me just write that as 9 over to help a little bit with the math after I just kind of like to have
+
+02:21.540 --> 02:24.440
+things in fractions most of the time.
+
+02:24.480 --> 02:24.750
+All right.
+
+02:24.750 --> 02:28.530
+So we now we have to find the current was the whole point is simplifying all of this so we know we have
+
+02:28.710 --> 02:31.610
+12 volts between points and points B.
+
+02:31.620 --> 02:36.510
+So that means that the current now simply going to be 12 divided by the value of the resistance which
+
+02:36.510 --> 02:40.760
+is nine over two we can factor out at three.
+
+02:41.940 --> 02:45.630
+And at the end we're left with eight over 3 amps.
+
+02:45.630 --> 02:49.350
+So that is the value of the current flowing through this equivalent resistance.
+
+02:49.350 --> 02:53.970
+But it's also going to be the value of the current flowing through the three ohm resistor so I can automatically
+
+02:53.970 --> 02:54.210
+right.
+
+02:54.210 --> 02:57.470
+This is the current flowing through the 3 ohm resistor.
+
+02:58.820 --> 03:00.500
+Now what happens here is there's a junction.
+
+03:00.500 --> 03:02.850
+So part of that current is going to flow here.
+
+03:02.960 --> 03:05.120
+Part of that current is going to flow here.
+
+03:05.450 --> 03:07.740
+The two old resistor is going to see less.
+
+03:07.850 --> 03:12.140
+It's going to see more current rather than the six ohm resistor because it has a smaller value of the
+
+03:12.140 --> 03:18.350
+resistance that's where most of the current prefers to go are in order to find how much current flows
+
+03:18.350 --> 03:18.810
+here.
+
+03:18.920 --> 03:25.800
+Well if we know the voltage drop across each branch we can find it using ohms law again.
+
+03:26.420 --> 03:29.850
+But what we can do we could first find what is the voltage across this point
+
+03:33.530 --> 03:39.100
+match and we know the voltage drop across is 3 ohm resistor because I know the voltage drop from 8 a
+
+03:39.100 --> 03:39.440
+B.
+
+03:39.440 --> 03:40.890
+I know that 12.
+
+03:41.330 --> 03:44.080
+So it's the voltage drop across the three ohm resistor.
+
+03:44.240 --> 03:47.210
+Well it's three multiplied by the current flowing through it.
+
+03:47.210 --> 03:56.090
+We just calculated that it has to be 8 volts so you have 12 from a to b.
+
+03:56.110 --> 04:00.090
+You have eight right here that means you're left with four.
+
+04:00.280 --> 04:05.900
+Two there has to be four volts across both of those resistors they are in parallel with each other.
+
+04:06.130 --> 04:10.930
+So each one of them has a four volt drop across it which means you can calculate what the current is
+
+04:10.930 --> 04:11.650
+now.
+
+04:12.040 --> 04:13.070
+Pretty straightforward.
+
+04:13.210 --> 04:19.120
+So the current flowing through the six ohm resistor and the current flowing through the three ohm resistor
+
+04:19.310 --> 04:24.880
+adds two ohm resistor Ratta it's going to be the voltage across each one of those we just said it's
+
+04:24.880 --> 04:29.830
+4 divided by the value of the resistance in this case it's six.
+
+04:29.830 --> 04:41.830
+In this case it's to see you get two amps going down here and you get to over three amps flowing through
+
+04:41.830 --> 04:43.950
+the top one.
+
+04:44.230 --> 04:45.600
+Now you can check both of that out.
+
+04:45.610 --> 04:46.300
+Both of these out.
+
+04:46.300 --> 04:55.000
+Now if I add both of those if I add two thirds plus two on that's six thirds I get eight thirds or that's
+
+04:55.000 --> 04:59.680
+my junction rle whatever current flows into the junction has to be the current that flows out of the
+
+04:59.680 --> 05:00.610
+junction.
+
+05:01.150 --> 05:07.740
+And I had a third flowing in I have to have a third flowing out kind of a good problem here.
+
+05:08.320 --> 05:09.350
+Hopefully you got that one.

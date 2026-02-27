@@ -1,0 +1,635 @@
+WEBVTT
+
+1
+00:00:00.860 --> 00:00:01.700
+Hello everyone.
+
+2
+00:00:02.790 --> 00:00:05.360
+Welcome back to exploring quantum physics.
+
+3
+00:00:05.360 --> 00:00:06.430
+I'm Charles Clark.
+
+4
+00:00:06.430 --> 00:00:10.370
+And this lecture is going
+to discuss the theory and
+
+5
+00:00:10.370 --> 00:00:12.840
+applications of angular momentum.
+
+6
+00:00:12.840 --> 00:00:17.361
+Very important concept in quantum physics,
+and one that in some sense
+
+7
+00:00:17.361 --> 00:00:21.665
+defines a larger framework within
+which we look at many problems.
+
+8
+00:00:23.918 --> 00:00:29.410
+You might say, everything revolves
+around angular momentum, joke, get it?
+
+9
+00:00:29.410 --> 00:00:33.225
+But it is in fact a very
+important framework, and
+
+10
+00:00:33.225 --> 00:00:37.260
+I'll just draw your attention to random
+example from the additional materials
+
+11
+00:00:37.260 --> 00:00:42.601
+section under the title,
+Atomic clocks and quantum computers.
+
+12
+00:00:42.601 --> 00:00:47.580
+This is a figure from a paper
+written by David Wineland,
+
+13
+00:00:47.580 --> 00:00:50.620
+who won the Nobel Prize
+in Physics last year.
+
+14
+00:00:50.620 --> 00:00:56.200
+And it's a visionary paper that describes
+the relationship between atomic clocks and
+
+15
+00:00:56.200 --> 00:00:58.980
+quantum computers and
+actually provided a roadmap for
+
+16
+00:00:58.980 --> 00:01:03.970
+the development of the first practical
+quantum computing device, as I see it,
+
+17
+00:01:03.970 --> 00:01:10.550
+which was this optical clock
+based on the aluminium ion.
+
+18
+00:01:10.550 --> 00:01:16.240
+Now, what you see here is
+a schematic of two atomic
+
+19
+00:01:16.240 --> 00:01:20.920
+energy level structures, and they're given
+a number of these very precise labels.
+
+20
+00:01:20.920 --> 00:01:27.870
+It's only like five halves, it's not
+like 2.6, it's exactly five halves.
+
+21
+00:01:27.870 --> 00:01:30.400
+So there are these various
+quantum numbers, and
+
+22
+00:01:30.400 --> 00:01:34.440
+I don't expect you to necessarily
+recognize these right now.
+
+23
+00:01:34.440 --> 00:01:39.730
+But these all are developed
+on the basis understanding of
+
+24
+00:01:39.730 --> 00:01:46.240
+the conservation of angular momentum in
+quantum systems and its quantization.
+
+25
+00:01:46.240 --> 00:01:50.430
+And this is extremely important,
+it underpins everything,
+
+26
+00:01:50.430 --> 00:01:55.350
+atomic clocks, the operation of magnets
+at a fundamental level, and so on.
+
+27
+00:01:55.350 --> 00:02:00.492
+So in this lecture,
+we're going to go through some of
+
+28
+00:02:00.492 --> 00:02:06.324
+the fundamental techniques that
+are required to develop and
+
+29
+00:02:06.324 --> 00:02:12.058
+use the theory of angular momentum and
+quantum mechanics.
+
+30
+00:02:13.997 --> 00:02:17.962
+So, in particular, we're going to derive
+a number of foundational properties of
+
+31
+00:02:17.962 --> 00:02:20.350
+angular momentum operators.
+
+32
+00:02:20.350 --> 00:02:24.400
+And I'm going to introduce
+something that is pretty standard
+
+33
+00:02:26.280 --> 00:02:28.860
+set of procedures for tensor calculus.
+
+34
+00:02:28.860 --> 00:02:33.753
+They're very useful in developing
+a practical understanding of how you
+
+35
+00:02:33.753 --> 00:02:37.270
+deal with angular momentum algebra.
+
+36
+00:02:37.270 --> 00:02:39.780
+And so,
+some of you may be familiar with these.
+
+37
+00:02:40.850 --> 00:02:41.640
+In that case,
+
+38
+00:02:41.640 --> 00:02:47.245
+the first few parts of this lecture
+might be sort of a review or tutorial.
+
+39
+00:02:47.245 --> 00:02:53.100
+Using approach was first
+developed by Albert Einstein, and
+
+40
+00:02:53.100 --> 00:02:56.290
+it seems at first like just sort
+of a notational innovation, but
+
+41
+00:02:56.290 --> 00:02:58.990
+it has a lot of important
+practical consequences.
+
+42
+00:03:01.010 --> 00:03:03.536
+And this is useful in
+many areas of physics.
+
+43
+00:03:06.171 --> 00:03:10.776
+Now for the sake of simplicity,
+we're going to use vector notation, but
+
+44
+00:03:10.776 --> 00:03:13.450
+all the symbols denote operators.
+
+45
+00:03:13.450 --> 00:03:19.450
+So in other words, the angular momentum
+in classical mechanics is this object.
+
+46
+00:03:19.450 --> 00:03:23.470
+And we saw its significance in
+the context of the classical theory,
+
+47
+00:03:23.470 --> 00:03:24.640
+the hydrogen atom earlier.
+
+48
+00:03:26.080 --> 00:03:29.000
+So now we're treating it as, well,
+
+49
+00:03:29.000 --> 00:03:34.440
+let's say, a vector valued operator,
+so it has three components, right?
+
+50
+00:03:35.820 --> 00:03:40.808
+Lz = xPy- yPx, and
+
+51
+00:03:40.808 --> 00:03:46.384
+then there's an Ly and
+
+52
+00:03:46.384 --> 00:03:49.910
+an Lx as well.
+
+53
+00:03:53.100 --> 00:03:57.401
+But these are now to be interpreted in
+terms of the quantum mechanical operators.
+
+54
+00:03:59.380 --> 00:04:05.570
+So, I'm going to switch notation
+because as it turns out,
+
+55
+00:04:05.570 --> 00:04:10.020
+it's much easier to do calculations
+when you don't have different
+
+56
+00:04:11.120 --> 00:04:15.076
+symbols for coordinates, but
+you just have a different subscript.
+
+57
+00:04:15.076 --> 00:04:19.950
+So hereafter, we're going to use
+a convention x1, x2, and x3 for
+
+58
+00:04:19.950 --> 00:04:25.210
+the coordinates and then for the unit
+vectors e1, e2, and e3, but occasionally,
+
+59
+00:04:25.210 --> 00:04:29.830
+when they lapse and switch back.
+
+60
+00:04:29.830 --> 00:04:34.315
+Okay, so now, the first thing
+that you should take a note of,
+
+61
+00:04:34.315 --> 00:04:38.114
+this is going to become
+important in the derivations,
+
+62
+00:04:38.114 --> 00:04:43.062
+is to use the Einstein summation
+convention for repeated indices.
+
+63
+00:04:43.062 --> 00:04:47.720
+This is something that was actually
+first pointed out by Einstein.
+
+64
+00:04:48.850 --> 00:04:52.600
+And he said, well, he noticed there
+were lots of expressions of this type.
+
+65
+00:04:52.600 --> 00:04:58.050
+Here's the scalar product of two vectors,
+a and b, which in our new notation,
+
+66
+00:04:58.050 --> 00:05:05.020
+we would write these as sum of ai bi.
+
+67
+00:05:05.020 --> 00:05:08.364
+And what Einstein noted
+is that you can just,
+
+68
+00:05:08.364 --> 00:05:13.031
+in cases like that,
+you can just cross out the summation sign.
+
+69
+00:05:18.661 --> 00:05:25.282
+And so,
+whenever you encounter an expression
+
+70
+00:05:25.282 --> 00:05:29.874
+of this type, you implicitly,
+
+71
+00:05:31.615 --> 00:05:36.258
+Sum over a repeated index.
+
+72
+00:05:40.555 --> 00:05:47.462
+That saves the presence of having
+large numbers of summations signs.
+
+73
+00:05:47.462 --> 00:05:52.510
+Now you do have to be
+careful when you do this, but
+
+74
+00:05:52.510 --> 00:05:58.068
+that's why we're going to
+engage in some practice.
+
+75
+00:05:58.068 --> 00:06:06.130
+Another tool,
+That's the third of these tools.
+
+76
+00:06:06.130 --> 00:06:11.890
+Really useful is the Levi-Civita symbol.
+
+77
+00:06:11.890 --> 00:06:17.645
+So this has three subscripts,
+and it takes the values,
+
+78
+00:06:17.645 --> 00:06:22.299
++1, -1, or 0, according to whether in
+
+79
+00:06:22.299 --> 00:06:27.808
+the first instance,
+if the symbols ijk are a cyclic or
+
+80
+00:06:27.808 --> 00:06:32.350
+even permutation of the symbols, 123.
+
+81
+00:06:32.350 --> 00:06:37.260
+So you can see, okay, 123,
+if you shift that back
+
+82
+00:06:38.780 --> 00:06:44.060
+with a revolving
+displacement of the index,
+
+83
+00:06:44.060 --> 00:06:48.750
+it goes to 231, shift it back again, it's
+312, then again, it returns to itself.
+
+84
+00:06:50.660 --> 00:06:55.256
+The odd permutations
+are those which involve just
+
+85
+00:06:55.256 --> 00:06:59.525
+a transposition of two elements, so 123,
+
+86
+00:06:59.525 --> 00:07:04.238
+if you switch 1 and 2,
+you get 213, and so on.
+
+87
+00:07:04.238 --> 00:07:09.755
+So the Levi-Civita symbol is -1 in cases
+
+88
+00:07:09.755 --> 00:07:15.118
+like that, and then it's 0 otherwise,
+
+89
+00:07:15.118 --> 00:07:19.715
+meaning when, for example, two or
+
+90
+00:07:19.715 --> 00:07:26.923
+more of the indices, Are the same.
+
+91
+00:07:29.060 --> 00:07:34.597
+So in other words,
+it vanishes unless every one of these,
+
+92
+00:07:34.597 --> 00:07:38.105
+every value of the index is present.
+
+93
+00:07:41.064 --> 00:07:46.385
+So now the end video quiz will ask
+you to construct the vector cross
+
+94
+00:07:46.385 --> 00:07:51.339
+product using some of the tools
+that we've just described.
+
+95
+00:07:53.846 --> 00:07:59.103
+So that example just showed you
+how you can use the Einstein
+
+96
+00:07:59.103 --> 00:08:04.253
+convention Levi-Civita symbols and
+the index system to
+
+97
+00:08:04.253 --> 00:08:09.509
+conveniently do standard
+procedures of vector algebra,
+
+98
+00:08:09.509 --> 00:08:15.317
+which you'll find useful in
+electromagnetism and mechanics.
+
+99
+00:08:15.317 --> 00:08:21.993
+And we'll make use of such examples
+in further discussion here.
+
+100
+00:08:21.993 --> 00:08:30.061
+Now finally, there's a very important
+contraction identity of this form, so,
+
+101
+00:08:33.068 --> 00:08:36.829
+All I can say is look at this carefully.
+
+102
+00:08:36.829 --> 00:08:41.557
+Here's the Einstein summation convention,
+and you see there's what we call it
+
+103
+00:08:41.557 --> 00:08:46.480
+a contraction identity because there's
+a duplication of two of the indices.
+
+104
+00:08:46.480 --> 00:08:51.646
+When that happens, it turns out
+that you can reduce this product of
+
+105
+00:08:51.646 --> 00:08:56.720
+Levi-Civita symbols to the sum
+of products of delta functions,
+
+106
+00:08:56.720 --> 00:09:01.166
+chronic or delta,
+which has the following definition.
+
+107
+00:09:01.166 --> 00:09:03.430
+I think you're all familiar with that.
+
+108
+00:09:03.430 --> 00:09:09.526
+Delta ij is equal to 1 if i is equal to j,
+and 0 otherwise.
+
+109
+00:09:09.526 --> 00:09:12.506
+And I think it would be,
+
+110
+00:09:12.506 --> 00:09:18.020
+it's probably a good idea for
+you to pause.
+
+111
+00:09:19.760 --> 00:09:21.471
+And just look at this and
+
+112
+00:09:21.471 --> 00:09:25.586
+run a few examples to convince
+yourself that it's true.
+
+113
+00:09:28.302 --> 00:09:32.705
+So just to put everything together,
+with one example,
+
+114
+00:09:32.705 --> 00:09:37.740
+let's take something from
+classical vector calculus.
+
+115
+00:09:37.740 --> 00:09:41.161
+A cross the quantity B cross C,
+
+116
+00:09:41.161 --> 00:09:46.831
+something that rises very
+often in applications.
+
+117
+00:09:46.831 --> 00:09:51.916
+And so,
+here we use the summation convention,
+
+118
+00:09:55.397 --> 00:09:57.151
+And the Levi-Civita.
+
+119
+00:10:01.494 --> 00:10:06.654
+And then, so here we have a second,
+here we see this
+
+120
+00:10:06.654 --> 00:10:12.543
+pair of Levi-Civita symbols
+come in the full expansion.
+
+121
+00:10:12.543 --> 00:10:17.868
+And basically, what we're doing here,
+we're getting down to sort of
+
+122
+00:10:17.868 --> 00:10:23.651
+the most fundamental reduction of this
+quantity in terms of its components.
+
+123
+00:10:23.651 --> 00:10:25.694
+So that's this.
+
+124
+00:10:25.694 --> 00:10:30.705
+And now we see that we can apply
+
+125
+00:10:30.705 --> 00:10:37.530
+the contraction identity thusly.
+
+126
+00:10:37.530 --> 00:10:39.382
+And we've end up.
+
+127
+00:10:39.382 --> 00:10:43.580
+I think you want to, good idea for
+
+128
+00:10:43.580 --> 00:10:48.711
+you to look at this and follow it through
+
+129
+00:10:48.711 --> 00:10:54.776
+offline that we get
+the famous BAC-CAB rule,
+
+130
+00:10:54.776 --> 00:11:01.650
+which is often used for
+resolving vector products.
+
+131
+00:11:01.650 --> 00:11:05.080
+Okay, this is very much a methodological
+part of the lecture, so
+
+132
+00:11:05.080 --> 00:11:08.980
+hope you'll review what you've learned.
+
+133
+00:11:08.980 --> 00:11:12.220
+And then we're going to,
+in the next few parts of the lectures,
+
+134
+00:11:12.220 --> 00:11:17.010
+start applying this to develop important
+information about angular momentum.
+
+135
+00:11:17.010 --> 00:11:17.590
+Hope to see you again.

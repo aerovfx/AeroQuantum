@@ -1,0 +1,342 @@
+WEBVTT
+
+WEBVTT
+
+00:00.330 --> 00:00.530
+All right.
+
+00:00.540 --> 00:07.470
+I now want to use Gauss as law in order to look at the look more at this left hand side of Gauss is
+
+00:07.470 --> 00:07.670
+law.
+
+00:07.680 --> 00:12.470
+Because what it can do is it can be used in order to calculate the electric field.
+
+00:12.520 --> 00:15.500
+OK but really only first symmetric objects.
+
+00:15.500 --> 00:18.200
+So let me switch this around.
+
+00:18.450 --> 00:27.360
+So for highly symmetric objects we're gonna use it to calculate the electric field.
+
+00:27.480 --> 00:30.680
+So one symmetric object is a single point charge.
+
+00:30.720 --> 00:36.380
+We know that the electric field produced by a single point charge at a distance are away from it.
+
+00:36.390 --> 00:42.090
+For example if I take this point over here if this is a positive charge we know that the field points
+
+00:42.090 --> 00:43.290
+like this.
+
+00:43.440 --> 00:49.110
+And if it's let me just write this down this would be the distance are the magnitude of the electric
+
+00:49.110 --> 00:55.500
+field would be like this k q over our squared we're QS the charge number our constant K is one over
+
+00:55.500 --> 00:57.580
+for Pi Epsilon zero.
+
+00:57.630 --> 00:59.540
+All right so that's the result that we know.
+
+00:59.540 --> 01:04.900
+Well what if I wanted to use Gauss as law in order to evaluate this.
+
+01:04.920 --> 01:09.650
+So first of all we're going to introduce this concept of a Goshen surface.
+
+01:09.780 --> 01:17.730
+So again it's a simply a closed surface because we want to evaluate a closed surface because we want
+
+01:17.730 --> 01:20.160
+to look at this side of Gauss as law.
+
+01:20.160 --> 01:26.820
+So let me look at a close surface and the surface should have the same symmetry as the object.
+
+01:27.220 --> 01:31.960
+So same symmetry as object.
+
+01:33.240 --> 01:37.830
+So if you imagine a point charge a point charges kind of like a small sphere.
+
+01:37.830 --> 01:43.250
+So you're Goshen surface should also have a spiritual symmetry.
+
+01:43.450 --> 01:43.770
+All right.
+
+01:43.770 --> 01:48.310
+This is my Goshen surface this a surface.
+
+01:48.310 --> 01:50.240
+It's a closed surface.
+
+01:50.370 --> 01:50.920
+So right.
+
+01:50.930 --> 01:56.780
+It's a closed surface it's kind of like a sphere around this charge actually so the flux through this
+
+01:56.780 --> 02:00.550
+surface is simply Q divided by epsilon 0.
+
+02:00.560 --> 02:02.610
+That's what I know right.
+
+02:02.630 --> 02:05.180
+And actually what if I drew a bigger one right.
+
+02:05.210 --> 02:12.940
+What if instead if I drew a bigger surface which is also a circle here's another surface.
+
+02:13.220 --> 02:16.690
+This other surface here has a different radius.
+
+02:16.690 --> 02:16.880
+Right.
+
+02:16.880 --> 02:22.930
+This is the radius say are to the blue one here might have a radius are 1.
+
+02:23.390 --> 02:28.910
+What can you tell me about the flux for the first surface.
+
+02:28.910 --> 02:32.750
+The blue one versus the flux going through the second one.
+
+02:32.750 --> 02:36.890
+Well if you look at Gauss is law if you look at the right hand side of Gauss is law you could see right
+
+02:36.890 --> 02:43.380
+away that the flux has to be the same because both of these surfaces enclose the same amount of charge.
+
+02:43.520 --> 02:48.200
+And in both cases you simply have q divided by epsilon 0 doesn't matter which one you pick.
+
+02:49.020 --> 02:49.310
+OK.
+
+02:49.340 --> 02:54.670
+So let's just pick the blue one because it really doesn't matter which one I pick.
+
+02:54.680 --> 02:54.890
+All right.
+
+02:54.890 --> 03:01.130
+If I pick the blue one over here I want to now evaluate what is this side of Gauss law.
+
+03:01.370 --> 03:03.630
+What's the left hand side of Gauss law.
+
+03:03.650 --> 03:04.850
+So this is what it looks like.
+
+03:04.850 --> 03:08.720
+So we're gonna work on spiritual objects first
+
+03:11.730 --> 03:14.910
+for spherical objects.
+
+03:14.970 --> 03:18.240
+How would we evaluate this flux over here.
+
+03:18.240 --> 03:25.190
+Well again for constant electric fields we had this we had a course of theta.
+
+03:25.200 --> 03:29.190
+So what if I say let's look at the angle theta.
+
+03:29.190 --> 03:30.800
+First of all what is this term.
+
+03:30.960 --> 03:36.830
+Again everywhere the electric field on this sphere should be pointing away from the charge.
+
+03:36.840 --> 03:42.040
+That's what we know doesn't matter which point you pick should be pointing away.
+
+03:42.060 --> 03:43.800
+What about the area vector right.
+
+03:43.820 --> 03:50.600
+Our area vector if I consider a little patch of area this one should be perpendicular to the surface.
+
+03:50.640 --> 03:56.870
+If I pick another one right here you should see that it is perpendicular to the surface.
+
+03:56.910 --> 03:59.720
+This one here is perpendicular to the surface.
+
+03:59.760 --> 04:05.720
+You can see that everywhere you look the angle theta is really equal to zero everywhere.
+
+04:07.870 --> 04:11.590
+So that's kind of important because that will simplify our calculation.
+
+04:11.620 --> 04:16.750
+So for this term I'm not even going to worry about it because everywhere for this object we have theta
+
+04:16.780 --> 04:19.510
+equals the Zero all right.
+
+04:19.710 --> 04:26.370
+Let's look at the area now really to get the total flux is you really have to go everywhere on the surface
+
+04:26.730 --> 04:31.010
+and you really have to add up all of the different contributions here.
+
+04:31.410 --> 04:36.780
+I don't want to get too much into the calculus here but actually for a spherical object which is what
+
+04:36.780 --> 04:44.940
+we're focusing on in this particular case all you really have to know is what is the area of the sphere.
+
+04:44.940 --> 04:50.370
+Because the field is going to be the same magnitude everywhere on this sphere.
+
+04:50.370 --> 04:50.610
+Right.
+
+04:50.640 --> 05:04.850
+So this is same magnitude and it's only the same magnitude because Magna tude it's the same magnitude.
+
+05:04.850 --> 05:11.690
+It's only the same magnitude because we have in a spiritual surface that's always the same distance
+
+05:11.690 --> 05:14.990
+away from from the charge.
+
+05:14.990 --> 05:15.260
+All right.
+
+05:15.290 --> 05:20.660
+So every time you're dealing with a spherical object this term basically is always the same.
+
+05:21.170 --> 05:24.770
+So it's the magnitude of the field multiplied by the area.
+
+05:24.800 --> 05:27.860
+So what is the area of a sphere.
+
+05:27.860 --> 05:29.730
+Now it's not the volume of a sphere.
+
+05:29.840 --> 05:35.510
+You might remember the volume of a sphere being as four thirds pi our cube.
+
+05:35.590 --> 05:37.870
+But that's volume.
+
+05:38.060 --> 05:39.070
+What about the area.
+
+05:39.080 --> 05:40.400
+This one you might not know.
+
+05:40.440 --> 05:41.150
+Okay.
+
+05:41.450 --> 05:42.560
+The area here.
+
+05:43.100 --> 05:53.860
+Let's just do it in green the area of a sphere is equal to for pi r squared and r is the radius.
+
+05:53.860 --> 05:58.550
+So in this case here if the radius is r 1 you'd be r 1 squared.
+
+05:58.550 --> 05:59.050
+Okay.
+
+05:59.200 --> 06:04.790
+So this is super important for anything that is spherical in shape.
+
+06:05.380 --> 06:07.860
+So let's go ahead now and write this down for Gauss is law.
+
+06:07.870 --> 06:09.970
+So the left hand side of Gauss is law.
+
+06:09.970 --> 06:11.490
+It's always going to be the same.
+
+06:12.640 --> 06:15.310
+It's gonna be my field is a constant everywhere.
+
+06:15.370 --> 06:20.020
+Again it's only the magnitude here we don't have to worry about the direction and the total area of
+
+06:20.020 --> 06:24.640
+my spherical surface is for Pi our squared.
+
+06:24.640 --> 06:27.970
+Now that has to be equal to the other side of Gauss is law.
+
+06:27.970 --> 06:28.610
+All right.
+
+06:28.720 --> 06:32.560
+The right hand side of Gauss is law which we said it's right here.
+
+06:32.560 --> 06:37.630
+It's the total charging closed divided by epsilon 0.
+
+06:37.780 --> 06:40.510
+So at the end you can see that you have electric field right here.
+
+06:40.540 --> 06:43.160
+So I can actually use this to find the electric field.
+
+06:43.210 --> 06:47.090
+All I do is I bring this whole term in the bracket down at the bottom.
+
+06:47.320 --> 06:50.960
+And if you do that you get my final expression for the electric field.
+
+06:51.160 --> 06:52.350
+It's going to be one.
+
+06:52.360 --> 06:55.660
+I'll just regroup some of the terms I get a four pi.
+
+06:56.140 --> 07:04.260
+I'll put the Epsilon 0 with the 4 pi and then here I'm left with Q divided by.
+
+07:04.330 --> 07:06.890
+In this case it's R one squared.
+
+07:07.230 --> 07:08.160
+And that's OK.
+
+07:08.230 --> 07:16.690
+Are one squared is its R one because that's how I define the radius of the surface.
+
+07:17.100 --> 07:22.200
+So it tells me that the field everywhere on the surface which is a distance are one away from the point
+
+07:22.200 --> 07:24.950
+charge is given by this.
+
+07:25.080 --> 07:35.750
+This is the same as the previous expression that we had for the electric field produced by point charges.
+
+07:35.890 --> 07:38.010
+Okay so we can actually use Gauss as law.
+
+07:38.010 --> 07:41.140
+Now we're gonna work now more on different shapes.
+
+07:41.140 --> 07:47.850
+All right we're gonna work on more spherical symmetric objects but let's have a look at how we evaluate
+
+07:47.880 --> 07:50.940
+this left hand side of Gauss is law for different shapes.

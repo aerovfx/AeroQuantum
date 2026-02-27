@@ -1,0 +1,171 @@
+1
+00:00:00,180 --> 00:00:04,200
+We're going to be conducting our experiment very soon, but let's discuss something.
+
+2
+00:00:04,560 --> 00:00:07,560
+OK, so what's going to happen is I'm going to take this object.
+
+3
+00:00:07,560 --> 00:00:10,790
+I'm going to have it at one point, five meters high.
+
+4
+00:00:10,830 --> 00:00:15,060
+We're going to let go of it, have the stopwatch started as soon as I let go.
+
+5
+00:00:15,180 --> 00:00:16,590
+And then it's going to come down here.
+
+6
+00:00:16,590 --> 00:00:17,430
+It's going to hit the ground.
+
+7
+00:00:17,430 --> 00:00:22,500
+And as soon as I hear it hit the ground, I'm going to stop a stopwatch and I'll record it will be able
+
+8
+00:00:22,500 --> 00:00:26,310
+to use our kinematic formulas in order to calculate our acceleration.
+
+9
+00:00:26,310 --> 00:00:28,580
+And we're going to be good now.
+
+10
+00:00:28,590 --> 00:00:31,470
+There's going to be some human error involved here.
+
+11
+00:00:31,590 --> 00:00:35,210
+If I'm actually just using my trusty stopwatch right now.
+
+12
+00:00:35,220 --> 00:00:38,400
+I mean, I'm not going to be doubting the integrity of the stopwatch.
+
+13
+00:00:38,400 --> 00:00:43,140
+I'm going to be doubting the integrity of what am I going to be starting and stopping this at the exact
+
+14
+00:00:43,140 --> 00:00:47,970
+time that I should be or might there be a little bit of error involved here?
+
+15
+00:00:48,390 --> 00:00:55,500
+OK, so if we're expecting some error, then what could we do in order to help ourselves out with calculating
+
+16
+00:00:55,650 --> 00:00:58,350
+a more accurate time elapsed?
+
+17
+00:00:58,650 --> 00:01:03,540
+Maybe you're sending yourself instead of one reading where we're going to be calculating at the time,
+
+18
+00:01:03,750 --> 00:01:10,320
+maybe we should actually do it two times or possibly three times or four times and actually just use
+
+19
+00:01:10,320 --> 00:01:10,950
+those.
+
+20
+00:01:11,010 --> 00:01:14,020
+OK, so now now we're getting onto the right track here.
+
+21
+00:01:14,100 --> 00:01:19,110
+So instead of actually just taking one measurement here, maybe we should actually take multiple.
+
+22
+00:01:19,480 --> 00:01:22,400
+And then once we actually do that, what should we do?
+
+23
+00:01:23,890 --> 00:01:30,920
+Well, what actually makes sense for us to do with this multiple time readings are, you know what say
+
+24
+00:01:30,940 --> 00:01:35,290
+if we were to take the average of all of these.
+
+25
+00:01:37,740 --> 00:01:41,290
+And use that number as our Delta T..
+
+26
+00:01:42,390 --> 00:01:45,920
+OK, that makes a lot more sense, and I like that.
+
+27
+00:01:45,930 --> 00:01:48,020
+I think that that's exactly what we should do.
+
+28
+00:01:48,570 --> 00:01:50,760
+So we have our experiment.
+
+29
+00:01:50,760 --> 00:01:51,590
+We have everything.
+
+30
+00:01:51,630 --> 00:01:56,760
+Are we are we ready to go right now or is there anything that we're not exactly considered right now?
+
+31
+00:01:57,000 --> 00:02:00,030
+OK, well, what about this box?
+
+32
+00:02:00,220 --> 00:02:08,580
+What would be the difference if I was to actually use a let's say let's say I to use a 40 pound weight
+
+33
+00:02:08,580 --> 00:02:10,710
+and I have this dumbbell over here.
+
+34
+00:02:10,710 --> 00:02:12,030
+What does it look like?
+
+35
+00:02:12,390 --> 00:02:14,020
+Something like this?
+
+36
+00:02:14,040 --> 00:02:14,790
+Yes, sure.
+
+37
+00:02:14,790 --> 00:02:16,930
+That that's looking about right.
+
+38
+00:02:17,370 --> 00:02:23,250
+What if I you use a 40 pound weight instead of my tissue box over here or let's say a new one instead
+
+39
+00:02:23,250 --> 00:02:28,320
+of a 40 pound weight at the same height, we're going to be using a 15 pound weight.
+
+40
+00:02:28,740 --> 00:02:31,920
+Is this going to make a difference to us?
+
+41
+00:02:32,160 --> 00:02:33,920
+Well, I'm really not sure.
+
+42
+00:02:33,930 --> 00:02:41,700
+So let's actually do a experiment to see if the mass of the object or the weight of the object will
+
+43
+00:02:41,700 --> 00:02:43,530
+make a difference in our experiment.

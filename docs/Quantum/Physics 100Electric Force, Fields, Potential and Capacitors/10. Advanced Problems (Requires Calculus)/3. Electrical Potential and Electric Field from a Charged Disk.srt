@@ -1,0 +1,982 @@
+WEBVTT
+
+00:00.090 --> 00:05.550
+Hi everybody physics ninja here today I want to look at the potential the potential v that's created
+
+00:05.550 --> 00:07.370
+from a charge disk.
+
+00:07.440 --> 00:12.570
+So yeah I have a disk and I've placed the disk in the x y plane what I'm going to do that this is I'm
+
+00:12.570 --> 00:15.250
+going to give it a uniform charge distribution.
+
+00:15.240 --> 00:17.160
+So that's the Sigma over here.
+
+00:17.160 --> 00:23.400
+And again this is going to be a constant charge distribution or we want to do now is I want to go above
+
+00:23.400 --> 00:27.610
+this desk a certain distance in this case it's going to be denoted by the letter Z.
+
+00:27.810 --> 00:33.710
+What I want to do is I want to calculate what is the potential V right here at this point.
+
+00:33.890 --> 00:34.060
+Right.
+
+00:34.080 --> 00:35.470
+And what happens then in the limit.
+
+00:35.490 --> 00:38.670
+What happens at that point is very very far away from the disk.
+
+00:38.670 --> 00:41.740
+What happens if it's very close to the disk.
+
+00:41.760 --> 00:42.690
+What else can we calculate.
+
+00:42.690 --> 00:48.840
+If I know the potential as a function of that letter Z I can also calculate what the electric field
+
+00:48.840 --> 00:49.450
+is.
+
+00:49.470 --> 00:54.180
+So what is the field when I'm close to this plate or if I'm very very far away from that plate.
+
+00:54.210 --> 00:56.100
+So it's kind of a nice problem.
+
+00:56.100 --> 01:00.940
+It's going to involve some integration because I have a uniform charge distribution.
+
+01:01.080 --> 01:05.400
+So we're going to start by setting that up and then do all the rest of the calculations.
+
+01:05.440 --> 01:05.680
+Okay.
+
+01:05.700 --> 01:10.200
+So to get started when I'm first going to do is I'm going to consider a tiny little patch right here
+
+01:10.200 --> 01:15.870
+in this little patch here has a charge which I'm going to denote as D Q some infinitesimal amount of
+
+01:15.870 --> 01:17.120
+charge.
+
+01:17.310 --> 01:22.770
+And I want to evaluate its contribution to the electrical potential at this point here point P which
+
+01:22.770 --> 01:27.620
+is a high Z above this disk is disk allies in the x y plane.
+
+01:27.660 --> 01:31.580
+Let's go ahead and just write this as that distance over here.
+
+01:31.650 --> 01:38.680
+Now we have to define one more thing the distance now from the origin all the way to where this charges.
+
+01:39.000 --> 01:42.160
+Let's call that our Prime Now.
+
+01:42.190 --> 01:46.450
+You should be able to write that the distance from this little charge all the way to that point.
+
+01:46.450 --> 01:48.810
+This is just using Pythagorean.
+
+01:49.150 --> 01:53.530
+Nothing too complicated here it's our prime squared and plus Z squared.
+
+01:54.960 --> 01:55.500
+All right.
+
+01:55.620 --> 02:00.720
+Now we should be able to write an expression now for the potential produced by this little bit of charge
+
+02:00.720 --> 02:06.000
+and I call that an infinitesimal potential because it's only the contribution from this little charge
+
+02:06.000 --> 02:06.640
+at the end.
+
+02:06.750 --> 02:10.650
+You'll have to integrate in order to get the total contribution.
+
+02:10.680 --> 02:17.010
+So again this is simply D Q divided by four pi Epsilon 0 and the distance.
+
+02:17.010 --> 02:23.580
+It's always the distance away from the charge to the point where I'm evaluating the so that distance
+
+02:23.820 --> 02:27.630
+is what we just obtain helps get rid of that.
+
+02:27.630 --> 02:29.790
+This is our prime squared.
+
+02:29.790 --> 02:31.200
+And again plus Z squared.
+
+02:32.460 --> 02:32.720
+All right.
+
+02:32.730 --> 02:34.000
+So that's it.
+
+02:34.050 --> 02:34.890
+It looks like that's it.
+
+02:34.890 --> 02:40.030
+The only thing I have to do now is I have to add all the contributions so we have to do one more step
+
+02:40.030 --> 02:40.240
+here.
+
+02:40.240 --> 02:42.490
+What is this little element of charge.
+
+02:42.490 --> 02:47.650
+Well there's a little element of charge is going to be my charge density multiplied by the area.
+
+02:48.120 --> 02:50.670
+So let's take this equation one step further.
+
+02:50.680 --> 03:00.220
+This is my charged my charge density and multiplied by the area call it D.A. and again the bottom now
+
+03:00.220 --> 03:03.770
+is just stays the exact same for Pi Epsilon 0.
+
+03:03.850 --> 03:08.800
+And again square root of the rest of this term are prime squared plus Z squared.
+
+03:10.110 --> 03:14.700
+Okay to get the total potential which is really what I'm after to get the total potential what you have
+
+03:14.700 --> 03:20.880
+to do now is we have to integrate and we're gonna have to integrate the expressions like this in order
+
+03:20.880 --> 03:27.610
+to add up all the contributions to get the total potential and that here is only going to be a function
+
+03:27.610 --> 03:30.040
+of Z for this particular problem.
+
+03:30.040 --> 03:30.320
+Okay.
+
+03:30.340 --> 03:35.770
+So let's evaluate this integral we're doing we're working in cylindrical coordinate systems so the potential
+
+03:36.430 --> 03:38.070
+as a function of V.
+
+03:38.080 --> 03:44.470
+Let's take out all the constant term so you should have a charge density which pops out the other terms
+
+03:44.470 --> 03:48.340
+that pop out are gonna be this for Pi the Epsilon 0.
+
+03:48.370 --> 03:50.200
+Now I could write out the integral.
+
+03:50.200 --> 03:55.660
+Now there's two integrals because I'm integrating over the total area of this disk and in cylindrical
+
+03:55.660 --> 03:58.180
+coordinates the integral goes from 0 to 2 pi.
+
+03:58.840 --> 04:01.150
+That's for the angle theta.
+
+04:01.150 --> 04:08.080
+And I also want to integrate over the total radius so that I'll go from zero all the way to uppercase
+
+04:08.100 --> 04:08.350
+R.
+
+04:08.380 --> 04:12.840
+That's the radius of this disk and that's it.
+
+04:12.850 --> 04:20.110
+Now here I'm going to replace this little element of area again the little element of area for the cylindrical
+
+04:20.110 --> 04:25.150
+coordinates can always be written as our prime D.R. prime.
+
+04:25.150 --> 04:27.810
+And again I've already got the D theta here.
+
+04:28.150 --> 04:35.120
+So maybe let me just explicitly write this down here that the area can also be written as D.R. times
+
+04:35.120 --> 04:38.160
+are prime and multiplied by D theta.
+
+04:38.180 --> 04:38.410
+Okay.
+
+04:38.420 --> 04:44.970
+That's where this whole substitution over here came in so don't worry about that.
+
+04:45.160 --> 04:49.570
+And again at the end we're still left with this term here in the denominator in the denominator.
+
+04:49.570 --> 04:57.250
+I still have this square root term which is our prime squared and plus Z squared.
+
+04:57.310 --> 04:59.890
+Okay so this looks like a nasty expression.
+
+05:00.160 --> 05:05.050
+The first term however this is pretty straightforward since there is no other dependents on the angle
+
+05:05.050 --> 05:06.970
+theta over here.
+
+05:07.030 --> 05:11.850
+The integral from 0 to 2 pi of D theta simply gives me 2 pi.
+
+05:11.980 --> 05:13.920
+So let's go ahead and simplify this even more
+
+05:16.690 --> 05:19.690
+so we get our charged distribution sigma.
+
+05:19.690 --> 05:27.060
+We get the 4 pi Epsilon 0 this first integral let's just write is this this is going to be 2 pi.
+
+05:27.400 --> 05:30.600
+And now the final integral will go in the next page in just a second here.
+
+05:30.610 --> 05:32.770
+But this is really at the heart of the problem.
+
+05:35.170 --> 05:40.830
+The square root of our prime squared plus Z squared.
+
+05:40.830 --> 05:47.770
+Notice you can cancel out 2 pi and cancel out your left with a 2 here at the bottom.
+
+05:47.840 --> 05:51.890
+Okay so now let's go on the next page and I'll show you how to evaluate this second term over here.
+
+05:51.890 --> 05:58.250
+The second integral over the total radius to get our final expression for the potential All right.
+
+05:58.250 --> 06:02.690
+So to evaluate the second term here what you have to do is you can either look it up in an integral
+
+06:02.690 --> 06:03.710
+table.
+
+06:03.710 --> 06:05.300
+This one is actually pretty straightforward.
+
+06:05.300 --> 06:07.520
+We could do just this substitution.
+
+06:07.520 --> 06:15.570
+I'm going to do a substitution or I'm going to define you as our prime squared plus Z squared.
+
+06:15.600 --> 06:22.090
+Now if I make that substitution that means that the limits now of the integral have to change right
+
+06:22.170 --> 06:27.390
+instead of going from 0 to are the limits the new limits here are going to be while the lower limit
+
+06:27.390 --> 06:33.250
+is you substitute the zero for the R prime so you have Z squared and the upper limit is you're going
+
+06:33.250 --> 06:37.470
+to have uppercase r squared plus Z squared.
+
+06:37.470 --> 06:39.580
+So those are our new limits of integration.
+
+06:39.710 --> 06:43.530
+Now the other thing I have to do now is I have to differentiate this.
+
+06:43.530 --> 06:48.840
+That means that do you mind if I differentiate that with respect to r what you end up getting here the
+
+06:48.840 --> 06:54.300
+second term is is just acts as a constant because I'm not differentiating with respect to the letter
+
+06:54.300 --> 06:55.040
+Z.
+
+06:55.160 --> 06:59.280
+What you're left with here is simply to our prime.
+
+06:59.280 --> 07:05.580
+Now that doesn't quite look like the top term so we have to just rearrange it a little bit if you rearrange
+
+07:05.580 --> 07:13.360
+a little bit what you're going to find here is that if I have our prime D.R. prime.
+
+07:13.360 --> 07:17.000
+That should be equal to D you over too.
+
+07:17.020 --> 07:24.580
+OK so now we go ahead and we make the substitution and this is what you should end up with that my potential.
+
+07:24.580 --> 07:27.890
+At least the integral can be written as the first terms don't change.
+
+07:27.900 --> 07:29.920
+These are only constant terms.
+
+07:29.920 --> 07:35.230
+Now I'm changing I've made a change of variable over here so what I'm changing now is I'm going to integrate
+
+07:35.770 --> 07:41.340
+all the way from Z squared all the way to our squared plus Z squared.
+
+07:42.830 --> 07:43.100
+Okay.
+
+07:43.110 --> 07:46.260
+Now we make these substitution for all of these terms over here.
+
+07:46.360 --> 07:54.270
+So the are prime D.R. prime Well that gets substituted by this guy right here.
+
+07:54.340 --> 07:57.820
+So that simply becomes do you divide it by two.
+
+07:57.910 --> 07:58.210
+All right.
+
+07:58.210 --> 08:02.960
+Now here I'm still dividing by the square root of this term.
+
+08:03.370 --> 08:05.270
+And now one term is pretty easy.
+
+08:05.530 --> 08:07.990
+So I'm gonna have the square root of you.
+
+08:08.230 --> 08:08.590
+OK.
+
+08:09.010 --> 08:14.110
+Now this is getting pretty straightforward now actually this integral right here is one that's pretty
+
+08:14.110 --> 08:15.130
+straightforward.
+
+08:15.190 --> 08:20.050
+So let's go on the other page and evaluate this and get to our final expression for the potential.
+
+08:20.280 --> 08:20.530
+OK.
+
+08:20.560 --> 08:25.150
+So this is pretty straightforward at this point all we have to do is maybe pull out the to bring that
+
+08:25.150 --> 08:29.350
+to the front and then we're left with a very very simple in a row.
+
+08:29.360 --> 08:36.580
+But let me just do one intermediate step for you over for Epsilon 0.
+
+08:36.770 --> 08:40.470
+Again this are still going to be the same limits I'm not going to rewrite them over here.
+
+08:40.620 --> 08:44.680
+And what you're left with here is d you divided by square root of you.
+
+08:44.750 --> 08:47.730
+And that term is pretty straightforward All right.
+
+08:47.740 --> 08:53.710
+I always like to write it off for me my personal preference here is just the right it is you to the
+
+08:53.710 --> 08:55.170
+minus one half right.
+
+08:55.230 --> 08:57.150
+That's exactly what this term is.
+
+08:57.250 --> 09:00.470
+And the integral now with respect to do you.
+
+09:00.580 --> 09:00.870
+All right.
+
+09:00.970 --> 09:03.130
+So this you should be able to just write this down.
+
+09:03.190 --> 09:03.370
+Right.
+
+09:03.360 --> 09:08.560
+This is kind of a standard function so we get over for Epsilon 0.
+
+09:09.280 --> 09:09.550
+All right.
+
+09:09.560 --> 09:13.170
+Now this guy here is again you add 1.
+
+09:14.020 --> 09:15.630
+So we're going to have you to the.
+
+09:15.640 --> 09:22.360
+If you add one to negative 1 1/2 you're left with one 1/2 and you also have to divide by that term by
+
+09:22.360 --> 09:23.080
+the same term.
+
+09:23.260 --> 09:31.180
+So we get this and again this is evaluated now between the limits of Z squared and r squared plus Z
+
+09:31.180 --> 09:32.430
+squared.
+
+09:32.500 --> 09:38.710
+So all we have to do now is simply substitute those limits into this expression and we'll have our final
+
+09:38.710 --> 09:44.520
+expression for the potential one thing I could simplify over here this too can cancel out.
+
+09:44.530 --> 09:47.270
+I could take two out of there and I'm left with this.
+
+09:47.440 --> 09:47.680
+All right.
+
+09:47.680 --> 09:48.530
+One last step.
+
+09:48.550 --> 09:49.860
+We get to our final expression.
+
+09:49.900 --> 09:52.890
+Let's do it so I'm left with.
+
+09:52.890 --> 09:59.170
+Now just substituting those limits Sigma over to Epsilon 0 remains the same.
+
+09:59.250 --> 10:04.500
+Now again if you substitute our squared Plaza squared into here and write it in kind of a slightly different
+
+10:04.500 --> 10:08.040
+form over here let's write that one half as a square root.
+
+10:08.040 --> 10:10.820
+And here I am left with our squared plus Z squared.
+
+10:11.430 --> 10:13.620
+So it depends on how far away you are.
+
+10:13.620 --> 10:13.800
+All right.
+
+10:13.800 --> 10:19.180
+That makes sense and also on the dimensions of the disk that almost also makes sense.
+
+10:19.350 --> 10:25.120
+And don't forget to substitute this lower limit here because we did a change of variable over here.
+
+10:25.410 --> 10:25.670
+OK.
+
+10:25.680 --> 10:27.280
+So we have something like this.
+
+10:27.330 --> 10:31.710
+The other thing you can do now is I mean you could simplify this a little bit if I wanted to factor
+
+10:31.710 --> 10:32.610
+out a Z.
+
+10:32.730 --> 10:33.510
+I could do that.
+
+10:33.670 --> 10:40.170
+So let's go ahead here and that would look like Sigma over to Epsilon 0.
+
+10:40.170 --> 10:45.780
+Now if you take out a z over here again imagine the Z is above the desk or if it's below the disk you're
+
+10:45.780 --> 10:47.750
+going to get the same potential.
+
+10:47.830 --> 10:48.060
+Right.
+
+10:48.060 --> 10:52.380
+It's going to be some positive value of the potential and you could see that this is always going to
+
+10:52.380 --> 10:55.590
+be a positive value right.
+
+10:55.620 --> 10:59.720
+There is nothing in this term here again assuming that the charge density is positive.
+
+10:59.730 --> 11:03.600
+But this first term is always going to be bigger than the second term.
+
+11:03.600 --> 11:08.720
+All right if I factor out a Z I'm going to just going to write that as absolute value of Z.
+
+11:09.030 --> 11:15.690
+What you're left with now in the bracket is again if you factor out Z squared from the square root you'll
+
+11:15.690 --> 11:18.800
+end up have an absolute value of z over here.
+
+11:18.810 --> 11:23.940
+So the first term will look like this just change the order a little bit.
+
+11:23.940 --> 11:29.890
+This will be R over Z squared make sure you can kind of understand that step.
+
+11:29.890 --> 11:32.500
+And again this is gonna be minus one.
+
+11:32.860 --> 11:36.700
+You're going to see why in a minute that I kind of like this form over here.
+
+11:36.700 --> 11:36.880
+All right.
+
+11:36.880 --> 11:43.680
+So this is the value or a function of the potential as a function of the value z.
+
+11:44.050 --> 11:50.130
+I want to examine this this equation here on the next page and we're going to take some limits here.
+
+11:50.140 --> 11:54.640
+Like what happens if I'm really really far away from the desk and how can I use this expression for
+
+11:54.640 --> 11:56.560
+example to calculate the electric field.
+
+11:57.040 --> 11:57.990
+But we've done all the work.
+
+11:58.000 --> 11:59.770
+This is really the final expression.
+
+11:59.770 --> 12:05.290
+Let's go on the next page just to make sure this expression makes sense physically all right.
+
+12:05.290 --> 12:10.750
+So here's our expression that we've gotten this is a general expression here I haven't made any simplifications
+
+12:10.750 --> 12:11.530
+to this expression.
+
+12:11.530 --> 12:14.750
+This is just what the math gave us what the calculus gave us.
+
+12:14.770 --> 12:18.910
+So it looks like a rather complicated expression however now I want to exploit limit.
+
+12:18.930 --> 12:24.300
+It's always a good idea to explore limits when you get to algebraic expressions like this.
+
+12:24.310 --> 12:28.390
+So the first one is what happens now if I'm really really far away right.
+
+12:28.420 --> 12:34.060
+And that means what happens if Z is much much bigger than the radius.
+
+12:34.090 --> 12:34.720
+Think about it.
+
+12:34.750 --> 12:38.590
+So you have a disk in front of you and you go to a distance that's really really far away.
+
+12:38.590 --> 12:40.990
+First of all the potential should be small.
+
+12:41.170 --> 12:44.490
+And we're going to find that however how does the potential vary.
+
+12:44.560 --> 12:49.750
+If you're really really far away from a disk Well if you're really really far away from something that
+
+12:49.750 --> 12:52.810
+looks like this it probably looks like a point.
+
+12:52.810 --> 12:57.730
+So our result here which doesn't look like a point charge it should reduce to that of the point charge
+
+12:58.600 --> 12:59.990
+when I'm far away from it.
+
+13:00.010 --> 13:03.640
+So let's go ahead and make this make this verification.
+
+13:04.030 --> 13:07.470
+So when you're far away what I'm gonna do here is first look at this time.
+
+13:07.620 --> 13:08.350
+All right.
+
+13:08.410 --> 13:14.110
+If Z is bigger than R that means that this term over here that's going to end up getting squared is
+
+13:14.110 --> 13:16.090
+going to be a small term.
+
+13:16.690 --> 13:22.060
+So let's first look at what that term looks like in this limit.
+
+13:22.180 --> 13:29.730
+This term over here which is square root of 1 plus are over overseas squared.
+
+13:29.900 --> 13:35.890
+Let's get rid of this don't need that that there is approximately going to be equal to.
+
+13:35.990 --> 13:39.160
+Let me write it out as one extra step first.
+
+13:39.170 --> 13:40.580
+Some people may not know this right.
+
+13:40.580 --> 13:44.640
+This is just using kind of a binomial expansion.
+
+13:44.720 --> 13:50.510
+Let me just write as one plus R over Z again this term here is squared.
+
+13:50.510 --> 13:56.810
+And this is really to the 1 1/2 right in the limit of Z much bigger than R.
+
+13:56.840 --> 14:05.480
+This here becomes approximately equal to one plus one half are overseas squared.
+
+14:05.520 --> 14:09.150
+Now there's higher order terms but we're just going to keep those terms.
+
+14:09.150 --> 14:14.010
+Now if you completely neglected this term if you say that disease is really really big well then you
+
+14:14.010 --> 14:18.420
+might just completely get rid of this one and then you would have one under the square root minus one
+
+14:18.420 --> 14:19.520
+and that would give you zero.
+
+14:19.800 --> 14:24.840
+Well that really doesn't give you any functional dependence over here so we're gonna keep these first
+
+14:24.840 --> 14:27.380
+two terms for this expansion.
+
+14:27.390 --> 14:30.080
+All right let's have a look now of what we end up getting.
+
+14:30.600 --> 14:38.520
+So we get Sigma over to Epsilon 0 absolute value of Z and now this whole term you now the one is going
+
+14:38.510 --> 14:45.060
+to cancel with this one here again we can write out the whole square bracket but we have one plus one
+
+14:45.060 --> 14:46.180
+half.
+
+14:46.380 --> 14:54.110
+This is our squared over Z squared and minus one close the bracket.
+
+14:54.160 --> 14:54.360
+All right.
+
+14:54.370 --> 14:56.560
+This will cancel with this.
+
+14:56.590 --> 15:02.020
+Now what you're left with over here is again this too I can bring it out to the front.
+
+15:02.020 --> 15:03.900
+Let's write down all the terms over here.
+
+15:04.000 --> 15:09.190
+So we have our charge density the charge density here you can really write as the total charge.
+
+15:09.310 --> 15:14.800
+That total charge of the disk is going to be some value Q and divided by the total radius and total
+
+15:14.800 --> 15:19.170
+radius saw the total area of the disk which is simply power squared.
+
+15:20.050 --> 15:20.320
+Okay.
+
+15:20.350 --> 15:26.080
+So if you go ahead and do this let's get rid of the charge density here and write it out as Q and divided
+
+15:26.080 --> 15:30.590
+by higher squared.
+
+15:30.600 --> 15:34.660
+Now this too is going to combine this one right here.
+
+15:34.920 --> 15:37.850
+That's going to combine to a four.
+
+15:38.070 --> 15:45.590
+All right what else do we have the other terms here as I have a z up here and I have Z squared over
+
+15:45.590 --> 15:46.360
+here.
+
+15:46.400 --> 15:49.160
+So this guy here can cancel with one of those.
+
+15:49.310 --> 15:54.560
+You'll notice that the absolute values are also taking care of here in the last part here is I simply
+
+15:54.560 --> 15:57.860
+have an R squared that's left over right here.
+
+15:58.010 --> 16:05.010
+So that term has to stay and I'm also going to have just one Z here in the denominator.
+
+16:05.030 --> 16:07.560
+Notice the R squares cancel.
+
+16:07.760 --> 16:11.540
+Now if you're a little bit careful we group all the terms together what you're left with is the total
+
+16:11.540 --> 16:19.370
+charge of that disk divided by four pi and there is a Z here in the denominator and that there's the
+
+16:19.370 --> 16:26.810
+potential and that just looks exactly like the potential produced by a point charge that has a value
+
+16:26.810 --> 16:30.460
+Q and if I'm a certain distance Z away from it.
+
+16:30.470 --> 16:34.070
+So this here totally checks out right that one there makes sense physically.
+
+16:34.460 --> 16:39.380
+So when you're really really far away this whole disk just acts like a point charge and now you can
+
+16:39.380 --> 16:42.830
+also calculate the electric field and you'll get to the standard expression.
+
+16:42.910 --> 16:48.050
+All right in the second case what I want to do now is what happens now if I'm really close I'm really
+
+16:48.050 --> 16:49.310
+close to the desk again.
+
+16:49.330 --> 16:54.640
+If I look at my general expression that's OK and this limit here Z is going to be much smaller than
+
+16:54.650 --> 16:55.760
+R.
+
+16:56.150 --> 17:00.390
+I don't want to said Z equal to zero I'm just going to be above it by some small value.
+
+17:01.230 --> 17:10.040
+So that looks like well in this case here if I look at the term in the square root if Z is small that
+
+17:10.040 --> 17:14.930
+means that the second term here is going to be pretty big and it's going to be much bigger than the
+
+17:14.930 --> 17:15.440
+one.
+
+17:15.440 --> 17:20.900
+So in that case here I could just neglect the one term over here and what you're left with is that my
+
+17:20.900 --> 17:23.510
+potential is going to look like this
+
+17:26.930 --> 17:28.030
+Sesay OK.
+
+17:28.120 --> 17:32.410
+Now you can cancel out the one here forget about that term this second term is much bigger and it's
+
+17:32.410 --> 17:38.260
+squared and if that's under the square root again what we're gonna be left with here is are over ze
+
+17:41.090 --> 17:47.590
+and again minus one again that's what the square root term simplifies to and the limit that Z is much
+
+17:47.590 --> 17:49.070
+smaller than R.
+
+17:49.120 --> 17:55.350
+Now if you carry out this multiplication over here what you're left with is this term.
+
+17:55.510 --> 18:01.270
+Again I'll just multiply through by this absolute value of Z and what you're left with here is ah again
+
+18:01.270 --> 18:06.180
+minus Z she does this makes sense to you.
+
+18:06.290 --> 18:07.730
+So you have to ask yourself right.
+
+18:07.820 --> 18:11.210
+This first term here what is this first term represent.
+
+18:11.210 --> 18:13.800
+It's simply a constant term.
+
+18:14.190 --> 18:16.810
+That's actually the potential of the disk.
+
+18:16.800 --> 18:17.230
+All right.
+
+18:17.230 --> 18:20.420
+If I'm right on the desk and then what does this tell you.
+
+18:20.420 --> 18:26.880
+The second term over here tells me that it varies linearly with distance from the disk.
+
+18:26.960 --> 18:27.140
+Right.
+
+18:27.140 --> 18:29.230
+This is a linear term.
+
+18:29.230 --> 18:30.400
+And does that makes sense.
+
+18:30.950 --> 18:35.240
+Well think about it what if now if you wanted to evaluate what was the electric field.
+
+18:35.420 --> 18:39.350
+How would I evaluate the electric field if I'm really close to the disk.
+
+18:39.440 --> 18:44.510
+Right the electric field you should be the right as the derivative of the potential with respect to
+
+18:44.510 --> 18:46.140
+my variable here.
+
+18:46.160 --> 18:48.140
+Now with respect to D.C..
+
+18:48.450 --> 18:48.670
+All right.
+
+18:48.680 --> 18:53.390
+If you take the derivative and let's just assume that here we're above this desk so you don't have to
+
+18:53.390 --> 18:57.830
+really worry about the absolute value and what you end up getting here in this case would be that the
+
+18:57.830 --> 19:03.370
+electric field the first term if you differentiate it with respect to Z you get zero.
+
+19:03.800 --> 19:06.620
+This negative sign will cancel with this one right here.
+
+19:06.710 --> 19:11.720
+So that off the worry about those and if you take the derivative of Z with respect to Z you're simply
+
+19:11.720 --> 19:18.170
+going to get one in the value of the electric feel that you get is going to be Sigma divided by two
+
+19:18.170 --> 19:21.780
+Epsilon zero right.
+
+19:21.800 --> 19:25.540
+This is the electric field just above the surface of the disk.
+
+19:25.730 --> 19:31.040
+And that's exactly what you would get if you would use something called Gauss law goes as law is often
+
+19:31.040 --> 19:36.230
+used to calculate fields close to objects and you get the same result.
+
+19:36.260 --> 19:40.730
+So if we're gonna sketch now what this potential looks like again these are the results for the two
+
+19:40.730 --> 19:41.560
+limits.
+
+19:41.660 --> 19:48.160
+Far away we have a potential basically due to a point charge and Q Was the total charge of the disk
+
+19:48.590 --> 19:53.450
+when you're kind of close to the desk if you're really close to something it basically just looks like
+
+19:53.450 --> 19:55.970
+an infinite flat surface.
+
+19:56.140 --> 19:59.440
+It's not really infinite in this case it does have a finite size.
+
+19:59.480 --> 20:06.180
+So what you have here is a potential that drops linearly with distance away from the disk.
+
+20:06.240 --> 20:06.530
+Okay.
+
+20:06.550 --> 20:11.220
+And that also reduces to an electric field that's more or less constant.
+
+20:11.260 --> 20:11.780
+Right.
+
+20:11.840 --> 20:16.750
+It's very little dependence on the distance if you're close to it for the electric field.
+
+20:16.760 --> 20:20.990
+Now if we we're going to make a sketch of what V looks like as a function of distance it would look
+
+20:21.080 --> 20:22.370
+something like this.
+
+20:22.370 --> 20:25.400
+So in this first section it would be linear.
+
+20:25.400 --> 20:27.310
+And the term here has a negative slope.
+
+20:27.320 --> 20:32.930
+So it goes down and then eventually it starts kind of dropping dropping dropping.
+
+20:33.020 --> 20:40.110
+And when you're far away again it looks like one over Z one over Z down in this area right here when
+
+20:40.110 --> 20:41.550
+you're far away from it.
+
+20:41.880 --> 20:50.600
+And when you're close to adhere it's linear and the dependence is basically minus right some negative
+
+20:50.600 --> 20:54.340
+slope because it's dropping and the value right over here again.
+
+20:54.420 --> 20:59.560
+I second calculate that is simply this first term over here when Z equals zero.
+
+20:59.690 --> 21:02.880
+So the value right here is some constant value.
+
+21:04.010 --> 21:06.480
+This is basically what V.S. is.
+
+21:06.620 --> 21:06.830
+All right.
+
+21:06.830 --> 21:12.630
+So that's what the potential looks like for a finite sized disk as a function of distance from that
+
+21:12.650 --> 21:13.530
+disk.
+
+21:13.610 --> 21:17.720
+And again here I'm just doing the calculation when I'm on the axis which is the easiest case.

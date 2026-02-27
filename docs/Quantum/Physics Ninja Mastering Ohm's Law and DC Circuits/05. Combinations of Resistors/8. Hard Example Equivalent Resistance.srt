@@ -1,0 +1,691 @@
+WEBVTT
+
+00:00.480 --> 00:05.280
+All right here's a very complicated looking sample here it says find the equivalent resistance.
+
+00:05.280 --> 00:10.760
+We have a whole series of resistors in this network and now we're asked to find the equivalent resistance.
+
+00:10.760 --> 00:12.790
+How do you deal with a problem like this.
+
+00:12.840 --> 00:16.860
+And I wanted to include this problem here just to highlight one important thing that you're able to
+
+00:16.860 --> 00:23.250
+do and show you a trick if it does look very complicated like this one does what you're allowed to do
+
+00:23.250 --> 00:28.020
+and all of these cases since these wires are ideal wires and we always assume that the wires don't have
+
+00:28.050 --> 00:29.960
+any resistance themselves.
+
+00:30.030 --> 00:35.490
+You're allowed to reshape this into something that looks more familiar to you especially like these
+
+00:35.490 --> 00:40.200
+diagonal resistors you know when you first start looking at these it might look like this is more complicated
+
+00:40.200 --> 00:46.080
+than it should be but you can just reshape it to make it look more kind of Cartesian like and let me
+
+00:46.080 --> 00:47.610
+illustrate what I mean by that.
+
+00:47.850 --> 00:54.630
+So to reshape it actually I'm only going to consider these five resistors here at the end so let me
+
+00:54.630 --> 00:58.280
+highlight that region and we're going to show you how you can redraw it.
+
+00:58.410 --> 01:01.600
+So let's only consider our 6.
+
+01:01.890 --> 01:04.760
+And let me just say this whole area here.
+
+01:04.860 --> 01:07.040
+So this is the area I want to consider.
+
+01:07.470 --> 01:11.700
+Let me show you how you can just redraw this and make it look like something you're more familiar with
+
+01:12.250 --> 01:12.660
+it.
+
+01:12.840 --> 01:13.810
+So.
+
+01:14.860 --> 01:15.220
+OK.
+
+01:15.270 --> 01:16.140
+So how would I do this.
+
+01:16.140 --> 01:22.270
+Well what I would first start with is if I notice that are 8 and are 10.
+
+01:22.440 --> 01:30.320
+Both of those resistors up here those are in series with one another are 8 and 10 have to be in series
+
+01:30.330 --> 01:35.730
+because if your current flowing through are 8 you automatically have to flow through the resistance
+
+01:35.760 --> 01:38.150
+are 10 OK.
+
+01:38.280 --> 01:42.630
+So I would maybe start by doing that and I'm going to make this the last branch over here.
+
+01:42.630 --> 01:44.670
+So here's going to be the resistance are 8
+
+01:48.310 --> 01:50.740
+and now that has to be in series with the resistance.
+
+01:50.760 --> 01:51.250
+R10
+
+01:55.690 --> 01:56.130
+OK.
+
+01:56.160 --> 01:57.720
+So I've included both of those.
+
+01:57.720 --> 02:01.790
+The next thing I have is the resistance R nine and R nine.
+
+02:01.830 --> 02:06.190
+Actually what I'm going to do now is if I label this point here point A.
+
+02:06.520 --> 02:08.120
+Now let's just continue this line.
+
+02:08.220 --> 02:10.930
+So let me call this here point A.
+
+02:11.460 --> 02:15.930
+And I know I'm going to label this point over here which is after our 10 I'm going to label this point
+
+02:15.930 --> 02:17.460
+here point B.
+
+02:17.550 --> 02:18.840
+I'm going to redraw like this.
+
+02:18.840 --> 02:21.440
+So this is going to be point A and Point B.
+
+02:21.510 --> 02:27.040
+The only thing I require now is that the resistance R 9 goes from point A to Point B.
+
+02:27.060 --> 02:30.880
+So the going from point A to Point B would be this one right here.
+
+02:30.900 --> 02:34.430
+So all you have to do here is just draw a line and there's only one resistance
+
+02:37.960 --> 02:38.840
+so let me label these.
+
+02:38.840 --> 02:40.690
+This is our 9.
+
+02:40.730 --> 02:42.760
+This would be our 8.
+
+02:43.120 --> 02:48.370
+This would be resistance 10 and we have all the values there.
+
+02:48.380 --> 02:51.370
+Now let me label this point over here a point see.
+
+02:52.070 --> 02:58.330
+OK so between Point B and point C I have to include a resistance R 7.
+
+02:58.340 --> 02:59.960
+So let me go ahead and do that.
+
+02:59.990 --> 03:01.180
+I can even curve this up here.
+
+03:01.190 --> 03:02.170
+Doesn't matter.
+
+03:02.580 --> 03:03.090
+OK.
+
+03:03.280 --> 03:05.120
+And let me place Point C over here.
+
+03:06.580 --> 03:11.300
+The only thing I need to do is now to include the resistance R7 between those two points.
+
+03:13.320 --> 03:13.910
+All right.
+
+03:14.040 --> 03:15.390
+Let's do that.
+
+03:15.450 --> 03:19.550
+This will be resistance are seven OK.
+
+03:19.610 --> 03:26.000
+And now the only thing I need to do is connect point A to point C and between point A and Point C I
+
+03:26.000 --> 03:29.160
+need to include this resistance are 6.
+
+03:29.230 --> 03:34.300
+Now rather than making another diagonal line here what I'm going to do is I'm going to go straight across.
+
+03:34.340 --> 03:38.380
+Again I can make the wires as long as I want.
+
+03:38.590 --> 03:43.210
+And now I can go straight down and include the resistance R6
+
+03:47.620 --> 03:48.790
+OK.
+
+03:49.170 --> 03:52.890
+And this is the resistance R6 now.
+
+03:52.890 --> 03:58.980
+So everything in this orange shaded area I've represented down here by the diagram and now I can go
+
+03:58.980 --> 04:02.070
+ahead and quickly simplify this.
+
+04:02.100 --> 04:07.570
+So the first thing I would start off is all the way on the right hand side here I have two resistors.
+
+04:08.820 --> 04:11.310
+That are in series with one another.
+
+04:11.530 --> 04:16.980
+If both of those are in series with one another to get the equivalent resistance of everything in this
+
+04:17.190 --> 04:19.670
+blue shaded area you simply have to add them up.
+
+04:19.950 --> 04:24.160
+So this should be equivalent to a 12 Omers ister.
+
+04:24.390 --> 04:25.370
+And then what do I have.
+
+04:25.370 --> 04:37.140
+Well and then you have a 12 ohm resistor that is in parallel with R 9 R 9 is a 6 Omers is there.
+
+04:37.370 --> 04:45.140
+So what I can now do is I can combine this branch with this branch.
+
+04:45.410 --> 04:53.210
+Now if I do that I you go ahead and do this are equivalent for both of those together.
+
+04:55.680 --> 04:57.210
+Let's call that our equivalent one.
+
+04:57.210 --> 05:00.170
+I'm going to have a lot of different equivalent resistances here.
+
+05:00.450 --> 05:03.420
+So I have two of them if I have two of them I can use my trick.
+
+05:03.420 --> 05:14.420
+Multiply them and divided by the sum you get 12 multiplied by six and divided by 18 18 is six times
+
+05:14.420 --> 05:15.190
+three actually.
+
+05:15.200 --> 05:18.230
+And the reason I want to do that it's just easier to do the math.
+
+05:18.350 --> 05:22.870
+What you should end up with is for alms.
+
+05:22.890 --> 05:29.670
+So this whole you know these three resistors here at the end of my network they're equivalent to a forum
+
+05:29.710 --> 05:30.200
+resistor
+
+05:33.130 --> 05:35.610
+so that simplifies things a little bit.
+
+05:35.680 --> 05:40.000
+So now when I'm going to do is I'm going to keep that in mind and I'm actually going to just simplify
+
+05:40.000 --> 05:41.000
+this picture.
+
+05:41.380 --> 05:43.220
+So let's get rid of that.
+
+05:43.300 --> 05:47.510
+Let's actually get rid of all of this and watch what I'm going to do.
+
+05:48.520 --> 05:53.660
+I'll get rid of that line get rid of that line instead of calling it our 9 what I'm now going to do
+
+05:53.660 --> 06:00.040
+is I'm going to simply call it our equivalent one our equivalent one.
+
+06:00.400 --> 06:07.710
+And I know that this here is equivalent to a forum resistor and get rid of both of those lines.
+
+06:07.710 --> 06:08.580
+OK.
+
+06:08.850 --> 06:13.130
+Now I'm kind of really simplifying the network quite a bit.
+
+06:13.470 --> 06:21.030
+Now the next thing I notice is I have two resistors that are in series with one another because whatever
+
+06:21.030 --> 06:28.010
+current flows here through this eq. resistants is going to flow through the are seven.
+
+06:28.640 --> 06:32.340
+So both of those are in series with one another.
+
+06:32.630 --> 06:39.590
+If they're in series with one another that means you can simply add up their resistances to get the
+
+06:39.590 --> 06:41.300
+equivalent resistance.
+
+06:41.780 --> 06:48.140
+So I don't know what I'm going to call our equivalent to is the series combination of our equivalent
+
+06:48.140 --> 06:56.230
+one which is four plus are seven and the value of our seven was eight.
+
+06:56.480 --> 07:00.790
+So this here is 12 ohms OK.
+
+07:01.290 --> 07:04.470
+So now you can actually combine both of those into one.
+
+07:05.160 --> 07:12.690
+And then that's 12 ohm equivalent resistance is then going to be in parallel with the resistance are
+
+07:12.750 --> 07:18.630
+six look which are six is equal to it's equal to six ohms.
+
+07:18.630 --> 07:26.010
+So what we have is a 12 ohm resistor that is in parallel with a six ohm resistor or we already did that
+
+07:26.010 --> 07:27.070
+case.
+
+07:27.120 --> 07:30.670
+This is exactly what we did over here.
+
+07:30.700 --> 07:39.780
+So that means that this entire network this entire network here has to be equivalent to a four Omers
+
+07:39.780 --> 07:48.680
+this the so I can replace everything here in this orange blob by an equivalent four ohm resistor.
+
+07:48.680 --> 07:53.940
+So make sure you understand the steps that I took in order to achieve this value.
+
+07:53.960 --> 07:58.680
+So now all we're going to do is well let's just simplify we've actually simplify this entire network.
+
+07:58.700 --> 08:00.970
+So let's kind of eliminate some of this stuff here
+
+08:03.940 --> 08:09.240
+and let's simplify the network even further and make some more room.
+
+08:09.790 --> 08:10.870
+OK.
+
+08:10.870 --> 08:13.660
+So this is what we have now.
+
+08:13.720 --> 08:18.630
+So between points A and C you know this is what I'm going to have.
+
+08:18.700 --> 08:28.760
+I have an equivalent resistance equal to forums so I'm going to draw that.
+
+08:28.850 --> 08:30.520
+This was our equivalent.
+
+08:30.680 --> 08:34.410
+And this here was equal to forums and that took care of everything.
+
+08:34.430 --> 08:39.540
+Are Six are seven are eight are nine and are 10.
+
+08:39.740 --> 08:41.540
+And this was points a in point see.
+
+08:41.540 --> 08:44.190
+Now I have to draw the rest of the network.
+
+08:45.030 --> 08:50.200
+OK well let's label some other points maybe call this point D.
+
+08:50.270 --> 08:52.140
+Let's call this point E.
+
+08:52.790 --> 08:59.830
+If I go between point C and point D I have to include a forum resistor at this point down over here
+
+08:59.840 --> 09:05.090
+I'm sorry this sphere should be labeled point see my mistake.
+
+09:05.720 --> 09:08.100
+OK so be go in between points see him point D.
+
+09:08.110 --> 09:11.360
+I should have the equivalent the resistance are five
+
+09:17.260 --> 09:18.170
+point D.
+
+09:18.400 --> 09:22.260
+And this is the resistance are five.
+
+09:22.390 --> 09:27.130
+Now again in order to eliminate this diagonal resistance Well that's fine.
+
+09:27.130 --> 09:28.600
+I could just include a straight line.
+
+09:28.600 --> 09:31.150
+I could make the wire a little bit longer.
+
+09:31.510 --> 09:33.860
+And now between point A and Point D.
+
+09:34.060 --> 09:35.970
+It's this one going straight down.
+
+09:36.100 --> 09:38.320
+I have to include this resistance are four
+
+09:42.850 --> 09:47.580
+I just don't like those diagonal resistors are for going down.
+
+09:48.710 --> 09:49.370
+OK.
+
+09:49.810 --> 09:54.850
+And now going from point A to Point B I'm going to include the resistance are three
+
+10:02.580 --> 10:03.760
+call this point.
+
+10:03.970 --> 10:06.390
+And this is the resistance are three.
+
+10:07.160 --> 10:10.470
+All right and the last one is between point E and point D.
+
+10:10.550 --> 10:15.380
+I include the resistance are two in rather than going on a diagonal here I'm just going to make this
+
+10:15.380 --> 10:19.830
+wire longer and then I include this resistance are two
+
+10:26.060 --> 10:26.690
+OK.
+
+10:27.130 --> 10:29.300
+And now I'll just finish the diagram here.
+
+10:29.300 --> 10:31.400
+This should go all the way to point B.
+
+10:32.300 --> 10:34.300
+And this one will go to Point A.
+
+10:34.310 --> 10:37.860
+But I still have to include the resistance are one up here.
+
+10:38.060 --> 10:39.460
+Let me go ahead and do that.
+
+10:44.690 --> 10:45.180
+OK.
+
+10:45.350 --> 10:50.570
+And r1 is labeled here and that's the 6 ohm resistance.
+
+10:50.600 --> 10:52.890
+All right so now we need to simplify this a little bit more again.
+
+10:52.880 --> 10:55.850
+I'm going to start on the right hand side of this diagram.
+
+10:55.940 --> 11:02.090
+First thing I'm going to do is I notice that between well everything all the current flowing in here.
+
+11:03.370 --> 11:05.570
+Is going to be the same.
+
+11:05.680 --> 11:09.810
+So that's the current that's going to flow through an equivalent resistance.
+
+11:09.810 --> 11:13.440
+It's the current that's going to flow through the resistance are five.
+
+11:13.510 --> 11:26.030
+So right away I can combine both of those because they are in series with one another so are equivalent
+
+11:26.140 --> 11:27.060
+in blue.
+
+11:27.290 --> 11:30.920
+I don't know which number we're at but let's just call it number three for now.
+
+11:31.100 --> 11:36.530
+This here is simply going to be the forum resistor which is in series with the resistance are five
+
+11:39.590 --> 11:40.580
+and are five.
+
+11:40.580 --> 11:43.420
+I look back on this top diagram that was also four.
+
+11:43.430 --> 11:49.170
+So that means this guy here has to be 8 ohms OK.
+
+11:50.610 --> 11:51.720
+So far so good.
+
+11:51.960 --> 12:00.300
+So now I have this outer branches basically one big 8 ohm resistor which is now going to be in parallel
+
+12:00.300 --> 12:04.170
+with the resistance are four.
+
+12:04.170 --> 12:04.500
+All right.
+
+12:04.560 --> 12:11.540
+We have an 8 ohm resistor which is in parallel with the resistance are four and R for have a look.
+
+12:11.540 --> 12:13.470
+It's also 8 ohms.
+
+12:13.470 --> 12:17.250
+So you have eight ohms and also 8 ohms.
+
+12:17.310 --> 12:18.770
+So what does that mean.
+
+12:19.320 --> 12:21.330
+Well that's an easy calculation to do.
+
+12:21.390 --> 12:22.230
+Let's call this
+
+12:25.340 --> 12:28.610
+our equivalent oops let's call this our equivalent for
+
+12:31.810 --> 12:34.340
+our equivalent for.
+
+12:34.690 --> 12:42.080
+So we have eight ohms which was our our equivalent three and eight ohms from the resistance are four.
+
+12:42.370 --> 12:51.570
+You multiply them divided by the sum eight times eight is 64 divided by 16 is me for.
+
+12:51.780 --> 12:52.220
+All right.
+
+12:52.230 --> 13:02.040
+So the equivalent resistance of these three resistors in my network here are equivalent to a forum resistor.
+
+13:02.750 --> 13:09.110
+So we can actually just simplify this diagram let's simplify the diagram and just replace everything
+
+13:09.110 --> 13:10.250
+with a forum resistor
+
+13:13.430 --> 13:18.200
+that have columnist's are for now and replacing it with an equivalent resistance.
+
+13:18.200 --> 13:27.600
+This is our equivalent for and it's equivalent to a forum resistor is what we found now we repeat the
+
+13:27.600 --> 13:29.290
+same steps as we did.
+
+13:29.790 --> 13:32.040
+Hopefully you start getting the hang of it now.
+
+13:32.730 --> 13:39.270
+So again now if you look at this branch over here both of these resistors are three and are equivalent
+
+13:39.270 --> 13:43.170
+four are in series with one another.
+
+13:43.510 --> 13:45.270
+If they are in series with each other
+
+13:49.360 --> 13:55.540
+that means the equivalent resistance let's call it our equivalent five in this case you simply add them
+
+13:55.540 --> 13:57.150
+up.
+
+13:57.280 --> 14:03.710
+So we have our three which is given by four and we have our equivalent for which was also four.
+
+14:03.730 --> 14:10.290
+So you get four plus four which equals to eight ohms.
+
+14:10.340 --> 14:16.130
+All right so now what do we have we have 8 ohms out here on this outer branch and the middle branch
+
+14:16.130 --> 14:20.110
+here are two our two is also equal to eight.
+
+14:20.180 --> 14:22.320
+We just did a case like that right.
+
+14:22.340 --> 14:24.120
+So we have 8 ohms right here.
+
+14:25.890 --> 14:31.450
+That is in in parallel with another 8 ohm.
+
+14:31.670 --> 14:33.480
+In that case we just did right.
+
+14:33.620 --> 14:36.150
+We just did that case right over here.
+
+14:36.330 --> 14:39.220
+We have 8 ohms in parallel with another 8 ohms.
+
+14:39.330 --> 14:42.760
+That's equivalent to a forum resistor.
+
+14:42.900 --> 14:48.330
+So that means that I can actually simplify this entire is these three resistors here on the right hand
+
+14:48.330 --> 14:51.910
+side by an equivalent four ohm resistor.
+
+14:51.960 --> 14:55.180
+So let me go ahead and clean this diagram up.
+
+14:55.470 --> 14:57.530
+Replace all of this.
+
+14:58.020 --> 14:59.360
+Let's relabel this
+
+15:02.220 --> 15:03.130
+all right.
+
+15:03.610 --> 15:04.570
+And the last part
+
+15:09.740 --> 15:18.470
+this is basically another equivalent resistance and this we said was going to be a four ohm resistor
+
+15:20.030 --> 15:27.500
+because I had an 8 ohm previously that was in parallel with another 8 ohm.
+
+15:27.610 --> 15:30.260
+That gives me a forum resistor.
+
+15:30.260 --> 15:30.790
+All right.
+
+15:30.840 --> 15:31.770
+On our final
+
+15:34.290 --> 15:44.540
+breakdown is simply looking at this branch are one which is going to simply be in series with this other
+
+15:44.540 --> 15:47.730
+our equivalent resistor.
+
+15:47.740 --> 15:49.750
+So what do we get at the end.
+
+15:50.020 --> 15:56.380
+The total are equivalent between points and point B.
+
+15:56.410 --> 16:02.730
+Now you simply use the series combination that gives me six plus four.
+
+16:02.740 --> 16:08.980
+That was a lot of work in order to get 10 ohms but this is 10 ohms is the equivalent resistance of this
+
+16:08.980 --> 16:10.230
+entire network.
+
+16:12.040 --> 16:16.750
+So hopefully you understand the steps only if you're given two points like this I would always suggest
+
+16:16.750 --> 16:20.550
+kind of starting at the opposite end and kind of working your way back.
+
+16:20.550 --> 16:24.070
+The way I did I think this is kind of a straight forward method.
+
+16:24.070 --> 16:30.160
+Sometimes it's a little tedious like in this case but it's still pretty straightforward I think.
+
+16:30.160 --> 16:30.370
+All right.
+
+16:30.370 --> 16:33.780
+So maybe you have to redo this one again try it out on your own.
+
+16:33.790 --> 16:38.560
+Remember you can always change the shape of the circuit in order to simplify things.

@@ -1,0 +1,108 @@
+WEBVTT
+
+WEBVTT
+
+00:00.120 --> 00:04.290
+All right in this example here you want to see if you can calculate the resistance.
+
+00:04.290 --> 00:11.270
+So let's see if you can calculate the resistance of 3 meters of 14 gauge copper wire.
+
+00:11.320 --> 00:15.850
+You can hit pause right now and see if you can go ahead and calculate what the overall total resistance
+
+00:15.850 --> 00:17.540
+is of this wire.
+
+00:17.970 --> 00:20.230
+I'm looking for that value right there.
+
+00:21.100 --> 00:21.520
+Oh yeah.
+
+00:21.570 --> 00:28.380
+Well the way I would do it again just recalling that it's the resistivity multiplied by the length and
+
+00:28.390 --> 00:30.880
+divided by the cross-sectional area.
+
+00:30.960 --> 00:39.970
+So as the copper wire for gauge 14 if you go look it up you can find in the previous slide here you
+
+00:39.970 --> 00:47.500
+could find what the value of the diameter is and the value of the diameter for this wire is 1.6 to 8
+
+00:48.190 --> 00:49.220
+millimeters.
+
+00:49.450 --> 00:53.250
+So that's 10 of the minus 3 meters.
+
+00:53.260 --> 00:58.710
+That means you can go ahead and write down the area the area is pi are squared.
+
+00:58.750 --> 01:06.030
+If you want to write it in terms of the diameter pi d squared over four.
+
+01:06.270 --> 01:10.380
+OK so you can go ahead and calculate that value in meters squared.
+
+01:10.390 --> 01:14.440
+Now the value of the resistivity while the resistance of copper.
+
+01:14.470 --> 01:16.150
+See you look it up.
+
+01:16.150 --> 01:24.020
+I just wrote it down in the previous table to 1.7 times 10 to the minus 8 0 meters.
+
+01:24.860 --> 01:28.490
+Our length is very straight forward three.
+
+01:28.700 --> 01:36.560
+And now we know what the cross-section is based on the fact that it's a 14 gauge wire.
+
+01:36.590 --> 01:40.880
+So now you plug everything into our resistance equation.
+
+01:41.000 --> 01:49.210
+One point seven times ten to the minus eight multiplied by the length which is three.
+
+01:49.280 --> 01:53.410
+All of this gets divided now by the cross-sectional area which is pi.
+
+01:53.720 --> 02:01.970
+The diameter is one point six to eight times ten to the minus three and divided by four Let me just
+
+02:02.090 --> 02:04.210
+put the four upstairs over here.
+
+02:04.250 --> 02:12.490
+All right I went through and I calculated that and I got zero point zero to 5 ohms kind of nice to write
+
+02:12.520 --> 02:13.970
+that as 25.
+
+02:14.020 --> 02:16.540
+Move the decimal over three spots.
+
+02:16.540 --> 02:19.770
+So that's 25 million ohms.
+
+02:20.090 --> 02:27.710
+That should be the total resistance so pretty small but it's only 3 meters and it's got a pretty big
+
+02:27.710 --> 02:30.320
+cross section.
+
+02:30.550 --> 02:31.580
+And what else.
+
+02:31.660 --> 02:33.650
+Well the resistivity is very very small right.
+
+02:33.690 --> 02:34.980
+We're just looking at copper wire.
+
+02:34.990 --> 02:36.260
+So it's not the end of the world.

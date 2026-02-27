@@ -1,0 +1,514 @@
+WEBVTT
+
+00:00.360 --> 00:04.830
+Hi everybody physics and then you hear I'm going to look at a problem again a DC circuit problem here
+
+00:04.830 --> 00:10.620
+and I want to calculate what is the power kind of deliver to the resistor or the power being dissipated
+
+00:10.620 --> 00:14.380
+by the resistor would be kind of a maybe a better way to say it.
+
+00:14.490 --> 00:16.410
+So we've got a simple circuit here.
+
+00:16.470 --> 00:19.500
+You've got one power supplies of 20 power supply.
+
+00:19.520 --> 00:23.790
+You have got four resistors they're kind of set up in a way to try to make the problem a little bit
+
+00:23.790 --> 00:24.650
+harder.
+
+00:25.050 --> 00:29.990
+So let's see how you set up this problem how you can calculate the energy dissipated in those resistors.
+
+00:30.000 --> 00:31.320
+So here's the circuit.
+
+00:31.320 --> 00:36.240
+I guess the first thing we want to do is just remember how you calculate power in a simple circuit like
+
+00:36.240 --> 00:42.830
+this so we dealing with power supplies and batteries actually all three cases the power can be calculated.
+
+00:42.990 --> 00:46.770
+Typically if you're talking to will power supplies you can usually just write it like this it's the
+
+00:46.770 --> 00:49.570
+voltage multiplied by the current flowing through the battery.
+
+00:49.700 --> 00:52.370
+That'll tell you the power being supplied by the battery.
+
+00:52.680 --> 00:55.490
+This formula also applies for the power being dissipated.
+
+00:55.490 --> 01:00.210
+The only thing you have to remember is that the V for that case is simply the potential drop across
+
+01:00.210 --> 01:01.280
+that resistor.
+
+01:01.290 --> 01:07.210
+So a lot of times when you're talking about resistors sometimes instead of writing V you multiply her
+
+01:07.320 --> 01:12.660
+or you substitute the value of the voltage drop across that resistor which is given by Ohm's law and
+
+01:12.660 --> 01:15.100
+you still have the original that I had here.
+
+01:15.300 --> 01:17.830
+So this can get combined as our eyes square.
+
+01:17.830 --> 01:21.300
+This is kind of a more standard form when you're talking about resistors.
+
+01:21.720 --> 01:25.920
+You can also eliminate the current again using Ohm's law if you eliminate the current this kind of the
+
+01:25.920 --> 01:32.750
+same the same equation written three different ways and you can write is this V squared over our aim
+
+01:33.370 --> 01:34.260
+for what follows.
+
+01:34.260 --> 01:39.270
+For the resistors I'll calculate this for the power supply I'll use this form which means I need to
+
+01:39.270 --> 01:40.170
+know the current.
+
+01:40.290 --> 01:43.920
+I need to know the current flowing through the battery and I need to know the current flowing through
+
+01:43.950 --> 01:45.970
+each one of these resistors.
+
+01:46.440 --> 01:48.270
+Now there are several loops of this.
+
+01:48.270 --> 01:51.470
+There are several branches of the circuit so you have to be a little bit careful.
+
+01:51.480 --> 01:55.680
+So the first thing I'm going to do is I'm going to label some currents here I'm going to call the current
+
+01:55.710 --> 01:56.230
+over here.
+
+01:56.230 --> 02:00.720
+I one that's the current flowing all the way up until this branch.
+
+02:00.990 --> 02:05.040
+And that means it's also the same current that's going to flow through that's for ohm resistor down
+
+02:05.040 --> 02:07.510
+here this is still the same current one.
+
+02:07.530 --> 02:12.780
+Now once it gets to this junction Well part of that current is going to flow down through the 1 ohm
+
+02:12.780 --> 02:13.850
+resistor.
+
+02:14.310 --> 02:15.850
+Let's call this Aitu.
+
+02:15.960 --> 02:21.350
+And part of that current is also going to flow through this branch over here let's call this i3.
+
+02:21.480 --> 02:23.650
+So we need to find what those currents are.
+
+02:23.650 --> 02:30.390
+Then after I can easily find what power is being dissipated by each one of those first thing I'm going
+
+02:30.390 --> 02:36.010
+to do let's actually find how much current is flowing in this section over here what is the current
+
+02:36.020 --> 02:42.220
+I want and the easiest way to do this one actually is to try to simplify this network.
+
+02:42.240 --> 02:45.850
+This is one of those networks that can simplify using an equivalent resistor.
+
+02:45.870 --> 02:49.860
+And the reason I want to do that is because it's the easiest way to find how much current is flowing
+
+02:49.860 --> 02:51.410
+through this battery.
+
+02:51.440 --> 02:56.310
+So we're going to do first is I'm going to combine everything here and this kind of yellow box because
+
+02:56.310 --> 03:00.240
+I've got two resistors here that are in parallel with each other.
+
+03:00.420 --> 03:02.790
+So everything in the yellow box here I can combine them.
+
+03:02.790 --> 03:08.130
+We call this our equivalent however let me just call it our equivalent.
+
+03:08.260 --> 03:13.500
+And we put a one here because it's not a total equivalent resistor it's really only what's in this shaded
+
+03:13.500 --> 03:15.100
+yellow area.
+
+03:15.450 --> 03:21.480
+All right so hard to resist there is in parallel with each other which means one over our equivalent
+
+03:21.510 --> 03:28.830
+which gives me one over one plus one over three this is three over three plus one over three is me for
+
+03:28.830 --> 03:34.700
+over three which means that both of those can be combined to give me one equivalent resistor which I've
+
+03:34.710 --> 03:41.970
+called our equivalent one equal to three over four ohms so that simplifies it now because that means
+
+03:41.970 --> 03:48.720
+that the total equivalent resistor I'm going to have a 2 ohm that is in series with a three over four
+
+03:48.720 --> 03:55.120
+ohm resistor that's also in series with a four Omers this there so the total equivalent resistance.
+
+03:55.290 --> 03:58.390
+Let me write toto like this for this guy.
+
+03:58.830 --> 04:04.190
+It's going to be two plus three or four plus four.
+
+04:04.540 --> 04:09.180
+You put things on a common denominator and all four is a common denominator for that.
+
+04:09.190 --> 04:20.180
+This will be eight plus three plus 16 eleven twenty seven 27 over 4 is the equivalent resistance of
+
+04:20.450 --> 04:21.820
+this entire network.
+
+04:22.590 --> 04:28.770
+So once you have this that means that this complicated circuit can be simplified into something that
+
+04:28.770 --> 04:38.040
+simply looks like this a 20 volt battery that is connected to one equivalent resistance equal to 27
+
+04:38.090 --> 04:41.740
+over four.
+
+04:41.790 --> 04:42.830
+That's pretty simple.
+
+04:42.960 --> 04:45.690
+That's the simplest circuit you can ask for.
+
+04:45.690 --> 04:49.980
+Again this would be 27 over for ohms.
+
+04:50.250 --> 04:53.970
+So you can actually solve for what that current is and really what that current is that's the current
+
+04:53.970 --> 04:58.530
+flowing through the battery which is also the current flowing through the tool resistor which is the
+
+04:58.530 --> 05:00.900
+current flowing through the forum is there.
+
+05:01.470 --> 05:06.360
+So at the end what you end up getting here is that you get 20.
+
+05:06.360 --> 05:11.790
+That's the voltage across this branch has to be the voltage drop across the equivalent resistance which
+
+05:11.790 --> 05:15.810
+is the value of the resistance 20 over four multiplied by the current.
+
+05:15.810 --> 05:19.460
+And it's really the current I won here that I'm looking in.
+
+05:19.530 --> 05:26.550
+So with this you're able to solve for what the current is in that leftmost branch of the circuit I won
+
+05:26.550 --> 05:30.800
+gives me 80 over 27 amps.
+
+05:32.060 --> 05:33.650
+I mean to leave things at a fraction.
+
+05:33.650 --> 05:40.670
+You can write as a decimal if you wanted to but I kind of like it as a fraction like this just my own
+
+05:40.670 --> 05:42.250
+personal preference.
+
+05:42.260 --> 05:46.530
+All right so we're almost done now we need to find what are the current Aitu and i3.
+
+05:46.700 --> 05:52.460
+For that I notice here that I have a junction here I have some current flowing into the junction and
+
+05:52.460 --> 05:55.230
+I also have some current flowing out of the junction.
+
+05:55.250 --> 06:00.440
+This means that I can write a junction rule which says whatever flows in has to be what's flowing out.
+
+06:00.440 --> 06:03.400
+This is Aitu plus i3.
+
+06:03.470 --> 06:04.310
+Now I'm not quite done.
+
+06:04.310 --> 06:05.970
+I know what I one is.
+
+06:06.140 --> 06:13.760
+However I don't know what I 2 and I 3R But given that both of these resistors the one and the three
+
+06:13.760 --> 06:16.520
+ohm resistor are in parallel with each other.
+
+06:16.550 --> 06:21.510
+That means that the voltage drop across each branch here has to be the same.
+
+06:21.860 --> 06:26.850
+So the voltage drop across the 1 ohm resistor is simply one.
+
+06:26.960 --> 06:30.380
+That's the value of the resistance multiplied by the current flowing through it.
+
+06:31.340 --> 06:37.850
+Aitu that has to be equal to the voltage drop across these three ohm resistor which is three multiplied
+
+06:37.850 --> 06:42.720
+by the current flowing through that resistor i3.
+
+06:42.770 --> 06:45.300
+So at the end what you can do now is you can simply solve.
+
+06:45.310 --> 06:49.110
+Now we have everything we need in order to solve for what I two and three are.
+
+06:49.130 --> 06:51.300
+So let's go ahead and do that.
+
+06:51.350 --> 06:55.370
+So we have I one must be equal to OK.
+
+06:55.380 --> 06:59.470
+We have to either eliminate two or three let's eliminate Aitu.
+
+06:59.570 --> 07:09.960
+So that's three three plus i3 which gives me four i3 So at the end I three is simply I one divided by
+
+07:09.970 --> 07:13.860
+four that gives me 20 over 27.
+
+07:16.640 --> 07:18.370
+And the last one is Aitu.
+
+07:18.860 --> 07:27.350
+Well two is simply three times three three times I three three times 20 over 27 which gives me 60 over
+
+07:27.360 --> 07:29.790
+27.
+
+07:29.860 --> 07:33.240
+And again everything all the currents are measured in amps here.
+
+07:33.700 --> 07:36.300
+OK so we've got our three values of occurrence.
+
+07:36.400 --> 07:41.610
+Now let's go ahead on the next page and look at what the power is dissipated in all those three resistors.
+
+07:42.610 --> 07:43.900
+So here are my three currents.
+
+07:43.900 --> 07:47.010
+I want to i3.
+
+07:47.110 --> 07:52.570
+Let's start by the power being supplied to the circuit that's the power being applied by this battery.
+
+07:52.570 --> 07:54.600
+This is give it a little b over here.
+
+07:54.610 --> 07:57.760
+That's simply the voltage of the battery multiplied by the current.
+
+07:57.880 --> 08:02.080
+So it's pretty straightforward it's 20 multiplied by how much current was in this branch that was the
+
+08:02.080 --> 08:03.460
+current one.
+
+08:03.520 --> 08:05.930
+This was 80 over 27.
+
+08:06.430 --> 08:14.740
+That means this guy here is 6500 over 27 that's the power being supplied by the battery you could substitute
+
+08:14.740 --> 08:15.670
+that in your calculator.
+
+08:15.670 --> 08:22.820
+I think I get 59 point to six watts or let's have a look at all these resistors Now let's do the power
+
+08:22.820 --> 08:30.230
+being dissipated by the tumor this there the power being dissipated by the Forum resistor power being
+
+08:30.230 --> 08:34.900
+dissipated by the one ohm in the last one power being dissipated by the three on.
+
+08:35.330 --> 08:35.780
+OK.
+
+08:35.780 --> 08:39.920
+Again for this case since I'm looking at resistors I just calculate how much current flows through each
+
+08:39.920 --> 08:40.900
+one of those.
+
+08:40.970 --> 08:46.420
+It's probably easier to use the power being dissipated as are multiplied by the current squared.
+
+08:46.910 --> 08:52.280
+So for the tool I get to multiplied by the current in that branch the current flowing through this tuum
+
+08:52.280 --> 08:55.510
+resistor was 80 over 27.
+
+08:55.530 --> 09:07.520
+And don't forget the square that all right you square 80 at 64 400 times two is 128 hundred twenty seven
+
+09:07.520 --> 09:15.190
+squared is 7:29 all right power being dissipated in the form resistor is four times the same thing same
+
+09:15.190 --> 09:17.950
+current.
+
+09:18.070 --> 09:24.230
+Remember that current I won was the same everywhere down here same current flowing through the battery.
+
+09:24.330 --> 09:25.730
+That was the current one.
+
+09:27.370 --> 09:32.480
+All right so that means that the power being dissipated by the form this is simply two times this value.
+
+09:32.500 --> 09:33.420
+That's easy.
+
+09:33.670 --> 09:39.330
+That's 256 divided by 7:29.
+
+09:39.420 --> 09:43.590
+All right the power being dissipated by the one ohm a little bit carefully remember the one on we had
+
+09:43.590 --> 09:49.160
+a current Aitu flowing through that one and I too had a magnitude of 60 over 27.
+
+09:49.320 --> 09:55.270
+So you get one is the value of the resistance multiplied by 60 over 27.
+
+09:55.290 --> 10:02.400
+Don't forget the square at 3600 divided by 7:29.
+
+10:02.480 --> 10:09.490
+Again all of these numbers here in Watts Watts and Watts and the last one is the three ohm resistor.
+
+10:09.500 --> 10:13.280
+Careful that's not just three times the one ohm because the current is different.
+
+10:13.520 --> 10:22.730
+So it's three times the current i3 was 20 over 27 a square that again everything is over 7:29 and what
+
+10:22.730 --> 10:23.030
+do you get.
+
+10:23.030 --> 10:26.830
+You get three times 20 squared is 400.
+
+10:27.000 --> 10:30.260
+Gives me twelve hundred.
+
+10:30.330 --> 10:36.090
+Now what I did was I added every single one here so 128 zero zero.
+
+10:36.300 --> 10:40.930
+Twenty five thousand six hundred three thousand six hundred and twelve hundred.
+
+10:41.070 --> 10:46.840
+You sum all of those up and what you end up getting everything is in over the same common denominator
+
+10:46.840 --> 10:49.270
+at 729.
+
+10:49.500 --> 10:52.950
+This is forty three thousand two hundred.
+
+10:52.950 --> 10:58.520
+That is the total power being dissipated by these four resistors.
+
+10:59.100 --> 11:01.320
+Now that doesn't look like the power being supplied.
+
+11:01.320 --> 11:04.090
+However you have to put things on a common denominator.
+
+11:04.110 --> 11:08.680
+Actually this one is not that obvious but if I would actually left it is Twenty-Seventh squared.
+
+11:08.760 --> 11:15.680
+You could have guessed instead of writing 7:29 you write it like this as Twenty-Seventh squared.
+
+11:15.930 --> 11:22.410
+And forty three thousand two hundred is actually 16:00 multiplied by 27.
+
+11:22.890 --> 11:24.490
+So now you can see what happens.
+
+11:24.600 --> 11:32.760
+One of these is going to cross off with one of those and lo and behold you get 16:00 over 27 which equals
+
+11:32.760 --> 11:40.080
+fifty nine point to six so the total power being dissipated by the 4 resistors is simply equal to the
+
+11:40.080 --> 11:43.230
+total power being delivered to the circuit by the battery.
+
+11:43.230 --> 11:45.400
+The energy has to come from somewhere.
+
+11:45.420 --> 11:51.030
+Whatever you put in from the battery has to be with being dissipated in those resistors.
+
+11:51.030 --> 11:55.200
+All right there you have it folks that's how you kind of tackle a problem like this how I would do it.
+
+11:55.250 --> 12:00.450
+I like to deal with fractions if you wanted to put in just punch those numbers in your calculator you're
+
+12:00.450 --> 12:01.630
+free to do so.
+
+12:01.650 --> 12:03.590
+Just be careful at the end when you add those up.
+
+12:03.590 --> 12:10.050
+You might end up with a fraction or a decimal off one one hundredth of a watt off I wouldn't be too
+
+12:10.050 --> 12:11.110
+concerned about that.
+
+12:11.310 --> 12:15.250
+But just be a little bit careful with the rounding you might not get them equal to each other if you're
+
+12:16.860 --> 12:17.910
+if you're not cautious.

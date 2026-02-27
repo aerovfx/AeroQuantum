@@ -1,0 +1,375 @@
+WEBVTT
+
+WEBVTT
+
+00:00.290 --> 00:04.880
+All right first want to consider the case where we're charging a capacitor and we're charging a capacitor
+
+00:04.890 --> 00:09.050
+we mean that we have a capacitor that's connected to an IMF.
+
+00:09.300 --> 00:15.930
+And in this case we also have a resistor R and I've also included a switch here and at initially the
+
+00:15.930 --> 00:16.850
+switch is open.
+
+00:16.920 --> 00:22.010
+So if the switch is open basically the resistance of just this part here is infinity.
+
+00:22.020 --> 00:26.310
+Therefore there is no current here until I close the switch.
+
+00:26.310 --> 00:32.160
+One other comment here initially the charge on the capacitor which I called Q zero right when the switch
+
+00:32.160 --> 00:33.030
+is open.
+
+00:33.210 --> 00:38.540
+The capacitor is initially uncharged which means it has zero charge on it here.
+
+00:38.640 --> 00:44.490
+In addition if the charge is zero remember our fundamental capacitor equation that relates to the charge
+
+00:44.490 --> 00:47.960
+on the plates to the voltage on the plates.
+
+00:48.600 --> 00:53.700
+So if the charge is initially zero the only way you can have this is if the voltage between the plates
+
+00:53.790 --> 00:54.760
+is zero.
+
+00:55.100 --> 00:55.730
+OK.
+
+00:56.040 --> 01:02.620
+So that means the initial voltage across the plates has to be zero.
+
+01:02.650 --> 01:09.460
+OK so let's go ahead now and close the switch so that T goes to zero we close the switch and let's see
+
+01:09.460 --> 01:12.340
+what happens though.
+
+01:12.410 --> 01:18.170
+I'm going to do is I'm just going to draw a line here just to represent a closed switch.
+
+01:18.970 --> 01:27.880
+Once you close the switch now again there is an electric current just like before that electric current
+
+01:27.880 --> 01:28.880
+again goes from.
+
+01:28.960 --> 01:31.510
+We're talking about the positive electric current.
+
+01:31.710 --> 01:32.840
+It's a current I.
+
+01:32.890 --> 01:34.620
+That goes like this.
+
+01:35.020 --> 01:39.730
+You can imagine if you're an electron anywhere on this segment over here if you're an electron on this
+
+01:39.730 --> 01:45.340
+segment where do you want to go you want to head right toward the positive terminal of that battery.
+
+01:45.340 --> 01:51.730
+If you're an electron anywhere on this side you want to head farther away from this negative terminal.
+
+01:51.730 --> 01:55.990
+So you'd be an electron you'd want to move in this direction which means there is a positive current
+
+01:56.470 --> 01:57.500
+initially here.
+
+01:59.410 --> 02:02.190
+Flowing like this.
+
+02:02.510 --> 02:06.570
+Now that current is not constant that is the key point here.
+
+02:06.830 --> 02:10.550
+But there will be a current when you first close the switch.
+
+02:10.610 --> 02:14.890
+Now in order to look at this we're going to apply our Kirchoff's voltage law.
+
+02:15.290 --> 02:17.180
+What I'm going to do here is I'm going to pick a point.
+
+02:17.240 --> 02:20.450
+Let's start over here and let's look at all the voltages.
+
+02:20.450 --> 02:22.550
+Let's do a complete loop.
+
+02:22.550 --> 02:27.460
+We're going to add all the voltages and see what happens.
+
+02:27.510 --> 02:30.360
+And again we said that electrons are going to move away.
+
+02:30.590 --> 02:35.570
+If you're on this branch and electrons are going to move onto this plate.
+
+02:35.930 --> 02:42.920
+So that means that at some specific time there may be some net negative charge on here and whenever
+
+02:42.920 --> 02:48.560
+net negative charge I have on this plate I'm going to have a net positive charge because electrons are
+
+02:48.560 --> 02:50.400
+going to move away from this plate.
+
+02:50.810 --> 02:53.990
+That charge is always equal and opposite is given by some value.
+
+02:53.990 --> 02:56.060
+Q Okay.
+
+02:56.120 --> 02:59.030
+Let's go ahead and apply Kirchoff's voltage law.
+
+02:59.630 --> 03:04.330
+I'm going to go around here in a clockwise fashion the first thing I encounter is an email.
+
+03:04.550 --> 03:09.680
+So I have to add the voltage of that MF.
+
+03:09.790 --> 03:16.000
+Now if there is initially a current flowing over here from left to right flowing through the resistor
+
+03:16.030 --> 03:21.280
+and I'm going in this direction that means that this point is at a higher electrical potential and that
+
+03:21.280 --> 03:26.770
+one that means I'm going to get a voltage drop and the magnitude of that voltage drop is given by Ohm's
+
+03:26.770 --> 03:27.320
+law.
+
+03:28.930 --> 03:29.640
+OK.
+
+03:30.090 --> 03:32.750
+And now I'm also going to get a look at.
+
+03:32.790 --> 03:35.220
+I've got a little bit of positive charge on here.
+
+03:35.220 --> 03:37.090
+I've got some negative charge on the other plate.
+
+03:37.230 --> 03:44.580
+So if I cross I go from a higher electrical potential toward a lower electrical potential and the voltage
+
+03:45.000 --> 03:50.080
+drop across the capacitor we're just going to call it visi.
+
+03:50.700 --> 03:52.510
+And now I go back to where I started.
+
+03:53.860 --> 03:54.860
+It's equal to zero.
+
+03:55.030 --> 03:56.940
+Let's call this equation 1.
+
+03:57.760 --> 03:59.780
+So this is an important equation.
+
+04:00.400 --> 04:06.010
+Now what I'm going to do now is I'm going to use my capacitor equation again the voltage on the capacitor
+
+04:07.000 --> 04:11.510
+is related to the charge on the capacitor.
+
+04:11.570 --> 04:18.830
+So what I'm going to do now is I'm going to isolate the C and I'm going to substitute v c for the value
+
+04:18.830 --> 04:21.630
+in my Kirchoff's voltage law.
+
+04:22.940 --> 04:25.730
+So let's go ahead and take one one extra step here.
+
+04:25.820 --> 04:28.000
+So I still have the voltage of the battery.
+
+04:28.190 --> 04:34.460
+I still have the current I a voltage drop across that resistance and now instead of writing v c I'm
+
+04:34.460 --> 04:37.670
+simply going to multiply or subtract here.
+
+04:38.090 --> 04:44.480
+The charge on the capacitor divided by the value of the capacitance that's is equivalent to the voltage
+
+04:44.480 --> 04:45.660
+across the capacitor.
+
+04:45.960 --> 04:48.060
+And this is equal to zero.
+
+04:49.070 --> 04:52.010
+So now let's go ahead and solve for the current.
+
+04:52.010 --> 04:55.640
+So to get for the current Well what you have to do is you simply bring this term on the other side and
+
+04:55.640 --> 04:58.850
+you divide through by the resistance.
+
+04:59.030 --> 05:04.130
+So you're going to be left with something like this you're going to be left with the IMF divided by
+
+05:04.130 --> 05:09.380
+the resistance and then you're going to be left with an another term which is the charge on the plates
+
+05:10.670 --> 05:12.560
+divided by this term.
+
+05:12.570 --> 05:14.690
+Here are times c.
+
+05:14.810 --> 05:17.660
+So this here is an important equation over here.
+
+05:17.660 --> 05:20.980
+Now remember what just happened at time equals zero.
+
+05:20.970 --> 05:21.960
+What did I say.
+
+05:22.250 --> 05:24.250
+I said that a time equals zero.
+
+05:24.260 --> 05:26.690
+There is no charge on the plates.
+
+05:26.990 --> 05:34.240
+So that means that this term here initially is equal to zero because it was initially uncharged.
+
+05:34.770 --> 05:39.210
+So that means that this whole second term here vanishes at time equals to zero when you first close
+
+05:39.210 --> 05:40.530
+the switch.
+
+05:41.250 --> 05:50.800
+So when you first close the switch the current that you get is equal to the IMF divided by the resistance
+
+05:53.440 --> 05:58.730
+this is at Teagle Zero kind of.
+
+05:58.740 --> 06:12.340
+Just after closing the switch.
+
+06:12.540 --> 06:15.170
+OK so this is an important relationship here.
+
+06:15.210 --> 06:15.620
+Go ahead.
+
+06:15.630 --> 06:16.790
+Put that in a box.
+
+06:18.600 --> 06:23.790
+Actually if you look at this current over here what is that current look like.
+
+06:23.790 --> 06:28.890
+This is the exact same current you would get as if there is no capacitor there.
+
+06:30.450 --> 06:30.650
+Right.
+
+06:30.650 --> 06:34.770
+If there was no capacitor here and you applied Ohm's a lot the circuit Well you'd only have a single
+
+06:34.770 --> 06:39.120
+resistance with an MF and you would get this current.
+
+06:39.120 --> 06:44.620
+Now the difference if there is no capacitor is that this current here would be the steady state current.
+
+06:44.640 --> 06:50.880
+However in this case it's only the instantaneous current that you get immediately after closing the
+
+06:50.880 --> 06:53.340
+switch.
+
+06:53.340 --> 06:54.510
+Now what's going to happen now.
+
+06:54.510 --> 06:59.970
+Well that current You're going to keep on building up charge putting more and more positive charge on
+
+06:59.970 --> 07:05.520
+this plate and then putting more and more negative charges on this plate.
+
+07:07.020 --> 07:12.260
+And eventually the voltage here of this capacitor starts getting big.
+
+07:12.960 --> 07:19.050
+And if you look at now if you compare the electric field produced in the wire there's two sources of
+
+07:19.050 --> 07:20.590
+electric fields in the wire.
+
+07:20.590 --> 07:25.920
+There is the electric field produced by the battery that's pointing in one direction but now you're
+
+07:25.920 --> 07:32.400
+going to start building up a second electric field in the wire produced by the charges on these parallel
+
+07:32.400 --> 07:33.240
+plates.
+
+07:35.520 --> 07:40.010
+Eventually those are going to cancel out and the current is going to drop to zero.
+
+07:40.500 --> 07:44.010
+So here's what it looks like at least qualitatively.
+
+07:44.100 --> 07:47.160
+Let's go ahead and make a plot of the current as a function of time
+
+07:50.440 --> 07:52.380
+and just make a sketch.
+
+07:53.080 --> 07:58.040
+So we know that at time zero this is what we get when we get some value up here and this value is the
+
+07:58.070 --> 08:03.640
+IMF the battery divided by the radius divided by the resistance.
+
+08:03.640 --> 08:07.570
+Now after a long period time I told you you're going to start building up some charges and eventually
+
+08:07.930 --> 08:11.750
+the voltage across the capacitor is going to be equal to the IMF.
+
+08:11.980 --> 08:14.620
+And at that time the current will go to zero.
+
+08:16.820 --> 08:21.950
+And the way it looks like kind of in between both of those times is it looks like an exponentially decaying
+
+08:22.220 --> 08:25.660
+current.
+
+08:25.990 --> 08:30.220
+So now what we're going to do is we're going to look at the mathematics involved in calculating the
+
+08:30.220 --> 08:31.650
+current as a function of time.
+
+08:32.990 --> 08:38.570
+We're also going to look at the charge build up as a function of time and also the voltage difference
+
+08:38.660 --> 08:40.500
+across the plates here is a function of time.

@@ -1,0 +1,31 @@
+WEBVTT
+
+00:00.170 --> 00:01.060
+Hi everybody.
+
+00:01.060 --> 00:06.450
+It's now time to have a look at the motion of charges in electric fields and apply some of our knowledge
+
+00:06.450 --> 00:07.990
+to try to solve some problems.
+
+00:08.130 --> 00:14.400
+So attached to this video is a PDA just a short quiz so you can practice some of the concepts that you've
+
+00:14.460 --> 00:16.210
+learned in the previous sections.
+
+00:16.310 --> 00:17.920
+So have a look at the PDA f.
+
+00:17.970 --> 00:23.100
+Try some of the problems on your own for kind of short multiple choice problems and then come watch
+
+00:23.100 --> 00:26.170
+the next video to see the solutions and see if you understand.
+
+00:26.330 --> 00:26.730
+Okay.
+
+00:26.760 --> 00:27.670
+Good luck everybody.

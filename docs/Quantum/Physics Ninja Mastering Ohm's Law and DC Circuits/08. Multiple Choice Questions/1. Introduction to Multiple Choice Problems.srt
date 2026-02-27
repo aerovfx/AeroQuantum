@@ -1,0 +1,43 @@
+WEBVTT
+
+00:00.520 --> 00:03.720
+Everybody doctor you hear your physics ninja welcome.
+
+00:03.720 --> 00:07.930
+So this is the multiple choice section so I've got 30 different problems for you.
+
+00:07.950 --> 00:11.040
+A lot of kind of good problems just with resistors at the end.
+
+00:11.040 --> 00:17.070
+Throw in some capacitors and test your understanding of their shorter problems but they're going to
+
+00:17.070 --> 00:21.380
+test your comprehension hopefully kind of drill down what you've covered in the lectures.
+
+00:21.390 --> 00:22.120
+So good luck.
+
+00:22.140 --> 00:23.890
+The problem is the solutions are broken down.
+
+00:23.890 --> 00:28.740
+I've paired them up so the videos aren't too long they're kind of easy to get through the PBF is linked
+
+00:28.740 --> 00:32.150
+to this document at the end of the PTF is the answer key.
+
+00:32.160 --> 00:35.380
+But you've got to watch the videos to get all the details.
+
+00:35.380 --> 00:35.600
+All right.
+
+00:35.610 --> 00:37.280
+Good luck everybody you have some fun.
+
+00:37.320 --> 00:39.730
+Again if you ever have any questions reach out to me.
+
+00:39.780 --> 00:40.730
+I'm here to help you.

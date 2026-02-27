@@ -1,0 +1,890 @@
+1
+00:00:01,760 --> 00:00:04,830
+Now we're going to put to work the main
+equation of quantum mechanics,
+
+2
+00:00:04,830 --> 00:00:08,670
+the Schrodinger equation, and
+use it solve a very interesting problem.
+
+3
+00:00:08,670 --> 00:00:12,479
+It will also illustrate why quantum
+mechanic effects are not important in our
+
+4
+00:00:12,479 --> 00:00:16,885
+everyday lives, while being essential when
+we're dealing with atomic length scales.
+
+5
+00:00:18,285 --> 00:00:21,365
+The question we're going to
+ask is what happens if we
+
+6
+00:00:21,365 --> 00:00:26,325
+enforce a particle-like solution
+in our quantum mechanical problem.
+
+7
+00:00:26,325 --> 00:00:29,895
+So basically, what it means is that
+we postulate, let's postulate,
+
+8
+00:00:29,895 --> 00:00:30,835
+that t equals zero.
+
+9
+00:00:30,835 --> 00:00:33,380
+At the initial moment
+of time t equal zero,
+
+10
+00:00:33,380 --> 00:00:38,220
+we have the wave function such as this,
+which is called Gaussian wave packet.
+
+11
+00:00:38,220 --> 00:00:42,950
+And this wave function basically describes
+
+12
+00:00:42,950 --> 00:00:47,250
+a particle which is localized
+in space around zero.
+
+13
+00:00:47,250 --> 00:00:50,510
+So it's a typical Gaussian, around zero.
+
+14
+00:00:50,510 --> 00:00:54,710
+And the spread out of this Gaussian is of
+order d, which is the parameter of the.
+
+15
+00:00:54,710 --> 00:00:56,380
+So A here is some coefficient.
+
+16
+00:00:56,380 --> 00:00:58,116
+It's not very important at this stage.
+
+17
+00:00:58,116 --> 00:01:03,950
+Now the calculation which we're going to
+present is essentially the evolution
+
+18
+00:01:03,950 --> 00:01:08,040
+of this initial condition with time under
+the action of the Schroedinger equation,
+
+19
+00:01:08,040 --> 00:01:10,220
+and it's a big technical question.
+
+20
+00:01:10,220 --> 00:01:13,810
+So for those of you who are not
+interested in technical details,
+
+21
+00:01:13,810 --> 00:01:15,810
+I would like just to
+present the final answer so
+
+22
+00:01:15,810 --> 00:01:20,990
+that you can understand the bottom line
+without going into technicalities.
+
+23
+00:01:20,990 --> 00:01:22,940
+And so the final answer is here.
+
+24
+00:01:22,940 --> 00:01:26,170
+So here, we have the wave
+function as a function of time,
+
+25
+00:01:26,170 --> 00:01:31,040
+models of it squared, so
+we describe essentially particles.
+
+26
+00:01:31,040 --> 00:01:36,930
+And, as we will see, this side
+squared has the same Gaussian form
+
+27
+00:01:36,930 --> 00:01:41,840
+as the regional wave function, but the
+difference here is that the parameter d,
+
+28
+00:01:41,840 --> 00:01:46,040
+which describes its spreading,
+it increases with time.
+
+29
+00:01:46,040 --> 00:01:50,100
+And it increases with time as one
+plus t squared over some tau squared,
+
+30
+00:01:50,100 --> 00:01:57,010
+where tau squared is this typical time
+scale at which the spreading occurs.
+
+31
+00:01:57,010 --> 00:02:02,650
+So if we now look at this dependence
+of [INAUDIBLE] squared on x,
+
+32
+00:02:02,650 --> 00:02:07,420
+and as time goes by we will see a more and
+more uniform density.
+
+33
+00:02:07,420 --> 00:02:09,820
+So eventually it will be almost flat.
+
+34
+00:02:09,820 --> 00:02:14,089
+Now, this basically implies
+that a particle like solution,
+
+35
+00:02:14,089 --> 00:02:19,450
+this type of wave [INAUDIBLE],
+is unstable in quantum mechanics.
+
+36
+00:02:19,450 --> 00:02:23,328
+So but the important thing is
+the time scale itself at which
+
+37
+00:02:23,328 --> 00:02:25,000
+this spreading occurs.
+
+38
+00:02:26,310 --> 00:02:29,740
+And let us estimate this time scale for
+
+39
+00:02:29,740 --> 00:02:35,130
+two sort of diametrically opposite cases.
+
+40
+00:02:35,130 --> 00:02:37,548
+So one case will be
+the case of an electron,
+
+41
+00:02:37,548 --> 00:02:41,360
+a microscopic elementary particle,
+with a mass of about 10 to -27 grams.
+
+42
+00:02:41,360 --> 00:02:45,790
+And let's assume that it's localized
+
+43
+00:02:45,790 --> 00:02:50,740
+on atomic length scales
+of 10 to -8 centimeters.
+
+44
+00:02:50,740 --> 00:02:51,780
+So if we plug in the numbers,
+
+45
+00:02:51,780 --> 00:02:55,492
+what we're going to see is the typical
+time scale at which the spreading,
+
+46
+00:02:55,492 --> 00:03:00,748
+he localization radius if you want, of
+this electron doubles is on the order of
+
+47
+00:03:00,748 --> 00:03:06,560
+10 minus 16 seconds,
+which is an extremely short time scheme.
+
+48
+00:03:06,560 --> 00:03:08,650
+Hardly observable in any experiment.
+
+49
+00:03:09,770 --> 00:03:13,640
+Now if we take, on the contrary,
+a macroscopic object, let's say a typical
+
+50
+00:03:13,640 --> 00:03:17,820
+human being, which is also described
+by the laws of quantum mechanics.
+
+51
+00:03:17,820 --> 00:03:20,131
+So the difference will
+be quite noticeable.
+
+52
+00:03:20,131 --> 00:03:23,949
+So here, well the mass of course of
+macroscopic object here will be around
+
+53
+00:03:23,949 --> 00:03:25,613
+let's say 50 kilograms, and
+
+54
+00:03:25,613 --> 00:03:29,610
+let's say we want to be localized on
+a distance of under 1 centimeter.
+
+55
+00:03:29,610 --> 00:03:33,860
+Well if we now plug in the numbers into
+this equation, what we're going to see is
+
+56
+00:03:33,860 --> 00:03:38,810
+that the typical time scale of which
+sort of quantum delocalization
+
+57
+00:03:38,810 --> 00:03:44,630
+of a human being occurs is
+a quarter 10 to plus 30 seconds.
+
+58
+00:03:44,630 --> 00:03:50,110
+So to put this number in perspective,
+so this is equal to 10 to the 23 years,
+
+59
+00:03:50,110 --> 00:03:53,863
+or 10 to the 13 10 trillion
+lifetimes of the universe.
+
+60
+00:03:53,863 --> 00:03:58,900
+So basically it's a, in some sense,
+meaningless number, so it's a number which
+
+61
+00:03:58,900 --> 00:04:04,200
+is never relevant in any realistic
+circumstances, so we shouldn't be worrying
+
+62
+00:04:04,200 --> 00:04:10,080
+too much about being quantum delocalized
+due to quantum mechanical effect.
+
+63
+00:04:10,080 --> 00:04:13,190
+And if you now look at
+different time scales for
+
+64
+00:04:13,190 --> 00:04:16,070
+various objects that we are dealing
+with our everyday lives,
+
+65
+00:04:16,070 --> 00:04:20,300
+we're going to see that essentially for
+all those objects, even the smallest ones,
+
+66
+00:04:20,300 --> 00:04:24,150
+we can safely say that quantum mechanical
+effects are completely irrelevant.
+
+67
+00:04:24,150 --> 00:04:28,286
+At the moment we're going to
+go to fundamental microscopic
+
+68
+00:04:28,286 --> 00:04:33,270
+time scales, and
+it's going to change very significantly.
+
+69
+00:04:33,270 --> 00:04:36,600
+Now, I'm going to actually derive
+the main result that I presented in
+
+70
+00:04:36,600 --> 00:04:39,630
+the previous slide,
+the evolution of the Gaussian wave packet.
+
+71
+00:04:39,630 --> 00:04:43,110
+And as I mentioned to you this derivation
+is a bit on the technical side.
+
+72
+00:04:43,110 --> 00:04:46,460
+So those of you who are not really
+interested in these technicalities
+
+73
+00:04:46,460 --> 00:04:49,400
+may just skip towards
+the end of the lecture.
+
+74
+00:04:49,400 --> 00:04:55,110
+But those who want to actually learn
+the technical part of quantum mechanics,
+
+75
+00:04:55,110 --> 00:04:57,850
+which is the main part of quantum
+mechanics, should pay attention,
+
+76
+00:04:57,850 --> 00:05:00,740
+perhaps rederive it on your own.
+
+77
+00:05:00,740 --> 00:05:06,390
+Now the main element of the solution
+is the decomposition of the initial
+
+78
+00:05:06,390 --> 00:05:10,185
+condition of this wave-packet
+into the plane-waves.
+
+79
+00:05:10,185 --> 00:05:12,660
+So plane-waves are presented here.
+
+80
+00:05:12,660 --> 00:05:16,640
+So sort of as a modulation as to why
+we want to do something like this,
+
+81
+00:05:16,640 --> 00:05:21,300
+we should recall that
+the Schrodinger equation was used or
+
+82
+00:05:21,300 --> 00:05:25,280
+derived, almost by construction,
+to describe waves rather than particles.
+
+83
+00:05:25,280 --> 00:05:29,870
+In this initial conditions we have chosen
+is, in some sense, an arbitrary function.
+
+84
+00:05:29,870 --> 00:05:33,942
+There's absolutely no reason why it would
+be a convenient solution to anything.
+
+85
+00:05:33,942 --> 00:05:38,010
+While the plane-waves are indeed
+the solutions, and so
+
+86
+00:05:38,010 --> 00:05:42,510
+by decomposing this function, or
+any initial condition for this match up,
+
+87
+00:05:42,510 --> 00:05:46,300
+these plane waves we actually simplify
+things a lot, as we'll see later.
+
+88
+00:05:46,300 --> 00:05:50,252
+Form the medical point of view,
+this composition is nothing but
+
+89
+00:05:50,252 --> 00:05:55,595
+a Fourier transform of this wave
+function into the functions.
+
+90
+00:05:55,595 --> 00:05:58,130
+So these cosines and sines.
+
+91
+00:05:58,130 --> 00:06:03,800
+And we know very well how to do this
+decomposition, but before we go to this,
+
+92
+00:06:03,800 --> 00:06:08,740
+I would like to remind you of the
+following identity for Gaussian integral,
+
+93
+00:06:08,740 --> 00:06:12,920
+which actually we're going to use at
+least three times in this derivation,
+
+94
+00:06:12,920 --> 00:06:14,252
+in different topics.
+
+95
+00:06:14,252 --> 00:06:17,545
+So if we have an exponential
+of the quadratic function,
+
+96
+00:06:17,545 --> 00:06:21,780
+with some alpha and beta here, so
+the integral from minus infinity to
+
+97
+00:06:21,780 --> 00:06:24,900
+positive infinity is well known and
+it's given by this equation.
+
+98
+00:06:24,900 --> 00:06:26,980
+So we're going to just use it later on.
+
+99
+00:06:26,980 --> 00:06:31,120
+Now the reason it's relevant at
+this stage of the derivation
+
+100
+00:06:31,120 --> 00:06:36,070
+is because the Fourier transform,
+or in other words these Fourier
+
+101
+00:06:36,070 --> 00:06:40,100
+harmonics which in the context of quantum
+mechanics are called wave function in
+
+102
+00:06:40,100 --> 00:06:44,350
+the momentum space, are determined exactly
+by this type of Gaussian integral.
+
+103
+00:06:44,350 --> 00:06:48,900
+Because what we have to do in order to
+ensure this five p, we have to take
+
+104
+00:06:48,900 --> 00:06:53,820
+the integral of this exponential,
+either bar minus x squared or
+
+105
+00:06:53,820 --> 00:07:00,700
+two d squared with this integral
+minus i over h bar p x.
+
+106
+00:07:00,700 --> 00:07:07,320
+And if we look at this integral and
+compare it with this Gaussian expression,
+
+107
+00:07:07,320 --> 00:07:13,360
+we will see that alpha here is
+equal to one over two d squared.
+
+108
+00:07:13,360 --> 00:07:17,800
+And beta is equal to minus i h bar p.
+
+109
+00:07:19,300 --> 00:07:21,964
+So if we use now this formula, so
+
+110
+00:07:21,964 --> 00:07:26,901
+beta squared is equal to minus
+p squared over h squared, and
+
+111
+00:07:26,901 --> 00:07:32,060
+divided by four alpha will give
+us the following expression.
+
+112
+00:07:32,060 --> 00:07:34,420
+So if I completely ignore
+the overall coefficient,
+
+113
+00:07:34,420 --> 00:07:37,710
+it's not really important for
+the following.
+
+114
+00:07:37,710 --> 00:07:43,353
+So now, let me just erase this and
+get rid of this Gaussian integral, so
+
+115
+00:07:43,353 --> 00:07:50,890
+now we're going to interpret actually this
+Fourier transform in an interesting way.
+
+116
+00:07:50,890 --> 00:07:55,940
+So, the reason we have constructed
+this initial condition
+
+117
+00:07:55,940 --> 00:08:01,120
+in this form was because we
+wanted to localize our particle.
+
+118
+00:08:01,120 --> 00:08:03,090
+Sort of from a certain length scale of.
+
+119
+00:08:03,090 --> 00:08:08,370
+So the uncertainty of our initial
+condition in real space is.
+
+120
+00:08:08,370 --> 00:08:11,560
+But by looking at this sort of wave
+function and the momentum space,
+
+121
+00:08:11,560 --> 00:08:17,610
+we see that the uncertainty in momentum
+delta b, A is a quarter h bar over d.
+
+122
+00:08:17,610 --> 00:08:21,820
+So it's inverse proportional to
+the utilization in real space.
+
+123
+00:08:21,820 --> 00:08:27,230
+And so this sort of dual relation, so
+the more it's localized in real space
+
+124
+00:08:27,230 --> 00:08:30,910
+the less it's localized in the momentum
+space and vice versa, is a particular
+
+125
+00:08:30,910 --> 00:08:35,310
+manifestation of what is known as a
+general Heisenberg uncertainty principle.
+
+126
+00:08:35,310 --> 00:08:41,070
+Which is written here, so that in general,
+whatever wave function you have,
+
+127
+00:08:41,070 --> 00:08:45,840
+whatever quantum state you possible can
+construct, there's always a constraint
+
+128
+00:08:45,840 --> 00:08:52,290
+that the uncertainty of position times
+the uncertainty in momentum is larger or
+
+129
+00:08:52,290 --> 00:08:57,800
+equal than h bar,
+h bar being the plane onstant.
+
+130
+00:08:57,800 --> 00:09:02,350
+So now we're in the position to solve
+the main technical problem that we
+
+131
+00:09:02,350 --> 00:09:05,380
+formulated in the beginning
+of this segment.
+
+132
+00:09:05,380 --> 00:09:06,430
+That is,
+
+133
+00:09:06,430 --> 00:09:10,980
+to solve the Schrodinger equation,
+the free Schrodinger equation here.
+
+134
+00:09:10,980 --> 00:09:12,780
+So Hamiltonian here is
+just p squared over two m,
+
+135
+00:09:12,780 --> 00:09:15,550
+with the initial condition written as so.
+
+136
+00:09:15,550 --> 00:09:18,574
+So instead of writing it as
+a Gaussian in real space,
+
+137
+00:09:18,574 --> 00:09:22,080
+we' write it as a linear
+combination of plain waves,
+
+138
+00:09:22,080 --> 00:09:26,170
+that was basically the Fourier
+transform in the previous slide.
+
+139
+00:09:26,170 --> 00:09:29,644
+Now, in order to ride the tangent
+tandem of wave function,
+
+140
+00:09:29,644 --> 00:09:32,926
+we need to take into account
+two simple circumstances.
+
+141
+00:09:32,926 --> 00:09:38,050
+The first circumstance is the fact
+the Schrodinger equation,
+
+142
+00:09:38,050 --> 00:09:40,770
+the time Schrodinger equation,
+is a linear equation.
+
+143
+00:09:40,770 --> 00:09:45,190
+Which implies that if we have
+several solutions to this equation,
+
+144
+00:09:45,190 --> 00:09:49,720
+say one, say two, say three,
+etc, their sum is also solution,
+
+145
+00:09:49,720 --> 00:09:54,320
+with initial condition being simply the
+sum of the first 20 initial conditions.
+
+146
+00:09:55,520 --> 00:10:00,072
+Now the second circumstance is
+we have to recall that a plane
+
+147
+00:10:00,072 --> 00:10:04,650
+wave are written as so is indeed
+a solution of the Schroedinger equation.
+
+148
+00:10:04,650 --> 00:10:08,203
+In some sense,
+we can construct a Schroedinger equation.
+
+149
+00:10:08,203 --> 00:10:11,224
+That it would give us
+this guide as a solution.
+
+150
+00:10:11,224 --> 00:10:14,675
+And here the epsilon of p
+the energy of the electron,
+
+151
+00:10:14,675 --> 00:10:19,157
+the energy of free electron and
+simply equal to p squared over two m.
+
+152
+00:10:19,157 --> 00:10:22,919
+Now if we take a look at
+the initial condition again,
+
+153
+00:10:22,919 --> 00:10:27,721
+written in this form,
+we see that it's an integral over.
+
+154
+00:10:27,721 --> 00:10:30,290
+But integral is a sum in some sense.
+
+155
+00:10:30,290 --> 00:10:32,050
+It just happens to be an infinite sum.
+
+156
+00:10:32,050 --> 00:10:36,930
+So we can use the fact that a Schrodinger
+equation's a linear equation and
+
+157
+00:10:36,930 --> 00:10:40,670
+write psi of x and t,
+the full solution, as so.
+
+158
+00:10:40,670 --> 00:10:48,390
+So basically all we have to do is
+replace this plane wave at t equals zero
+
+159
+00:10:48,390 --> 00:10:54,275
+with the plane wave at a finite time with
+epsilon of p being p squared over two m.
+
+160
+00:10:54,275 --> 00:10:59,440
+And so to write now the wave
+function a more convenient way, so
+
+161
+00:10:59,440 --> 00:11:03,500
+what remains now is to calculate
+the Gaussian integral over momentum.
+
+162
+00:11:03,500 --> 00:11:08,810
+And it can be done again using
+the same identity that we used in
+
+163
+00:11:08,810 --> 00:11:15,420
+the previous slide, but now the parameter
+alpha here is going to be d squared
+
+164
+00:11:15,420 --> 00:11:21,660
+over two h squared plus i
+t divided by two m h bar,
+
+165
+00:11:21,660 --> 00:11:26,230
+and the parameter beta
+now is i x over h bar.
+
+166
+00:11:26,230 --> 00:11:30,520
+So again,
+if we use the same identity what we get is
+
+167
+00:11:30,520 --> 00:11:33,640
+the following expression for
+the wave function.
+
+168
+00:11:33,640 --> 00:11:39,730
+We see that this expression is
+an intrinsically complex function,
+
+169
+00:11:39,730 --> 00:11:43,940
+but if we're interested just in
+determining the density of our particle,
+
+170
+00:11:43,940 --> 00:11:47,660
+so where the particle is located,
+so the only thing which matters,
+
+171
+00:11:47,660 --> 00:11:51,580
+as I mentioned already and we'll discuss
+it in more details a little later,
+
+172
+00:11:51,580 --> 00:11:55,620
+is the absolute value of
+the wave function squared.
+
+173
+00:11:55,620 --> 00:11:58,430
+So, this absolute value
+squared can be calculated,
+
+174
+00:11:58,430 --> 00:12:02,180
+again, we don't worry too much
+about the overall coefficients.
+
+175
+00:12:02,180 --> 00:12:04,860
+We only look at what
+appears in the exponential.
+
+176
+00:12:04,860 --> 00:12:12,220
+So we can write this density as
+an exponential basically from here,
+
+177
+00:12:12,220 --> 00:12:17,380
+minus x squared over t squared
+where there is also another term,
+
+178
+00:12:17,380 --> 00:12:22,470
+which is one over one plus t squared or
+tau squared.
+
+179
+00:12:23,520 --> 00:12:27,950
+And tau here is exactly the timescale
+we discussed in the beginning, which
+
+180
+00:12:27,950 --> 00:12:32,840
+is mass times the delocalization length in
+some sense, d squared divided by h bar.
+
+181
+00:12:34,030 --> 00:12:39,120
+So this completes the derivation of the
+main result that we discussed earlier and
+
+182
+00:12:39,120 --> 00:12:41,090
+also completes the first lecture.
+
+183
+00:12:41,090 --> 00:12:42,120
+Thank you very much.
+
+184
+00:12:42,120 --> 00:12:44,247
+And I will see you in
+class later in the week.

@@ -1,0 +1,265 @@
+WEBVTT
+
+00:00.120 --> 00:00.410
+All right.
+
+00:00.420 --> 00:03.140
+So this is what we have here we have a gouges law problem.
+
+00:03.150 --> 00:11.080
+Number one we've got a conducting sphere inside which has a radius of zero point zero five meters.
+
+00:11.100 --> 00:17.160
+What else is placed inside a shell over here which has an inner radius which is given by that and an
+
+00:17.190 --> 00:18.780
+outer radius which is this.
+
+00:18.810 --> 00:19.090
+OK.
+
+00:19.110 --> 00:23.740
+We're asked now to look at the field at different regions.
+
+00:23.760 --> 00:30.440
+Now this inner sphere has a charge of careful here the negative sign is up here both negatively CHARGE
+
+00:30.440 --> 00:32.620
+AND NEGATIVE for nano cooling.
+
+00:32.690 --> 00:42.450
+So I'm gonna call this Q inner Q In is minus four times 10 to the negative nine columns and on the outer
+
+00:42.450 --> 00:46.910
+shell what I have here is positive charge here of three.
+
+00:47.780 --> 00:48.240
+OK.
+
+00:48.270 --> 00:54.710
+So this is Q Out is three times 10 to the negative nine columns.
+
+00:55.200 --> 00:58.980
+OK so we want to find a feel that the various positions over here.
+
+00:58.980 --> 01:00.840
+So let me do Part A right here.
+
+01:00.840 --> 01:03.180
+Let's figure out where is this.
+
+01:03.210 --> 01:05.970
+Oh this so they tell you it's in the air space between them.
+
+01:06.000 --> 01:12.720
+So if I was gonna draw a ocean surface it kind of look like something like this.
+
+01:12.920 --> 01:13.160
+All right.
+
+01:13.160 --> 01:14.380
+And the radius here.
+
+01:14.390 --> 01:20.450
+Let's just call it a radius r which is I mean it's gonna give it a subscript a.
+
+01:20.480 --> 01:20.720
+All right.
+
+01:20.720 --> 01:22.550
+So you apply GAUSS LAW to this problem.
+
+01:22.550 --> 01:28.610
+It's pretty straightforward says that the field multiplied by the area of this Goshen surface the area
+
+01:28.610 --> 01:30.880
+of a sphere is for pi.
+
+01:30.920 --> 01:34.030
+This will be a squared.
+
+01:34.030 --> 01:37.990
+And that has to be equal to how much charge is enclosed by this.
+
+01:38.030 --> 01:41.070
+Well it's the total charge q in right.
+
+01:41.120 --> 01:45.470
+It's simply Q in divided by epsilon 0.
+
+01:45.500 --> 01:45.700
+All right.
+
+01:45.710 --> 01:52.130
+So if I kind of write the math a little bit differently I'm gonna have one over for Pi Epsilon 0.
+
+01:52.520 --> 01:59.610
+And this is going to be Q in and divided by our A squared and that's multiplied.
+
+01:59.960 --> 02:07.140
+This guy here everything here in the bracket is typically what we call the constant k so you can write
+
+02:07.140 --> 02:13.260
+this as k q in divided by our A squared.
+
+02:13.260 --> 02:19.080
+So this looks like the field of a point charge rates as though all of the charge of this inner sphere
+
+02:19.080 --> 02:22.480
+is localized right at the center.
+
+02:22.710 --> 02:28.800
+So at the end we just substitute the values nine times ten of the nine K value the charge on the Inner
+
+02:28.800 --> 02:38.400
+Sphere again I'm just going to write the magnitude is for nano Coolum and now I have to divide by the
+
+02:38.400 --> 02:45.280
+right distance the radius is zero point zero five meters eight five meters sorry.
+
+02:45.310 --> 02:51.080
+Square put that in the calculator at the end you should get something which is just under 5000.
+
+02:51.490 --> 02:52.720
+That's in Newton's preschool home.
+
+02:52.740 --> 02:52.960
+OK.
+
+02:52.960 --> 03:02.650
+So that's part a part B now have a look where B is the radius is is this however it's inside the metal
+
+03:02.650 --> 03:04.060
+shell.
+
+03:04.060 --> 03:09.730
+So if you were going to draw that one it would kind of look something like this the radius the ocean
+
+03:09.730 --> 03:17.620
+surface would look something like this so this is kind of a trick question if you're inside the metal.
+
+03:17.880 --> 03:18.780
+The definition.
+
+03:18.780 --> 03:22.440
+This means you're inside a conductor.
+
+03:22.440 --> 03:23.130
+And guess what.
+
+03:23.130 --> 03:28.810
+The field inside the conductor is always zero.
+
+03:29.030 --> 03:29.420
+All right.
+
+03:29.590 --> 03:30.640
+So that one's easy.
+
+03:30.700 --> 03:31.980
+You don't have anything to do.
+
+03:32.500 --> 03:37.850
+And how about the last one C C says outside of the spherical shell.
+
+03:37.930 --> 03:42.250
+So if you're going to do outside the spherical shell this is kind of what the ocean's surface would
+
+03:42.250 --> 03:42.760
+look like.
+
+03:42.760 --> 03:48.070
+So the bigger it's going to have a radius which I'm going to call our subscript C..
+
+03:48.130 --> 03:54.120
+Put a little C over here or if you apply Gauss as law to this problem is going to look.
+
+03:54.120 --> 03:59.230
+The left hand side is going to look very very similar to the Part A except we have a different radius
+
+04:00.160 --> 04:02.180
+r c squared.
+
+04:02.470 --> 04:04.230
+And now what do we have instead of the.
+
+04:04.420 --> 04:06.150
+Just the charge of the inner.
+
+04:06.220 --> 04:13.230
+We really need to know what is the total charging closed and divided by epsilon 0.
+
+04:13.260 --> 04:13.600
+OK.
+
+04:13.630 --> 04:15.790
+So the only thing that's kind of a little bit tricky.
+
+04:15.800 --> 04:21.250
+Let me just rewrite this again it's always gonna be one over for pipes along zero I'm just gonna write
+
+04:21.250 --> 04:29.230
+that as K this here becomes Q total divided by our c squared.
+
+04:29.230 --> 04:32.640
+So I want you to think about what is the Q total over here.
+
+04:32.830 --> 04:37.300
+It's the total charge inside the surface so there's two things.
+
+04:37.300 --> 04:43.530
+Q total is going to be Q inside plus the charge on the outside shell.
+
+04:44.190 --> 04:47.020
+Okay so I mean kind of write that special right here.
+
+04:47.020 --> 04:53.540
+So the total charge is Q In plus Q on the outer shell.
+
+04:54.040 --> 04:58.340
+So Q In is negative for nano coolant.
+
+04:58.480 --> 05:00.220
+Q Out is three.
+
+05:00.400 --> 05:03.550
+So the total charge is minus it's going to be negative.
+
+05:03.550 --> 05:03.910
+Right.
+
+05:03.910 --> 05:05.450
+And one nano Coolum
+
+05:08.240 --> 05:08.760
+all right.
+
+05:08.790 --> 05:09.420
+So that's it.
+
+05:09.450 --> 05:11.710
+So that's kind of the tricky part over here.
+
+05:11.820 --> 05:16.110
+So at the end the field if and if I'm just worried about the magnitude I'm not going to put in the negative
+
+05:16.110 --> 05:16.610
+sign here.
+
+05:16.620 --> 05:20.330
+But the magnitude of the total charge is 1 nano cool.
+
+05:21.120 --> 05:24.630
+So we're gonna have nine times 10 to the 9.
+
+05:24.630 --> 05:30.510
+This year is going to be one times ten to the negative nine and divided by now the bigger radius because
+
+05:30.510 --> 05:37.130
+my I'm outside and it's zero point two five squared.
+
+05:37.230 --> 05:42.270
+Okay I'll put that in the calculator and you should get approximately one hundred and forty four newtons
+
+05:42.270 --> 05:48.300
+per kilo get kind of a nice application of Gauss law to different radii.

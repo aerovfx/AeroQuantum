@@ -1,0 +1,142 @@
+WEBVTT
+
+00:00.510 --> 00:00.870
+All right.
+
+00:00.900 --> 00:06.510
+So we just saw if we have two resistors in parallel you should be able to write one over our equivalent
+
+00:07.020 --> 00:12.780
+is one over our one plus one over our two and this is fine and dandy but I find this is a little bit
+
+00:12.780 --> 00:14.660
+long so here's a little trick right.
+
+00:14.670 --> 00:18.790
+If you only have two and let's just be clear that you have to have two.
+
+00:18.840 --> 00:19.290
+OK.
+
+00:19.290 --> 00:22.840
+Doesn't work for three or four but you can always do two at a time.
+
+00:23.070 --> 00:26.580
+So if you have two resistors in parallel you can use this equation it's fine and then you're going to
+
+00:26.580 --> 00:27.710
+get the right answer.
+
+00:27.870 --> 00:30.390
+However there's a better way to do this.
+
+00:30.540 --> 00:35.870
+And the trick is Let's first put them on a common denominator so it put them on a common denominator
+
+00:35.880 --> 00:42.090
+that would be our one multiplied by our two in order to do that.
+
+00:42.090 --> 00:47.740
+I'd have to multiply this side by our two and I'd have to multiply this side by our.
+
+00:47.740 --> 00:49.850
+Now this is the exact same expression.
+
+00:49.890 --> 00:51.350
+This is one over our equivalent.
+
+00:51.360 --> 00:56.310
+Hopefully you could see that now at the end really what I want to get is are equivalent I don't want
+
+00:56.310 --> 01:00.000
+to know one over are equivalent that doesn't get me anywhere.
+
+01:00.030 --> 01:02.110
+So you have to do now is just flip these.
+
+01:02.110 --> 01:12.800
+So are equivalent if there's only two resistors is are one are two divided by are one plus are two.
+
+01:13.560 --> 01:16.230
+So what does that mean that are equivalent.
+
+01:16.230 --> 01:18.630
+If there's two multiply
+
+01:22.290 --> 01:24.920
+with this term are 1 multiplied by are two.
+
+01:25.240 --> 01:28.510
+And the other one some.
+
+01:28.630 --> 01:30.490
+So that's all you need to do.
+
+01:31.690 --> 01:36.480
+If you have two resistors in parallel with each other you want to know what the equivalent resistance
+
+01:36.480 --> 01:38.070
+is down here.
+
+01:38.830 --> 01:42.100
+All you need to do is you multiply them and divided by the sum.
+
+01:42.100 --> 01:43.540
+So let's take an example.
+
+01:43.570 --> 01:45.930
+Imagine you have five and five right.
+
+01:45.940 --> 01:52.000
+Take a simple example five ohm resistor is in parallel with a five Omers ister the equivalent resistance
+
+01:52.010 --> 01:58.870
+in this case where you could do this one over five plus one over five equals one over are equivalent.
+
+01:58.880 --> 02:04.340
+Way too slow in this case you simply multiply them five times five.
+
+02:04.520 --> 02:09.020
+Multiply divided by the sum of the sum is 10.
+
+02:09.350 --> 02:12.490
+You get 25 over 10.
+
+02:12.560 --> 02:20.970
+You can take out five from each get five over two which gives you 2.5 ohms or if you add another example
+
+02:20.970 --> 02:23.620
+what if you had six and three.
+
+02:23.800 --> 02:26.230
+What would be our equivalent in that case.
+
+02:26.850 --> 02:29.620
+Well they are equivalents and there's only two I can use the trick.
+
+02:29.640 --> 02:33.050
+You can multiply them that's 18 divided by the sum.
+
+02:33.180 --> 02:36.020
+I add them up six plus three gives me nine.
+
+02:36.030 --> 02:38.100
+This is equivalent to a 2 ohm resistor.
+
+02:39.940 --> 02:44.970
+All right on more what if you had 10 and 20.
+
+02:45.170 --> 02:48.540
+Would that give you more are equivalent in this case.
+
+02:48.550 --> 02:58.910
+Very very easy to multiply them it's 200 divided by the sum 30 gives me 20 over 3 ohms.
+
+02:59.510 --> 03:00.130
+OK.
+
+03:00.500 --> 03:03.880
+So whenever you have two resistors and pair of Al there's a simple little trick.
+
+03:03.890 --> 03:05.370
+Multiply them divided by the sum.

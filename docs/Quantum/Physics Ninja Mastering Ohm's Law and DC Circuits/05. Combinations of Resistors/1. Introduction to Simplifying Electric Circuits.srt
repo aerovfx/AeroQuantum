@@ -1,0 +1,73 @@
+WEBVTT
+
+00:00.150 --> 00:03.600
+Write section for deals with combinations of resistors.
+
+00:03.660 --> 00:08.490
+This section here will allow us to simplify electric circuits and some of them we're going to see they're
+
+00:08.500 --> 00:13.050
+going look really complicated at the beginning but using some techniques to simplify them we can reduce
+
+00:13.050 --> 00:17.820
+them to very very simple circuits and the nice thing about simple circuits it's very easy to apply Ohm's
+
+00:17.820 --> 00:19.860
+law to find the power and so on.
+
+00:20.130 --> 00:24.060
+So we first have to learn how to identify what the different combinations are.
+
+00:24.060 --> 00:28.450
+I've kind of here we have two little diagrams here showing you two different combinations.
+
+00:28.470 --> 00:33.660
+If I only have two different resistors so the resistors here represented by the light bulbs there's
+
+00:33.660 --> 00:39.210
+two ways to connect two light bulbs to a power supply to this battery over here.
+
+00:39.240 --> 00:43.230
+The first way would be to connect them in parallel in parallel.
+
+00:43.230 --> 00:48.490
+It means if you count the number of loops over here you have more than a single loop.
+
+00:48.540 --> 00:53.550
+We've got our first loop here which connects to the resistor are two of the power supply.
+
+00:53.760 --> 00:59.810
+And then there's another loop that starts from this bulb and forms its own loop.
+
+00:59.970 --> 01:07.130
+And when you have a system like this this is said that both resistors here are in parallel to each other.
+
+01:07.170 --> 01:09.610
+The diagram here on the right hand side.
+
+01:09.870 --> 01:14.570
+Again if I connect both of them one right after another.
+
+01:14.710 --> 01:17.490
+So you have connected the first light bulb to the power supply.
+
+01:17.500 --> 01:24.460
+Now I attach another wire and connected immediately after and then coming back here in this case here
+
+01:24.460 --> 01:27.350
+the resistors are said to be in series with one another.
+
+01:27.400 --> 01:32.590
+So we're going to learn that there's different ways to simplify circuits but you have to be able to
+
+01:32.590 --> 01:35.600
+identify are the resistors in series with each other.
+
+01:35.770 --> 01:37.980
+Or are they in parallel with one another.
+
+01:38.200 --> 01:41.870
+Because there's going to be different sets of rules for each different case.
+
+01:41.860 --> 01:46.470
+So let's go ahead and look at each different case and why we're able to simplify them.

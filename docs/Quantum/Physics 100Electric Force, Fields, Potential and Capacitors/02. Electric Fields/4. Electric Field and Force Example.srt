@@ -1,0 +1,232 @@
+WEBVTT
+
+00:00.330 --> 00:00.570
+All right.
+
+00:00.570 --> 00:02.770
+Let's take a simple example over here.
+
+00:02.900 --> 00:04.530
+I split into two parts.
+
+00:04.530 --> 00:11.460
+So on the left hand side I have a positive three nano Coolum charge on the right hand side I have a
+
+00:11.460 --> 00:13.670
+negative three nano cool on charge.
+
+00:13.740 --> 00:14.460
+All right.
+
+00:14.460 --> 00:19.490
+And I have a point P that's located one meter away from each charge.
+
+00:19.530 --> 00:24.750
+The goal is let's find the electric field at each of these points at point p.
+
+00:24.810 --> 00:25.110
+Okay.
+
+00:25.140 --> 00:28.810
+So again it's a point charge that is producing that electric field.
+
+00:28.830 --> 00:36.260
+So it would be k q over our squared here would be nine times ten to the nine.
+
+00:36.270 --> 00:38.940
+That's the K value the charges three nano Q alone.
+
+00:38.940 --> 00:46.170
+That's three times 10 to the negative nine and divided by in this case it divided by one.
+
+00:46.320 --> 00:47.310
+Well that's one square.
+
+00:47.310 --> 00:48.710
+That one's easy.
+
+00:48.810 --> 00:49.050
+All right.
+
+00:49.050 --> 00:55.050
+So the magnitude of my electric field would be oh 10 to the nine and ten to the negative nine those
+
+00:55.050 --> 00:56.200
+things cancel out.
+
+00:56.370 --> 01:01.350
+So I'm left with just nine times three which is twenty seven and divided by one.
+
+01:01.410 --> 01:02.400
+So that's just that's it.
+
+01:02.430 --> 01:06.480
+Twenty seven this is newtons per Coolum.
+
+01:06.480 --> 01:07.020
+All right.
+
+01:07.050 --> 01:12.180
+Actually if I did the calculation over here again if you had a negative sign for the charge you would
+
+01:12.180 --> 01:15.120
+get negative but negative just tells me the direction.
+
+01:15.150 --> 01:15.420
+OK.
+
+01:15.450 --> 01:20.130
+I already know the direction because I know that this here is a positive charge.
+
+01:20.130 --> 01:25.050
+So that means that this here produces an electric field that points away from it.
+
+01:25.050 --> 01:28.570
+That is the convention because it's positive charge here.
+
+01:29.010 --> 01:32.700
+This vector here would have a magnitude of twenty seven.
+
+01:33.450 --> 01:40.530
+If I have a coordinate system where this here is positive y then I might actually just write it as something
+
+01:40.530 --> 01:41.200
+like this.
+
+01:41.250 --> 01:41.460
+Right.
+
+01:41.460 --> 01:48.130
+Positive twenty seven multiplied by the little vector in the y direction.
+
+01:48.290 --> 01:49.330
+OK.
+
+01:49.370 --> 01:51.820
+How would you do it here for the negative charge.
+
+01:51.890 --> 01:54.560
+Again the magnitude is twenty seven.
+
+01:54.710 --> 01:57.710
+If you're going to draw a vector though look what we have to do.
+
+01:58.100 --> 02:01.480
+You have to draw the vector in the opposite direction.
+
+02:02.000 --> 02:08.270
+The vector e points like this and again in this case here it would be twenty seven and it's pointing
+
+02:08.270 --> 02:10.590
+in the negative y direction.
+
+02:10.600 --> 02:16.850
+So at the end you could write it like this negative twenty seven multiplied by y terms of the direction
+
+02:16.850 --> 02:19.640
+you would simply write it like this.
+
+02:19.640 --> 02:20.090
+All right.
+
+02:20.090 --> 02:27.890
+So now here is a harder question now what happens if I take a charge Q2 and that charge is going to
+
+02:27.890 --> 02:30.690
+be negative two columns.
+
+02:31.250 --> 02:36.050
+Here's the charge it's a negative and I'm gonna go ahead and I'm going to place the charge right here
+
+02:37.100 --> 02:39.350
+at Point P.
+
+02:40.010 --> 02:40.330
+All right.
+
+02:40.350 --> 02:43.420
+So I've placed it at point p for each case.
+
+02:43.520 --> 02:49.790
+What if I want to know the magnitude of the force in the direction of the force on this negative charge.
+
+02:49.790 --> 02:55.040
+Well again if you want to find the force on any charge you simply take the magnitude of the charge and
+
+02:55.040 --> 02:57.640
+you multiplied by the electric field.
+
+02:57.980 --> 03:04.870
+In this case it would be the magnitude would simply be to add the electric field magnitude is 27.
+
+03:05.240 --> 03:08.800
+So this would be 54 Newtons.
+
+03:08.900 --> 03:11.440
+Now what would be the direction of the force.
+
+03:11.840 --> 03:18.650
+Again if this is a negative charge again remember our vector equation looks like this right the force
+
+03:18.680 --> 03:23.580
+on negative charges is always opposite of the electric field at that point.
+
+03:23.600 --> 03:26.710
+So this force here would have to be something like this.
+
+03:27.170 --> 03:31.430
+And you know right away since this is positive and this is negative you know that the force on the negative
+
+03:31.730 --> 03:34.970
+has to be it's an attractive force.
+
+03:34.970 --> 03:35.230
+All right.
+
+03:35.240 --> 03:39.010
+How about this case again it would be the same magnitude of the force.
+
+03:39.100 --> 03:41.930
+So the force F would still be 54 Newtons
+
+03:44.630 --> 03:45.330
+the direction.
+
+03:45.330 --> 03:48.260
+Now again our electric field is pointing down here.
+
+03:48.330 --> 03:51.190
+It's the electric field produced by this negative charge.
+
+03:51.230 --> 03:57.560
+That means that the force as a vector is always the charge multiplied by the field.
+
+03:57.680 --> 04:01.580
+It's always four negative charges I'm placing a negative charge right here.
+
+04:01.580 --> 04:08.960
+It's always going to be opposite of the electric field this here would be the direction of the force
+
+04:08.960 --> 04:09.890
+acting on it.
+
+04:09.890 --> 04:14.510
+And it's very clear from cool Ohm's Law right we know if we have two negative charges they are going
+
+04:14.510 --> 04:15.730
+to repel each other.
+
+04:15.740 --> 04:20.810
+So on this charge there is a force like this actually and the other charges the same force just in the
+
+04:20.810 --> 04:22.240
+opposite direction.
+
+04:22.250 --> 04:22.460
+All right.
+
+04:22.470 --> 04:27.290
+But I just wanted to highlight just these two different cases using the same magnitude of the charge
+
+04:27.290 --> 04:30.650
+that produces the field just in a different direction.

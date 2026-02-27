@@ -1,0 +1,259 @@
+WEBVTT
+
+00:00.210 --> 00:04.740
+All right for resistors in parallel It's a little bit more complicated than one in series but not too
+
+00:04.740 --> 00:05.560
+bad.
+
+00:05.580 --> 00:10.450
+So here's a case where I have two resistance are one and are two in parallel with each other.
+
+00:10.530 --> 00:14.990
+They're in parallel because they're on different branches right different wires.
+
+00:15.090 --> 00:20.660
+And the goal here is to replace both of them by one equivalent resistance so between points A and B
+
+00:21.600 --> 00:25.800
+regardless of how many I would have I can replace that by one equivalent resistor.
+
+00:25.950 --> 00:29.020
+I'm going to call that our equivalent.
+
+00:29.250 --> 00:30.310
+And the reason you want to do that.
+
+00:30.330 --> 00:36.270
+Well if you want to apply Ohm's law to this simple one resistor circuit one that's very very easy.
+
+00:36.480 --> 00:36.680
+Right.
+
+00:36.690 --> 00:43.090
+Because if I call the potential at point A vitæ I call the potential at point B B.
+
+00:43.260 --> 00:48.150
+I know that V-A has to be bigger than VB because current always flows from the higher potential toward
+
+00:48.150 --> 00:50.520
+the lower potential.
+
+00:50.550 --> 00:58.590
+So in this case you'd simply have V.A minus VB just for shorthand let's just call that V and that there
+
+00:58.590 --> 01:03.250
+must be equal to our equivalent multiplied by the current.
+
+01:03.270 --> 01:07.190
+I so that would be my expression.
+
+01:07.810 --> 01:11.110
+So now let's go back and look at the top figure.
+
+01:11.110 --> 01:12.520
+So in this figure over here if you look at.
+
+01:12.520 --> 01:17.560
+Now I've got a current flowing into this point this is called the junction because you have one wire
+
+01:17.560 --> 01:23.440
+going in and this kind of two going out the potential at point A is still labeled vitæ the potential
+
+01:23.440 --> 01:25.730
+I'd be here still labeled VB.
+
+01:26.200 --> 01:31.090
+Since current is flowing from the left to the right you know that this side here has to be at a higher
+
+01:31.090 --> 01:33.730
+potential in that side.
+
+01:33.860 --> 01:37.070
+However now look what happens you have a current flowing in here.
+
+01:37.160 --> 01:41.840
+Now part of that current is going to flow in the top resistor part of the current.
+
+01:41.840 --> 01:45.460
+Now it's going to split and go into the bottom resistor or two.
+
+01:46.130 --> 01:52.070
+However whatever current flows in whatever charge flows in every second has to be equal to the total
+
+01:52.070 --> 01:54.330
+amount of charge that leaves every second.
+
+01:54.830 --> 02:00.400
+So you have to have this current equation here because you have to have charge that's conserved.
+
+02:01.710 --> 02:04.260
+All right so this is an important expression.
+
+02:04.410 --> 02:05.300
+So the next thing now.
+
+02:05.310 --> 02:09.870
+Well let's imagine we wanted to apply ohms law to this how do we actually do it.
+
+02:10.410 --> 02:13.220
+Well for this case there's kind of two ways you can do it.
+
+02:13.500 --> 02:18.900
+I could start at point A and I can either go to point B by going at the top or I can go through the
+
+02:18.900 --> 02:20.070
+bottom branch.
+
+02:20.490 --> 02:23.040
+So let's go in through the top branch.
+
+02:23.040 --> 02:24.210
+What would it look like.
+
+02:24.540 --> 02:27.900
+Well again you'd have V.A minus VB.
+
+02:27.900 --> 02:32.490
+That's the potential difference that must be equal to Ohm's law.
+
+02:32.550 --> 02:32.760
+Right.
+
+02:32.760 --> 02:33.750
+That's ohms law.
+
+02:34.080 --> 02:41.870
+So that must be equal to either one R1 and for simplicity or remember we called V-A mine is VB let's
+
+02:41.870 --> 02:44.620
+just call that V.
+
+02:44.670 --> 02:44.890
+All right.
+
+02:44.890 --> 02:52.330
+What about now if we go through the bottom range we go to the bottom branch again it's v minus VB.
+
+02:52.520 --> 02:56.080
+That's the same for both top and bottom.
+
+02:56.190 --> 02:56.840
+And now what.
+
+02:56.850 --> 03:03.450
+One now we have a different current We have Aitu going through the bottom are two that must also be
+
+03:03.450 --> 03:06.060
+equal to V R.
+
+03:06.060 --> 03:07.050
+Now one last step.
+
+03:07.070 --> 03:09.830
+We're going to do now that we're going to use both of these equations.
+
+03:09.890 --> 03:18.220
+Our top equation and the bottom one over here and we're going to use it to simplify this equation that
+
+03:18.220 --> 03:23.210
+we had for the conservation of the current.
+
+03:23.530 --> 03:24.550
+So let's go ahead and do that.
+
+03:24.550 --> 03:29.890
+So what I'm going to do is I'm going to eliminate expression for I want an eye to using these equations
+
+03:29.890 --> 03:31.740
+here in the red boxes.
+
+03:32.050 --> 03:37.330
+So instead of writing I one let's just keep the total current flowing in to be like that instead of
+
+03:37.330 --> 03:44.250
+writing I one I'm going to replace one with V over our one.
+
+03:44.270 --> 03:45.200
+All right good.
+
+03:45.350 --> 03:52.980
+Next thing instead of writing I to I'm going to replace that by vi over our two.
+
+03:52.990 --> 03:53.260
+All right.
+
+03:53.260 --> 03:55.240
+Now the last step I can do here.
+
+03:55.240 --> 03:57.490
+I notice that I have a V for both terms.
+
+03:57.610 --> 03:58.910
+We can factor that out.
+
+04:00.470 --> 04:08.450
+We can call that one over our one plus one over our two multiplied by V.
+
+04:08.450 --> 04:11.870
+Now it's started to look a lot like my equation down over here.
+
+04:11.870 --> 04:15.140
+Let's give this equation here in the blue box.
+
+04:16.120 --> 04:19.840
+It has a different form because my eye is alone.
+
+04:19.850 --> 04:23.600
+However what if I called everything in this bracket over here.
+
+04:24.100 --> 04:31.410
+What if I called everything in this bracket one divided by are equivalent.
+
+04:31.630 --> 04:32.800
+What would it look like.
+
+04:34.320 --> 04:36.260
+I would simply look like this.
+
+04:36.260 --> 04:42.180
+It would look like one over our equivalent multiplied by V.
+
+04:43.720 --> 04:47.280
+And now if you rearrange the equation what are you going to find.
+
+04:47.290 --> 04:53.890
+You're going to find that V equals are equivalent multiplied by and you're going to get the exact same
+
+04:53.890 --> 04:54.920
+equation.
+
+04:54.970 --> 04:57.410
+So we'll bring our equivalent on the other side.
+
+04:57.780 --> 05:03.810
+All right you get v equals 2 are equivalent times the current.
+
+05:03.850 --> 05:05.650
+So that's an important equation actually.
+
+05:05.740 --> 05:06.910
+So look what we have.
+
+05:06.910 --> 05:08.540
+So our equivalent resistance.
+
+05:08.560 --> 05:18.700
+Now you can simply write like this one over our equivalent is equal to 1 over our one plus one over
+
+05:18.700 --> 05:20.540
+our two.
+
+05:20.840 --> 05:24.120
+And that's the equation for the equivalent resistance.
+
+05:24.290 --> 05:32.210
+If I have two resistors in parallel with each other kind of an important equation OK.
+
+05:32.690 --> 05:34.100
+So this is another one you're going to have to know.

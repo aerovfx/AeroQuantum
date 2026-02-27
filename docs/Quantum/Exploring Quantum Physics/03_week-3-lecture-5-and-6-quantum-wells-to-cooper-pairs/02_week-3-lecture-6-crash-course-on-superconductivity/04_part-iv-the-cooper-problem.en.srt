@@ -1,0 +1,1355 @@
+1
+00:00:00,190 --> 00:00:05,920
+So this final part of the lecture
+we'll solve the Cooper problem
+
+2
+00:00:05,920 --> 00:00:11,344
+which is a problem of weakly
+attractive electrons near the Fermi
+
+3
+00:00:11,344 --> 00:00:17,610
+surface that form pairs, so called Cooper
+pairs, balance states of two electrons.
+
+4
+00:00:17,610 --> 00:00:21,650
+And as we discussed, these Cooper pairs,
+at low temperatures,
+
+5
+00:00:21,650 --> 00:00:26,550
+they Bose condense into Bose-Einstein
+condensate, which becomes superfluid.
+
+6
+00:00:26,550 --> 00:00:31,090
+And this is this amazing state
+that we know as a superconductor.
+
+7
+00:00:32,320 --> 00:00:35,180
+I should mention that this, we'll see
+actually the solution to the Cooper
+
+8
+00:00:35,180 --> 00:00:39,670
+problem will involve essentially
+the same method we used in
+
+9
+00:00:39,670 --> 00:00:44,254
+the first lecture this week in the context
+of single particle quantum mechanics.
+
+10
+00:00:44,254 --> 00:00:48,400
+It's going to be actually very simple,
+technically very simple solution for
+
+11
+00:00:48,400 --> 00:00:49,880
+a Nobel Prize winning work, anyway.
+
+12
+00:00:49,880 --> 00:00:52,800
+So it's not trivial, but
+this is a very important work.
+
+13
+00:00:52,800 --> 00:00:58,150
+So here I'm actually showing you the title
+of the original paper by Leon Cooper.
+
+14
+00:00:59,650 --> 00:01:05,540
+And this work of Cooper eventually has
+
+15
+00:01:05,540 --> 00:01:10,490
+progressed, has developed into a much
+more sophisticated theory, which is
+
+16
+00:01:10,490 --> 00:01:16,130
+the Bardeen-Cooper-Schrieffer theory
+of super conductivity, so, BCS-theory.
+
+17
+00:01:16,130 --> 00:01:19,670
+So and
+this theory has been the cornerstone of
+
+18
+00:01:19,670 --> 00:01:23,180
+the theory of superconductivity for
+many, many years.
+
+19
+00:01:23,180 --> 00:01:27,480
+And frankly there is nothing better
+on the market, in some sense.
+
+20
+00:01:27,480 --> 00:01:34,150
+So this BCS-theory describes very well
+most conventional superconductors.
+
+21
+00:01:34,150 --> 00:01:38,360
+And it provides some of the setting
+also in the physics of unconventional
+
+22
+00:01:38,360 --> 00:01:43,330
+superconductors, although they are such as
+the high-temperature superconductors, for
+
+23
+00:01:43,330 --> 00:01:47,400
+example, though there
+the understanding is not complete.
+
+24
+00:01:47,400 --> 00:01:48,540
+Now let's say.
+
+25
+00:01:48,540 --> 00:01:52,820
+Well, I showed many times already
+the citations for various Nobel Prizes and
+
+26
+00:01:52,820 --> 00:01:58,040
+I discussed briefly a number of Nobel
+Prize winning works and I should mention.
+
+27
+00:01:58,040 --> 00:02:00,390
+I should admit that in
+most of these cases,
+
+28
+00:02:00,390 --> 00:02:04,270
+I had to sort of simplify
+things enormously
+
+29
+00:02:04,270 --> 00:02:08,060
+when I was providing explanations,
+sort of dumb it down to some degree.
+
+30
+00:02:08,060 --> 00:02:10,430
+So here, well,
+I'm not going to discuss BCS-theory.
+
+31
+00:02:10,430 --> 00:02:12,160
+This is a very complicated theory, but
+
+32
+00:02:12,160 --> 00:02:16,240
+the paper of Cooper is actually very,
+very simple.
+
+33
+00:02:16,240 --> 00:02:19,480
+So the original paper, we started though
+is very simple and we will be able
+
+34
+00:02:19,480 --> 00:02:24,010
+to understand, essentially,
+its main message and the delegation.
+
+35
+00:02:24,010 --> 00:02:27,147
+Now but before I go into this delegation,
+
+36
+00:02:27,147 --> 00:02:31,880
+let me discuss the origin of
+this attractive interaction.
+
+37
+00:02:31,880 --> 00:02:36,300
+So I basically, what I want to solve
+again is a problem of electrons
+
+38
+00:02:36,300 --> 00:02:38,590
+Interacting by an attractive potential.
+
+39
+00:02:38,590 --> 00:02:39,910
+But where exactly it's coming from?
+
+40
+00:02:39,910 --> 00:02:43,963
+So this is actually very complicated and
+tricky question, and well, in some sense,
+
+41
+00:02:43,963 --> 00:02:47,626
+the mystery of, let's say, high
+temperature and superconductivities and
+
+42
+00:02:47,626 --> 00:02:50,045
+that we don't really know
+where this sort of glue,
+
+43
+00:02:50,045 --> 00:02:52,560
+this attractive interaction
+might be coming from.
+
+44
+00:02:53,570 --> 00:02:58,570
+So the origin of electron attraction
+in conventional superconductors
+
+45
+00:02:58,570 --> 00:03:01,730
+is also far from obvious actually.
+
+46
+00:03:01,730 --> 00:03:06,870
+So but there was a breakthrough paper
+back in the beginning of the 50's so
+
+47
+00:03:06,870 --> 00:03:10,040
+I'm showing here the title of this paper.
+
+48
+00:03:10,040 --> 00:03:14,925
+Superconductivity of Isotopes of Mercury
+and to appreciate the importance of
+
+49
+00:03:14,925 --> 00:03:20,535
+this paper, let me just remind you,
+the basic picture of what a metal is.
+
+50
+00:03:20,535 --> 00:03:24,685
+So well, if you have a metallic system,
+well, a solid system,
+
+51
+00:03:24,685 --> 00:03:30,445
+the reason it's a solid is because
+the ions form a crystal lattice.
+
+52
+00:03:30,445 --> 00:03:34,755
+So they're positioned in space
+in a regular fashion, so
+
+53
+00:03:34,755 --> 00:03:39,667
+I'm just drawing here for the sake of
+simplicity a square lattice in 2-g,
+
+54
+00:03:39,667 --> 00:03:42,920
+but in reality would
+be a more complicated.
+
+55
+00:03:42,920 --> 00:03:49,446
+Three dimensional lattice and you should
+think about having a positive ions sitting
+
+56
+00:03:49,446 --> 00:03:55,440
+here in this sites,
+on these lattice sites.
+
+57
+00:03:55,440 --> 00:03:58,350
+This lattice is a sort of elastic,
+well it's a regent object,
+
+58
+00:03:58,350 --> 00:04:00,079
+but it can have oscillation.
+
+59
+00:04:01,730 --> 00:04:03,140
+Waves running through it.
+
+60
+00:04:03,140 --> 00:04:08,650
+And we're going to discuss it
+a little bit in a few weeks.
+
+61
+00:04:08,650 --> 00:04:12,160
+And so this oscillations of
+the lattice are called phonons.
+
+62
+00:04:12,160 --> 00:04:15,800
+Now electrons in the metal
+are moving around,
+
+63
+00:04:15,800 --> 00:04:21,520
+they're free to move around, but they move
+around on the background of this lattice.
+
+64
+00:04:21,520 --> 00:04:25,340
+So these red guys here are electrons,
+okay?
+
+65
+00:04:25,340 --> 00:04:29,950
+And so this is pretty much what, well,
+it's very cold model a simplified,
+
+66
+00:04:29,950 --> 00:04:35,839
+over simplified model
+of a metallic source.
+
+67
+00:04:35,839 --> 00:04:41,220
+Now so this paper, what this paper has
+achieved is that it looked at different
+
+68
+00:04:41,220 --> 00:04:46,090
+isotopes of mercury, which is a super
+conductor and let me remind you
+
+69
+00:04:46,090 --> 00:04:50,300
+that isotopes are essentially different
+versions of the same chemical elements.
+
+70
+00:04:51,420 --> 00:04:57,210
+And the basically everything is the same
+for different isotopes apart from
+
+71
+00:04:57,210 --> 00:05:01,940
+the number of neutrons in each
+ion sitting on the lattice side.
+
+72
+00:05:01,940 --> 00:05:05,240
+So basically with different isotopes
+means that everything is the same but
+
+73
+00:05:05,240 --> 00:05:10,650
+the only difference is the mass of
+this objects on the lattice sides,
+
+74
+00:05:10,650 --> 00:05:14,320
+Which maybe shouldn't affect
+to much superconductivity,
+
+75
+00:05:14,320 --> 00:05:19,120
+because really superconductivity is
+coming from whatever electrons are doing.
+
+76
+00:05:19,120 --> 00:05:22,168
+And it shouldn't have much to
+do with the lattice, right?
+
+77
+00:05:22,168 --> 00:05:26,583
+So because these guys are actually, well,
+they can oscillate a little bit near their
+
+78
+00:05:26,583 --> 00:05:30,002
+equilibrium positions, but
+they cannot conduct electricity.
+
+79
+00:05:30,002 --> 00:05:31,010
+So what it turned out, and
+
+80
+00:05:31,010 --> 00:05:35,780
+this is really the main message of the
+paper that the transition temperature into
+
+81
+00:05:35,780 --> 00:05:40,790
+a super conductor, the temperature at
+which the resistivity drops exactly to 0,
+
+82
+00:05:40,790 --> 00:05:46,340
+depended very strongly on
+the mass of these guys, okay?
+
+83
+00:05:46,340 --> 00:05:52,020
+So the ions,
+the lower was the transition temperature.
+
+84
+00:05:52,020 --> 00:05:54,756
+See here, maybe it's hard to see so
+there are a few points.
+
+85
+00:05:54,756 --> 00:05:59,642
+This says average mass number and
+this says transition
+
+86
+00:05:59,642 --> 00:06:04,313
+temperature so
+this is basically if you write a TC and
+
+87
+00:06:04,313 --> 00:06:09,105
+this is the mass of these
+Ions on lattice side, okay?
+
+88
+00:06:09,105 --> 00:06:12,485
+So this was a very clear-cut trend and
+
+89
+00:06:12,485 --> 00:06:17,445
+it was a smoking gun of that
+superconductivity has something
+
+90
+00:06:18,505 --> 00:06:22,765
+to do with interactions between
+the electrons and the crystal lattice.
+
+91
+00:06:22,765 --> 00:06:26,995
+So a little later people realize
+that what actually happens is that
+
+92
+00:06:28,430 --> 00:06:33,220
+these electrons moving around,
+whenever the electron passes
+
+93
+00:06:33,220 --> 00:06:37,980
+through a region in a lattice, essentially
+because electron's negatively charged, and
+
+94
+00:06:37,980 --> 00:06:42,270
+the ion's sitting on lattice
+size are positively charged.
+
+95
+00:06:42,270 --> 00:06:49,360
+So this electron polarizes the lattice
+locally, and it takes some time for
+
+96
+00:06:49,360 --> 00:06:53,920
+the lattice sort of to relax back and
+then if a second electron comes in.
+
+97
+00:06:53,920 --> 00:06:56,290
+So let's say I have here
+now this guy goes away and
+
+98
+00:06:56,290 --> 00:06:59,620
+there is a second electron which
+comes into the same region.
+
+99
+00:06:59,620 --> 00:07:04,910
+So, this second electron is
+attracted in some sense To
+
+100
+00:07:04,910 --> 00:07:09,520
+this region and
+this results in an effective correlation.
+
+101
+00:07:09,520 --> 00:07:13,090
+Effective phonon negated
+attraction between the electrons.
+
+102
+00:07:13,090 --> 00:07:14,230
+It's a very tricky business.
+
+103
+00:07:14,230 --> 00:07:16,750
+If you don't understand it
+well don't be surprised.
+
+104
+00:07:16,750 --> 00:07:18,670
+I don't understand it either actually.
+
+105
+00:07:18,670 --> 00:07:20,290
+So but that's how it works.
+
+106
+00:07:20,290 --> 00:07:22,700
+So we'll have to just accept this fact.
+
+107
+00:07:22,700 --> 00:07:26,189
+So that what happens is that electrons
+in some sense, they exchange waves.
+
+108
+00:07:27,320 --> 00:07:32,480
+Elastic waves which are called phonons and
+this leads to effective attraction.
+
+109
+00:07:32,480 --> 00:07:35,620
+Well and by the way for the module,
+for the actual solution,
+
+110
+00:07:35,620 --> 00:07:38,830
+when I present the origin of the
+attraction, it doesn't matter that much.
+
+111
+00:07:38,830 --> 00:07:42,360
+It will be just some attractions
+are constant minus or
+
+112
+00:07:42,360 --> 00:07:45,529
+not but it's good to know the physics.
+
+113
+00:07:47,190 --> 00:07:49,760
+For the actual calculation we'll need
+
+114
+00:07:49,760 --> 00:07:54,640
+specific mathematical model of
+this electron electron attraction.
+
+115
+00:07:54,640 --> 00:07:59,580
+And the true interaction
+is quite complicated.
+
+116
+00:07:59,580 --> 00:08:03,420
+So here we'll represent
+what I call a Spherical-cow
+
+117
+00:08:03,420 --> 00:08:06,700
+model of the phonon-mediated
+attraction between electrons
+
+118
+00:08:06,700 --> 00:08:11,460
+Which I should say actually is used
+commonly even in research papers.
+
+119
+00:08:11,460 --> 00:08:12,950
+So it works perfectly well.
+
+120
+00:08:12,950 --> 00:08:17,410
+And even though we know how
+to write the true model,
+
+121
+00:08:17,410 --> 00:08:20,510
+which would involve all
+the complications of the theory,
+
+122
+00:08:20,510 --> 00:08:25,020
+so the results, the outcome, so
+we simplify the model in the and
+
+123
+00:08:25,020 --> 00:08:28,080
+more complicated model
+are pretty close to each other.
+
+124
+00:08:28,080 --> 00:08:31,220
+So there's really no reason for
+us to complicate things.
+
+125
+00:08:31,220 --> 00:08:35,496
+So in any case, so
+what we're talking about is that again,
+
+126
+00:08:35,496 --> 00:08:40,029
+electrons moving around in
+the presence of a crystal lattice,
+
+127
+00:08:40,029 --> 00:08:44,991
+this changes wave strength through
+this lattice, these phonons and
+
+128
+00:08:44,991 --> 00:08:49,097
+so this diagram is an example
+of a phonon-like diagram,
+
+129
+00:08:49,097 --> 00:08:52,540
+which shows this kind of exchange.
+
+130
+00:08:52,540 --> 00:08:57,850
+And in any process like this,
+we must satisfy basic conservation laws,
+
+131
+00:08:57,850 --> 00:09:00,366
+in particular we must
+ensure that both energy.
+
+132
+00:09:00,366 --> 00:09:03,230
+And momentum are conserved.
+
+133
+00:09:03,230 --> 00:09:08,390
+So and therefore, what's important
+here in understanding the structure
+
+134
+00:09:08,390 --> 00:09:12,910
+of this interaction is the typical
+energies involved in such processes.
+
+135
+00:09:13,940 --> 00:09:14,590
+So what we know,
+
+136
+00:09:14,590 --> 00:09:20,660
+what we already discussed is the typical
+energy of the electrons in the metal.
+
+137
+00:09:20,660 --> 00:09:26,240
+And this typical energy, I denote it as
+E sub F, the Fermi energy, divided by
+
+138
+00:09:26,240 --> 00:09:32,330
+the Boltzmann constant, sort of to convert
+it into a more familiar temperature units.
+
+139
+00:09:32,330 --> 00:09:36,120
+So the corresponding typical sort of
+temperature of electrons is going to be
+
+140
+00:09:36,120 --> 00:09:37,860
+about 10,000 Kelvin.
+
+141
+00:09:37,860 --> 00:09:42,680
+So these guys which are actually
+the main players of the theory have
+
+142
+00:09:42,680 --> 00:09:45,940
+the energy which is received
+with this temperature scale.
+
+143
+00:09:45,940 --> 00:09:48,010
+Now it turns out that the phonons.
+
+144
+00:09:49,170 --> 00:09:52,610
+It's not obvious from the previous
+discussion that Is not
+
+145
+00:09:52,610 --> 00:09:53,790
+something we can derive.
+
+146
+00:09:53,790 --> 00:09:56,832
+I'm just sort of giving
+you an experimental fact,
+
+147
+00:09:56,832 --> 00:10:00,720
+is that if the typical energy of
+the phonons which I will call as age
+
+148
+00:10:00,720 --> 00:10:05,249
+times omega divide called bio-frequency
+divided by the Boscom constant,
+
+149
+00:10:05,249 --> 00:10:09,022
+so when I wrote it into
+temperature it's about 400 kelvin.
+
+150
+00:10:09,022 --> 00:10:10,411
+A few hundred kelvin,
+
+151
+00:10:10,411 --> 00:10:14,881
+which is two orders of magnitude
+smaller than the energy of the lattice.
+
+152
+00:10:14,881 --> 00:10:19,524
+So what we should think about is that
+this phonon as actually being changed by
+
+153
+00:10:19,524 --> 00:10:22,062
+the electrons have energy which is much,
+
+154
+00:10:22,062 --> 00:10:25,860
+much more then the energy life,
+the electron energy itself.
+
+155
+00:10:25,860 --> 00:10:30,835
+And this puts certain
+constraints on the possible
+
+156
+00:10:30,835 --> 00:10:36,150
+momentum energies of the electrons that
+may experience this sort of a process.
+
+157
+00:10:37,150 --> 00:10:41,730
+And the simplest sort of version of the
+interaction which takes this into account
+
+158
+00:10:41,730 --> 00:10:43,800
+is presented here.
+
+159
+00:10:43,800 --> 00:10:47,135
+So this is an equation for an interaction,
+
+160
+00:10:47,135 --> 00:10:51,210
+momentum-dependent interaction
+between the two electrons, V(p) And
+
+161
+00:10:51,210 --> 00:10:57,620
+what it tells us is that the two electrons
+attract each other in this language
+
+162
+00:10:57,620 --> 00:11:02,790
+if they're located in the narrow
+shell near the thermo-surface.
+
+163
+00:11:02,790 --> 00:11:08,570
+And the width of the shell is of
+the order of this phonon energy.
+
+164
+00:11:08,570 --> 00:11:12,676
+So basically if two electrons can
+exchange phonons they do so and
+
+165
+00:11:12,676 --> 00:11:16,858
+this results in the interaction
+which is manifested here through
+
+166
+00:11:16,858 --> 00:11:20,521
+this negative coefficient
+that we know as sum constant.
+
+167
+00:11:20,521 --> 00:11:26,290
+And if two electrons are located
+well beyond this narrow region.
+
+168
+00:11:26,290 --> 00:11:29,880
+So then they don't have a mechanism
+to attract each other and
+
+169
+00:11:29,880 --> 00:11:32,050
+their interaction therefore is zero.
+
+170
+00:11:32,050 --> 00:11:38,730
+So if we move just at the upper part,
+so V of P is equal to minus V zero so
+
+171
+00:11:38,730 --> 00:11:43,980
+this would correspond to essentially
+a local attraction real space, so this
+
+172
+00:11:43,980 --> 00:11:49,650
+is something we actually saw In lecture
+number five with the Delta potential.
+
+173
+00:11:49,650 --> 00:11:53,977
+So this is the kind of
+problem we discussed already.
+
+174
+00:11:53,977 --> 00:12:02,030
+But however then we were talking
+about one particle in a quantum well.
+
+175
+00:12:02,030 --> 00:12:05,090
+So now we're talking about two particles,
+
+176
+00:12:05,090 --> 00:12:09,600
+two excitations interacting with
+each other via this potential.
+
+177
+00:12:09,600 --> 00:12:15,280
+But per, well, per the results of
+the previous segment in this lecture,
+
+178
+00:12:15,280 --> 00:12:20,310
+we know that the two particle problem in
+quantum mechanics is to a large degree,
+
+179
+00:12:20,310 --> 00:12:25,300
+equivalent to a single particle
+quantum mechanical problems.
+
+180
+00:12:25,300 --> 00:12:28,650
+And as we discussed in the previous video,
+
+181
+00:12:28,650 --> 00:12:33,800
+the only difference between the single
+particle problem and a potential VFr and
+
+182
+00:12:33,800 --> 00:12:38,470
+two particle problem of
+two particles interacting.
+
+183
+00:12:38,470 --> 00:12:43,290
+Why the same potential Is that
+in the lecture, we will get
+
+184
+00:12:43,290 --> 00:12:48,690
+the reduced mass instead of the mass
+of each individual particle.
+
+185
+00:12:48,690 --> 00:12:51,040
+And in the case of two
+identical electrons,
+
+186
+00:12:51,040 --> 00:12:56,600
+the reduced mass is equal to m over two,
+so we have simply this here equation.
+
+187
+00:12:56,600 --> 00:13:01,530
+And here I write it first in real speed,
+sort of, while keeping in mind that there
+
+188
+00:13:01,530 --> 00:13:03,720
+are in fact additional
+constraints on the interaction.
+
+189
+00:13:03,720 --> 00:13:07,400
+So if we follow the same
+
+190
+00:13:07,400 --> 00:13:11,940
+route as we did in lecture number five and
+do free transform.
+
+191
+00:13:11,940 --> 00:13:16,150
+So we can write this
+equation in this form, so
+
+192
+00:13:16,150 --> 00:13:20,500
+delta of r acting on psi
+of r picks up psi of 0.
+
+193
+00:13:20,500 --> 00:13:24,920
+And so here I'm going to have this
+integrate of over, of momentum but
+
+194
+00:13:24,920 --> 00:13:30,800
+basically we do introduce constraints on
+the potential that we just discussed.
+
+195
+00:13:30,800 --> 00:13:35,648
+Would be to limit the integration or
+momentum here by only
+
+196
+00:13:35,648 --> 00:13:40,597
+momenta that appear in the vicinity
+of the Fermi surface so
+
+197
+00:13:40,597 --> 00:13:45,200
+that the possibility of
+phonon exchange exists.
+
+198
+00:13:45,200 --> 00:13:47,420
+And so this equation, essentially,
+
+199
+00:13:47,420 --> 00:13:50,510
+these two equations with
+the proper sort of caveats.
+
+200
+00:13:50,510 --> 00:13:55,060
+About where the interaction is possible,
+is exactly the Cooper pairing problem.
+
+201
+00:13:55,060 --> 00:13:59,690
+And as you can see, it's essentially
+identical mathematically to the Kaiser
+
+202
+00:13:59,690 --> 00:14:05,018
+problems we saw in lecture number five
+in single particle quantum mechanics.
+
+203
+00:14:05,018 --> 00:14:09,200
+And so
+well we can follow the same route, but
+
+204
+00:14:09,200 --> 00:14:15,090
+at this stage you may be a little bit
+surprised at by this resemblance.
+
+205
+00:14:15,090 --> 00:14:19,100
+Because I mentioned that this eventually,
+the result of this calculation,
+
+206
+00:14:19,100 --> 00:14:24,140
+is going to be the appearance of a bounce
+state between the two electrons.
+
+207
+00:14:24,140 --> 00:14:29,370
+But as we discussed,
+weak attraction in three dimensions,
+
+208
+00:14:29,370 --> 00:14:33,360
+and this is a three dimensional problem,
+does not result in a bounce state.
+
+209
+00:14:33,360 --> 00:14:38,800
+So delta function, potentially 3D
+does not have a bounce however,
+
+210
+00:14:38,800 --> 00:14:43,970
+an interesting thing that happens here
+is that because electrons that really
+
+211
+00:14:43,970 --> 00:14:49,380
+play a role in this pairing,
+in this interaction with phonons,
+
+212
+00:14:49,380 --> 00:14:52,250
+they exist in the vicinity
+of this Fermi surface.
+
+213
+00:14:52,250 --> 00:14:54,100
+And this surface is two dimensional.
+
+214
+00:14:54,100 --> 00:14:58,610
+This gives rise, in a sense,
+to a reduction of dimensionality,
+
+215
+00:14:58,610 --> 00:15:04,170
+even though in real space we started
+with a three dimensional system.
+
+216
+00:15:04,170 --> 00:15:10,040
+So this effectively, what we're dealing
+with here has a reduced dimension.
+
+217
+00:15:10,040 --> 00:15:17,883
+And this gives rise to the appearance of
+a bond state in a very unexpected way.
+
+218
+00:15:17,883 --> 00:15:22,810
+So to see this, we essentially have
+to repeat exactly the same steps as
+
+219
+00:15:22,810 --> 00:15:27,340
+we did in parts three and
+four of lecture number five.
+
+220
+00:15:28,560 --> 00:15:33,170
+So, the only difference here is
+due to the fact that this energy
+
+221
+00:15:33,170 --> 00:15:38,570
+on the right hand side that we want
+to find really consists of two parts.
+
+222
+00:15:38,570 --> 00:15:42,440
+So, this is the n ratio of the electrons
+that already have a finite energy at
+
+223
+00:15:42,440 --> 00:15:45,580
+the Fermi surface, so
+remember is that we're
+
+224
+00:15:45,580 --> 00:15:50,040
+talking here about these excitations
+that have the energy of two e-Fermi.
+
+225
+00:15:50,040 --> 00:15:56,970
+And then there is an energy due to the
+interaction which we want to be negative.
+
+226
+00:15:56,970 --> 00:16:01,440
+So if this guy delta is negative, it
+means that we can have former bond state.
+
+227
+00:16:01,440 --> 00:16:06,230
+And by doing so, lower the energy so and
+
+228
+00:16:06,230 --> 00:16:09,670
+well this fact actually makes
+all the difference actually.
+
+229
+00:16:09,670 --> 00:16:14,283
+This is how mathematically the fact that
+we are dealing with this 3 dimensional
+
+230
+00:16:14,283 --> 00:16:16,828
+Fermi surface when it fixes itself.
+
+231
+00:16:16,828 --> 00:16:24,210
+Since the remaining calculation follows
+almost 1 to 1 back in lecture number 5.
+
+232
+00:16:24,210 --> 00:16:28,300
+And I also present this
+particular calculation and
+
+233
+00:16:28,300 --> 00:16:31,950
+all the details in additional materials so
+you can read through this.
+
+234
+00:16:31,950 --> 00:16:36,110
+So I'm not going to repeat this again
+in this video, so what I'm going to do,
+
+235
+00:16:36,110 --> 00:16:41,250
+I'm going to just present the final
+result for this key parameter delta.
+
+236
+00:16:41,250 --> 00:16:45,600
+Which again is the energy of
+the bound state of two electrons
+
+237
+00:16:45,600 --> 00:16:50,480
+that forms sort of a large morticle if you
+want, which is called Cooper pair here.
+
+238
+00:16:50,480 --> 00:16:54,930
+So, and this delta is going to
+be of of the order of minus
+
+239
+00:16:56,730 --> 00:16:59,055
+so this is a phonon energy,
+
+240
+00:16:59,055 --> 00:17:04,450
+typical phonon energy that we
+discussed in the previous slide.
+
+241
+00:17:04,450 --> 00:17:09,350
+But the key thing here is that there are
+multiplied by a exponential of minus 1,
+
+242
+00:17:09,350 --> 00:17:14,020
+some constant, I'll call it N not and
+define it in a second, times V not.
+
+243
+00:17:14,020 --> 00:17:18,840
+So where N not is equal to m P Fermi, so
+
+244
+00:17:18,840 --> 00:17:24,540
+this is threshold momentum
+divided by 4 Pi squared h cubed.
+
+245
+00:17:24,540 --> 00:17:28,590
+So this is just a constant but
+what I want to emphasize,
+
+246
+00:17:28,590 --> 00:17:30,370
+well first of all there is a solution.
+
+247
+00:17:30,370 --> 00:17:31,170
+Which is great.
+
+248
+00:17:31,170 --> 00:17:36,260
+So the electrons indeed can find a way
+to lower their energy by forming these
+
+249
+00:17:36,260 --> 00:17:41,080
+bizarre new Cooper pairs that
+eventually form the superconductor.
+
+250
+00:17:41,080 --> 00:17:45,810
+But what is not so great is that
+these small interaction energy
+
+251
+00:17:45,810 --> 00:17:50,870
+appears in the exponential minus 1 or
+V not.
+
+252
+00:17:50,870 --> 00:17:56,520
+So if V0 is small, then, well,
+the energy of the bounce state,
+
+253
+00:17:56,520 --> 00:17:59,650
+the so-called superconducting gap,
+is exponentially small.
+
+254
+00:17:59,650 --> 00:18:00,970
+And this is exactly what happens.
+
+255
+00:18:02,640 --> 00:18:07,470
+And those of you who followed
+all of segments in lecture
+
+256
+00:18:07,470 --> 00:18:12,680
+number five can recognize this
+result is a result that we
+
+257
+00:18:12,680 --> 00:18:17,400
+have seen actually in the context of two
+dimensional single particle problem.
+
+258
+00:18:17,400 --> 00:18:22,390
+And this reflects this reduction in
+dimensionality that I mentioned before.
+
+259
+00:18:22,390 --> 00:18:27,050
+So, the last two things I'm going to
+mention in the end is first of all this
+
+260
+00:18:27,050 --> 00:18:32,040
+result for delta is a function of
+V not is very unusual function,
+
+261
+00:18:32,040 --> 00:18:33,380
+which we have already seen.
+
+262
+00:18:33,380 --> 00:18:34,760
+But this function is,
+
+263
+00:18:34,760 --> 00:18:37,430
+again, is special because it
+doesn't have a Taylor expansion.
+
+264
+00:18:37,430 --> 00:18:40,200
+So there is no way one
+can approach this result
+
+265
+00:18:40,200 --> 00:18:42,530
+by doing so-called perturbation theory.
+
+266
+00:18:42,530 --> 00:18:46,290
+And this may be one of
+the reasons why It took so
+
+267
+00:18:46,290 --> 00:18:50,510
+long for people to figure out
+the key to superconductivity
+
+268
+00:18:50,510 --> 00:18:54,740
+because there was no way to approach
+it sort of in a pejorative way.
+
+269
+00:18:54,740 --> 00:18:56,970
+And the last thing I'm
+going to mention is that well,
+
+270
+00:18:56,970 --> 00:18:59,220
+if we did not have this exponential,
+
+271
+00:18:59,220 --> 00:19:05,150
+if we were to imagine that this Delta or
+the water of this funnel energy.
+
+272
+00:19:05,150 --> 00:19:09,580
+This would have actually implied
+that we can get superconductivity
+
+273
+00:19:09,580 --> 00:19:12,120
+at very high temperatures,
+up to room temperature.
+
+274
+00:19:12,120 --> 00:19:13,380
+So this would have been great.
+
+275
+00:19:13,380 --> 00:19:18,555
+We would have the ability to
+transport electricity with no losses.
+
+276
+00:19:19,805 --> 00:19:23,145
+So this is really the grand
+challenge in the field,
+
+277
+00:19:23,145 --> 00:19:25,665
+so how to you go beyond
+this weak coupling.
+
+278
+00:19:25,665 --> 00:19:29,222
+So weak coupling, here in model so how to
+
+279
+00:19:29,222 --> 00:19:33,012
+first of all to describe the situation
+where the interactions are strong and
+
+280
+00:19:33,012 --> 00:19:36,252
+how to enhance, how to get rid
+of this exponential essentially.
+
+281
+00:19:36,252 --> 00:19:39,742
+This is a sort of practical problem
+that has no solution at the moment.

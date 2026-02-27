@@ -1,0 +1,444 @@
+WEBVTT
+
+WEBVTT
+
+00:00.270 --> 00:00.450
+All right.
+
+00:00.450 --> 00:02.590
+Problem two is A CAPACITOR PROBLEM.
+
+00:03.420 --> 00:07.150
+So again we want to know the potential difference between those two points.
+
+00:07.290 --> 00:14.370
+And again if this is the kind of combinations of capacitors and parallel and some in series.
+
+00:14.580 --> 00:19.500
+But if this is a and b again a can move anywhere here.
+
+00:19.530 --> 00:27.240
+This is also point A and B it's going to be the same potential difference across the five versus across
+
+00:27.240 --> 00:33.530
+both of those in Part B we want to know what is the total energy stored in all capacitors.
+
+00:34.410 --> 00:38.760
+So that one's actually a little bit easier to do I think because what you can do is just replace the
+
+00:38.760 --> 00:42.030
+entire network by an equivalent capacitor.
+
+00:42.240 --> 00:44.910
+So let's kind of start by simplifying this a little bit.
+
+00:44.910 --> 00:45.150
+All right.
+
+00:45.150 --> 00:51.390
+So I'm going to take everything here let's take these both of those and combine them and form one equivalent
+
+00:51.390 --> 00:53.910
+capacitor C equivalent one.
+
+00:54.900 --> 00:56.490
+So these are in series.
+
+00:56.490 --> 00:56.690
+All right.
+
+00:56.700 --> 01:02.850
+If I have two of them that are in series if you remember the formula and series it was like this C equivalent
+
+01:02.850 --> 01:07.290
+one would be one over two I'll just write it in micro Faraday that's fine.
+
+01:07.290 --> 01:09.620
+My final answer will be a micro Farad.
+
+01:09.750 --> 01:11.330
+So this is one.
+
+01:11.490 --> 01:20.250
+So that means that C equivalent one in that blue box is equivalent to one micro Feride capacitor OK.
+
+01:20.270 --> 01:21.320
+Now what do I have.
+
+01:21.470 --> 01:24.490
+Well can I simplify this any further.
+
+01:24.490 --> 01:26.990
+What if I do this.
+
+01:26.990 --> 01:31.690
+What if I combine the blue box with the five that's out here.
+
+01:32.090 --> 01:39.320
+What we have here now I'm going to call this C equivalent to this are in parallel.
+
+01:39.320 --> 01:39.650
+Right.
+
+01:41.240 --> 01:45.550
+So if they're in parallel it's very easy All you have to do is add them up.
+
+01:45.800 --> 01:53.930
+So make sure you understand this part C equivalent to is equal to C equivalent one which is in parallel
+
+01:53.930 --> 01:57.680
+with this 5 micro add capacitor.
+
+01:57.980 --> 02:01.160
+Again everything here is in micro fair and so you get one plus five.
+
+02:01.190 --> 02:10.160
+So everything in my red dash box is simply equal to six micro Fred C equivalent to.
+
+02:10.160 --> 02:13.900
+All right what I'm going to do now is I'm going to redraw this circuit for a second.
+
+02:13.910 --> 02:22.550
+So let me just redraw this battery and now all I have I'm going to have a one micro Feride what happens
+
+02:22.550 --> 02:24.590
+to everything over here.
+
+02:24.710 --> 02:30.350
+Again I've just replaced that by an equivalent six micro Feride capacitor.
+
+02:30.540 --> 02:32.830
+So this is six micro Feride.
+
+02:32.880 --> 02:38.860
+This here is one micro Fair at and at the bottom I still have my three I haven't touched that.
+
+02:38.930 --> 02:43.360
+So is there a way to replace these three into one.
+
+02:43.690 --> 02:50.600
+Again what we have here are three capacitors that are forgot the drop capacitor that are in series.
+
+02:50.600 --> 02:59.870
+So the final step is really one divided by C total is going to be equal to one over one plus one over
+
+02:59.870 --> 03:01.970
+three plus one over six.
+
+03:01.970 --> 03:05.650
+Right that is the rule for combining these three.
+
+03:05.870 --> 03:10.550
+And if I do that what I'm left with at the end is a 10 volt battery
+
+03:13.130 --> 03:22.870
+with just one single capacitor and the value of that total capacitance right here is going to be C total.
+
+03:22.880 --> 03:27.050
+All right so I've got to do a bit of math over here what I would do is maybe put things on a common
+
+03:27.050 --> 03:32.420
+denominator so let's maybe choose six so one over one would be six over six.
+
+03:32.690 --> 03:35.780
+And this guy here would be two over six.
+
+03:35.780 --> 03:37.970
+So this is easy to combine.
+
+03:38.090 --> 03:47.060
+I just add up all of these I get nine to nine over six which is kind of the same thing as three over
+
+03:47.070 --> 03:48.150
+two.
+
+03:48.410 --> 03:53.330
+Again at the end no I got to flip it around because this is one divided by C total.
+
+03:53.330 --> 03:56.790
+So my total capacitance at the end would be two thirds.
+
+03:56.900 --> 03:59.020
+And this here is in my girlfriends.
+
+03:59.030 --> 04:00.790
+Don't forget.
+
+04:00.880 --> 04:06.290
+So this is the equivalent capacitance of the entire network.
+
+04:06.290 --> 04:06.710
+All right.
+
+04:06.870 --> 04:09.610
+Let me just kind of draw an arrow right here.
+
+04:09.650 --> 04:09.890
+All right.
+
+04:09.910 --> 04:14.060
+So let's kind of start with B and then we'll work back to a it really doesn't matter but I kind of like
+
+04:14.060 --> 04:15.760
+this approach a little bit.
+
+04:15.860 --> 04:19.220
+So what is the total energy stored in a capacitor.
+
+04:19.220 --> 04:24.650
+Well if you remember the total energy stored if I only have this simple circuit over here the potential
+
+04:24.650 --> 04:29.010
+energy stored I can write it as 1 1/2 Q V.
+
+04:29.130 --> 04:34.580
+There's three different ways of writing this Formula One way it was like this CV squared.
+
+04:34.580 --> 04:39.240
+I know the value of c I know the value of V has to be ten.
+
+04:39.290 --> 04:42.100
+This is probably the best way of doing it.
+
+04:42.170 --> 04:42.490
+All right.
+
+04:42.500 --> 04:51.950
+So the potential energy so for Part B I would write the potential energy is 1 1/2 C total and V squared.
+
+04:51.950 --> 04:56.710
+You don't have to find the energy stored in each capacitor that would be a little bit more work.
+
+04:56.720 --> 05:01.470
+I'd have to find the capacitance of each one and the voltage across each one.
+
+05:01.560 --> 05:01.760
+All right.
+
+05:01.760 --> 05:03.010
+But right now this is it.
+
+05:03.010 --> 05:08.990
+Now again I want to get a number in jewel so this is going to be two thirds two thirds zero point six
+
+05:08.990 --> 05:17.250
+six times 10 to the negative six because it's in micro Fred and then multiplied by right here 10.
+
+05:17.360 --> 05:19.230
+And I have to square it.
+
+05:19.430 --> 05:19.700
+All right.
+
+05:19.730 --> 05:28.310
+So you're going to get 100 here 100 times this will take two exponents away so this will be times 10
+
+05:28.310 --> 05:29.410
+to the negative four.
+
+05:29.930 --> 05:36.260
+And it will be zero point three three times 10 to the negative four that will be measured in Joules.
+
+05:36.260 --> 05:36.470
+All right.
+
+05:36.490 --> 05:38.850
+So that is that part.
+
+05:38.900 --> 05:39.170
+All right.
+
+05:39.200 --> 05:45.250
+So now let's go back and find the voltage here between points A and B how do we do that now.
+
+05:45.260 --> 05:50.660
+Well again I think it's kind of useful to use one of these intermediate steps.
+
+05:50.660 --> 05:55.720
+We first started by finding the blue value which was one micro Feride.
+
+05:55.790 --> 06:00.220
+However the voltage A and B is going to be the same across both of those we said.
+
+06:01.400 --> 06:08.090
+It's also going to be the same voltage across the equivalent capacitor of this network.
+
+06:08.090 --> 06:11.390
+So A and B is really right here.
+
+06:11.440 --> 06:11.680
+All right.
+
+06:11.680 --> 06:18.300
+Make sure you understand that part because we've combined everything here therefore the potential that
+
+06:18.300 --> 06:24.260
+we're looking for is really what would be the electrical potential across an equivalent six microfiber
+
+06:24.330 --> 06:25.760
+add capacitor.
+
+06:25.770 --> 06:32.880
+So for this simplified circuit here we have three capacitors in series if they are in series remember
+
+06:32.880 --> 06:35.700
+that the charge is the same on each plate
+
+06:38.620 --> 06:40.580
+and that is really the important thing.
+
+06:40.580 --> 06:46.370
+So if you know the charge on the one micro Feride capacitor I would read it like this.
+
+06:46.370 --> 06:50.220
+Q One is equal to well one micro Feride.
+
+06:50.510 --> 06:55.510
+Let's just call it C one multiplied by the voltage across that well let's call it V 1.
+
+06:57.170 --> 07:02.480
+What else the charge on the six micro Feride capacitor has to be the same.
+
+07:03.830 --> 07:11.720
+This here would have to be the capacitance C6 6 micro faired capacitor in the voltage across the voltage
+
+07:11.720 --> 07:14.100
+across is really what I'm trying to find here.
+
+07:14.150 --> 07:22.170
+This is really VAB and it has to be the same thing the same charge on the three micro Feride capacitor.
+
+07:22.280 --> 07:30.230
+So it's the value of the capacitance multiplied by the voltage across the three micro Farad capacitor
+
+07:31.440 --> 07:31.730
+All right.
+
+07:31.740 --> 07:35.510
+So that gives us relationships here between these voltages right.
+
+07:35.520 --> 07:44.070
+For example the voltage V1 is you simply related to the voltage a B so use the first two part.
+
+07:44.070 --> 07:47.960
+So it'd be C6 that's 6 micro Feride capacitor.
+
+07:48.090 --> 07:50.320
+And here I have to divide by 1.
+
+07:50.370 --> 07:55.680
+Okay so the voltage v 1 is 6 times VAB.
+
+07:55.680 --> 07:57.660
+So that's kind of a useful relationship.
+
+07:58.870 --> 07:59.730
+Oh how else.
+
+07:59.730 --> 08:01.340
+What about V3.
+
+08:01.800 --> 08:05.430
+The voltage across the three micro Feride capacitor.
+
+08:05.430 --> 08:13.080
+Again if I just use the last two parts here I could write an expression and related to the voltage across
+
+08:13.080 --> 08:14.360
+the six.
+
+08:14.550 --> 08:15.650
+So that's what it would look like.
+
+08:15.660 --> 08:21.080
+It would be C6 which is 6 divided by three and the voltage a B.
+
+08:22.110 --> 08:28.480
+So this here would simply be 2 2 times the voltage across a B all right.
+
+08:28.520 --> 08:32.820
+And the last thing we do now is we simply do a loop rule.
+
+08:32.820 --> 08:36.210
+If you do a complete loop the voltages must sum to zero.
+
+08:36.330 --> 08:41.890
+So you have ten here you're going to have a voltage drop a voltage drop and another voltage drop.
+
+08:42.120 --> 08:43.510
+And this is what it looks like here.
+
+08:44.010 --> 08:49.850
+So the final expression here if I do a loop again this is the circuit.
+
+08:50.190 --> 08:51.420
+We have ten.
+
+08:51.690 --> 08:57.120
+First thing we encounter is that one micro add six and three
+
+09:04.140 --> 09:07.240
+all right use cure coughs voltage law magic.
+
+09:07.360 --> 09:12.070
+I was going to start right here at this point and I do a complete loop around.
+
+09:12.070 --> 09:19.060
+First thing I would do is I would get a increase of voltage of 10 volts when I cross the battery.
+
+09:19.060 --> 09:23.440
+And then I would get a voltage drop across here we're gonna gonna call that v 1.
+
+09:23.710 --> 09:29.650
+Gonna get a voltage drop across the six micro Feride capacitor actually instead of V six where we've
+
+09:29.650 --> 09:32.440
+been calling that VAB.
+
+09:32.440 --> 09:33.990
+That's what I'm trying to find.
+
+09:34.220 --> 09:39.470
+And mine is v 3 and that there has to be equal to zero.
+
+09:39.490 --> 09:44.590
+All right we want to solve for VAB so the next thing you want to do is just use my two relationships
+
+09:44.590 --> 09:48.140
+here that I found to get rid of both of those unknowns.
+
+09:48.250 --> 09:52.330
+So that's what you have ten minus.
+
+09:52.390 --> 09:57.190
+This here is going to be instead of v 1 I'm gonna write it as six times VAB
+
+10:00.110 --> 10:09.470
+minus VAB and the last one is minus V Three V Three was two times VAB and that there has to be equal
+
+10:09.470 --> 10:10.770
+to zero.
+
+10:10.820 --> 10:13.910
+All right straight forward VAB is the only unknown here.
+
+10:13.970 --> 10:21.110
+So we have ten has to be equal to six two and one that gives me nine.
+
+10:21.940 --> 10:22.210
+All right.
+
+10:22.220 --> 10:28.770
+And my last expression the voltage between points A and B is going to be ten over nine.
+
+10:28.880 --> 10:29.710
+Okay.
+
+10:29.820 --> 10:36.020
+And that is the voltage right here if this is point A and this is point B the voltage across that capacitor
+
+10:37.870 --> 10:42.030
+the six micro Feride capacitor is ten divided by nine.
+
+10:42.400 --> 10:49.520
+If you want to get a number for that ten divided by nine gives you like one point one 1 and that's a.

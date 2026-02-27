@@ -1,0 +1,147 @@
+WEBVTT
+
+WEBVTT
+
+00:00.540 --> 00:07.470
+OK let me just say a few words about different ways of measuring current and voltage we saw we can calculate
+
+00:07.470 --> 00:07.900
+it.
+
+00:08.010 --> 00:13.290
+If you're doing this in a lab or you're taking a test and they ask you how would you actually measure
+
+00:13.290 --> 00:13.400
+it.
+
+00:13.410 --> 00:17.650
+Well there are two kinds of voltmeters although nowadays everything is done with a multi meter.
+
+00:17.670 --> 00:22.150
+But traditionally an AIM meter is used to measure current.
+
+00:22.250 --> 00:22.780
+OK.
+
+00:24.140 --> 00:29.120
+And if you're measuring current remember current has to flow through the wire.
+
+00:29.190 --> 00:29.800
+OK.
+
+00:29.970 --> 00:35.550
+So ammeters so their symbol is represented by this it's a circle with the letter H inside and it's wires
+
+00:35.550 --> 00:36.280
+like this.
+
+00:36.450 --> 00:42.370
+And the way you connect an ammeter is you always connect an ammeter in series.
+
+00:42.780 --> 00:47.430
+So you physically cut the wire you place the ammeter in on each side.
+
+00:47.670 --> 00:52.930
+So current is actually going to flow directly through that ammeter.
+
+00:55.310 --> 00:59.910
+Since current is flowing through it the resistance of an ammeter.
+
+00:59.930 --> 01:06.700
+Every electrical device is going to have some resistance but the resistance is typically very small.
+
+01:07.640 --> 01:11.870
+Since it's in series you wouldn't want the resistance of the ammeter to be very big because then that
+
+01:11.870 --> 01:15.110
+would change the overall current of the circuit.
+
+01:15.140 --> 01:19.600
+So resistance is small for ammeters.
+
+01:19.940 --> 01:22.670
+Now you'll never see ammeters connected in parallel.
+
+01:22.670 --> 01:28.010
+That doesn't make any sense because if it's connected in parallel and you have a small resistance it
+
+01:28.010 --> 01:30.360
+means you're going to have a lot of current going through there.
+
+01:30.360 --> 01:33.060
+There is very little resistance to current.
+
+01:33.080 --> 01:36.740
+So you really always want them in series.
+
+01:37.580 --> 01:41.840
+So you could place them either next to power supplies you can replace them if you have a circuit with
+
+01:41.840 --> 01:46.610
+several different branches you just connect the ammeter in each individual branch and you can measure
+
+01:46.610 --> 01:48.280
+the current through each branch.
+
+01:50.070 --> 01:55.250
+Now volt meter on the other hand here is the symbol for a volt meter here it is shown measuring the
+
+01:55.250 --> 01:59.250
+voltage here across this resistance.
+
+01:59.340 --> 02:06.750
+So just a circle here with the letter V a volt meter as it says it's measuring the voltage difference.
+
+02:06.750 --> 02:07.210
+Right.
+
+02:08.670 --> 02:09.870
+Between two points
+
+02:14.230 --> 02:16.430
+it's always between two points.
+
+02:20.230 --> 02:24.760
+The other important thing about the Volt Meter is that they are always connected in parallel
+
+02:28.090 --> 02:32.600
+so you should never see volt meter connected and surgery's.
+
+02:32.720 --> 02:39.370
+Now the volt meter itself would be constructed such that it has a very high resistance
+
+02:45.150 --> 02:47.760
+and you want something that is connected in parallel.
+
+02:47.790 --> 02:53.520
+If you don't want it to disrupt any of the actual circuit that you're measuring.
+
+02:53.700 --> 02:55.830
+You want the resistance to be very very high.
+
+02:55.830 --> 02:59.310
+So very little current is going to flow through that volt meter.
+
+03:02.110 --> 03:07.160
+So you can always use a volt meter to for example can you place a volt meter down over here.
+
+03:08.820 --> 03:17.290
+To measure the potential difference across this power supply or I can place a volt meter between both
+
+03:17.290 --> 03:26.610
+of those points connected like this to measure the voltage drop across this resistor OK so just keep
+
+03:26.610 --> 03:29.310
+that in mind whenever you're dealing with these types of meters here.
+
+03:29.460 --> 03:29.960
+OK.
+
+03:30.120 --> 03:33.750
+They're connected differently ones in series ones in parallel.
+
+03:33.780 --> 03:35.610
+One has a very small resistance.
+
+03:35.610 --> 03:38.960
+One would have a very high resistance and their symbols are different.

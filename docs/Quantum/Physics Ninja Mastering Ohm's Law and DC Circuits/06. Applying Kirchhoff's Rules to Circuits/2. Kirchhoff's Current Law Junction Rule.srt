@@ -1,0 +1,100 @@
+WEBVTT
+
+00:00.290 --> 00:05.730
+All right the first of Kirchhoff's rules is referred to as the junction rule and engineering textbooks
+
+00:05.730 --> 00:08.560
+refer referred as Kirchoff's current law.
+
+00:09.550 --> 00:15.470
+So these sometimes often see it as case C-L Kirchoff's current law and there's Kirchhoff right here
+
+00:15.710 --> 00:18.050
+and it basically says this at any junction.
+
+00:18.050 --> 00:21.070
+If you add up all the currents they must be equal to zero.
+
+00:21.470 --> 00:32.680
+So whatever flows in to a junction we call that a positive current and whatever flows out of a junction
+
+00:32.680 --> 00:34.730
+we're going to call that a negative current.
+
+00:35.230 --> 00:35.690
+OK.
+
+00:35.920 --> 00:43.080
+So and while the junction we have to define a junction is any point where you define a point wherever
+
+00:43.090 --> 00:47.830
+you have a wire going in and you could have several wires branching out.
+
+00:47.830 --> 00:50.980
+So here's the junction for this simple circuit up here.
+
+00:51.130 --> 00:56.860
+If you are going to apply Kirchoff's current law to this junction over here again you're adding them
+
+00:56.860 --> 00:58.970
+all up and they have to be equal to zero.
+
+00:58.990 --> 01:03.130
+And this is the sign convention whatever flows in defining it as positive.
+
+01:03.130 --> 01:06.870
+So in this case we have current one flowing into the junction.
+
+01:07.000 --> 01:13.590
+So you'd have positive one and you have two and three that flow out of the junction
+
+01:18.190 --> 01:19.870
+then you've added up all the currents.
+
+01:19.870 --> 01:21.450
+They have to be equal to zero.
+
+01:23.580 --> 01:27.880
+Now if you rearrange this does bring the negative currents on the other side.
+
+01:28.170 --> 01:33.640
+You simply have one which equals to Aitu plus three.
+
+01:34.410 --> 01:40.790
+So this would be Kirchoff's current law applied to that junction up there.
+
+01:42.220 --> 01:47.830
+And what you see is this equation here basically another way of rewriting the some of the currents equals
+
+01:47.830 --> 01:54.160
+to zero is simply nice simply to say that whatever current flows in this guy right here
+
+01:58.000 --> 02:01.250
+must be equal to the total current flowing out
+
+02:07.440 --> 02:11.390
+you think about current as a almost like a water analogy.
+
+02:11.400 --> 02:12.390
+Right moving charges.
+
+02:12.380 --> 02:14.810
+Think about it is water flowing down a river.
+
+02:14.930 --> 02:21.680
+If there is a bifurcation somewhere if the river splits the two parts wherever water was flowing in
+
+02:22.070 --> 02:28.480
+has to be the same amount of water flowing out through the two different sections over here.
+
+02:28.550 --> 02:43.430
+What it means for charges is Kirchoff's current law is basically a statement of conservation of charge.
+
+02:43.490 --> 02:47.480
+That's kind of the origin of this current law and it's pretty easy to apply.
+
+02:47.480 --> 02:49.290
+So let's look at a couple of examples.
+
+02:49.580 --> 02:54.320
+And you can practice applying the current law to find the unknown currents.

@@ -1,0 +1,472 @@
+WEBVTT
+
+00:00.180 --> 00:05.910
+All right here's example 6 entitled finding the potential first part says find the potential at points
+
+00:05.940 --> 00:07.730
+8 through in this figure.
+
+00:07.800 --> 00:12.200
+Assume that the potential point is zero zero volts.
+
+00:12.540 --> 00:15.090
+So in order to find the potential at any other point.
+
+00:15.090 --> 00:19.150
+Well we're going to have to first kind of go across a resistor across batteries.
+
+00:19.230 --> 00:21.310
+This is a single loop circuit.
+
+00:21.360 --> 00:27.060
+If it's a single loop circuit it means that all of these resistors are in series with each other and
+
+00:27.060 --> 00:31.320
+it doesn't matter even though there is a battery here kind of in between the 5 and the one that doesn't
+
+00:31.320 --> 00:36.080
+matter because there is only a single branch so the current has to be the same everywhere.
+
+00:36.120 --> 00:40.800
+So what is the total equivalent resistance of this series circuit.
+
+00:40.800 --> 00:50.010
+You simply have to add them up one plus five plus five plus five plus five plus one plus for what we
+
+00:50.010 --> 00:50.830
+get here.
+
+00:51.030 --> 00:53.910
+That's two with ten that gives me 14.
+
+00:54.300 --> 00:56.430
+I think something's wrong.
+
+00:56.430 --> 00:58.020
+That's 10 11 12.
+
+00:58.020 --> 00:59.010
+Try that again.
+
+00:59.090 --> 01:01.030
+A ship he's 16 ohms.
+
+01:01.160 --> 01:01.680
+OK.
+
+01:01.830 --> 01:04.910
+So he gets 16 ohms is the equivalent resistance.
+
+01:04.950 --> 01:12.180
+And now if I go through well I'm going to add a 12 volt apply the loop now I get plus 12.
+
+01:12.330 --> 01:13.860
+I'm going to lump everything together here.
+
+01:13.860 --> 01:15.480
+So we have kind of something like this.
+
+01:15.480 --> 01:19.640
+We have the equivalent resistor of the batteries that I'm not going to do anything with them.
+
+01:19.640 --> 01:21.200
+It's going to leave them as is.
+
+01:21.500 --> 01:23.560
+But this here 16 ohms.
+
+01:23.640 --> 01:25.230
+This is my 12 volt battery.
+
+01:25.260 --> 01:26.980
+This is my four volt battery.
+
+01:27.200 --> 01:27.590
+OK.
+
+01:27.720 --> 01:33.090
+So if you apply a loop rule to this one is still going around in the clockwise fashion you get plus
+
+01:33.090 --> 01:35.500
+12 when I cross the battery over here.
+
+01:35.520 --> 01:40.280
+Now I'm going to get a voltage drop equal to 16 multiplied by the current.
+
+01:40.530 --> 01:45.900
+And now when I crossed this battery the fordable battery kind of going from the positive to the negative
+
+01:45.900 --> 01:49.890
+I'm going to get a voltage drop and that's four volts.
+
+01:49.920 --> 01:55.040
+So at the end this here equals zero if I do one complete loop.
+
+01:55.110 --> 01:56.040
+So what are we going to get.
+
+01:56.040 --> 01:57.060
+We're going to get 16.
+
+01:57.060 --> 01:59.610
+I bring that term on the other side.
+
+01:59.670 --> 02:01.050
+This is 12 mine four.
+
+02:01.050 --> 02:02.530
+That gives me eight.
+
+02:02.580 --> 02:07.730
+So the current at the end is simply equal to 0.5 amps.
+
+02:07.980 --> 02:09.680
+So that's the current everywhere.
+
+02:09.690 --> 02:12.460
+Let's just write that on the diagram.
+
+02:12.540 --> 02:15.840
+Equals zero point five.
+
+02:16.060 --> 02:17.190
+And that's how you do it.
+
+02:17.230 --> 02:20.960
+And the next thing we want to know is now what is the potential at all these points.
+
+02:21.570 --> 02:26.500
+Well I'm going to use the fact that I know that it's 0 over here at Point.
+
+02:27.330 --> 02:32.160
+And now I'm going to go across so if I start let's start at point E.S. I met some potential which is
+
+02:32.160 --> 02:33.030
+zero.
+
+02:33.060 --> 02:38.620
+The first thing I cross now is the 12 volt batteries I get plus 12 volts.
+
+02:38.730 --> 02:42.750
+The next thing I cross now is a 1 ohm resistor.
+
+02:42.770 --> 02:49.620
+Well if I cross a one ohm resistor I get a voltage drop equal to one ohm multiplied by the current the
+
+02:49.620 --> 02:53.160
+current is zero point five and that's it.
+
+02:53.160 --> 02:56.170
+Now I'm at this point now I go all the way to point A.
+
+02:56.220 --> 02:59.960
+So I must be at some voltage at point A.
+
+03:00.600 --> 03:02.050
+Now remember the potential hit point.
+
+03:02.070 --> 03:04.500
+E that was given in the problem that was zero.
+
+03:04.500 --> 03:06.930
+So we don't have to worry about that term.
+
+03:06.960 --> 03:11.430
+So what we're left with here is 12 minus 0.5.
+
+03:11.520 --> 03:17.380
+So that means that the voltage up Point A is simply equal to eleven point five volts.
+
+03:20.580 --> 03:22.330
+And now you keep doing the same thing.
+
+03:22.550 --> 03:25.240
+So we start at point A you can start a point.
+
+03:25.280 --> 03:26.060
+Again it doesn't matter.
+
+03:26.060 --> 03:31.110
+We've already done this first section so we know this point a is eleven point five.
+
+03:31.310 --> 03:33.410
+So let's do that over here.
+
+03:33.430 --> 03:35.260
+So this is eleven point five.
+
+03:35.330 --> 03:37.200
+That's the potential of point A.
+
+03:37.460 --> 03:47.120
+And now I'm going to cross a 5 ohm resistor so I get a drop which is equal to 5 multiplied by 0.5 and
+
+03:47.120 --> 03:51.540
+that there has to be equal to the potential at point B right here.
+
+03:52.040 --> 03:52.540
+So what do we get.
+
+03:52.550 --> 03:57.920
+Eleven point five minus five times point five gives me 2.5.
+
+03:57.920 --> 04:02.060
+So 11 minus 2.5 should give me 9 volts.
+
+04:02.360 --> 04:08.410
+So VB voltage at point B relative to zero over here has Nine volts.
+
+04:08.780 --> 04:10.100
+OK there we go.
+
+04:12.040 --> 04:13.850
+What about the next one point see.
+
+04:13.870 --> 04:17.000
+Again I'm going to go down a five ohm resistor.
+
+04:17.050 --> 04:20.670
+Whenever I go down a 5 ohm resistor I just did that point.
+
+04:20.680 --> 04:24.660
+I get a voltage drop which is given to 2.5 volts.
+
+04:24.850 --> 04:33.830
+So that means I get nine minus 2.5 so the voltage at Point C is nine minus five times zero point five.
+
+04:34.480 --> 04:41.770
+She gives me 6.5 volts of voltage at Point C 6.5.
+
+04:41.880 --> 04:48.040
+Working my way around the loop over there and the last one may be point D.
+
+04:48.150 --> 04:48.420
+All right.
+
+04:48.420 --> 04:49.640
+Now pointy is a little trickier.
+
+04:49.650 --> 04:53.370
+So point C we just calculated that was 6.5 volts.
+
+04:53.370 --> 04:56.200
+So I can write that down the voltage at Point C.
+
+04:56.220 --> 04:58.150
+Now I'm going to go toward Point D.
+
+04:58.200 --> 05:04.020
+So I first going across a battery and I'm going to get a drop of four volts and I get a drop in this
+
+05:04.020 --> 05:04.390
+case.
+
+05:04.430 --> 05:07.410
+I'm going from the positive side to the negative side.
+
+05:07.740 --> 05:11.430
+And then I cross a one ohm resistor.
+
+05:11.430 --> 05:17.160
+If I cross a one ohm resistor I know I get a voltage drop across this one ohm resistor equal to half
+
+05:17.160 --> 05:23.280
+a volt so minus another half a volt just did that in the first part and that there has to be equal to
+
+05:23.280 --> 05:25.600
+the voltage at Point D.
+
+05:25.620 --> 05:31.760
+So to get the voltage at Point C is six point five minus 4.5.
+
+05:32.230 --> 05:37.670
+So voltage of point D gives me 2 volts.
+
+05:37.740 --> 05:43.110
+So whenever you are asked for the potential at a specific point well what you have to do is you simply
+
+05:43.110 --> 05:43.710
+go around.
+
+05:43.710 --> 05:45.030
+You don't do a complete loop.
+
+05:45.030 --> 05:50.310
+Now you start at a point so you write down the potential at that point and then you move to the other
+
+05:50.310 --> 05:50.740
+point.
+
+05:50.760 --> 05:55.920
+So when you get to the other point the potential has to be equal to the potential at that point.
+
+05:55.920 --> 06:00.450
+All right so this is kind of how you step through and find the potential differences or the potential
+
+06:00.450 --> 06:02.760
+at any point on the circuit.
+
+06:02.760 --> 06:04.410
+All right so that's it for that one.
+
+06:04.410 --> 06:05.950
+Now let's do the energy transfer.
+
+06:06.000 --> 06:11.430
+So the energy transfer once you know the current And you know the value of the resistors everywhere
+
+06:11.430 --> 06:13.350
+and let me kind of delete all of this stuff.
+
+06:13.360 --> 06:18.090
+Now we know the current is 0.5 and that's really all we need.
+
+06:18.120 --> 06:25.560
+So for Part B let's calculate the power supplied by the 12 volt battery.
+
+06:26.950 --> 06:32.430
+The power supplied by the 12 volt battery is given by the voltage or the battery multiplied by the current
+
+06:32.430 --> 06:34.020
+flowing through it.
+
+06:34.020 --> 06:38.420
+So this simply gives me 12 multiplied by 0.5.
+
+06:38.430 --> 06:40.110
+That should give me six watts
+
+06:43.640 --> 06:44.610
+pretty straightforward.
+
+06:44.750 --> 06:45.440
+What about now.
+
+06:45.440 --> 06:53.990
+What is the power dissipated these resisters Well we can find the total power total power dissipated
+
+06:55.070 --> 07:03.230
+by the resistors and just call this it's the power dissipated in the one on plus the power dissipated
+
+07:03.250 --> 07:10.220
+by the five ohm Plus the power dissipated in the other five ohm Plus the power dissipated in the other
+
+07:10.220 --> 07:14.800
+one ohm and the last one the power dissipated in the forum.
+
+07:15.170 --> 07:16.360
+OK.
+
+07:16.430 --> 07:21.590
+Now the power dissipated in every resistor there is simply the value of the resistance multiplied by
+
+07:21.590 --> 07:23.360
+the current squared.
+
+07:23.930 --> 07:27.160
+However the current is the same for each one of those.
+
+07:27.200 --> 07:30.350
+Remember the power dissipated in the resistor.
+
+07:30.350 --> 07:32.810
+Kind of easy to write it like this.
+
+07:32.810 --> 07:36.950
+And the currents the same is 0.5 for each one of those.
+
+07:36.950 --> 07:42.350
+The thing that's different is the resistance is different so I can factor out an I squared for each
+
+07:42.350 --> 07:45.260
+one of those and I simply have to add all of these up.
+
+07:45.290 --> 07:51.910
+So that's one plus five plus five plus one plus for that's simply the equivalent resistance of 16.
+
+07:52.550 --> 08:00.230
+So if you get one half squared multiplied by 16 or one half squared gives me a quarter a quarter of
+
+08:00.230 --> 08:01.950
+16 gives me four.
+
+08:02.090 --> 08:03.810
+So you get four watts.
+
+08:03.950 --> 08:10.240
+That's the total energy being dissipated by all these resistors.
+
+08:10.250 --> 08:13.820
+All right what about the power associated with this four volt battery.
+
+08:15.760 --> 08:16.260
+What do we get.
+
+08:16.270 --> 08:21.280
+Well it's the voltage of the battery multiplied by the current flowing through it.
+
+08:21.370 --> 08:25.740
+In this case it's four multiplied by a half.
+
+08:26.110 --> 08:28.250
+What if we get 2 watts.
+
+08:29.110 --> 08:29.490
+All right.
+
+08:29.490 --> 08:32.040
+So let's talk about the energy transfers.
+
+08:32.320 --> 08:40.660
+So we get this 12 volt battery here which supplies six watts six joules schedule per second of energy
+
+08:42.830 --> 08:46.630
+and we get all these resistors here that dissipate 4 watts.
+
+08:46.640 --> 08:49.670
+So how does that how do we square this 2 watts over here.
+
+08:49.670 --> 08:51.950
+What happens to this 2 watts.
+
+08:51.980 --> 08:55.640
+Notice that if you add both of those you're going to get are six.
+
+08:55.690 --> 08:56.200
+Right.
+
+08:56.540 --> 09:03.050
+And what this means and if you look at the way this battery is set up here basically some energy here
+
+09:03.050 --> 09:05.800
+is being dissipated being converted into heat.
+
+09:06.290 --> 09:12.590
+And the other parts this two watts is basically energy being stored by this battery or basically charging
+
+09:12.590 --> 09:18.170
+up this battery and the rate at which energy is being transferred to Watts.
+
+09:18.960 --> 09:19.550
+OK.
+
+09:19.910 --> 09:23.210
+So that is the energy transfer in the simple circuit.
+
+09:23.390 --> 09:28.490
+Now if the battery was the other way what you would find first you'd find a lot more current and then
+
+09:28.490 --> 09:33.360
+all that energy would be dissipated into heat you wouldn't be charging up the battery in that case.
+
+09:33.380 --> 09:33.920
+OK.
+
+09:34.220 --> 09:39.860
+So you have to be careful when batteries are flipped with respect to a battery that's more powerful
+
+09:39.860 --> 09:42.440
+or that has a higher potential difference.
+
+09:42.440 --> 09:46.920
+Some of the energy being supplied by the circuit is simply going to be absorbed by that other battery.

@@ -1,0 +1,403 @@
+WEBVTT
+
+00:00.540 --> 00:05.760
+All right I'm going to teach you now how to apply Kirchhoff's rules or Kirchoff's voltage law when you
+
+00:05.760 --> 00:08.240
+form close loops around a circuit.
+
+00:08.730 --> 00:09.720
+So rule number one
+
+00:12.640 --> 00:15.670
+pick a loop that makes sense.
+
+00:16.880 --> 00:21.740
+So we're going to pick the loop where I started over here in the lower right hand corner and I formed
+
+00:21.740 --> 00:27.360
+a clockwise loop that went down here and goes in that direction there.
+
+00:27.890 --> 00:31.910
+So now you see when I go around this loop I'm going to encounter a battery then I'm going to count or
+
+00:31.910 --> 00:34.010
+two resistors.
+
+00:34.010 --> 00:39.830
+So when I encounter batteries or earmuffs there's only two loop tools rather
+
+00:43.710 --> 00:51.960
+I'm either going across batteries going from the negative side toward the positive side if I do that.
+
+00:52.410 --> 00:53.540
+Here's the rule.
+
+00:53.910 --> 00:59.880
+So from going from A to B when I cross a battery going from the negative to the positive it means that
+
+00:59.880 --> 01:04.780
+I'm going from a lower electrical potential toward a higher electrical potential.
+
+01:04.830 --> 01:09.130
+So the potential difference is has to be a positive number.
+
+01:09.240 --> 01:13.790
+So when I apply the loop rule that means I would add the potential of the battery when I'm going here.
+
+01:16.230 --> 01:22.170
+If I would cross a battery now going in the opposite direction going from the positive toward the negative
+
+01:22.170 --> 01:29.670
+terminal that means there's a voltage drop when I cross this battery and the magnitude of the voltage
+
+01:29.670 --> 01:32.250
+drop is given by the IMF of the battery.
+
+01:32.640 --> 01:38.510
+And the way I characterize a drop across a battery is by putting a negative sign in the front.
+
+01:39.240 --> 01:43.990
+So I would put mine is 12 volts when I apply Kirchoff's voltage law.
+
+01:46.860 --> 01:50.790
+Now the other things that we're going to encounter when we do our loops are resistors
+
+01:53.630 --> 01:57.170
+in order to apply voltage laws to resistors.
+
+01:57.260 --> 02:00.370
+We must first know the direction of the current.
+
+02:00.470 --> 02:03.910
+Now in many cases we're not given the direction of the current.
+
+02:03.920 --> 02:08.550
+In some cases it's pretty easy to guess what the direction of the current is going to be.
+
+02:08.900 --> 02:11.570
+But some cases is not very obvious.
+
+02:11.570 --> 02:16.340
+So rule number two pick a direction or the current
+
+02:25.270 --> 02:30.210
+You don't have to worry about whether your gas is going to be correct or incorrect.
+
+02:30.420 --> 02:33.120
+The voltage law is going to take care of all of that.
+
+02:33.130 --> 02:36.700
+The only thing you have to do at the beginning of a problem is just pick a direction and just stick
+
+02:36.700 --> 02:39.240
+with it for the rest of the problem.
+
+02:39.280 --> 02:44.520
+Now if it's a circuit kind of like this one there is a lot of different currents that you can define.
+
+02:44.530 --> 02:46.940
+Each branch can have its own current.
+
+02:47.140 --> 02:51.650
+For example this center section here I may have a current like this one.
+
+02:51.700 --> 02:55.490
+I'm just going to pick the upper branch up here.
+
+02:55.500 --> 02:56.970
+I'm going to call this current over here.
+
+02:56.990 --> 02:57.550
+Aitu
+
+03:00.280 --> 03:04.670
+is the main branch here the current flowing through the battery is also it could be different.
+
+03:05.110 --> 03:06.390
+Let's call this just the current.
+
+03:06.400 --> 03:08.090
+I.
+
+03:08.350 --> 03:09.840
+And how about over here.
+
+03:10.070 --> 03:14.260
+Well I have a current Aitu that's in this upper branch
+
+03:17.040 --> 03:21.690
+but it hits a junction over here so part of that current is going to split up part of it's going to
+
+03:21.690 --> 03:23.790
+flow through the six ohm resistor.
+
+03:27.120 --> 03:33.060
+Let's call this i3 part of that current is going to flow through the 12 armor's is there.
+
+03:34.650 --> 03:38.650
+Let's call this I4.
+
+03:38.700 --> 03:43.860
+So you see just in this one particular circuit I actually have five different currents that I have to
+
+03:43.860 --> 03:46.360
+find.
+
+03:46.460 --> 03:49.060
+OK so that's pretty simple right.
+
+03:49.060 --> 03:51.490
+Rule number one pick a loop that we're going to do.
+
+03:51.550 --> 03:54.690
+Rule number 2 says pick a current direction so we've done that.
+
+03:54.960 --> 03:55.720
+OK.
+
+03:56.160 --> 04:00.850
+And we've identified all the different currents through the different resistors.
+
+04:00.960 --> 04:06.910
+So now we're going to have two rules when we cross resistors and the two rules are given here.
+
+04:06.910 --> 04:13.390
+Now remember by picking a current direction positive current always flows from high electrical potential
+
+04:13.630 --> 04:16.120
+toward lower electrical potential.
+
+04:16.120 --> 04:20.810
+So this side of the five ohm resistor is at a higher electrical potential in this one.
+
+04:21.040 --> 04:27.880
+And by picking a current direction flowing from left to right we've automatically decided that this
+
+04:27.880 --> 04:32.670
+side is at a higher electrical potential than that one.
+
+04:32.670 --> 04:33.830
+All right so now.
+
+04:33.990 --> 04:39.360
+Well one we're going to do our loops are either going to go from high to low or we're going to go from
+
+04:39.360 --> 04:44.880
+low to high depending whether or not we cross a resistor in the direction of the current or opposite
+
+04:44.880 --> 04:47.250
+or the direction of the current.
+
+04:47.250 --> 04:48.940
+So there's two rules.
+
+04:49.140 --> 04:53.220
+Again let's assume here we're going from point A to Point B.
+
+04:53.700 --> 04:56.720
+And I've decided that the current flows from left to right.
+
+04:56.880 --> 05:02.340
+So here have decided that this case is at a higher electrical potential than this point.
+
+05:02.340 --> 05:12.230
+If I cross 8 a B in the opposite direction again if current flows in this case from right to left than
+
+05:12.240 --> 05:18.580
+here I would be going from a low electrical potential toward a higher electrical potential.
+
+05:18.580 --> 05:26.560
+Ok so if you take the case here in the top figure if I cross in the direction of the current I'm going
+
+05:26.560 --> 05:34.330
+from high to low voltage which means there is a voltage drop and the magnitude of the voltage drop is
+
+05:34.330 --> 05:35.790
+given by Ohm's law.
+
+05:36.100 --> 05:40.830
+It's the current flowing through the resistance multiplied by the value of the resistance.
+
+05:40.930 --> 05:47.020
+The way I identify that it's a voltage drop is by putting a negative sign in the front right here.
+
+05:48.140 --> 05:53.750
+So the change in potential when you cross a resistor in the direction of the current is negative.
+
+05:53.770 --> 05:56.560
+IIR.
+
+05:56.740 --> 06:04.450
+Now if you cross a resistance now going opposite of the current That means you're going from a low electrical
+
+06:04.450 --> 06:08.980
+potential toward a higher electrical potential.
+
+06:08.980 --> 06:12.360
+Now the change in electrical potential is given by Ohm's law.
+
+06:12.370 --> 06:19.360
+That's Are the Eagles the I remember in the way we say there's an increase now going toward a higher
+
+06:19.360 --> 06:23.910
+electrical potential is by putting a positive sign there.
+
+06:23.950 --> 06:28.870
+So let's go ahead now and just apply our loop rules to a couple of loops Let's start with the first
+
+06:28.870 --> 06:33.210
+one then I drew this clockwise loop starting at point A.
+
+06:33.250 --> 06:37.530
+Let me call this loop number one.
+
+06:37.650 --> 06:39.310
+I'll make it in blue.
+
+06:39.350 --> 06:42.240
+OK so I've decided to go in the clockwise direction.
+
+06:42.270 --> 06:44.350
+The first thing I encounter is a battery.
+
+06:44.580 --> 06:44.840
+OK.
+
+06:44.880 --> 06:47.840
+So I have to deal with the IMF rules over here.
+
+06:48.300 --> 06:53.910
+I'm going from the low to the high which means it's really Casey over here that applies to me.
+
+06:55.050 --> 07:00.570
+If I'm applying Kirchoff's voltage law that means I have to add the potential of the battery here.
+
+07:00.690 --> 07:05.970
+There is a potential difference equal to 12 volts when I crossed this battery.
+
+07:06.350 --> 07:14.000
+Now when I just traveling along a wire there is no change in electrical potential because these wires
+
+07:14.000 --> 07:15.250
+are ideal conductors.
+
+07:15.260 --> 07:17.920
+They don't have any resistance.
+
+07:17.990 --> 07:22.870
+So now the first thing I'm going to encounter now is a three resistance.
+
+07:22.910 --> 07:30.230
+So now it's the rules up here that apply when I cross a three ohm resistance in the direction of the
+
+07:30.230 --> 07:31.400
+current.
+
+07:32.240 --> 07:38.610
+Well again the left side of the three ohm resistance is that a higher electrical potential than the
+
+07:38.610 --> 07:39.330
+lower one.
+
+07:39.510 --> 07:45.900
+So when I cross it I'm going toward a lower electrical potential that means there's a voltage drop across
+
+07:45.900 --> 07:47.960
+the three ohm resistance.
+
+07:48.270 --> 07:51.760
+If there's a voltage drop it means it's negative.
+
+07:51.780 --> 07:58.440
+The change is negative and the magnitude of that change now is simply given by Ohm's law which is the
+
+07:58.440 --> 08:01.410
+value of the resistance multiplied by the current.
+
+08:01.410 --> 08:03.030
+Now you have to be a little bit careful.
+
+08:03.060 --> 08:07.140
+It's the current flowing through that particular resistance that matters.
+
+08:08.930 --> 08:13.020
+All right now the next thing I'm going to encounter is a 5 ohm resistor.
+
+08:14.770 --> 08:16.780
+Again there's a voltage drop.
+
+08:16.780 --> 08:28.420
+Mine is five multiplied by the current I one and that equals to zero.
+
+08:28.430 --> 08:34.440
+All right what I want to do now is let's do the same loop except what I'm going to do now.
+
+08:35.060 --> 08:39.260
+So this was here was going around in a clockwise fashion.
+
+08:39.260 --> 08:48.930
+What happens if I do the same loop except what if I go around in a counter-clockwise fashion.
+
+08:49.160 --> 08:51.400
+Let's go ahead and do that.
+
+08:51.410 --> 08:55.130
+So the first thing I encounter now is a 5 ohm resistance.
+
+08:55.160 --> 09:01.220
+However when I cross that resist I'm going in the opposite direction of the current I'm going from a
+
+09:01.220 --> 09:04.610
+low electrical potential toward a higher electrical potential.
+
+09:04.610 --> 09:10.090
+So when I cross it it means that I'm going toward a higher electrical potential and the potential difference
+
+09:10.090 --> 09:11.690
+is given by Ohm's law.
+
+09:13.730 --> 09:19.220
+Move toward high means the difference is going to be positive in ohms law tells me the magnitude of
+
+09:19.220 --> 09:22.960
+that difference five times I won.
+
+09:23.120 --> 09:26.630
+The next thing I encounter is that three ohm resistance.
+
+09:26.630 --> 09:30.020
+And again I'm moving toward a higher electrical potential.
+
+09:30.200 --> 09:32.590
+So I get plus three.
+
+09:32.810 --> 09:40.170
+I one that's the voltage gain across that three ohm resistance when I'm traveling in this direction.
+
+09:41.650 --> 09:48.110
+Know the last thing I encounter Now if I'm traveling in a counterclockwise fashion is this 12 volt battery
+
+09:48.470 --> 09:55.980
+except now I'm crossing this MF and I'm going from a high toward low if I'm crossing from high to low
+
+09:56.100 --> 10:02.370
+electrical potential and moving toward a lower electrical potential and I'm moving 12 volts lower and
+
+10:02.370 --> 10:03.830
+that equals to zero.
+
+10:05.270 --> 10:10.300
+You notice the difference between both of these equations is simply a negative sign.
+
+10:10.510 --> 10:18.580
+If I multiply my equation down here my counter-clockwise equation by negative 1 I'm going to get minus
+
+10:18.580 --> 10:29.300
+five I won minus three times I won plus 12 volts equals zero and noticed that's the exact same equation.
+
+10:29.920 --> 10:35.190
+So you actually haven't changed any of the physics whether you go around clockwise or counter-clockwise.
+
+10:35.200 --> 10:39.160
+The only thing you introduce as an overall negative sign which doesn't matter at the end.

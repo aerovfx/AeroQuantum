@@ -1,0 +1,307 @@
+WEBVTT
+
+00:00.300 --> 00:04.710
+All right guys I want to say a few things now about conservative forces and then we'll move on to potential
+
+00:04.710 --> 00:10.350
+energy in more detail but let me give you some examples of conservative forces that you may have already
+
+00:10.350 --> 00:11.980
+seen before.
+
+00:12.180 --> 00:14.800
+A force of gravity I mean write all these down.
+
+00:14.820 --> 00:15.080
+OK.
+
+00:15.120 --> 00:22.920
+So the force of gravity is an example of a conservative force for example the weight of an object right.
+
+00:22.980 --> 00:24.030
+M times little G.
+
+00:24.030 --> 00:26.930
+That was an example of a conservative force.
+
+00:26.940 --> 00:31.970
+Another example would be forces from springs on blocks right.
+
+00:31.980 --> 00:33.420
+We call that hooks law.
+
+00:33.550 --> 00:33.830
+Okay.
+
+00:33.840 --> 00:37.040
+So let me just call it as a spring force.
+
+00:37.200 --> 00:45.330
+This was also another example of a conservative force that forced from a spring typically written as
+
+00:45.330 --> 00:50.560
+negative K times X and X is a certain displacement from the equilibrium.
+
+00:50.570 --> 00:56.790
+All right what's really important now for this section is that we have a new conservative forces a new
+
+00:56.790 --> 00:58.100
+conservative force.
+
+00:58.170 --> 01:05.250
+So this electrical force or cool Ohm's Law god just call it an electrical force is also an example of
+
+01:05.250 --> 01:07.430
+a conservative force.
+
+01:07.440 --> 01:11.160
+Let me give you an example that's not a conservative force so non-conservative
+
+01:14.680 --> 01:21.260
+a non conservative force one example that is kind of standard is the force of friction.
+
+01:21.340 --> 01:21.970
+OK.
+
+01:22.150 --> 01:24.330
+Friction is a non conservative force.
+
+01:24.340 --> 01:25.970
+So what do we mean by this.
+
+01:26.390 --> 01:32.560
+Notice that all of these forces over here the force of gravity and the spring force.
+
+01:33.010 --> 01:39.820
+If you studied those in any detail we always had a potential energy associated to those forces.
+
+01:40.170 --> 01:40.800
+OK.
+
+01:40.840 --> 01:47.290
+For example for gravity we would talk about a gravitational potential energy and maybe you remember
+
+01:47.290 --> 01:54.720
+that one that was M.G. maybe times the height that was the potential energy associated to gravity.
+
+01:54.720 --> 01:54.880
+Right.
+
+01:54.880 --> 02:00.850
+If I lift something high it has more gravitational potential energy.
+
+02:00.880 --> 02:06.730
+How about a spring force maybe you don't remember this formula but if I stretch a spring I do work because
+
+02:06.730 --> 02:08.030
+it's hard to do that.
+
+02:08.170 --> 02:14.320
+And when I stretch the spring I store energy and that system I store energy in that spring in the form
+
+02:14.320 --> 02:16.850
+of spring potential energy.
+
+02:16.940 --> 02:25.110
+The formulas was often written as something like this one 1/2 K X square that was the spring potential
+
+02:25.110 --> 02:26.080
+energy.
+
+02:26.130 --> 02:32.310
+So what we're going to do in the next video is we're going to start now talking about what is the potential
+
+02:32.310 --> 02:34.590
+energy associated to charges.
+
+02:34.620 --> 02:34.860
+OK.
+
+02:34.900 --> 02:39.930
+So I'm going to call it again a potential energy use and I'll give you the equation after and it's going
+
+02:39.930 --> 02:42.600
+to be an electrical potential energy.
+
+02:42.630 --> 02:42.950
+All right.
+
+02:42.990 --> 02:45.110
+Maybe put a little subscript e in there.
+
+02:45.150 --> 02:48.740
+So what is the difference now between conservative versus non-conservative.
+
+02:48.750 --> 02:49.970
+Let me show you what that means.
+
+02:49.970 --> 02:54.150
+So let's go back to our parallel plate capacitor.
+
+02:54.150 --> 02:54.350
+All right.
+
+02:54.360 --> 02:59.670
+Again I'm going to make one of the charges sorry one of the plates positive and I'm going to make the
+
+02:59.670 --> 03:02.410
+other plate negative.
+
+03:02.490 --> 03:02.720
+All right.
+
+03:02.740 --> 03:09.900
+So put them charge on these plates and the previous example that we did we calculated how much work
+
+03:09.920 --> 03:17.680
+it was required to bring this positive charge from the negative plate all the way to the top.
+
+03:17.700 --> 03:22.290
+Now what why I didn't tell you about this problem was I didn't tell you how I was going to bring that
+
+03:22.290 --> 03:28.300
+charge from the initial position down here to the final position at the top.
+
+03:28.350 --> 03:34.380
+So we did the example what if I just bring it along this direct path and I had a displacement which
+
+03:34.380 --> 03:36.030
+was just like this right.
+
+03:36.060 --> 03:38.610
+This was my displacement for that problem.
+
+03:38.610 --> 03:41.590
+And I applied a force over that displacement.
+
+03:42.090 --> 03:45.030
+What if on the other hand if I took a different path.
+
+03:45.390 --> 03:52.190
+What if instead if I went like this in this direction first and I took a little break.
+
+03:52.250 --> 03:53.460
+There is the charge.
+
+03:53.460 --> 03:55.650
+And then I went on say this diagonal.
+
+03:55.660 --> 03:56.390
+Right.
+
+03:56.500 --> 03:59.100
+And I went to the same final position.
+
+04:00.070 --> 04:07.120
+If I calculated how much work was done by the electrical force for this purple path what I would do
+
+04:07.120 --> 04:11.790
+is I would find the exact same answer as I did for the blue path.
+
+04:11.860 --> 04:12.120
+All right.
+
+04:12.130 --> 04:21.720
+So the work done by the electric field in this case is the exact same as the work done right here when
+
+04:21.720 --> 04:23.700
+I go directly straight up.
+
+04:23.730 --> 04:24.030
+OK.
+
+04:24.030 --> 04:25.990
+The work is going to be the same.
+
+04:26.070 --> 04:31.440
+And that is really the definition of a conservative force is that it really doesn't matter the path
+
+04:31.440 --> 04:32.580
+that you take.
+
+04:32.580 --> 04:37.260
+It only depends on where you start and where you finish and that's it.
+
+04:37.260 --> 04:42.770
+That's the only thing you need in order to calculate the work done by that particular force.
+
+04:42.790 --> 04:43.100
+OK.
+
+04:43.170 --> 04:50.160
+So here's an example I could take this positive charge and I could bring it over this very complicated
+
+04:50.160 --> 04:54.210
+looking path and then finish at the same position.
+
+04:54.210 --> 05:00.150
+The work done in this case since the electrical force is conservative the work done would be the same
+
+05:00.160 --> 05:04.530
+because I started at the same position and I finished at the same position.
+
+05:04.530 --> 05:09.540
+So once I show you the equation to calculate the work after you'll understand why if you go to this
+
+05:09.540 --> 05:15.340
+purple section again over this segment right here there's actually no work being done.
+
+05:15.420 --> 05:20.730
+And let me show you why again the electrical force as I'm going from this position all the way to the
+
+05:20.730 --> 05:23.970
+right here the electrical force would be straight down.
+
+05:23.970 --> 05:24.290
+Right.
+
+05:24.300 --> 05:28.740
+Because it be attracted to the negative plate down here.
+
+05:28.740 --> 05:35.230
+And if you think about just this segment right here the displacement for this segment is in this direction.
+
+05:35.280 --> 05:37.850
+Let's just call this delta x.
+
+05:38.070 --> 05:42.060
+You notice that both of those vectors are perpendicular to each other.
+
+05:42.090 --> 05:47.070
+So that means that the angle theta for that first segment right here when I'm going from here to there
+
+05:47.460 --> 05:49.330
+is actually 90 degrees.
+
+05:49.500 --> 05:54.810
+And whenever you have a force and a displacement that are perpendicular to each other it means that
+
+05:54.810 --> 06:00.920
+the work over this first segment by the electrical force is actually zero.
+
+06:00.960 --> 06:08.040
+So the only component that is going to end up contributing to the work is the component of the force
+
+06:08.040 --> 06:10.560
+that is parallel to the displacement.
+
+06:10.560 --> 06:16.800
+So even if you would break down this diagonal component you can break it down into kind of small little
+
+06:16.800 --> 06:21.240
+staircases any segment here that is flat.
+
+06:21.240 --> 06:23.460
+There is no work contributions.
+
+06:23.460 --> 06:30.320
+The only the purpose only the vertical component right here is going to end up doing some work is going
+
+06:30.340 --> 06:32.320
+end up contributing to the work.
+
+06:32.330 --> 06:32.780
+All right.
+
+06:32.940 --> 06:39.840
+Let's now look at the definition of the potential energy associated to two charges.

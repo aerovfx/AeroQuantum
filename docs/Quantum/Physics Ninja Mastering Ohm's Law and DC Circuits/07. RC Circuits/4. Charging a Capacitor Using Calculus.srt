@@ -1,0 +1,262 @@
+WEBVTT
+
+00:00.270 --> 00:06.600
+OK in order to actually get a an equation for the charging current as a function of time now we're going
+
+00:06.600 --> 00:09.410
+to have to do is use a bit of calculus.
+
+00:10.170 --> 00:15.540
+So I want to start with the expression I had for the current before I took any of those limits the short
+
+00:15.540 --> 00:17.340
+time and the long time limit.
+
+00:17.610 --> 00:21.660
+And again this is just the result of Kirchoff's voltage law.
+
+00:22.290 --> 00:28.290
+So from this equation here I have a current that relates is directly related to the charge and I know
+
+00:28.290 --> 00:29.160
+both of these change.
+
+00:29.160 --> 00:31.080
+Everything else is a constant here.
+
+00:31.080 --> 00:34.670
+BMF is a constant capacitance is a constant.
+
+00:34.980 --> 00:40.690
+The resistance is a constant but I know that I and Q They are functions of time.
+
+00:40.690 --> 00:46.590
+So one thing I'm going to do is let's start by substituting in the definition of the current the current
+
+00:46.590 --> 00:52.500
+by definition is the rate of change of the charge with respect to time.
+
+00:52.590 --> 00:53.690
+OK.
+
+00:53.920 --> 00:59.530
+And now all I'm going to do here is I'm just going to just factor out the terms what I want to get is
+
+00:59.530 --> 01:04.810
+kind of a term would charge by itself so I'm going to factor out this one over R C that's the term in
+
+01:04.930 --> 01:05.820
+front of the charge.
+
+01:05.820 --> 01:12.030
+Q Let's open up the bracket and what you're left with now is Q And the next term.
+
+01:12.040 --> 01:14.110
+You've got to be a little bit careful here when you write this out.
+
+01:14.140 --> 01:21.670
+Well you should get minus the capacitance multiplied by the ESF of the battery and you see if you multiply
+
+01:21.670 --> 01:24.910
+that through the capacitances are going to cancel out for the second terms.
+
+01:25.090 --> 01:29.750
+This negative sign will take care of that one and you'll be left with this term here.
+
+01:29.800 --> 01:31.120
+All right.
+
+01:31.240 --> 01:36.760
+Now in order to get an equation what we're going to have to do at some point is integrate but before
+
+01:36.760 --> 01:41.800
+integrating I got to put all the terms with the charge on one side and all the terms with the time on
+
+01:41.800 --> 01:42.970
+the other side.
+
+01:43.470 --> 01:50.860
+OK so if I put all the terms of the charge on one side it looks something like this says dequeue divided
+
+01:50.860 --> 01:51.460
+by.
+
+01:51.580 --> 01:56.180
+Now the term in the bracket over here can bring that in the denominator on the other side.
+
+01:56.230 --> 02:03.300
+So this is simply Q minus the capacitance multiplied by the MF.
+
+02:03.310 --> 02:13.920
+Now this here must be equal to minus 1 over R C and multiplied by the.
+
+02:13.960 --> 02:18.310
+OK so now what we're going to do here is I'm just going to do a change of variable because at the end
+
+02:18.310 --> 02:24.920
+I want my final answer to be q and T so I can have those integration variables.
+
+02:25.000 --> 02:27.610
+I'm just going to call these prime values here.
+
+02:27.910 --> 02:32.320
+Just a simple change a variable and now what you're going to do now is we're going to integrate both
+
+02:32.320 --> 02:33.800
+sides.
+
+02:34.030 --> 02:38.570
+I'm going to integrate the charges and the charges we know they initially were at zero.
+
+02:38.590 --> 02:43.210
+So they go from zero to some final value.
+
+02:43.210 --> 02:50.900
+Q And the time I integrate this side from 0 all the way to some final time t.
+
+02:51.140 --> 02:53.430
+This is why I require the change variable here.
+
+02:54.790 --> 02:58.650
+OK so to integrate this side you may have to remember if you don't remember.
+
+02:58.730 --> 02:59.960
+OK.
+
+03:01.240 --> 03:08.730
+It's the natural log it's the natural log of Q Prime minus C.
+
+03:09.160 --> 03:12.670
+And don't forget we're going to have to substitute our limits here.
+
+03:12.670 --> 03:14.480
+Q And 0.
+
+03:14.650 --> 03:16.260
+The other side is a lot easier.
+
+03:16.390 --> 03:18.490
+It's simply minus T
+
+03:22.830 --> 03:31.100
+minus T prime rather sore divided by R C and again the integration limits here are simply T and 0.
+
+03:33.030 --> 03:35.870
+All right so now what you have to do is simply substitute.
+
+03:36.300 --> 03:37.430
+OK.
+
+03:37.470 --> 03:42.420
+After you substitute Let's go ahead and do that over on this side.
+
+03:42.510 --> 03:44.060
+So if you substitute Q In Here.
+
+03:44.210 --> 03:44.910
+That's easy.
+
+03:44.910 --> 03:46.770
+It looks exactly the same.
+
+03:46.770 --> 03:50.280
+And don't forget you're going to be taking the difference between these integration limits.
+
+03:50.370 --> 03:54.870
+When you substitute the zero here what I'm going to do is I'm just going to write it I'm going to use
+
+03:54.870 --> 04:00.630
+properties of the logarithm function remember taking the difference between two logarithms is the same
+
+04:00.630 --> 04:02.800
+thing as dividing the argument here.
+
+04:03.080 --> 04:14.380
+So actually you can write this term as that minus C and divided by minus C write this is the term with
+
+04:14.390 --> 04:20.900
+zero substituted in here and rather than writing natural law of some term minus natural law or the other
+
+04:20.900 --> 04:31.550
+term I use the fact that natural law of a mine is be natural log of B is equal to natural law of a Overby
+
+04:31.630 --> 04:31.790
+right.
+
+04:31.790 --> 04:36.680
+That's one of the properties of the natural log function.
+
+04:36.710 --> 04:44.350
+All right the right hand side now simply becomes minus T over R C.
+
+04:44.360 --> 04:44.600
+All right.
+
+04:44.600 --> 04:45.880
+I'm almost done now.
+
+04:45.950 --> 04:50.540
+Really what I want to do is I want to get an equation of q as a function of time.
+
+04:50.660 --> 04:56.160
+So I have to get rid of this natural log in the way you do that is you take an exponential on both sides.
+
+04:56.300 --> 05:06.340
+So if you take an exponential on both sides this term here is simply going to become Q minus C divided
+
+05:06.340 --> 05:16.940
+by minus C Well let's just switch the order here and this here becomes exponential of minus T divided
+
+05:16.940 --> 05:18.950
+by R C.
+
+05:19.010 --> 05:19.910
+All right.
+
+05:19.910 --> 05:20.770
+And now the last bit.
+
+05:20.780 --> 05:28.640
+All you have to do is kind of isolate we'll do that over here in Kunaal actually explicitly say q is
+
+05:28.640 --> 05:33.710
+now is a function of time as you can see and this term here simply becomes.
+
+05:35.100 --> 05:39.560
+Do a little bit of math you may have to add an extra step here if you don't see it quite as quickly
+
+05:39.560 --> 05:40.330
+as I do.
+
+05:40.820 --> 05:48.950
+But it looks like this one minus exponential minus T divided by R C
+
+05:52.050 --> 05:54.220
+and here's the final expression I have.
+
+05:54.300 --> 06:00.090
+And remember this term here in the front there's a term in front that's what we had found in the previous
+
+06:00.090 --> 06:01.110
+case.
+
+06:01.170 --> 06:04.080
+This here is really what the final charge was.
+
+06:04.380 --> 06:11.800
+It was our final charge in the long time limit was equal to the capacitance multiplied by the IMF.
+
+06:11.860 --> 06:17.340
+And now we have this other bracket here and this other function of time 1 minus exponential of this
+
+06:17.550 --> 06:19.990
+decaying function here.
+
+06:20.280 --> 06:27.330
+So let's have a closer look at the mathematics involved in terms of this equation and use it to calculate
+
+06:27.330 --> 06:28.100
+what the current is.
+
+06:28.100 --> 06:29.150
+Now as a function of time.

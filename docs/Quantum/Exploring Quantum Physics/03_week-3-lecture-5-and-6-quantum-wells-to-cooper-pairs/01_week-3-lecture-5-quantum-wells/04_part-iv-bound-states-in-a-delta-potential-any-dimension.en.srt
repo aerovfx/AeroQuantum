@@ -1,0 +1,1483 @@
+1
+00:00:00,759 --> 00:00:06,328
+So now we're going to address the same
+question addressed in the previous video,
+
+2
+00:00:06,328 --> 00:00:11,333
+namely the question about the existence
+of a bound state in an arbitrarily
+
+3
+00:00:11,333 --> 00:00:17,006
+weak shallow potential well, but now we'll
+do so in more than one demonstration.
+
+4
+00:00:17,006 --> 00:00:21,632
+I should mention that there are actually
+very few problems in quantum mechanics in
+
+5
+00:00:21,632 --> 00:00:26,130
+2D and 3D which allow relatively
+simple analytical solution.
+
+6
+00:00:26,130 --> 00:00:31,390
+Most often, in these cases, we have to
+resort to either numerical analysis or
+
+7
+00:00:31,390 --> 00:00:35,660
+a rather technically complicated
+mathematical calculations.
+
+8
+00:00:35,660 --> 00:00:38,250
+Well, the solution I'm going to
+present is not exactly trivial.
+
+9
+00:00:38,250 --> 00:00:39,910
+It will require a lot of thinking.
+
+10
+00:00:39,910 --> 00:00:44,970
+But otherwise it will follow almost
+one to one the steps that we
+
+11
+00:00:44,970 --> 00:00:50,060
+used in the solution of
+the one-dimensional delta-potential.
+
+12
+00:00:50,060 --> 00:00:54,830
+However, very importantly the result of
+these steps is going to be quite different
+
+13
+00:00:54,830 --> 00:00:56,520
+in 2D and 3D.
+
+14
+00:00:56,520 --> 00:00:59,810
+So namely, for those of you who
+want to skip the technical part and
+
+15
+00:00:59,810 --> 00:01:03,970
+just to get through the bottom line, so I
+will just tell you the result right away.
+
+16
+00:01:03,970 --> 00:01:08,710
+So unlike in one dimension where the
+energy of, first of all the bound state
+
+17
+00:01:08,710 --> 00:01:13,300
+always exist and the energy of the bound
+state in the weak potential scale is
+
+18
+00:01:13,300 --> 00:01:17,580
+sort of as a power loses as a second
+power low of strength of the potential.
+
+19
+00:01:17,580 --> 00:01:21,170
+In two dimensions it turns out
+that the level also always exists,
+
+20
+00:01:21,170 --> 00:01:25,720
+but the energy of the level is extremely,
+extremely small.
+
+21
+00:01:25,720 --> 00:01:31,390
+So the level is very shallow and the
+energy of the level scales exponentially
+
+22
+00:01:31,390 --> 00:01:35,720
+in a very unusual form with
+the strength of the production.
+
+23
+00:01:35,720 --> 00:01:40,140
+And this actually has very important
+consequences in many cases
+
+24
+00:01:40,140 --> 00:01:44,870
+in particular and it relates to a certain
+calculation we're going to discuss
+
+25
+00:01:44,870 --> 00:01:47,320
+in the theory of super
+conductivity a little later.
+
+26
+00:01:47,320 --> 00:01:51,010
+And also, in three dimension, it turns
+out that there is no level at all.
+
+27
+00:01:51,010 --> 00:01:54,840
+So if you have a very weak
+attraction between particles.
+
+28
+00:01:54,840 --> 00:01:56,520
+So for example, a very weak potential.
+
+29
+00:01:56,520 --> 00:02:01,316
+Well there is, so this attraction,
+attraction is not going to
+
+30
+00:02:01,316 --> 00:02:05,935
+induce a bound state and
+this fact is also very important.
+
+31
+00:02:05,935 --> 00:02:10,309
+Now let me prove the statements I just
+made and prove the solution is going to
+
+32
+00:02:10,309 --> 00:02:15,240
+follow very closely as already mentioned
+the solution that we had in one dimension,
+
+33
+00:02:15,240 --> 00:02:19,006
+we started from the stranger equation for
+the delta potential.
+
+34
+00:02:19,006 --> 00:02:22,955
+So now of course we have to
+deal with this regular equation
+
+35
+00:02:22,955 --> 00:02:27,729
+in our dimension where wave function
+now is a function of a vector r and
+
+36
+00:02:27,729 --> 00:02:33,212
+the kinetic energy now involved
+is in contrast to this over x.
+
+37
+00:02:33,212 --> 00:02:36,510
+And finally the delta function
+is the delta function is
+
+38
+00:02:36,510 --> 00:02:40,900
+sort of a sharp peaking function
+in the D dimensional space.
+
+39
+00:02:40,900 --> 00:02:46,820
+So let's say in 3D so,
+this delta far is simply the product
+
+40
+00:02:46,820 --> 00:02:51,780
+of the delta function of x, delta
+function of y and delta function of z.
+
+41
+00:02:53,640 --> 00:02:57,690
+So, the first step in
+the solution just like in 1D
+
+42
+00:02:57,690 --> 00:03:00,600
+involves a free transforming our equation.
+
+43
+00:03:00,600 --> 00:03:05,020
+So essentially we go from
+the wave function, real space to
+
+44
+00:03:05,020 --> 00:03:10,220
+the image of the wave function memento
+space or more criticize the wave vector.
+
+45
+00:03:11,400 --> 00:03:15,810
+So the only difference in time dimension
+is that we have transform is slightly more
+
+46
+00:03:15,810 --> 00:03:21,720
+complicated so it transforms along
+each of the directions, x, y, z, etc.
+
+47
+00:03:21,720 --> 00:03:23,090
+So if we were in higher dimensions.
+
+48
+00:03:23,090 --> 00:03:28,430
+And so if we perform this slightly
+more complicated transform.
+
+49
+00:03:28,430 --> 00:03:36,020
+So the kinetic energy which is basically
+this derivative becomes minus k squared.
+
+50
+00:03:36,020 --> 00:03:37,630
+The delta function,
+
+51
+00:03:37,630 --> 00:03:41,650
+the free image of delta function just
+like the one I mentioned is simply one.
+
+52
+00:03:41,650 --> 00:03:44,600
+And so
+we get to the following equation which
+
+53
+00:03:45,660 --> 00:03:50,440
+is just the linear equation for
+the image of the [INAUDIBLE] function.
+
+54
+00:03:50,440 --> 00:03:53,830
+And this you see there is essentially no
+difference between the one dimensional
+
+55
+00:03:53,830 --> 00:03:57,166
+case and the [INAUDIBLE] dimensional
+case apart from the fact that this guy
+
+56
+00:03:57,166 --> 00:03:58,250
+now is a vector.
+
+57
+00:03:58,250 --> 00:04:03,530
+And while this guy was just a one
+dimensional component of the wave vector.
+
+58
+00:04:03,530 --> 00:04:09,350
+So again we can of course solve
+this equation for side tilde to k.
+
+59
+00:04:09,350 --> 00:04:15,450
+So we're going to have the same
+side of zero divided by h squared
+
+60
+00:04:15,450 --> 00:04:21,540
+K squared over 2m and I will write it
+as plus absolute value of the energy.
+
+61
+00:04:21,540 --> 00:04:23,700
+Again, we are looking for bound state and
+
+62
+00:04:23,700 --> 00:04:28,660
+we know that the bound state must
+be negative if it exists at all.
+
+63
+00:04:28,660 --> 00:04:30,850
+And using exactly
+the same trick as before,
+
+64
+00:04:30,850 --> 00:04:34,840
+we're going to integrate this
+equation both sides of this equation.
+
+65
+00:04:34,840 --> 00:04:40,840
+Now over the entire three
+dimensional space of this.
+
+66
+00:04:40,840 --> 00:04:45,520
+So and if we do so,
+we come up with self consistency
+
+67
+00:04:45,520 --> 00:04:51,060
+equation which again in 1D in higher
+dimensions look almost the same.
+
+68
+00:04:51,060 --> 00:04:54,390
+So the only difference
+is that the integral
+
+69
+00:04:54,390 --> 00:04:56,490
+here is going to over to
+a higher dimensional space.
+
+70
+00:04:58,980 --> 00:05:03,660
+So it turns out that this difference,
+the fact that we are now integrating over
+
+71
+00:05:03,660 --> 00:05:07,140
+high dimensional space leads to
+very important consequences for
+
+72
+00:05:07,140 --> 00:05:08,740
+the actual solution of this equation.
+
+73
+00:05:08,740 --> 00:05:13,620
+Here we knew that doesn't matter how
+small alpha is as long as it's non 0,
+
+74
+00:05:13,620 --> 00:05:16,930
+we can always find an energy that
+would satisfy this equation.
+
+75
+00:05:16,930 --> 00:05:18,830
+So now it turns out that for
+high dimensions,
+
+76
+00:05:18,830 --> 00:05:20,580
+it's not going to happen necessarily.
+
+77
+00:05:20,580 --> 00:05:25,080
+Let's say for D greater than 2,
+there will be no solution so and
+
+78
+00:05:25,080 --> 00:05:29,540
+to see this, we actually have to calculate
+this integral that appears in this
+
+79
+00:05:29,540 --> 00:05:33,430
+consistency equation
+that was just derived.
+
+80
+00:05:33,430 --> 00:05:38,020
+So to do so, we should first notice
+that the function that we're actually
+
+81
+00:05:38,020 --> 00:05:43,440
+integrating does not depend on
+the directions of the wave.
+
+82
+00:05:43,440 --> 00:05:45,590
+It only depends on this absolute value.
+
+83
+00:05:45,590 --> 00:05:50,671
+So let's say in two dimensions,
+we can write d2k as a dk
+
+84
+00:05:50,671 --> 00:05:56,079
+times k which is essentially
+corresponds to an integrating
+
+85
+00:05:56,079 --> 00:06:00,730
+over the absolute value of k
+times d five of k which is
+
+86
+00:06:00,730 --> 00:06:05,835
+the angle that the vector k
+forms with the x directions.
+
+87
+00:06:05,835 --> 00:06:10,610
+So let's say this is our
+three dimensional k space,
+
+88
+00:06:10,610 --> 00:06:14,623
+this would be k of y,
+this would be k of x and so
+
+89
+00:06:14,623 --> 00:06:19,635
+this is our vector k so
+this would be the angle five of k.
+
+90
+00:06:19,635 --> 00:06:23,232
+So, what I'm saying here
+is that the equation,
+
+91
+00:06:23,232 --> 00:06:26,304
+this equation that we're looking at, so
+
+92
+00:06:26,304 --> 00:06:31,240
+it can be written as alpha D2k,
+in this case, over 2 pi squared.
+
+93
+00:06:32,960 --> 00:06:38,140
+So this function, and we can write it as
+simply, well, alpha over 2 pi squared.
+
+94
+00:06:38,140 --> 00:06:41,620
+Oops, squared is here so
+
+95
+00:06:41,620 --> 00:06:46,640
+dk times k over this function
+are from 0 to infinity.
+
+96
+00:06:46,640 --> 00:06:49,650
+So, we integrate overall
+possible lectures.
+
+97
+00:06:49,650 --> 00:06:53,060
+And an integral over the angles but
+nothing depend on the angles.
+
+98
+00:06:53,060 --> 00:06:58,220
+So this integral will simply give us 2 pi.
+
+99
+00:06:58,220 --> 00:07:03,660
+And, so in 3D we can do the same thing so
+in the dimension we can do this procedure,
+
+100
+00:07:03,660 --> 00:07:05,550
+we can sort of integrate
+over the angles and
+
+101
+00:07:05,550 --> 00:07:10,980
+just separate the integral
+over the magnitude of k.
+
+102
+00:07:10,980 --> 00:07:16,160
+So let me write therefore my self
+consistency equation in these four.
+
+103
+00:07:16,160 --> 00:07:18,050
+I'll write it in any dimensions.
+
+104
+00:07:18,050 --> 00:07:25,520
+Alpha s sub d minus 1,
+which I will explain what I mean by that.
+
+105
+00:07:25,520 --> 00:07:31,035
+2 pi to the power of D,
+so in here I'm going
+
+106
+00:07:31,035 --> 00:07:35,938
+to write it as dk k to
+the power of D minus
+
+107
+00:07:35,938 --> 00:07:41,150
+one a squared k squared over 2m plus ie so
+
+108
+00:07:41,150 --> 00:07:45,595
+this s of d minus one is the integral
+
+109
+00:07:45,595 --> 00:07:49,918
+that comes out of the end though.
+
+110
+00:07:49,918 --> 00:07:54,117
+So let's say in two dimensions
+it will be simply two pi, okay?
+
+111
+00:07:54,117 --> 00:07:59,015
+So I wrote it in this form because
+it actually corresponds sort of to
+
+112
+00:07:59,015 --> 00:08:01,467
+a d minus 1 dimensional sphere.
+
+113
+00:08:01,467 --> 00:08:03,861
+So in this case, in two dimensions,
+
+114
+00:08:03,861 --> 00:08:08,733
+it would be basically integrating
+over the circle, in three dimensions,
+
+115
+00:08:08,733 --> 00:08:13,605
+we'll be integrating over the solid
+angles that cover the entire sphere so
+
+116
+00:08:13,605 --> 00:08:18,550
+let's say s1 is equal to 2 phi which we
+found out so s2 is going to be equal to 4
+
+117
+00:08:18,550 --> 00:08:22,700
+phi, well we can formally introduce
+as 0 which is just 2 etc.
+
+118
+00:08:22,700 --> 00:08:25,371
+So in any dimension,
+you can principle calculate it.
+
+119
+00:08:25,371 --> 00:08:30,349
+But for practical purposes, we don't
+really need to know anything about
+
+120
+00:08:30,349 --> 00:08:35,164
+these three numbers because in real life,
+we don't deal with anything
+
+121
+00:08:35,164 --> 00:08:39,310
+about three dimensions,
+two dimensions or one dimension.
+
+122
+00:08:39,310 --> 00:08:45,505
+Now, the problem that we have is that the
+theory here is already in two dimensions,
+
+123
+00:08:45,505 --> 00:08:49,577
+when we integrate,
+let's say from 0 to infinity, so
+
+124
+00:08:49,577 --> 00:08:53,710
+the integral was actually
+divergent at large keys.
+
+125
+00:08:53,710 --> 00:08:56,750
+So let's say if d is equal to 2 and
+especially d is equal to 3.
+
+126
+00:08:56,750 --> 00:09:01,266
+So the higher we go, the more divergent
+it becomes as we go to larger key.
+
+127
+00:09:01,266 --> 00:09:04,670
+So this integral is
+actually equal to infinity.
+
+128
+00:09:04,670 --> 00:09:09,200
+So if we look at it, without thinking.
+
+129
+00:09:09,200 --> 00:09:13,860
+And well, when there is an infinity, so
+we have to think about why it appears.
+
+130
+00:09:13,860 --> 00:09:17,319
+So remember that actually
+this constant alpha came out.
+
+131
+00:09:17,319 --> 00:09:21,250
+Well, we're solving essentially
+the problem for a delta potential.
+
+132
+00:09:21,250 --> 00:09:26,530
+So our V of R is alpha
+times delta of r and
+
+133
+00:09:26,530 --> 00:09:29,890
+delta function, the delta function
+is a very artificial function.
+
+134
+00:09:29,890 --> 00:09:34,920
+Was basically introduced to model a show
+of potential, a physical potential that
+
+135
+00:09:34,920 --> 00:09:40,960
+has, so
+it has a certain width which equals a and
+
+136
+00:09:40,960 --> 00:09:46,170
+it has a certain depth, so
+which means which will equal you know it.
+
+137
+00:09:46,170 --> 00:09:50,806
+So and alpha is of the order of
+u naught e to the power of d or
+
+138
+00:09:50,806 --> 00:09:53,987
+d is the dimensionality of our space.
+
+139
+00:09:53,987 --> 00:09:58,507
+But in any case, so this delta
+function potential is introduced to
+
+140
+00:09:58,507 --> 00:10:02,624
+represent real physical potential
+that exists in reality,
+
+141
+00:10:02,624 --> 00:10:06,690
+which has actually a finite width and
+finite depth.
+
+142
+00:10:06,690 --> 00:10:10,560
+So when we go to large wave vectors,
+
+143
+00:10:10,560 --> 00:10:13,890
+actually the large wave vectors
+respond to small distances.
+
+144
+00:10:13,890 --> 00:10:20,280
+And if we consider, and if we encounter
+a divergence at large K, which we do here.
+
+145
+00:10:20,280 --> 00:10:24,784
+So it means that something bad
+happens at small distances.
+
+146
+00:10:24,784 --> 00:10:29,125
+And so this something bad means that well,
+
+147
+00:10:29,125 --> 00:10:33,910
+there are no real delta
+potentials in nature.
+
+148
+00:10:33,910 --> 00:10:36,869
+Okay, so,
+all potentials that have a finite radius.
+
+149
+00:10:36,869 --> 00:10:39,965
+And so we can cutoff this, in some sense,
+
+150
+00:10:39,965 --> 00:10:44,393
+in physical diversions by
+introducing a parameter 1 / E.
+
+151
+00:10:44,393 --> 00:10:48,473
+Where E is the radius of far of real
+physical potential that we model with
+
+152
+00:10:48,473 --> 00:10:50,240
+the delta potential.
+
+153
+00:10:50,240 --> 00:10:54,930
+So this is actually a solution
+to this otherwise puzzle.
+
+154
+00:10:54,930 --> 00:10:56,060
+Otherwise we will get an infinity.
+
+155
+00:10:56,060 --> 00:10:56,980
+We shouldn't get an infinity.
+
+156
+00:10:56,980 --> 00:11:00,287
+So, basically what I'm saying here is
+that, even if we were to put a real
+
+157
+00:11:00,287 --> 00:11:03,111
+potential in the very beginning and
+do everything properly,
+
+158
+00:11:03,111 --> 00:11:06,398
+then this cutoff would appear actually
+naturally in our calculation.
+
+159
+00:11:06,398 --> 00:11:08,593
+So, but here we just introduce it by hand.
+
+160
+00:11:08,593 --> 00:11:13,068
+So now we're entering a final
+part of our derivation where
+
+161
+00:11:13,068 --> 00:11:16,550
+we will rely on the integral
+we just derived.
+
+162
+00:11:16,550 --> 00:11:20,710
+So here there are no more angular
+components of the wave vector,
+
+163
+00:11:20,710 --> 00:11:23,370
+there is just one integral involved.
+
+164
+00:11:23,370 --> 00:11:26,480
+And we cut it off at the 1 over E.
+
+165
+00:11:26,480 --> 00:11:28,670
+So and also, modified it a little bit so
+
+166
+00:11:28,670 --> 00:11:30,440
+there's 1 over alpha,
+it's not a, it's alpha.
+
+167
+00:11:30,440 --> 00:11:33,600
+It's the strength of the potential
+in the left hand side.
+
+168
+00:11:33,600 --> 00:11:36,420
+So again, the main question we've been
+
+169
+00:11:36,420 --> 00:11:40,120
+actually asking is whether there is
+a bound state in a weak potential.
+
+170
+00:11:40,120 --> 00:11:43,640
+That is the potential
+where alpha goes to 0, and
+
+171
+00:11:43,640 --> 00:11:46,980
+therefore, if alpha goes to 0, one,
+1 over alpha goes to infinity.
+
+172
+00:11:46,980 --> 00:11:52,090
+And so the question that we
+are now asking is whether we can
+
+173
+00:11:52,090 --> 00:11:57,600
+find a solution to this equation when
+the left hand side is very large.
+
+174
+00:11:57,600 --> 00:12:02,530
+So you may ask me, you just got three
+in infinity so, what are you doing?
+
+175
+00:12:02,530 --> 00:12:06,700
+This is really would be reasonable
+question to say from a mathematician.
+
+176
+00:12:06,700 --> 00:12:10,310
+But, this calculation actually
+illustrates, in a very nice way,
+
+177
+00:12:10,310 --> 00:12:14,360
+the difference between doing mathematical
+calculations in physics and math.
+
+178
+00:12:14,360 --> 00:12:20,420
+So, the definition I just got in
+read off was an unphysical infinity.
+
+179
+00:12:20,420 --> 00:12:21,070
+It's not real.
+
+180
+00:12:21,070 --> 00:12:24,000
+It was sort of an artifact of our modem.
+
+181
+00:12:24,000 --> 00:12:27,260
+And also this infinity was not
+dependent on the energy so whether or
+
+182
+00:12:27,260 --> 00:12:30,160
+not we put energy to 0 or
+
+183
+00:12:30,160 --> 00:12:34,760
+to or something finite, this so-called
+ultraviolet divergence would have existed.
+
+184
+00:12:34,760 --> 00:12:38,151
+And so we got it off,
+we remembered where things came from and
+
+185
+00:12:38,151 --> 00:12:39,970
+are got rid of this divergence.
+
+186
+00:12:39,970 --> 00:12:44,751
+Now the question is whether we can have
+an arbitrarily large integral by adjusting
+
+187
+00:12:44,751 --> 00:12:46,630
+the value of the energy, okay?
+
+188
+00:12:46,630 --> 00:12:50,872
+And so here is basically this integral so
+I don't write here,
+
+189
+00:12:50,872 --> 00:12:54,720
+this overall coefficient
+because it's just a number.
+
+190
+00:12:54,720 --> 00:12:57,640
+It cannot be made large or
+small it's just a number.
+
+191
+00:12:57,640 --> 00:13:02,697
+2D is 1 over 2 phi and 3D is 1 over 2pi
+squared so it has, it's not important.
+
+192
+00:13:02,697 --> 00:13:05,889
+So, how do I answer this question?
+
+193
+00:13:05,889 --> 00:13:09,499
+So if we look at it, we see that
+the absolute value of energy appears in
+
+194
+00:13:09,499 --> 00:13:13,490
+the denominator, so the larger
+the energy the smaller this integral.
+
+195
+00:13:13,490 --> 00:13:15,589
+It's a very clear-cut tendency.
+
+196
+00:13:15,589 --> 00:13:21,920
+So, the integral is the largest
+when energy is equal to 0.
+
+197
+00:13:21,920 --> 00:13:26,600
+So therefore, the question we're
+really asking is whether we can,
+
+198
+00:13:26,600 --> 00:13:31,250
+if we set this energy to 0 and
+the remainder integral would be a key to
+
+199
+00:13:31,250 --> 00:13:34,690
+D minus 1 divided by E squared,
+or simply this.
+
+200
+00:13:34,690 --> 00:13:37,610
+So the question we're asking whether
+the integral below can diverge.
+
+201
+00:13:37,610 --> 00:13:39,990
+So we got rid of diversions
+in the previous slide.
+
+202
+00:13:39,990 --> 00:13:42,560
+In this slide,
+we're asking whether we can get it back.
+
+203
+00:13:42,560 --> 00:13:47,990
+But the important thing here is we want to
+get it back not from a large momenta but
+
+204
+00:13:47,990 --> 00:13:52,615
+from a small momenta,
+the latter is called infrared diversions.
+
+205
+00:13:52,615 --> 00:13:53,748
+And in physics, for
+
+206
+00:13:53,748 --> 00:13:57,746
+those of you will be thinking about
+becoming theoretical physicists,
+
+207
+00:13:57,746 --> 00:14:02,541
+you may remember that infrared divergence
+is if you find something like that, well,
+
+208
+00:14:02,541 --> 00:14:07,355
+either you made the mistake or if it's
+new, you should think about Nobel Prize.
+
+209
+00:14:07,355 --> 00:14:08,465
+So it's very important.
+
+210
+00:14:08,465 --> 00:14:11,480
+Infrared divergences are real
+unlike ultraviolet divergence
+
+211
+00:14:11,480 --> 00:14:13,440
+which are sort of artificial.
+
+212
+00:14:14,790 --> 00:14:17,740
+And this boils down
+basically to this question.
+
+213
+00:14:17,740 --> 00:14:21,320
+Now clearly, if let's say,
+D is equal to 3,
+
+214
+00:14:21,320 --> 00:14:26,030
+so the dimension of space is equal to 3,
+the space in which we live, so
+
+215
+00:14:26,030 --> 00:14:30,330
+then we simply have integral from 0
+to 1/a or in this case It's finite.
+
+216
+00:14:30,330 --> 00:14:31,010
+There's no diversions.
+
+217
+00:14:31,010 --> 00:14:35,584
+And therefore, the answer to the question
+is the question of existence of
+
+218
+00:14:35,584 --> 00:14:39,900
+the bound state is that in 3D,
+there is no bound state, okay?
+
+219
+00:14:39,900 --> 00:14:43,120
+So if alpha is sufficiently small,
+the right-hand side cannot possibly
+
+220
+00:14:43,120 --> 00:14:45,401
+compete with the large value
+in the left-hand side.
+
+221
+00:14:46,540 --> 00:14:48,790
+But if we go to lower dimension and
+
+222
+00:14:48,790 --> 00:14:52,050
+among the reasonable dimensions,
+two comes to mind.
+
+223
+00:14:52,050 --> 00:14:54,840
+So, unless we consider some fractals or
+whatever,
+
+224
+00:14:54,840 --> 00:14:58,840
+so that's the only thing we can have,
+1 and 2.
+
+225
+00:14:58,840 --> 00:15:05,645
+So in two dimensions, this integral
+becomes an integral from 0 to 1/a, dk / k.
+
+226
+00:15:05,645 --> 00:15:10,048
+And we get a very weak sort
+of logarithmic divergence so
+
+227
+00:15:10,048 --> 00:15:16,180
+the lower limit we're going to get 1
+over 0 and it's equal to infinity.
+
+228
+00:15:16,180 --> 00:15:18,520
+So the integral divergence.
+
+229
+00:15:18,520 --> 00:15:20,790
+Which is great,
+which means we have a bound state.
+
+230
+00:15:20,790 --> 00:15:25,255
+So this is really the summary
+of what we learn from simply
+
+231
+00:15:25,255 --> 00:15:30,207
+considering this integral to
+which we simplify our problem.
+
+232
+00:15:30,207 --> 00:15:35,366
+So, if our dimensionality is smaller or
+equal to 2, so the integral diversion
+
+233
+00:15:35,366 --> 00:15:40,040
+are physically it means that there
+exist always exist a bound state.
+
+234
+00:15:40,040 --> 00:15:42,240
+Does metric how we could traction this.
+
+235
+00:15:42,240 --> 00:15:45,750
+So, otherwise the integral is finite and
+their no bound state.
+
+236
+00:15:45,750 --> 00:15:48,240
+So, even though there is a well,
+there's nothing in there.
+
+237
+00:15:48,240 --> 00:15:49,506
+There's nothing in this well.
+
+238
+00:15:49,506 --> 00:15:54,298
+So the last thing I'm going to do is that,
+I will estimate the value of the energy or
+
+239
+00:15:54,298 --> 00:15:56,456
+the bounds State in two dimensions.
+
+240
+00:15:56,456 --> 00:15:57,784
+So we just found there is one.
+
+241
+00:15:57,784 --> 00:15:59,214
+So let's estimate this energy.
+
+242
+00:15:59,214 --> 00:16:02,596
+And of course for this I have to solve
+this equation specifically into g.
+
+243
+00:16:02,596 --> 00:16:04,450
+So let me do so.
+
+244
+00:16:04,450 --> 00:16:07,990
+Let me just calculate this integral,
+actually estimate this integral.
+
+245
+00:16:07,990 --> 00:16:10,506
+I can of course calculate exactly but
+let me estimate it.
+
+246
+00:16:10,506 --> 00:16:13,710
+It's easier, so in the first thing I'm
+going to do I'm going to factor out this
+
+247
+00:16:13,710 --> 00:16:15,650
+coefficient here in front of the integral.
+
+248
+00:16:15,650 --> 00:16:18,566
+I'm going to have m over pi h squared.
+
+249
+00:16:18,566 --> 00:16:23,853
+So I will get an integral
+from 0 to 1 over a and
+
+250
+00:16:23,853 --> 00:16:28,722
+let me write it in this form,
+dk times k and
+
+251
+00:16:28,722 --> 00:16:33,038
+so here I'm going to have k squared plus
+
+252
+00:16:33,038 --> 00:16:37,660
+square root of 2me over each squared.
+
+253
+00:16:37,660 --> 00:16:41,360
+So just throw it in this form
+you will understand why.
+
+254
+00:16:41,360 --> 00:16:45,500
+So if I set energy to zero I have
+the logarithmic diversions which
+
+255
+00:16:46,840 --> 00:16:51,800
+as we know allows me,
+allows the existence of the bound state.
+
+256
+00:16:51,800 --> 00:16:55,900
+Now but if it's finite, so
+this divergence disappears so
+
+257
+00:16:55,900 --> 00:16:58,800
+the smaller it is
+the larger the divergence.
+
+258
+00:16:58,800 --> 00:17:04,020
+Now to estimate the value of the integral
+I can simply move this sort of cut off
+
+259
+00:17:04,020 --> 00:17:09,540
+of this divergence from the denominator
+to the lower limit of the degree.
+
+260
+00:17:09,540 --> 00:17:14,888
+This method is called, well a symptomatic
+method is called a very big accuracy.
+
+261
+00:17:14,888 --> 00:17:19,020
+So if we have integrals of this type
+with divergence if we don't want to
+
+262
+00:17:19,020 --> 00:17:22,606
+perform exact calculations
+sometimes it's not possible.
+
+263
+00:17:22,606 --> 00:17:27,447
+So one can just do this trick and
+this provides a reasonable estimate.
+
+264
+00:17:27,447 --> 00:17:33,144
+So if we do that, so
+what we're going to get is approximately,
+
+265
+00:17:33,144 --> 00:17:38,617
+let me write it this way,
+approximately m over pi e squared
+
+266
+00:17:38,617 --> 00:17:43,330
+integral now from this 2 me,
+a squared 1 over e.
+
+267
+00:17:43,330 --> 00:17:48,430
+And so here I will have simply dk over k
+and so this, of course, is lower, and so
+
+268
+00:17:48,430 --> 00:17:54,280
+the result is that m over pi H squared,
+log of 1 over e,
+
+269
+00:17:54,280 --> 00:18:00,280
+the upper limit times h over 2m(e),
+the lower limit.
+
+270
+00:18:00,280 --> 00:18:04,890
+And so now I'm in a position to find
+the energy, so I can simply solve
+
+271
+00:18:04,890 --> 00:18:08,610
+this equation for e by exponentiating
+both sides of these equation,
+
+272
+00:18:08,610 --> 00:18:11,090
+which gets it free of the logarithm.
+
+273
+00:18:11,090 --> 00:18:15,310
+And so the result is going to be, so the
+energy of the absolute value of the energy
+
+274
+00:18:15,310 --> 00:18:21,570
+is going to be, let me write of
+the order of a squared over ma squared,
+
+275
+00:18:21,570 --> 00:18:27,145
+exponential of 2 pi h squared
+
+276
+00:18:27,145 --> 00:18:32,090
+divided by alpha with a minus a sign.
+
+277
+00:18:32,090 --> 00:18:38,270
+So this is really the final result and
+the result is very interesting.
+
+278
+00:18:38,270 --> 00:18:41,060
+So for a theoretical physicist at least,
+
+279
+00:18:41,060 --> 00:18:44,300
+because the function that we
+got is a very strange function.
+
+280
+00:18:44,300 --> 00:18:48,440
+So remember that this parameter alpha
+controls the strength of the potential.
+
+281
+00:18:48,440 --> 00:18:51,490
+And, we consider the case
+when it's very small.
+
+282
+00:18:51,490 --> 00:18:57,730
+So, e to the power minus 1 over
+alpha is really exponentially small,
+
+283
+00:18:57,730 --> 00:19:02,400
+very shallow level in
+already a shallow potential.
+
+284
+00:19:02,400 --> 00:19:06,760
+But the function is strange because,
+well if you write it, e to the power minus
+
+285
+00:19:06,760 --> 00:19:12,350
+something over alpha, so this function
+does not have a Taylor expansion.
+
+286
+00:19:12,350 --> 00:19:16,046
+So remember that if we have a function,
+
+287
+00:19:16,046 --> 00:19:20,078
+if an alpha normally, it's small alpha,
+
+288
+00:19:20,078 --> 00:19:25,006
+we can approximate it by f
+of 0 plus f prime of 0 times
+
+289
+00:19:25,006 --> 00:19:30,054
+alpha plus f 2 prime sub 0
+over 2 of a squared, etc.
+
+290
+00:19:30,054 --> 00:19:32,846
+So this is a regular Taylor
+expansion of a function.
+
+291
+00:19:32,846 --> 00:19:35,628
+So in this case, all of the derivatives,
+
+292
+00:19:35,628 --> 00:19:40,240
+all the terms in this Taylor
+expansion are equal to zero.
+
+293
+00:19:40,240 --> 00:19:45,260
+And this actually would have posed
+a problem if we had tried to solve this
+
+294
+00:19:45,260 --> 00:19:50,670
+problem using so-called preservation
+theory which physicists love because
+
+295
+00:19:50,670 --> 00:19:57,080
+oftentimes gives us access to solutions
+that are otherwise impossible to get.
+
+296
+00:19:57,080 --> 00:19:59,170
+So we start with a known solution,
+
+297
+00:19:59,170 --> 00:20:01,890
+then do a Taylor expansion in
+the vicinity of the solution.
+
+298
+00:20:01,890 --> 00:20:06,790
+So here it wouldn't have been possible,
+exactly because of these weird properties.
+
+299
+00:20:06,790 --> 00:20:09,210
+The function exists, we can plot it,
+we can look at it, but
+
+300
+00:20:09,210 --> 00:20:10,539
+there is no Taylor expansion at all.
+
+301
+00:20:11,840 --> 00:20:16,840
+So and it turns out that in
+the second lecture this week we're
+
+302
+00:20:16,840 --> 00:20:20,860
+going to study some basics about
+the theory of superconductivity and
+
+303
+00:20:20,860 --> 00:20:26,730
+there's a classic formula in these Nobel
+Prize winning Bardeen-Cooper-Schrieffer
+
+304
+00:20:26,730 --> 00:20:32,220
+theory of superconductivity which features
+this function, this sort of function.
+
+305
+00:20:32,220 --> 00:20:37,250
+Actually, the reason it took people, as I
+will talk about it in the next lecture,
+
+306
+00:20:37,250 --> 00:20:41,570
+the reason it took people almost 50 years
+to come up with a solution to the problem
+
+307
+00:20:41,570 --> 00:20:44,970
+superconductivity is partially
+because of this circumstance.
+
+308
+00:20:44,970 --> 00:20:48,060
+That the result actually is something that
+
+309
+00:20:48,060 --> 00:20:51,680
+can only be obtained by an exact
+nonperturbative calculation.
+
+310
+00:20:51,680 --> 00:20:55,880
+But it couldn't be obtained
+using the perturbation theory.

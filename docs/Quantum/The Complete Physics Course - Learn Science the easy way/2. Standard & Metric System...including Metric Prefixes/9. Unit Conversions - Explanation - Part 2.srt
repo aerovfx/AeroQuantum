@@ -1,0 +1,263 @@
+1
+00:00:00,330 --> 00:00:06,210
+All right, so for these problems over here, this next one, we have five pounds, two number of kilograms
+
+2
+00:00:06,330 --> 00:00:11,820
+once again, that what we're going to be doing here is simply just writing out our five pounds.
+
+3
+00:00:13,080 --> 00:00:19,650
+And we're going to be multiplying this by a fraction, a unit conversion so far over a step over here
+
+4
+00:00:19,650 --> 00:00:22,810
+is trying to look for all the facts to actually have pounds in them.
+
+5
+00:00:22,950 --> 00:00:28,380
+You notice that the first four over here are all having to do with distance.
+
+6
+00:00:28,440 --> 00:00:30,740
+So that has nothing to do with pounds.
+
+7
+00:00:31,040 --> 00:00:35,230
+This over here we have having to do with pounds in these ones over here.
+
+8
+00:00:35,250 --> 00:00:39,410
+Once again, these don't have anything to do with pounds or these ones over here.
+
+9
+00:00:39,420 --> 00:00:44,800
+So we're just simply going to be looking at this first fun fact, this unit conversion over here.
+
+10
+00:00:45,030 --> 00:00:51,990
+So once again, keeping in mind that the entire idea of this is to actually be able to cancel out the
+
+11
+00:00:51,990 --> 00:00:55,150
+units, one kilogram is equal to two point two pounds.
+
+12
+00:00:55,620 --> 00:00:57,120
+Where do we want to put the pounds?
+
+13
+00:00:57,150 --> 00:01:01,950
+Well, we have pounds on the top over here and we want to put pounds on the bottom over here in the
+
+14
+00:01:01,950 --> 00:01:02,690
+denominator.
+
+15
+00:01:02,820 --> 00:01:09,780
+So we have our two point two pounds is equal to one kilogram.
+
+16
+00:01:10,830 --> 00:01:14,340
+Being at the numerator and denominator are equal to each other.
+
+17
+00:01:14,690 --> 00:01:21,030
+We know by now that, hey, it's essentially multiplying to five pounds by one, which once again does
+
+18
+00:01:21,030 --> 00:01:24,390
+not change the value of the pounds, the five pounds.
+
+19
+00:01:24,550 --> 00:01:26,520
+It just simply converts the units.
+
+20
+00:01:26,760 --> 00:01:32,130
+Once again, what we're gonna do here is we cancel at the pounds with the pounds and that leaves us
+
+21
+00:01:32,130 --> 00:01:33,030
+with kilograms.
+
+22
+00:01:33,330 --> 00:01:36,850
+We are converting from pounds to kilograms.
+
+23
+00:01:36,960 --> 00:01:40,080
+And that being the case, we know that we're done with this problem.
+
+24
+00:01:40,560 --> 00:01:43,860
+OK, so once again, all we have to do here is plug this in our calculator.
+
+25
+00:01:44,010 --> 00:01:51,090
+We have our five times one, which is essentially just sell the five divide that by our one times two
+
+26
+00:01:51,090 --> 00:01:51,900
+point two.
+
+27
+00:01:53,160 --> 00:01:56,310
+And this will give us an answer when we plug it in the calculator.
+
+28
+00:01:56,340 --> 00:02:04,500
+This way, we, of course, don't actually need the parentheses in this this problem right now for plug
+
+29
+00:02:04,500 --> 00:02:07,440
+it into the calculator, because it's just two different numbers.
+
+30
+00:02:07,440 --> 00:02:12,930
+But I typically use parentheses just really to explicitly have it defined.
+
+31
+00:02:12,930 --> 00:02:18,330
+What we're plugging into the calculator and we get two point two seven repeating.
+
+32
+00:02:18,330 --> 00:02:20,130
+We could just do two point two seven.
+
+33
+00:02:20,550 --> 00:02:26,910
+And once again, the entire reason why we're doing this is because we're doing the unit conversions.
+
+34
+00:02:26,910 --> 00:02:29,160
+So make sure that you include your units.
+
+35
+00:02:30,340 --> 00:02:37,030
+And what's again, what this is essentially saying is that five pounds is equal to two point to seven
+
+36
+00:02:37,510 --> 00:02:40,330
+kilograms, and that's the answer for that one.
+
+37
+00:02:41,960 --> 00:02:44,870
+OK, so let's do this next from.
+
+38
+00:02:46,160 --> 00:02:49,250
+We have two point twenty seven kilograms to number of pounds.
+
+39
+00:02:49,580 --> 00:02:58,520
+All right, so we once again start off with our two point two seven kilograms times a fraction over
+
+40
+00:02:58,520 --> 00:02:58,790
+here.
+
+41
+00:02:59,030 --> 00:03:01,760
+And we could just simply just do the divide by one over here.
+
+42
+00:03:01,760 --> 00:03:02,330
+That's fine.
+
+43
+00:03:02,480 --> 00:03:07,520
+And once again, we're actually just going to be using the same fun factor over here, the same unique
+
+44
+00:03:07,520 --> 00:03:10,700
+conversion, because once again, we're dealing with kilograms and pounds.
+
+45
+00:03:10,970 --> 00:03:14,720
+These don't have anything to do with kilograms or pounds, neither of these.
+
+46
+00:03:14,750 --> 00:03:17,870
+So we are just going to be using the same fun fact.
+
+47
+00:03:18,110 --> 00:03:21,500
+So we have one kilogram is equal to two point two pounds.
+
+48
+00:03:21,620 --> 00:03:26,230
+We have kilograms, two point two kilograms with the kilograms in the numerator.
+
+49
+00:03:26,240 --> 00:03:32,570
+So therefore we know right away that we want kilograms in the denominator for these two units to cancel
+
+50
+00:03:32,570 --> 00:03:33,110
+each other out.
+
+51
+00:03:33,380 --> 00:03:34,550
+How many kilograms is it?
+
+52
+00:03:34,670 --> 00:03:40,120
+Oh, it's one kilogram is equal to what, two point two pounds?
+
+53
+00:03:41,960 --> 00:03:47,060
+Once again, our units will cancel out with each other, just leaving us with pounds and we're converting
+
+54
+00:03:47,060 --> 00:03:49,220
+from kilograms to pounds.
+
+55
+00:03:49,220 --> 00:03:54,020
+So being that we do have our pounds over here, that's a good indicator to us that we're done with this
+
+56
+00:03:54,020 --> 00:03:54,530
+problem.
+
+57
+00:03:54,530 --> 00:03:59,170
+All we have to do is put this in the calculator and we'll get our answer cell plug in the calculator
+
+58
+00:03:59,180 --> 00:04:05,690
+we have to point to seven times are two point to divide that by one times one.
+
+59
+00:04:05,960 --> 00:04:09,110
+And really this step over here isn't necessary.
+
+60
+00:04:09,110 --> 00:04:12,050
+We just have our multiplication of.
+
+61
+00:04:13,880 --> 00:04:20,160
+Two point two, seven times to point two and now give us our answer and plug it into the calculator.
+
+62
+00:04:20,300 --> 00:04:24,610
+We have our answer of five five what, five pounds.
+
+63
+00:04:24,980 --> 00:04:33,440
+So what we're basically saying here is that two point two seven kilograms is equal to five pounds.
+
+64
+00:04:34,340 --> 00:04:38,360
+And if you actually noticed this here, hey, look at the similarities over here.
+
+65
+00:04:38,480 --> 00:04:45,040
+We just went from five pounds to number of kilograms and we just went from number of kilograms to back
+
+66
+00:04:45,050 --> 00:04:47,990
+to number of pounds just basically through the same method.

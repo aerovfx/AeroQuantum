@@ -1,0 +1,953 @@
+WEBVTT
+
+1
+00:00:18.040 --> 00:00:18.440
+All right.
+
+2
+00:00:18.460 --> 00:00:23.680
+To derive that better measurement for microscopic levels that we're going to deal with primarily in
+
+3
+00:00:23.680 --> 00:00:25.390
+this course and in particle physics.
+
+4
+00:00:25.630 --> 00:00:29.500
+What I'm going to do is I'm going to walk you through some basic electrostatic, which you're usually
+
+5
+00:00:29.500 --> 00:00:34.300
+exposed to in electricity and magnetism course, which is usually traditionally in college.
+
+6
+00:00:34.480 --> 00:00:36.970
+The second physics course you actually take.
+
+7
+00:00:37.660 --> 00:00:42.610
+So a lot of textbooks just throw this measurement out and expect you to use it.
+
+8
+00:00:42.610 --> 00:00:43.840
+I want you to have intuition.
+
+9
+00:00:43.840 --> 00:00:49.360
+I want you to understand where it came from and what it's actually communicating, what the measurement
+
+10
+00:00:49.360 --> 00:00:51.730
+the unit actually signifies, OK?
+
+11
+00:00:51.940 --> 00:00:58.030
+So what I'm going to do to find a more appropriate measurement for energy when I call our past studies
+
+12
+00:00:58.030 --> 00:01:04.390
+of electric circuits and the work that's required to move a charged particles, the scenario I want
+
+13
+00:01:04.390 --> 00:01:09.610
+you to consider is, let's say we have a congregation of point charges.
+
+14
+00:01:09.610 --> 00:01:11.290
+Q one two three four.
+
+15
+00:01:11.530 --> 00:01:15.340
+How many charges you want anywhere in space.
+
+16
+00:01:15.350 --> 00:01:18.460
+This is going to signify surrounding environment charges.
+
+17
+00:01:19.270 --> 00:01:24.880
+And what we know is that any kind of charge is going to give off an electric field, which is specified
+
+18
+00:01:24.880 --> 00:01:25.450
+by E!
+
+19
+00:01:25.870 --> 00:01:33.430
+So these guys here, if we have a charged particle, which we're going to use as an electron Q and we
+
+20
+00:01:33.430 --> 00:01:41.170
+want to do work so we can move this from point A to point B, what's going to happen is any kind of
+
+21
+00:01:41.170 --> 00:01:43.090
+source charged with an electric field.
+
+22
+00:01:43.090 --> 00:01:49.690
+E is going to produce a force that either opposes or attracts this charge.
+
+23
+00:01:50.050 --> 00:01:57.760
+And what we know from the Lorenz Force Law, which I should underline right here, is that the force
+
+24
+00:01:57.760 --> 00:02:06.280
+that this electric field exerts on any kind of other charge Capital Q is Q times the electric field,
+
+25
+00:02:06.550 --> 00:02:10.630
+plus the velocity of the particle crossed into the magnetic field.
+
+26
+00:02:10.630 --> 00:02:11.710
+Now in this scenario.
+
+27
+00:02:11.980 --> 00:02:19.900
+We're going to assume there's no magnetic field, so this guy is going to drop off and we're left with
+
+28
+00:02:19.900 --> 00:02:21.100
+just Huie.
+
+29
+00:02:21.370 --> 00:02:28.420
+Now this guy is sort of if that doesn't look familiar to you and you've studied electrostatic, what
+
+30
+00:02:28.420 --> 00:02:33.310
+I want you to recall is that this is no different than after you put an E in the electric field.
+
+31
+00:02:33.460 --> 00:02:36.550
+You'd get this equation here one over four pi epsilon.
+
+32
+00:02:36.550 --> 00:02:39.970
+Not well, this is the permeability of space times.
+
+33
+00:02:39.970 --> 00:02:44.240
+The two charges Q Q, and this would be the sum of its the.
+
+34
+00:02:44.260 --> 00:02:50.560
+All these charges over the distance are square between the source and the point charge that you're interested
+
+35
+00:02:50.560 --> 00:02:50.710
+in.
+
+36
+00:02:51.670 --> 00:02:56.500
+What we see here is that it's sort of like the electric field is nothing more than the force over the
+
+37
+00:02:56.500 --> 00:02:56.890
+Q.
+
+38
+00:02:57.730 --> 00:03:04.750
+Now if we take this scenario and we want to move this guy over here, what we're doing is we're moving
+
+39
+00:03:04.750 --> 00:03:08.890
+this against the force that is created from these guys to see what's going to try to repel it.
+
+40
+00:03:09.280 --> 00:03:17.440
+So we have to exert a force that is equivalent to Q times e or greater in the opposite direction to
+
+41
+00:03:17.440 --> 00:03:18.880
+move it along this guy here.
+
+42
+00:03:19.390 --> 00:03:24.610
+And what we know from physics went along with we've just studied in deriving the kinetic energy is that
+
+43
+00:03:24.850 --> 00:03:30.910
+any kind of work we exert or put into a system is defined as the integral from A to B, from the two
+
+44
+00:03:30.910 --> 00:03:38.740
+distances that the two displacements of the force data into the actual length that it moves along the
+
+45
+00:03:38.740 --> 00:03:39.370
+lever arm.
+
+46
+00:03:39.370 --> 00:03:40.270
+It moves along, right?
+
+47
+00:03:41.200 --> 00:03:48.220
+So if we move along this path, any kind of path we have to exert or rather the energy in the work we
+
+48
+00:03:48.220 --> 00:03:52.270
+put into in moving it is described by this equation.
+
+49
+00:03:52.840 --> 00:03:57.460
+We're going to do the same exact thing that we did with kinetic energy, with relativistic energy.
+
+50
+00:03:57.850 --> 00:04:01.450
+We're going to do is we'll plug into the forest and just plug plug in shock.
+
+51
+00:04:01.450 --> 00:04:02.620
+OK, so.
+
+52
+00:04:04.200 --> 00:04:08.720
+For the force, we know well, we just arrived the Lorentz force law here, Huey.
+
+53
+00:04:09.090 --> 00:04:13.310
+That's the force that we have to act against in moving these guys.
+
+54
+00:04:13.320 --> 00:04:14.280
+And it's sort of similar.
+
+55
+00:04:14.430 --> 00:04:19.650
+An analogy I'm going to take a little side is sort of similar to potential energy if that jives more
+
+56
+00:04:19.650 --> 00:04:21.930
+with you and you haven't studied this with potential energy.
+
+57
+00:04:22.170 --> 00:04:28.200
+What you do is if you have some kind of object here, you have a force of gravity that's acting down.
+
+58
+00:04:28.350 --> 00:04:35.760
+In order to move this to this position, we have to exert a force equivalent to the mass times, the
+
+59
+00:04:35.760 --> 00:04:41.070
+gravity, the force of gravity equal to, but opposite to move it up to there.
+
+60
+00:04:41.280 --> 00:04:42.870
+What are the same exact thing here?
+
+61
+00:04:42.990 --> 00:04:43.230
+All right.
+
+62
+00:04:43.320 --> 00:04:46.680
+It's the same exact parallel, same exact phenomenon that's going on here.
+
+63
+00:04:46.920 --> 00:04:51.780
+So we take the force here and it's going to be in the opposite direction.
+
+64
+00:04:52.050 --> 00:04:53.070
+So we put in a negative.
+
+65
+00:04:53.430 --> 00:04:58.410
+We pull that in here and we get an expression here that's like, Oh, that doesn't really that doesn't
+
+66
+00:04:58.410 --> 00:04:59.690
+really get us anywhere.
+
+67
+00:04:59.700 --> 00:05:02.070
+So we have to sort of chug along a bit further.
+
+68
+00:05:02.370 --> 00:05:05.580
+So what we can do is we can pull out this cue the negative Q.
+
+69
+00:05:05.880 --> 00:05:08.370
+So this is a constant and we get this guy right here.
+
+70
+00:05:08.370 --> 00:05:15.720
+And if you studied electrostatic electric dynamics, this guy, this integral ETR should be a very special
+
+71
+00:05:17.310 --> 00:05:18.060
+special formula.
+
+72
+00:05:18.060 --> 00:05:22.260
+It should look like the formula for potential potential.
+
+73
+00:05:22.290 --> 00:05:22.530
+All right.
+
+74
+00:05:22.890 --> 00:05:24.330
+That's an important term.
+
+75
+00:05:24.330 --> 00:05:25.980
+An electrostatic but.
+
+76
+00:05:26.950 --> 00:05:33.660
+Well, we also know is that the electric field e is equivalent to the negative of a gradient of a potential
+
+77
+00:05:33.670 --> 00:05:34.000
+ft.
+
+78
+00:05:34.390 --> 00:05:34.720
+OK.
+
+79
+00:05:35.200 --> 00:05:41.740
+This is sort of like what we've seen in Physics 101 classical mechanics, where the force is equal to
+
+80
+00:05:41.740 --> 00:05:44.590
+the negative gradient of the potential energy.
+
+81
+00:05:44.800 --> 00:05:47.980
+And if we look at these two guys here, if this is confusing you.
+
+82
+00:05:48.550 --> 00:05:50.800
+This is no different than this guy.
+
+83
+00:05:50.950 --> 00:05:53.140
+In essence, it's just this the what if IQ, right?
+
+84
+00:05:53.440 --> 00:05:58.930
+The electric field is sort of like the force sport per charge, and that's useful because we just multiply
+
+85
+00:05:58.930 --> 00:06:03.790
+by any charge we want to see the force upon and that yields us, the force.
+
+86
+00:06:04.010 --> 00:06:08.940
+Similarly, the potential is sort of like the energy you divide up IQ.
+
+87
+00:06:09.740 --> 00:06:10.690
+OK, so.
+
+88
+00:06:11.810 --> 00:06:18.230
+If we take this guy here and we literally plug it in for Ether, the native grading of B, we get this
+
+89
+00:06:18.230 --> 00:06:25.910
+guy here and we could solve this because if we take the integral of a gradient over a distance D.R.
+
+90
+00:06:27.020 --> 00:06:32.480
+where we can use the fundamental theorem of calculus after we get rid of these negative signs, they
+
+91
+00:06:32.480 --> 00:06:33.230
+cancel out.
+
+92
+00:06:33.590 --> 00:06:38.960
+And the fundamental theorem of calculus says that if you integrate your gradient, you get nothing more
+
+93
+00:06:38.960 --> 00:06:45.020
+than the original quantity at the final result, minus the initial result, which is VB minus IPA.
+
+94
+00:06:45.230 --> 00:06:52.460
+So the net result we get is that in order to prove this charge against this electric field, we have
+
+95
+00:06:52.460 --> 00:06:52.970
+to.
+
+96
+00:06:54.230 --> 00:07:01.880
+Do the following work, the following work we do is the charge Q times, the change in potential, the
+
+97
+00:07:01.880 --> 00:07:03.950
+potential drop that we're moving across.
+
+98
+00:07:04.250 --> 00:07:11.270
+So if we take this, we can use it to formulate a new measurement of energy that's going to be more
+
+99
+00:07:11.270 --> 00:07:16.640
+applicable for the situation if we're going to be working with four microscopic scenarios.
+
+100
+00:07:17.570 --> 00:07:22.010
+Well, you know, we don't have a lot of mass, but we have very high velocities, OK?
+
+101
+00:07:22.490 --> 00:07:29.570
+So thus, if we try to move an electron across a potential difference of one volt, which is in essence
+
+102
+00:07:29.570 --> 00:07:34.370
+a potential drop, we can assert the following we could take a circuit.
+
+103
+00:07:34.370 --> 00:07:39.200
+We say we have some kind of battery of one volts and we can move across that volt.
+
+104
+00:07:39.200 --> 00:07:46.310
+The Bolt has an electro motor force and MF that wants to push this electron through the circuit, right?
+
+105
+00:07:46.430 --> 00:07:47.540
+That's how we get current.
+
+106
+00:07:47.720 --> 00:07:51.110
+That's how we get the flow of electrons of charges, charged particles.
+
+107
+00:07:51.530 --> 00:07:55.940
+So if we want to reverse that direction and go in the opposite direction, we're going to have to go
+
+108
+00:07:55.940 --> 00:07:57.560
+over one volt.
+
+109
+00:07:57.560 --> 00:08:02.390
+We're going to have a one volt potential drop, the potential difference of one volt.
+
+110
+00:08:02.540 --> 00:08:05.000
+What's the energy we're going to need to put into the system?
+
+111
+00:08:05.450 --> 00:08:08.650
+We can use what we just arrive or taking a look at an electrostatic.
+
+112
+00:08:09.200 --> 00:08:15.380
+So we can take this exactly as it is for an electron and we just literally use it as such.
+
+113
+00:08:15.740 --> 00:08:19.760
+So we plug in the charge mcluhan's for an electron.
+
+114
+00:08:20.030 --> 00:08:21.500
+And you know, that's a negative charge.
+
+115
+00:08:21.500 --> 00:08:26.880
+So we get a negative one point six zero two two times 10 to the minus 19 coolant.
+
+116
+00:08:27.170 --> 00:08:35.030
+That's how we measure how we we measure, charge and we multiply that by our potential drop, which
+
+117
+00:08:35.030 --> 00:08:36.500
+is a negative one volt.
+
+118
+00:08:36.890 --> 00:08:42.800
+We know that a volt Coulomb is a jewel and we end up with the phone.
+
+119
+00:08:43.040 --> 00:08:47.840
+We get to work that is one point six, zero, two, two and 10 to the minus 19th joules.
+
+120
+00:08:47.840 --> 00:08:49.850
+And you're probably thinking scratching your head.
+
+121
+00:08:49.850 --> 00:08:50.900
+You're like, Wait a second.
+
+122
+00:08:50.900 --> 00:08:54.440
+That energy is close to the same magnitude we had previously.
+
+123
+00:08:54.860 --> 00:09:00.110
+Well, instead of using this, what we're going to do is want to say, Yeah, we're going to be working
+
+124
+00:09:00.110 --> 00:09:01.160
+with these charged particles.
+
+125
+00:09:01.160 --> 00:09:02.390
+We're going to be moving them around.
+
+126
+00:09:02.810 --> 00:09:06.380
+So maybe we can have a new unit using this as a reference.
+
+127
+00:09:06.380 --> 00:09:12.620
+So as I said, using this as reference, we could derive a more useful measurement known as the electron
+
+128
+00:09:12.620 --> 00:09:12.860
+volt.
+
+129
+00:09:12.860 --> 00:09:17.570
+This is the new unit of energy we're going to use in special relativity or news particle physics to
+
+130
+00:09:17.930 --> 00:09:18.710
+get used to it.
+
+131
+00:09:18.710 --> 00:09:19.790
+I'm going to help you get used to it.
+
+132
+00:09:19.940 --> 00:09:21.650
+OK, so we take this.
+
+133
+00:09:21.860 --> 00:09:24.800
+This is the energy or take movies over one voltage drop.
+
+134
+00:09:25.190 --> 00:09:31.280
+We take this and say one electric electron volts is going to be equal to this, this amount of energy
+
+135
+00:09:31.280 --> 00:09:31.940
+and joules.
+
+136
+00:09:32.570 --> 00:09:36.460
+And in doing so, we get this new measurement of energy.
+
+137
+00:09:36.470 --> 00:09:39.500
+OK, so it's a new measurement of energy.
+
+138
+00:09:39.740 --> 00:09:45.620
+It seems to be on the scale that we're seeing that's cropping up with these small particles.
+
+139
+00:09:45.950 --> 00:09:49.010
+However, you still do not have intuition with that, right?
+
+140
+00:09:49.310 --> 00:09:50.820
+So I'm going to erase this.
+
+141
+00:09:50.900 --> 00:09:55.310
+The circuit and what we're going to do is we're going to revisit the problem we were just describing
+
+142
+00:09:55.310 --> 00:09:58.130
+with the rest energy of an electron.
+
+143
+00:09:58.520 --> 00:10:04.420
+And what we want to find is that this gives us a really nice way to measure energy.
+
+144
+00:10:04.430 --> 00:10:08.450
+It's on the same scale of the situations that we generally analyze.
+
+145
+00:10:08.450 --> 00:10:15.170
+So what we can do is we could take we could say, Oh, previously we took the electron and we said it's
+
+146
+00:10:15.290 --> 00:10:19.370
+less energy is equal to N-not c squared.
+
+147
+00:10:19.820 --> 00:10:21.500
+But we already did our calculation, right?
+
+148
+00:10:21.770 --> 00:10:27.590
+Well, all of that, that was nearly eight point one nine nine.
+
+149
+00:10:29.260 --> 00:10:29.920
+Times.
+
+150
+00:10:31.080 --> 00:10:35.010
+Ten in the negative 14 jewels.
+
+151
+00:10:35.520 --> 00:10:39.360
+So how do we express this in terms of electron volts?
+
+152
+00:10:39.390 --> 00:10:42.570
+Well, we can say, OK, we can drop this down here to make more space.
+
+153
+00:10:42.900 --> 00:10:49.020
+That's merely just eight point one nine nine times 10 to the minus 14.
+
+154
+00:10:49.050 --> 00:10:49.980
+Is that correct?
+
+155
+00:10:50.010 --> 00:10:51.570
+Yes, it is joules.
+
+156
+00:10:51.930 --> 00:10:53.640
+And then we just use loo.
+
+157
+00:10:53.670 --> 00:10:54.390
+We just arrived.
+
+158
+00:10:54.750 --> 00:10:58.110
+So we multiply by one electron volt, which is what we want.
+
+159
+00:10:58.410 --> 00:11:08.400
+We divide by the one point six zero to two times 10 to the minus 19 joules.
+
+160
+00:11:09.300 --> 00:11:15.900
+We cancel out this macroscopic unit and we end up with red drum roll.
+
+161
+00:11:16.260 --> 00:11:20.130
+Five point one one times 10.
+
+162
+00:11:21.640 --> 00:11:29.920
+To the fifth election ballots and what you'll usually see this expressed as is the following we can
+
+163
+00:11:29.920 --> 00:11:33.790
+divide by bring this over here and then that becomes 10 to the six.
+
+164
+00:11:34.420 --> 00:11:44.700
+So that's just zero point five one one MAGA, which is 10 to the 6th electron volts band.
+
+165
+00:11:45.310 --> 00:11:46.150
+And we look at that.
+
+166
+00:11:47.120 --> 00:11:53.350
+When we see the first energy for an electron, your first calculation you've ever put into play here.
+
+167
+00:11:55.250 --> 00:11:58.880
+Is just following its, you know, 0.5 one mega electron wolf.
+
+168
+00:11:59.240 --> 00:12:00.530
+What are you there to work with this?
+
+169
+00:12:01.490 --> 00:12:06.500
+It's much more convenient because we don't have to put a times 10 to the minus 19 jewels all the time.
+
+170
+00:12:06.830 --> 00:12:12.260
+And furthermore, you know, if you didn't have a calculator would be much easier to work with this
+
+171
+00:12:12.260 --> 00:12:13.040
+breast energy here.
+
+172
+00:12:13.040 --> 00:12:18.200
+So we can see at a microscopic level with situations that we're going to deal with.
+
+173
+00:12:18.590 --> 00:12:18.860
+All right.
+
+174
+00:12:19.430 --> 00:12:23.270
+This guy is more useful, if more practical.
+
+175
+00:12:23.510 --> 00:12:31.220
+OK, now to go a step further and to really emphasize the energy mass equivalence that we just discovered.
+
+176
+00:12:32.540 --> 00:12:37.970
+What I've got to say is that all your calculations are going to do special relativity, particle physics,
+
+177
+00:12:38.240 --> 00:12:42.680
+so on and so forth, where relativistic effects tend to crop up.
+
+178
+00:12:43.610 --> 00:12:46.040
+We're going to express the energy in terms of the electron volts.
+
+179
+00:12:46.160 --> 00:12:52.070
+But when you expressed the mass, we're going to redefine units for mass and be very easy.
+
+180
+00:12:52.070 --> 00:12:53.510
+It's going to be very straightforward.
+
+181
+00:12:53.870 --> 00:12:55.970
+What we're going to say is that.
+
+182
+00:12:57.400 --> 00:13:02.200
+Instead of reporting the mass in terms of a kilogram and then we have to go through this insane operation,
+
+183
+00:13:02.200 --> 00:13:05.560
+we have a kg rate multiply by the speed of light squared.
+
+184
+00:13:05.680 --> 00:13:06.970
+We have to convert to electron volts.
+
+185
+00:13:06.970 --> 00:13:07.960
+That's a lot of work, right?
+
+186
+00:13:08.200 --> 00:13:09.250
+What I mean, more convenient.
+
+187
+00:13:09.250 --> 00:13:21.280
+If we said, Oh well, the mass, the mass of an electron is nothing more than 0.5 one one mega electron
+
+188
+00:13:21.280 --> 00:13:22.860
+volts overseas squirt.
+
+189
+00:13:23.530 --> 00:13:29.020
+Now it seems sort of weird to write it like that, but all I did was literally took the C squared what
+
+190
+00:13:29.800 --> 00:13:34.720
+we wrote left side hook that got divided by C squared and we ended up with falling.
+
+191
+00:13:35.680 --> 00:13:42.700
+What's really useful is that by taking this and you'll find tables and in your textbook online, so
+
+192
+00:13:42.700 --> 00:13:46.150
+on and so forth, you look up the massive electron in a special relativity book.
+
+193
+00:13:46.870 --> 00:13:49.210
+You're you should find this guy.
+
+194
+00:13:49.390 --> 00:13:55.040
+It's going means expressed in terms of electron volts over squared because we could just take this for
+
+195
+00:13:55.100 --> 00:13:55.870
+the rest energy.
+
+196
+00:13:56.140 --> 00:13:57.730
+We don't have to do any calculations.
+
+197
+00:13:57.730 --> 00:14:00.640
+They owe the rest energy, which we're going to find.
+
+198
+00:14:00.640 --> 00:14:06.760
+We're going to deal with energy in particular because we're just falling just 0.5 one meg electron volts
+
+199
+00:14:07.090 --> 00:14:08.140
+and you no calculation.
+
+200
+00:14:08.350 --> 00:14:12.310
+Let's do this year after year, the conversion do not to plug it into my calculator.
+
+201
+00:14:12.550 --> 00:14:15.460
+It's much more effective, much more practical.
+
+202
+00:14:16.180 --> 00:14:19.590
+After you get used to this, you're going to like it a bit much more.
+
+203
+00:14:19.610 --> 00:14:25.960
+OK, so we're going to do our calculations in terms of this, and what we're going to find is the energy
+
+204
+00:14:25.960 --> 00:14:29.170
+and momentum in particular and the rest of energy here.
+
+205
+00:14:29.650 --> 00:14:35.670
+This is going to really drive our calculations, drive our approach to analysis, and we're going to
+
+206
+00:14:35.690 --> 00:14:38.500
+try to get rid of our reliance upon math.
+
+207
+00:14:38.500 --> 00:14:44.500
+Because as I mentioned in the previous video and we're going to explore in the next video is that if
+
+208
+00:14:44.500 --> 00:14:53.170
+mass is nothing more than a manifestation of energy and it can change freely between being mass or energy
+
+209
+00:14:53.410 --> 00:14:58.000
+or not, we shouldn't even think about as as such, mass literally is energy.
+
+210
+00:14:58.360 --> 00:15:03.250
+Mass is just our conception of energy, it's just an extra manifestation of it.
+
+211
+00:15:03.640 --> 00:15:12.700
+So if we can change freely, right, that sort of insinuates that conservation of mass no longer holds.
+
+212
+00:15:13.300 --> 00:15:17.470
+And on the going to divulge more about that, I talked about it a bit in the last video.
+
+213
+00:15:17.710 --> 00:15:21.670
+But if we can't rely upon that anymore, we can't use conservation of mass.
+
+214
+00:15:21.700 --> 00:15:27.400
+What we're going to see is really it's just basic physics principles, conservation of momentum, conservation
+
+215
+00:15:27.400 --> 00:15:28.990
+of energy and band.
+
+216
+00:15:29.000 --> 00:15:32.110
+So it's going to be more useful to express energy as such.
+
+217
+00:15:32.500 --> 00:15:36.610
+And we're going to find that we're going to redefine momentum units eventually.
+
+218
+00:15:36.610 --> 00:15:41.890
+And I'll make note of that when we do it, and it'll be more efficient to express a sort of in terms
+
+219
+00:15:41.890 --> 00:15:44.290
+of an electron volt calculation.
+
+220
+00:15:44.680 --> 00:15:47.860
+So there you have it, that is the electron volts.
+
+221
+00:15:48.460 --> 00:15:50.970
+I want to spend some time with the electrostatic.
+
+222
+00:15:51.040 --> 00:15:53.470
+If you're not really going to electrostatic, that's fine.
+
+223
+00:15:54.010 --> 00:16:00.850
+Take what you will know that redefining energy to make it more appropriate for the scales in which we're
+
+224
+00:16:00.850 --> 00:16:01.870
+doing calculations.
+
+225
+00:16:03.740 --> 00:16:08.720
+And, yeah, a lot of textbooks really do not go through this exercise.
+
+226
+00:16:09.020 --> 00:16:13.640
+But I want you to understand that literally it's just we're saying, OK, we're dealing with charged
+
+227
+00:16:13.640 --> 00:16:14.150
+particles.
+
+228
+00:16:14.390 --> 00:16:19.610
+Let's figure out what the energy is to move it across a potential drop, something that we use on a
+
+229
+00:16:20.510 --> 00:16:21.350
+general basis.
+
+230
+00:16:21.710 --> 00:16:25.850
+And then we're just going to generalize it for our calculations of special relativity.
+
+231
+00:16:26.120 --> 00:16:27.170
+So that's electron volts.
+
+232
+00:16:27.390 --> 00:16:28.140
+That's what we're going to do.
+
+233
+00:16:28.160 --> 00:16:32.000
+We're going to explore a bit more this mass energy equivalence idea.
+
+234
+00:16:32.240 --> 00:16:39.980
+And I'm going to show you how mass yes, it's going to change really between being a new mass or manifestation
+
+235
+00:16:39.980 --> 00:16:42.620
+of energy to actually being release energy.
+
+236
+00:16:42.950 --> 00:16:50.090
+And in doing so, I hope you get more intuition, ballboy intuition with this idea and start feeling
+
+237
+00:16:50.090 --> 00:16:53.900
+more comfortable with this idea that Einstein introduced.
+
+238
+00:16:54.410 --> 00:16:55.130
+Stay tuned.

@@ -1,0 +1,339 @@
+WEBVTT
+
+WEBVTT
+
+00:00.300 --> 00:05.940
+Various concept checks sic says we have a battery here that's used to light up this bulb is shown and
+
+00:05.940 --> 00:09.620
+then an identical battery is connected on the other side and then you close the switch.
+
+00:09.630 --> 00:11.250
+Then what happens to the bulb.
+
+00:11.610 --> 00:16.470
+So before there is certainly a current over here and going through it I mean just write this out before
+
+00:16.470 --> 00:21.500
+closing the switch right before this battery year as a potential V.
+
+00:21.510 --> 00:22.680
+This here has a resistance.
+
+00:22.690 --> 00:29.460
+Are you plie liberal to that you're going to find there's a current going through it given by this.
+
+00:29.460 --> 00:29.720
+All right.
+
+00:29.730 --> 00:34.450
+So it has a certain brightness based on this current now after what happens.
+
+00:34.460 --> 00:40.380
+Well so after all we're going to close our switch make a connection over here again with an identical
+
+00:40.380 --> 00:40.910
+battery.
+
+00:40.920 --> 00:47.970
+So let's do this now let's try to apply a loop rule around this older loop and see what happens you're
+
+00:47.970 --> 00:50.440
+going to see there's a problem now in this problem.
+
+00:50.520 --> 00:53.520
+So let's go around the first thing I encounter is Plez V.
+
+00:53.550 --> 00:58.560
+When I go across the battery like this then I go around the outer loop and I cross this other battery
+
+00:58.650 --> 01:02.030
+right over here and now I get another plus V.
+
+01:02.250 --> 01:03.810
+And then I go back to where I started.
+
+01:03.810 --> 01:06.590
+So I say well yeah that has to be equal to zero.
+
+01:06.810 --> 01:11.200
+Then you do this and whoa whoa whoa whoa whoa what's going on here.
+
+01:11.340 --> 01:11.770
+Right.
+
+01:11.820 --> 01:18.120
+The only way you could satisfy this equation over here the way I did it is a V was equal to zero.
+
+01:18.120 --> 01:20.090
+However we know it's not equal to zero.
+
+01:20.160 --> 01:21.300
+So there's a problem here right.
+
+01:21.300 --> 01:29.220
+This is kind of impossible right because we know we have a battery that has a voltage yet when we apply
+
+01:29.220 --> 01:32.160
+Kirchhoff's loop will we get that the voltage has to be equal to zero.
+
+01:32.160 --> 01:37.110
+And the problem is this problem is kind of a trap.
+
+01:37.110 --> 01:44.820
+The only way you can have this is some problems you really cannot ignore the internal resistance of
+
+01:44.820 --> 01:48.000
+a battery and this is one of them.
+
+01:48.600 --> 01:54.210
+OK so we really have to include whenever you run into problems when you apply Kirchoff's laws and you
+
+01:54.210 --> 02:00.660
+see that the current sort of the voltage has to be zero it seems to be like an impossible situation.
+
+02:00.710 --> 02:05.490
+It's because you really have to include the internal resistance so let's do that now so I'm going to
+
+02:05.490 --> 02:08.580
+call that internal resistance little are OK.
+
+02:08.730 --> 02:12.340
+And now let's apply some of our rules so let's label some of the currents.
+
+02:12.600 --> 02:14.280
+We're going to keep the current down the center.
+
+02:14.280 --> 02:21.630
+We're going to still call that I call the current now and this branch and I call this one and then I'll
+
+02:21.630 --> 02:25.920
+call the current in this outer branch on the right hand side Aitu.
+
+02:25.980 --> 02:31.540
+Now we can apply Kirchhoff's rules and we'll get to a solution.
+
+02:31.710 --> 02:32.920
+So let's see what happens now.
+
+02:32.940 --> 02:36.560
+Here we have a junction so we can say whatever goes into the junction.
+
+02:36.870 --> 02:44.090
+We have a current one going into the junction plus current I going into the junction equals the Aitu
+
+02:44.100 --> 02:46.480
+there's one equation.
+
+02:46.860 --> 02:52.290
+Another equation I can get now is well you can apply loop rules right.
+
+02:52.290 --> 02:55.290
+We can apply loop rules let's go around kind of both sides.
+
+02:55.290 --> 02:59.260
+So let me start out here and go around.
+
+02:59.550 --> 03:01.670
+So first thing on counter-battery V.
+
+03:01.830 --> 03:08.140
+Now I get a voltage drop across this internal resistance that's given by this.
+
+03:08.460 --> 03:13.140
+And now I'm going across the resistor except I'm crossing it in the opposite direction of the current.
+
+03:13.230 --> 03:14.860
+So you have to have this.
+
+03:15.270 --> 03:17.430
+Then I go back to where I start.
+
+03:17.640 --> 03:20.700
+Now I have three unknown so I really need three equations over here.
+
+03:20.700 --> 03:26.460
+So again we're going to use another loop rule you can use another loop rule here say going around this
+
+03:26.460 --> 03:31.890
+right hand side you're going to get something similar you get v you get minus the different current.
+
+03:31.890 --> 03:33.380
+Now to our.
+
+03:33.720 --> 03:41.970
+And now I'm going through this middle resistance so I'm going to get minus i r equals zero.
+
+03:42.600 --> 03:46.390
+All right when I'm first going to do here let's manipulate equations 2 and 3.
+
+03:46.740 --> 03:53.790
+And what I'm going to do is I'm going to subtract them now I'm going to do equation 2 minus equation
+
+03:53.820 --> 03:54.320
+3.
+
+03:54.510 --> 03:58.490
+And if I do that you see the v's are going to cancel out here if I subtract them.
+
+03:58.560 --> 03:59.320
+So let's do that.
+
+03:59.310 --> 04:00.160
+So I get minus.
+
+04:00.180 --> 04:09.900
+I want our Plus I are then if I subtract this I end up switching the signs over here plus two are and
+
+04:09.900 --> 04:13.200
+plus I are equal to zero.
+
+04:13.200 --> 04:17.070
+Now you can group some of the terms together you know all the facts.
+
+04:17.100 --> 04:23.580
+The internal resistance for this term plus two are two are rather.
+
+04:23.580 --> 04:25.360
+That has to be equal to zero.
+
+04:25.700 --> 04:30.770
+Now I'm almost done see this term over here the second term is I to mine is one.
+
+04:30.930 --> 04:36.220
+So I eliminate that and I'm going to eliminate that using my junction rule.
+
+04:36.680 --> 04:45.590
+You can see here that I two minus one as to be equal to the current I OK.
+
+04:45.600 --> 04:47.040
+So substitute that in here.
+
+04:47.040 --> 04:47.870
+So what are you going to get.
+
+04:47.910 --> 04:58.580
+I multiply by that tiny little resistance internal resistance of each B plus two are equal zero.
+
+04:58.880 --> 05:05.050
+So if you factor out the IO which you end up getting is R plus two times are equals zero.
+
+05:05.490 --> 05:09.610
+So how is this possible what value of current with satisfied as it is.
+
+05:09.660 --> 05:14.440
+There's only one right these guys are finite values resistance.
+
+05:14.520 --> 05:20.260
+I'm the one who pick which lay ball by substituting two there and this is a property of the battery.
+
+05:20.280 --> 05:25.550
+So the only way I can satisfy this equation is if that current equals to zero.
+
+05:26.370 --> 05:32.250
+OK so we initially had some current flowing through it and now the current AI has to be able to zero
+
+05:33.450 --> 05:35.610
+if that current equals to zero.
+
+05:35.610 --> 05:38.660
+That means it's going to go out.
+
+05:38.730 --> 05:42.800
+So actually number one is the correct answer over here.
+
+05:42.810 --> 05:45.060
+Now let's think about what else happens now.
+
+05:45.090 --> 05:49.290
+So if the current goes to zero look at this term let's look at our junction table.
+
+05:49.450 --> 05:54.090
+All right if I equals to zero just get rid of it that means that the current and these the branches
+
+05:54.360 --> 05:56.560
+are going to be the same.
+
+05:56.610 --> 05:58.400
+I want Eagles to Itu
+
+06:01.050 --> 06:05.640
+and now I just want you to examine how what happens to the current and why you would probably never
+
+06:05.640 --> 06:07.860
+really wanted to do this in real life.
+
+06:07.860 --> 06:08.600
+Let's have a look at it.
+
+06:08.590 --> 06:11.550
+So we know the current Now there's nothing going it's not on branch.
+
+06:11.640 --> 06:15.740
+All that current's going around this outer loop like this.
+
+06:15.840 --> 06:18.930
+Let's find how much courage do we actually have.
+
+06:20.030 --> 06:20.450
+OK.
+
+06:20.600 --> 06:24.890
+Again we find that we can use any of these equations here you can use either this one or you can use
+
+06:24.890 --> 06:25.720
+this one.
+
+06:26.000 --> 06:34.250
+Let's use this equation to so equation 2 tells us that Bolch minus Iowa and our little are.
+
+06:34.660 --> 06:39.980
+And now I don't have to worry about the second terms and there's no current flowing through that middle
+
+06:40.020 --> 06:43.610
+resistor so that there has to be equal to zero.
+
+06:44.060 --> 06:48.770
+So what are we going to get at the current and those outer branches is the battery which whatever it
+
+06:48.770 --> 06:53.570
+is 9 volts 1.5 volts divided by the internal resistance.
+
+06:55.050 --> 06:56.700
+I see what happens.
+
+06:56.690 --> 06:59.690
+This is typically pretty small.
+
+06:59.930 --> 07:05.570
+Ideally you want to make the internal resistance as small as possible so you can imagine if I divide
+
+07:05.570 --> 07:13.400
+by a small number this current I y is going to be big OK.
+
+07:14.020 --> 07:19.120
+And actually that's why you really want to do that because you're going to generate quite a lot of current
+
+07:19.120 --> 07:21.940
+yet and Currence going to flow through that bulb.
+
+07:21.940 --> 07:29.410
+And if I generate a lot of current You have to have a voltage drop across these tiny resistors.
+
+07:29.440 --> 07:30.210
+All right.
+
+07:30.210 --> 07:32.410
+So that's it for or 6.
+
+07:32.410 --> 07:33.950
+A little bit trickier.
+
+07:33.970 --> 07:39.170
+Again I just want to point out that some that really do have to include internal resistance otherwise.
+
+07:39.290 --> 07:42.660
+And you can always set it to zero at the end and then kind of see what happens.
+
+07:42.670 --> 07:46.310
+But just think clued in then at the end set it to zero and take that limit.

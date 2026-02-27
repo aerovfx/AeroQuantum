@@ -1,0 +1,223 @@
+1
+00:00:00,330 --> 00:00:06,990
+So in the last video, we went through the problem and we pulled out this given information and then
+
+2
+00:00:06,990 --> 00:00:10,770
+we basically said, hey, and what Delta t the time elapsed.
+
+3
+00:00:10,900 --> 00:00:12,770
+This is the variable that we don't care about.
+
+4
+00:00:12,780 --> 00:00:17,420
+It didn't ask about this and it didn't actually give this to us in the given problem.
+
+5
+00:00:17,730 --> 00:00:18,630
+So what do we do?
+
+6
+00:00:18,690 --> 00:00:20,870
+We came over here to these formulas down over here.
+
+7
+00:00:20,970 --> 00:00:24,840
+We exclude these ones because it didn't have anything to do with average velocity.
+
+8
+00:00:25,060 --> 00:00:31,140
+I basically said what we're gonna do is scan through these formulas, look for our Delta teams and basically
+
+9
+00:00:31,140 --> 00:00:35,670
+say to ourselves, we're not going to be using these formulas that have the Delta T involved.
+
+10
+00:00:35,950 --> 00:00:37,250
+And this is what we did.
+
+11
+00:00:37,320 --> 00:00:37,740
+Right.
+
+12
+00:00:39,030 --> 00:00:41,700
+So what was the reason why we did this?
+
+13
+00:00:42,520 --> 00:00:44,020
+Why did we do this?
+
+14
+00:00:44,790 --> 00:00:50,400
+Now, I'm just getting a little sidestep over here for a quick second and show you this.
+
+15
+00:00:50,760 --> 00:00:57,420
+I'm going to give you the instruction to solve for X in these two equations.
+
+16
+00:00:57,660 --> 00:01:01,530
+OK, so once again, we do have to two terms over here.
+
+17
+00:01:01,530 --> 00:01:03,060
+We have the five X plus two.
+
+18
+00:01:03,060 --> 00:01:05,940
+Once again, terms are separated by plus and minus signs.
+
+19
+00:01:06,030 --> 00:01:08,130
+How do we go about Iceland X?
+
+20
+00:01:08,160 --> 00:01:11,340
+Well, first, let's get rid of this term over here of plus two.
+
+21
+00:01:11,490 --> 00:01:12,830
+How do we get rid of a plus two?
+
+22
+00:01:12,930 --> 00:01:19,980
+Let's subtract two on each side of the equation, 17 minus two, which gives us 15 and that's equal
+
+23
+00:01:19,980 --> 00:01:21,130
+to five X.
+
+24
+00:01:21,540 --> 00:01:25,440
+Now what we have is a five being multiplied by X.
+
+25
+00:01:25,560 --> 00:01:27,730
+How do we get rid of a multiplication of five?
+
+26
+00:01:27,750 --> 00:01:35,310
+We divide both sides by five and we simply get three is equal to X and we will get value for our X.
+
+27
+00:01:35,670 --> 00:01:36,740
+Now let's do this.
+
+28
+00:01:37,290 --> 00:01:38,850
+I'm just going to do the same thing here.
+
+29
+00:01:45,540 --> 00:01:47,710
+Now, let's get a value for X.
+
+30
+00:01:48,660 --> 00:01:55,480
+Well, wait a minute, I could solve for X, but will this result in a value for X?
+
+31
+00:01:56,100 --> 00:01:57,980
+Hmm, I don't think so.
+
+32
+00:01:57,980 --> 00:01:58,440
+All right.
+
+33
+00:01:58,440 --> 00:02:02,430
+Because now we have the two terms here, once again, separated by the plus.
+
+34
+00:02:02,430 --> 00:02:07,830
+And my one we we could subtract to Y on both sides of the equation.
+
+35
+00:02:10,110 --> 00:02:13,780
+And then divide by our five oh.
+
+36
+00:02:16,730 --> 00:02:19,220
+And this is what's equal to X.
+
+37
+00:02:19,790 --> 00:02:24,290
+Wait a minute, so if we have here our two unknown's.
+
+38
+00:02:25,620 --> 00:02:30,000
+Will we be able to get a value for X no, right, because there's two unknowns here.
+
+39
+00:02:30,330 --> 00:02:31,050
+Hey, wait a minute.
+
+40
+00:02:31,060 --> 00:02:38,160
+So this is the reason why we were crossing out our delta tears because we have an unknown right here
+
+41
+00:02:38,370 --> 00:02:39,620
+and we have an unknown right here.
+
+42
+00:02:39,750 --> 00:02:46,830
+And if I want to solve for this and I don't know this value where I be able to get a value now.
+
+43
+00:02:48,250 --> 00:02:49,840
+So let's come through here once again.
+
+44
+00:02:51,210 --> 00:02:58,680
+I want to sell for this Vieth, this equation here, it has to be both, but it also has Delta T and
+
+45
+00:02:58,680 --> 00:03:04,170
+that's the reason why Beesly said, hey, let's cancel this one out of this equation over here.
+
+46
+00:03:04,920 --> 00:03:05,600
+Well, wait a minute.
+
+47
+00:03:05,610 --> 00:03:06,660
+It doesn't even have a V.
+
+48
+00:03:06,990 --> 00:03:10,610
+So how would I be able to go about getting a valid value for VIth?
+
+49
+00:03:10,620 --> 00:03:11,510
+I wouldn't be able to.
+
+50
+00:03:11,730 --> 00:03:14,350
+Obviously this one over here, it's got Veth.
+
+51
+00:03:15,630 --> 00:03:21,180
+And it doesn't have a Delta T Oh, wait a minute, that's the equation that we did use.
+
+52
+00:03:21,410 --> 00:03:29,250
+OK, so this one over here, it's got a V and a Delta T, we can't get a value once again because it
+
+53
+00:03:29,250 --> 00:03:35,550
+simply has the Delta T, we're going across that R Delta T is over here and these are the, the formulas
+
+54
+00:03:35,550 --> 00:03:37,500
+that we can't use this one up here.
+
+55
+00:03:37,500 --> 00:03:44,940
+It doesn't have a Delta t it's got to be if we could solve this and get a value and that's the process
+
+56
+00:03:44,940 --> 00:03:48,150
+and that's the reason why that why we do that.

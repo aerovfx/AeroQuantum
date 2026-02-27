@@ -1,0 +1,154 @@
+WEBVTT
+
+00:00.420 --> 00:03.110
+Are in this section we're going to look at energy and electric circuits.
+
+00:03.180 --> 00:08.550
+More specifically we're going to look at things like power power being supplied by batteries power being
+
+00:08.550 --> 00:11.430
+dissipated by resistors.
+
+00:11.430 --> 00:16.620
+I'll talk about Electromotive forces and batteries and their internal resistance and everything that
+
+00:16.620 --> 00:18.690
+I discuss in this chapter.
+
+00:18.780 --> 00:22.710
+The currents are going to be constant.
+
+00:23.550 --> 00:29.010
+So in order for there to be a constant current Sometimes you call this a steady state current in order
+
+00:29.010 --> 00:30.960
+for there to be a steady state current.
+
+00:30.960 --> 00:39.090
+You can imagine here I have a battery and if I want a steady state current regardless of what I have
+
+00:39.420 --> 00:42.460
+I need to have a closed loop like this.
+
+00:42.540 --> 00:47.270
+This is going to be a requirement for there to be a constant current.
+
+00:47.310 --> 00:52.000
+So you need to have close loops if the loop is not closed.
+
+00:52.230 --> 00:56.760
+Well what happens if you imagine just a piece of conductor just like a wire.
+
+00:56.790 --> 01:00.960
+Here is a piece of wire which doesn't form a closed loop.
+
+01:01.530 --> 01:09.210
+Now you can imagine connecting this to or producing an electric field inside this wire.
+
+01:09.210 --> 01:14.640
+If I do that well guess what I'm going to produce a current there's going to be a current in the direction
+
+01:14.640 --> 01:17.080
+of the electric field that we saw from Ohm's law.
+
+01:17.430 --> 01:17.580
+Right.
+
+01:17.580 --> 01:25.110
+The electric field is directly proportional to the current density in that conductor.
+
+01:25.110 --> 01:30.780
+Now what happens however is if it doesn't form a closed loop Well you're a Benci going to get a build
+
+01:30.780 --> 01:33.220
+up of charges on the sides.
+
+01:33.660 --> 01:38.010
+So you have positive charges build up on the one side you'll have negative charges build up on the other
+
+01:38.010 --> 01:38.740
+side.
+
+01:38.790 --> 01:43.280
+And while these charges they also produce an electric field.
+
+01:43.280 --> 01:47.610
+So read at the building right at the beginning the electric fuel produced by those charges is small
+
+01:47.610 --> 01:53.040
+because there's not a lot of them there as a function of time that electric field gets bigger.
+
+01:53.280 --> 01:54.890
+And as if I'm going the time it gets even bigger.
+
+01:54.890 --> 02:01.590
+Up until the electric fuel produced by these charges at the end is equal and opposite to the electric
+
+02:01.590 --> 02:06.180
+fuel produce you know that set up the current to begin with.
+
+02:06.180 --> 02:10.220
+So once the total electric field which is the sum of both of those equals zero.
+
+02:10.340 --> 02:11.900
+There's no more current.
+
+02:12.310 --> 02:12.900
+OK.
+
+02:13.110 --> 02:17.700
+So what we want is we don't want any buildup of charges like this if you get build up of charges your
+
+02:17.700 --> 02:20.940
+current going to go to zero and it's not going to be constant.
+
+02:21.630 --> 02:28.410
+So what we're going to need then is we're going to need something that keeps on pushing current and
+
+02:28.410 --> 02:31.680
+that something is basically effectively a pump.
+
+02:31.890 --> 02:37.290
+Well we're going to need now is a pump and it's kind of analogous to kind of water in this water fountain
+
+02:37.290 --> 02:38.580
+over here.
+
+02:38.710 --> 02:44.040
+Right what the water does or what the pump does is it pushes water up to the top and then water kind
+
+02:44.040 --> 02:48.940
+of trickles down through holes and eventually kind of works its way back down.
+
+02:49.410 --> 02:54.210
+But without the pump right the water is just simply going to fall down and that's it is not going to
+
+02:54.210 --> 02:55.310
+go back up.
+
+02:55.650 --> 03:02.150
+So that current that flow of water is basically going to stop if there's no pump in the system.
+
+03:02.190 --> 03:06.420
+So our batteries are basically simply going to act like pumps.
+
+03:06.700 --> 03:14.800
+They are going to do work on charges and then charges are basically going to be allowed to fall down.
+
+03:15.030 --> 03:18.030
+And that's what an electric current is.
+
+03:18.270 --> 03:23.010
+Basically this water coming back down and then the pump is the battery that's going to be driving it
+
+03:23.010 --> 03:24.450
+back up.
+
+03:24.480 --> 03:26.640
+We'll look back at this water analogy in a minute.
+
+03:26.640 --> 03:32.340
+But without the pump the water would just fall to the bottom and stay there without the battery the
+
+03:32.340 --> 03:35.620
+charges will not move because there is no electric field inside.

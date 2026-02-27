@@ -1,0 +1,372 @@
+WEBVTT
+
+WEBVTT
+
+00:00.510 --> 00:04.710
+All right I want to spend just a couple of minutes here just to highlight some important points about
+
+00:04.710 --> 00:08.190
+parallel circuits and Kirchoff's voltage law.
+
+00:08.190 --> 00:13.380
+Remember our voltage law was if you add up all of the potential differences across the elements when
+
+00:13.380 --> 00:17.560
+you perform a closed loop those must sum to zero.
+
+00:17.910 --> 00:21.870
+So there's kind of three important aspects that come out of this.
+
+00:21.960 --> 00:30.900
+It means number one that if you do this it means that the voltage across any branch between two points.
+
+00:30.910 --> 00:34.450
+So for example I have points and be here.
+
+00:34.460 --> 00:37.800
+There's a lot of different ways I can go from point A to Point B.
+
+00:37.930 --> 00:43.030
+I can go through the battery this way I can go just across the resistance through the three ohm resistor
+
+00:43.300 --> 00:48.420
+or through the six ohm resistor it means this law here will look at this in a minute.
+
+00:48.430 --> 00:53.060
+It means that the voltage difference between those two points it doesn't matter how you get from 8 to
+
+00:53.070 --> 00:56.950
+be the voltage difference has to be the same OK.
+
+00:57.030 --> 01:01.250
+Another consequence of this is if the voltage difference is the same between each one.
+
+01:01.770 --> 01:03.720
+But they have different resistances right.
+
+01:03.720 --> 01:05.610
+Look at this branch here is a six ohm resistance.
+
+01:05.610 --> 01:06.900
+This one has a three.
+
+01:06.900 --> 01:10.240
+This one here has an equivalent of a three ohm resistance.
+
+01:10.290 --> 01:18.190
+So if the voltage difference between these two points is going to be the same but the value of the resistance
+
+01:18.190 --> 01:18.990
+is different.
+
+01:19.090 --> 01:24.850
+It means that branches that have a large resistance are going to have a small current and that makes
+
+01:24.850 --> 01:25.150
+sense.
+
+01:25.150 --> 01:27.850
+That's just a consequence of Ohm's law.
+
+01:29.130 --> 01:34.290
+And the other consequence is well what happens now if the total resistance is the same if the total
+
+01:34.290 --> 01:35.640
+resistance is the same.
+
+01:35.640 --> 01:41.010
+You expect that the current to be the same because the voltage drop across going from 8 to B has to
+
+01:41.010 --> 01:43.140
+be the same across the branch.
+
+01:43.140 --> 01:44.980
+So let's go ahead and show that now.
+
+01:45.000 --> 01:50.580
+So what I'm going to do is let's again just label some current values on label total current.
+
+01:50.590 --> 01:51.840
+I like this.
+
+01:51.830 --> 01:55.460
+Now let's call this branch number one so it's going to have a current one.
+
+01:55.530 --> 02:04.030
+This one here is going to have a current two and this one here is going to have a current i3.
+
+02:04.070 --> 02:04.430
+All right.
+
+02:04.430 --> 02:10.270
+So if you are going to apply the loop rule Well it doesn't matter which one.
+
+02:10.280 --> 02:11.680
+Let me say I start down over here.
+
+02:11.690 --> 02:16.510
+Let's call this point C and I'm going to go around and do a clockwise loop.
+
+02:17.120 --> 02:21.340
+So let's do a clockwise loop around the lower branch here.
+
+02:21.380 --> 02:27.350
+First thing you would encounter would be that 12 volt batteries you get plus 12 and then you get a voltage
+
+02:27.350 --> 02:31.660
+drop across the one arm resistance and crossing it in the direction of the current.
+
+02:32.150 --> 02:38.210
+And then also right after that I'd get another voltage drop across this tumor's is actually what you
+
+02:38.210 --> 02:40.800
+would get here would be a voltage drop.
+
+02:41.480 --> 02:48.590
+Look something like this so one multiplied by the current one and mine is two multiplied by the current
+
+02:48.860 --> 02:49.820
+one.
+
+02:50.420 --> 02:52.390
+And that there would have to be equal to zero.
+
+02:52.850 --> 02:57.710
+So if you rearrange this equation bring the negative signs on the other side and you can combine both
+
+02:57.710 --> 03:03.300
+of those but you're going to get 12 over here has to be equal to what are we going to get.
+
+03:03.320 --> 03:10.390
+That's three multiplied by one so that's really the equation for this lower branch.
+
+03:10.390 --> 03:14.410
+So let's repeat now for the center branch again the battery term looks the same.
+
+03:14.410 --> 03:15.490
+That's plus 12.
+
+03:15.850 --> 03:20.940
+And now I'm going to get a voltage drop across that 3 ohm resistance.
+
+03:21.250 --> 03:28.210
+That's minus three multiplied by the current two and that equals to zero again bringing the negative
+
+03:28.210 --> 03:29.520
+sign on the other side.
+
+03:29.560 --> 03:34.630
+What you get here is 12 equals 2 3 2.
+
+03:35.010 --> 03:36.140
+There is a equation too.
+
+03:36.450 --> 03:39.010
+And the last one.
+
+03:39.010 --> 03:46.510
+Same thing except this time it's minus six multiplied by the current three flowing through it.
+
+03:46.540 --> 03:47.250
+OK.
+
+03:47.640 --> 03:49.500
+I'll bring the negative sign on the other side.
+
+03:49.510 --> 03:53.130
+So we get six i3 All right.
+
+03:53.130 --> 03:56.360
+So let's look at our three equations over here.
+
+03:56.700 --> 03:58.300
+The box them up here so they just.
+
+03:58.380 --> 03:59.370
+Nice and clear.
+
+04:01.160 --> 04:09.060
+There one there's another one and there's another one you see they're all equal to 12.
+
+04:09.070 --> 04:14.010
+So all of these terms on this side on the right hand side must be equal to each other.
+
+04:14.200 --> 04:20.660
+So we must have three times either one equals two three times I two.
+
+04:21.310 --> 04:24.750
+Well what can we conclude from this equation.
+
+04:25.000 --> 04:27.010
+We can conclude we can cancel out those threes.
+
+04:27.010 --> 04:28.060
+They're the same.
+
+04:28.210 --> 04:33.050
+So you conclude right away that the current one must be equal to the current Aitu.
+
+04:33.400 --> 04:36.020
+That's very important so why would their currents be the same.
+
+04:36.310 --> 04:41.620
+Well the currents would be the same because this is due to the third point over here because the total
+
+04:41.620 --> 04:47.470
+resistance here right the total resistance here is three ohms the total resistance of the center branch
+
+04:47.470 --> 04:52.870
+is also three ohms so we see that the resistance is the same for each branch here which means that the
+
+04:52.870 --> 04:55.440
+current must be the same.
+
+04:55.660 --> 04:58.330
+So let's have a look now at the other equation.
+
+04:58.330 --> 05:00.940
+Third one the third one now we have
+
+05:05.760 --> 05:10.190
+six i3 must be equal to.
+
+05:10.320 --> 05:11.750
+Let's just compare to the first one.
+
+05:11.760 --> 05:12.410
+3.
+
+05:12.480 --> 05:13.610
+1.
+
+05:14.400 --> 05:15.960
+Well what can we cancel out.
+
+05:15.960 --> 05:18.800
+Here we can factor out a factor of three here.
+
+05:18.870 --> 05:21.230
+If I do that I'm going to be left with this.
+
+05:21.300 --> 05:26.030
+So at the end the relationship I get between the current i 1 and I 3 is this one.
+
+05:26.090 --> 05:35.900
+It says that the current i3 are two times the current i3 must be equal to the current one.
+
+05:36.510 --> 05:42.050
+So I three is simply I 1 divided by 2.
+
+05:42.630 --> 05:47.940
+That's another important expression here that we get.
+
+05:48.060 --> 05:55.110
+So it says that the current in this upper branch whatever it is it has to be half of the current in
+
+05:55.170 --> 05:59.790
+branch number 1 and actually also half of the current and branch number two.
+
+05:59.790 --> 06:01.450
+And the reason is half.
+
+06:01.530 --> 06:04.800
+Again this comes down to Point number two right.
+
+06:04.800 --> 06:10.630
+You get less current flowing in branches that have a higher resistance.
+
+06:10.640 --> 06:11.590
+OK.
+
+06:11.980 --> 06:14.260
+Again we're dealing with a parallel circuit.
+
+06:14.280 --> 06:18.310
+You must have the voltage drop across each branch equal to the same.
+
+06:18.420 --> 06:24.750
+And in this case it must also always be equal to 12 volts because that is the drop of the voltage.
+
+06:24.750 --> 06:31.020
+If I go along this bottom branch with the battery OK we could have got these relationships directly
+
+06:31.470 --> 06:36.480
+if instead of doing a loop starting at point C and going around if I would have done a loop starting
+
+06:36.480 --> 06:43.350
+at point A and imagine going around counter-clockwise I would have gotten to this first equation over
+
+06:43.350 --> 06:44.240
+here.
+
+06:44.310 --> 06:45.420
+Let's go ahead and do that.
+
+06:45.510 --> 06:46.740
+Just as a practice.
+
+06:46.980 --> 06:48.800
+So I'm going to go from A to B.
+
+06:49.260 --> 06:51.640
+Let's call it D and E.
+
+06:51.960 --> 06:57.040
+So what if I would go around this loop over here and do a Kirchoff's voltage law.
+
+06:57.600 --> 06:59.710
+So the first two terms I would get.
+
+07:00.270 --> 07:05.820
+Well again I get the voltage drop terms right here I get minus one.
+
+07:06.050 --> 07:08.630
+That's the voltage multiplied by the current.
+
+07:08.670 --> 07:18.580
+I want get a voltage drop across the 2 ohm resistor minus two times I won and now I've decided to go
+
+07:18.580 --> 07:27.070
+to Point B and then go through the 3 ohm resistor except in this case when I go through the 3 ohm resistor
+
+07:27.070 --> 07:29.970
+I'm going in the opposite direction of the current.
+
+07:29.980 --> 07:33.540
+So that means that there has to be a voltage gain given by three times.
+
+07:33.550 --> 07:36.800
+I too and now I go back to Point A.
+
+07:36.970 --> 07:39.650
+I sum up all the voltages those must be able to zero.
+
+07:40.160 --> 07:42.650
+And you see you can group both of those terms together.
+
+07:43.030 --> 07:45.830
+You're going to get minus three.
+
+07:46.240 --> 07:50.190
+One plus three Aitu.
+
+07:50.320 --> 07:51.890
+At the end we end up getting.
+
+07:52.000 --> 07:54.610
+And this must be equal to zero.
+
+07:54.610 --> 07:56.010
+So look at this equation here.
+
+07:56.050 --> 07:58.730
+You could factor out those threes.
+
+07:59.090 --> 08:05.540
+You can bring one on the other side and you automatically see that one must be equal to the current.
+
+08:05.640 --> 08:13.170
+Two because they have the same resistance and so that's kind of an important point to highlight that
+
+08:13.170 --> 08:15.700
+comes out of this Kirchoff's voltage law.

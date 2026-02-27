@@ -1,0 +1,262 @@
+WEBVTT
+
+00:00.580 --> 00:05.440
+All right let's look at the definition of a current here for there to be current.
+
+00:05.460 --> 00:13.110
+We have to have charges that are moving or moving charges.
+
+00:13.160 --> 00:15.980
+Now let's consider this section over here.
+
+00:15.980 --> 00:21.150
+I'm going to define N a little and this is often done in a lot of books here.
+
+00:21.230 --> 00:24.130
+This is defined as the number of charges
+
+00:27.640 --> 00:29.530
+per unit volume.
+
+00:29.560 --> 00:34.350
+They call this the charge density.
+
+00:34.520 --> 00:41.370
+It's kind of like a density but it's not mass density It's charge density.
+
+00:41.700 --> 00:46.250
+So imagine each one of these are kind of either electrons or doesn't matter.
+
+00:46.260 --> 00:48.250
+It could be positive charges.
+
+00:48.330 --> 00:50.950
+Let's just set them up as electrons for example.
+
+00:51.210 --> 00:51.770
+OK.
+
+00:51.780 --> 00:55.480
+And this material here has a particular charge density.
+
+00:55.530 --> 01:01.650
+So what if I wanted to look at a certain section a certain section of material that has a cross section
+
+01:01.680 --> 01:02.330
+A.
+
+01:02.570 --> 01:08.170
+And let's consider a length here let's call it delta x.
+
+01:08.270 --> 01:13.070
+So this material here has a certain little end which is a certain charge density.
+
+01:13.100 --> 01:17.220
+How would I calculate the total charge here in this in this volume.
+
+01:18.420 --> 01:20.520
+Well imagine if you wanted to know the total charge.
+
+01:20.550 --> 01:26.080
+If I do it from just dimensional analysis I could do the number of charges
+
+01:29.840 --> 01:33.340
+per unit volume.
+
+01:33.350 --> 01:39.270
+Now I want to get rid of volume so I also need to multiply by the volume or volume.
+
+01:39.270 --> 01:42.100
+Am I looking at the volume of the material involved.
+
+01:42.510 --> 01:46.040
+Now again I need to get charge at the end which has to be in cool ohms.
+
+01:46.350 --> 01:52.140
+So I also need to multiply need to get rid of number of charges and I need to introduce what is the
+
+01:52.140 --> 01:56.110
+charge of each of those charges.
+
+01:56.430 --> 02:02.820
+So what is the number of our what is the Coolum per charge.
+
+02:02.830 --> 02:09.220
+So the way this looks like in terms of an equation now is the first term is the charge density at little
+
+02:09.260 --> 02:16.130
+n the next term is the volume so its the volume of this particular section while its the cross section
+
+02:16.130 --> 02:21.070
+which is a multiplied by the length rates the volume of the cylinder.
+
+02:21.080 --> 02:29.610
+So that's delta x That's our middle term and the last term is what is the charge of each one of those
+
+02:29.610 --> 02:30.680
+guys right.
+
+02:30.720 --> 02:36.600
+The number of cool homes pre-charge that's simply my elementary charge.
+
+02:36.660 --> 02:41.990
+And it could be positive or negative again let's just said it is as positive in this case.
+
+02:42.270 --> 02:44.930
+I'm just looking for the magnitude here of the total charge.
+
+02:44.970 --> 02:47.940
+I don't care whether it's positive or negative.
+
+02:47.940 --> 02:48.650
+All right.
+
+02:48.750 --> 02:58.060
+Now let's imagine in some unit time it's called the unit time delta x that all of these charges here
+
+02:58.390 --> 03:00.700
+flow past this cross section.
+
+03:00.820 --> 03:01.390
+Right.
+
+03:01.450 --> 03:07.390
+I'm standing over here and I count that all of these charges in this volume will effectively move through
+
+03:07.390 --> 03:09.080
+that cross section.
+
+03:09.340 --> 03:16.510
+If I have moving charges I'm going to have an electric current and that electric current is I this is
+
+03:16.510 --> 03:24.620
+the definition of the current and is basically simply looking at the total amount of charge Delta Q
+
+03:24.860 --> 03:25.700
+or the total charge.
+
+03:25.700 --> 03:33.370
+Q that goes by per unit time we see right away that the units of the electric current are going to be
+
+03:33.370 --> 03:39.910
+measured and cool ohms per unit time which is seconds to put a square bracket around there to remind
+
+03:39.910 --> 03:46.920
+me that these are the units and Esai units we call this an amp.
+
+03:47.230 --> 03:54.510
+Sometimes you just use the short form just a just to denote a cool on second.
+
+03:54.520 --> 03:55.060
+All right.
+
+03:55.390 --> 04:00.930
+So we know the total amount of charge in this volume here is Q Which Ive got written over here.
+
+04:01.210 --> 04:05.850
+What if I now say that all of these charges move past this area.
+
+04:06.070 --> 04:09.220
+What would be the electric current in this case.
+
+04:09.220 --> 04:14.710
+Well again if I'm just going to apply the definition of the electric current so the current Now in this
+
+04:14.710 --> 04:20.370
+case is simply going to be how much charge goes by this amount of charge that goes by.
+
+04:20.560 --> 04:31.420
+So its an a delta x the charge of each of those guys divided by the amount of time.
+
+04:31.460 --> 04:36.170
+Now if we look at some of the constant terms that I can factor it out let me kind of put some brackets
+
+04:36.170 --> 04:38.270
+here just to clean this up a little bit.
+
+04:38.780 --> 04:42.290
+Let's look at some of the constant terms and maybe we could pull some of those out.
+
+04:42.290 --> 04:47.000
+So and is a charge density that is a constant I go pull pull it out.
+
+04:47.170 --> 04:50.360
+Else the charge of each electron move that outside.
+
+04:50.360 --> 04:56.150
+Here is the cross-sectional area if I'm looking at a piece of wire for example.
+
+04:56.240 --> 05:00.500
+Typically the cross section is more or less constant in the last term over here.
+
+05:00.500 --> 05:08.870
+If you look at a delta x divided by Delta T delta x divided by Delta T if you remember what is the definition
+
+05:08.870 --> 05:09.780
+of that.
+
+05:10.160 --> 05:11.710
+That is a velocity.
+
+05:11.710 --> 05:12.020
+All right.
+
+05:12.020 --> 05:13.860
+That has the units of velocity.
+
+05:14.150 --> 05:17.280
+Thats the definition of my velocity.
+
+05:17.560 --> 05:21.630
+It kind of depends on how fast those charters are moving that makes sense right.
+
+05:21.650 --> 05:26.600
+If the velocity is fast youre going to have more charge thats going to flow by that.
+
+05:26.600 --> 05:28.860
+This guy's going to count.
+
+05:28.910 --> 05:35.270
+So at the end my electric current you can ride it out from a microscopic point of view as this charge
+
+05:35.270 --> 05:44.090
+density and the charge of each electron multiplied by the cross-sectional area and Delta X over delta
+
+05:44.090 --> 05:50.560
+t they call this the velocity and we usually put a little D underneath the little d underneath refers
+
+05:50.570 --> 05:53.570
+to the drift velocity they call this the drift velocity.
+
+05:53.570 --> 05:55.400
+I'll explain this in just a second.
+
+05:58.980 --> 06:03.990
+But overall this equation should make sense right now and we've kind of done it from a using dimensional
+
+06:03.990 --> 06:06.640
+analysis in order to get to this final equation.
+
+06:06.900 --> 06:09.210
+But hopefully these terms make sense right.
+
+06:10.780 --> 06:16.390
+Clearly if you have more charges per unit volume you're going to have a larger current right.
+
+06:16.450 --> 06:22.180
+If each of those individual charges in how I've looked at electrons but if each one would have a bigger
+
+06:22.180 --> 06:26.040
+unit then that would also lead to a bigger current If there is a bigger cross-section.
+
+06:26.080 --> 06:31.720
+There are more charges that are going past this cross-sectional area and the faster they move the more
+
+06:31.720 --> 06:33.260
+current I'm going to get.
+
+06:34.700 --> 06:35.120
+All right.
+
+06:35.150 --> 06:38.510
+Now let's go ahead and look a little bit more closely at what this draft philosophy is.

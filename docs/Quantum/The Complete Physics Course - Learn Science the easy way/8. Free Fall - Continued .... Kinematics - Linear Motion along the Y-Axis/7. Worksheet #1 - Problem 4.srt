@@ -1,0 +1,227 @@
+1
+00:00:00,120 --> 00:00:06,480
+So let's get into problem number for a student drops a ball from a window three point five meters above
+
+2
+00:00:06,480 --> 00:00:12,180
+the sidewalk, how fast and how fast is it moving when it hits the sidewalk?
+
+3
+00:00:12,570 --> 00:00:17,670
+OK, you could you could feel free to pause this video, try this problem on your own.
+
+4
+00:00:17,890 --> 00:00:22,580
+Don't worry if you feel like, hey, and what we're down to the last problem, this is all the practice
+
+5
+00:00:22,590 --> 00:00:23,730
+you're give me now.
+
+6
+00:00:23,730 --> 00:00:26,510
+I have more practice problems for you.
+
+7
+00:00:26,520 --> 00:00:30,660
+So don't think that you're being cheated out on any sort of practice.
+
+8
+00:00:30,780 --> 00:00:32,180
+I will have that for yourself.
+
+9
+00:00:32,760 --> 00:00:33,090
+All right.
+
+10
+00:00:33,090 --> 00:00:39,650
+So post this video, try it on your own, unpause the video and let's do it together, OK?
+
+11
+00:00:39,780 --> 00:00:46,260
+So once again, that student is dropping a ball from a window three point five meters high.
+
+12
+00:00:46,890 --> 00:00:48,010
+How fast is it moving?
+
+13
+00:00:48,030 --> 00:00:50,910
+OK, so where the ball?
+
+14
+00:00:54,050 --> 00:00:55,620
+When it hits the sidewalk.
+
+15
+00:00:55,640 --> 00:01:00,650
+OK, so our indicator that it's actually going to be hitting the ground, good.
+
+16
+00:01:05,070 --> 00:01:07,830
+OK, so what's our initial height of the object?
+
+17
+00:01:11,410 --> 00:01:12,430
+What's the final flight?
+
+18
+00:01:16,330 --> 00:01:17,740
+What's this right this in?
+
+19
+00:01:24,220 --> 00:01:25,420
+What's our initial velocity?
+
+20
+00:01:25,450 --> 00:01:29,080
+Are we throwing the ball up or we throw it down or are we just letting go?
+
+21
+00:01:33,890 --> 00:01:37,870
+Are we trying to find out how fast is the ball moving when it hits the sidewalk?
+
+22
+00:01:38,050 --> 00:01:43,810
+OK, so this is what we're going to be looking for and what is our acceleration due to gravity?
+
+23
+00:01:50,420 --> 00:01:53,060
+And does it say anything about time?
+
+24
+00:01:54,020 --> 00:01:56,140
+Nope, and it's not I mean, asking about time.
+
+25
+00:01:56,240 --> 00:01:59,090
+So this is going to be the variable that we don't care about.
+
+26
+00:01:59,100 --> 00:02:04,820
+So when we come over here, we're going to be looking for our Delta T. and saying, hey, look, I don't
+
+27
+00:02:04,820 --> 00:02:08,510
+care about you coming over here.
+
+28
+00:02:09,920 --> 00:02:10,850
+There it is right there.
+
+29
+00:02:10,850 --> 00:02:12,190
+I don't care about you.
+
+30
+00:02:13,430 --> 00:02:14,810
+What's your skin?
+
+31
+00:02:14,970 --> 00:02:16,070
+We got Delta T. right there.
+
+32
+00:02:16,100 --> 00:02:18,200
+And we have Delta T over here as well.
+
+33
+00:02:18,200 --> 00:02:19,460
+So we don't care about you.
+
+34
+00:02:21,450 --> 00:02:26,790
+And we don't have Delta team this formula, so we could actually be using this to find our final velocity
+
+35
+00:02:27,030 --> 00:02:32,600
+and which is nice is once again final velocity is on the left hand side of the equation by itself already.
+
+36
+00:02:32,610 --> 00:02:36,080
+So that's going to be super simple for us to calculate the S1.
+
+37
+00:02:43,500 --> 00:02:49,410
+OK, once again, make sure that you wrote down the formula correct, and I think that we got that looking
+
+38
+00:02:49,410 --> 00:02:49,740
+good.
+
+39
+00:02:50,400 --> 00:02:52,760
+OK, so let's plug in right now.
+
+40
+00:03:09,600 --> 00:03:17,320
+OK, this isn't going to do anything for us, this isn't going to be F squared is equal to.
+
+41
+00:03:17,610 --> 00:03:25,040
+So we have a positive two times and negative nine point eight times, a negative three point five.
+
+42
+00:03:25,350 --> 00:03:26,670
+So we have these two negatives.
+
+43
+00:03:28,380 --> 00:03:29,780
+They're being multiplied to each other.
+
+44
+00:03:29,790 --> 00:03:33,900
+So we're going to expect a positive value right now, OK?
+
+45
+00:03:33,930 --> 00:03:36,150
+And that's what the F squared is equal to.
+
+46
+00:03:36,150 --> 00:03:37,710
+We don't care what the F squared is equal to.
+
+47
+00:03:37,770 --> 00:03:38,130
+We want.
+
+48
+00:03:38,760 --> 00:03:40,160
+So how do we get rid of the square?
+
+49
+00:03:40,170 --> 00:03:42,780
+Do we take the square root of both sides of the equation?
+
+50
+00:03:42,980 --> 00:03:43,280
+Yeah.
+
+51
+00:03:43,320 --> 00:03:45,700
+Eight point two eight.
+
+52
+00:03:45,750 --> 00:03:47,730
+I'm just going to say eight point to eight.
+
+53
+00:03:49,510 --> 00:03:51,100
+Meters per second.
+
+54
+00:03:51,130 --> 00:03:53,760
+Oh, wait a minute, though, what is the object doing?
+
+55
+00:03:53,770 --> 00:03:54,880
+It's falling.
+
+56
+00:03:56,780 --> 00:04:02,600
+Downwards, right, so let's indicate that with a negative sign right there, and that is our final
+
+57
+00:04:02,600 --> 00:04:03,190
+answer.

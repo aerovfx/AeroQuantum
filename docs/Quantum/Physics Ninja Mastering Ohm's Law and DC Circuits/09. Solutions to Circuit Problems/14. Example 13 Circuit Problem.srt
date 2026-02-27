@@ -1,0 +1,277 @@
+WEBVTT
+
+00:00.320 --> 00:05.690
+All right another sort of problem find equivalent resistance between points A and B.
+
+00:06.010 --> 00:08.160
+Let's go ahead and draw that point a
+
+00:10.960 --> 00:13.240
+simplify what's at the top.
+
+00:13.570 --> 00:17.120
+These are in series with each other we have a 12 and a 6.
+
+00:17.380 --> 00:23.260
+I'm just going to write it like this at the end 18 at the top is point B.
+
+00:23.260 --> 00:23.490
+All right.
+
+00:23.490 --> 00:25.040
+How can I simplify the bottom here.
+
+00:25.060 --> 00:30.430
+Well we're going to have this let's just leave the six here the way it is.
+
+00:30.670 --> 00:32.980
+How can I simplify both of these sixes.
+
+00:32.980 --> 00:35.780
+Now these are parallel to each other.
+
+00:35.830 --> 00:40.300
+What do you do if you multiply them 36 divided by 12.
+
+00:40.480 --> 00:42.740
+Multiply them divided by the sum.
+
+00:42.860 --> 00:44.250
+That gives me three.
+
+00:44.890 --> 00:46.640
+So you get three.
+
+00:46.720 --> 00:47.980
+So at the end what do we get.
+
+00:47.980 --> 00:50.700
+Both of these can be combined here.
+
+00:50.960 --> 00:53.160
+This or simply in series with each other.
+
+00:53.170 --> 00:54.760
+So that's a 9.
+
+00:54.940 --> 01:02.700
+And at the end all we have to do is we get an 18 ohm resistor that is in parallel with a 9 ohm resistor.
+
+01:03.070 --> 01:11.960
+So the last part total is 18 multiplied by nine divided by the sum of nine plus 18.
+
+01:12.240 --> 01:15.930
+Am not going to try to do that in my head but there's Neyens and Eatons everywhere.
+
+01:16.210 --> 01:20.520
+If I factor out a 9 from the bottom I should have one plus two.
+
+01:20.550 --> 01:27.430
+Now this should simplify nicely that 9 could cancel with this one 18 can cancel with the three here
+
+01:27.490 --> 01:36.220
+and I'll be left with six at the end you should be left with six ohms so all of this is equivalent to
+
+01:36.220 --> 01:37.660
+1 6 ohm resistor.
+
+01:37.660 --> 01:38.990
+That's it.
+
+01:39.850 --> 01:40.200
+All right.
+
+01:40.210 --> 01:41.870
+So if the potential drop now.
+
+01:41.910 --> 01:44.430
+So this is kind of connected here to a battery.
+
+01:44.470 --> 01:48.520
+You can imagine something like this 12 volt battery
+
+01:51.590 --> 01:54.360
+find the current in each resistor.
+
+01:54.380 --> 01:54.800
+All right.
+
+01:54.980 --> 01:58.420
+So what I'm going to first do here is we're going to simplify this a little bit.
+
+01:58.420 --> 02:00.620
+I'm going to kind of do this problem over here.
+
+02:01.070 --> 02:03.710
+I can replace everything down here by nine.
+
+02:03.710 --> 02:05.440
+We just said.
+
+02:05.610 --> 02:12.000
+So let's start by finding the Curran's over here and we can also find the current flowing into the junction.
+
+02:12.050 --> 02:12.620
+Right.
+
+02:12.770 --> 02:14.900
+Because we know that total is like a 6.
+
+02:14.900 --> 02:15.470
+Right.
+
+02:15.470 --> 02:21.650
+So let's find out how much current is actually flowing into the junction and for that I'm just basically
+
+02:21.650 --> 02:25.140
+replacing it by the total equivalent resistance.
+
+02:25.580 --> 02:31.880
+So that means that the total current flowing in simply going to be my 12 volts divided by six I'm going
+
+02:31.880 --> 02:34.390
+to get two amps flowing in.
+
+02:34.460 --> 02:37.810
+So this guy over here is two Imp's.
+
+02:37.850 --> 02:40.390
+That's the current flowing in.
+
+02:40.490 --> 02:45.260
+Now part of that current is going to go up here and that's going to be the same current that's going
+
+02:45.260 --> 02:47.630
+to flow through the 12 and the 6.
+
+02:47.630 --> 02:49.390
+So let me call this one.
+
+02:49.930 --> 02:53.380
+And part of the current now is also going to flow down here.
+
+02:53.600 --> 02:56.080
+Let's call this itu.
+
+02:56.300 --> 03:02.930
+Now you should realize right away that the voltage across both of these branches have to be the same
+
+03:03.710 --> 03:08.660
+and the only way you can have that is if the current flowing through down here has to be bigger than
+
+03:08.660 --> 03:12.880
+the current flowing through here because the resistance is bigger.
+
+03:12.920 --> 03:15.230
+So how do you get the same voltage across each one.
+
+03:15.230 --> 03:23.060
+Well you should automatically be able to write that 18 multiplied by the current flowing through there
+
+03:23.060 --> 03:28.310
+that's the voltage drop across the top that has to be equal to the voltage drop across the bottom So
+
+03:28.310 --> 03:31.180
+that's nine multiplied by two.
+
+03:31.970 --> 03:34.640
+Now the other thing we know is that there's two waves going in.
+
+03:34.640 --> 03:39.100
+So you have to have two which equals to either one plus two.
+
+03:39.170 --> 03:41.510
+That's our junction rule.
+
+03:41.960 --> 03:49.070
+These are the two equations we can use now to find how much current is going up here and downstairs.
+
+03:49.160 --> 03:57.830
+So you should write that to simply going to be two times I won now use our junction equation to eliminate
+
+03:57.890 --> 03:58.970
+Aitu.
+
+03:59.480 --> 04:09.680
+So here I'm going to get two equals to one plus two I want gigas three I want.
+
+04:10.210 --> 04:10.460
+All right.
+
+04:10.460 --> 04:20.670
+Therefore the current one is two thirds amps and the current two is two times that value.
+
+04:20.750 --> 04:25.390
+So we just found there has to be four thirds.
+
+04:27.050 --> 04:34.110
+All right so now we know the current dallies through both of those at the top because that's the same.
+
+04:34.310 --> 04:36.410
+Now the current to that we just solved.
+
+04:36.410 --> 04:38.100
+Well sure it's going to be split.
+
+04:38.110 --> 04:39.680
+Let's go back to our diagram.
+
+04:39.680 --> 04:45.180
+So part of that current part of this you know 1.3 or three is going to be split it's going to go up
+
+04:45.180 --> 04:45.920
+stairs.
+
+04:46.040 --> 04:48.080
+Part of it is going to go down here.
+
+04:48.500 --> 04:55.430
+However since both of those are the same and we know we've seen this before whenever the resistor is
+
+04:55.430 --> 05:01.970
+the same and they're in parallel and if there's only two branches whatever goes in has to split evenly.
+
+05:02.330 --> 05:08.390
+If it doesn't split evenly you're not going to get the same voltage drop across each branch.
+
+05:08.390 --> 05:08.710
+Right.
+
+05:08.720 --> 05:13.840
+So we can automatically find how much current flows through these six ohm resistors.
+
+05:14.440 --> 05:14.770
+OK.
+
+05:14.780 --> 05:20.900
+So for that I'm just going to call this three three is the current flowing over here and if the same
+
+05:20.900 --> 05:30.240
+current flowing down here so three automatically has to be Aitu divided by two.
+
+05:32.490 --> 05:38.500
+Two over two which gives me what I again that's two thirds.
+
+05:38.750 --> 05:40.080
+That's pretty easy.
+
+05:40.550 --> 05:45.400
+And now how much current is flowing through this 6 ohm resistor over here.
+
+05:46.130 --> 05:52.520
+Again now when we already found this here has to be the current I do because both of those i3 is going
+
+05:52.520 --> 05:55.610
+to combine again there's another junction right here.
+
+05:55.940 --> 06:01.160
+We have another junction down at this point and whatever flows into the junction has to be with flowing
+
+06:01.220 --> 06:02.690
+out of the junction.
+
+06:02.690 --> 06:04.690
+So this is also the current Aitu.
+
+06:04.940 --> 06:11.630
+So he's basically SOL for all of currents now flowing through each resistor using pretty simple arguments.

@@ -1,0 +1,463 @@
+1
+00:00:00,210 --> 00:00:04,740
+So the two systems of measurement that we're going to be working with here, the U.S. and the metric
+
+2
+00:00:04,740 --> 00:00:10,460
+system, the quantities that works are going to be working as the length of mass and time.
+
+3
+00:00:10,590 --> 00:00:16,980
+So in the United States here, what is the smallest unit of length that you actually are used to working
+
+4
+00:00:16,980 --> 00:00:17,340
+with?
+
+5
+00:00:17,550 --> 00:00:18,870
+You might be seeing yourself.
+
+6
+00:00:19,810 --> 00:00:27,130
+Inches or the inch and the abbreviation four inches is I and what's what's a bigger than an inch?
+
+7
+00:00:27,160 --> 00:00:29,850
+I'll give you what's 12 times bigger than an inch.
+
+8
+00:00:29,860 --> 00:00:36,580
+Maybe you're actually saying to yourself, A at the foot or feet, let's use the plural here, saying
+
+9
+00:00:36,580 --> 00:00:42,000
+that it's feet and the abbreviation feet is what maybe you're saying to yourself, F.T..
+
+10
+00:00:42,190 --> 00:00:43,600
+And what's bigger than a foot?
+
+11
+00:00:43,720 --> 00:00:45,130
+I'm going to give you a little clue here.
+
+12
+00:00:45,250 --> 00:00:47,360
+It's three times bigger than foot.
+
+13
+00:00:47,410 --> 00:00:50,500
+It's what players use on the football field.
+
+14
+00:00:50,650 --> 00:00:53,500
+Maybe you're saying to yourself, it's the yard.
+
+15
+00:00:53,500 --> 00:01:00,280
+And a lot of my students, they would actually say maybe the abbreviation for yard is widebody or something
+
+16
+00:01:00,280 --> 00:01:00,660
+like that.
+
+17
+00:01:00,700 --> 00:01:05,590
+But I believe it's actually just wide and I don't think that's actually very commonly used.
+
+18
+00:01:05,650 --> 00:01:07,560
+So I wouldn't worry about that one too much.
+
+19
+00:01:07,570 --> 00:01:10,470
+And what's a lot bigger than a foot in a yard.
+
+20
+00:01:10,900 --> 00:01:14,650
+So by a lot bigger I mean a significantly a lot bigger.
+
+21
+00:01:14,800 --> 00:01:20,430
+Like, how would you go about measuring the distance from, let's say, California to Florida?
+
+22
+00:01:21,040 --> 00:01:21,850
+Oh, OK.
+
+23
+00:01:21,850 --> 00:01:24,520
+Well, maybe you're saying to yourself it's Miles.
+
+24
+00:01:24,520 --> 00:01:26,710
+And what's the abbreviation for Miles.
+
+25
+00:01:28,280 --> 00:01:29,270
+Am I?
+
+26
+00:01:29,450 --> 00:01:37,010
+All right, so now what about over in Europe or so or actually really for the for the most part throughout
+
+27
+00:01:37,010 --> 00:01:38,190
+the rest of the world?
+
+28
+00:01:38,360 --> 00:01:41,060
+What are the units of measurement that they use for length?
+
+29
+00:01:42,430 --> 00:01:50,190
+Maybe you're saying to yourself, they use meters and the abbreviation there is AM, so the one thing
+
+30
+00:01:50,190 --> 00:01:56,050
+that I really do want to point out in that I really want you to actually focus on is the idea that looking
+
+31
+00:01:56,050 --> 00:02:02,860
+at the abbreviations here, which will be using a lot and I miss Miles and am is meters, do not get
+
+32
+00:02:02,860 --> 00:02:03,830
+these two confused.
+
+33
+00:02:03,970 --> 00:02:05,860
+I see this actually happen a lot.
+
+34
+00:02:06,070 --> 00:02:10,450
+And just keep that in mind that Miles, as am I and Meters is Šamaš.
+
+35
+00:02:11,090 --> 00:02:12,960
+OK, well, let's think about this year.
+
+36
+00:02:13,000 --> 00:02:15,630
+How many inches are there in a foot?
+
+37
+00:02:16,570 --> 00:02:21,620
+You might be saying to yourself that 12 inches is equal to one foot.
+
+38
+00:02:21,850 --> 00:02:22,390
+All right.
+
+39
+00:02:22,400 --> 00:02:25,480
+And how many feet are there in a yard?
+
+40
+00:02:26,530 --> 00:02:29,950
+Well, they are three feet in one yard.
+
+41
+00:02:30,850 --> 00:02:32,730
+Oh, what about this?
+
+42
+00:02:33,010 --> 00:02:35,120
+How many are there in a mile?
+
+43
+00:02:35,710 --> 00:02:36,760
+Let me just tell you this.
+
+44
+00:02:36,760 --> 00:02:45,370
+I bet you 99 percent of adults don't even know this as it's really not used in everyday kind of situation.
+
+45
+00:02:45,390 --> 00:02:47,070
+So it's very acceptable.
+
+46
+00:02:47,080 --> 00:02:47,740
+I get it.
+
+47
+00:02:47,740 --> 00:02:54,940
+But there are five thousand two hundred eighty feet in one mile.
+
+48
+00:02:55,330 --> 00:02:57,580
+How many feet are there in a meter?
+
+49
+00:02:58,630 --> 00:03:07,150
+Well, there are three point twenty eight feet in one meter when I'm actually just doing right now by
+
+50
+00:03:07,150 --> 00:03:12,570
+writing these equations out, is we're going to be using these to convert units.
+
+51
+00:03:12,910 --> 00:03:15,610
+These are going to be used for unit conversions.
+
+52
+00:03:16,120 --> 00:03:16,470
+All right.
+
+53
+00:03:16,480 --> 00:03:20,220
+And let's move down to the quantity of mass.
+
+54
+00:03:20,410 --> 00:03:22,100
+So we're working with mass.
+
+55
+00:03:22,480 --> 00:03:25,120
+This is going to be a little bit confusing in the United States.
+
+56
+00:03:26,470 --> 00:03:31,870
+Let's essentially say that the mass that we're going to be using for now, we're going to correct this
+
+57
+00:03:31,870 --> 00:03:33,970
+and yeah, we're going to correct this later on.
+
+58
+00:03:33,970 --> 00:03:40,700
+But for now, let's just say that the mass units are measured in pounds.
+
+59
+00:03:40,840 --> 00:03:47,020
+I know that this is actually a weight which is different than mass, but for for this unit conversions
+
+60
+00:03:47,020 --> 00:03:51,190
+and everything, I think it's acceptable to actually just say that as of right now, we're going to
+
+61
+00:03:51,190 --> 00:03:52,020
+be using pounds.
+
+62
+00:03:52,600 --> 00:03:55,030
+And what's the abbreviation for pounds?
+
+63
+00:03:57,490 --> 00:04:09,340
+I'll be yes, you might actually also see it written as L, b p s, and that's Latin for Labra Pontoise.
+
+64
+00:04:09,520 --> 00:04:12,050
+So that's that's where that actually comes from.
+
+65
+00:04:13,750 --> 00:04:19,250
+And now what about the mass four in the entire rest of the world that uses the metric system?
+
+66
+00:04:19,930 --> 00:04:25,050
+Well, the metric system actually uses what's called the gram.
+
+67
+00:04:25,210 --> 00:04:29,070
+And if you're thinking to yourself, hey, maybe you thought, oh, kg.
+
+68
+00:04:29,080 --> 00:04:36,400
+Well, the kilogram actually is just a further description of what the Gramma's it's just a prefix that
+
+69
+00:04:36,400 --> 00:04:37,040
+you're adding on there.
+
+70
+00:04:37,150 --> 00:04:43,570
+So the main route where there is actually the gram and the abbreviation for Gram is just a lowercase
+
+71
+00:04:43,570 --> 00:04:43,910
+G.
+
+72
+00:04:44,170 --> 00:04:49,160
+We can actually just go back into kilograms and saying that, hey, not just the fact that we're going
+
+73
+00:04:49,160 --> 00:04:56,710
+to be saying here is that one kilogram is equal to two point two pounds.
+
+74
+00:04:57,010 --> 00:05:02,440
+OK, so this is going to be the fact that we're going to be using in physics being that we're going
+
+75
+00:05:02,440 --> 00:05:06,610
+to be dealing with physical objects, I feel like that's going to be a lot simpler for us to actually
+
+76
+00:05:06,610 --> 00:05:09,460
+be measuring things in kilograms, rather, in grams.
+
+77
+00:05:09,910 --> 00:05:15,670
+OK, so next up, what is the smallest unit of time that you can actually think of?
+
+78
+00:05:16,360 --> 00:05:24,670
+Maybe you're saying to yourself the second or seconds and the abbreviation for this is either S or S
+
+79
+00:05:24,670 --> 00:05:31,210
+e c for the most part in this course, when I'm actually going to do is just use C, C, because it's
+
+80
+00:05:31,900 --> 00:05:35,980
+just explicitly defines that a lot clearer, a lot better.
+
+81
+00:05:36,700 --> 00:05:39,490
+What's the next bigger thing than the second.
+
+82
+00:05:41,530 --> 00:05:44,510
+We'll have our minutes, and that's my end.
+
+83
+00:05:45,010 --> 00:05:46,570
+And what's bigger than a minute?
+
+84
+00:05:47,260 --> 00:05:55,510
+Hopefully you're saying to yourself, to our which is just each are and what's bigger than our maybe
+
+85
+00:05:55,510 --> 00:06:01,870
+you're saying to yourself the day, which I believe that our vision for day is just simply day.
+
+86
+00:06:02,140 --> 00:06:04,450
+I don't think that there is actually abbreviation for that.
+
+87
+00:06:04,780 --> 00:06:09,700
+And then maybe you're saying to yourself, A, what's bigger than a day is a week and then you actually
+
+88
+00:06:09,700 --> 00:06:10,390
+have a month.
+
+89
+00:06:10,570 --> 00:06:14,680
+I'm not going to include those for the units that we're going to be dealing with right now, mainly
+
+90
+00:06:14,680 --> 00:06:16,450
+because, hey, how many days are there?
+
+91
+00:06:16,450 --> 00:06:16,990
+A month.
+
+92
+00:06:17,170 --> 00:06:18,910
+You'll have 28 days in a month.
+
+93
+00:06:18,910 --> 00:06:20,380
+You have thirty days in a month.
+
+94
+00:06:20,380 --> 00:06:22,000
+You have 31 days in the month.
+
+95
+00:06:22,180 --> 00:06:23,970
+So I'm not actually just going to use that.
+
+96
+00:06:23,980 --> 00:06:26,110
+Let's actually just go up from there.
+
+97
+00:06:26,110 --> 00:06:30,760
+And we actually have the year abbreviation for years.
+
+98
+00:06:30,760 --> 00:06:36,120
+Just why are OK, so this is going to be fun and simple for us right now.
+
+99
+00:06:36,250 --> 00:06:37,330
+How many seconds are there?
+
+100
+00:06:37,330 --> 00:06:38,090
+In a minute.
+
+101
+00:06:38,110 --> 00:06:45,640
+We have 60 seconds is equal to one minute and then we have how many minutes are there in an hour.
+
+102
+00:06:45,850 --> 00:06:49,900
+We have 60 Minutes is equal to one hour.
+
+103
+00:06:50,080 --> 00:06:55,060
+And how many hours are there in a day and how many days are there in a year?
+
+104
+00:06:55,570 --> 00:06:57,430
+Who you know this one.
+
+105
+00:06:58,390 --> 00:07:07,240
+All right, so there's three hundred sixty five point two five days in one year.
+
+106
+00:07:09,290 --> 00:07:10,230
+And you know what?
+
+107
+00:07:10,250 --> 00:07:14,990
+So there's a lot of my students are like, oh, that sounds made up on owners and why there's three
+
+108
+00:07:14,990 --> 00:07:18,170
+hundred sixty five point two five days in one year.
+
+109
+00:07:18,180 --> 00:07:22,820
+And that's actually a very specific and very accurate measurement right there.
+
+110
+00:07:22,940 --> 00:07:24,910
+And once again, you might be setting this up.
+
+111
+00:07:25,010 --> 00:07:27,100
+OK, so what does that mean?
+
+112
+00:07:27,110 --> 00:07:30,680
+And once this is just nestl additional fun fact over here.
+
+113
+00:07:30,800 --> 00:07:37,250
+But keep in mind, hey, if we do have our son over here and we have our planets actually orbit around
+
+114
+00:07:37,250 --> 00:07:42,200
+the sun, keeping in mind what you have, the planet Earth over here, it takes one year to actually
+
+115
+00:07:42,200 --> 00:07:46,370
+orbit around and get back to where the original position was.
+
+116
+00:07:46,530 --> 00:07:48,110
+And that's the definition of a year.

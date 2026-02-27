@@ -1,0 +1,232 @@
+WEBVTT
+
+00:00.140 --> 00:05.940
+And now I want to again illustrate this with another example how he can use conservation of energy in
+
+00:05.940 --> 00:07.410
+order to solve problems.
+
+00:07.410 --> 00:11.340
+So here's the problem I have I have again my two micro cooling charge.
+
+00:11.340 --> 00:19.680
+I'm going to assume that that charge is fixed in space and 30 meters away I'm going to place a negative
+
+00:19.680 --> 00:21.480
+three micro cooling charge.
+
+00:21.540 --> 00:23.770
+So those are attracted to each other.
+
+00:23.820 --> 00:29.850
+I'm going to release the negative three micro cooling charge so it's going to have a force acting toward
+
+00:29.850 --> 00:30.780
+the positive one.
+
+00:31.260 --> 00:33.240
+And it's going to start to speed up.
+
+00:33.270 --> 00:38.940
+So the question is when it's five meters away now how fast is the charge moving.
+
+00:38.940 --> 00:40.620
+All right so I've got it illustrated above.
+
+00:40.620 --> 00:43.320
+So this is the speed that I'm looking for.
+
+00:43.320 --> 00:46.510
+So let's go see how we can use conservation of energy.
+
+00:46.530 --> 00:52.320
+Look at the total energy at one position the initial and set that equal to the total energy of the final
+
+00:52.320 --> 00:55.130
+position and then solve for the unknown.
+
+00:55.140 --> 01:01.320
+The nice thing about using conservation of energy is you typically only have one equation to solve for.
+
+01:01.350 --> 01:01.580
+OK.
+
+01:01.590 --> 01:06.240
+That's the conservation of energy so if you're able to write down that statement you look at what the
+
+01:06.240 --> 01:12.400
+unknown is and that's typically what you have to solve for let me show you how you use conservation
+
+01:12.400 --> 01:14.380
+of energy now to solve this problem.
+
+01:14.380 --> 01:19.870
+So again the total energy at the initial position is the kinetic plus the initial potential and that
+
+01:19.870 --> 01:24.360
+has to be equal to the final kinetic plus the final potential.
+
+01:24.380 --> 01:30.190
+Now we can substitute here again if I'm releasing the particle here the charge from arrest.
+
+01:30.190 --> 01:33.180
+They don't have to worry about the initial kinetic energy.
+
+01:33.350 --> 01:38.800
+I will have some initial electrical potential energy and I will have some final right because I'm not
+
+01:38.800 --> 01:41.850
+at an infinite distance away anywhere.
+
+01:41.860 --> 01:47.110
+So I do have to keep all these other terms I'm looking for the speed and the speed is going to be tucked
+
+01:47.110 --> 01:49.390
+inside this final kinetic energy.
+
+01:49.430 --> 01:51.850
+Let's start writing down our expressions.
+
+01:52.000 --> 01:52.870
+So that's what we have.
+
+01:52.870 --> 01:58.890
+K. Q1 Q2 divided by our 1 are our initial rather.
+
+01:59.110 --> 02:05.680
+That's my initial potential energy at equals 2 1 1/2 m v final squared.
+
+02:05.680 --> 02:15.010
+That's our final kinetic energy and plus K. Q1 Q2 divided by our final by our final in this case is
+
+02:15.010 --> 02:16.510
+five meters.
+
+02:16.510 --> 02:23.110
+So now we have to do a little bit of algebra in order to get an expression for the speed you could substitute
+
+02:23.110 --> 02:26.660
+the numbers here and get numbers for all this and that's fine there's nothing wrong with that.
+
+02:26.770 --> 02:30.920
+I'm going to just do it algebraic Lee for now and at the end I'll get one number.
+
+02:31.110 --> 02:31.390
+OK.
+
+02:31.420 --> 02:36.700
+So I'm going to bring this final potential energy on the other side.
+
+02:37.800 --> 02:38.190
+OK.
+
+02:38.200 --> 02:39.700
+And I'll bring the kinetic energy.
+
+02:39.700 --> 02:41.770
+Let me just write it like this.
+
+02:41.770 --> 02:41.970
+All right.
+
+02:41.980 --> 02:47.290
+So my kinetic energy my final kinetic energy then becomes somebody whose terms are the same so I can
+
+02:47.290 --> 02:48.490
+actually factor them out.
+
+02:48.520 --> 02:50.000
+That's pretty easy.
+
+02:50.020 --> 02:56.500
+And here I'm going to get one divided by our initial minus one divided by our final.
+
+02:56.500 --> 02:56.700
+OK.
+
+02:56.730 --> 02:58.510
+So that's not too bad.
+
+02:58.510 --> 02:59.470
+And now some of the math.
+
+02:59.470 --> 03:05.320
+Now if I want to just get one final expression I'm going to get V final there's going to be a square
+
+03:05.320 --> 03:08.890
+root and it's gonna be kind of a lengthy term.
+
+03:08.950 --> 03:19.720
+All right it's going to be two K Q1 Q2 divided by the mass and again I have this term here of 1 divided
+
+03:19.720 --> 03:24.270
+by our initial minus 1 divided by our final.
+
+03:24.270 --> 03:24.530
+OK.
+
+03:24.610 --> 03:27.400
+So we could start substituting the numbers in here now
+
+03:30.500 --> 03:32.000
+and everything is going to work out.
+
+03:32.010 --> 03:34.180
+Again we have to put in all the signs.
+
+03:34.230 --> 03:34.500
+OK.
+
+03:34.530 --> 03:39.090
+So we have to we have nine times tend to the nine.
+
+03:39.120 --> 03:40.770
+That's the K value.
+
+03:40.770 --> 03:46.890
+The first charge is to micro cool on positive to tend to the negative six.
+
+03:46.890 --> 03:49.130
+The second one was negative.
+
+03:49.230 --> 03:54.360
+Don't worry the negative side is not going to appear under the square root at the end you'll see that
+
+03:54.360 --> 03:58.000
+the term in the bracket here is also going to be negative.
+
+03:58.170 --> 04:01.810
+So this charges negative three micro columns.
+
+04:02.020 --> 04:10.060
+I'm going to divide by the mass of the mass I said was 2.5 times 10 to the negative three for this problem.
+
+04:10.390 --> 04:11.120
+OK.
+
+04:11.160 --> 04:13.710
+And now I still have this remaining term.
+
+04:14.040 --> 04:17.660
+So 1 divided by the initial which is 30.
+
+04:17.670 --> 04:24.040
+That's gonna be a small number minus one over five okay.
+
+04:24.070 --> 04:29.470
+So after evaluating then the calculator you should get a number that looks like did things correctly
+
+04:29.470 --> 04:34.820
+I think I got a number that was approximately two point seven meters per second.
+
+04:35.560 --> 04:35.910
+Okay.
+
+04:35.920 --> 04:41.290
+So that's kind of how you would do a problem like this using conservation of energy.
+
+04:41.410 --> 04:45.970
+All right really really powerful technique especially when they're asking you for quantities that are
+
+04:45.970 --> 04:48.220
+scalar is like calculating the speed.

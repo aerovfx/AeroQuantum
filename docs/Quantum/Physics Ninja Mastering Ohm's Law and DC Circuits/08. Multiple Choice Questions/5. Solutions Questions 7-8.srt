@@ -1,0 +1,133 @@
+WEBVTT
+
+00:00.150 --> 00:05.220
+All right for problem 7 we have an electric current of one eyup flows through a circuit the part of
+
+00:05.220 --> 00:10.160
+the circuit contains a 12 volt battery with an internal resistance of two ohms.
+
+00:10.320 --> 00:16.470
+What is the volt meter reading so you apply a volt meter and you connected to this side and that side
+
+00:16.470 --> 00:18.650
+of the terminals of the battery.
+
+00:18.870 --> 00:23.600
+So if you call this point A and Point B what would you actually measure was the voltage.
+
+00:23.720 --> 00:30.840
+VB mine is effectively for this one you're basically just going to start at point 8 we're going to move
+
+00:30.840 --> 00:34.950
+across point B we're going across a resistor across a battery.
+
+00:34.980 --> 00:41.250
+So the way you do this now is if I start out Point am at some potential vitÃ¦ and now I'm going to a
+
+00:41.250 --> 00:43.050
+resistor in the direction of the current.
+
+00:43.050 --> 00:45.280
+I know there's one amp going through here.
+
+00:45.500 --> 00:50.740
+So mine has to multiply by one that's the voltage drop across that internal resistance.
+
+00:50.900 --> 00:55.520
+And now I'm going to gain 12 volts and then I eventually get to Point B.
+
+00:55.570 --> 01:00.470
+So it just re-arranges this is minus to plus 12 gives me 10.
+
+01:00.930 --> 01:01.620
+So VB.
+
+01:01.620 --> 01:06.040
+Mine is V.A simply equal to 10 volts.
+
+01:06.500 --> 01:13.140
+OK so you get a little bit less than what the ideal MF is of that battery.
+
+01:14.040 --> 01:18.340
+OK so 10 volts see is the correct answer for this one for problem.
+
+01:18.360 --> 01:24.210
+Kind of a similar setup different battery different direction of the battery also different internal
+
+01:24.210 --> 01:25.910
+resistance different current.
+
+01:25.920 --> 01:31.350
+So now we have electric current of two amps flows through a circuit part of the battery six volt internal
+
+01:31.350 --> 01:32.730
+resistance is point five.
+
+01:32.730 --> 01:34.590
+What does the volt meter read.
+
+01:34.710 --> 01:39.250
+I notice in this case all the answers are positive numbers.
+
+01:39.570 --> 01:43.250
+So again we're going to proceed to using the same method it worked for the last problem probably worked
+
+01:43.260 --> 01:43.950
+for this one.
+
+01:44.870 --> 01:46.170
+All right.
+
+01:46.640 --> 01:47.760
+Define those two points.
+
+01:47.790 --> 01:50.790
+And now we simply start at point a move toward Point B.
+
+01:51.020 --> 01:55.310
+So we have V.A now we're going across a resistor We're going across a resistor in the direction of the
+
+01:55.310 --> 01:55.980
+current.
+
+01:56.240 --> 02:02.880
+So we get a voltage drop given by two multiplied by 0.5 value of the resistance.
+
+02:02.880 --> 02:05.520
+And now we're going across a battery set.
+
+02:05.590 --> 02:10.890
+Looking now we're going from the high to the low potential so therefore we get a voltage drop given
+
+02:10.890 --> 02:18.260
+by 6 volts and then we end up going to point B V.A is what.
+
+02:18.260 --> 02:22.040
+So this here is minus one and minus 6.
+
+02:22.060 --> 02:24.390
+Gives me VB.
+
+02:24.560 --> 02:26.930
+All right in this case we have V-A.
+
+02:26.930 --> 02:30.860
+Mine is VB equal to 7.
+
+02:30.960 --> 02:32.980
+If you did it the other way around if you got VB.
+
+02:32.990 --> 02:38.010
+Mine is V.A you get minus 7.
+
+02:38.230 --> 02:43.220
+Again here they're really just talking about a magnitude of the Volt volt meter reading.
+
+02:43.540 --> 02:46.610
+So the correct answer for this one would be a no negative answer.
+
+02:46.610 --> 02:51.270
+So there's not really a technically it would you'd have to kind of define which side is which.
+
+02:51.280 --> 02:55.460
+But you'd get Plus-X plus seven or minus seven depending on how you hook it up.

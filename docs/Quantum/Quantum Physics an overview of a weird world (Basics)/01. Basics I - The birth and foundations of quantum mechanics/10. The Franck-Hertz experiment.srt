@@ -1,0 +1,241 @@
+WEBVTT
+
+00:00.120 --> 00:07.860
+Another nice and clear cut piece of experimental evidence that atoms must have discrete energy levels
+
+00:08.370 --> 00:13.590
+came only a year later after Bors proposal of his atomic model.
+
+00:14.760 --> 00:17.250
+It was the so-called truncates experiment.
+
+00:18.780 --> 00:26.670
+Gustaaf Lutwyche Katz was the nephew of Childhood of Hats, the German physicist we already mentioned
+
+00:26.670 --> 00:34.980
+as the discovery of the photoelectric effect, while high likelihood of health, among other things,
+
+00:34.980 --> 00:38.340
+prove the existence of electromagnetic waves.
+
+00:39.210 --> 00:48.000
+Gustaaf Ludwick Earth and James Frank, where we were awarded the 1925 Nobel Prize in physics for what
+
+00:48.000 --> 00:57.150
+the Nobel Committee expressed as their discovery of the laws governing the impact of an electron upon
+
+00:57.150 --> 00:57.840
+an atom.
+
+00:59.430 --> 01:03.780
+And they did so using the experiment we are going to describe now.
+
+01:05.480 --> 01:12.440
+The experimental setup is this one, it consists of Macary gas atoms.
+
+01:13.390 --> 01:22.630
+Inside a low pressure bulb, an electric cathode that is something like the heated filament of a light
+
+01:22.630 --> 01:25.630
+bulb and which emits electrons.
+
+01:27.080 --> 01:35.120
+Therefore, this part of the device emits not only light, but also negatively charged particles and
+
+01:35.120 --> 01:42.740
+electric field is applied between the electron emitting cathode and a positively poled creating.
+
+01:44.040 --> 01:50.880
+With a battery or some other electric source which builds up an electric potential.
+
+01:53.210 --> 02:00.710
+Due to their negative charge, this difference in the electric potential field leads to the electrons
+
+02:00.740 --> 02:08.780
+acceleration and conveys to them some kinetic energy, as you might recall, from school charges with
+
+02:08.780 --> 02:16.400
+the same polarity repel each other, whereas those with opposite opposite polarity attracted to each
+
+02:16.400 --> 02:25.970
+other when the electrons reached reached the grating, most of them will fly through because the mesh
+
+02:26.180 --> 02:30.590
+of the grating is kept sufficiently wide to allow for that.
+
+02:32.730 --> 02:38.340
+This first part functioned as a little electronic accelerator.
+
+02:40.710 --> 02:47.790
+Then between the grating and a collecting plate on the right side, another field is applied.
+
+02:48.540 --> 02:56.550
+But in this second part of their journey of the electrons flying through the gas they will experience
+
+02:56.550 --> 03:05.100
+and inversely polarized electric field, since after passing the grating, they will be repelled because
+
+03:05.100 --> 03:10.710
+they will begin to feel, so to speak, that negatively charged collecting plate.
+
+03:12.910 --> 03:20.380
+This means that by using an amp meter and ampere meter, a device which measures measures the electric
+
+03:20.380 --> 03:28.720
+current, that is the flux of electrons between the grating and the collecting plate, it is possible
+
+03:28.720 --> 03:38.080
+to measure also the changes of the electrons energy and establish how their energy is affected by the
+
+03:38.080 --> 03:43.480
+atoms while flying through the gas and the second part of the bulb.
+
+03:46.240 --> 03:56.140
+Frank and had the idea was that while flying through the gas of atoms, several electrons must sooner
+
+03:56.140 --> 04:04.960
+or later hit one or more atoms, mercury atoms, and be scattered either elastically or in elastically.
+
+04:06.370 --> 04:14.920
+Elastic scattering means that when an object hit a target, they change course, but maintain the same
+
+04:14.920 --> 04:17.410
+kinetic energy while.
+
+04:18.350 --> 04:27.300
+I inelastic scattering implies that they lose part or all their kinetic energy in the collision process.
+
+04:28.400 --> 04:36.470
+It follows that there must be a measurable difference between the energy of the injected electrons reaching
+
+04:36.470 --> 04:37.190
+the grating.
+
+04:38.870 --> 04:47.630
+And that of those which flew through the gas, hitting the collecting plate and which is then made clear
+
+04:47.630 --> 04:53.270
+to the observer by the measurement of the current between the grating and the collecting plate.
+
+04:54.970 --> 05:02.320
+It is this energy gap which tells us something about the energy absorbed by the atoms in the gas.
+
+05:04.720 --> 05:13.990
+Therefore, if atoms absorb energy only in the form of Quanta, this implies that while we slowly increase
+
+05:13.990 --> 05:22.270
+the kinetic energy of the injected electric electrons, we should be able to observe when, when and
+
+05:22.270 --> 05:23.500
+to what degree.
+
+05:24.590 --> 05:30.320
+The electrons are absorbed by the gas of mercury atoms.
+
+05:33.540 --> 05:39.300
+This is indeed what happens as can and can be observed in the following graph.
+
+05:41.310 --> 05:49.200
+Why they injected electrons, kinetic energy is increased steadily by applying an electric potential
+
+05:49.200 --> 05:59.640
+from zero to about 15 volts between the cathode and the grating, the horizontal axis here, the current
+
+05:59.640 --> 06:03.090
+of the electrons measured at the collecting plate.
+
+06:04.160 --> 06:13.340
+Given on the vertical axis increases accordingly, but not in a linear fashion, we observed that the
+
+06:13.340 --> 06:20.210
+electrons do not have a finer kinetic energy which increases proportionally to the electrons input energy
+
+06:21.080 --> 06:29.070
+according to what one would expect for an elastic scattering between classical objects.
+
+06:29.510 --> 06:32.150
+Think, for example, billiard balls.
+
+06:33.590 --> 06:41.990
+What we see instead is that at first between zero and four volts, the relation between the input and
+
+06:41.990 --> 06:50.900
+output on energy is more or less approximately linear, which means that the electrons are scattered
+
+06:50.900 --> 06:53.510
+through the gas elastically.
+
+06:53.870 --> 06:57.410
+They do not lose considerable kinetic energy.
+
+06:59.130 --> 07:10.500
+But at about four point 4.5 volts, the first bump appears between four and five volts, the output
+
+07:10.500 --> 07:18.090
+energy of the electrons decreases steadily despite their increasing initial energy.
+
+07:19.780 --> 07:28.630
+This signals and inelastic scattering some of the energy the electrons had initially must have been
+
+07:28.630 --> 07:39.100
+suddenly absorbed in the collision with the head with mercury atoms, but this does not happen before
+
+07:39.100 --> 07:49.930
+a certain kinetic energy energy threshold of the electrons hitting the mercury atoms at about five point
+
+07:49.930 --> 07:50.860
+eight volts.
+
+07:52.090 --> 07:59.260
+Almost all of the kinetic energy is lost and goes into the internal excitation of the atoms.
+
+08:00.550 --> 08:07.840
+There is, however, a remaining minimum energy gap which is shown in the figure with the vertical red
+
+08:07.840 --> 08:08.770
+arrow here.
+
+08:10.790 --> 08:18.740
+The difference between the first pick and the first minimum is the maximum amount of kinetic energy
+
+08:18.770 --> 08:29.300
+the atoms are able to absorb from the electrons and therefore furnishes us the first excited energy
+
+08:29.300 --> 08:31.190
+level of the mercury atom.
+
+08:33.460 --> 08:41.350
+Then after about six to nine volts, the energy begins to increase again, meaning that the atoms absorb
+
+08:41.350 --> 08:49.510
+only the that aforementioned discrete amount of the electrons energy, but not more than that.
+
+08:50.930 --> 08:55.100
+The remaining energy goes again into elastics shattering.
+
+08:57.170 --> 09:05.540
+As you can see, all this repeats regularly at about nine to 10 balls and about 14 balls.
+
+09:07.950 --> 09:16.170
+The existence of these bumps, so to speak, at different input energies, means that atoms must have
+
+09:16.170 --> 09:19.080
+several different but discrete energy levels.
+
+09:20.730 --> 09:29.730
+Frankfurt's experiment was the first direct experimental proof, confirming Blank's idea that matter
+
+09:29.730 --> 09:34.410
+absorbs energy in discrete quanta.
+
+09:35.670 --> 09:42.780
+Moreover, this also validated the discrete spectral lines of light spectra, as did Borse idea to represent
+
+09:42.930 --> 09:50.940
+the atoms in the form of a model which resembles a tiny solar system that is with electrons moving only
+
+09:50.940 --> 09:58.710
+on specific orbits with their respective quantum numbers, which represent different but precise and
+
+09:58.710 --> 10:00.230
+discrete energy levels.

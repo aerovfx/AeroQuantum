@@ -1,0 +1,298 @@
+WEBVTT
+
+00:00.210 --> 00:04.220
+Last geometry that I really want to look at is a 2D plate.
+
+00:04.260 --> 00:10.370
+So again here's a 2D plate and again I'm going to assume that you have uniform charge distribution.
+
+00:10.500 --> 00:15.540
+Again this plate is assumed to be very very big so although I've just drawn a little section of it it's
+
+00:15.540 --> 00:19.830
+really kind of really big and I'm looking at points that are pretty close to the plate.
+
+00:20.040 --> 00:26.130
+The way you write down the charge distribution typically for 2D objects instead of the charge per unit
+
+00:26.130 --> 00:27.940
+length like the line.
+
+00:27.990 --> 00:33.600
+Now I talk about the charge per unit area so you would write the total charge divided by the total area.
+
+00:33.600 --> 00:36.770
+This we typically use the letters sigma for this.
+
+00:37.350 --> 00:39.270
+Here's kind of a side view all right.
+
+00:39.270 --> 00:41.890
+Again I want to apply Gauss as lot of this object.
+
+00:42.150 --> 00:47.670
+So we have to first define a ocean surface for this one here usually what people do here is usually
+
+00:47.670 --> 00:51.270
+like a little pillbox extends a little bit above.
+
+00:51.270 --> 00:56.570
+And then this will extend below the plate something like this.
+
+00:57.180 --> 01:04.800
+If I draw it down over here again the Goshen surface would look like this and something like that okay.
+
+01:04.890 --> 01:11.060
+First thing to realize is that the field produced by 2D objects just like the line you're only going
+
+01:11.060 --> 01:15.780
+to have a field that points away from if it's positively charged.
+
+01:15.780 --> 01:20.440
+The field would have to point away from the 2D plate.
+
+01:20.520 --> 01:26.280
+It really doesn't make sense that there'd be any component over here that would be in the plane of the
+
+01:26.280 --> 01:27.780
+2D plate.
+
+01:27.780 --> 01:34.830
+So this actually simplifies our flux calculation because we don't have to worry about the flux on the
+
+01:34.830 --> 01:38.490
+sides of this little tube over here.
+
+01:38.600 --> 01:42.830
+No FLUX THROUGH THIS surface
+
+01:45.370 --> 01:48.550
+through through the sides just right through sides.
+
+01:48.550 --> 01:54.790
+I think that hopefully makes sense to you and that's simply because the angle between the vector that's
+
+01:54.790 --> 01:56.540
+perpendicular.
+
+01:56.540 --> 02:03.250
+All right here's my vector that is perpendicular and if the field's going up that means that the angle
+
+02:03.250 --> 02:05.290
+over here would be 90 degrees.
+
+02:05.290 --> 02:08.160
+So no FLUX THROUGH THE SIDES OF THIS SHAPE.
+
+02:08.290 --> 02:11.610
+Only flux going through the top and the bottom.
+
+02:11.800 --> 02:17.620
+Okay so now my little Goshen surface over here has a tiny little area here at the top.
+
+02:18.310 --> 02:20.780
+And it has the same area at the bottom.
+
+02:21.340 --> 02:24.970
+And again the direction now for the area is.
+
+02:24.970 --> 02:28.290
+Again it's parallel to both right.
+
+02:28.300 --> 02:34.220
+It's parallel to the electric field over here and it's also parallel to the electric field down here.
+
+02:34.330 --> 02:41.870
+So let's first think about how much charge is actually inside this tiny little box over here.
+
+02:41.930 --> 02:42.170
+All right.
+
+02:42.190 --> 02:44.170
+How much charge do we have.
+
+02:44.170 --> 02:47.850
+Well we only have a little bit of charge whatever charge is right here right.
+
+02:47.890 --> 02:51.180
+That's where the 2D plate intersects my shape.
+
+02:51.340 --> 02:52.650
+So let's first look at this one.
+
+02:52.650 --> 02:59.770
+So the charging closed again it's going to be the charge density Sigma and multiplied by the area that
+
+02:59.770 --> 03:00.940
+I'm considering over here.
+
+03:00.940 --> 03:05.400
+The area of my little box or the area of my cylinder and that's it.
+
+03:05.400 --> 03:07.420
+That's the total charging closed.
+
+03:07.540 --> 03:12.990
+So at the end we all we need to do now is look at how do we evaluate the left hand side of Gauss as
+
+03:12.990 --> 03:13.960
+low over here.
+
+03:14.160 --> 03:20.600
+Because the right hand side is simply Sigma multiplied by the area divided by epsilon 0.
+
+03:20.610 --> 03:26.810
+So for this one we need to look at the flux through the top and the flux through the bottom.
+
+03:27.690 --> 03:30.520
+Again no flux through the sides.
+
+03:30.540 --> 03:37.170
+So at the top again we just use our flux calculator which is just the electric field multiplied by the
+
+03:37.170 --> 03:37.930
+area.
+
+03:38.130 --> 03:44.430
+And then we have codes of zero degrees at the bottom we have the vector pointing away from the plate.
+
+03:44.850 --> 03:47.520
+So we have e the areas the same.
+
+03:47.520 --> 03:50.340
+And we also have codes of zero degrees.
+
+03:50.760 --> 03:55.730
+And this here has to be Sigma a over Epsilon 0.
+
+03:55.920 --> 04:00.490
+We don't have to worry about the coast of 0 term that simply equals the one.
+
+04:00.630 --> 04:09.060
+And look at these two terms these two terms are the exact same so you get two times E A equals the Sigma
+
+04:09.110 --> 04:11.580
+the same area divided by epsilon 0.
+
+04:12.660 --> 04:16.550
+So one thing we notice here is that the area is actually on both sides.
+
+04:16.830 --> 04:21.570
+And all you have to do is bring the two down in the denominator and you're left with the final answer
+
+04:21.650 --> 04:28.680
+that the electric field is simply Sigma my charge density divided by two Epsilon 0
+
+04:32.030 --> 04:32.840
+all right and that's it.
+
+04:32.840 --> 04:34.780
+That is the total electric field.
+
+04:34.830 --> 04:39.280
+Notice that this field here is constant.
+
+04:39.280 --> 04:41.660
+Right doesn't depend on the distance.
+
+04:41.660 --> 04:43.500
+There is no distance over here.
+
+04:43.610 --> 04:49.670
+Once you know the charge density of the plate that's at any point you evaluate that electric field you're
+
+04:49.670 --> 04:51.760
+going to get the same value.
+
+04:51.800 --> 04:54.420
+So let me go ahead and kind of draw this.
+
+04:54.470 --> 04:56.380
+Let's kind of remove this for a second.
+
+04:56.380 --> 04:58.550
+This was from the previous problem.
+
+04:58.880 --> 05:01.490
+So let's see what all of this means.
+
+05:01.520 --> 05:01.750
+OK.
+
+05:01.790 --> 05:06.420
+So imagine here I have a 2D plate and I'm just going to draw the side view.
+
+05:06.860 --> 05:09.670
+And here we have a certain charge density.
+
+05:09.950 --> 05:15.500
+That means if I want to draw this electric field I should let me change the color over here just so
+
+05:15.500 --> 05:18.630
+we can kind of see this a little bit better.
+
+05:18.650 --> 05:18.890
+All right.
+
+05:18.890 --> 05:24.770
+If I draw the electric field that means that the electric field over here points away from the plate.
+
+05:25.040 --> 05:31.010
+The electric field on this side points away from the plate and the electric field is uniform.
+
+05:31.200 --> 05:32.570
+OK.
+
+05:32.720 --> 05:38.230
+Which means that the magnitude of the field is simply Sigma divided by two Epsilon 0.
+
+05:38.270 --> 05:43.980
+It's also the same up here Sigma divided by two Epsilon 0.
+
+05:44.360 --> 05:48.830
+If I want to increase this value it really doesn't matter where you are right whether you're at position
+
+05:48.830 --> 05:54.980
+1 or whether you're at position 2 whether you're at position 3 the magnitude of the field is always
+
+05:54.980 --> 05:56.510
+going to be the same.
+
+05:56.570 --> 06:00.310
+Now the differential sorry the direction will be different right.
+
+06:00.320 --> 06:01.930
+Between 1 and 3.
+
+06:01.970 --> 06:02.840
+But that's it.
+
+06:02.870 --> 06:05.410
+The magnitude is going to be the same.
+
+06:05.780 --> 06:09.760
+If you had a 2D plate that was negatively charged.
+
+06:09.830 --> 06:10.050
+All right.
+
+06:10.070 --> 06:13.620
+So the charge density would be a negative sigma.
+
+06:13.700 --> 06:17.570
+Now the only difference would be that the field would be pointing toward it.
+
+06:18.260 --> 06:20.000
+But e is still constant
+
+06:22.630 --> 06:28.780
+and everywhere the field would simply be pointing toward that plate.
+
+06:28.830 --> 06:32.650
+There is no component that is parallel to the plate.
+
+06:32.750 --> 06:35.980
+The field is always perpendicular to plates.
+
+06:37.220 --> 06:39.440
+So that's how you would apply goes is law to this problem.

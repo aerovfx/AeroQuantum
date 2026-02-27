@@ -1,0 +1,321 @@
+WEBVTT
+
+WEBVTT
+
+00:00.190 --> 00:03.990
+All right now time to discuss resistance and introduce Ohm's law.
+
+00:04.140 --> 00:08.700
+So resistance we're talking about resists the flow of electrons so resistance.
+
+00:08.700 --> 00:12.460
+Let's write that down to the flow of charge.
+
+00:14.350 --> 00:17.220
+Bigger the resistance the more it resists.
+
+00:17.350 --> 00:23.320
+It's harder for electrons to flow through that particular material or a taco conductors here.
+
+00:23.320 --> 00:28.870
+And we remember what we said about conductors well in order to get electrons moving the battery or whatever
+
+00:28.870 --> 00:32.560
+it is must set up an electric field in one direction.
+
+00:32.800 --> 00:39.460
+If you set up an electric field in that direction electrons are going to move opposite in some drif
+
+00:39.550 --> 00:46.940
+at some drif philosophy and the direction of the current is actually opposite of the electron flow and
+
+00:46.940 --> 00:48.240
+that's what we call the current.
+
+00:48.270 --> 00:54.840
+I all right now there is a relationship now between the electric field and the quantity we had called
+
+00:54.840 --> 00:57.050
+J Our current density.
+
+00:57.440 --> 00:58.010
+That's this.
+
+00:58.020 --> 01:00.330
+Remember all of these things this is current density
+
+01:04.300 --> 01:05.270
+right this down.
+
+01:05.270 --> 01:12.770
+And remember that was current I divided by the cross-sectional area of our particular wire.
+
+01:13.050 --> 01:21.150
+E was our electric field.
+
+01:21.430 --> 01:21.700
+All right.
+
+01:21.710 --> 01:27.530
+And the relationship between both of those is actually one form of Ohm's law which is maybe not the
+
+01:27.530 --> 01:30.550
+most common form but let me write it down anyway.
+
+01:30.860 --> 01:35.690
+Is that the electric field the bigger you make this electric field basically the more current You're
+
+01:35.690 --> 01:36.130
+going to get.
+
+01:36.140 --> 01:42.230
+But the relationship looks like this is that the magnitude of the electric field can be written as the
+
+01:42.230 --> 01:47.320
+resistivity will define this in a minute multiplied by the current density.
+
+01:47.330 --> 01:54.200
+It basically says that for many conductors that the electric field is proportional to the current density
+
+01:54.650 --> 02:00.790
+and the constant of proportionality is a property that depends on the material.
+
+02:00.830 --> 02:02.990
+And this is what we'd call the resistivity
+
+02:05.750 --> 02:11.840
+for example copper will have a reserve Stephenie silver will have a resistivity any conductor will have
+
+02:11.840 --> 02:16.460
+a particular resistivity any substance will have a resistivity.
+
+02:16.460 --> 02:23.360
+So that's what it says that the electric field is directly proportional to the current density.
+
+02:23.360 --> 02:29.390
+Now if I go on this side here and I substitute a couple of things let's get rid of current density and
+
+02:29.390 --> 02:33.970
+let's replace it by definition the total current divided by the total area.
+
+02:34.280 --> 02:39.920
+Let's see what this equation looks like says that the electric field is equal to my resists devotee
+
+02:41.570 --> 02:46.700
+multiplied by the total current multiplied by that cross-sectional area.
+
+02:47.150 --> 02:48.650
+OK so we're one step further.
+
+02:48.650 --> 02:56.000
+Now it says that my electric field is directly proportional to the current and the constant of proportionality
+
+02:56.010 --> 02:59.530
+in this case would be the resisting city divided by the area.
+
+03:00.200 --> 03:00.440
+All right.
+
+03:00.440 --> 03:05.480
+Now to produce an electric field let's assume that the electric field here is constant the way you produce
+
+03:05.480 --> 03:13.310
+an electric field like this is you might apply a voltage on one side and a voltage on the other side.
+
+03:13.640 --> 03:17.990
+You might apply a difference of voltage between the two sides.
+
+03:18.320 --> 03:26.180
+You might make this one some Plus voltage you might make this one a negative voltage and that will produce
+
+03:26.180 --> 03:31.420
+a potential difference right between the two points.
+
+03:31.430 --> 03:36.110
+So if I make the PSI a positive voltage make this side a negative voltage the field will point from
+
+03:36.110 --> 03:43.520
+the positive toward the negative and Delta V the difference of potential here is simply going to be
+
+03:43.520 --> 03:47.530
+the plus minus V minus.
+
+03:47.780 --> 03:48.280
+All right.
+
+03:48.380 --> 03:50.950
+And now this wire here has a particular length.
+
+03:50.970 --> 03:59.670
+I don't know what it is let's call it Al and let's assume that that field is fairly constant throughout
+
+03:59.970 --> 04:01.530
+that conductor.
+
+04:01.530 --> 04:06.630
+Actually the magnitude of the field is related to the potential difference the magnitude of the field
+
+04:07.560 --> 04:14.000
+is related to what is the voltage difference between the two sides divided by the length of the wire.
+
+04:16.120 --> 04:22.990
+Now if I go ahead now and I substitute that into my first equation equation 1 to call this equation
+
+04:22.990 --> 04:28.780
+to substitute this into my top equation which you end up getting here is that the potential difference
+
+04:29.620 --> 04:38.230
+divided by the length is equal to the resistivity the current and divided by the area.
+
+04:38.250 --> 04:41.860
+Now what I'm going to do on the left hand side here I'm just going to bring the length on the other
+
+04:41.860 --> 04:48.970
+side and what you get is delta V is equal to I'll open a bracket and then I'm going to have a current
+
+04:48.970 --> 04:56.480
+over here and determine the bracket Here's the resistivity the length and divided by the area.
+
+04:57.370 --> 05:03.240
+This equation over here this is also another form of Ohm's law.
+
+05:03.380 --> 05:05.310
+So we have one form over here.
+
+05:06.060 --> 05:07.800
+They're actually the exact same equation.
+
+05:07.800 --> 05:10.950
+They might not look like it but they really are the same.
+
+05:11.120 --> 05:13.170
+And let's link them together like this.
+
+05:13.560 --> 05:14.260
+OK.
+
+05:14.520 --> 05:22.380
+Now the quantity and the bracket this is how we define the resistance of material the resistance of
+
+05:22.380 --> 05:26.660
+a material can simply be written as the reason Stephenie.
+
+05:27.000 --> 05:33.480
+That's a property of the material multiplied by these other two factors the length and divided by the
+
+05:33.480 --> 05:34.640
+area.
+
+05:34.680 --> 05:40.020
+So we have a property of the material here for the resistivity and then you have another term the length
+
+05:40.020 --> 05:46.680
+divided by the area which is basically only associated to the geometry of that particular conductor
+
+05:46.680 --> 05:49.190
+of that material.
+
+05:49.800 --> 05:56.010
+Now this other term over here Delta V A lot of times you can simplify that a lot of times people drop
+
+05:56.010 --> 05:59.070
+the Delta and they simply write Ohm's law.
+
+05:59.070 --> 06:01.910
+Let me make some more space over here.
+
+06:02.560 --> 06:03.570
+Let's delete this.
+
+06:03.570 --> 06:04.600
+We know it's a conductor.
+
+06:04.620 --> 06:05.940
+Let's get rid of that.
+
+06:06.030 --> 06:11.990
+Now a lot of times what happens is instead of writing Delta V the simply write the letter V.
+
+06:12.000 --> 06:17.730
+However it's always really meant that it's always a difference of potential between two points or between
+
+06:17.730 --> 06:20.310
+two surfaces down.
+
+06:20.370 --> 06:28.180
+That equals to the Terman the bracket is the resistance and then we're left with the current.
+
+06:28.200 --> 06:32.510
+This here is really the more classic definition of Ohm's law.
+
+06:36.120 --> 06:41.940
+So let's make that very very important equation for conductors.
+
+06:42.030 --> 06:49.170
+It tells you that the amount of current that you get is directly proportional to the potential difference
+
+06:49.170 --> 06:53.250
+that you apply between the ends of the conductor.
+
+06:53.250 --> 06:58.500
+In other words it tells you that the magnitude of the electric field or the magnitude of the current
+
+06:58.500 --> 07:03.900
+that you're going to get basically is linearly dependent with the magnitude of the electric fuel that
+
+07:03.900 --> 07:05.490
+you produce.
+
+07:05.760 --> 07:08.990
+So these equations are really the same equation.
+
+07:09.090 --> 07:12.810
+They're just kind of slightly written differently.
+
+07:13.380 --> 07:16.920
+And again this is the approach to link one equation to the other.
+
+07:17.280 --> 07:23.310
+Often you drop the delta but it's always V is a voltage but it's really a voltage difference between
+
+07:23.310 --> 07:24.830
+two ends.
+
+07:24.900 --> 07:27.510
+Sometimes you call this a potential difference.
+
+07:27.690 --> 07:31.200
+The resistance remember is given down here by my simple equation.
+
+07:31.410 --> 07:34.200
+It depends on the resistance hero.
+
+07:34.860 --> 07:37.020
+It depends on the length of the wire.
+
+07:37.020 --> 07:39.570
+The longer you make it the more resistance there is.
+
+07:39.570 --> 07:41.730
+That makes sense.
+
+07:41.730 --> 07:43.670
+Think about this other term the area.
+
+07:43.890 --> 07:47.820
+Why would the resistance go down if I make the area big.
+
+07:47.840 --> 07:53.610
+Imagine I have a really big cross-section where the resistance goes down because there's more paths
+
+07:53.940 --> 07:57.000
+for that electron to take as it travels through the wire.
+
+07:59.140 --> 08:02.300
+If the area is small the resistance tends to be big.
+
+08:02.600 --> 08:07.360
+All right the resistance is big because there's only one kind of path for that electron to take as it
+
+08:07.360 --> 08:09.560
+flows through this wire.

@@ -1,0 +1,145 @@
+WEBVTT
+
+00:00.630 --> 00:05.760
+All right in this example we're asked to find the equivalent resistance of this combination here for
+
+00:05.760 --> 00:06.650
+resistors.
+
+00:06.870 --> 00:12.630
+So I think what I would first start with is just first notice that both of these guys here in this shaded
+
+00:12.630 --> 00:14.760
+area both of those guys are in parallel.
+
+00:14.910 --> 00:20.970
+So let's start by simplifying both of those in the way you simplified that both of those is just remember
+
+00:20.970 --> 00:21.800
+the formula.
+
+00:22.220 --> 00:26.470
+So I'm going to call that our equivalent and that mentally put a little one over here.
+
+00:26.910 --> 00:35.010
+That's simply one over four plus one over 12 which you can do is you can put things on a common denominator
+
+00:35.010 --> 00:37.400
+here 12 is kind of a good choice.
+
+00:37.440 --> 00:43.380
+This here is three over 12 plus one over 12 gives me for over 12.
+
+00:43.920 --> 00:51.080
+You take the inverse of that are equivalent one then gives me three homes.
+
+00:51.840 --> 00:58.140
+Now just remember that if you only have two of them you can also quickly just write that down by simply
+
+00:58.140 --> 01:06.600
+multiplying them and divided by the sum you multiply you get 48 over 16.
+
+01:06.600 --> 01:09.570
+That also gives you three homes.
+
+01:09.570 --> 01:14.520
+OK so we've simplified everything here into three homes and now what you should do is now you should
+
+01:14.520 --> 01:18.820
+combine the three homes with everything here.
+
+01:18.840 --> 01:20.150
+So with the five.
+
+01:20.780 --> 01:25.980
+Right because the three arm which is the equivalent of both of those is now in series with this 5 ohm
+
+01:25.980 --> 01:27.340
+resistor.
+
+01:27.360 --> 01:34.210
+So how do we combine both of those I'm going to call this our equivalent to not squared but number 2.
+
+01:34.430 --> 01:38.250
+So that is simply going to be five plus three.
+
+01:38.270 --> 01:40.410
+And then there gives me 8.
+
+01:40.490 --> 01:44.520
+So that's everything here in this bottom branch gives me 8 ohms.
+
+01:44.810 --> 01:45.830
+And now what am I left with.
+
+01:45.830 --> 01:49.240
+Well I'm left with an 8 ohm resistor down here which is everything.
+
+01:49.490 --> 01:50.560
+Maybe box it up here.
+
+01:50.570 --> 02:00.090
+Everything kind of in this red circle is now going to be in parallel with this 24 ohm resistor and everything
+
+02:00.090 --> 02:03.300
+and this we just solve for this was 8 ohms.
+
+02:03.530 --> 02:04.280
+So what does that mean.
+
+02:04.280 --> 02:07.890
+Well at the end now you can solve for the total equivalent resistance.
+
+02:08.210 --> 02:11.750
+Let me call it total because this is the last step we have to do it again.
+
+02:11.770 --> 02:12.020
+Oh.
+
+02:12.050 --> 02:13.670
+Both of those are in parallel.
+
+02:13.700 --> 02:17.660
+So what I'm going to do is I'm going to use the same trick as I previously used to I multiply them and
+
+02:17.660 --> 02:19.780
+I divide by the sum.
+
+02:19.850 --> 02:22.590
+Since there's only two of them I think that works kind of nice.
+
+02:22.610 --> 02:27.480
+So if you multiply them you get 24 multiplied by 8.
+
+02:27.980 --> 02:33.010
+And now if you divide that by 24 plus 8.
+
+02:33.070 --> 02:34.360
+All right that's the sum.
+
+02:34.510 --> 02:36.580
+So at the end let's try to simplify this a little bit.
+
+02:36.580 --> 02:48.280
+24 multiplied by 8 divided by 32 32 goes in the 8 4 times and 24 goes into 4 6 times.
+
+02:48.610 --> 02:54.260
+So at the end this complete network here can simply be replaced by one equivalent resistor.
+
+02:54.270 --> 03:03.870
+So I can put Point 8 here an equivalent resistor of six ohms and then go all the way to point B and
+
+03:03.870 --> 03:05.760
+I have basically the equivalent
+
+03:08.130 --> 03:11.940
+current in the equivalent voltage across both of those points.
+
+03:11.990 --> 03:17.880
+OK so there you go you have this is kind of a good one because you can kind of involves some parallel
+
+03:17.880 --> 03:21.780
+combinations with series and then another parallel case.
+
+03:21.780 --> 03:24.730
+So kind of a good practice problem for you guys.

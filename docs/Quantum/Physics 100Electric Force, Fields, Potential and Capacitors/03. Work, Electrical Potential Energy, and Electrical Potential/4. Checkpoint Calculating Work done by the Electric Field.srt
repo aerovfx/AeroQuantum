@@ -1,0 +1,136 @@
+WEBVTT
+
+00:00.150 --> 00:04.080
+All right so let's imagine we have this for Coolum charge here.
+
+00:04.260 --> 00:06.960
+And again if I release it's positive.
+
+00:06.960 --> 00:12.000
+So it wants to be repelled by these positives and wants to be attracted by the negatives.
+
+00:12.000 --> 00:12.720
+Right.
+
+00:12.720 --> 00:18.250
+So it's going to have an electric force acting on it in this direction right here.
+
+00:18.300 --> 00:19.100
+Let's calculate.
+
+00:19.110 --> 00:20.280
+So it's going to speed up.
+
+00:20.280 --> 00:20.450
+Right.
+
+00:20.450 --> 00:23.810
+If I release it from ress be right before hit the plate.
+
+00:23.820 --> 00:25.980
+It should be moving pretty fast.
+
+00:25.990 --> 00:27.330
+The question's pretty straightforward.
+
+00:27.330 --> 00:31.530
+Let's calculate the work done by this electric field.
+
+00:31.620 --> 00:32.000
+All right.
+
+00:32.030 --> 00:38.760
+So the definition is the magnitude of the force and scalar product with the displacement in the vertical
+
+00:38.760 --> 00:39.770
+direction.
+
+00:39.780 --> 00:40.020
+All right.
+
+00:40.350 --> 00:45.180
+So the way I write that down in terms of the quantities it would be the forces the electric force the
+
+00:45.180 --> 00:51.390
+displacement the magnitude is delta y and coast of the angle between the force and the displacement.
+
+00:51.480 --> 00:55.650
+That's the work done by this electric force.
+
+00:55.710 --> 01:00.780
+All right how do we write the electric force I write it as the charge which has four columns multiplied
+
+01:00.780 --> 01:07.440
+by the electric field the displacement now I was going to write the displacement as a vector I mean
+
+01:07.440 --> 01:09.240
+this is what the displacement looks like.
+
+01:09.270 --> 01:10.510
+Right.
+
+01:10.740 --> 01:14.060
+And the magnitude is simply the distance between the plates.
+
+01:14.100 --> 01:18.660
+So I'm just going to write this is D guy and coasts of the angle.
+
+01:18.660 --> 01:22.740
+Now what's the angle between the force and the displacement.
+
+01:22.740 --> 01:25.460
+Again both of those vectors point in the same direction.
+
+01:25.470 --> 01:28.640
+So I'd have coast of zero degrees right here.
+
+01:28.740 --> 01:28.970
+All right.
+
+01:28.980 --> 01:32.950
+So the work done by the electric field boils down to something pretty straightforward.
+
+01:33.150 --> 01:35.120
+QED.
+
+01:35.390 --> 01:35.690
+All right.
+
+01:35.720 --> 01:41.370
+So we could just substitute the numbers we get for cool homes our electric field magnitude is two hundred
+
+01:41.380 --> 01:48.800
+and fifty and the distance between the plate is six centimetres zero point zero six.
+
+01:48.890 --> 01:51.130
+All right that is the work done by the electric field.
+
+01:51.140 --> 01:51.370
+All right.
+
+01:51.370 --> 01:54.360
+So my final answer now is a numerical number.
+
+01:54.460 --> 02:03.580
+What I would get would be four times 250 times zero point zero six gives me 60 Joules.
+
+02:03.650 --> 02:05.660
+Notice the number is positive.
+
+02:05.660 --> 02:11.630
+Does that make sense to you it's positive because the force and the displacement are parallel to each
+
+02:11.630 --> 02:11.870
+other.
+
+02:11.860 --> 02:13.500
+They're in the same direction.
+
+02:13.550 --> 02:18.130
+So the work does the field does positive work.
+
+02:18.170 --> 02:18.470
+All right.
+
+02:18.470 --> 02:20.120
+So kind of a nice little example.

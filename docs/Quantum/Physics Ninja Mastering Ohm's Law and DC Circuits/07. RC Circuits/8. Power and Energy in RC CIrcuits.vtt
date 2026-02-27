@@ -1,0 +1,207 @@
+WEBVTT
+
+WEBVTT
+
+00:00.150 --> 00:05.100
+A couple of things that I want to also mention about both of these charging and discharging cases here.
+
+00:05.400 --> 00:08.670
+So in the charging case again we're putting charges on these plates.
+
+00:08.730 --> 00:13.320
+Basically what we're doing is we're creating an electric field here and whenever you create an electric
+
+00:13.320 --> 00:17.030
+field you end up storing energy.
+
+00:17.130 --> 00:18.170
+So think about that.
+
+00:18.180 --> 00:24.000
+So we end up storing energy here in that electric field or the capacitor stores energy.
+
+00:24.000 --> 00:29.090
+There's all kind of different ways of looking at the exact same problem in the other case.
+
+00:29.220 --> 00:34.680
+What we have is we initially have some energy stored in our capacitor and then that energy once you
+
+00:34.680 --> 00:36.880
+start having that current flowing.
+
+00:37.320 --> 00:41.550
+When I close a switch Well that energy gets dissipated in this resistor.
+
+00:41.610 --> 00:45.570
+So if you wanted to look at this are these problems from an energy perspective here.
+
+00:45.720 --> 00:47.240
+It's kind of different ways you can look at it.
+
+00:47.250 --> 00:51.650
+But if I could I can always write the energy stored in a capacitor.
+
+00:51.690 --> 00:56.460
+The different ways of doing this here let me just to kind of this way here is one half multiplied by
+
+00:56.460 --> 01:02.070
+the charge on the capacitor multiplied by the voltage across the capacitor.
+
+01:02.070 --> 01:08.850
+Now if I use my capacitor equation remember here we had the charge was always proportional to the voltage
+
+01:08.850 --> 01:10.390
+across the plates.
+
+01:10.530 --> 01:15.240
+So there's different ways of writing this formula if you either want to eliminate the charge I can using
+
+01:15.240 --> 01:21.990
+this equation so you can write this as one half C-v square depending on what kind of information you
+
+01:21.990 --> 01:25.640
+know and if you don't know the voltage across the capacitor.
+
+01:25.650 --> 01:28.820
+But you know the charge and the capacitance You can also write it like this.
+
+01:28.830 --> 01:34.960
+So just to eliminate voltage from this expression using a simple equation here you get one half Q square
+
+01:34.960 --> 01:40.650
+to receive the exact same expression just written in three different forms so make sure you remember
+
+01:40.650 --> 01:42.020
+that guy.
+
+01:42.210 --> 01:48.900
+Now everything that we've seen so far for example we've seen that in this case over here let's just
+
+01:48.900 --> 01:53.910
+take this one or even and this one we've seen that in both cases we were able to calculate that these
+
+01:53.910 --> 01:56.640
+were time dependent quantities right.
+
+01:56.640 --> 01:57.750
+These were.
+
+01:58.230 --> 02:02.730
+We had functions that describe them and we can calculate the voltage at any time.
+
+02:02.760 --> 02:07.260
+So our expression is now for the potential energy stored as a function of time.
+
+02:07.290 --> 02:10.020
+They also become time dependent equations.
+
+02:10.110 --> 02:10.730
+Right.
+
+02:10.770 --> 02:18.180
+So in reality when you're writing them down now for RC circuits all of these quantities here become
+
+02:18.180 --> 02:19.930
+time dependent quantities.
+
+02:20.220 --> 02:23.160
+So you can get this in and get another expression here.
+
+02:23.190 --> 02:28.650
+If I substitute depending on which case I'm looking at the charging vs. versus discharging you can get
+
+02:28.650 --> 02:32.960
+an expression of the potential energy stored in that capacitor as a function of time.
+
+02:33.210 --> 02:40.610
+And again I can use either of the other equations as well but just keep in mind this here becomes a
+
+02:40.920 --> 02:43.020
+time dependent quantity.
+
+02:43.050 --> 02:47.580
+The other thing we looked at before when we looked at circuits was power.
+
+02:47.570 --> 02:55.620
+All right power was the rate at which either energy was being dissipated or the rate at which energy
+
+02:55.620 --> 02:58.100
+was being supplied to the circuit.
+
+02:58.410 --> 03:05.550
+So for power what we had we also had different expressions like power being delivered to the circuit
+
+03:05.640 --> 03:09.840
+was the IMF multiplied by the current.
+
+03:09.840 --> 03:19.600
+Now this becomes a time dependent equation because our current changes with time so keep that in mind
+
+03:20.220 --> 03:25.810
+whenever you are solving problems for RC circuits and then looking at the power we have to use our expressions.
+
+03:25.810 --> 03:31.900
+Now we might look at power in the short time versus the long time limit then we're just taking specific
+
+03:31.900 --> 03:34.060
+cases here for this function.
+
+03:34.060 --> 03:35.710
+But otherwise you're going to be a little bit careful.
+
+03:35.710 --> 03:41.320
+Also if you're looking at the power being dissipated in the resistance again our expression expressions
+
+03:41.320 --> 03:51.330
+before our eyes squared was one which was also equal to the squared over our again.
+
+03:51.340 --> 03:55.690
+All of these now would become time dependent equations.
+
+03:56.200 --> 03:59.980
+So all of those exponential factors I want to say one more thing.
+
+03:59.980 --> 04:04.360
+All of these exponential factors that we had for our time dependent equations.
+
+04:04.360 --> 04:06.520
+They all look something like this.
+
+04:08.570 --> 04:13.820
+When you square all those terms that's what's going to happen here and all of these expressions we're
+
+04:13.820 --> 04:16.460
+going to end up squaring all those terms.
+
+04:16.460 --> 04:22.430
+So they all become when you square an exponential you're not going to change the sign but you're going
+
+04:22.430 --> 04:25.270
+to get a two in the front.
+
+04:25.820 --> 04:31.100
+Exponential of minus T divided by R C squared.
+
+04:31.220 --> 04:35.920
+Member the laws of the exponents here you end up getting a minus two.
+
+04:35.930 --> 04:38.510
+They're all right I let you practice that.
+
+04:38.510 --> 04:40.950
+I think I've got a couple of problem and the problems that that look at.
+
+04:40.960 --> 04:42.200
+Energy and Power.
+
+04:42.220 --> 04:47.800
+So it will look more specifically at problems but I just wanted to highlight this that.
+
+04:48.250 --> 04:48.800
+OK.
+
+04:49.000 --> 04:52.580
+It's the same expressions as what you previously used in static cases.
+
+04:52.660 --> 04:55.060
+Just now we have to use the time dependent expressions.

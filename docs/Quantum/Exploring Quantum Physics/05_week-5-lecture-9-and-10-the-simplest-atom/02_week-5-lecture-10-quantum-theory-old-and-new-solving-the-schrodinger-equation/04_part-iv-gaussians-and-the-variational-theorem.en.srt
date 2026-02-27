@@ -1,0 +1,608 @@
+1
+00:00:03,888 --> 00:00:06,720
+Hello everyone,
+welcome back to Exploring Quantum Physics.
+
+2
+00:00:06,720 --> 00:00:08,400
+I'm Charles Clark.
+
+3
+00:00:08,400 --> 00:00:14,510
+Now we're going to start to use some
+of the tools we've developed and
+
+4
+00:00:14,510 --> 00:00:19,840
+get a glimpse of how they're applied
+in larger scalable calculations.
+
+5
+00:00:19,840 --> 00:00:22,735
+In particular, those that use some
+form of the variation principle.
+
+6
+00:00:22,735 --> 00:00:28,030
+Now, in
+
+7
+00:00:28,030 --> 00:00:32,310
+the quiz at the end of the last lecture,
+we looked at this function.
+
+8
+00:00:36,910 --> 00:00:39,751
+It's a generalized Gaussian,
+
+9
+00:00:39,751 --> 00:00:44,930
+exponential of quadratic form, and
+
+10
+00:00:44,930 --> 00:00:50,080
+you have seen the one dimensional
+version of this previously.
+
+11
+00:00:51,740 --> 00:00:58,210
+This is the notation that I prefer
+because I can remember it, and
+
+12
+00:00:59,590 --> 00:01:04,090
+I write it out here because it
+illustrates an important thing and
+
+13
+00:01:04,090 --> 00:01:10,630
+that is in the Gaussian
+there's a scale parameter,
+
+14
+00:01:10,630 --> 00:01:14,540
+which is a length scale parameter d.
+
+15
+00:01:14,540 --> 00:01:19,733
+And that means for
+in the regions where x is much
+
+16
+00:01:19,733 --> 00:01:24,538
+greater than d, psi goes rapidly to zero.
+
+17
+00:01:24,538 --> 00:01:31,194
+So this d describes a localization domain
+of the wave function and also leads
+
+18
+00:01:31,194 --> 00:01:38,260
+to an important observation on the
+dimensional units of the wave function.
+
+19
+00:01:38,260 --> 00:01:42,588
+Which I offer you to
+consider in the online quiz.
+
+20
+00:01:42,588 --> 00:01:47,948
+So the dimensional units
+of the one-dimensional wave
+
+21
+00:01:47,948 --> 00:01:53,316
+function psi of x it's 1/the
+square root of length.
+
+22
+00:01:53,316 --> 00:01:57,680
+I mean, I find a common misconception
+among beginning students of quantum
+
+23
+00:01:57,680 --> 00:02:02,322
+physics that the wave functions are all
+dimension less, well they are not, and
+
+24
+00:02:02,322 --> 00:02:06,930
+in fact that has very important
+consequences for making estimates.
+
+25
+00:02:06,930 --> 00:02:13,100
+The wave function is a proxy for the
+probability density which has the units of
+
+26
+00:02:13,100 --> 00:02:17,940
+inverse volume, so be aware.
+
+27
+00:02:17,940 --> 00:02:22,661
+And there's a problem
+in the homework that,
+
+28
+00:02:22,661 --> 00:02:25,650
+where this aspect comes up.
+
+29
+00:02:27,240 --> 00:02:30,130
+Now I put a lot of emphasis
+on the use of Gaussians
+
+30
+00:02:31,580 --> 00:02:36,390
+just because there are ways
+of remembering what to do
+
+31
+00:02:36,390 --> 00:02:40,290
+that are very conveniently exercised
+by use of Gaussian trial functions.
+
+32
+00:02:43,206 --> 00:02:49,240
+But secondly, they are a tremendously
+powerful influence in theoretical
+
+33
+00:02:49,240 --> 00:02:53,130
+chemistry, that is the calculation
+of molecular structure.
+
+34
+00:02:53,130 --> 00:03:00,120
+And this man John Pople is a person who's
+awarded with the Nobel Prize in Chemistry.
+
+35
+00:03:00,120 --> 00:03:04,670
+Primarily for
+developing Gaussian based techniques of
+
+36
+00:03:05,670 --> 00:03:08,440
+the calculation of structure
+of complex molecules.
+
+37
+00:03:10,130 --> 00:03:14,880
+And just as an example of how
+influential this approach has been,
+
+38
+00:03:16,560 --> 00:03:22,000
+here are some citations of
+
+39
+00:03:22,000 --> 00:03:27,870
+articles that deal just
+simply with the properties
+
+40
+00:03:27,870 --> 00:03:33,660
+of Gaussian basis sets, so
+over 14,000 citations of this article.
+
+41
+00:03:35,820 --> 00:03:40,360
+And you can compare that to what at least
+
+42
+00:03:40,360 --> 00:03:43,990
+as of a year ago was the most sighted
+paper in physics, probably still is.
+
+43
+00:03:43,990 --> 00:03:47,340
+The paper that articulated
+the standard molecule,
+
+44
+00:03:47,340 --> 00:03:52,210
+there's just probably there
+are many more chemists
+
+45
+00:03:52,210 --> 00:03:57,340
+using these type of approaches in a large
+scale way then there are physicists.
+
+46
+00:04:01,518 --> 00:04:04,520
+Now why are these trial functions so
+powerful?
+
+47
+00:04:04,520 --> 00:04:09,630
+The answer is the Variational Theorem,
+which we're going to prove briefly.
+
+48
+00:04:10,800 --> 00:04:12,840
+So I'll state it this way.
+
+49
+00:04:12,840 --> 00:04:16,520
+And this is not a rigorous math statement,
+it's kind of like a physics statement.
+
+50
+00:04:16,520 --> 00:04:18,720
+So if we take any Hamiltonian,
+
+51
+00:04:18,720 --> 00:04:20,930
+that means any Hamiltonian
+with reasonable properties.
+
+52
+00:04:22,430 --> 00:04:27,620
+And any normalizable Eigen
+function satisfies that condition.
+
+53
+00:04:30,040 --> 00:04:36,790
+Then this the expectation
+value of the Hamiltonian,
+
+54
+00:04:36,790 --> 00:04:41,070
+over that wave function is greater than or
+
+55
+00:04:41,070 --> 00:04:43,670
+equal to the ground state
+energy of the system.
+
+56
+00:04:44,790 --> 00:04:50,460
+And so
+that means if you just have a big gun and
+
+57
+00:04:50,460 --> 00:04:57,300
+lots of bullets and some intelligence,
+
+58
+00:04:57,300 --> 00:05:03,130
+you just take a large set of functions
+that you can systematically expand
+
+59
+00:05:04,240 --> 00:05:08,530
+and start varying into
+a random walk through
+
+60
+00:05:08,530 --> 00:05:13,430
+function space to try to lower
+the energy of the system.
+
+61
+00:05:13,430 --> 00:05:18,360
+And with luck, you will approach
+the ground state energy that you see.
+
+62
+00:05:18,360 --> 00:05:20,980
+The ground state energies
+are important particularly in
+
+63
+00:05:20,980 --> 00:05:24,100
+things like molecular structure,
+in the sense that
+
+64
+00:05:24,100 --> 00:05:28,480
+the ground state energy of the lowest
+energy electronic wave function.
+
+65
+00:05:30,670 --> 00:05:37,180
+If you consider the dependence of the
+total energy of the system on the nuclear
+
+66
+00:05:37,180 --> 00:05:43,280
+coordinates, it's usually effective
+to find that by minimizing
+
+67
+00:05:43,280 --> 00:05:48,730
+the electronic energy subject to
+variations of the trial functions.
+
+68
+00:05:51,070 --> 00:05:52,980
+Okay, let's see how
+that works in practice.
+
+69
+00:05:54,300 --> 00:05:58,310
+Well no, let's see how that works in, so
+
+70
+00:05:58,310 --> 00:06:00,630
+here's an outline of the proof
+of the variational theorem.
+
+71
+00:06:00,630 --> 00:06:03,910
+I just theorized it, just restated
+it here from the previous line.
+
+72
+00:06:07,040 --> 00:06:12,980
+Now, you might want to, I'm going to
+go quickly from one step to the next.
+
+73
+00:06:12,980 --> 00:06:17,530
+But you might want to
+pause the lecture and
+
+74
+00:06:17,530 --> 00:06:21,180
+make sure that you understand
+the procedure because this is actually
+
+75
+00:06:22,270 --> 00:06:24,784
+emblematic of a lot of arguments
+made in quantum mechanics.
+
+76
+00:06:24,784 --> 00:06:31,953
+So, Any,
+
+77
+00:06:31,953 --> 00:06:35,020
+see, I should have written
+this as a psi like that.
+
+78
+00:06:38,060 --> 00:06:44,120
+Let us say that we know, in principle,
+
+79
+00:06:44,120 --> 00:06:50,380
+all the eigen functions of a Hamiltonian.
+
+80
+00:06:50,380 --> 00:06:54,977
+So, h hat phi and
+
+81
+00:06:54,977 --> 00:06:59,580
+equals en phi n.
+
+82
+00:07:02,570 --> 00:07:07,040
+No there exist some Heigan functions
+even if we don't know them.
+
+83
+00:07:07,040 --> 00:07:10,640
+They form a complete set so
+whatever the trial wave function is,
+
+84
+00:07:10,640 --> 00:07:16,080
+it can be expanded in the basis of
+Heigan functions, that satisfy this.
+
+85
+00:07:17,750 --> 00:07:22,944
+Well then, what's the expectation
+value of psi, well we
+
+86
+00:07:22,944 --> 00:07:29,626
+can just compute it straightforwardly
+within this representation here.
+
+87
+00:07:29,626 --> 00:07:34,400
+So we just plug that part in.
+
+88
+00:07:34,400 --> 00:07:36,960
+Well let's see.
+
+89
+00:07:36,960 --> 00:07:42,190
+This part here is identically
+equal to that, and
+
+90
+00:07:42,190 --> 00:07:44,450
+then this one is it's Hermitian transpose.
+
+91
+00:07:44,450 --> 00:07:48,730
+So this is just a straight
+forward representation of how we
+
+92
+00:07:48,730 --> 00:07:50,609
+calculate the expectation
+value of a Hamiltonian.
+
+93
+00:07:52,290 --> 00:07:57,075
+And so now, by construction Phi (m) H
+
+94
+00:07:57,075 --> 00:08:02,005
+(hat) phi (n) equals delta (n,m)
+
+95
+00:08:02,005 --> 00:08:06,935
+because they're Heigen functions, so
+
+96
+00:08:06,935 --> 00:08:14,916
+that just collapses this
+two-dimensional structure into one.
+
+97
+00:08:14,916 --> 00:08:19,734
+And now this sum must be greater than or
+
+98
+00:08:19,734 --> 00:08:23,348
+equal to the same sum where,
+
+99
+00:08:23,348 --> 00:08:29,071
+instead of taking
+the state by state energy,
+
+100
+00:08:29,071 --> 00:08:34,945
+we take the common,
+the ground state energy,
+
+101
+00:08:34,945 --> 00:08:41,490
+E naught, and
+then this sum is just E naught.
+
+102
+00:08:41,490 --> 00:08:46,060
+So, in other words, this
+
+103
+00:08:48,200 --> 00:08:52,360
+term, this is proven that the average
+
+104
+00:08:52,360 --> 00:08:55,540
+expectation value of the Hamiltonian is
+greater than the ground state energy.
+
+105
+00:08:55,540 --> 00:09:00,128
+And in fact,
+the equality sign means that if
+
+106
+00:09:00,128 --> 00:09:09,093
+psi h psi equals E not.
+
+107
+00:09:09,093 --> 00:09:14,379
+Then H psi =
+
+108
+00:09:14,379 --> 00:09:19,150
+E not psi.
+
+109
+00:09:19,150 --> 00:09:22,190
+So it happens to be if
+you get an equality,
+
+110
+00:09:22,190 --> 00:09:24,010
+you have found a ground
+state Heigen function.
+
+111
+00:09:29,268 --> 00:09:33,440
+Now, as to why this is important in
+practice and in chemistry in particular,
+
+112
+00:09:33,440 --> 00:09:39,130
+I don't think we're going to cover this
+topic in any detail on this course,
+
+113
+00:09:39,130 --> 00:09:42,770
+but if you Google or go to Wikipedia and
+
+114
+00:09:42,770 --> 00:09:47,380
+look at
+the Born-Oppenheimer Approximation.
+
+115
+00:09:52,210 --> 00:09:57,560
+You'll see there's this general argument,
+electrons move much faster than nuclei.
+
+116
+00:09:57,560 --> 00:10:01,790
+And so, in a complex material system,
+
+117
+00:10:01,790 --> 00:10:04,698
+the nuclei are moving slowly, and
+the electrons are able to adjust,
+
+118
+00:10:04,698 --> 00:10:10,490
+essentially instantaneously
+to most of the nuclei.
+
+119
+00:10:10,490 --> 00:10:15,180
+So electrons are sort of the glue
+that holds materials together.
+
+120
+00:10:15,180 --> 00:10:21,090
+So if you can minimize the total
+energy of the system for
+
+121
+00:10:23,090 --> 00:10:28,230
+fixed internuclear coordinates as
+a function of the electron wave functions,
+
+122
+00:10:28,230 --> 00:10:34,450
+then you typically get a very good
+representation of the material structure.
+
+123
+00:10:34,450 --> 00:10:39,830
+And this task was made conceptually
+
+124
+00:10:41,320 --> 00:10:47,030
+practically much easier by Walter Kohn and
+his collaborators,
+
+125
+00:10:47,030 --> 00:10:51,880
+who got the Noble Prize in chemistry for
+the development density-functional theory.
+
+126
+00:10:52,920 --> 00:10:57,710
+Which is now sort of one of
+the practical theoretical underpinnings
+
+127
+00:10:59,570 --> 00:11:02,130
+upon which a Gaussian trial
+approximation is used.
+
+128
+00:11:05,590 --> 00:11:11,640
+So, just to summarize, these things are
+very useful for a lot of applications, and
+
+129
+00:11:11,640 --> 00:11:17,730
+you're going to make an application of
+it in one of the homework problems.

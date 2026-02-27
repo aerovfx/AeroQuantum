@@ -1,0 +1,238 @@
+WEBVTT
+
+00:00.440 --> 00:07.680
+All right here is example six us finding the initial current is a good surrogate here with a bunch of
+
+00:07.680 --> 00:12.610
+resistor and a whole series of capacitors and one battery and it's switched a named meter.
+
+00:12.630 --> 00:14.270
+So here is the problem it goes to zero.
+
+00:14.280 --> 00:17.010
+All capacitors are discharge.
+
+00:17.010 --> 00:19.020
+So the voltage across each one is zero.
+
+00:19.200 --> 00:22.050
+And then that switches move from the open to the close.
+
+00:22.050 --> 00:23.560
+Let's go ahead and close that up.
+
+00:24.920 --> 00:25.370
+OK.
+
+00:25.400 --> 00:32.390
+And what's the current now through this branch through the e-meter just after Segal's to zero.
+
+00:32.590 --> 00:32.860
+All right.
+
+00:32.860 --> 00:33.760
+So what does that mean.
+
+00:33.770 --> 00:36.130
+Well how do we analyze circuits like this.
+
+00:36.160 --> 00:42.280
+The first thing you have to realize is that in this time limit at T equals to zero we have a rule right
+
+00:42.610 --> 00:45.560
+at Teagle zero just after T equals to zero.
+
+00:45.670 --> 00:51.070
+What happens is the way you deal with capacitors is you basically just short them.
+
+00:51.070 --> 00:55.120
+So it's as though you connect wire right here and you connect them.
+
+00:55.120 --> 00:59.380
+So let's go through all our capacitors and kind of just do this.
+
+00:59.590 --> 01:00.510
+That's what it looks like.
+
+01:00.520 --> 01:02.380
+Time equals to zero.
+
+01:02.380 --> 01:03.490
+Now you have to think about it.
+
+01:03.490 --> 01:07.910
+So now you imagine there's current currents flowing here it's going to hit a junction.
+
+01:07.960 --> 01:14.530
+So what happens now when you have a path here with zero resistance and then you have a path with 25
+
+01:14.530 --> 01:20.710
+ohms up here whereas the current going to go where the current is going to go through the path of least
+
+01:20.710 --> 01:21.920
+resistance.
+
+01:21.940 --> 01:27.760
+It also means that any branch that's in parallel with something that's shorted is not going to have
+
+01:27.760 --> 01:28.480
+any current.
+
+01:28.480 --> 01:30.460
+So you can forget about that.
+
+01:30.550 --> 01:32.170
+Where else do we have a situation.
+
+01:32.170 --> 01:39.190
+Well we also have this one this 25 here is also in parallel with this 10 micro Feraud capacitor which
+
+01:39.190 --> 01:44.320
+means that if the current is given a choice once it gets to that junction it's basically just going
+
+01:44.320 --> 01:46.600
+to go through that branch.
+
+01:47.200 --> 01:48.970
+All right the next thing we want to do now.
+
+01:49.000 --> 01:49.280
+OK.
+
+01:49.300 --> 01:51.580
+Now we have to analyze this circuit a little bit.
+
+01:52.000 --> 01:56.040
+So we're first going to do now that we've eliminated two of those resistors.
+
+01:56.200 --> 01:58.910
+But let's have a look at what's going on now.
+
+01:59.170 --> 02:03.110
+If we draw a loop so where is the current going to go it's going to go like this.
+
+02:03.280 --> 02:06.180
+It's going to go through here.
+
+02:06.310 --> 02:14.410
+It could go all the way out here could come back here could flow through here like that part of the
+
+02:14.410 --> 02:18.520
+current now could also once it gets over here that we still have a junction here there's still this
+
+02:18.520 --> 02:20.030
+path that it can go through.
+
+02:20.230 --> 02:25.060
+You just don't have access to this 25 ohm resistor because it just prefers to go through the path of
+
+02:25.060 --> 02:27.650
+least resistance which is out here.
+
+02:27.670 --> 02:28.000
+All right.
+
+02:28.000 --> 02:34.030
+So that means we have the green branch and then we have this orange one well basically both of those
+
+02:34.030 --> 02:40.270
+are if you look at this here the outer branch has a resistance of 25 ohms.
+
+02:40.420 --> 02:43.510
+The middle branch has a resistance of 50 ohms.
+
+02:43.540 --> 02:48.340
+So what you can do is you can kind of group both of those and these are in parallel with each other.
+
+02:48.610 --> 02:55.310
+So you can replace both of these resistors with an equivalent resistor and the equivalent resistor.
+
+02:55.480 --> 03:04.090
+If there's only two of them you simply multiply them and you divide it by the sum.
+
+03:04.190 --> 03:09.120
+So if you do that you can cross out 25 out of each one you're going to be left with three.
+
+03:09.270 --> 03:14.260
+So the equivalent resistor for those two outer branches is 50 over three.
+
+03:14.290 --> 03:16.510
+OK so now let's have a look at what we got.
+
+03:16.510 --> 03:20.150
+So now we've got a battery we've got to 75 ohm resistance.
+
+03:20.350 --> 03:27.570
+I've combined everything here in this purple circle and that's an equivalent resistance of 50 over three.
+
+03:28.030 --> 03:31.220
+And then there's also this 15 Omers distance down here.
+
+03:31.490 --> 03:36.510
+So basically all you have now is three resistors that are in series with each other.
+
+03:36.760 --> 03:42.930
+So the total equivalent resistance for this circuit at time equals to zero.
+
+03:43.090 --> 03:44.380
+Pretty straightforward.
+
+03:44.770 --> 03:45.670
+You just got to add them up.
+
+03:45.670 --> 03:52.850
+So it's 75 plus 50 over three plus 15 ohms.
+
+03:53.260 --> 03:53.680
+OK.
+
+03:53.860 --> 03:55.420
+Punch that in the calculator where do you get.
+
+03:55.420 --> 03:58.710
+One hundred six point seven.
+
+03:58.820 --> 04:00.420
+Little bit bigger than 100.
+
+04:01.030 --> 04:02.470
+So now what have we done.
+
+04:02.470 --> 04:07.640
+We've simplified this entire network into something that simply looks like this.
+
+04:07.690 --> 04:12.910
+And again we're only looking at the time equals the zero limit or very short after that time.
+
+04:13.000 --> 04:20.170
+And this is my our equivalent This here is 100 volts so guess what the current flowing through this
+
+04:21.880 --> 04:27.310
+through this section over here is the current flowing through my equivalent resistance which is basically
+
+04:27.310 --> 04:34.770
+just the voltage of the battery which is 100 divided by my equivalent resistance which is 1 0 6.7.
+
+04:35.110 --> 04:39.480
+That gives me approximately 0.9 for amps.
+
+04:39.910 --> 04:42.300
+So a correct answer for this one is choice D.
+
+04:44.220 --> 04:46.960
+And that's how you solve problems at least in this time limit.
+
+04:46.960 --> 04:50.540
+You forget about anything that's in parallel with a capacitor.
+
+04:51.240 --> 04:55.380
+And again it's only because the capacitor here doesn't have a resistance right.
+
+04:55.380 --> 05:01.270
+If there was a resistance you've got to be a bit more careful but you simply short that capacitor.
+
+05:02.810 --> 05:07.730
+If there's any resistance in parallel with it all the current is going to go through the shorted bit.
+
+05:08.000 --> 05:11.040
+None of the current is going to flow through that more resistive path.

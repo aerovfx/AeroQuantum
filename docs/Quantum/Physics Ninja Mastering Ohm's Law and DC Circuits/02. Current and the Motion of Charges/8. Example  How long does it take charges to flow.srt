@@ -1,0 +1,91 @@
+WEBVTT
+
+00:00.360 --> 00:05.130
+All right here's another kind of just simple example here says How long does it take so how long would
+
+00:05.130 --> 00:09.440
+it take for an electron to drift from your car battery to the starter motor.
+
+00:09.480 --> 00:11.540
+That distance is approximately 1 meter.
+
+00:11.580 --> 00:17.680
+And the drift speed similar to what we calculated 3.7 times tend of the negative 5.
+
+00:17.730 --> 00:19.350
+So this one's pretty straightforward right.
+
+00:19.340 --> 00:26.430
+We have an electron electron wants to travel a certain distance from the battery all the way to the
+
+00:26.430 --> 00:27.450
+starter motor.
+
+00:27.690 --> 00:30.430
+Let's say that distance is approximately 1 meter.
+
+00:30.750 --> 00:34.380
+Let's call that Delta X. We know that the speed here.
+
+00:34.380 --> 00:39.450
+This is the drift velocity v and all we want to do now is find the time.
+
+00:39.570 --> 00:45.600
+So VD would be a displacement divided by Delta T.
+
+00:45.600 --> 00:46.780
+How long it takes.
+
+00:47.040 --> 00:55.480
+So you rearrange this equation delta t simply delta x divided by this drift velocity.
+
+00:56.030 --> 01:05.890
+So you simply have one meter and divide that through by 3.7 times ten to the five meters per second.
+
+01:06.410 --> 01:13.030
+At the end of the day put that in a calculator we get 2.7 multiplied times ten to the four seconds.
+
+01:13.080 --> 01:14.120
+That doesn't tell me a lot.
+
+01:14.120 --> 01:16.000
+Other than it's a really big number right.
+
+01:16.120 --> 01:18.050
+27000 seconds.
+
+01:18.590 --> 01:21.190
+Let's convert that maybe see how many hours that is.
+
+01:21.200 --> 01:27.020
+So we have 2.7 times ten of the four seconds.
+
+01:27.020 --> 01:31.050
+We start with seconds at the end I want to get rid of seconds.
+
+01:32.350 --> 01:35.420
+And I want to get ours in one hour.
+
+01:35.420 --> 01:42.610
+I know there is 60 Minutes and in each minute there's 60 seconds so you get something like this.
+
+01:42.770 --> 01:47.280
+That gives me approximately seven point five hours to do that on the calculator.
+
+01:47.800 --> 01:52.690
+So that's pretty remarkable right for an electron to go from the motor to your battery.
+
+01:52.810 --> 01:54.610
+It takes seven and a half hours.
+
+01:54.770 --> 01:57.990
+So the drift velocity is very very slow.
+
+01:58.370 --> 02:05.480
+It's just what the take home message is with this example the individual velocity of an electron in
+
+02:05.480 --> 02:09.170
+a conductor or just due to thermal motion is very high.
+
+02:09.170 --> 02:11.930
+However the drif philosophy is very low.

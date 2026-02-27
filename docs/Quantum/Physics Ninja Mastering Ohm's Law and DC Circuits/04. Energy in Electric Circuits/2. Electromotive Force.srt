@@ -1,0 +1,250 @@
+WEBVTT
+
+00:00.210 --> 00:05.380
+All right I want to now talk a little bit about Electromotive forces the short terms.
+
+00:05.640 --> 00:09.930
+People use the three letters ESF to describe this.
+
+00:10.050 --> 00:14.730
+So let's consider this simple circuit I have over here which forms a closed loop.
+
+00:14.730 --> 00:19.310
+So I have this green box here represents just the battery of the label the two terminals of the battery
+
+00:19.320 --> 00:21.000
+here is the one positive one negative.
+
+00:21.000 --> 00:23.690
+Could be like a 9 volt battery for example.
+
+00:24.000 --> 00:30.180
+And now well we know what's going to happen that this battery here will produce an electric field in
+
+00:30.180 --> 00:30.730
+the wire.
+
+00:30.780 --> 00:36.910
+So if you look at the electric field on this section it would be in that direction if you look at the
+
+00:36.910 --> 00:43.100
+electric field over here it's in this direction and the electric field over here is in that direction
+
+00:45.580 --> 00:50.620
+other things we discuss the direction of the current the direction of the current should be in the direction
+
+00:50.620 --> 00:52.340
+of our electric field.
+
+00:52.340 --> 00:57.760
+And again here we're talking about the positive electric current and the positive electric current was
+
+00:57.820 --> 01:02.050
+actually in the opposite direction of the flow of electrons.
+
+01:02.050 --> 01:05.890
+All right if you're an electron over here and this section of the wire.
+
+01:06.070 --> 01:11.440
+Well again I don't want to go anywhere near this negative terminal because I'm also charged negatively.
+
+01:11.440 --> 01:13.860
+So I'm actually going to move in that direction.
+
+01:13.860 --> 01:14.100
+All right.
+
+01:14.110 --> 01:15.070
+So an electron
+
+01:17.610 --> 01:21.030
+actually flows in the opposite direction of the positive current.
+
+01:21.030 --> 01:22.830
+But that's kind of the same thing right.
+
+01:22.830 --> 01:27.990
+Negative charges flowing in one direction are the equivalent to having a positive current in the opposite
+
+01:27.990 --> 01:29.060
+direction.
+
+01:29.110 --> 01:33.630
+MacDraw one more electron here and again that would go in that direction.
+
+01:33.630 --> 01:38.550
+Now that's all fine and dandy but let's look at what happens inside this battery.
+
+01:38.580 --> 01:42.880
+So what is the direction of the electric field produced by the battery here inside.
+
+01:43.200 --> 01:48.930
+Well again if it goes from positive to negative inside the wire it also has to go from positive to negative
+
+01:49.350 --> 01:51.200
+inside the battery.
+
+01:51.290 --> 01:53.110
+OK.
+
+01:53.370 --> 01:55.920
+However look what happens if you're an electron over here.
+
+01:55.920 --> 01:59.390
+So you've kind of done the complete loop and then you get over here.
+
+01:59.670 --> 02:06.750
+Well you're actually quite happy to remain near this positive terminal right why would you want to go
+
+02:06.750 --> 02:08.340
+to the negative terminal.
+
+02:08.370 --> 02:10.730
+You're not going to do that by yourself.
+
+02:10.740 --> 02:11.290
+OK.
+
+02:11.640 --> 02:16.860
+It's kind of the same thing as the water fountain picture I had on the previous slide.
+
+02:16.860 --> 02:22.380
+Right once the water gets to the bottom water is quite happy to remain down there at the bottom pool.
+
+02:22.440 --> 02:30.030
+However there is a pump that actually brings the water back up and that is because something is doing
+
+02:30.030 --> 02:37.050
+work an external agent is doing work in order to bring that water bring those water droplets back to
+
+02:37.050 --> 02:38.070
+the top.
+
+02:38.120 --> 02:44.850
+It's doing work because there is the force of gravity acting down imagine here if we take this let me
+
+02:44.850 --> 02:46.810
+draw a simple water fountain over here.
+
+02:52.650 --> 02:57.280
+It won't be as decorative as the other one but let's draw water droplets.
+
+02:57.360 --> 03:01.650
+Now we know there's a force of gravity acting on that water droplets.
+
+03:01.860 --> 03:09.200
+So as it's going up there is a force of gravity acting down so there has to be a force that opposes
+
+03:09.200 --> 03:10.650
+that right.
+
+03:10.670 --> 03:16.250
+Some applied force in order to bring it back and that's the force due to the pump.
+
+03:16.490 --> 03:23.480
+Then once it gets to the top you've basically done work against the force of gravity or against gravity
+
+03:23.480 --> 03:28.700
+in order to get it there you've changed the potential energy of the water droplet.
+
+03:29.540 --> 03:35.180
+So it's kind of analogous to what's going to happen inside this battery although the electron is quite
+
+03:35.180 --> 03:36.670
+happy to remain here.
+
+03:36.710 --> 03:38.890
+There is going to be a force.
+
+03:39.030 --> 03:44.510
+It's not the force produced by this electric field there is a force acting on that charge that force
+
+03:45.020 --> 03:49.030
+as that electron moves.
+
+03:49.250 --> 03:54.140
+There is an electric force acting on it which is opposite of the electric field.
+
+03:54.230 --> 03:56.690
+This is the force produced by that electric field.
+
+03:56.940 --> 04:01.710
+So there has to be another force acting on this electron in order to move it on the other side.
+
+04:02.160 --> 04:11.260
+Let's just call that f and now this origin of this force here comes from the chemical reaction inside
+
+04:11.260 --> 04:14.770
+that battery could be some diffusion process.
+
+04:14.860 --> 04:20.390
+But basically there is a force that ends up being either at least the same size or a little bit bigger.
+
+04:20.410 --> 04:25.900
+That does work on this electron against this electric field to bring it to the negative terminal.
+
+04:26.170 --> 04:31.210
+All the details of this are really not that important for our our class over here but I just want to
+
+04:31.210 --> 04:35.610
+kind of describe the process a little bit that the battery.
+
+04:35.620 --> 04:41.200
+What it does is it does work for every single charge for every single electron it has to do work in
+
+04:41.200 --> 04:43.420
+order to bring it to the negative terminal.
+
+04:43.420 --> 04:45.490
+It's analogous to the water pump.
+
+04:45.790 --> 04:51.760
+The pump has to do work on every single water droplet in order bring it to the top and then gravity
+
+04:51.760 --> 04:54.620
+will do work to bring it back down.
+
+04:54.820 --> 05:00.600
+The amount of work done is related to the potential difference between both of those terminals.
+
+05:00.880 --> 05:07.510
+If the potential differences let's call this side here terminal a let's call this terminal B the potential
+
+05:07.510 --> 05:10.620
+differences V.A mine is VB.
+
+05:11.040 --> 05:16.260
+And this is what they call the electromotive force and we give it the letter e like this.
+
+05:17.100 --> 05:17.670
+OK.
+
+05:17.850 --> 05:27.910
+This comes in units of volts and a volt if you recall is a jewel Procul on joules are units of energy
+
+05:27.910 --> 05:29.630
+or units of work.
+
+05:29.650 --> 05:34.760
+So this is the amount of work done per unit charge.
+
+05:34.780 --> 05:41.560
+Now if you want to know how much current you get now now you can apply Ohm's law because the voltage
+
+05:41.560 --> 05:45.880
+difference now is given by this DMF of the battery.
+
+05:45.880 --> 05:54.120
+And this here must be equal to the current multiplied by the resistance and the resistance would be
+
+05:54.120 --> 05:56.580
+the resistance of this wire it could also include.
+
+05:56.590 --> 06:02.370
+There's also some internal resistance to that battery but let's just include the resistance of the wire
+
+06:02.370 --> 06:03.060
+for now.
+
+06:03.150 --> 06:08.580
+So you'd be able to solve this and obtain how much current Do I get for this value of MF.

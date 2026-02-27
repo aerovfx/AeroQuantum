@@ -1,0 +1,156 @@
+WEBVTT
+
+WEBVTT
+
+00:00.410 --> 00:02.750
+All right now I want to talk about GAUSS LAW.
+
+00:02.760 --> 00:05.410
+So goes his law is super important.
+
+00:05.500 --> 00:15.360
+So let's see why we would use Gauss his law Gauss his law is allows us to calculate the flux
+
+00:21.180 --> 00:29.760
+in a different way OK as opposed versus using the field multiplied by the area times cos of the angle
+
+00:29.760 --> 00:30.110
+theta.
+
+00:30.120 --> 00:33.120
+We just saw that version give us another way of doing it.
+
+00:33.120 --> 00:35.460
+That's what GAUSS LAW is going to do.
+
+00:35.460 --> 00:40.440
+The thing goes his law also allows us to do is can be used
+
+00:43.080 --> 00:46.430
+just write this down to calculate
+
+00:49.690 --> 00:54.980
+Q electric fields which is kind of cool.
+
+00:54.970 --> 00:57.230
+OK we're gonna look at a couple of cases.
+
+00:57.370 --> 01:04.630
+This case however though is really only in some cases you can use it to calculate electric fields only
+
+01:04.630 --> 01:08.980
+for really like symmetric objects.
+
+01:08.980 --> 01:11.240
+All right we'll going to look at which cases you can use.
+
+01:11.410 --> 01:13.750
+Gauss is a lot of calculate the electric field.
+
+01:13.840 --> 01:17.270
+So let me go ahead and define what Gauss is law is.
+
+01:18.160 --> 01:26.500
+The other thing that we're going to need to do is we're going to need to uses close surfaces closed
+
+01:27.310 --> 01:28.450
+surfaces only
+
+01:32.260 --> 01:36.280
+so you can't use open surfaces like the case we just saw before.
+
+01:36.280 --> 01:36.690
+OK.
+
+01:37.030 --> 01:38.470
+So let me just highlight that.
+
+01:38.470 --> 01:40.300
+No open surfaces
+
+01:46.430 --> 01:46.660
+all right.
+
+01:46.660 --> 01:51.670
+Let's write down what Gauss is law is it simply says that the flux the electric flux just the way we
+
+01:51.670 --> 01:52.380
+know it.
+
+01:52.900 --> 01:58.990
+However it's through a closed loops through a close surface
+
+02:04.140 --> 02:12.480
+the electric flux going through any closed surface is equal to the amount of charge inside that surface
+
+02:12.870 --> 02:15.020
+divided by epsilon 0.
+
+02:15.030 --> 02:21.810
+And again this here was simply the permitted city of free space.
+
+02:22.240 --> 02:24.870
+That was our number that we used before right.
+
+02:25.030 --> 02:27.870
+The eight point eight five times tend to the negative twelve.
+
+02:28.090 --> 02:30.130
+And this is just the total charge.
+
+02:30.130 --> 02:32.110
+Right.
+
+02:32.110 --> 02:33.310
+Total charge.
+
+02:33.310 --> 02:41.740
+However it has enclosed here so it's really the total charge inside my surface.
+
+02:41.740 --> 02:43.370
+This is not obvious.
+
+02:43.420 --> 02:46.180
+It's actually a really remarkable result.
+
+02:46.780 --> 02:54.250
+So we're gonna go look at a couple of cases we want to use it for really symmetric objects so symmetric
+
+02:54.280 --> 03:01.390
+objects is we're going to use it for a point charges that's pretty symmetric.
+
+03:02.110 --> 03:12.270
+We're gonna use it for lines of charge and also for kind of 2D planes.
+
+03:12.580 --> 03:14.830
+Those are all very symmetric objects.
+
+03:14.860 --> 03:15.090
+OK.
+
+03:15.100 --> 03:17.750
+So we can actually define close services.
+
+03:17.800 --> 03:23.680
+Look at how much charge is inside and then actually use this to find the electric field produced by
+
+03:23.680 --> 03:25.420
+each one of these three objects.
+
+03:25.760 --> 03:30.740
+So let's go on the next page now and focus a little bit more on both of these terms is so we can practice.
+
+03:30.810 --> 03:31.220
+OK.
+
+03:31.330 --> 03:37.720
+Because there's really two sides through Gauss is law there's a left hand side is calculating the flux
+
+03:37.720 --> 03:43.030
+through close surfaces and then there is evaluating the right hand side which is looking at the enclosed
+
+03:43.030 --> 03:44.060
+charge.
+
+03:44.080 --> 03:48.660
+OK so let's go look at both of these different sides of Gauss law and how we would evaluate it.

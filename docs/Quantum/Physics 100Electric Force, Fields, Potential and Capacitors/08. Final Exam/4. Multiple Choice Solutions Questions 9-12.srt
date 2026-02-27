@@ -1,0 +1,541 @@
+WEBVTT
+
+00:00.150 --> 00:06.830
+Here we have a uniform electric fuel with magnitude given by this six times ten of the six newtons per
+
+00:06.840 --> 00:14.640
+Coolum is directed along the x axis a cube having an edge of zero point one metres is oriented as shown
+
+00:14.640 --> 00:15.570
+in the figure.
+
+00:15.690 --> 00:20.520
+WHAT IS THE ELECTRIC FLUX passing through the shaded area right here.
+
+00:20.520 --> 00:20.770
+ALL RIGHT.
+
+00:20.790 --> 00:22.920
+SO HOW DO WE FIND THE ELECTRIC FLUX here.
+
+00:22.920 --> 00:26.640
+Just going through this area right here.
+
+00:26.640 --> 00:29.770
+Given the dimensions of everything and the electric field.
+
+00:29.820 --> 00:35.700
+So again if you consider the electric field here is in the positive x axis or fields should be going
+
+00:35.700 --> 00:37.270
+directly like this.
+
+00:37.320 --> 00:43.890
+We also would have liked the area the normal to the area the vector that's perpendicular IS ALSO LIKE
+
+00:43.890 --> 00:44.790
+THIS.
+
+00:45.030 --> 00:45.270
+ALL RIGHT.
+
+00:45.300 --> 00:51.450
+SO IF YOU REMEMBER THE DEFINITION OF THE ELECTRIC FLUX it would be the for a constant field anyway it's
+
+00:51.450 --> 00:57.720
+the magnitude of the field the magnitude of the area and coast of the angle between the electric field
+
+00:58.260 --> 01:00.990
+and the vector that's perpendicular to the area.
+
+01:01.050 --> 01:07.260
+In this case here the theta is equal to zero degrees so coast of zero equals to one.
+
+01:07.260 --> 01:09.100
+So we don't have to worry about this.
+
+01:09.150 --> 01:14.700
+So our electric flux reduces the simply the field magnitude multiplied by the area.
+
+01:14.730 --> 01:16.330
+So this is pretty easy.
+
+01:16.590 --> 01:21.120
+Field MAGNITUDE IS SIX TIMES 10 TO THE 6 in the area.
+
+01:21.120 --> 01:28.180
+Again it's a square and the side is zero point one so you have to square that thing.
+
+01:28.320 --> 01:33.420
+So again six times tend to the six I don't even need a calculator for this one this is zero point zero
+
+01:33.420 --> 01:41.790
+one at the annual SHOULD GET SIX TIMES 10 TO THE FOUR.
+
+01:41.810 --> 01:47.150
+OKAY SO THE CORRECT ANSWER FOR THIS ONE LOOKS LIKE IT'S GOING TO BE choice B.
+
+01:47.160 --> 01:49.500
+So nothing too difficult about this problem.
+
+01:49.500 --> 01:51.770
+Hopefully you got that one all right.
+
+01:51.770 --> 01:58.130
+Question 10 says we have two tiny particles having these charges over here they're separated by 20 centimeters.
+
+01:58.160 --> 02:03.930
+What are the magnitudes and direction of the electric field midway between the charges.
+
+02:03.950 --> 02:06.000
+All right so let's go ahead and draw them out.
+
+02:06.020 --> 02:14.480
+So we have a 20 micro Coolum charge 20 micro cool on and then we're going to have a negative 8 micro
+
+02:14.480 --> 02:15.260
+Coolum.
+
+02:15.350 --> 02:19.170
+Put this one here and this is negative 8 micro cool.
+
+02:19.280 --> 02:25.610
+And what we want to know is at the midway between them they're separated by 20 centimeters.
+
+02:25.790 --> 02:29.900
+So that's this distance right here I'm going to put that right in meters right away that zero point
+
+02:29.900 --> 02:31.400
+two meters.
+
+02:31.400 --> 02:36.020
+What we want to know here is right here at the midpoint what is the electric field right here at this
+
+02:36.020 --> 02:37.150
+point.
+
+02:37.190 --> 02:42.530
+So first thing we have to figure out is where there's going to be two contributions to the electric
+
+02:42.530 --> 02:43.500
+field.
+
+02:43.540 --> 02:47.410
+There is the electric field produced by the positive one which is like this.
+
+02:47.420 --> 02:55.910
+This here has a magnitude let's call it E E 1 and the negative charge also produces an electric field.
+
+02:55.910 --> 02:59.930
+And again we're going to call it's magnitude E 2.
+
+02:59.930 --> 03:05.030
+At the end we have to add them up as vectors since they're in the same direction we simply have to add
+
+03:05.030 --> 03:05.860
+them up.
+
+03:05.870 --> 03:11.870
+One thing we could do right away is that if you look at all these choices some of them say it's directed
+
+03:11.870 --> 03:16.270
+toward the positive charge so it can't be anything directed toward the positive charge.
+
+03:16.340 --> 03:19.180
+It has to be directed toward the negative charge.
+
+03:19.220 --> 03:19.420
+All right.
+
+03:19.430 --> 03:22.380
+So let's eliminate choice to be in choice D right away.
+
+03:22.580 --> 03:24.590
+And now we're left with different magnitude.
+
+03:24.590 --> 03:28.910
+So now we have to be a little bit more careful rights either tend to the fourth end of the five or ten
+
+03:28.910 --> 03:30.130
+to the six.
+
+03:30.130 --> 03:34.070
+So let's go ahead and look at the magnitudes of each one of those things.
+
+03:34.100 --> 03:34.400
+All right.
+
+03:34.430 --> 03:42.290
+So E one right here is going to be k q and divided by the distance.
+
+03:42.290 --> 03:46.940
+Now the distance is zero point one squared.
+
+03:47.120 --> 03:47.510
+All right.
+
+03:47.510 --> 03:58.520
+And e to is going to be k its charge here is going to be so let's just call it Q2 and again the distance
+
+03:58.520 --> 04:00.630
+is still zero point one squared.
+
+04:00.650 --> 04:05.510
+Let's go ahead and substitute in all our numbers here nine times 10 to the nine is for the K value.
+
+04:05.600 --> 04:11.460
+This charge is 20 micro cooldown times tend to the negative 6.
+
+04:11.990 --> 04:15.920
+And all of this divided by zero point one squared.
+
+04:15.920 --> 04:20.810
+All right so be a little bit careful when you plug that in your calculator for the negative charge you
+
+04:20.810 --> 04:21.440
+have.
+
+04:22.040 --> 04:28.580
+Whoops just said Let's substitute our numbers so we get nine times ten to the nine for our constant
+
+04:28.580 --> 04:29.210
+k.
+
+04:29.300 --> 04:34.520
+The magnitude of this charge is eight times tend to the negative six.
+
+04:34.520 --> 04:39.920
+And now how far is it away from that charge the point where we're evaluating the field is zero point
+
+04:39.920 --> 04:41.410
+one meter.
+
+04:41.630 --> 04:41.900
+All right.
+
+04:41.900 --> 04:45.460
+At the end what you have to do here is you have to add both of those up.
+
+04:45.470 --> 04:49.700
+So we have to take calculate those numbers and add them up.
+
+04:49.760 --> 04:50.130
+All right.
+
+04:50.150 --> 04:53.500
+Now I'm going to let you kind of go ahead and do that at the end.
+
+04:53.500 --> 04:54.660
+If you do it correctly.
+
+04:54.690 --> 04:56.660
+Let me check my answers right here.
+
+04:56.660 --> 05:01.480
+I think I obtain an answer which was a 10 to the six.
+
+05:01.480 --> 05:09.080
+All right it's over 10 if you do careful here at the end e total is equal to the magnitude of each one
+
+05:09.080 --> 05:11.070
+plus the magnitude of E two.
+
+05:11.090 --> 05:11.380
+OK.
+
+05:11.390 --> 05:15.490
+Which gives me twenty five point two times ten of the six.
+
+05:15.500 --> 05:19.410
+And that's measured and nuanced per Pakula that's our magnitude.
+
+05:19.430 --> 05:19.680
+All right.
+
+05:19.740 --> 05:24.860
+But those are the basic steps into getting to that answer all right.
+
+05:24.870 --> 05:26.200
+Here's number 11.
+
+05:26.300 --> 05:32.300
+The end of the electrical potential in this case OK electrical potential a distance of 4 meters from
+
+05:32.300 --> 05:35.830
+a certain point charges to 200 volts.
+
+05:35.870 --> 05:40.640
+What is the potential at a distance of two meters from the same charge.
+
+05:40.640 --> 05:40.940
+All right.
+
+05:40.970 --> 05:42.770
+So let me kind of draw this one out here.
+
+05:42.770 --> 05:47.960
+So we have oh let's get rid of that maybe use this.
+
+05:47.960 --> 05:50.070
+All right let's draw a positive chart.
+
+05:50.080 --> 05:56.270
+I know it's positive because it's 200 volts and I'm going to be a certain distance of four meters away.
+
+05:56.270 --> 06:02.180
+So let me draw kind of point over here that's four meters away.
+
+06:02.480 --> 06:04.010
+I don't know exactly where that is.
+
+06:04.010 --> 06:09.850
+So really could be kind of anywhere on this sphere that is four meters away.
+
+06:09.950 --> 06:10.520
+Right.
+
+06:10.550 --> 06:16.730
+That the potential everywhere here is two hundred volts and the formula you would use to calculate this
+
+06:16.730 --> 06:25.310
+would be that the potential V from the point charge it would be k q divided by the distance in this
+
+06:25.310 --> 06:32.550
+case it's the distance are so hours for what is the potential now if you're only two meters away.
+
+06:32.600 --> 06:38.710
+So what if you cut that distance in half what happens okay.
+
+06:39.020 --> 06:40.640
+Well if you think about it now.
+
+06:40.660 --> 06:42.310
+So when you're four right here.
+
+06:42.310 --> 06:47.350
+So if I make the distance smaller I should have a higher electrical potential.
+
+06:47.380 --> 06:48.340
+Okay.
+
+06:48.400 --> 06:53.740
+And again if the distance now is two instead of keeping everything else the same which you would have
+
+06:53.740 --> 07:01.340
+is the potential would be k q the same K the same Q And the distance now is are over two.
+
+07:01.360 --> 07:10.540
+So it really be two times k q over R and this guy here in the bracket is what we call two hundred volts.
+
+07:10.540 --> 07:16.900
+So in this case here you'd have to have four hundred volts so the potential gets bigger as I go closer.
+
+07:16.900 --> 07:17.260
+Okay.
+
+07:17.270 --> 07:24.760
+And for this case here going from two meters to four meters I doubling the distance in this case the
+
+07:24.760 --> 07:27.750
+potential goes down by a factor of two.
+
+07:27.790 --> 07:30.300
+So we have to have 400 volts.
+
+07:30.920 --> 07:37.480
+I would have probably eliminated choice B right away and a whole so choice D I would have probably also
+
+07:37.480 --> 07:42.070
+eliminated choice a the potential is not going to stay the same because it's produced by a point charge
+
+07:42.550 --> 07:46.800
+and it's not going to get smaller because I'm getting closer to that charge.
+
+07:46.810 --> 07:51.250
+So I would have been left with only two choices and then doing a little bit of math would have got me
+
+07:51.250 --> 07:52.110
+to the right answer.
+
+07:52.120 --> 07:53.550
+So sees the right answer here.
+
+07:54.760 --> 07:55.090
+All right.
+
+07:55.120 --> 07:56.540
+So let's have a look in number 12.
+
+07:56.530 --> 08:03.610
+We have two protons are fired toward each other in a particle accelerator with only the electrostatic
+
+08:03.610 --> 08:10.020
+force acting which of the following statements must be true as they move closer together.
+
+08:10.400 --> 08:10.650
+OK.
+
+08:10.660 --> 08:11.980
+There could be more than one answer.
+
+08:11.990 --> 08:13.240
+So let's kind of draw it out here.
+
+08:13.250 --> 08:16.090
+Imagine when they're really far away.
+
+08:16.090 --> 08:21.070
+So there's a force acting on them it's repulsive right the force might look something like this might
+
+08:21.070 --> 08:22.150
+look something like this.
+
+08:22.150 --> 08:23.160
+That's the force.
+
+08:23.170 --> 08:24.790
+What else.
+
+08:24.790 --> 08:28.500
+They're probably moving at a certain speed.
+
+08:28.500 --> 08:28.840
+All right.
+
+08:30.190 --> 08:35.920
+So what's happening to that speed as they get closer as they get closer and maybe eventually they might
+
+08:36.100 --> 08:38.020
+be something like this.
+
+08:38.080 --> 08:39.670
+How would you draw the force in this case.
+
+08:39.670 --> 08:44.120
+I think I would draw a bigger right because the distance is smaller.
+
+08:45.270 --> 08:50.920
+They're probably slowing down so I don't know maybe make the velocity a little bit smaller.
+
+08:51.040 --> 08:53.220
+There might be a point where they get close.
+
+08:53.230 --> 08:54.150
+They don't quite touch.
+
+08:54.160 --> 08:57.060
+They get to zero and then they start going back.
+
+08:57.100 --> 08:57.360
+All right.
+
+08:57.370 --> 09:00.070
+So let's have a look at some of these choices here.
+
+09:00.120 --> 09:04.410
+There are electrical potential energy Kipps keeps increasing.
+
+09:04.510 --> 09:07.960
+So do we have more potential energy over here.
+
+09:07.960 --> 09:11.420
+Well think about it in terms of kinetic and electrical potential.
+
+09:11.570 --> 09:11.920
+OK.
+
+09:11.950 --> 09:14.950
+So this is really the two forms of energy that we have.
+
+09:14.950 --> 09:20.340
+We have kinetic plus potential right over here and the first step.
+
+09:20.680 --> 09:23.260
+We have a lot of kinetic energy.
+
+09:23.350 --> 09:26.040
+So we have a small potential energy.
+
+09:26.170 --> 09:30.660
+So what happens as they get closer the kinetic energy gets smaller.
+
+09:30.670 --> 09:36.530
+So the potential energy has to go up because the total energy is conserved.
+
+09:37.140 --> 09:40.390
+So yeah that wouldn't make sense to me.
+
+09:40.390 --> 09:41.500
+What else.
+
+09:41.530 --> 09:43.700
+Their kinetic energy keeps increasing.
+
+09:43.690 --> 09:44.870
+Well no that's not true right.
+
+09:44.890 --> 09:46.610
+Because they're slowing down.
+
+09:46.630 --> 09:46.950
+Right.
+
+09:46.960 --> 09:50.660
+Because there's a force acting in the opposite direction.
+
+09:50.690 --> 09:53.770
+There are electrical potential energy keeps decreasing on No.
+
+09:53.800 --> 09:58.390
+That can't be because we just said the kinetic energy gets smaller.
+
+09:58.390 --> 10:05.230
+So that has to come at the expense of the electrostatic potential energy their kinetic energy keeps
+
+10:05.230 --> 10:06.130
+decreasing.
+
+10:06.130 --> 10:06.480
+Yes.
+
+10:06.490 --> 10:07.810
+This one here makes sense.
+
+10:07.810 --> 10:10.760
+So we have a That's good we have d That's good.
+
+10:10.780 --> 10:13.640
+Their acceleration keeps decreasing.
+
+10:13.740 --> 10:14.010
+OK.
+
+10:14.020 --> 10:19.880
+Why when I read the word acceleration I immediately think about the force is the force getting smaller
+
+10:19.880 --> 10:21.780
+or is the force getting bigger.
+
+10:21.780 --> 10:22.030
+All right.
+
+10:22.030 --> 10:25.990
+We just said here force gets bigger.
+
+10:26.050 --> 10:26.380
+All right.
+
+10:27.520 --> 10:34.780
+And the way we argue that is just by using cool Ohm's law it's the same charges but the distance between
+
+10:34.780 --> 10:36.250
+them is getting smaller.
+
+10:36.280 --> 10:43.630
+So if I divide by a small number I'm going to get a larger force larger force means larger acceleration.
+
+10:43.630 --> 10:44.270
+All right.
+
+10:44.410 --> 10:46.600
+So a India the correct answers for this one.

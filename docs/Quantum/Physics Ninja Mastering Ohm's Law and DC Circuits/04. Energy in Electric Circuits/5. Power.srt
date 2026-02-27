@@ -1,0 +1,265 @@
+WEBVTT
+
+00:00.360 --> 00:03.360
+All right consider now a certain segment of wire.
+
+00:03.810 --> 00:07.920
+And we're looking at a current or charge and the charge is going to be moving.
+
+00:07.920 --> 00:13.090
+So it's initially kind of we're just looking at a particular volume here of charge.
+
+00:13.170 --> 00:18.900
+Then over time that charge moves so the way it moves it's as though you kind of took some charge from
+
+00:18.900 --> 00:23.210
+the back end of that cylinder and moved it all the way to the front.
+
+00:23.910 --> 00:29.580
+But again if there is an electric field produced in that wire which is kind of driving this charge to
+
+00:29.580 --> 00:32.700
+move it means there is a potential difference.
+
+00:32.700 --> 00:36.520
+So you have vitæ and you have a potential VB.
+
+00:37.020 --> 00:41.040
+And what you're doing is you're moving this amount of charge you're only moving a little bit of charge
+
+00:41.040 --> 00:46.830
+at a time or you're moving that a little bit of charge from the position where the potential is V.A
+
+00:47.100 --> 00:51.510
+toward a lower electrical potential toward VB.
+
+00:51.570 --> 00:56.880
+So the voltage at point A is bigger than the voltage at point B.
+
+00:56.880 --> 01:03.780
+Now if I'm moving some positive charge remember how the potential energy now is related to the voltage
+
+01:03.780 --> 01:08.910
+at any point the potential energy is given by the charge.
+
+01:09.950 --> 01:12.790
+Multiplied by the potential at that point.
+
+01:12.800 --> 01:19.400
+So what happens when you move from A to B is you go toward a lower electrical potential but really the
+
+01:19.400 --> 01:24.070
+potential energy now at a goes toward the potential energy.
+
+01:24.110 --> 01:24.730
+B.
+
+01:24.920 --> 01:35.450
+So there is a loss in potential energy.
+
+01:35.620 --> 01:37.020
+So that's important.
+
+01:37.570 --> 01:43.110
+So if you look at all the energy that is lost so you initial is at point A.
+
+01:43.330 --> 01:46.320
+Now let's look at the change in the potential energy.
+
+01:46.320 --> 01:50.590
+There is a change in potential energy when this charge moves from the back end of the cylinder through
+
+01:50.590 --> 01:55.980
+the front means we've changed the potential energy of the system.
+
+01:55.980 --> 02:03.600
+Now if you do that at a particular rate as this kind of current moves down it's as though you're always
+
+02:03.600 --> 02:07.530
+bringing in charge from the back and moving it to the front.
+
+02:07.530 --> 02:12.010
+This is done at a particular rate and this is what we call the power.
+
+02:12.160 --> 02:14.490
+The power is the rate at which you do work.
+
+02:14.580 --> 02:19.300
+And in order to move that charge from one end to the other there is work done.
+
+02:19.310 --> 02:25.950
+Now if you substitute things in here what you get is again we're reading potential energy to the voltage
+
+02:26.280 --> 02:29.420
+and the amount of charge that we're bringing over is this little bit.
+
+02:29.420 --> 02:34.400
+Delta Q and multiplied by this change in voltage.
+
+02:34.420 --> 02:36.490
+So this is actually vitæ.
+
+02:36.780 --> 02:38.900
+Mine is v.v.
+
+02:40.080 --> 02:48.340
+And again since I'm looking at a rate at which I'm changing the energy of a system you can look at you
+
+02:48.340 --> 02:50.770
+still have to divide through by this change in time.
+
+02:50.770 --> 02:53.300
+How much time does it take to do that.
+
+02:53.410 --> 02:55.310
+All right now we can combine some terms.
+
+02:55.390 --> 02:56.490
+Again V-A mine is.
+
+02:56.500 --> 02:59.810
+VB is typically what we simply call the voltage.
+
+03:00.040 --> 03:09.160
+So the power at the end ends up simply looking like this delta Q divided by Delta T and multiplied by
+
+03:09.190 --> 03:14.890
+just the voltage V where again the voltage is simply equal to V.A. mine is VB for short.
+
+03:14.890 --> 03:17.230
+It's always a difference of potential.
+
+03:17.290 --> 03:25.750
+Now Delta Q over delta T that is the definition of our current and v is the potential difference across
+
+03:25.750 --> 03:27.450
+two points that we're looking at.
+
+03:28.950 --> 03:30.850
+So here is a power equation.
+
+03:32.320 --> 03:40.510
+It's the rate at which there's either work done by the battery or it's the rate at which energy is getting
+
+03:40.510 --> 03:43.390
+dissipated in a resistor.
+
+03:43.650 --> 03:48.540
+If we look at the units of this current multiplied by voltage.
+
+03:48.540 --> 03:56.490
+So let's look at the units of our power units of current and cool ohms per second that's an AMPS multiplied
+
+03:56.490 --> 03:58.710
+by Jewel Procul.
+
+03:59.250 --> 04:00.970
+That's the units of voltage.
+
+04:01.270 --> 04:03.990
+And at the n cool ohms cancel out.
+
+04:04.230 --> 04:09.420
+And what you're left with here are units of Joule per second.
+
+04:10.130 --> 04:15.760
+And this is what we call a watt one joule per second is equivalent to 1 watt.
+
+04:15.960 --> 04:20.710
+So the units of power are Joule per second.
+
+04:22.400 --> 04:30.870
+Which is equivalent to what's OK so this is kind of an important equation.
+
+04:31.050 --> 04:35.150
+Now it really can be written in three different forms this power equation.
+
+04:35.280 --> 04:36.270
+So let's have a look at that.
+
+04:36.270 --> 04:38.850
+So this is kind of one form.
+
+04:38.850 --> 04:45.990
+Now you you combine this with Ohm's Law Ohm's law if you remember said that voltage is related to the
+
+04:45.990 --> 04:49.750
+current by the resistance.
+
+04:49.750 --> 04:49.960
+Right.
+
+04:49.960 --> 04:53.780
+We had this equation here for Ohm's law.
+
+04:53.850 --> 04:55.780
+Again we have the three variables.
+
+04:55.890 --> 05:01.110
+And the way it's written now in the black box over here is it doesn't include the value of the resistance.
+
+05:02.500 --> 05:09.100
+However if I substitute V into my power equation what I'm going to get is a slightly different form
+
+05:09.100 --> 05:11.320
+so let me write it down over here.
+
+05:11.460 --> 05:18.760
+It's the same equation but you just substitute V using Ohm's law and what you find is it's you're going
+
+05:18.760 --> 05:19.310
+to get I.
+
+05:19.320 --> 05:20.130
+You're going to get another.
+
+05:20.130 --> 05:21.850
+I found that V.
+
+05:21.850 --> 05:28.990
+So the power equation can sometimes be written like this and it can also be written by eliminating the
+
+05:28.990 --> 05:29.700
+current.
+
+05:29.950 --> 05:36.160
+I can eliminate the current by using Ohm's law by substituting the current in my power equation by V
+
+05:36.160 --> 05:37.170
+divided by R.
+
+05:37.170 --> 05:44.160
+And if I do that the power here can be written as the squared over are.
+
+05:44.170 --> 05:47.850
+So here are kind of two other forms of writing the exact same equation.
+
+05:49.810 --> 05:56.320
+There are some cases where this form might be kind of more convenient we'll see and simple circuits
+
+05:56.320 --> 06:02.080
+that I kind of like this form if I'm looking at the power being delivered by the battery I usually can
+
+06:02.080 --> 06:06.410
+figure out how much current is flowing through the battery and I usually know what the voltages are
+
+06:06.430 --> 06:08.260
+what the IAM method the battery is.
+
+06:08.260 --> 06:15.190
+So this is very easy to calculate when I'm looking at resistors if I'm looking at resistors you typically
+
+06:15.190 --> 06:21.370
+know the value of R and then we'll have tricks to help us find what the current is so these forms are
+
+06:21.370 --> 06:28.420
+kind of good but it's also you know we have to remember that the voltage here always means the voltage
+
+06:28.420 --> 06:30.680
+across the element that we're looking at.
+
+06:30.940 --> 06:34.300
+If you're looking at a resistor it's the voltage across the resistor.
+
+06:34.390 --> 06:38.050
+If you're looking at an IMF it's the IMF or the battery.

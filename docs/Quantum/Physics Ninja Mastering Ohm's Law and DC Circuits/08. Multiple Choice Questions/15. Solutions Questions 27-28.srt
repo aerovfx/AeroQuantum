@@ -1,0 +1,130 @@
+WEBVTT
+
+00:00.130 --> 00:07.140
+Are problem 27 circuits connected to a 9 volt battery with a net resistance of forty point five ohms.
+
+00:07.140 --> 00:12.960
+How much energy is being dissipated by the circuit in a time interval of one minute.
+
+00:12.960 --> 00:13.440
+All right.
+
+00:13.480 --> 00:14.100
+And be careful.
+
+00:14.100 --> 00:17.220
+This is energy in one minute.
+
+00:17.220 --> 00:21.410
+All right we basically just have a simple circuit with one battery.
+
+00:21.600 --> 00:26.020
+Basically one resistor we know this is Nine volts.
+
+00:26.020 --> 00:29.790
+We know our is forty point five.
+
+00:30.220 --> 00:36.940
+We can easily calculate the power right the power being dissipated by that resistance is simply V squared
+
+00:37.510 --> 00:38.920
+divided by our.
+
+00:39.310 --> 00:40.600
+So we get 81.
+
+00:40.630 --> 00:44.830
+That's our 9 squared divided by forty point five.
+
+00:44.830 --> 00:45.320
+All right.
+
+00:45.490 --> 00:46.360
+Now remember what this is.
+
+00:46.360 --> 00:48.210
+This is measured in Watts.
+
+00:48.210 --> 00:51.510
+That's the rate at which energy is being dissipated.
+
+00:51.520 --> 00:52.980
+Now we're given a certain time.
+
+00:52.990 --> 00:54.750
+So really this is energy
+
+00:57.840 --> 01:01.050
+per unit time per delta-T.
+
+01:01.380 --> 01:05.520
+So at the end all we're looking for here is really this guy the energy.
+
+01:05.520 --> 01:07.910
+So we need to bring the Delta team on the other side.
+
+01:08.280 --> 01:15.700
+So the total energy dissipated in one minute is call it e is going to be equal to my power multiplied
+
+01:15.750 --> 01:18.440
+by the time interval.
+
+01:18.790 --> 01:25.750
+So the power we just said was 81 divided by forty point five multiply by my time interval now.
+
+01:25.750 --> 01:27.070
+Careful you don't put in one minute.
+
+01:27.070 --> 01:30.360
+Remember this is in Watts's in Joule per second.
+
+01:30.550 --> 01:34.390
+So we need to multiply by 60 seconds in order to get the right units.
+
+01:34.390 --> 01:37.940
+We want to get our answer to be measured in joules at the end.
+
+01:37.940 --> 01:40.510
+All right put that in the calculator punch it in.
+
+01:40.690 --> 01:42.740
+You get 120 joules of energy.
+
+01:42.820 --> 01:52.730
+So a correct answer for that one choice a problem 28 a resistor has a value of 1 times 10 to the 6 ohms.
+
+01:52.930 --> 02:00.190
+The capacitor is one Daniel Feraud connected in series to a battery and the switch asks What is the
+
+02:00.190 --> 02:01.410
+time constant.
+
+02:01.630 --> 02:05.180
+Well this is just the definition right the time constant.
+
+02:05.220 --> 02:12.360
+You gave it defined as the letter tau and for a simple series circuit like this the time constant is
+
+02:12.370 --> 02:16.930
+simply the resistance multiplied by the capacitance.
+
+02:16.930 --> 02:25.090
+So in this case we simply get 1 times 10 of the six ohms multiplied by a 1 nano Feraud Nano is 10 of
+
+02:25.090 --> 02:27.140
+the minus nine.
+
+02:27.400 --> 02:28.440
+So carry that out.
+
+02:28.450 --> 02:32.010
+You're left with one times ten to the minus three.
+
+02:32.020 --> 02:34.780
+And again that is measured in seconds.
+
+02:35.350 --> 02:39.060
+OK so one time 10 of the minus three looks like toys B to me.
+
+02:39.090 --> 02:41.260
+All I have the one there but you really don't need the one.

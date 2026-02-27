@@ -1,0 +1,750 @@
+WEBVTT
+
+WEBVTT
+
+00:00.830 --> 00:07.940
+Now that we have become accustomed with the concept of angular momentum, intrinsic angular momentum
+
+00:07.940 --> 00:18.740
+of a particle point particle, that is the spin and know how these physical quantities can be measured
+
+00:18.740 --> 00:28.490
+with D'Angela experiment and can be described with some simple Dirac connotation, it is time then to
+
+00:28.490 --> 00:35.810
+analyze better the physical properties that result from the spin of particles and how these properties
+
+00:35.960 --> 00:40.410
+then are encoded into an algebraic language.
+
+00:41.750 --> 00:45.080
+To illustrate this, consider first these figures.
+
+00:46.520 --> 00:56.000
+These pictures, this grass which depict in form of a block diagram the stangl device for the two possible
+
+00:56.120 --> 00:58.660
+quantized measurement outcomes.
+
+00:59.930 --> 01:09.170
+Here you see the saurus sense spin plus minus one half particles, saiz silver atoms or electrons or
+
+01:09.170 --> 01:12.020
+whatever towards an estimate.
+
+01:12.020 --> 01:16.880
+That device, which means a Garlock that measures along.
+
+01:16.880 --> 01:27.590
+There's the measures, the spin along that Z axis is the electron is in that get plus or that get minus
+
+01:27.590 --> 01:36.800
+spin and state it will be deviated towards the upper or lower part of the apparatus respectively.
+
+01:39.510 --> 01:46.980
+Let us begin with a story that measurement outcome of the spin up electronic and construct in different
+
+01:46.980 --> 01:54.540
+steps, the experimental procedure now we know just speak of electrons just to speak about quantum particles.
+
+01:54.540 --> 01:57.000
+But let's think of electrons.
+
+01:58.200 --> 01:59.730
+Begin with this diagram.
+
+02:00.710 --> 02:11.090
+Physicist, speak of a system here, just a single particle prepared in the that Kate Plus Eigen state.
+
+02:13.080 --> 02:22.950
+However, we are good experimentalists and want to be absolutely sure that when the electron went through
+
+02:22.970 --> 02:31.500
+the asset, that device it stayed was not destroyed by the measurement itself and that it is still in
+
+02:31.500 --> 02:32.750
+the that cat.
+
+02:32.760 --> 02:34.410
+Plus I can state that.
+
+02:36.690 --> 02:39.930
+And to do that, what what can we do?
+
+02:39.960 --> 02:49.170
+We simply cascade another another S.G. that device, that is another stangl like device that again measures
+
+02:49.170 --> 02:55.740
+along the same direction, in this case, that Z direction as in measurement be.
+
+02:56.590 --> 03:05.890
+If we made no mistakes and our laboratory equipment worked fine, one would again observe the electron
+
+03:05.890 --> 03:10.630
+coming out of the corresponding plus plus that output.
+
+03:12.160 --> 03:13.990
+This is an experimental fact.
+
+03:14.980 --> 03:21.550
+So we are sure that the measurement as such does not destroy the electrons intrinsic angular momentum
+
+03:22.240 --> 03:23.920
+along the Z axis.
+
+03:25.000 --> 03:34.210
+We feel therefore authorized to say that in fact the electron is in that particular spin up I can state.
+
+03:36.070 --> 03:42.710
+However, the quantum world is a bit weird world, and things are not as easy as that.
+
+03:43.840 --> 03:48.880
+To demonstrate this, let us extend our measurements along other directions.
+
+03:50.560 --> 03:58.900
+Consider measurements, see as in this figure here, here, we first select again the electron with
+
+04:00.340 --> 04:07.270
+that along that direction, and that is we prepare the system in the.
+
+04:08.510 --> 04:10.010
+Said Kate Plus.
+
+04:11.930 --> 04:19.880
+I can state so therefore, our electron has spin up along that direction with the first S.G., that
+
+04:19.880 --> 04:28.010
+device, which measure measures the spin along that tracks and then sends it through another stangl
+
+04:28.160 --> 04:28.620
+device.
+
+04:28.640 --> 04:38.390
+But this time it measures not along that the headset, but along the x axis, the spinning perpendicular
+
+04:38.720 --> 04:39.680
+x axis.
+
+04:40.190 --> 04:46.610
+Therefore, we know what we do is that we put together.
+
+04:48.160 --> 04:53.860
+Kaskade, the GST, that was the SGX device.
+
+04:55.580 --> 05:03.350
+And therefore, one measures the spin along the X axis, to do that, one has only to appropriately
+
+05:03.350 --> 05:06.450
+rotate the S.G. device magnets.
+
+05:06.470 --> 05:08.420
+Think about how it is constructed.
+
+05:10.480 --> 05:21.640
+What will be observed as output from the letter is from the letters last stand, Garlock is SGX device,
+
+05:21.880 --> 05:26.620
+is that both spin XIENG states will show up.
+
+05:27.550 --> 05:34.540
+That is, if you send several electrons through such a system of cascaded S.G. devices, you will have
+
+05:34.540 --> 05:42.940
+a 50 percent, 50 percent chance of seeing it come out in a spin up and 50 percent chance of seeing
+
+05:42.940 --> 05:46.630
+it in a spin down again state always.
+
+05:47.380 --> 05:51.370
+This is something we can measure empirically with experiments.
+
+05:53.390 --> 06:00.290
+Initially, you might have no problem with that, we may simply believe that of all the particles initially
+
+06:00.290 --> 06:11.870
+prepared in the state, that plus Kate plus I can state 50 percent of them have an X, Kate plus spin
+
+06:11.870 --> 06:20.990
+state I can state while the other 50 percent I am minus X X minus X minus except minus spin.
+
+06:22.950 --> 06:28.800
+After all, we are dealing with two different spin directions that we think of as being independent
+
+06:28.800 --> 06:35.940
+from each other, so their principal issue, I think there is no problem for our conventional classical
+
+06:35.970 --> 06:36.530
+logic.
+
+06:36.690 --> 06:44.640
+It sounds entirely legitimate to state that in preparing the system in the first stage along the Z axis
+
+06:44.790 --> 06:55.050
+as a plus particle spin plus a particle without caring in what state it is along the X axis, it makes
+
+06:55.050 --> 07:08.160
+sense that statistically we obtain 50 percent of the X Keat plus and X get minus particles at the end
+
+07:08.160 --> 07:08.790
+of the chain.
+
+07:10.500 --> 07:18.450
+And if our dangle like device is our idea and do not destroy the Igan states during any measurement
+
+07:18.450 --> 07:26.490
+processes, we might effectively, effectively consider the electron that spins along the Z axis to
+
+07:26.490 --> 07:34.950
+really be in a spin up state and along that axis, and there is no reason to believe otherwise.
+
+07:36.480 --> 07:44.040
+This interpretation, however, will not hold up because the experimental evidence evidence will show
+
+07:44.040 --> 07:45.150
+us otherwise.
+
+07:45.510 --> 07:53.850
+In fact, we are scientists who want to be very cautious and maintain absolute certainty that the intrinsic
+
+07:53.850 --> 07:57.530
+angular momentum along the Z axis is still there.
+
+07:59.990 --> 08:03.110
+Therefore, we again now.
+
+08:04.540 --> 08:13.330
+Append another S.G. device, this time along the that axis, we again measure the spin along the Z axis
+
+08:13.510 --> 08:22.060
+of one of the outcoming particles of the measurement see say that will spin up right in the X, Kate
+
+08:22.090 --> 08:23.140
+plus eight instead.
+
+08:23.860 --> 08:31.090
+And we cascade another as that device, which measures measures a spin along that direction.
+
+08:31.090 --> 08:35.080
+Again, as shown in this figure here of measurement, the.
+
+08:36.720 --> 08:43.690
+What we will discover is now that the particles spin up against state along the Z axis is gone.
+
+08:44.490 --> 08:53.910
+It is no longer determinate and becomes uncertain because again, sending many electrons, we have a
+
+08:53.910 --> 08:57.770
+50 percent chance of getting the spin up or spin down state.
+
+08:59.250 --> 09:02.640
+So it seems that along that axis, everything has been.
+
+09:03.800 --> 09:04.760
+Mixed up again.
+
+09:06.410 --> 09:11.600
+If you are not surprised about that, almost certainly you did not get the point.
+
+09:11.630 --> 09:19.220
+So please go over the whole thing again, because for our classical understanding of the world, this
+
+09:19.220 --> 09:21.830
+is a complete contradiction in measurement.
+
+09:21.830 --> 09:22.310
+Be.
+
+09:23.280 --> 09:31.200
+Didn't we twice measure that spin to ensure that the measurement did not destroy a particles intrinsic
+
+09:31.200 --> 09:32.080
+angular momentum?
+
+09:33.750 --> 09:42.720
+We can repeat the same experiment of measurement B with such as that S.G. X device cascading another
+
+09:43.800 --> 09:51.480
+X, and we won't see any destructive activity along the X axis either.
+
+09:52.710 --> 10:01.800
+If applied twice, it won't disturb the system, and yet if we first measure the spin along the Z axis
+
+10:01.800 --> 10:07.260
+and along the X axis, we see that nature does not allow for that.
+
+10:08.610 --> 10:17.910
+And by the way, if one would make the same experiments along the y axis and or in all its possible
+
+10:17.910 --> 10:20.220
+combinations, the result will not change.
+
+10:21.780 --> 10:28.800
+What all this tells us is that we cannot know at the same time the value of the spin along to Axis.
+
+10:29.820 --> 10:36.270
+And again, this is independent from any interaction between the measuring apparatus and the particle.
+
+10:37.200 --> 10:44.010
+It is important to keep in mind that this has nothing to do with the interaction between the observing
+
+10:44.010 --> 10:52.310
+device and the observed object and even less with the supposed mind or consciousness of a human observer.
+
+10:53.510 --> 11:01.850
+So does this remind you perhaps something it should, because here we have again a phenomenon which
+
+11:01.850 --> 11:05.680
+is strongly reminiscent of Heisenberg's uncertainty principle.
+
+11:06.890 --> 11:10.790
+In that case, the position and momentum were indeterminate.
+
+11:11.570 --> 11:13.820
+There could not be measured at the same time.
+
+11:14.870 --> 11:22.620
+Here they are, the spin's in the case of Heisenberg's uncertainty principle.
+
+11:23.090 --> 11:31.310
+This is expressed with the position and momentum operators here, the spin operators along three directions
+
+11:31.310 --> 11:32.180
+coming to the play.
+
+11:33.780 --> 11:37.970
+However, the underlying principle is of the very same nature.
+
+11:39.020 --> 11:46.880
+Namely, that the precise knowledge of one observable seems to be incompatible with certain knowledge
+
+11:46.880 --> 11:48.470
+of another observable.
+
+11:49.890 --> 11:57.360
+Once you measure one dynamic variable, you are no longer allowed to extrapolate anything about the
+
+11:57.360 --> 12:05.040
+state of the previous one in general, once a measurement prepares a quantum system in a specific igan
+
+12:05.040 --> 12:12.470
+state, that is, it projects the state better sign on to one of its igan basis vectors.
+
+12:13.080 --> 12:20.120
+Uh, X squared plus minus or Y get plus minus or that get plus minus.
+
+12:20.730 --> 12:29.280
+Then it also renders indeterminate the outcome associated with the other two igan states.
+
+12:31.950 --> 12:39.570
+This automatically implies that the order in which the measurement is performed is important, is very
+
+12:39.570 --> 12:40.200
+important.
+
+12:40.490 --> 12:50.850
+It is not you cannot just change the order of the measurement without a potential possible effect on
+
+12:50.850 --> 12:54.000
+it independently from the.
+
+12:54.930 --> 13:01.950
+Interaction of the measurement apparatus of the measure with the measured object.
+
+13:03.240 --> 13:11.700
+Performing a measurement on a quantum system, first with the observable as X, for example, and then
+
+13:11.820 --> 13:21.660
+with that will not lead to the same result as that stemming from performing it first with the observable
+
+13:21.660 --> 13:23.790
+as that and then as X.
+
+13:25.470 --> 13:34.410
+This is because in the former case, the system is projected, say, in can state X plus X squared plus
+
+13:34.410 --> 13:36.180
+with that.
+
+13:37.860 --> 13:45.840
+Kate, plus minus and why, Kate, plus minus uncertain why in the latter case, the system is projected,
+
+13:45.840 --> 13:48.980
+say, in Oregon State that Kate Black.
+
+13:49.260 --> 13:56.190
+Plus with nothing that can be said about the ex plus minus, Kate plus minus.
+
+13:56.190 --> 14:01.410
+And why Kate plus minus eight states in sign bulls.
+
+14:02.070 --> 14:11.770
+This means that if we first operate with the appropriate asset on the state, function on the hour,
+
+14:11.820 --> 14:14.580
+I better get my.
+
+14:15.820 --> 14:25.030
+And then operate with as X, which means apply the stone Gerlach device along the Z direction and then
+
+14:25.390 --> 14:27.220
+along the X direction.
+
+14:27.700 --> 14:29.600
+This is not the same time.
+
+14:29.620 --> 14:31.990
+This is not equal to applying.
+
+14:31.990 --> 14:38.380
+First, the ASX operator and then the asset operator on the.
+
+14:39.560 --> 14:42.770
+Same initial state capsid.
+
+14:44.400 --> 14:45.870
+Or just.
+
+14:46.840 --> 14:55.300
+Rewriting the same equation, you bring the right hand side of this equation on the left hand side,
+
+14:55.660 --> 15:06.550
+you have this simple algebraic expression which tells us that in parenthesis as X times as that, minus
+
+15:06.550 --> 15:10.720
+as that as X operating on the.
+
+15:11.800 --> 15:17.320
+GABSI does not give the result.
+
+15:18.890 --> 15:28.730
+The same applies to the other spin operator combinations such as as X, Y and S, Y and Z, physicists
+
+15:28.730 --> 15:33.320
+and mathematicians say that the observables do not commute.
+
+15:35.030 --> 15:42.590
+And express this, formerly, it was a former expression with the so-called commutation relation.
+
+15:43.620 --> 15:52.200
+Written with a square square brackets, the commentators, that is for two generic generic operators,
+
+15:52.590 --> 16:01.230
+a cap and B cap, the caps are symbols to distinguish operators from numbers that is scholars or vector
+
+16:01.230 --> 16:06.120
+quantities from operate as operators from Scotland back to quantities.
+
+16:08.280 --> 16:12.930
+The commentator is defined as connotation a cap.
+
+16:13.410 --> 16:16.080
+B cap equal a cap.
+
+16:16.260 --> 16:18.840
+B cap minus B cap a cap.
+
+16:19.260 --> 16:20.120
+For example.
+
+16:20.760 --> 16:33.030
+Here commentator ASX asset equals ASX asset minus asset ASX and so on is just an algebraic way to write
+
+16:33.030 --> 16:37.500
+the same thing that we have explained above.
+
+16:37.770 --> 16:45.390
+So when observables do not commute, this simply means that we can't know them both at the same time
+
+16:45.840 --> 16:52.050
+and formally that computation relations do not commit.
+
+16:53.640 --> 17:02.610
+The observers do not commute without going into too much into the algebraic details which would go beyond
+
+17:02.610 --> 17:04.560
+the scope of this.
+
+17:04.800 --> 17:07.630
+Of course it can be sure.
+
+17:07.660 --> 17:09.300
+Let us only.
+
+17:10.380 --> 17:17.850
+Say, hint, the fact that it can be shown that the spin commentators obey the following following rules,
+
+17:18.900 --> 17:31.050
+the commentators of the ASX as that observer gives a quantity, I imagine that now in no age bar.
+
+17:32.250 --> 17:37.500
+The plank's constant divide, two pi times the.
+
+17:40.230 --> 17:49.560
+Spin operator along the way axis as why the same thing commutator of X, Y and Z is equal I, h, bar
+
+17:49.920 --> 17:56.760
+X and X and the commentator of X and Y spin operators is equal.
+
+17:57.840 --> 18:06.330
+I imagine there is no age bar as that, so you see that these operators are interchangeable in this
+
+18:08.430 --> 18:18.990
+algebra, so to speak, it what this means is a bit because, again, a bit more beyond the scope of
+
+18:18.990 --> 18:19.620
+this course.
+
+18:19.620 --> 18:28.110
+But simply it is important to remember that simply these commentators do not give a zero result.
+
+18:28.530 --> 18:30.450
+They give something else.
+
+18:32.580 --> 18:42.840
+This allows us also to formally formulate Heisenberg's uncertainty principle itself, in the case of
+
+18:42.840 --> 18:48.660
+the uncertainty principle, the position and momentum operators do not commute because as we know,
+
+18:48.690 --> 18:54.580
+only one or the other observable, but not both can be determined with high precision.
+
+18:55.200 --> 19:02.010
+One can show that if one applies the position and momentum operators consecutively on the wavefunction,
+
+19:02.490 --> 19:05.070
+one will not obtain the zero result.
+
+19:06.680 --> 19:07.370
+But again.
+
+19:08.290 --> 19:16.810
+A quantity, which is the imaginary number times the Planck's constant, the bar divided to by.
+
+19:17.910 --> 19:24.270
+Therefore, formally, Heisenberg's uncertainty principle is stated by the computational relation for
+
+19:24.270 --> 19:29.300
+the position momentum observables in a three dimensional space as given the year.
+
+19:29.850 --> 19:34.840
+So it's very similar to the spin operators.
+
+19:35.490 --> 19:46.950
+But here we have the position and the momentum operator X and P or X, Y, Z and B, X, Y, Z, because
+
+19:46.950 --> 19:49.560
+we are considering the three axis and the three dimensions.
+
+19:49.950 --> 20:00.720
+And the commentators of these two operators give again something which is not a zero Skoller number,
+
+20:00.720 --> 20:04.830
+but here a number, the imaginary number of times each bar.
+
+20:06.330 --> 20:17.880
+Again, because this is a formal way to say you cannot you are not allowed to measure at the same time
+
+20:18.180 --> 20:25.470
+the two observables, if you try to do that, things become fuzzy and your.
+
+20:26.870 --> 20:34.980
+Values of your observations will become smeared out, so to speak.
+
+20:36.370 --> 20:42.010
+Therefore, very in general, it is important to keep in mind the meaning of the commutation relations
+
+20:42.010 --> 20:50.010
+and what visitors mean when they speak about observables that do not commute the nonzero nonzero commutation
+
+20:50.020 --> 20:57.790
+relations, expressing the impossibility of establishing the value of two observables at the same time
+
+20:58.330 --> 21:02.500
+is one of the most fundamental principles of quantum mechanics.
+
+21:03.790 --> 21:11.370
+This is also the former mathematical expression of what is called the Borse complimentarity principle
+
+21:12.460 --> 21:20.260
+when observables exists that we cannot know precisely at the same time they are complementary to each
+
+21:20.260 --> 21:20.610
+other.
+
+21:21.310 --> 21:24.250
+That's for both complimentarity principle.
+
+21:25.930 --> 21:32.890
+However, this does not mean that observables never commute, there are observables that commute.
+
+21:32.920 --> 21:34.290
+That is the commentator.
+
+21:34.540 --> 21:37.370
+Computational relations result is zero.
+
+21:38.710 --> 21:44.820
+This is the case when one measurement does not render the previous one uncertain.
+
+21:45.370 --> 21:51.280
+You measure make two different measurements and there nothing becomes uncertain for that.
+
+21:52.360 --> 21:56.300
+This is always the case with one observable with itself.
+
+21:56.900 --> 22:01.970
+Now, we have already seen that, which is to say that same measure is made twice.
+
+22:02.560 --> 22:09.850
+For instance, what we saw in the case B and this means that as the commutation or relation of as that
+
+22:10.870 --> 22:14.140
+is equal to zero, quite obvious fact.
+
+22:15.490 --> 22:22.990
+Otherwise we could not speak of igan states as states of a quantum system in the first place, states
+
+22:22.990 --> 22:28.260
+and of quantum system in which a repeated measurement always provides the same answer.
+
+22:29.020 --> 22:33.820
+I hope you get now the logic that stands behind all of this formalism.
+
+22:34.750 --> 22:44.770
+Another example is that space operators, uh, for example, ex commentator x y is equal to zero, which
+
+22:44.770 --> 22:53.800
+means that quantum mechanics allows for simultaneous determination of a particle position along the
+
+22:53.800 --> 22:55.330
+three space axis.
+
+22:56.440 --> 22:58.600
+Contrary to the case with the spin.
+
+22:59.780 --> 23:11.000
+That's also why we must distinguish carefully the so-called spin space state, which is just a mathematical
+
+23:11.000 --> 23:22.520
+algebraic notion from the position space, space, space states of a particle in three dimensional space.
+
+23:26.530 --> 23:35.800
+What we have seen so far is one of the basic relations of the so called quantum algebra, it differs
+
+23:35.800 --> 23:43.750
+from classical algebra because in the quantum world, the order of the product terms is no longer arbitrary
+
+23:44.230 --> 23:50.070
+in classical physics or classical mathematics, if you wish to put it in there.
+
+23:50.080 --> 23:57.000
+In that way, it is normal to think of numbers following commutative laws, for example.
+
+23:57.190 --> 24:05.740
+No one would doubt that two times three equals six is the same as saying that three times two is also
+
+24:05.740 --> 24:06.190
+six.
+
+24:07.200 --> 24:14.370
+Not so in quantum mechanics, that is why in quantum mechanics, physicists and mathematicians were
+
+24:14.370 --> 24:21.420
+forced to consider a completely new quantum algebra in a Hilbert space that is very different from the
+
+24:21.420 --> 24:26.550
+math, describing classical Newtonian physics in standard real space.
+
+24:27.690 --> 24:33.660
+The main difference is that in quantum mechanics, the objects of this algebra describing the dynamical
+
+24:33.660 --> 24:42.120
+variables are no longer numbers or classical variables, but observables mathematical operators acting
+
+24:42.120 --> 24:44.640
+on a complex wave function or state vector.
+
+24:46.140 --> 24:52.890
+For this reason, they are sometimes also sometimes also called queue numbers, these patterns, instead
+
+24:52.890 --> 25:02.100
+of the scene numbers, classical numbers, quantum numbers, classical numbers, despite not being numbers
+
+25:02.100 --> 25:02.490
+at all.
+
+25:03.780 --> 25:10.740
+This also answers the answer to the question of how physicists got to that strange and so fundamentally
+
+25:10.740 --> 25:18.660
+different form of description compared to classical physics by taking them, by taking measurements
+
+25:18.660 --> 25:19.950
+in the quantum domain.
+
+25:20.830 --> 25:28.120
+Physicists were first led to formulate new laws, which they later encoded into a formal language,
+
+25:28.690 --> 25:30.080
+not the other way around.
+
+25:31.300 --> 25:38.140
+It is true that this quantum algebra was developed by great physicists and mathematicians in the 1920s
+
+25:38.140 --> 25:47.200
+and 1930s, like John Norman, Erwin Schrodinger, then Heisenberg, McSporran, Paul Dirac and several
+
+25:47.200 --> 25:51.760
+others, and has today reached a high level of sophistication.
+
+25:53.170 --> 26:00.760
+However, its inception came into being not because of the application of common sense and logical rules,
+
+26:01.600 --> 26:04.840
+but because of rock solid evidence.
+
+26:05.410 --> 26:14.830
+Empiric experimental evidence of what the Garlock experiments have shown, as well as of other empirical
+
+26:14.830 --> 26:16.120
+evidence of, of course.
+
+26:17.810 --> 26:25.060
+Nature imposed it on us, the impossibility of establishing the value of two different quantum dynamic,
+
+26:25.070 --> 26:32.120
+dynamic variables like to spin orientation, the orientation of an for for example, for an electron
+
+26:32.600 --> 26:35.750
+is not a logical consequence of some phenomenon.
+
+26:36.500 --> 26:39.590
+It is a given fact that has no classical parallel.
+
+26:39.830 --> 26:44.340
+And even though classical logical reason to be it is as it is.
+
+26:45.570 --> 26:54.470
+That's also why several textbooks entirely skip and ignore the S.G. experiments and posit instead as
+
+26:54.470 --> 27:06.950
+basic axioms and approach that, if I may say Fev to me feels pedagogically detrimental because it skips
+
+27:07.160 --> 27:13.760
+the conceptual physics standing behind it and presents quantum mechanics as nothing more than a mathematical
+
+27:13.760 --> 27:14.480
+exercise.
+
+27:15.730 --> 27:25.030
+At any rate, the great service of Stann and Gala was not just that of measuring the magnetic momentum
+
+27:25.030 --> 27:32.200
+of a silver atom, but that of disclosing a weird quantum physical world to us, as well as that of
+
+27:32.200 --> 27:39.490
+opening the way to a huge mathematical development which turned out to be extremely useful and which
+
+27:39.490 --> 27:43.300
+is being theoretical and practical for it to this day.

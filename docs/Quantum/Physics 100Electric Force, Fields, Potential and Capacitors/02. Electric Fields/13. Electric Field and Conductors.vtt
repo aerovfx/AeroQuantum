@@ -1,0 +1,615 @@
+WEBVTT
+
+WEBVTT
+
+00:00.260 --> 00:02.580
+All right now I want to look at conductors.
+
+00:02.580 --> 00:02.940
+All right.
+
+00:02.940 --> 00:07.710
+Conductors and it could be any shape here I have a piece of copper pipe.
+
+00:07.710 --> 00:10.900
+This is a conductor now what happens if I charge it.
+
+00:10.920 --> 00:12.800
+What is the electric field inside.
+
+00:12.930 --> 00:19.260
+The conductor and the other thing I could ask is what happens if I place a conductor inside an electric
+
+00:19.260 --> 00:20.620
+field.
+
+00:20.620 --> 00:26.040
+OK if AJ and I place this copper pipe inside parallel plates that are charged and produce a uniform
+
+00:26.040 --> 00:26.940
+electric field.
+
+00:27.030 --> 00:28.050
+What would happen.
+
+00:28.050 --> 00:28.260
+OK.
+
+00:28.290 --> 00:32.760
+So there's a couple of properties of conductors and electric fields that are important to review here
+
+00:32.760 --> 00:33.920
+and try to understand.
+
+00:33.930 --> 00:34.150
+All right.
+
+00:34.170 --> 00:35.450
+So let's get started.
+
+00:35.460 --> 00:35.700
+All right.
+
+00:35.730 --> 00:38.070
+So let's start with just the conductor.
+
+00:38.070 --> 00:42.790
+I'm gonna make it any arbitrary shape it really doesn't matter all right.
+
+00:42.810 --> 00:49.380
+Just write it down that this is a conductor could be a piece of copper aluminum something where the
+
+00:49.380 --> 00:50.990
+electrons are free to move.
+
+00:51.010 --> 00:51.170
+Right.
+
+00:51.180 --> 00:53.120
+That's kind of our definition.
+
+00:53.160 --> 00:55.020
+So this is a conductor.
+
+00:55.170 --> 01:00.050
+Now one important property of conductors let's write it over here.
+
+01:00.270 --> 01:01.740
+The field inside
+
+01:05.010 --> 01:08.970
+the electric field inside has to be equal to zero.
+
+01:09.010 --> 01:14.700
+Okay this is super important if there's anything you remember about conductors it's this the field inside
+
+01:14.700 --> 01:16.600
+has to be zero.
+
+01:16.650 --> 01:19.450
+Think about it if it's the opposite of this right.
+
+01:19.470 --> 01:22.600
+What happens if there is an electric field inside.
+
+01:22.620 --> 01:27.840
+Imagine here we have an electric field inside the conductor which points like this well that automatically
+
+01:27.840 --> 01:32.910
+means that if I have an electron over here it's going to have a force acting on it.
+
+01:32.970 --> 01:33.480
+Okay.
+
+01:33.540 --> 01:37.550
+And if there is a force acting on the charge it means these charges would move.
+
+01:37.780 --> 01:38.350
+Okay.
+
+01:38.400 --> 01:39.780
+And that's really not what's happening.
+
+01:39.780 --> 01:43.860
+Because if you have moving charges that is actually an electric current.
+
+01:43.920 --> 01:49.680
+And if you just have a piece of metal a conductor just sitting there there are no charges that are moving.
+
+01:49.740 --> 01:50.400
+All right.
+
+01:50.400 --> 01:57.420
+So that is kind of the key thing right at the beginning is that the electric field inside must be zero.
+
+01:57.440 --> 01:57.720
+OK.
+
+01:57.750 --> 01:59.040
+And this is always
+
+02:02.150 --> 02:04.570
+we're going to see later on if you look at electric circuits.
+
+02:04.580 --> 02:08.200
+Now that's a different case you might have a piece of copper connected to a battery.
+
+02:08.360 --> 02:10.670
+All right in that case the charges will move.
+
+02:10.700 --> 02:16.100
+But if we just have a static conductor a piece of metal just sitting somewhere the fuel must be inside.
+
+02:16.910 --> 02:20.060
+All right what happens then if I add charge to the surface.
+
+02:20.100 --> 02:20.830
+Right.
+
+02:20.900 --> 02:25.870
+What happens if I do some if I rub it against something or if I use some induction.
+
+02:26.000 --> 02:26.650
+What happens.
+
+02:26.650 --> 02:32.960
+The charge imagine I add electrons to this conductor what happens to those charges.
+
+02:32.960 --> 02:36.230
+Well now there can't be an electron anywhere inside here.
+
+02:36.260 --> 02:36.440
+Right.
+
+02:36.440 --> 02:40.570
+This wouldn't make sense because these two charges would produce electric fields.
+
+02:40.580 --> 02:44.010
+And we said we can't have an electric field inside the conductor.
+
+02:44.390 --> 02:51.170
+So actually what happens if you add charges they actually all end up right at the surface of the conductor.
+
+02:51.170 --> 02:55.100
+So let's add a whole bunch of negative charges to this conductor
+
+02:59.400 --> 03:00.790
+if you charge it.
+
+03:01.530 --> 03:12.580
+If we add charge to a neutral conductor all of those charges will be at the surface they're gonna end
+
+03:12.580 --> 03:14.530
+up at the surface.
+
+03:14.560 --> 03:19.890
+Now the other thing you might ask yourself well how are those charges going to spread out on the surface.
+
+03:20.590 --> 03:21.080
+OK.
+
+03:21.130 --> 03:23.160
+Charges will always spread out.
+
+03:23.170 --> 03:24.010
+Let me write it down.
+
+03:24.010 --> 03:26.680
+Charges will spread out
+
+03:31.480 --> 03:35.670
+in such a way that the E inside is always zero.
+
+03:36.910 --> 03:42.940
+So the charges are going to find a way to spread out not always evenly especially if you have some sharp
+
+03:42.940 --> 03:44.220
+corners like this.
+
+03:44.220 --> 03:44.750
+Right.
+
+03:44.830 --> 03:51.170
+But they're going to find a way to spread out so that the total electric field inside must be zero.
+
+03:51.190 --> 03:59.800
+One thing we you can typically find is that along the straight sections the charge density of this conductor
+
+04:00.160 --> 04:02.730
+over here is tends to be small.
+
+04:03.250 --> 04:08.840
+This here charge density that's the charge per unit area tends to be small.
+
+04:09.400 --> 04:11.940
+If there's one more bending.
+
+04:11.980 --> 04:12.870
+OK sharper.
+
+04:12.930 --> 04:21.670
+Kind of turns to this conductor you tend to have a larger charge density smaller charge density along
+
+04:21.700 --> 04:23.350
+kind of straight surfaces.
+
+04:23.350 --> 04:28.990
+Probably more charges along the corners and you need that in order to get the total field inside to
+
+04:28.990 --> 04:31.020
+be equal to zero.
+
+04:31.030 --> 04:39.200
+So here's kind of a sharp sharp turn in the conductor probably more charge along this surface.
+
+04:39.480 --> 04:40.370
+So imagine.
+
+04:40.380 --> 04:41.520
+So I've added charge.
+
+04:41.520 --> 04:44.410
+So there is a total charge here to this piece of metal.
+
+04:44.430 --> 04:48.420
+The question is well if e is zero inside.
+
+04:48.420 --> 04:51.100
+What about the outside electric field.
+
+04:52.170 --> 04:53.880
+So outside.
+
+04:54.240 --> 04:57.500
+Well you could look at a point that's very very close to it.
+
+04:57.590 --> 04:58.090
+Right.
+
+04:58.110 --> 05:01.030
+If you were going to look at a point that's close to this.
+
+05:01.440 --> 05:03.870
+The other property of electric fields close.
+
+05:03.890 --> 05:11.130
+The conductors if they're charged the electric field is always perpendicular to the surface.
+
+05:11.730 --> 05:13.710
+He is perpendicular to surface
+
+05:16.810 --> 05:17.890
+super important.
+
+05:20.300 --> 05:22.780
+So let me also write it down over here.
+
+05:23.410 --> 05:27.170
+He is perpendicular to the surface.
+
+05:27.310 --> 05:32.390
+There is no component of the electric field that is parallel to the surface right.
+
+05:32.410 --> 05:37.420
+I imagine you had a parallel component to the electric field at the surface and we just said that's
+
+05:37.420 --> 05:38.840
+where the charges are.
+
+05:38.890 --> 05:44.680
+If there is a component like this it means there would be a force acting on the charge which would tend
+
+05:44.680 --> 05:46.870
+to move the charge along the surface.
+
+05:47.260 --> 05:49.770
+And that's really not what is happening.
+
+05:49.770 --> 05:55.930
+Those charges are in equilibrium and you're gonna have that only if the electric field is perpendicular
+
+05:55.930 --> 05:58.790
+to the surface like this.
+
+05:59.020 --> 06:06.070
+If you remembered our parallel plate we said that the field was for parallel plates e parallel was equal
+
+06:06.070 --> 06:08.380
+to Sigma divided by epsilon 0.
+
+06:08.380 --> 06:09.820
+This was between the plates
+
+06:15.710 --> 06:16.850
+for a conductor.
+
+06:16.850 --> 06:20.350
+Again the charge density is not the same everywhere.
+
+06:20.360 --> 06:20.570
+Right.
+
+06:20.570 --> 06:25.270
+It could be bigger in some sections it could be smaller and straighter segments.
+
+06:25.580 --> 06:30.980
+If you actually wanted to measure the charge density one way to do it is to measure the electric field
+
+06:30.980 --> 06:37.040
+we said it's perpendicular and actually this electric field is still it's actually the same as parallel
+
+06:37.040 --> 06:37.430
+plates.
+
+06:37.430 --> 06:42.690
+It turns out to prove this you can use Gauss as law which we could do later on.
+
+06:42.920 --> 06:48.400
+You could also use some calculus which is a little bit more complicated depending on the situation.
+
+06:48.560 --> 06:53.870
+But what this does here is if there is a certain charge density right here and I measure the field close
+
+06:53.870 --> 06:59.100
+to it then on the electric field is actually proportional to the charge density right here.
+
+06:59.180 --> 07:01.930
+Now the charge density is not the same everywhere.
+
+07:01.940 --> 07:05.640
+So for example right here the electric field is a little bit bigger.
+
+07:05.660 --> 07:09.710
+I have it actually in the wrong direction right here since this is negatively charged.
+
+07:09.710 --> 07:11.120
+Well I'm sorry about that.
+
+07:11.330 --> 07:17.690
+Right the electric field should point like this and the magnitude of this field should look like Epsilon
+
+07:17.690 --> 07:24.920
+0 and the EPS the signal over here is the charge density very close to the point where I'm observing
+
+07:24.920 --> 07:32.090
+the field now the field produced by this is not uniform but if you go close to the surface again it
+
+07:32.090 --> 07:39.540
+should be close to constant and it should be perpendicular to the surface.
+
+07:41.270 --> 07:43.460
+All right so let's start with a conductor here.
+
+07:43.460 --> 07:46.710
+I'm going to assume that the total charge on the conductor is neutral.
+
+07:46.750 --> 07:47.840
+OK so there's nothing on it.
+
+07:48.300 --> 07:53.920
+And what I'm going to do is I'm going to place that conductor inside parallel plates.
+
+07:53.920 --> 07:54.160
+All right.
+
+07:54.200 --> 07:55.610
+There it is right over here.
+
+07:55.640 --> 07:58.140
+You're going to place it right in the middle.
+
+07:58.370 --> 08:02.040
+Now my parallel plates here have charges on them.
+
+08:02.190 --> 08:05.300
+So here's the one on the left here is positively charged.
+
+08:05.300 --> 08:10.280
+The one on the right you could see has some negative charge on it and these parallel plates produce
+
+08:10.310 --> 08:12.610
+a an electric field right.
+
+08:12.650 --> 08:15.440
+This is the field produced by the parallel plates.
+
+08:15.440 --> 08:18.110
+They point away from the positive and toward the negative.
+
+08:18.890 --> 08:26.660
+So what happens now when I place this neutral conductor inside the parallel plates like this.
+
+08:26.920 --> 08:28.310
+Let's go place inside
+
+08:31.100 --> 08:32.790
+place inside an electric field.
+
+08:32.830 --> 08:33.150
+Right.
+
+08:33.200 --> 08:35.050
+That's what we're doing.
+
+08:35.590 --> 08:35.840
+All right.
+
+08:35.840 --> 08:36.920
+What's going to happen.
+
+08:37.160 --> 08:43.170
+Well again we require that the total field inside the conductor has to be zero.
+
+08:43.280 --> 08:47.100
+But how can that be if it's placed inside an electric field.
+
+08:47.120 --> 08:55.460
+We must have e total on the inside equals to zero but if you zoom in over here let me zoom in to this
+
+08:55.460 --> 08:57.500
+conductor.
+
+08:57.500 --> 09:03.110
+If I place it inside an electric field produced by the parallel plates you definitely have a field like
+
+09:03.110 --> 09:03.320
+this.
+
+09:03.320 --> 09:06.410
+This is the field produced by the parallel plates.
+
+09:06.410 --> 09:14.750
+But if e has to be zero inside it means there has to be some electric field that has to cancel the one
+
+09:14.750 --> 09:16.210
+from the parallel plates.
+
+09:17.280 --> 09:17.430
+Right.
+
+09:17.490 --> 09:18.960
+This is from parallel plates
+
+09:23.050 --> 09:28.180
+and this is the electric field produced by the conductor to cancel it out because at the end you need
+
+09:28.180 --> 09:29.260
+zero inside.
+
+09:29.890 --> 09:33.070
+So this is kind of induced.
+
+09:33.300 --> 09:39.270
+So what happens you take a neutral conductor and in order to cancel out the field what you're going
+
+09:39.270 --> 09:44.460
+to end up doing is you're going to end up getting negative charges on one side of the conductor and
+
+09:44.460 --> 09:47.750
+that's going to leave the other side positive.
+
+09:47.880 --> 09:49.940
+So let's have a look at that right.
+
+09:49.980 --> 09:59.490
+If I have some negative charges over here and that leaves the other side positive at the end these charges
+
+09:59.490 --> 10:05.680
+on the surface they produce this electric field that's going to cancel the other one so when you add
+
+10:05.680 --> 10:13.290
+them all up as vectors you get that inside must be equal to zero.
+
+10:13.720 --> 10:15.600
+The other property that you could see from here.
+
+10:15.610 --> 10:18.010
+Let me just clean up this figure a little bit.
+
+10:18.010 --> 10:20.190
+Is that now on the outside.
+
+10:20.260 --> 10:22.240
+You notice that the electric field lines.
+
+10:22.240 --> 10:26.190
+Now again they have to start from positive and they have to end at the negative.
+
+10:26.200 --> 10:28.320
+But we have some negatives over here.
+
+10:28.360 --> 10:32.050
+You can see that the electric field gets kind of altered.
+
+10:32.050 --> 10:36.070
+That's because it's not only the field produced by parallel plates anymore.
+
+10:36.070 --> 10:43.360
+It's also the field produced by the charges on this surface of the conductor.
+
+10:43.720 --> 10:50.380
+At the end what we're always going to find is that the electric field when it again it has the end that
+
+10:50.380 --> 10:56.250
+these negative charges right here it actually always has to be perpendicular to the surface.
+
+10:56.440 --> 11:01.150
+If it's not perpendicular to the surface again that's the same argument I made previously.
+
+11:01.150 --> 11:05.920
+If you have an electric field that's parallel to the surface that's not going to work because that's
+
+11:05.920 --> 11:09.610
+going to produce a force on the charges.
+
+11:09.610 --> 11:11.690
+So you can't have anything like this.
+
+11:13.930 --> 11:18.310
+So at the end the total field looks much much more complicated than was before but a couple of the same
+
+11:18.310 --> 11:22.480
+properties exists the electric field inside any conductor is zero.
+
+11:22.780 --> 11:28.540
+And the field lines they always end up being perpendicular here to the surface doesn't matter on which
+
+11:28.540 --> 11:33.280
+surface you're looking at even if you have something more complicated.
+
+11:33.440 --> 11:40.130
+One thing that's kind of cool is if you take a conductor instead of it being a solid over here even
+
+11:40.130 --> 11:42.640
+if you're a conductor has a hole inside right.
+
+11:42.650 --> 11:43.840
+Imagine there was a hole inside.
+
+11:43.840 --> 11:46.590
+We call this a cavity inside the conductor.
+
+11:46.790 --> 11:53.450
+One of the properties here is that the electric field inside that cavity is also going to be zero.
+
+11:53.480 --> 11:59.920
+So actually what you can do is you can put anything inside this cavity here and there's not going to
+
+11:59.920 --> 12:01.810
+be an electric field inside.
+
+12:01.840 --> 12:05.310
+So a lot of times we do something called shielding.
+
+12:05.380 --> 12:14.630
+Sometimes people put like a human inside a shield or inside like a metal fence and a metal fence is
+
+12:14.630 --> 12:16.430
+basically a conductor.
+
+12:16.590 --> 12:16.850
+Right.
+
+12:18.350 --> 12:24.320
+And you can be protected from a large electric field on the outside because on the inside of the conductor
+
+12:25.010 --> 12:27.720
+the electric field should be zero.
+
+12:27.800 --> 12:33.490
+So they call this shielding the inside is zero.
+
+12:33.640 --> 12:34.660
+Approximately zero.
+
+12:34.660 --> 12:37.490
+This is not a if it's a fence it has a lot of holes in it.
+
+12:37.510 --> 12:38.670
+Right.
+
+12:38.860 --> 12:45.670
+But nonetheless it's still kind of like a conductor and you get a prize you get a very small electric
+
+12:45.670 --> 12:47.290
+field on the inside of the cavity.

@@ -1,0 +1,210 @@
+WEBVTT
+
+WEBVTT
+
+00:00.600 --> 00:06.960
+All right the second law which is required in order for us to analyze circuits again is when a Kirchoff's
+
+00:06.960 --> 00:13.800
+rules and in engineering textbooks it's often referred to as Kirchoff's voltage law.
+
+00:13.890 --> 00:19.290
+I don't really know why Kirchhoff got all the credit for this but nonetheless this is what has referred
+
+00:19.290 --> 00:22.380
+to his known way before Kirchoff.
+
+00:22.590 --> 00:25.320
+But that's the way life works sometimes.
+
+00:25.440 --> 00:30.070
+I call it the loop rule and a loop rule is stated something like this.
+
+00:30.090 --> 00:37.710
+It says the sum of the potential differences across all the elements of any closed circuit loop must
+
+00:37.710 --> 00:38.650
+be zero.
+
+00:39.150 --> 00:40.920
+All right so those are just words.
+
+00:41.070 --> 00:47.040
+Let's have a look at the main parts of this first part it says close the circuit loop.
+
+00:47.400 --> 00:55.060
+So we're going to have to form closed circuit loops and then it says the sum of the potential differences.
+
+00:55.110 --> 01:00.090
+So when we're going to form closed circuit loops let me give you an example here.
+
+01:00.120 --> 01:02.760
+So imagine we start over here at Point A.
+
+01:03.360 --> 01:05.920
+Well one loop I can do is I can go like this.
+
+01:05.940 --> 01:11.950
+I have to form a closed loop and I can come back to Point A.
+
+01:11.960 --> 01:15.320
+This is an example of a closed circuit loop.
+
+01:15.760 --> 01:22.160
+And it says now if I do that around a closed circuit loop and if I add the potential differences across
+
+01:22.220 --> 01:27.900
+all the elements that I find so in this case one element that I would find would be a battery.
+
+01:28.190 --> 01:33.640
+Other elements that I would fine if I do this loop I would find a resistor here and I would find a second
+
+01:33.650 --> 01:34.690
+resistor.
+
+01:35.150 --> 01:38.800
+So in this case for this loop there would be three elements.
+
+01:38.810 --> 01:45.980
+And it says if I add up the differences in potential when I cross these three elements and I come back
+
+01:45.980 --> 01:50.420
+to the same point that must be equal to zero.
+
+01:50.420 --> 01:52.940
+Now another example of a closed loop for this circuit.
+
+01:52.940 --> 01:59.560
+Again if I start at point A and other example of a closed loop would be this one here in green you can
+
+01:59.650 --> 02:00.750
+go on the other side.
+
+02:00.810 --> 02:02.840
+Once I'm here I have to make a decision.
+
+02:02.970 --> 02:06.700
+I could go over here and I can come back to Point A.
+
+02:07.040 --> 02:13.290
+There is another example of a closed loop where Kirchoff's voltage law would say if you add up all the
+
+02:13.290 --> 02:19.440
+potential differences across the battery across the 12 ohm resistor then across the forum resistor you
+
+02:19.440 --> 02:22.500
+come back to point A that must be equal to zero.
+
+02:23.220 --> 02:25.150
+Now here's a couple more.
+
+02:25.240 --> 02:26.450
+Here's a red loop.
+
+02:26.460 --> 02:27.720
+Let's start at a different point.
+
+02:27.720 --> 02:35.310
+What if I started at point B an example of a closed loop would be this one here.
+
+02:35.500 --> 02:37.390
+Here I can go like I have to make a decision here.
+
+02:37.450 --> 02:42.350
+Let's go over to the 6:1 it doesn't matter what you choose as you come back over here.
+
+02:42.360 --> 02:47.950
+There is an example of a closed loop here I cross a three arm my cross of five AM I go up to the top
+
+02:48.190 --> 02:53.110
+I cross a forum then I cross the six ohm resistor and I come back to where I started.
+
+02:53.230 --> 02:59.980
+If I would add all the potential differences across these resistors I would get zero.
+
+03:00.760 --> 03:05.680
+What I want you to think about it's almost an analogy on this mountain.
+
+03:05.740 --> 03:15.260
+What I want you to think about is the potential V as being kind of equivalent to the height some height
+
+03:15.260 --> 03:16.910
+on a mountain.
+
+03:17.060 --> 03:26.040
+So imagine here I start over here at Point A Well if I want to do a closed loop that means I'm simply
+
+03:26.040 --> 03:29.070
+going to go around a path I'm hiking around.
+
+03:29.070 --> 03:36.840
+Some things are going to bring me to a higher potential a higher height other paths are going to take
+
+03:36.840 --> 03:38.640
+me towards a lower height.
+
+03:39.240 --> 03:42.410
+However if I do a closed loop I walk around the mountain.
+
+03:42.420 --> 03:46.430
+I go to the top and I come back to where I started.
+
+03:46.680 --> 03:48.930
+I'm going to be at the same potential.
+
+03:48.930 --> 03:55.770
+I'm going to be at the same height as where I started if I form a closed loop because and since I haven't
+
+03:55.770 --> 04:01.800
+changed my height it means that the overall change of potential has to be zero because I'm at the same
+
+04:01.800 --> 04:02.910
+point or I started
+
+04:05.780 --> 04:07.690
+now even if I started at point eight.
+
+04:07.700 --> 04:09.580
+I chose a completely different path.
+
+04:12.410 --> 04:18.140
+It really doesn't matter if I sum all the potential differences all the ups and downs and I come back
+
+04:18.140 --> 04:21.040
+to the same point I have to be where I started.
+
+04:21.050 --> 04:25.330
+So there is no difference between where I started and where I finished.
+
+04:25.400 --> 04:29.710
+So this is what we're going to see when we're going across certain elements when we cross batteries
+
+04:31.580 --> 04:36.650
+we're going to be adding potential differences or subtracting them will depend now in which direction
+
+04:36.650 --> 04:38.510
+we cross the elements.
+
+04:38.570 --> 04:43.010
+So we'll have to look at the different types of elements we have to look at what happens when I cross
+
+04:43.010 --> 04:49.910
+a battery and what happens when I cross a resistor for example in that first loop I drew which was this
+
+04:49.910 --> 04:51.100
+blue one over here.
+
+04:51.380 --> 04:57.380
+Well what is the difference if I decided to go around this loop in a clockwise fashion like this versus
+
+04:57.380 --> 05:02.430
+counter-clockwise at the end of the day the physics should be the same.
+
+05:02.510 --> 05:06.320
+So we've got to make sure that everything works with Kirchoff's voltage law.
+
+05:06.650 --> 05:10.270
+So let's now have a look at what happens now when I cross different elements.
+
+05:10.280 --> 05:12.260
+And when I cross them in different directions.

@@ -1,0 +1,112 @@
+WEBVTT
+
+00:00.210 --> 00:04.500
+All right in order to measure the current and voltage through a circuit how must an ammeter in a volt
+
+00:04.500 --> 00:06.130
+meter be connected.
+
+00:06.180 --> 00:14.320
+You can just picture a simple circuit with a DC power supply and you imagine just one resistor here.
+
+00:16.600 --> 00:17.270
+OK.
+
+00:17.380 --> 00:24.820
+And the way this is always done is you always have an ammeter measures current and you want current
+
+00:24.820 --> 00:33.230
+to flow through the meter and the voltage is always kind of between for example two points for example
+
+00:33.230 --> 00:35.140
+across this resistor.
+
+00:35.140 --> 00:41.190
+You always want to put that volt meter here in parallel with what you're measuring.
+
+00:41.800 --> 00:47.880
+OK so the ammeter should not be in peril or should be in series and the volt meter here.
+
+00:47.980 --> 00:52.090
+So it can't be any of those choices because the ammeters wrong.
+
+00:52.240 --> 00:54.760
+So you're left in the volt meter must be in parallel.
+
+00:54.760 --> 00:58.350
+So the volt meter can't be in series given that choice.
+
+00:58.400 --> 01:01.490
+So really choice D is the best answer here.
+
+01:01.990 --> 01:03.900
+This is kind of what it looks like.
+
+01:04.240 --> 01:08.560
+You always want the current to flow through the ammeter and you're always measuring the potential difference
+
+01:08.560 --> 01:18.410
+between those points should always be and in parallel are problem 30 a battery with internal resistance.
+
+01:18.570 --> 01:24.390
+Are electromotive force supplies a current eye to a light bulb of resistance.
+
+01:24.400 --> 01:28.760
+Are the power dissipated by this circuit is what I want.
+
+01:28.780 --> 01:30.610
+This is just a simple circuit.
+
+01:30.610 --> 01:34.160
+You have an internal resistance.
+
+01:34.500 --> 01:36.690
+And now we're going to have a light bulb on this side.
+
+01:40.220 --> 01:40.470
+All right.
+
+01:40.490 --> 01:47.120
+So here's my electromotive force the internal resistance is UPPER CASE our light bulb is lowercase r
+
+01:47.930 --> 01:52.180
+this is basically just a simple series circuit.
+
+01:52.430 --> 01:56.110
+So if you want to know the power dissipated Well what's the total resistance right.
+
+01:56.210 --> 01:58.420
+Both resistors dissipate power.
+
+01:58.790 --> 02:06.600
+So the total equivalent resistor you simply are plus lowercase r.
+
+02:06.630 --> 02:15.950
+Now if you want to know the power dissipated Well again you know the power supplied is multiplied by
+
+02:15.950 --> 02:19.890
+the current and that has to be equal to the total power dissipated.
+
+02:20.150 --> 02:23.040
+So what is the current flowing through here.
+
+02:23.080 --> 02:26.860
+Leave this one the way it is the current flowing through it that's just given by Ohm's law.
+
+02:26.960 --> 02:27.620
+Right.
+
+02:27.620 --> 02:35.920
+The current is going to be given by the voltage divided by the total resistance which is our Plus our.
+
+02:35.930 --> 02:41.800
+So at the end of the day we get e squared divided by the total equivalent resistance.
+
+02:41.810 --> 02:46.950
+That's how much power is being dissipated in the circuit and that's it.
+
+02:47.420 --> 02:53.140
+So we've got the light bulb that's dissipating power and we also have the internal resistance that that
+
+02:53.300 --> 02:54.930
+is dissipating power.

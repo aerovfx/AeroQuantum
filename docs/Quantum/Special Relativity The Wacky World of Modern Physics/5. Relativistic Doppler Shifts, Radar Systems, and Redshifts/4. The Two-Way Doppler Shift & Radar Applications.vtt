@@ -1,0 +1,1037 @@
+WEBVTT
+
+1
+00:00:18.350 --> 00:00:19.110
+All right, Rob.
+
+2
+00:00:19.130 --> 00:00:21.570
+More discussion on the derivation of opposites.
+
+3
+00:00:21.830 --> 00:00:27.110
+What I want to do is go over one last derivation of the equation to do this.
+
+4
+00:00:27.110 --> 00:00:32.390
+What we're going to do is we're going to make no use of any prior results that we have derived and it's
+
+5
+00:00:32.390 --> 00:00:34.670
+going to be 100 percent organic.
+
+6
+00:00:34.910 --> 00:00:39.830
+We're just going to run through the math, the physics and the representations we have for waves, and
+
+7
+00:00:39.830 --> 00:00:44.180
+we're going to find out the same exact real result actually drops out of what we're working on.
+
+8
+00:00:44.480 --> 00:00:50.660
+And that's going to strengthen our confidence and make us feel very, very confident that the bridge
+
+9
+00:00:50.750 --> 00:00:57.350
+we built to sort of bridge the gap between different perspectives and reference frames is bad, is good
+
+10
+00:00:57.350 --> 00:01:02.120
+and is the correct way of interpreting frequency shifts with these different observers.
+
+11
+00:01:02.540 --> 00:01:06.970
+So to do this, what we're going to do is we're going to make use of what we just talked about with
+
+12
+00:01:06.980 --> 00:01:12.740
+ENM waves with a propagating wave to the right, and we're going to have some kind of target a plane
+
+13
+00:01:12.740 --> 00:01:15.080
+that's fly to the right with a velocity V.
+
+14
+00:01:15.530 --> 00:01:21.920
+What we know is that the distance to that plane is going to change with time from the source of the
+
+15
+00:01:21.920 --> 00:01:26.750
+wave all the way to the the actual object, the type we're trying to detect.
+
+16
+00:01:27.110 --> 00:01:33.620
+And that's going to have a distance of X as a function of T. So what we do is we take the equation for
+
+17
+00:01:33.620 --> 00:01:37.400
+a propagating wave traveling in the positive x direction.
+
+18
+00:01:37.650 --> 00:01:38.450
+Write that down.
+
+19
+00:01:38.450 --> 00:01:43.940
+We found in the last video that was the function, which is the function of X A. is equivalent to the
+
+20
+00:01:43.940 --> 00:01:52.670
+amplitude a times the cosine and the angle is omega t minus K, where again omega is the angular frequency
+
+21
+00:01:52.880 --> 00:01:57.950
+and K is the propagation number or wave number that we talked about previously.
+
+22
+00:01:58.310 --> 00:02:04.880
+So using this, the first thing we want to do is put in our definitions we have for again, the propagation
+
+23
+00:02:04.880 --> 00:02:06.770
+constant and the angular frequency.
+
+24
+00:02:07.110 --> 00:02:14.120
+We take omega and plug in to pi f not we know that omega naught, which is this guy right here.
+
+25
+00:02:15.530 --> 00:02:18.080
+This is equal to two by f Nazi.
+
+26
+00:02:18.080 --> 00:02:19.430
+We plug that guy in there.
+
+27
+00:02:19.490 --> 00:02:25.450
+Basically plop that straight in and for the wave number of propagation constant, we know that is equivalent
+
+28
+00:02:25.450 --> 00:02:32.270
+to two pi over land and off the original wavelength that is observed transmitted from the radar system.
+
+29
+00:02:32.660 --> 00:02:40.400
+Next, what we want to do is we want to get rid of this wavelength here and inject the frequency.
+
+30
+00:02:40.520 --> 00:02:42.110
+What we're really interested in.
+
+31
+00:02:42.110 --> 00:02:45.500
+So as we've seen previously, we've done this in the previous video.
+
+32
+00:02:45.620 --> 00:02:47.390
+We've done it in our original derivation.
+
+33
+00:02:47.540 --> 00:02:51.500
+We know that the frequency is related to lambda by C over lambda.
+
+34
+00:02:51.500 --> 00:02:53.660
+This is the equation we have derived.
+
+35
+00:02:53.870 --> 00:02:54.320
+OK.
+
+36
+00:02:54.410 --> 00:03:00.350
+Again, I always bring up the units we take me to for second, divided by mean meters, we get one over
+
+37
+00:03:00.350 --> 00:03:01.610
+second, one over time.
+
+38
+00:03:01.850 --> 00:03:06.950
+Those are the dimensions of frequency, so it seems to make sense and jive well with our intuition.
+
+39
+00:03:07.370 --> 00:03:15.560
+OK, now what we want to do is we want to take this and move the ladder over here and the frequency
+
+40
+00:03:15.560 --> 00:03:18.770
+down so that we can plug it straight into here what we're going to use.
+
+41
+00:03:19.040 --> 00:03:25.460
+If we take this, we find that ladder, not the original wavelength, is equivalent to the C, the speed
+
+42
+00:03:25.460 --> 00:03:29.030
+of light divided by F, not the original frequency.
+
+43
+00:03:29.030 --> 00:03:33.590
+So we pop this guy in C gets on the bottom, f not pop up.
+
+44
+00:03:33.980 --> 00:03:37.000
+And what we find is that we have common terms in here.
+
+45
+00:03:37.190 --> 00:03:42.080
+We have an f, not that we're trying to get with an X and we have the speed of light.
+
+46
+00:03:42.500 --> 00:03:49.220
+OK, but we know that the Doppler shift is in terms of relative motion between the source and the observer,
+
+47
+00:03:49.220 --> 00:03:50.720
+the target that we're trying to detect.
+
+48
+00:03:51.140 --> 00:03:58.400
+So when the world, what's going on here in order to make progress, we must first make note that inside
+
+49
+00:03:58.400 --> 00:04:01.070
+here, this is the angular argument, OK?
+
+50
+00:04:01.250 --> 00:04:03.980
+So here if we group the two pi f not.
+
+51
+00:04:04.910 --> 00:04:10.910
+We end up with a T minus X over C or something like this, we know this is the angle that described
+
+52
+00:04:10.910 --> 00:04:15.170
+any position on this way as it propagates in time.
+
+53
+00:04:16.610 --> 00:04:23.240
+Next, what we want to do is we need to make note of a relationship that we derived or whether we didn't
+
+54
+00:04:23.240 --> 00:04:27.530
+derive is just physical intuition that crops up in classical mechanics.
+
+55
+00:04:27.740 --> 00:04:30.290
+And this is the fact that the angular frequency omega.
+
+56
+00:04:33.140 --> 00:04:41.390
+If if we take the Omega that is observed by the target, this guy is equal to two pi times f prime,
+
+57
+00:04:41.750 --> 00:04:45.020
+but it's also equal to the change in that angle, right?
+
+58
+00:04:45.350 --> 00:04:50.840
+This is the angular frequency, it's how it's changing d theta d t, it's that derivative, right?
+
+59
+00:04:51.020 --> 00:04:54.770
+We've made use quite extensive use of this in basic mechanics.
+
+60
+00:04:54.980 --> 00:04:57.200
+It crops up in dynamics, so on and so forth.
+
+61
+00:04:57.440 --> 00:05:01.910
+This is a intuitive physical quantity right here.
+
+62
+00:05:02.420 --> 00:05:09.440
+So if we take this this result here and we're trying to figure out how the frequency where the angular
+
+63
+00:05:09.440 --> 00:05:15.800
+frequency observed at the target is different than the original produced frequency of the wave.
+
+64
+00:05:16.780 --> 00:05:23.470
+What we can do is we can isolate FPI by divide it by one or two pi of heredity, and we get this relationship
+
+65
+00:05:23.470 --> 00:05:24.010
+right here.
+
+66
+00:05:24.520 --> 00:05:30.310
+Well, we know what the angular quantity is because we just tried to previously right here.
+
+67
+00:05:30.580 --> 00:05:33.450
+And all we need to do is basically just take the derivative of this guy.
+
+68
+00:05:33.460 --> 00:05:41.080
+So we plop it straight in, straight and down here, throw it into that derivative and we distribute
+
+69
+00:05:41.080 --> 00:05:41.980
+this through all turns.
+
+70
+00:05:42.490 --> 00:05:45.970
+We know that two PI, if not the original frequency, is a constant.
+
+71
+00:05:45.970 --> 00:05:46.750
+It's not changing.
+
+72
+00:05:46.990 --> 00:05:48.700
+That pops out right here.
+
+73
+00:05:49.120 --> 00:05:55.840
+We can divide by the two pi right there that cancels, and then we just have to distribute this through
+
+74
+00:05:55.840 --> 00:05:56.350
+these terms.
+
+75
+00:05:56.350 --> 00:05:57.640
+The T minus x the receipt.
+
+76
+00:05:58.090 --> 00:06:04.060
+Well, the trade with respect to time of time is just one, which is what we get here.
+
+77
+00:06:04.510 --> 00:06:09.960
+And the derivative of a C is a little tricky to actually compute that.
+
+78
+00:06:10.000 --> 00:06:13.330
+We know that C is the speed of light that's constant that pops out.
+
+79
+00:06:13.810 --> 00:06:20.440
+But the X here, the X, we must remember, is the position going to our target?
+
+80
+00:06:21.190 --> 00:06:23.020
+So this is a function of time.
+
+81
+00:06:23.320 --> 00:06:26.740
+But the derivative, this becomes the velocity.
+
+82
+00:06:27.070 --> 00:06:30.280
+It's the distance between here and and the target.
+
+83
+00:06:30.280 --> 00:06:36.880
+So you know, that is increasing by a a quantity of the relative motion.
+
+84
+00:06:36.880 --> 00:06:42.820
+And that's where the relative motion between our source and our observer comes into play.
+
+85
+00:06:42.830 --> 00:06:45.340
+This is how it jumps into the equation.
+
+86
+00:06:45.370 --> 00:06:45.730
+OK.
+
+87
+00:06:45.970 --> 00:06:50.740
+So the duration of this is one third of X, it's just B.
+
+88
+00:06:51.190 --> 00:06:56.860
+And when we put that into play here, we end up with the same exact equation that the angular frequency
+
+89
+00:06:56.860 --> 00:07:01.780
+f prime is equal to one minus V or c f not.
+
+90
+00:07:02.200 --> 00:07:02.560
+OK.
+
+91
+00:07:03.040 --> 00:07:07.120
+So this is going to be when the source.
+
+92
+00:07:09.110 --> 00:07:10.520
+The source.
+
+93
+00:07:12.700 --> 00:07:15.070
+An observer.
+
+94
+00:07:16.880 --> 00:07:17.660
+Are moving.
+
+95
+00:07:19.750 --> 00:07:20.970
+Away from each other.
+
+96
+00:07:24.650 --> 00:07:32.360
+And then we could take this guy and say that f prime is equal to one plus the oversea.
+
+97
+00:07:33.690 --> 00:07:35.850
+If not for.
+
+98
+00:07:37.360 --> 00:07:38.680
+Moving closer.
+
+99
+00:07:42.520 --> 00:07:43.060
+So.
+
+100
+00:07:44.530 --> 00:07:51.610
+The sign of the paucity of that relative motion dictates the arrival of that different phenomena, the
+
+101
+00:07:51.610 --> 00:07:56.380
+Doppler shift that we've been talking about, and I want to make note about these two differences here.
+
+102
+00:07:57.860 --> 00:08:01.400
+Because when you're if you're doing any kind of problem that you're working on.
+
+103
+00:08:03.930 --> 00:08:08.310
+If they're coming together, you want to use this guy, right?
+
+104
+00:08:08.640 --> 00:08:10.710
+Because the frequency is going to increase.
+
+105
+00:08:10.920 --> 00:08:15.600
+Right, it's moving into the wave train, so it's seeing that crest more frequently.
+
+106
+00:08:16.290 --> 00:08:21.390
+And then if they're moving away from each other, you use this guy where the frequency decreases because
+
+107
+00:08:21.600 --> 00:08:23.970
+you're moving away from that wave that's coming towards it.
+
+108
+00:08:23.970 --> 00:08:26.490
+So the wave has to move over a longer distance.
+
+109
+00:08:27.060 --> 00:08:29.280
+You see that wave less frequently.
+
+110
+00:08:30.090 --> 00:08:33.540
+It leads to a smaller Doppler shift, OK?
+
+111
+00:08:33.720 --> 00:08:36.660
+Or rather, the frequency is lower.
+
+112
+00:08:36.750 --> 00:08:39.210
+OK, now what?
+
+113
+00:08:39.210 --> 00:08:44.370
+We have just arrived throughout this video in the previous videos is the fact that.
+
+114
+00:08:45.610 --> 00:08:53.170
+If we're trying to detect a target with radar in this particular application, what this guy sees is
+
+115
+00:08:53.170 --> 00:08:53.620
+this.
+
+116
+00:08:54.580 --> 00:08:59.830
+But when you're dealing with radar, what you're trying to do is you're trying to emit a light, some
+
+117
+00:08:59.830 --> 00:09:04.030
+kind of wave, some kind of beam, you're trying to hit a target.
+
+118
+00:09:04.300 --> 00:09:06.430
+And then that gets reflected back.
+
+119
+00:09:07.390 --> 00:09:09.920
+To your source towards your dish.
+
+120
+00:09:10.300 --> 00:09:10.630
+Right?
+
+121
+00:09:12.010 --> 00:09:14.200
+So this is only half of the picture, right?
+
+122
+00:09:14.860 --> 00:09:17.230
+It doesn't help to know the frequency here.
+
+123
+00:09:17.560 --> 00:09:20.020
+We want to know the return frequency here.
+
+124
+00:09:20.770 --> 00:09:25.990
+So the way in which we think about this is if this guy is moving in this direction, right?
+
+125
+00:09:26.260 --> 00:09:34.690
+You increase the distance between the wave and the object that decreases the frequency as we have just
+
+126
+00:09:34.690 --> 00:09:35.140
+arrived.
+
+127
+00:09:35.590 --> 00:09:42.640
+However, when it hits this, it's going to bounce off and come back and the time difference between
+
+128
+00:09:43.570 --> 00:09:44.620
+when it hits this.
+
+129
+00:09:46.310 --> 00:09:52.220
+And it moves and then another one hits it means that you have to add on that extra vote, that extra
+
+130
+00:09:52.220 --> 00:09:52.790
+distance.
+
+131
+00:09:53.060 --> 00:09:59.000
+So there's a Doppler shift that this observes and then there's a Doppler shift from this frequency.
+
+132
+00:09:59.630 --> 00:10:03.950
+So this guy black that we have there, so there's a double Doppler shift.
+
+133
+00:10:04.220 --> 00:10:05.610
+I want to make sure you understand that.
+
+134
+00:10:05.660 --> 00:10:06.680
+Do you understand that?
+
+135
+00:10:06.690 --> 00:10:13.340
+So initially, this guy sees something different because it's moving away, it's adding in distance.
+
+136
+00:10:13.550 --> 00:10:15.530
+But this guy wanted to reflect it back.
+
+137
+00:10:15.770 --> 00:10:18.800
+This becomes the source and the source is moving away.
+
+138
+00:10:18.980 --> 00:10:23.570
+So this guy observes, you get extra distance that keeps adding up incrementally.
+
+139
+00:10:24.320 --> 00:10:29.030
+And that means that you see that same beam less frequently back here, right?
+
+140
+00:10:29.300 --> 00:10:30.250
+It bounces off.
+
+141
+00:10:30.260 --> 00:10:31.250
+There's a time delay.
+
+142
+00:10:31.940 --> 00:10:34.280
+So we're going to have to have another Doppler shift.
+
+143
+00:10:34.700 --> 00:10:37.220
+What this guy sees is not this.
+
+144
+00:10:37.850 --> 00:10:38.810
+It's not that.
+
+145
+00:10:39.200 --> 00:10:39.900
+So let's do it.
+
+146
+00:10:39.920 --> 00:10:43.870
+OK, well, this tells us that I'm going to rewrite this.
+
+147
+00:10:43.880 --> 00:10:47.180
+This is the source frequency right here.
+
+148
+00:10:47.390 --> 00:10:48.740
+I'll put a little se here.
+
+149
+00:10:50.280 --> 00:10:51.630
+And this is the target.
+
+150
+00:10:54.310 --> 00:11:00.060
+Hours, yeah, so the target sees this Doppler shift at frequency.
+
+151
+00:11:00.900 --> 00:11:04.860
+But now what we want is the frequency at the receiver, so the frequency.
+
+152
+00:11:06.700 --> 00:11:10.240
+At the receiver, it's going to be the same exact idea, right?
+
+153
+00:11:11.680 --> 00:11:16.900
+Based upon this, looks like this guy's moving away, so we're increasing that distance again.
+
+154
+00:11:17.800 --> 00:11:19.840
+It gets Doppler shift, we get another decrease.
+
+155
+00:11:20.080 --> 00:11:29.230
+So what actually ends up happening is if the same exact formula we get one minus v over C, well, this
+
+156
+00:11:29.230 --> 00:11:31.000
+time it's on the target.
+
+157
+00:11:31.390 --> 00:11:33.160
+See, this is the produced frequency.
+
+158
+00:11:36.560 --> 00:11:38.960
+And we want to see how that's shifted back to the receiver.
+
+159
+00:11:39.530 --> 00:11:43.700
+So what you end up having is you get this one minus B or C.
+
+160
+00:11:45.500 --> 00:11:47.980
+And then we just put this guy in, we know what the target is.
+
+161
+00:11:48.400 --> 00:11:50.860
+So that's another one minus B or C.
+
+162
+00:11:53.060 --> 00:11:55.160
+Times the source frequency.
+
+163
+00:11:56.570 --> 00:12:01.340
+Which is something you know, right, right, when you admit that frequency in your signal processor,
+
+164
+00:12:01.580 --> 00:12:05.180
+you know what's being generated, you know what you're modulating and what you're sending out.
+
+165
+00:12:05.570 --> 00:12:06.320
+So that's what we know.
+
+166
+00:12:06.530 --> 00:12:06.830
+OK.
+
+167
+00:12:07.040 --> 00:12:14.840
+So if we take this and work through the math we end up with is one minus two B or C.
+
+168
+00:12:19.130 --> 00:12:21.170
+Plus B squared.
+
+169
+00:12:22.460 --> 00:12:23.600
+Overseas Square.
+
+170
+00:12:26.760 --> 00:12:27.140
+OK.
+
+171
+00:12:27.540 --> 00:12:33.300
+And I hope you're thinking when you see this, there's some of the stuff we would have previously.
+
+172
+00:12:34.750 --> 00:12:38.320
+If B or C is small as it is in a non role, it is the case.
+
+173
+00:12:39.280 --> 00:12:45.070
+If you square a small turn, it gets even smaller, so this relative to this, which is multiplying
+
+174
+00:12:45.070 --> 00:12:47.380
+by two, is drastically smaller.
+
+175
+00:12:47.560 --> 00:12:52.210
+So when you open up a radar textbook, what you're going to find is that this is going to be reduced.
+
+176
+00:12:52.450 --> 00:12:55.000
+You're going to get something that looks sort of like this.
+
+177
+00:12:55.210 --> 00:12:57.760
+You're going to get there are seat frequency.
+
+178
+00:12:59.010 --> 00:13:04.710
+Is equal to one minus two the oversea.
+
+179
+00:13:07.880 --> 00:13:09.500
+Times that guy.
+
+180
+00:13:10.700 --> 00:13:13.400
+OK, so that would be what the dish.
+
+181
+00:13:13.670 --> 00:13:19.610
+The Signal processor actually observes when the signal is actually received back at the dish.
+
+182
+00:13:19.670 --> 00:13:20.000
+OK.
+
+183
+00:13:20.310 --> 00:13:27.080
+And another way of actually dividing this is you might see sometimes people say there's like a two way
+
+184
+00:13:27.080 --> 00:13:27.770
+Doppler shift.
+
+185
+00:13:28.130 --> 00:13:31.970
+In my opinion, it's not quite right because it doesn't capture what's going on.
+
+186
+00:13:32.750 --> 00:13:40.130
+They would change X to two x here becomes two x oversee the distance actually traveled because it has
+
+187
+00:13:40.130 --> 00:13:42.530
+to go out and then come back.
+
+188
+00:13:43.550 --> 00:13:44.120
+Well, that's not.
+
+189
+00:13:44.720 --> 00:13:50.090
+That's not 100 percent kosher, if not now, because you have multiple phenomena occurring here.
+
+190
+00:13:50.630 --> 00:13:54.500
+And if you did that, you get this result, but this term would fall out.
+
+191
+00:13:54.920 --> 00:14:00.260
+We get a sort of similar term if we work on it and do it in a relativistic sense, which you'll see
+
+192
+00:14:00.680 --> 00:14:02.570
+in subsequent videos, but.
+
+193
+00:14:03.530 --> 00:14:08.990
+What's important to note here in the application is if you know your source frequency which you send
+
+194
+00:14:08.990 --> 00:14:13.010
+out, you're going to know that because you generate the beam that's actually sent out to your target
+
+195
+00:14:13.670 --> 00:14:15.620
+and you measure what comes back.
+
+196
+00:14:16.710 --> 00:14:21.840
+If you relate to as such, you can determine the velocity of your target.
+
+197
+00:14:22.050 --> 00:14:27.270
+And I can give you a lot of information now in terms of the signal processing of this.
+
+198
+00:14:27.480 --> 00:14:29.280
+It's a lot of weird stuff that's going on.
+
+199
+00:14:30.060 --> 00:14:34.470
+Usually you have sort of a post signal.
+
+200
+00:14:35.670 --> 00:14:38.160
+Something like this where you send out a beam.
+
+201
+00:14:38.670 --> 00:14:42.570
+You energize your your dish and then you wait to receive, you energize.
+
+202
+00:14:42.760 --> 00:14:49.860
+Waiter Steve Um, it's known as like a peeler up pri pulse repetition interval.
+
+203
+00:14:50.660 --> 00:14:55.110
+Um, something like this when you actually process it.
+
+204
+00:14:55.380 --> 00:15:00.030
+The resolution you get is dependent upon, you know, how long you sent our signal, how long you wait
+
+205
+00:15:00.030 --> 00:15:00.450
+for it.
+
+206
+00:15:00.750 --> 00:15:07.680
+And that can affect the Fourier transform you receive back, which might not be able to to show this
+
+207
+00:15:08.010 --> 00:15:09.270
+shift, the Doppler shift.
+
+208
+00:15:09.870 --> 00:15:13.950
+So there's a lot of interesting things that go into play with radar systems.
+
+209
+00:15:14.190 --> 00:15:19.980
+That's just a general idea of what's going on, but for the most part, your Doppler shift.
+
+210
+00:15:22.590 --> 00:15:29.010
+It's showing you when something is moving, one and two allows you to compute the velocity of that guy.
+
+211
+00:15:29.190 --> 00:15:33.750
+So this can tell us, Hey, you have a nuke that's coming in super, super frickin fast.
+
+212
+00:15:34.050 --> 00:15:39.660
+Freak out, do something or you can see that it's some target that's remaining still, which would be
+
+213
+00:15:39.660 --> 00:15:44.760
+like a mountain, for example, something where you don't want to engage a target that's coming in to
+
+214
+00:15:44.760 --> 00:15:46.560
+take it down before it blows up your town.
+
+215
+00:15:47.090 --> 00:15:49.350
+OK, so you get that information from it.
+
+216
+00:15:49.920 --> 00:15:51.840
+What I want to do is to wrap this up.
+
+217
+00:15:51.840 --> 00:15:54.390
+Just talk about some other applications of this.
+
+218
+00:15:54.390 --> 00:15:57.210
+Doppler shift is not off the relativistic Doppler shift.
+
+219
+00:15:57.870 --> 00:16:00.780
+I talked about the ambulance, what you hear on an everyday basis.
+
+220
+00:16:01.860 --> 00:16:08.100
+Another application is the radar gun that policemen generally use, like in their car shoot out a beam.
+
+221
+00:16:08.370 --> 00:16:13.740
+And when it comes back, that can allow them to determine the velocity that you are traveling right
+
+222
+00:16:13.740 --> 00:16:19.200
+because it's going to hit your car instead of a plane, a car, and it's going to come back and it could
+
+223
+00:16:19.200 --> 00:16:20.250
+use something like this.
+
+224
+00:16:20.850 --> 00:16:23.940
+It probably would use the relativistic quantity because that's more accurate.
+
+225
+00:16:23.940 --> 00:16:28.170
+But if you're going slow, it could technically use this guy right here.
+
+226
+00:16:29.010 --> 00:16:32.580
+And that gives you a quantity.
+
+227
+00:16:32.990 --> 00:16:33.360
+You're right.
+
+228
+00:16:33.630 --> 00:16:37.920
+You can measure the receive frequency versus frequency, and you could figure out how fast somebody
+
+229
+00:16:37.920 --> 00:16:38.840
+is going, I can tell.
+
+230
+00:16:39.390 --> 00:16:41.850
+Are they traveling within the speed limits of the law?
+
+231
+00:16:42.540 --> 00:16:45.660
+You can pull them over and, you know, get tickets for that reason.
+
+232
+00:16:45.670 --> 00:16:48.870
+So when you get tickets, yes, this is pretty accurate.
+
+233
+00:16:48.870 --> 00:16:49.410
+That gun.
+
+234
+00:16:50.160 --> 00:16:56.310
+Another application you've probably heard of is Doppler radar, which is used a lot in meteorology and
+
+235
+00:16:56.310 --> 00:16:57.120
+weather systems.
+
+236
+00:16:57.420 --> 00:17:01.590
+The way in which that works is you have like a big dome that's sending out signals, light waves.
+
+237
+00:17:02.730 --> 00:17:08.700
+It's going to hit a cloud and then it's going to come back, one that signifies the presence of storms,
+
+238
+00:17:09.030 --> 00:17:13.770
+but also based upon the frequency that you receive back.
+
+239
+00:17:14.070 --> 00:17:19.050
+That's going to tell you whether there's a storm moving in or whether it's receding and moving away
+
+240
+00:17:19.050 --> 00:17:20.010
+from your location.
+
+241
+00:17:20.020 --> 00:17:27.540
+So when you see, like on TV, you see Doppler maps where you have like green areas for precipitation
+
+242
+00:17:27.900 --> 00:17:29.550
+that signifies the velocity.
+
+243
+00:17:29.550 --> 00:17:36.030
+When you get a tornado, for example, when it's rotating around, you have a portion that's moving
+
+244
+00:17:36.060 --> 00:17:39.810
+to you and a portion on the other side that's moving away from you.
+
+245
+00:17:40.140 --> 00:17:45.990
+So if you start getting a very green color over here in a red color over there that signifies the rotation
+
+246
+00:17:45.990 --> 00:17:52.410
+of particles, debris or any kind of wind, so on and so forth, and that allows you to determine that,
+
+247
+00:17:52.410 --> 00:17:56.130
+hey, you know, we have some kind of circular cyclone kind of thing.
+
+248
+00:17:56.640 --> 00:18:01.200
+Perhaps there is severe weather or some kind of tornado that comes that comes in.
+
+249
+00:18:01.500 --> 00:18:04.740
+So that's sort of how Doppler is used in a weather sense.
+
+250
+00:18:05.760 --> 00:18:11.280
+But that's that that's the Doppler shift, the non relativistic term.
+
+251
+00:18:11.730 --> 00:18:18.820
+What I want you to pay attention to when you use this is whether the target is coming in together or
+
+252
+00:18:18.840 --> 00:18:21.600
+the target is moving, moving away from the source.
+
+253
+00:18:21.600 --> 00:18:26.280
+Depending upon that, you use one of these equations that controls the sign.
+
+254
+00:18:27.060 --> 00:18:29.340
+Um, but yes, the Doppler frequency.
+
+255
+00:18:29.700 --> 00:18:33.840
+I hope you enjoy that after we run through some practice problems.
+
+256
+00:18:33.870 --> 00:18:38.460
+Next, what we're going to do is we're going to jump into the relativistic Doppler shift.
+
+257
+00:18:38.460 --> 00:18:44.310
+We're going to modify this a bit by using some of the information we have learned, such as the Lorenz
+
+258
+00:18:44.310 --> 00:18:49.410
+transformation, time dilation, length contraction, so on and so forth.
+
+259
+00:18:49.880 --> 00:18:50.420
+So they can.

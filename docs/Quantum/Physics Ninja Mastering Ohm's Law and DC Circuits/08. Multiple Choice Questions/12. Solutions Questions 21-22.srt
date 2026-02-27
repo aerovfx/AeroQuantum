@@ -1,0 +1,277 @@
+WEBVTT
+
+00:00.150 --> 00:02.130
+It here's problem 21.
+
+00:02.180 --> 00:07.260
+This is probably one of my favorite problems I think this is kind of a good one I think if you understand
+
+00:07.260 --> 00:10.340
+this when you understand a lot about what's going on here.
+
+00:10.470 --> 00:17.040
+So the circuit in the diagram here contains three light bulbs represented by these crosses here.
+
+00:17.130 --> 00:19.160
+Initially the switch is closed.
+
+00:19.360 --> 00:19.800
+OK.
+
+00:19.820 --> 00:25.650
+So and then which of the following is correct about how bright these light bulbs are.
+
+00:25.650 --> 00:27.520
+If you open the switch.
+
+00:27.960 --> 00:31.060
+So one little comment about this brightness.
+
+00:31.290 --> 00:37.080
+You're basically looking at the current How much current is flowing through that light bulb that's going
+
+00:37.080 --> 00:40.110
+to dictate how bright it is.
+
+00:40.110 --> 00:41.790
+So they either get brighter dimmer.
+
+00:41.790 --> 00:43.180
+They go out.
+
+00:43.770 --> 00:44.010
+All right.
+
+00:44.010 --> 00:49.620
+So we have to do is first you have to compare what's going on when the switch is closed and versus when
+
+00:49.620 --> 00:50.700
+it's open.
+
+00:51.120 --> 00:53.430
+So it's first to the case when it's closed.
+
+00:54.500 --> 00:55.910
+When it's close look what we have.
+
+00:55.910 --> 01:01.290
+And let's assume the resistance of each light bulb is are there all three identical light bulbs.
+
+01:01.310 --> 01:06.590
+So that means that the equivalent resistance of both of these that are in parallel if both of these
+
+01:06.590 --> 01:12.870
+are in parallel the equivalent resistance of both of those is going to be are over to and check that
+
+01:12.870 --> 01:13.890
+for yourself.
+
+01:13.890 --> 01:16.010
+And now you have to combine that with this guy.
+
+01:16.020 --> 01:18.550
+Both of these are in series with this one.
+
+01:18.780 --> 01:26.620
+So this here is really the total equivalent resistance when it's closed so Ohm's law says well it's
+
+01:26.620 --> 01:28.840
+determine how much current we have then.
+
+01:29.270 --> 01:33.820
+So again let me this right here this is one it's closed.
+
+01:34.060 --> 01:36.910
+This here is the equivalent resistance.
+
+01:36.940 --> 01:37.310
+All right.
+
+01:37.310 --> 01:40.630
+Ohm's law now says V equals to our eye.
+
+01:41.280 --> 01:46.330
+So if we want to find how much current kind of flows through the battery flows through this one we can
+
+01:46.330 --> 01:51.130
+use our equation with our equivalent resistor or we're going to find here is that the current eye has
+
+01:51.130 --> 01:55.530
+some voltage V and divided by my equivalent resistance.
+
+01:55.570 --> 02:03.180
+So that's 3R that a dividing by two digits being the two upstairs over here so let's go ahead and don't
+
+02:03.190 --> 02:05.400
+know where is this current in the circuit.
+
+02:05.450 --> 02:12.650
+So that means this is the current I hear it's also the same current flowing down here current flowing
+
+02:12.650 --> 02:14.000
+through the battery.
+
+02:14.000 --> 02:21.440
+Now what happens when I have a current I flowing into a junction that tells me that half of it is going
+
+02:21.440 --> 02:24.620
+to go here and half of it is going to go here.
+
+02:24.620 --> 02:29.840
+And the reason that it splits perfectly in half in this case is because the resistance of each path
+
+02:29.840 --> 02:31.580
+is the same.
+
+02:31.580 --> 02:37.640
+So that means the current down here has to be over three are.
+
+02:37.700 --> 02:37.990
+All right.
+
+02:38.000 --> 02:39.500
+So I mean write all that down.
+
+02:39.590 --> 02:46.580
+So that means that the current flowing through lightbulb three when it's closed is going to be going
+
+02:46.610 --> 02:53.440
+to is going to write this out as a as a firm as a as a floating point number two divided by three is
+
+02:53.490 --> 03:03.560
+0.66 be over are and what else the current now flowing through light bulb Number two is simply going
+
+03:03.560 --> 03:10.330
+to be a third a third a V over are which gives me zero point three three be over.
+
+03:10.460 --> 03:11.090
+All right.
+
+03:11.210 --> 03:12.230
+So that's case number one.
+
+03:12.230 --> 03:18.860
+Now I have to compare that now to what happens when the switch is open when it's open it goes like this.
+
+03:18.890 --> 03:23.560
+That means that I kind of get rid of some of this here.
+
+03:23.810 --> 03:27.430
+That means that the resistance of this upper branch is basically infinite.
+
+03:27.680 --> 03:31.380
+It means I really only have a single loop.
+
+03:32.000 --> 03:34.790
+So let's go do that one over here when it's open.
+
+03:36.940 --> 03:43.220
+The total resistance are equivalent simply going to be two times are.
+
+03:44.290 --> 03:50.230
+So that means now that the current flowing through both of them flowing through this one is going to
+
+03:50.230 --> 03:53.920
+be the same as the current flowing through light bulb number three.
+
+03:54.280 --> 03:59.470
+And this is going to be equal to the voltage divided by my total equivalent resistance which is two
+
+03:59.470 --> 04:01.100
+are.
+
+04:01.120 --> 04:05.730
+So this guy here gives me 0.5 V over.
+
+04:06.850 --> 04:08.830
+OK so what happens.
+
+04:08.830 --> 04:11.920
+So I started out when it's close at zero point three three.
+
+04:11.920 --> 04:15.690
+So what happens to the current through light bulb number.
+
+04:15.760 --> 04:19.840
+Light bulb two at one goes up.
+
+04:19.840 --> 04:24.230
+It increases it went from point three three 2.5.
+
+04:24.250 --> 04:28.040
+And what happens to the current flowing through light bulb number three.
+
+04:28.210 --> 04:29.380
+This one goes down
+
+04:32.700 --> 04:34.930
+so that one this one here is going to get dimmer.
+
+04:35.280 --> 04:41.110
+So we have gets brighter for number two goes down or get dimmer for bulb number three.
+
+04:41.250 --> 04:46.560
+The correct answer for this one has to be choice a little bit of a longer problem but I think it captures
+
+04:46.560 --> 04:48.100
+a lot of what's going on.
+
+04:48.390 --> 04:51.170
+Hopefully you understand this problem.
+
+04:52.260 --> 04:53.270
+Our problem 22.
+
+04:53.280 --> 04:55.330
+What's the current in the circuit above.
+
+04:55.360 --> 04:57.920
+This one is a little bit more straightforward.
+
+04:57.960 --> 05:04.740
+So I've got a two and three home that are in series and I've got a 6 in a 12 first that are in parallel
+
+05:04.740 --> 05:05.730
+with each other.
+
+05:05.740 --> 05:09.900
+So let me first just simplify both of those the equivalent resistance.
+
+05:09.910 --> 05:12.660
+There's only two of them that are in parallel with each other.
+
+05:12.750 --> 05:17.310
+You simply multiply them and you divide it by the sum.
+
+05:18.090 --> 05:21.040
+It could get rid of the six here put it three.
+
+05:21.330 --> 05:26.390
+Get rid of the 12 here put a four at the end you're simply left with forums.
+
+05:26.910 --> 05:28.050
+So that's simply that.
+
+05:28.080 --> 05:37.240
+Now the total equivalent resistance is going to be two plus for almost what I just calculated plus three
+
+05:38.620 --> 05:41.520
+which gives me six plus three nine.
+
+05:42.100 --> 05:44.040
+I have any volt battery.
+
+05:44.230 --> 05:45.800
+Pretty straightforward.
+
+05:45.880 --> 05:56.070
+The current is the voltage divided by my total are equivalent 18 over nine which gives me two.
+
+05:57.130 --> 06:02.560
+So if I go back to the circuit that means you'd have to over here you'd have to right up until the junction
+
+06:02.910 --> 06:08.620
+and you'd have some current that would split and you'd have to going through here to flowing through
+
+06:08.620 --> 06:12.660
+this two ohm resistor because the correct answer for this one.

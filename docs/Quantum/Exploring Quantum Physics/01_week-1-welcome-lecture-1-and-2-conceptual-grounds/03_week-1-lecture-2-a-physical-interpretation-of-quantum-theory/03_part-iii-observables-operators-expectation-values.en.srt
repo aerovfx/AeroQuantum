@@ -1,0 +1,655 @@
+1
+00:00:00,220 --> 00:00:05,260
+In the previous video, we went over
+a rather technical mathematical derivation
+
+2
+00:00:05,260 --> 00:00:07,070
+of the continuity equation.
+
+3
+00:00:07,070 --> 00:00:12,460
+And this derivation involved
+in a rather essential way
+
+4
+00:00:12,460 --> 00:00:14,834
+manipulations with the various operators.
+
+5
+00:00:16,100 --> 00:00:20,619
+The appearance of operators is actually
+not specific to the particular problem of
+
+6
+00:00:20,619 --> 00:00:21,938
+continuity equation.
+
+7
+00:00:21,938 --> 00:00:25,908
+But they appear actually throughout
+quantum mechanics and play a very
+
+8
+00:00:25,908 --> 00:00:30,560
+important role, generally, in the
+mathematical formulas of quantum physics.
+
+9
+00:00:31,680 --> 00:00:36,836
+In this short video, I would like to make
+a few general comments about operators,
+
+10
+00:00:36,836 --> 00:00:40,139
+and relate them to quantum
+observable quantities.
+
+11
+00:00:40,139 --> 00:00:44,169
+So in order for
+me to trace the origin of the operator
+
+12
+00:00:44,169 --> 00:00:48,668
+objects in quantum theory,
+let us go back a little bit and
+
+13
+00:00:48,668 --> 00:00:54,560
+remind ourselves the way
+the Schrödinger equation was derived.
+
+14
+00:00:54,560 --> 00:00:58,408
+So, I use derived here in quotes because
+there's no really rigorous way to derive
+
+15
+00:00:58,408 --> 00:01:01,828
+the Schrödinger equation as a fundamental
+equation of quantum theory.
+
+16
+00:01:01,828 --> 00:01:06,280
+But we sort of followed the logic
+that the early practitioners such as
+
+17
+00:01:06,280 --> 00:01:07,620
+Schrodinger used.
+
+18
+00:01:07,620 --> 00:01:11,180
+And the first piece of information
+which was essential was
+
+19
+00:01:11,180 --> 00:01:14,350
+the experimental fact that
+quantum electrons and
+
+20
+00:01:14,350 --> 00:01:16,859
+other quantum particles may
+exhibit wave-like properties.
+
+21
+00:01:18,360 --> 00:01:23,447
+And in order to explain this, we sort
+of introduced in that whole question
+
+22
+00:01:23,447 --> 00:01:28,140
+a plane-wave function which would
+explain the data essentially.
+
+23
+00:01:29,500 --> 00:01:34,244
+And in this wave function we also
+introduced the momentum and the energy of
+
+24
+00:01:34,244 --> 00:01:39,527
+the electron, which according to another
+piece of information that is known from
+
+25
+00:01:39,527 --> 00:01:44,678
+the theory, it must be related to one
+another using this dispersion relation.
+
+26
+00:01:44,678 --> 00:01:49,357
+So basically kinetic energy of a free
+particle, mv squared over 2 or
+
+27
+00:01:49,357 --> 00:01:50,749
+p squared over 2m.
+
+28
+00:01:50,749 --> 00:01:57,720
+Now the equation itself was
+constructed in order to
+
+29
+00:01:57,720 --> 00:02:02,960
+ensure that the plane-wave function
+would come out as its solution and
+
+30
+00:02:02,960 --> 00:02:06,200
+this dispersion relation
+would be respected.
+
+31
+00:02:06,200 --> 00:02:09,230
+And so this is what equation
+actually looked like,
+
+32
+00:02:09,230 --> 00:02:13,560
+and it involved the second
+derivative with respect to
+
+33
+00:02:13,560 --> 00:02:16,160
+the coordinate in the first
+derivative with respect to time.
+
+34
+00:02:17,270 --> 00:02:21,930
+Now the next step, and this is really
+the first time we sort of thought of
+
+35
+00:02:21,930 --> 00:02:27,300
+introducing an operator, was to write
+the equation in a different way.
+
+36
+00:02:27,300 --> 00:02:31,577
+So we had the sort of universal
+left-hand side which is just i, h bar,
+
+37
+00:02:31,577 --> 00:02:33,912
+the derivative with respect to time.
+
+38
+00:02:33,912 --> 00:02:38,545
+And the right-hand side was an sort
+of energy operator, the Hamiltonian.
+
+39
+00:02:38,545 --> 00:02:43,651
+Where we associated with the momentum
+that would have appeared
+
+40
+00:02:43,651 --> 00:02:48,946
+in the classical theory, this guy,
+which is -i h bar gradient,
+
+41
+00:02:48,946 --> 00:02:55,710
+which indeed is an operator that converts,
+well, that acts on the wave function.
+
+42
+00:02:57,130 --> 00:03:00,890
+And the last step in deriving,
+again, in quotes,
+
+43
+00:03:00,890 --> 00:03:05,815
+the Schrodinger equation was to
+generalize this energy operator,
+
+44
+00:03:05,815 --> 00:03:11,960
+well called Hamiltonian,
+from being the free energy operator,
+
+45
+00:03:11,960 --> 00:03:17,170
+which is just p squared over 2m to
+kinetic energy plus potential energy.
+
+46
+00:03:17,170 --> 00:03:19,760
+And this is the fundamental
+Schrodinger equation,
+
+47
+00:03:19,760 --> 00:03:24,603
+which remarkably describes all of
+nonrelativistic quantum physics including,
+
+48
+00:03:24,603 --> 00:03:28,140
+and this describes atomic spectra,
+and well,
+
+49
+00:03:28,140 --> 00:03:31,930
+even many particle systems, theory of
+metals, theory of super conductivity.
+
+50
+00:03:31,930 --> 00:03:36,540
+Everything is contained in a compact
+way in this remarkable equation.
+
+51
+00:03:36,540 --> 00:03:39,330
+And it's sort of also remarkable
+that you can get to it from
+
+52
+00:03:40,370 --> 00:03:45,460
+very few simple experimental facts,
+by adding small pieces together and
+
+53
+00:03:45,460 --> 00:03:47,530
+getting to this fundamental result.
+
+54
+00:03:47,530 --> 00:03:50,260
+Now but in doing so, we were forced,
+
+55
+00:03:50,260 --> 00:03:54,420
+indeed, to introduce well
+at least three operators.
+
+56
+00:03:54,420 --> 00:03:56,990
+So the first one,
+we have seen already many times.
+
+57
+00:03:56,990 --> 00:04:00,418
+It is the momentum operator,
+-i h bar gradient.
+
+58
+00:04:00,418 --> 00:04:03,227
+And by the way I should mention
+that the minus sign is really sort
+
+59
+00:04:03,227 --> 00:04:05,559
+of a convention which is
+sort of must be consistent,
+
+60
+00:04:05,559 --> 00:04:08,590
+with the convention we choose to
+describe a plane-wave in a sense.
+
+61
+00:04:09,590 --> 00:04:13,438
+It could have been plus, but
+this is the convention that we use.
+
+62
+00:04:13,438 --> 00:04:20,198
+So apart from that we also introduce the
+potential energy which enters this h hat.
+
+63
+00:04:20,198 --> 00:04:21,194
+And in this setup,
+
+64
+00:04:21,194 --> 00:04:25,190
+the potential energy naturally appears
+as just multiplication operator.
+
+65
+00:04:25,190 --> 00:04:29,663
+So we can think about a coordinate
+operator, multiplication operator,
+
+66
+00:04:29,663 --> 00:04:32,691
+that well there should be
+actually a vector here,
+
+67
+00:04:32,691 --> 00:04:37,540
+multiplication operator,
+that simply multiplies the wave function.
+
+68
+00:04:37,540 --> 00:04:43,680
+And finally, the kinetic energy itself,
+sort of the first step, appeared here,
+
+69
+00:04:43,680 --> 00:04:48,960
+and it was the second derivative
+with respect to spatial coordinates.
+
+70
+00:04:48,960 --> 00:04:53,665
+Now, it turns out that the appearance
+of operators was not unique just to
+
+71
+00:04:53,665 --> 00:04:57,230
+this sort of derivation of
+the Schrodinger equation.
+
+72
+00:04:57,230 --> 00:05:02,096
+But sort of they pop up throughout
+quantum theory whenever we deal with any
+
+73
+00:05:02,096 --> 00:05:04,590
+analogs of classical properties.
+
+74
+00:05:04,590 --> 00:05:08,020
+For example, when dealing with the angular
+momentum that in classical theory
+
+75
+00:05:08,020 --> 00:05:12,820
+is r cross p, so
+all we have to do to make it
+
+76
+00:05:12,820 --> 00:05:17,780
+into an operator is to put a hat actually
+on top of the corresponding quantity.
+
+77
+00:05:17,780 --> 00:05:24,009
+So p here would be replaced with -i
+h bar gradient according to this.
+
+78
+00:05:24,009 --> 00:05:26,350
+And r will just be
+multiplication operator, etc.
+
+79
+00:05:26,350 --> 00:05:30,640
+So we can always find a proper
+generalization of classical properties.
+
+80
+00:05:32,090 --> 00:05:32,740
+So that's great.
+
+81
+00:05:32,740 --> 00:05:35,375
+We established that operators do appear in
+
+82
+00:05:35,375 --> 00:05:38,310
+the mathematical formulas
+of quantum theory.
+
+83
+00:05:38,310 --> 00:05:42,980
+And from the mathematical point of
+view it maybe quite interesting.
+
+84
+00:05:42,980 --> 00:05:47,550
+But what physical significance
+do these operators really have?
+
+85
+00:05:47,550 --> 00:05:52,772
+Unlike their classical counterparts, which
+can be measured directly in a classical
+
+86
+00:05:52,772 --> 00:05:57,870
+experiment, let's say we can measure
+momentum, angular momentum, position.
+
+87
+00:05:57,870 --> 00:06:01,760
+The operators cannot be measured per se,
+they're operators.
+
+88
+00:06:01,760 --> 00:06:07,850
+So how do we associate
+an experimental observable with them?
+
+89
+00:06:07,850 --> 00:06:09,410
+So in order to answer this question,
+
+90
+00:06:09,410 --> 00:06:13,960
+we're going to use a sort of method
+that oftentimes is used in science
+
+91
+00:06:13,960 --> 00:06:18,640
+by first answering the question
+in a simple special case.
+
+92
+00:06:18,640 --> 00:06:26,504
+And then generalizing the results to
+a more general category of objects.
+
+93
+00:06:26,504 --> 00:06:30,899
+So and the special case that we're
+going to consider is the measurement of
+
+94
+00:06:30,899 --> 00:06:33,180
+a coordinate of a quantum particle.
+
+95
+00:06:34,360 --> 00:06:38,420
+So the Born rule tells us
+that the absolute value
+
+96
+00:06:38,420 --> 00:06:42,430
+of the wave function squared gives us
+the probability distribution function
+
+97
+00:06:42,430 --> 00:06:45,500
+of different positions
+of a quantum particle.
+
+98
+00:06:45,500 --> 00:06:50,252
+Now in general if we have
+a probability distribution function,
+
+99
+00:06:50,252 --> 00:06:54,218
+let's say capital F(x) of
+some random variable x.
+
+100
+00:06:54,218 --> 00:06:59,948
+So if we want to find, let's say, the mean
+value, the expectation value of this x,
+
+101
+00:06:59,948 --> 00:07:04,551
+what we're going to do is we're going to
+average x, integrate x over all
+
+102
+00:07:04,551 --> 00:07:09,860
+possible values weighted with
+this probability distribution.
+
+103
+00:07:09,860 --> 00:07:14,585
+So in full analogy with this we
+can define the mean value of
+
+104
+00:07:14,585 --> 00:07:20,294
+a three-dimensional coordinate by
+integrating the wave function,
+
+105
+00:07:20,294 --> 00:07:25,020
+absolute value of wave function squared
+with the coordinate over the volume,
+
+106
+00:07:25,020 --> 00:07:28,946
+over the basically all
+three dimensional space.
+
+107
+00:07:28,946 --> 00:07:30,820
+There is a square here.
+
+108
+00:07:30,820 --> 00:07:34,130
+So and this is a natural
+definition of the mean position.
+
+109
+00:07:34,130 --> 00:07:40,994
+So we can rewrite this definition as so
+because absolute value of psi squared,
+
+110
+00:07:40,994 --> 00:07:44,950
+of course,
+is simply psi star times psi of r.
+
+111
+00:07:44,950 --> 00:07:50,791
+So now comes this generalization of
+this definition of the expectation
+
+112
+00:07:50,791 --> 00:07:58,445
+value of a coordinate to a general case of
+an arbitrary quantum mechanical operator.
+
+113
+00:07:58,445 --> 00:08:03,405
+So let's say we have a classical
+property X, let's say, momentum,
+
+114
+00:08:03,405 --> 00:08:06,625
+angular momentum, coordinate,
+energy, whatever.
+
+115
+00:08:06,625 --> 00:08:11,593
+And let's assume we know the quantum
+mechanical operator associated with this,
+
+116
+00:08:11,593 --> 00:08:12,318
+some X hat.
+
+117
+00:08:12,318 --> 00:08:18,044
+So the expectation value of this quantum
+observable X is going to be calculated
+
+118
+00:08:18,044 --> 00:08:23,324
+in full analogy with this equation
+by simply replacing the coordinate
+
+119
+00:08:23,324 --> 00:08:28,230
+operator in this equation with
+the operator X, whatever it is.
+
+120
+00:08:28,230 --> 00:08:34,605
+So for example, if X happens to be, so
+let's say if X happens to be momentum,
+
+121
+00:08:34,605 --> 00:08:40,199
+then we're going to simply write it
+the expectation value of momentum
+
+122
+00:08:40,199 --> 00:08:46,010
+is going to be an integral of V star
+(-i h bar) gradient of psi, etc.
+
+123
+00:08:46,010 --> 00:08:50,720
+So it turns out that this
+conjecture actually works in
+
+124
+00:08:50,720 --> 00:08:55,230
+that it is consistent with
+the experimental data.
+
+125
+00:08:56,890 --> 00:09:02,010
+And the experimental data implies
+that let's say we have an ensemble
+
+126
+00:09:02,010 --> 00:09:06,451
+of quantum systems,
+each described by wave-function psi of r.
+
+127
+00:09:07,570 --> 00:09:13,020
+And if we measure some property
+X of this quantum systems,
+
+128
+00:09:13,020 --> 00:09:15,130
+we're going to get different results.
+
+129
+00:09:15,130 --> 00:09:20,270
+But the average value of this measurement
+is going to be consistent with
+
+130
+00:09:20,270 --> 00:09:25,400
+this definition of the expectation value.
+
+131
+00:09:26,980 --> 00:09:30,060
+And so it becomes very important and
+
+132
+00:09:30,060 --> 00:09:33,890
+basic principle of quantum
+mechanics that I reiterate here.
+
+133
+00:09:33,890 --> 00:09:37,520
+Namely that, first of all,
+physical observables are associated with,
+
+134
+00:09:37,520 --> 00:09:40,980
+what I didn't discuss,
+self-adjoint operators
+
+135
+00:09:40,980 --> 00:09:45,870
+acting on the wave-function with
+the expectation value defined as above.

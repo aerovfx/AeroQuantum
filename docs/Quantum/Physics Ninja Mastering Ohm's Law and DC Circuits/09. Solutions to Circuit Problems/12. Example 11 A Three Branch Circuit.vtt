@@ -1,0 +1,672 @@
+WEBVTT
+
+WEBVTT
+
+00:00.510 --> 00:05.430
+All right here's a three branch circuit this time kind of complicated looking right.
+
+00:05.490 --> 00:07.940
+It's got five resistors to batteries.
+
+00:07.940 --> 00:10.730
+So again we want to find the current everywhere.
+
+00:10.980 --> 00:16.260
+Now I haven't given you any choices here and we also want to find the potential at all these points
+
+00:16.680 --> 00:22.460
+given that the potential points see zero volts so that could be the grounding over here.
+
+00:22.470 --> 00:22.750
+All right.
+
+00:22.770 --> 00:26.590
+So first thing we want to do is we want to pick directions for the currents.
+
+00:26.880 --> 00:33.760
+Call this I again it doesn't matter whether you're right or wrong the physics will work its way out.
+
+00:33.760 --> 00:36.980
+So I'm going to kind of pick kind of stuff I usually do.
+
+00:37.170 --> 00:46.470
+I go on this way I was going down to going to the right through the battery and then maybe two more
+
+00:46.470 --> 00:47.610
+down here.
+
+00:47.610 --> 00:49.600
+So there's another junction over here.
+
+00:49.890 --> 00:57.080
+So some current going up here I three and then maybe some other current going down here I-4.
+
+00:57.090 --> 00:58.780
+All right so we've got all these branches here.
+
+00:58.780 --> 01:01.450
+We've got five different currents we have to determine.
+
+01:01.890 --> 01:04.540
+Let's go ahead and maybe write some junction rules.
+
+01:04.820 --> 01:11.820
+If junction at point B if at the current going in has to be equal to the current going out.
+
+01:11.960 --> 01:17.410
+So it has to be one plus to call this equation one.
+
+01:17.460 --> 01:23.350
+What other ones we have we have another junction down over here said I to do this one at the end.
+
+01:23.400 --> 01:28.950
+Two has to be equal to three plus four.
+
+01:28.950 --> 01:29.190
+All right.
+
+01:29.190 --> 01:32.250
+There's another equation equation too.
+
+01:32.460 --> 01:37.590
+One thing I can also do is I can simplify both of these right the three in the six Let me shade that
+
+01:37.590 --> 01:40.820
+area a little bit here just so we know we're talking about both of those.
+
+01:40.860 --> 01:46.560
+You can simplify it because there's two resistors that are certainly in parallel with each other.
+
+01:46.860 --> 01:52.770
+So what you have to do is you simply multiply divided by the sum you multiply and you get 18 18 divided
+
+01:52.770 --> 01:53.250
+by nine.
+
+01:53.250 --> 01:56.420
+This is equivalent to a 2 ohm resistor.
+
+01:56.430 --> 02:00.010
+Actually what I'm going to do is I'm actually going to forget about this entire part for now.
+
+02:00.260 --> 02:07.080
+I'm just going to replace everything here by two ohm resistor between point D and point B at the and
+
+02:07.080 --> 02:08.630
+I'll come back and solve for this.
+
+02:08.640 --> 02:13.320
+But let's just for now just replace it with a 2 ohm and then it looks really really similar to a previous
+
+02:13.320 --> 02:15.120
+problem I did.
+
+02:15.120 --> 02:15.340
+All right.
+
+02:15.340 --> 02:18.900
+Next we want to do now is we don't have enough information and we really need to write down some loop
+
+02:18.900 --> 02:19.550
+rules.
+
+02:19.970 --> 02:21.090
+So let's go ahead and write those.
+
+02:21.090 --> 02:26.220
+I'm going to start at point F and I'm going to go on this interior or this loop here that's on the left
+
+02:26.220 --> 02:27.330
+most side.
+
+02:27.750 --> 02:34.140
+So the first thing I do is going to be equivalent three going across a battery and I'm crossing a battery
+
+02:34.140 --> 02:36.810
+in this direction so I get plus 18 volts.
+
+02:36.840 --> 02:38.250
+Now I'm going to get a drop right.
+
+02:38.250 --> 02:44.760
+I get a voltage drop across that resistor which is minus 12 multiplied by the current flowing through
+
+02:44.760 --> 02:46.530
+it.
+
+02:46.530 --> 02:52.560
+Now I'm going to go down the center branch again I'm going to have a voltage drop given by six multiplied
+
+02:52.560 --> 02:53.840
+by the current flowing through it.
+
+02:53.850 --> 02:59.240
+In this case I won and then I'm going to go back to everywhere where I started to point.
+
+02:59.260 --> 03:01.910
+So I get zero for that one.
+
+03:01.950 --> 03:05.830
+Now the other thing I can do is I can do a big loop around the entire thing.
+
+03:06.000 --> 03:07.040
+So let's do that.
+
+03:07.050 --> 03:12.050
+Call this equation for and I'll have enough information at least to get started.
+
+03:12.300 --> 03:16.170
+So first thing I have again these first two terms are going to be the same they're exactly the same
+
+03:16.170 --> 03:20.120
+as this so it's 18 because I go over the battery across that resistor.
+
+03:20.190 --> 03:28.830
+Now I'm at point B and next thing I do now I'm going to cross a three ohm resistor so I get a voltage
+
+03:28.830 --> 03:32.240
+drop given by three how careful here is multiplied by different current.
+
+03:32.260 --> 03:41.010
+I do all right now at Point C I'm going to go here and I'm going to cross a battery battery and I'm
+
+03:41.010 --> 03:42.910
+crossing it from the lower to the higher.
+
+03:43.140 --> 03:45.710
+So I get plus 21.
+
+03:45.960 --> 03:48.530
+Now on that point Dean I want to get the point.
+
+03:49.020 --> 03:53.610
+And instead of introducing kind of two new variables here I'm just going to replace this by an equivalent
+
+03:53.610 --> 03:58.830
+resistor and now I'm going to go across it that equivalent resistor which just to say I get a voltage
+
+03:58.830 --> 04:03.750
+drop given by two and multiplied by two and that's it.
+
+04:03.750 --> 04:09.840
+I go back to where I started and I've done actually these three equations here allow me to solve for
+
+04:09.930 --> 04:16.350
+I 1 and 2 because they don't really introduce 3 or 4 because they don't because that kind of simplified
+
+04:16.350 --> 04:18.990
+it by using this equivalent resistance.
+
+04:19.050 --> 04:23.580
+So now I can proceed and I can actually solve for these three currents here just using equation 1 3
+
+04:23.580 --> 04:27.080
+and 4 am going to do it the exact same way I previously did.
+
+04:27.390 --> 04:29.920
+So using equation 3 let's call it three prime.
+
+04:29.940 --> 04:36.780
+I'm going to start by isolating and by using either one or isolating I one and writing it in terms of
+
+04:36.780 --> 04:37.940
+the current.
+
+04:38.340 --> 04:45.240
+So if you do that I bring that on the other side I get six times I one has to be equal to 18 minus 12
+
+04:45.630 --> 04:46.790
+times I.
+
+04:47.550 --> 04:50.370
+So I get that I won.
+
+04:50.410 --> 04:56.340
+If I divide through by six I'm going to get three for that one minus two times.
+
+04:57.090 --> 05:01.220
+All right so that's my equation 3 pry my equation for prime do a similar thing.
+
+05:01.640 --> 05:04.550
+18 plus 21 gives me 39.
+
+05:04.970 --> 05:09.410
+And this one three two and two I will give me five.
+
+05:09.470 --> 05:11.270
+So I get five Aitu.
+
+05:11.580 --> 05:13.390
+I bring that on the other side.
+
+05:13.580 --> 05:14.380
+I'll isolate that.
+
+05:14.380 --> 05:16.470
+Now I get thirty nine.
+
+05:16.980 --> 05:20.610
+And what else do I have I still have the minus 12.
+
+05:21.670 --> 05:22.000
+OK.
+
+05:22.040 --> 05:24.470
+Now you can isolate what I two is.
+
+05:25.300 --> 05:27.540
+Thirty nine is looks like a messy fraction.
+
+05:27.550 --> 05:34.250
+Thirty nine over five minus 12 over five multiplied by.
+
+05:35.060 --> 05:40.010
+OK so now I have expressions for I want an I'D to and I'm going to go back to Equation 1 and let's substitute
+
+05:40.010 --> 05:41.580
+everything and Equation 1.
+
+05:41.800 --> 05:44.380
+Let's call this equation 1 prime.
+
+05:44.380 --> 05:58.420
+So you get i equals three minus two I Plus thirty nine over five minus 12 over five times.
+
+05:58.930 --> 06:02.080
+All right the only unknown in this equation over here is the letter I.
+
+06:02.090 --> 06:03.980
+So you just have to group all the terms together.
+
+06:03.980 --> 06:07.180
+Bring this on the other side bring this on the other side.
+
+06:07.460 --> 06:15.110
+So what do you end up getting in the getting I mean plus two I if I bring it on the other side and plus
+
+06:15.110 --> 06:24.920
+12 over five I on this side here I get thirty nine over five plus three.
+
+06:25.850 --> 06:26.370
+OK.
+
+06:26.390 --> 06:30.010
+Now I'm going to put things on a common denominator of five.
+
+06:30.040 --> 06:31.060
+I think that's going to help me.
+
+06:31.100 --> 06:35.190
+So this is going to be five over five plus ten over five.
+
+06:35.210 --> 06:37.310
+This is still 12.
+
+06:37.680 --> 06:41.540
+And on the side too if I put everything on a common denominator of five I think that's going to help
+
+06:41.540 --> 06:42.410
+me.
+
+06:42.440 --> 06:43.970
+This is still 39.
+
+06:44.420 --> 06:49.560
+If I put this over five that means I have to multiply by five.
+
+06:49.570 --> 06:49.820
+All right.
+
+06:49.820 --> 06:52.120
+Now this simplifies nicely what just about done.
+
+06:52.360 --> 06:55.570
+So are about all the algebra but that's life.
+
+06:55.580 --> 07:05.210
+All right so what do we get over here we get 15 plus 12 27 and here we get oh 54 Well that's easy.
+
+07:05.540 --> 07:12.690
+So I simply going to be 54 divided by 27 and we've seen that before.
+
+07:12.830 --> 07:15.440
+There's two imps.
+
+07:15.500 --> 07:17.670
+Boy that was a lot of work to get to that answer.
+
+07:17.750 --> 07:20.840
+But here we have two aims in this section over here.
+
+07:20.990 --> 07:27.470
+Two aims are now part of that Currence going to go down here part of it's going to go over here.
+
+07:27.500 --> 07:28.760
+So let's go ahead and look at that.
+
+07:28.760 --> 07:36.230
+So look at I won I won we have an expression for Iowa and it's three minus two times.
+
+07:36.230 --> 07:38.850
+The letter I wrote two times two.
+
+07:38.870 --> 07:45.670
+What happens here if three minus four minus one.
+
+07:46.100 --> 07:49.740
+What does that mean is the first time we've seen this in this group.
+
+07:49.790 --> 07:53.150
+So remember whenever you end up getting a negative sign.
+
+07:53.270 --> 07:57.520
+The only thing it tells me is that my initial guess was wrong.
+
+07:57.560 --> 08:03.740
+Instead of having a current flowing down in that branch really what we have is a current flowing up
+
+08:03.740 --> 08:04.770
+in that branch.
+
+08:04.940 --> 08:05.820
+OK.
+
+08:06.260 --> 08:07.770
+So switch the direction.
+
+08:08.140 --> 08:10.500
+And now you're going to find that one is actually here.
+
+08:10.520 --> 08:15.290
+So it's one app and it's flowing up so that they'll be scared by this.
+
+08:15.290 --> 08:17.550
+OK so just be a little bit careful with that one.
+
+08:17.780 --> 08:21.740
+I too on the other hand too we have our expression down over here.
+
+08:21.740 --> 08:23.230
+This looks like it's a bit of a mess.
+
+08:23.240 --> 08:24.310
+But let's try it out.
+
+08:24.530 --> 08:27.820
+Thirty nine over five minus.
+
+08:27.830 --> 08:30.240
+This will be 24 over five.
+
+08:30.610 --> 08:35.780
+Oh that looks like 15 over five which gives me three.
+
+08:35.780 --> 08:35.950
+All right.
+
+08:35.960 --> 08:37.090
+So does that make sense.
+
+08:37.140 --> 08:39.810
+Says this guy here's three.
+
+08:40.100 --> 08:42.170
+Here we have one going in.
+
+08:42.170 --> 08:43.490
+We have two going in.
+
+08:43.490 --> 08:43.710
+Oh yeah.
+
+08:43.710 --> 08:45.640
+You have to have three going that way.
+
+08:45.640 --> 08:47.030
+Perfect.
+
+08:47.810 --> 08:50.850
+All right so now we've got three going into the junction.
+
+08:50.870 --> 08:53.440
+Now how do we solve for the two currents down over here.
+
+08:53.500 --> 08:55.570
+Three and Four.
+
+08:55.790 --> 08:58.200
+Let's go ahead maybe do that over here in the box.
+
+09:00.560 --> 09:03.420
+So we've already got one equation that relates both of those.
+
+09:03.590 --> 09:05.230
+What else can I do while I can do.
+
+09:05.300 --> 09:09.060
+You know that the voltage across each one has to be the same.
+
+09:09.530 --> 09:12.800
+Or you can do a little loop rule right around here if you want to.
+
+09:13.070 --> 09:17.220
+Let's do that let's go around counter-clockwise around this small loop.
+
+09:17.870 --> 09:23.330
+What does that look like well when you cross a resistor like this I get a voltage drop given by three
+
+09:25.010 --> 09:30.740
+times three and then I'm going to go cross a six ohm resistor but I'm crossing it in the opposite direction
+
+09:30.740 --> 09:31.660
+of the current.
+
+09:31.970 --> 09:37.380
+So I get a voltage gain of six times I4 then I go back to where I start.
+
+09:37.460 --> 09:38.870
+And I get zero.
+
+09:39.650 --> 09:43.120
+Maybe I can simplify this a little bit.
+
+09:43.190 --> 09:44.910
+So what would you get used.
+
+09:44.960 --> 09:51.800
+Right I three must be equal to two I4 from this equation and then can go ahead and substitute that over
+
+09:51.800 --> 09:53.330
+here.
+
+09:53.330 --> 09:53.810
+And what do you get.
+
+09:53.810 --> 10:00.060
+Because you know what I do is we solved I tune the previous problem we said it was three amps.
+
+10:00.240 --> 10:03.620
+So now what do you get I three wants do that.
+
+10:03.620 --> 10:09.710
+So you get to I4 plus I4 gives me three.
+
+10:09.710 --> 10:14.960
+So what is I forgive you for then must be equal to 1.
+
+10:16.250 --> 10:18.260
+And I've got three going in.
+
+10:18.470 --> 10:20.390
+I've got one going downstairs.
+
+10:20.390 --> 10:21.560
+How many do I have over here.
+
+10:21.560 --> 10:23.560
+I have to have two.
+
+10:23.600 --> 10:28.810
+This here has to be two minutes and you're going to get that just for manipulating these two equations
+
+10:28.810 --> 10:30.000
+a junction rule.
+
+10:30.300 --> 10:33.710
+And also my basically my loop rule just rearranged.
+
+10:33.770 --> 10:35.240
+You could solve for those two unknowns.
+
+10:35.240 --> 10:37.070
+This is what you'll find.
+
+10:38.040 --> 10:38.290
+All right.
+
+10:38.300 --> 10:39.400
+Pretty good so far.
+
+10:39.460 --> 10:41.840
+Now all we have to do is look at all the voltages.
+
+10:41.840 --> 10:44.110
+Now we've solved all the currents.
+
+10:44.120 --> 10:50.170
+Let's look at all the voltages except they're telling us that this voltage up here is equal to zero.
+
+10:50.930 --> 10:51.830
+Well that's pretty easy.
+
+10:51.830 --> 10:52.930
+So let's go around now.
+
+10:53.090 --> 10:56.570
+Let's go around the loop here and write down all these voltages everywhere.
+
+10:56.600 --> 10:57.620
+So if I go to D.
+
+10:57.630 --> 11:03.350
+Well that should be 21 volts above point C right.
+
+11:03.350 --> 11:05.870
+So VD should be 21 volts
+
+11:09.340 --> 11:10.570
+BD.
+
+11:11.350 --> 11:11.780
+OK.
+
+11:11.810 --> 11:14.240
+Now what else oh how can I get the Wii.
+
+11:14.300 --> 11:19.050
+Well there's a couple different paths I can do now right.
+
+11:19.400 --> 11:20.980
+How do I get over here across.
+
+11:21.010 --> 11:25.280
+I can either go through the three Omaar I can go through the six it doesn't matter which one I do.
+
+11:25.280 --> 11:29.820
+Both of these are in parallel there's the same voltage drop across each one.
+
+11:29.900 --> 11:32.360
+So let's just go down here through the six.
+
+11:32.420 --> 11:36.440
+So I get to get a voltage drop equal to six multiplied by the current going through it.
+
+11:36.440 --> 11:44.030
+That's six six volts across this one and I'm at 21 and if I go down six volts that means that the voltage
+
+11:44.030 --> 11:47.810
+right over here has to be 15 volts.
+
+11:47.810 --> 11:51.950
+How about now if I go to point f Why do I cross any resistors here.
+
+11:52.400 --> 11:55.840
+If I don't then there's no voltage drop across anything here.
+
+11:56.120 --> 11:59.910
+So that means at this point here should also be at 15 volts.
+
+12:00.730 --> 12:00.970
+All right.
+
+12:00.980 --> 12:02.640
+How do I work my way today.
+
+12:02.660 --> 12:09.380
+Well if I work my way to a I get 15 here and then what do I do I gain how many I gain 18.
+
+12:09.710 --> 12:15.720
+So that means that the voltage over here up Point A has to be 15 plus 18.
+
+12:15.790 --> 12:18.910
+It gives me 33.
+
+12:18.920 --> 12:22.720
+All right what else can I do on how I can go through the 12 ohm resistor right.
+
+12:22.820 --> 12:26.730
+If I go through the 12 Omers this there are a lot of different ways to get to be.
+
+12:26.840 --> 12:32.310
+I can either go over here I can go from E to be I can go from C to be it doesn't matter.
+
+12:32.390 --> 12:37.550
+Actually it's pretty easy even just to go from C to be because you know there's a voltage drop here
+
+12:37.550 --> 12:43.130
+and the voltage drop across this three ohm resistor is the value of the resistance multiplied by the
+
+12:43.130 --> 12:44.570
+current.
+
+12:44.660 --> 12:46.330
+So that gives me nine.
+
+12:46.970 --> 12:53.450
+So that means that this point here should be at 9 volts because I know that I have to drop down 9 volts
+
+12:53.450 --> 12:55.580
+if I'm going to be at zero over here.
+
+12:56.150 --> 12:57.360
+Point C.
+
+12:57.680 --> 12:57.940
+All right.
+
+12:57.950 --> 13:01.730
+So actually determining the voltages around it's pretty straightforward especially if they give you
+
+13:01.730 --> 13:02.880
+a starting point.
+
+13:03.080 --> 13:07.790
+Once you know the currents and you know the values of everything the voltages of the batteries you know
+
+13:07.790 --> 13:09.730
+the values of currents everywhere.
+
+13:10.010 --> 13:14.540
+You know the resistor is everywhere or you can easily calculate what the voltage gains are the drops
+
+13:14.540 --> 13:16.620
+are at every point in the circuit.
+
+13:16.700 --> 13:19.710
+So it's pretty easy to fill out the rest of the blanks.
+
+13:19.760 --> 13:21.500
+Hopefully you understand this by now.
+
+13:21.590 --> 13:24.160
+This should be starting to get a little bit easier for you.

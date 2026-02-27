@@ -1,0 +1,204 @@
+WEBVTT
+
+WEBVTT
+
+00:00.190 --> 00:06.090
+All right one last thing here since we have our equation for the charge as a function of time it's also
+
+00:06.090 --> 00:07.730
+important just to look at the current.
+
+00:07.730 --> 00:12.750
+Here is a function of time to get the general expression the definition of the current is the rate of
+
+00:12.750 --> 00:16.970
+change of the current of the charge rather as a function of time.
+
+00:16.980 --> 00:18.140
+Try that again.
+
+00:18.690 --> 00:21.080
+OK so the first term is C..
+
+00:21.150 --> 00:25.410
+All right if I just multiply that through you take a derivative of a constant that equals to zero you
+
+00:25.410 --> 00:29.610
+don't have to worry about that one the next term if we're going to get mine.
+
+00:29.610 --> 00:33.290
+See that term is the constant in front of the exponential.
+
+00:33.440 --> 00:39.830
+The derivative of this exponential now you're going to get a minus 1 over R C term is going to pop out.
+
+00:39.840 --> 00:41.770
+That's the derivative of the exponential.
+
+00:41.880 --> 00:48.910
+And then you're left with the exact same term minus T and divided by this time constant R C.
+
+00:49.110 --> 00:49.340
+All right.
+
+00:49.350 --> 00:50.580
+So let's clean this up a little bit.
+
+00:50.580 --> 00:55.710
+You notice you have the capacitance in the numerator and denominator and get rid of that one.
+
+00:55.710 --> 00:58.900
+Notice you have a negative sign here and you have a negative sign here.
+
+00:59.280 --> 01:00.350
+All right so the last bit.
+
+01:00.370 --> 01:02.100
+Let's just clean this up a little bit.
+
+01:02.490 --> 01:07.400
+So we get that the current as a function of time equal to.
+
+01:07.680 --> 01:13.760
+So the term in the front is simply the IMF of the battery divided by the resistance.
+
+01:13.960 --> 01:23.800
+And then we get this exponential and it's a decaying exponential time divided by this RC time constant.
+
+01:23.960 --> 01:25.650
+There you go just like that.
+
+01:26.380 --> 01:31.570
+So this term here in the front this is basically the initial current.
+
+01:31.570 --> 01:32.390
+All right.
+
+01:32.550 --> 01:35.730
+You can call it either 0 or IMAX right.
+
+01:35.890 --> 01:40.090
+That is the current that you get if you substitute time equals to zero here.
+
+01:40.120 --> 01:44.990
+So over here you would get a current of zero right.
+
+01:45.130 --> 01:47.860
+Zero doesn't depend on the value of the capacitance.
+
+01:47.880 --> 01:49.050
+That's an important fact.
+
+01:49.050 --> 01:49.710
+Right.
+
+01:49.800 --> 01:51.540
+No dependence on capacitance
+
+01:54.440 --> 01:54.930
+not
+
+01:58.440 --> 02:00.650
+depend on.
+
+02:00.750 --> 02:05.350
+This is going to be kind of important later on when we're going to have more complicated circuits and
+
+02:05.350 --> 02:08.730
+we're going to look to solve for what the initial current is.
+
+02:08.740 --> 02:13.330
+So basically when you first shut the switch it does though the capacitance is not there.
+
+02:13.330 --> 02:18.820
+Sometimes you say it looks like the capacitance is shorted as if there's a wire connecting this plate
+
+02:18.820 --> 02:20.250
+to that plate.
+
+02:20.410 --> 02:22.570
+Therefore no capacitance whatsoever.
+
+02:22.960 --> 02:26.210
+Now on a longtime again this term eventually goes to zero.
+
+02:26.440 --> 02:29.410
+So you get simply a function that looks like an exponential decay
+
+02:32.840 --> 02:35.420
+something like this.
+
+02:35.420 --> 02:39.020
+Now again you could this here has a characteristic decay.
+
+02:39.020 --> 02:44.330
+This is not the best exponential decay I've ever drawn but this here is characterized by some time constant
+
+02:44.500 --> 02:50.390
+RC which you can calculate and well you can compare other cases right.
+
+02:50.390 --> 02:54.030
+What if something decayed pretty fast something like this.
+
+02:54.290 --> 02:57.620
+Versus what if something decayed very very slowly.
+
+02:57.700 --> 03:04.170
+Right something that decays very slowly has a very long time constant.
+
+03:04.290 --> 03:04.480
+Right.
+
+03:04.520 --> 03:09.290
+So the time constant for this guy here would be some different value of the resistance some different
+
+03:09.290 --> 03:10.970
+value of the capacitance.
+
+03:12.100 --> 03:17.620
+So you have a large time constant for the purple one you'd have a very short time constant for this
+
+03:17.620 --> 03:17.990
+one.
+
+03:18.040 --> 03:19.390
+Right.
+
+03:19.540 --> 03:24.910
+So the orange one might represent the case where the resistance is very small.
+
+03:29.370 --> 03:35.280
+So initially there is quite a bit of current and again maybe I shouldn't start them off all at the same
+
+03:35.280 --> 03:40.590
+spot I really just want to compare their DKs here but I'm just looking at kind of how fast it approaches
+
+03:40.590 --> 03:41.630
+zero here.
+
+03:42.000 --> 03:46.350
+If the resistance is small the Initially there is a lot of current but then it goes to zero very very
+
+03:46.350 --> 03:47.360
+fast.
+
+03:47.700 --> 03:47.990
+OK.
+
+03:48.000 --> 03:52.350
+So this time constant here T-1 is small
+
+03:55.060 --> 04:01.990
+definitely smaller than smaller than this guy and definitely smaller than Tower 3.
+
+04:02.400 --> 04:03.260
+OK.
+
+04:03.730 --> 04:07.960
+So I just wanted to just close this up now so we've talked about the voltage we've talked about the
+
+04:07.960 --> 04:10.170
+charge we've talked about the current.
+
+04:10.410 --> 04:12.810
+We kind of have it all our building blocks.

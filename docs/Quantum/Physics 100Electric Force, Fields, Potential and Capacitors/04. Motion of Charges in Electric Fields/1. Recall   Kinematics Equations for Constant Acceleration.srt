@@ -1,0 +1,265 @@
+WEBVTT
+
+00:01.060 --> 00:07.300
+All right what I want to do now in this video is just to look at the emotion of charged particles between
+
+00:07.300 --> 00:12.820
+these parallel plates in order to do a lot of these problems you have to go back to kinetics.
+
+00:12.910 --> 00:13.140
+OK.
+
+00:13.150 --> 00:16.530
+In order to analyze the motion again I choose this example here.
+
+00:16.540 --> 00:19.720
+Parallel plates versus the field produced by a point charge.
+
+00:19.720 --> 00:25.210
+Because in this case the the electric field is uniform which means it's constant.
+
+00:25.210 --> 00:25.560
+OK.
+
+00:25.590 --> 00:27.500
+Let you write that down again.
+
+00:27.900 --> 00:32.620
+It's the same any position that you're looking at between these plates.
+
+00:32.620 --> 00:38.200
+And we just said earlier on that the acceleration has to be the charge that I'm going to place between
+
+00:38.200 --> 00:46.690
+those plates the electric field divided by the mass I super important equation over here.
+
+00:46.720 --> 00:46.990
+All right.
+
+00:47.020 --> 00:54.340
+So if the acceleration is constant this means I can use some simple Keenum addicts to look at the to
+
+00:54.340 --> 00:57.730
+describe the motion of a charged particle between these plates.
+
+00:57.730 --> 00:59.090
+Let me show you an example.
+
+00:59.260 --> 01:05.360
+What happens if I place a small positive charge over here and it starts to accelerate.
+
+01:05.360 --> 01:09.180
+OK I may have a certain distance here between these plates.
+
+01:09.250 --> 01:14.080
+I don't know maybe we're going to call this distance d the spacing between the plates.
+
+01:14.320 --> 01:16.210
+What if I release it from rest.
+
+01:16.250 --> 01:16.500
+OK.
+
+01:16.510 --> 01:20.980
+I would have an initial speed what if I wanted to know how long does it take before it gets to the other
+
+01:20.980 --> 01:22.410
+side.
+
+01:23.080 --> 01:28.020
+What if I wanted to know what is the speed of this little charge when it gets to the other side.
+
+01:28.080 --> 01:30.910
+And imagine this here has a charge Q All right.
+
+01:30.910 --> 01:37.720
+Another situation I could have is what if I take a negative charge and I give it some initial velocity
+
+01:37.720 --> 01:43.510
+v zero and I throw it up between the plates what happens to that charge.
+
+01:43.530 --> 01:47.560
+Right can I describe the motion of this charged particle this negative charge.
+
+01:47.560 --> 01:53.450
+Q Well as it enters the field it wants to go toward the positive plate.
+
+01:53.470 --> 01:55.850
+It wants to go away from the negative plate.
+
+01:55.930 --> 02:03.220
+In this case here if you do a free body diagram on this negative charge again I'll draw the forces here
+
+02:03.220 --> 02:04.540
+in purple.
+
+02:04.570 --> 02:11.860
+Let me draw the force the force acting on this guy here has to be in this direction and the force is
+
+02:11.860 --> 02:13.150
+constant.
+
+02:13.150 --> 02:18.220
+It also means that the acceleration is constant it's also given behind by equation up here.
+
+02:18.520 --> 02:24.580
+So we can do some kinetics now but you have to remember some of the equations for kinetics the kinetic
+
+02:24.580 --> 02:29.930
+equations are used only in the case where the acceleration is constant.
+
+02:30.040 --> 02:33.600
+If you remember back in kind of the first physics class you took.
+
+02:33.610 --> 02:39.110
+If this was Earth we had another case where the acceleration was constant.
+
+02:39.200 --> 02:39.430
+All right.
+
+02:39.430 --> 02:44.830
+If I drop an apple over here we know that the acceleration of the apple we wrote that as little g and
+
+02:44.830 --> 02:47.800
+this was nine point eight meters per second squared.
+
+02:47.830 --> 02:52.280
+That was the acceleration and the earth is kind of like a big plate.
+
+02:52.730 --> 02:57.970
+Okay if you're close to the plate the acceleration is constant kind of the same thing is this parallel
+
+02:57.970 --> 02:58.750
+plate.
+
+02:59.170 --> 03:04.810
+So if the acceleration was constant there were a whole set of equations that you can use to analyze
+
+03:04.810 --> 03:06.570
+the motion.
+
+03:06.670 --> 03:08.070
+Let me write them down.
+
+03:08.140 --> 03:10.330
+I call them the big five equations.
+
+03:10.330 --> 03:13.990
+Again they're just kind of good to remember if you don't remember we'll write them down.
+
+03:13.990 --> 03:20.620
+So we have four and five for the green charge over here.
+
+03:20.620 --> 03:25.720
+In this case it's in two dimensions so you'll really have to look at them in the x and the y direction
+
+03:25.720 --> 03:26.260
+separately.
+
+03:26.260 --> 03:32.620
+I'm just gonna write down the general equations see if you remember this one here said that the displacement
+
+03:33.490 --> 03:39.940
+in a direction is equal to one half the initial velocity plus the velocity times time.
+
+03:39.940 --> 03:48.490
+This one over here is the final velocity V.F. is equal to the initial velocity plus the acceleration
+
+03:48.490 --> 03:50.440
+times time.
+
+03:50.590 --> 03:52.750
+This one over here is also used quite a bit.
+
+03:52.750 --> 03:58.590
+The displacement equals to the initial velocity times time plus one half.
+
+03:58.960 --> 04:05.260
+80 squared is another one here which is kind of similar except it uses the final velocity.
+
+04:05.260 --> 04:10.960
+This one's probably not as popular but it had just has a different sign but it also has the different
+
+04:10.960 --> 04:17.050
+velocity right here and another one that's used quite a bit is this one the final velocity squared equals
+
+04:17.050 --> 04:25.030
+to the initial velocity squared plus two times the acceleration multiplied by the displacement for this
+
+04:25.030 --> 04:26.240
+green one over here.
+
+04:26.290 --> 04:31.890
+Again if there's only acceleration in one direction again you'd have to consider that right.
+
+04:31.890 --> 04:37.300
+We'll have to write them in the x and the y direction separately in order to analyze the motion.
+
+04:37.360 --> 04:43.600
+This guy over here looks very very similar to projectile motion right for projectile motion if you remember
+
+04:43.600 --> 04:49.720
+what you have is you have something like this and what I do is either kick a ball at a certain angle
+
+04:50.620 --> 04:56.380
+and that ball ends up doing a projectile motion and I can calculate how far it goes I can calculate
+
+04:56.380 --> 04:59.230
+the maximum height and so forth.
+
+04:59.350 --> 05:05.230
+In this case here what the projectile is going to do or the charge is in this case it's just going to
+
+05:05.290 --> 05:06.160
+get deflected.
+
+05:06.180 --> 05:07.700
+There's a force acting on it.
+
+05:07.930 --> 05:09.890
+So the motion is going to get deflected.
+
+05:10.450 --> 05:16.540
+So it would usually kind of pop out on the other side of the plates with some displacement over here
+
+05:16.840 --> 05:17.850
+in this direction.
+
+05:19.160 --> 05:23.930
+Again depending on the size of the electric field or the size of this charge it might not even make
+
+05:23.930 --> 05:25.500
+it across the plates right.
+
+05:25.520 --> 05:28.040
+It might just kind of boom hit the plate right here.
+
+05:28.040 --> 05:29.810
+It might just hit the plate right here.
+
+05:29.810 --> 05:32.230
+If there is a large force acting on it.
+
+05:32.460 --> 05:37.580
+Okay but going forward you might have to use some of these Cannon Matic equations in order to analyze
+
+05:37.580 --> 05:43.970
+the motion of charges and we're able to use these here only because we have a constant acceleration.
+
+05:44.000 --> 05:50.180
+So instead of using nine point eight over here for the acceleration instead of doing that well we're
+
+05:50.180 --> 05:55.800
+going to do is we're going to use our value that we're going to calculate inside these equations.
+
+05:55.850 --> 05:58.020
+This is going to be the acceleration.
+
+05:58.460 --> 06:03.050
+So we're gonna get a number if you know the charge the field and the mass of the particle that's entering
+
+06:03.050 --> 06:05.180
+this field and then you plug that number in.
+
+06:05.180 --> 06:07.350
+It's a constant number just put it in there.
