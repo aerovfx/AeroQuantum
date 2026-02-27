@@ -1,7 +1,0 @@
-1
-00:00:00,230 --> 00:00:06,390
-So I think the average of all these numbers exclude this outlier and the average time is zero point
-
-2
-00:00:06,390 --> 00:00:07,620
-six two seconds.
