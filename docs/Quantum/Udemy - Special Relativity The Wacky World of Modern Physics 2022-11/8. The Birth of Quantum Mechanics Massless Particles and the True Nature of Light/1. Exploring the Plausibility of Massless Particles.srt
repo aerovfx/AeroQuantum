@@ -1,0 +1,963 @@
+1
+00:00:18,160 --> 00:00:18,680
+All right.
+
+2
+00:00:18,700 --> 00:00:25,510
+So far on this course, we found that by simply redefining our notion of space time and how it operates,
+
+3
+00:00:25,900 --> 00:00:32,620
+we introduced a lot of ripple effects within the body of theoretical physics, which led to some really
+
+4
+00:00:32,620 --> 00:00:36,340
+weird relativistic effects that were cropping up here and there.
+
+5
+00:00:36,730 --> 00:00:42,310
+What we're going to do in this video is we're going to dig a bit further into those ripple effects and
+
+6
+00:00:42,310 --> 00:00:50,050
+introduce probably one of the biggest ripple effects that had the most long lasting impact upon physics
+
+7
+00:00:50,050 --> 00:00:50,950
+in and of itself.
+
+8
+00:00:50,980 --> 00:00:52,270
+What am I talking about here?
+
+9
+00:00:52,570 --> 00:00:58,600
+What we're going to consider is something that seems on the surface, somewhat odd, somewhat contradictory
+
+10
+00:00:58,930 --> 00:01:03,850
+and sort of absurd, but actually ended up becoming true.
+
+11
+00:01:04,030 --> 00:01:07,750
+And this is the idea of massless particles.
+
+12
+00:01:08,020 --> 00:01:14,290
+What I'm going to state that the ripple effect that was created by introducing this into the body of
+
+13
+00:01:14,290 --> 00:01:17,860
+theoretical physics was huge, right?
+
+14
+00:01:18,190 --> 00:01:24,760
+By finding out that, yes, indeed, we could have mass particles that eventually gave birth to the
+
+15
+00:01:24,760 --> 00:01:31,780
+first ideas of quantum mechanics and this whole different subdivision of modern physics.
+
+16
+00:01:31,810 --> 00:01:35,710
+OK, so let's go back to the question of a massive particle first.
+
+17
+00:01:36,460 --> 00:01:37,900
+What does that even mean?
+
+18
+00:01:39,430 --> 00:01:41,200
+Can we have a mass particle?
+
+19
+00:01:41,560 --> 00:01:46,180
+Well, from a classical physics standpoint, that sounds absolutely absurd, right?
+
+20
+00:01:46,190 --> 00:01:52,460
+Because we would say that, you know, the notion of a mass is particle that's complete and utter nonsense.
+
+21
+00:01:52,480 --> 00:01:53,020
+Why?
+
+22
+00:01:53,260 --> 00:02:01,390
+Because after all, if a particle was mass lists and its mass M was equal to zero, we can just look
+
+23
+00:02:01,390 --> 00:02:02,770
+at energy and momentum.
+
+24
+00:02:03,130 --> 00:02:04,990
+Our classical definitions, right?
+
+25
+00:02:05,230 --> 00:02:07,750
+The kinetic energy is equal to one and b squared.
+
+26
+00:02:08,140 --> 00:02:15,010
+And the momentum is equal to M times B, and we can reason through and assert that if we had a mass
+
+27
+00:02:15,010 --> 00:02:22,000
+this particle, well, these equations imply that there could never, ever have any kind of energy or
+
+28
+00:02:22,000 --> 00:02:22,960
+any kind of momentum.
+
+29
+00:02:22,960 --> 00:02:28,120
+And that seems absurd because if we had some kind of particle and it was moving, if it had some kind
+
+30
+00:02:28,120 --> 00:02:34,360
+of velocity, well, just thinking about classical ideas and concepts, regardless of the equations
+
+31
+00:02:34,720 --> 00:02:41,020
+that would assert that there would be some kind of energy that allowed it to actually exhibit some kind
+
+32
+00:02:41,020 --> 00:02:41,920
+of motion, right?
+
+33
+00:02:42,190 --> 00:02:43,660
+It needed to have some energy.
+
+34
+00:02:43,990 --> 00:02:46,590
+And by moving, it would have some momentum.
+
+35
+00:02:46,600 --> 00:02:54,460
+So these equations classically insinuate that it's absolutely absurd to state that a mass mass less
+
+36
+00:02:54,460 --> 00:02:57,370
+particle could even exist in reality.
+
+37
+00:02:58,030 --> 00:03:00,220
+Now you might be thinking, Well, wait a second.
+
+38
+00:03:00,220 --> 00:03:07,450
+We know that weird ideas and concepts crop up when we start going close to the speed of light and relativistic
+
+39
+00:03:07,450 --> 00:03:08,620
+effects arise.
+
+40
+00:03:08,620 --> 00:03:10,660
+Maybe that could happen, right?
+
+41
+00:03:11,440 --> 00:03:18,130
+Well, what we would say is that let's take a look at energy and momentum using our relativistic definitions.
+
+42
+00:03:18,520 --> 00:03:23,830
+So if we take a look at that on the right side here, what we find is that our equations state that
+
+43
+00:03:23,830 --> 00:03:27,310
+no energy is equal to garner Times Square.
+
+44
+00:03:27,310 --> 00:03:31,330
+We get that gamma factor in there and the momentum is Jonathan's Anton's.
+
+45
+00:03:32,170 --> 00:03:39,880
+But even with these equations, and even with our relativistic conception of these ideas, we see that
+
+46
+00:03:39,880 --> 00:03:45,010
+the same argument can really apply in relativistic settings, right?
+
+47
+00:03:45,020 --> 00:03:50,200
+Because if the mass goes to zero, we see another term in both equations.
+
+48
+00:03:50,770 --> 00:03:57,130
+And that would imply that these equations suggest that even close to relativistic speeds close to the
+
+49
+00:03:57,130 --> 00:04:04,810
+speed of light, that both energy and momentum would equal zero in every single circumstance that we
+
+50
+00:04:04,810 --> 00:04:05,650
+could observe.
+
+51
+00:04:06,670 --> 00:04:12,730
+So we take our relativistic ideas in our classical ideas now would state that what I'm trying to assert
+
+52
+00:04:12,730 --> 00:04:18,430
+here that possibly there may be a mass is particle that's complete nonsense.
+
+53
+00:04:18,940 --> 00:04:20,860
+It doesn't make any sense.
+
+54
+00:04:21,220 --> 00:04:21,700
+OK?
+
+55
+00:04:21,940 --> 00:04:23,470
+And I'm sure you would agree with that.
+
+56
+00:04:23,920 --> 00:04:30,670
+However, what we want to do is we want to take advantage of every tool in every equation we have derived
+
+57
+00:04:30,940 --> 00:04:34,690
+in relativity and see if it agrees with that duplication, right?
+
+58
+00:04:34,690 --> 00:04:40,270
+Because our theory, our equations should guide the ideas that are born from our head.
+
+59
+00:04:40,660 --> 00:04:44,710
+It should allow us to initially explore what's going on in nature.
+
+60
+00:04:45,070 --> 00:04:52,390
+And then based upon those ideas, we use experimental data to confirm what we're trying to assert.
+
+61
+00:04:52,510 --> 00:04:58,120
+OK, so let's explore it a bit more, and then we can dive into some experiments to try and confirm
+
+62
+00:04:58,300 --> 00:04:59,810
+what the theory is telling us.
+
+63
+00:04:59,830 --> 00:05:08,080
+OK, so what we know is that we have derived different relations between energy and that, and perhaps
+
+64
+00:05:08,350 --> 00:05:15,460
+they can divulge some interesting facts that can shed some more light upon this master's particle idea.
+
+65
+00:05:15,730 --> 00:05:16,750
+Does it exist?
+
+66
+00:05:17,170 --> 00:05:19,090
+And if it does, what in the world is it?
+
+67
+00:05:19,480 --> 00:05:20,470
+What could it be?
+
+68
+00:05:20,890 --> 00:05:21,550
+All right, so.
+
+69
+00:05:22,770 --> 00:05:29,340
+Previously, in a few videos back, we have asserted that we can relate momentum and energy as follows,
+
+70
+00:05:29,640 --> 00:05:34,890
+we can say that the energy squared is equal to the momentum times the speed of light squared plus the
+
+71
+00:05:34,890 --> 00:05:35,970
+rest energy square.
+
+72
+00:05:36,360 --> 00:05:41,550
+Now if we take this, you can see clearly that we're not going to run into the same dilemma that was
+
+73
+00:05:41,550 --> 00:05:42,600
+illustrated here.
+
+74
+00:05:43,170 --> 00:05:51,420
+These relations seem to apply that if we had a massless particle where M goes to zero, then this term
+
+75
+00:05:51,420 --> 00:05:52,860
+cancels out, right?
+
+76
+00:05:53,280 --> 00:05:58,080
+We find that this becomes zero.
+
+77
+00:05:58,980 --> 00:06:05,310
+And if we take the square root will end up with is that the energy is equal to the momentum times the
+
+78
+00:06:05,310 --> 00:06:06,060
+speed of light.
+
+79
+00:06:06,660 --> 00:06:14,010
+Now this is a very important assertion because unlike these two equations, this is asserting that at
+
+80
+00:06:14,010 --> 00:06:19,620
+some points, depending upon the motion, depending upon the momentum and mass, this particle could
+
+81
+00:06:19,620 --> 00:06:22,470
+still have some energy, which means that.
+
+82
+00:06:23,530 --> 00:06:32,090
+Perhaps the park will could exist, so this relation is asserting that existence is possible for romance
+
+83
+00:06:32,110 --> 00:06:37,300
+is particle, even though these equations here are saying that it's complete and utter nonsense.
+
+84
+00:06:37,600 --> 00:06:38,710
+So that's pretty interesting.
+
+85
+00:06:38,710 --> 00:06:42,520
+Now we can have a mass particle with some energy.
+
+86
+00:06:43,240 --> 00:06:44,350
+And I know that sounds absurd.
+
+87
+00:06:44,350 --> 00:06:45,100
+Sounds weird.
+
+88
+00:06:45,310 --> 00:06:45,670
+Well, what?
+
+89
+00:06:45,700 --> 00:06:46,960
+What would the energy be?
+
+90
+00:06:47,350 --> 00:06:50,160
+How would we calculate the momentum to calculate the total energy?
+
+91
+00:06:50,170 --> 00:06:54,490
+There's a lot of questions that are evoked once we come to this conclusion.
+
+92
+00:06:54,820 --> 00:07:00,160
+OK, I want you to hold on to that in the back of your head, and let's chug forward.
+
+93
+00:07:00,190 --> 00:07:05,470
+Let's ask the more questions and try to divulge some more meaning and some more interesting facts.
+
+94
+00:07:05,480 --> 00:07:13,330
+So the natural thing to do is after we come up with this, we have one other relation that we put together
+
+95
+00:07:13,720 --> 00:07:15,010
+while studying all this.
+
+96
+00:07:15,400 --> 00:07:16,660
+What we asserted is that.
+
+97
+00:07:18,100 --> 00:07:23,590
+The velocity of a particle over the speed of light had to be equal to the wind that sometimes the speed
+
+98
+00:07:23,590 --> 00:07:25,790
+of light P.S. Over eight.
+
+99
+00:07:26,470 --> 00:07:36,100
+So if we take this guy here and we throw it into this guy here, we see something pretty interesting,
+
+100
+00:07:36,100 --> 00:07:36,310
+right?
+
+101
+00:07:36,490 --> 00:07:38,410
+So the energy for a mass is particle.
+
+102
+00:07:38,590 --> 00:07:43,300
+If the mass is equal to zero, must be equal to p times c.
+
+103
+00:07:44,350 --> 00:07:48,670
+And when we put it into this equation, we see that this becomes one.
+
+104
+00:07:49,390 --> 00:07:52,120
+And this would imply a very interesting fact.
+
+105
+00:07:53,080 --> 00:07:58,030
+Look, what we have here is multiply sea over sea times one and we see that.
+
+106
+00:07:59,000 --> 00:08:03,320
+A massless particle must travel at the speed of light.
+
+107
+00:08:03,350 --> 00:08:06,920
+Whoa, wait, a second, that's a huge assertion.
+
+108
+00:08:07,250 --> 00:08:08,690
+Let that sink in.
+
+109
+00:08:08,870 --> 00:08:10,250
+Think about that for a bit.
+
+110
+00:08:11,130 --> 00:08:13,320
+On NASA's particle can have some energy.
+
+111
+00:08:15,020 --> 00:08:17,060
+And it will have to travel at the speed of light.
+
+112
+00:08:18,140 --> 00:08:19,340
+So that's pretty interesting.
+
+113
+00:08:20,220 --> 00:08:24,510
+Let's try to dissect that a bit if we harken back to our previous studies.
+
+114
+00:08:25,410 --> 00:08:27,750
+When we are studying momentum, when I stated, is that?
+
+115
+00:08:29,130 --> 00:08:31,410
+Our momentum gamma and V remember.
+
+116
+00:08:32,420 --> 00:08:34,190
+As we came closer, the speed of light.
+
+117
+00:08:35,180 --> 00:08:36,110
+It shot up.
+
+118
+00:08:36,590 --> 00:08:44,330
+And what we stated is that the inertia is building up the extra mass relativistic mass, so to speak.
+
+119
+00:08:44,720 --> 00:08:45,770
+We don't really talk about that.
+
+120
+00:08:45,770 --> 00:08:47,120
+We want to talk about rest, mass.
+
+121
+00:08:47,120 --> 00:08:55,490
+But the additional inertia makes it harder to accelerate to higher velocity, to a point that it would
+
+122
+00:08:55,490 --> 00:09:02,960
+take almost an infinite amount of energy to accelerate a particle with mass to the speed of light.
+
+123
+00:09:03,530 --> 00:09:08,810
+But what this is saying is that Wolf, we didn't have that mass if we didn't have that inertia.
+
+124
+00:09:09,380 --> 00:09:12,590
+We could travel at the speed of light.
+
+125
+00:09:13,760 --> 00:09:19,520
+OK, so it's sort of interesting how this sort of connects back through ideas about momentum.
+
+126
+00:09:20,480 --> 00:09:22,670
+And it implies one other thing.
+
+127
+00:09:23,360 --> 00:09:30,440
+We know that only one thing due to what I just talked about what the energy and momentum only one thing
+
+128
+00:09:31,100 --> 00:09:32,150
+in the universe.
+
+129
+00:09:33,240 --> 00:09:36,690
+As far as we know, can travel at the speed of light.
+
+130
+00:09:37,290 --> 00:09:38,160
+What is that?
+
+131
+00:09:38,610 --> 00:09:40,230
+That is light.
+
+132
+00:09:40,620 --> 00:09:40,950
+Right?
+
+133
+00:09:41,190 --> 00:09:43,410
+Only light can travel at the speed of light.
+
+134
+00:09:44,040 --> 00:09:52,000
+So this means the source insinuates that light is a mass this particle.
+
+135
+00:09:52,020 --> 00:09:53,940
+If this were true.
+
+136
+00:09:55,090 --> 00:10:00,670
+Well, that's sort of weird, because classically in electromagnetism, we assert that.
+
+137
+00:10:02,180 --> 00:10:04,620
+Light is a wave, right?
+
+138
+00:10:04,640 --> 00:10:12,590
+It's an electromagnetic wave, and it propagates through space at a constant frequency.
+
+139
+00:10:13,280 --> 00:10:13,610
+Right?
+
+140
+00:10:13,700 --> 00:10:15,260
+So what is it?
+
+141
+00:10:15,620 --> 00:10:16,490
+Is it a wave?
+
+142
+00:10:17,000 --> 00:10:18,110
+Is it a particle?
+
+143
+00:10:18,710 --> 00:10:20,000
+Or perhaps it's both.
+
+144
+00:10:20,210 --> 00:10:21,050
+Who knows?
+
+145
+00:10:21,260 --> 00:10:21,670
+Who knows.
+
+146
+00:10:21,740 --> 00:10:27,560
+So this brings up a lot of interesting questions that puzzled a lot of scientists back in the day.
+
+147
+00:10:28,010 --> 00:10:34,760
+It puzzled Einstein, and we'll find that I came up with a very viable solution and gave birth sort
+
+148
+00:10:34,760 --> 00:10:35,900
+of to quantum mechanics.
+
+149
+00:10:36,200 --> 00:10:42,960
+In doing so and puzzled another scientist, Max Planck, another individual, Arthur Compton, which
+
+150
+00:10:42,960 --> 00:10:44,840
+we'll get to in the next few videos.
+
+151
+00:10:45,740 --> 00:10:49,610
+But if we slow down a bit, let's explore this fact.
+
+152
+00:10:49,610 --> 00:10:53,600
+There's sort of seems to be a glaring contradiction that I sort of put forth here, right?
+
+153
+00:10:54,410 --> 00:10:59,600
+Because these guys seem to insinuate that a massive particle could exist and there are other implications
+
+154
+00:10:59,600 --> 00:11:03,650
+behind it, such as that massive particle would travel at the speed of light.
+
+155
+00:11:04,460 --> 00:11:11,000
+But our relativistic equations sort of appear for energy momentum state that, well, you can't really
+
+156
+00:11:11,000 --> 00:11:12,050
+define these guys.
+
+157
+00:11:12,050 --> 00:11:15,530
+So the existence of a mass of particles absolutely absurd.
+
+158
+00:11:16,830 --> 00:11:17,790
+Did we miss anything?
+
+159
+00:11:18,690 --> 00:11:20,190
+Can you see any kind of contradiction?
+
+160
+00:11:21,510 --> 00:11:26,070
+Let me spell it out for you, so we're going to do is we're going to reconsider these equations in a
+
+161
+00:11:26,070 --> 00:11:26,730
+different light.
+
+162
+00:11:27,800 --> 00:11:33,410
+And doing so, we're going to find that they do actually allow massive particles to exist, which is
+
+163
+00:11:33,410 --> 00:11:36,620
+super important because if we want to figure out.
+
+164
+00:11:37,600 --> 00:11:43,240
+The energy and momentum of this massive particle ready to fully define its motion and what's going on,
+
+165
+00:11:43,240 --> 00:11:44,620
+we would need to know.
+
+166
+00:11:45,590 --> 00:11:47,870
+How to find these guys the energy and moment.
+
+167
+00:11:48,230 --> 00:11:54,110
+OK, so if we take these and we look at the Garneau factor, something interesting starts to pop out.
+
+168
+00:11:54,500 --> 00:11:57,020
+We can use this that they've holds that.
+
+169
+00:11:57,380 --> 00:12:03,320
+So we know that the gamma factor is one of the square root times, one minus the quantity we oversee
+
+170
+00:12:03,320 --> 00:12:03,860
+squared.
+
+171
+00:12:04,730 --> 00:12:09,170
+And we know that a massive particle as M goes to zero.
+
+172
+00:12:09,590 --> 00:12:11,360
+This has to go to the speed of light.
+
+173
+00:12:11,600 --> 00:12:14,600
+This is what the math is communicating to us.
+
+174
+00:12:14,870 --> 00:12:16,010
+That's what it's dictating.
+
+175
+00:12:16,730 --> 00:12:21,770
+So if we take the limit when the math goes that zero or once it goes through the speed of light, we
+
+176
+00:12:21,770 --> 00:12:26,360
+see something pretty interesting here as we approach the speed of light.
+
+177
+00:12:26,780 --> 00:12:29,180
+This guy blows up, this guy blows up.
+
+178
+00:12:29,180 --> 00:12:33,320
+And that's why the energy momentum blow up as we approach.
+
+179
+00:12:33,320 --> 00:12:33,800
+See, right?
+
+180
+00:12:33,810 --> 00:12:35,000
+We saw that graphically.
+
+181
+00:12:35,000 --> 00:12:37,940
+We saw that illustrated before, you know this, right?
+
+182
+00:12:38,360 --> 00:12:38,720
+So.
+
+183
+00:12:39,770 --> 00:12:44,930
+This tells us that the discount factor blows up, but the mass is going towards zero.
+
+184
+00:12:45,500 --> 00:12:47,210
+So what does that say?
+
+185
+00:12:47,300 --> 00:12:49,940
+Well, let's let's let's look at the limit.
+
+186
+00:12:50,330 --> 00:12:57,110
+So the limit as M goes to zero, if E is the limit of this guy, we know, we sort of got an interesting,
+
+187
+00:12:57,980 --> 00:13:00,290
+interesting quantity we get.
+
+188
+00:13:00,620 --> 00:13:03,890
+Well, this guy is going to go to infinity, but AM is going to go to zero.
+
+189
+00:13:03,920 --> 00:13:07,520
+So what in the world is infinity time zero?
+
+190
+00:13:09,010 --> 00:13:11,140
+I don't know that's not even defined, right?
+
+191
+00:13:11,440 --> 00:13:12,400
+It's not defined.
+
+192
+00:13:13,460 --> 00:13:19,100
+Similarly, if we take the momentum right, we have another game of times Empires V, we get the same
+
+193
+00:13:19,100 --> 00:13:25,700
+exact oddity, the same exact absurd quantity, which doesn't have any bearing upon reality right now.
+
+194
+00:13:25,850 --> 00:13:33,350
+We have sort of a mathematical interpretation of infinity and zero, but from a physical standpoint,
+
+195
+00:13:33,530 --> 00:13:36,230
+from reality, this doesn't convey any kind of meaning.
+
+196
+00:13:36,240 --> 00:13:42,980
+So what we find is that when we start considering massless particles, these equations break down.
+
+197
+00:13:43,370 --> 00:13:45,050
+They don't provide any information.
+
+198
+00:13:45,230 --> 00:13:47,480
+They cannot consider this situation.
+
+199
+00:13:48,320 --> 00:13:48,740
+OK.
+
+200
+00:13:48,980 --> 00:13:55,790
+So both these quantities are undefined, and that allows for the existence of mass loss particles.
+
+201
+00:13:56,030 --> 00:13:56,260
+Right.
+
+202
+00:13:56,450 --> 00:14:02,930
+We can't assert that since the energy and momentum are zero, which they are not, we just prove that
+
+203
+00:14:02,930 --> 00:14:07,820
+right here that, you know, the particle may have some kind of energy momentum.
+
+204
+00:14:07,820 --> 00:14:13,340
+So there's there's no way it could exist, such as the argument we used in classical mechanics.
+
+205
+00:14:14,260 --> 00:14:17,620
+So we have a very interesting framework here.
+
+206
+00:14:18,070 --> 00:14:18,310
+Right?
+
+207
+00:14:18,340 --> 00:14:19,330
+What do we discover?
+
+208
+00:14:19,330 --> 00:14:26,980
+We discovered that these equations assert that unlike in the classical sense, a mass particle could
+
+209
+00:14:27,520 --> 00:14:28,840
+potentially exist.
+
+210
+00:14:29,260 --> 00:14:33,160
+And furthermore, if it did, we could define its energy.
+
+211
+00:14:35,520 --> 00:14:41,940
+And it seems like that massless particle not only is light, but travels at the speed of light.
+
+212
+00:14:43,140 --> 00:14:43,740
+Whoa.
+
+213
+00:14:44,070 --> 00:14:45,570
+That is a huge ripple effect.
+
+214
+00:14:45,570 --> 00:14:51,870
+We just dumped a huge boulder into the body of theoretical physics and the ripple of create.
+
+215
+00:14:51,870 --> 00:14:53,160
+It is frickin huge.
+
+216
+00:14:53,160 --> 00:14:56,160
+That's like a tsunami hitting the land, right?
+
+217
+00:14:56,460 --> 00:15:00,450
+So what you want to do has a big implication from theory.
+
+218
+00:15:00,450 --> 00:15:01,170
+Here is.
+
+219
+00:15:02,680 --> 00:15:06,640
+We want to try and find this particle, right, does it exist?
+
+220
+00:15:07,000 --> 00:15:08,440
+Can we figure out what it is?
+
+221
+00:15:09,370 --> 00:15:10,630
+How do we measure the energy?
+
+222
+00:15:10,900 --> 00:15:12,400
+How do we measure the momentum?
+
+223
+00:15:12,430 --> 00:15:19,740
+Well, the first thing this theory is sort of elucidating is that it probably is light.
+
+224
+00:15:20,170 --> 00:15:23,590
+This is probably giving us some more information about light.
+
+225
+00:15:25,090 --> 00:15:28,150
+Is light a particle now, is it not a wave?
+
+226
+00:15:28,420 --> 00:15:29,440
+What, what is it?
+
+227
+00:15:29,770 --> 00:15:37,000
+These are the questions we're going to explore and to do this and to not fall into the traps that scientists
+
+228
+00:15:37,000 --> 00:15:39,220
+fell into in the beginning of this course.
+
+229
+00:15:40,710 --> 00:15:46,830
+When they're trying to prescribe how reality shall behave, we have an idea we're going to explore it
+
+230
+00:15:47,130 --> 00:15:52,560
+in the universe and we're going to let the universe communicate with us and tell us what it actually
+
+231
+00:15:52,560 --> 00:15:53,070
+is.
+
+232
+00:15:53,310 --> 00:15:53,580
+Right?
+
+233
+00:15:53,760 --> 00:15:56,730
+We do not want to prescribe how the universe should behave.
+
+234
+00:15:57,120 --> 00:16:04,320
+Rather, we want to observe and then use that to form the basis of our assertions.
+
+235
+00:16:04,350 --> 00:16:11,670
+OK, so before we jump into that, I want to do a quick and quick example to show you that, yes, we
+
+236
+00:16:11,670 --> 00:16:15,210
+can use this to analyze some very interesting scenarios.
+
+237
+00:16:16,590 --> 00:16:22,050
+And then we're going to jump in two different experiments that Einstein and some of his colleagues did
+
+238
+00:16:22,050 --> 00:16:24,210
+to try and explore this idea.
+
+239
+00:16:24,750 --> 00:16:30,960
+And what they discovered was, it's going to be super interesting and it's going to be the birth of
+
+240
+00:16:30,960 --> 00:16:32,130
+quantum mechanics.
+
+241
+00:16:32,760 --> 00:16:34,110
+Let's jump at that example.

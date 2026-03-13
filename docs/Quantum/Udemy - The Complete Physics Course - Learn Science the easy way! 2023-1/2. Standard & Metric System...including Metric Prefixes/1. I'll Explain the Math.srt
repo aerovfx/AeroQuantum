@@ -1,0 +1,15 @@
+1
+00:00:00,460 --> 00:00:05,470
+At the beginning of each unit, I'll be covering the math skills that are necessary to do these physics
+
+2
+00:00:05,470 --> 00:00:09,520
+problems, it'll be very unfortunate to understand all the physics behind it.
+
+3
+00:00:10,020 --> 00:00:16,050
+And when it comes time to solve the problem, you get it incorrect because of a simple mathematics understanding.
+
+4
+00:00:16,090 --> 00:00:17,460
+So let's get started.

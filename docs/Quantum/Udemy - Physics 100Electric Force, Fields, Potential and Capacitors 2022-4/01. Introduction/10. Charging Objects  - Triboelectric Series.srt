@@ -1,0 +1,484 @@
+WEBVTT
+
+00:00.150 --> 00:00.330
+All right.
+
+00:00.330 --> 00:05.160
+The next thing you want to talk about is actually charging objects because we know if we could put charge
+
+00:05.160 --> 00:09.220
+on objects then they're going to be forces acting between them.
+
+00:09.240 --> 00:12.790
+So what if I wanted to charge my coffee mug.
+
+00:13.170 --> 00:16.060
+What if I wanted to charge this aluminum can.
+
+00:16.080 --> 00:16.530
+All right.
+
+00:16.530 --> 00:20.130
+There is something called the Tribal electric series.
+
+00:20.140 --> 00:20.560
+Okay.
+
+00:20.700 --> 00:25.860
+And I've got a list of elements over here of different materials on this tribal electric series.
+
+00:25.860 --> 00:27.330
+We'll come back to this in a minute.
+
+00:27.360 --> 00:31.920
+The first thing I really want you to understand that when you have any object and you want to charge
+
+00:31.920 --> 00:35.680
+it the only thing that you're moving are the electrons.
+
+00:35.700 --> 00:36.460
+Okay.
+
+00:36.600 --> 00:43.470
+Take this aluminum can for example if I wanted to charge it I can either add electrons to it or I can
+
+00:43.470 --> 00:49.800
+remove some of the electrons that are kind of free that are not tightly bound to the nucleus.
+
+00:49.800 --> 00:55.980
+The protons and neutrons Do not move for that to happen I would have to break off a piece.
+
+00:56.050 --> 01:02.760
+Okay it's really only the electrons that either get added or they get taken away from objects and that's
+
+01:02.760 --> 01:04.530
+how you can charge them.
+
+01:04.530 --> 01:04.700
+All right.
+
+01:04.710 --> 01:08.010
+If I would add electrons to this can somehow.
+
+01:08.520 --> 01:14.850
+Then it would become negatively charged if I would remove some of the electrons that are on the outside
+
+01:14.850 --> 01:17.070
+of the aluminum nucleus.
+
+01:17.070 --> 01:22.170
+What I would do then is I would make it positively charged because I've removed some electrons.
+
+01:22.320 --> 01:22.790
+OK.
+
+01:22.920 --> 01:31.080
+Now the tribal electric series tells us which materials tend to lose electrons easily and which materials
+
+01:31.080 --> 01:35.360
+tend to gain electrons easily so let's have a little look at some of these.
+
+01:35.430 --> 01:40.260
+So let's have a look at the rabbit fur the rabbit fur is near the top.
+
+01:40.260 --> 01:40.530
+OK.
+
+01:40.560 --> 01:41.690
+And near the top.
+
+01:41.690 --> 01:46.440
+And I've kind of listed it over here which means it loses electrons really easily.
+
+01:46.470 --> 01:47.250
+OK.
+
+01:47.400 --> 01:50.230
+This guy loses electrons very very easily.
+
+01:50.230 --> 01:56.360
+And what I have here is a piece of rabbit pelt rabbit fur and it's been dyed blue.
+
+01:56.390 --> 01:57.080
+But that's OK.
+
+01:57.090 --> 02:02.340
+It's still rabbit pelts so this is a material that tends to lose its electrons very easily and it will
+
+02:02.340 --> 02:04.380
+lose them when you rub it against something.
+
+02:05.220 --> 02:06.330
+So what we want to do now.
+
+02:06.330 --> 02:09.610
+Imagine if I wanted to negatively charge an object.
+
+02:09.630 --> 02:10.830
+OK.
+
+02:10.890 --> 02:12.140
+So here's my object.
+
+02:12.150 --> 02:15.770
+I'm gonna have a pipe and here's my rabbit pelt.
+
+02:17.820 --> 02:18.080
+OK.
+
+02:18.130 --> 02:22.210
+What I want to do this guy here will lose electrons.
+
+02:22.210 --> 02:28.590
+So I want to end up having a whole bunch of electrons added electrons on this rod over here.
+
+02:28.600 --> 02:34.010
+Okay I imagine here we have a rod or a pipe.
+
+02:34.810 --> 02:36.940
+Let me show you the pipe that I'm going to use.
+
+02:36.970 --> 02:42.850
+Ideally what you want to do is you want to have a pipe that gains electrons or accepts electrons very
+
+02:42.850 --> 02:43.850
+very easily.
+
+02:44.070 --> 02:44.610
+OK.
+
+02:44.650 --> 02:46.990
+And what I have here is a PDC pipe.
+
+02:46.990 --> 02:49.540
+This is used in kind of plumbing right.
+
+02:49.960 --> 02:56.440
+And this object actually if I go down this tribal electric series over here the further I go down the
+
+02:56.440 --> 02:59.770
+more it's easily for that object to gain electrons.
+
+02:59.790 --> 03:00.040
+OK.
+
+03:00.070 --> 03:00.880
+That's what we have here.
+
+03:00.880 --> 03:06.980
+Game electrons actually PDC pipe is not here but it actually falls right over here.
+
+03:07.030 --> 03:10.770
+This is PDC pipe poly vinyl chloride.
+
+03:10.860 --> 03:11.080
+OK.
+
+03:11.080 --> 03:12.540
+That's this material over here.
+
+03:12.910 --> 03:15.140
+And it gains electrons very easily.
+
+03:15.430 --> 03:19.570
+So imagine now if I take my rabbit Pelt and I rub it right.
+
+03:19.570 --> 03:21.130
+Rabbit pelt loses electrons.
+
+03:21.940 --> 03:25.840
+And you rub it against the PDC pipe that's it.
+
+03:25.840 --> 03:27.530
+Give it a few strokes like this.
+
+03:27.580 --> 03:33.560
+And now what I have here is a piece of pipe that is negatively charged.
+
+03:33.670 --> 03:35.430
+You can actually hear it when you rub it.
+
+03:35.440 --> 03:42.860
+You can hear the electrons actually jumping across or going onto the pipe this is negatively charged.
+
+03:42.860 --> 03:43.060
+All right.
+
+03:43.070 --> 03:45.530
+How do I prove that to you that it's negatively charged.
+
+03:45.530 --> 03:47.170
+Well let's do a little experiment.
+
+03:47.210 --> 03:52.840
+So for this first experiment here I have the aluminum can which is basically neutral right now.
+
+03:52.850 --> 03:56.540
+There's maybe a little bit of excess charge on it but not much.
+
+03:56.540 --> 04:03.770
+And what I'm going to do now is I'm going to charge my pipe or the PDC pipes so all I do is I just take
+
+04:03.770 --> 04:06.980
+the rabbit pelt and just rub it up against it.
+
+04:06.980 --> 04:09.110
+All right I have quite a bit of charge on it.
+
+04:09.140 --> 04:12.570
+Now watch what happens when I bring it close to this neutral can over here.
+
+04:12.690 --> 04:18.410
+Oh see you can control the motion of the can and I'm not touching it here.
+
+04:18.680 --> 04:19.800
+I'm not touching it.
+
+04:19.820 --> 04:24.890
+Be very very careful and you can see the closer I have it the faster the force but I can make this can
+
+04:24.890 --> 04:29.900
+move or accelerate pretty fast just by bringing it close to it.
+
+04:31.130 --> 04:33.250
+All right kind of a cool little experiment you could do.
+
+04:33.250 --> 04:36.610
+So PDC pipe is negatively charged.
+
+04:36.770 --> 04:41.740
+The question is now why does that can end up being attracted to the PDC pipe.
+
+04:41.750 --> 04:45.660
+If this is neutral so what happens over here.
+
+04:46.130 --> 04:52.850
+Let's have a look at that all right so let's have a look at my PVR pipes or after rubbing it with the
+
+04:52.850 --> 04:53.880
+pelt.
+
+04:53.920 --> 05:00.860
+The PDC since it appears at the bottom of this tribal electric series we said that it gains electrons
+
+05:00.860 --> 05:01.790
+very easily.
+
+05:01.820 --> 05:02.510
+OK.
+
+05:02.630 --> 05:05.180
+So that becomes negatively charged.
+
+05:05.180 --> 05:11.090
+OK so we're gonna have access negative charge over here on this PDC pipe and then I bring it close to
+
+05:11.090 --> 05:13.240
+an aluminum can which is really neutral.
+
+05:13.240 --> 05:13.470
+Right.
+
+05:13.460 --> 05:15.940
+It has the same number of positives and negatives.
+
+05:15.950 --> 05:16.130
+Right.
+
+05:16.130 --> 05:20.440
+It has all these aluminum atoms just right next to each other.
+
+05:20.960 --> 05:23.520
+However it is kind of a conducting material.
+
+05:23.540 --> 05:24.060
+Right.
+
+05:24.080 --> 05:27.050
+And the electrons actually are able to move.
+
+05:27.050 --> 05:31.910
+So imagine now you bring this negatively charged object if you bring it closer.
+
+05:32.060 --> 05:34.230
+OK if I bring it closer.
+
+05:34.270 --> 05:35.520
+Well what happens.
+
+05:35.610 --> 05:35.780
+Right.
+
+05:35.810 --> 05:39.710
+Imagine initially we had kind of electrons.
+
+05:39.710 --> 05:44.300
+And again it's only the electrons that moves I'm only going to draw the electrons but clearly there
+
+05:44.300 --> 05:47.210
+is also positive charges for each one of those.
+
+05:47.330 --> 05:49.870
+Let's just draw both of them.
+
+05:49.990 --> 05:50.310
+All right.
+
+05:50.330 --> 05:53.620
+Just imagine this can here made up of only a few atoms.
+
+05:53.630 --> 05:53.830
+All right.
+
+05:53.930 --> 05:54.620
+So what happens.
+
+05:54.620 --> 06:01.970
+Well as you bring this closer we know now that these negative charges on the PDC pipe are going to repel
+
+06:01.970 --> 06:05.300
+the negative charges of the aluminum can.
+
+06:05.300 --> 06:05.570
+Right.
+
+06:05.570 --> 06:10.360
+And what's going to happen is these guys here are basically going to move.
+
+06:10.390 --> 06:16.010
+Now some of them are kind of closer to the atoms to the positive protons of the aluminum.
+
+06:16.040 --> 06:16.960
+So they're going to stay there.
+
+06:16.970 --> 06:20.630
+But there are some electrons that want to move away from it.
+
+06:20.660 --> 06:20.890
+Right.
+
+06:20.900 --> 06:24.630
+Because they get repelled by these negative charges.
+
+06:24.680 --> 06:27.220
+So when they move away from it what happens then.
+
+06:27.300 --> 06:31.840
+Well we've got to get rid of some of these excess electrons on this side.
+
+06:32.840 --> 06:41.840
+And what we're left with then is this picture of excess positive charges on this side fewer Oh I lost
+
+06:41.840 --> 06:42.470
+my can.
+
+06:42.500 --> 06:43.110
+Let's try.
+
+06:43.190 --> 06:45.060
+Let's try this.
+
+06:45.680 --> 06:49.100
+And we have a net positive charge over here.
+
+06:49.160 --> 06:53.480
+I'm going to add extra electrons because some of the electrons that were closer on this side end up
+
+06:53.480 --> 06:55.000
+moving on this side.
+
+06:55.130 --> 06:55.760
+Right.
+
+06:55.790 --> 06:57.490
+So what happens over here for this can.
+
+06:57.490 --> 07:06.470
+So this side of the CAN side that's far away is becomes more negative and the side over here that's
+
+07:06.470 --> 07:08.750
+closest to the PDC rod.
+
+07:08.750 --> 07:11.030
+This guy here becomes more positive
+
+07:14.240 --> 07:16.550
+always that mean in terms of the forces now.
+
+07:16.630 --> 07:18.710
+I think about all the forces involved.
+
+07:18.710 --> 07:24.950
+Each one of these charges interacts with every charge over here but as a whole you get kind of all of
+
+07:24.950 --> 07:30.800
+these negative charges which are going to interact with these ones that's a attractive force on the
+
+07:30.800 --> 07:34.190
+can f this way.
+
+07:34.190 --> 07:41.540
+And there's also a repulsive force from this PDC pipe to the excess negative charges over here however
+
+07:42.200 --> 07:45.440
+that force might draw like this.
+
+07:45.470 --> 07:51.430
+This is the other force right from the repulsive force between the charges.
+
+07:51.670 --> 07:54.650
+However this vector is smaller than this one.
+
+07:54.930 --> 07:55.210
+Right.
+
+07:55.210 --> 08:00.300
+And the reason that it's smaller is simply due to the distance.
+
+08:00.310 --> 08:00.870
+All right.
+
+08:00.940 --> 08:03.780
+This distance over here is small.
+
+08:03.790 --> 08:04.080
+OK.
+
+08:04.080 --> 08:08.320
+Small distance we saw from cool Ohm's Law.
+
+08:08.320 --> 08:11.480
+Small distance equals a bigger force.
+
+08:11.530 --> 08:18.170
+So the net force on the can then has to be in this direction.
+
+08:18.270 --> 08:22.020
+There is no way for me to take this pipe into actually repel the can.
+
+08:22.020 --> 08:26.260
+It's always going to be attractive when I bring the pipe on the other side.
+
+08:26.280 --> 08:28.680
+Again the electrons just want to get away from it.
+
+08:28.770 --> 08:30.770
+So they kind of move to the other side of the car.
+
+08:30.770 --> 08:32.110
+And the ones that can.
+
+08:32.160 --> 08:40.150
+Some of these electrons are free electrons are not bound not tightly bound to the positives of the aluminum.
+
+08:40.260 --> 08:41.960
+The aluminum atoms.
+
+08:41.970 --> 08:42.200
+All right.
+
+08:42.210 --> 08:50.190
+So that's kind of the simple explanation as to why this can is always attracted to this PDC pipe and
+
+08:50.190 --> 08:54.510
+you can control its motion just by moving the BBC pipe from one side to the other.

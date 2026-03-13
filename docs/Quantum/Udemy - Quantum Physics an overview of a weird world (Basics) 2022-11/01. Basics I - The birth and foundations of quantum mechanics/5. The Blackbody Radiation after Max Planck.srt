@@ -1,0 +1,661 @@
+WEBVTT
+
+00:01.190 --> 00:09.560
+Max Planck, the German physicist who solved the BlackBerry dilemma in nine or five, was then working
+
+00:09.560 --> 00:11.600
+at his dissertation thesis.
+
+00:12.720 --> 00:20.100
+He solved the problem by introducing two fundamental and revolutionary hypotheses into the description
+
+00:20.100 --> 00:21.220
+of the black body model.
+
+00:22.140 --> 00:31.290
+First of all, he proposed to replace the arbitrary energy value of each electromagnetic mode or harmonic
+
+00:31.290 --> 00:35.900
+oscillator with integer multiples of the first mode.
+
+00:35.910 --> 00:43.260
+Energy recall from the previous lecture, how standing waves can exist only at specific wavelength.
+
+00:43.710 --> 00:46.380
+That is only for specific frequencies.
+
+00:47.370 --> 00:56.070
+Not every kind of electro electromagnetic waves can be contained in a cavity in stationary mode, but
+
+00:56.070 --> 00:59.840
+only those which match the right frequencies.
+
+01:01.440 --> 01:07.560
+And if you go back to the graphics and the animations that they've shown you in the previous lecture,
+
+01:07.740 --> 01:15.150
+you will realize how the second mode has half the wavelength, which means twice the frequency of the
+
+01:15.270 --> 01:16.070
+first note.
+
+01:17.370 --> 01:21.090
+The third mode has one third of the wavelength.
+
+01:21.420 --> 01:29.160
+That is three times the frequency still of the first note and so on, which implies that in general,
+
+01:29.460 --> 01:37.590
+the frequency of the end smolt standing wave is eight times the frequency of the first mode.
+
+01:39.210 --> 01:47.340
+Plunk posited also that there is a direct, linear, linear relationship between these ends frequency
+
+01:47.970 --> 01:58.530
+and the end energy state of the ends, Mote expressed as the following formula shows with H being the
+
+01:58.530 --> 02:07.020
+Planck's constant and which which value is a very tiny number, six times six point six to six times
+
+02:07.020 --> 02:09.750
+ten to the power minus 34.
+
+02:10.800 --> 02:14.940
+Drool over helps or hurts in English.
+
+02:14.940 --> 02:22.200
+Joule is the energy unit in jail in July and as we already saw, Hertz is the frequency unit.
+
+02:24.260 --> 02:31.490
+It is a value, the Planck's constant is a value which is not predicted by any theory, but is just
+
+02:31.490 --> 02:38.840
+given by nature and must be measured as the mass of an electron or proton or the gravitational strength
+
+02:38.840 --> 02:39.660
+of a given mass.
+
+02:39.680 --> 02:43.220
+The gravitational constant, these are values that we don't.
+
+02:44.470 --> 02:51.710
+Obtained from our series, you must measure directly because they are as they are and who know?
+
+02:51.790 --> 02:52.960
+Nobody knows why.
+
+02:54.970 --> 03:04.000
+This little and simple relation, which connects the energy of an electromagnetic wave sending wave
+
+03:04.000 --> 03:11.050
+in the cavity with its oscillating frequency is extremely important in quantum physics.
+
+03:13.090 --> 03:21.100
+Moreover, note how this means also that there is a mode of minimum frequency that is, as we said,
+
+03:21.250 --> 03:26.740
+the first mode below which no other mode can exist with lower frequency.
+
+03:28.000 --> 03:35.590
+What therefore, this famous equation tells us also is that the electromagnetic field in the black body
+
+03:35.590 --> 03:44.870
+cavity must be composed by many molds which take energy values, such as it stands now two times H2O,
+
+03:44.890 --> 03:53.980
+three times H2O, etc., but cannot have any value in between, such as one point five H or two point
+
+03:53.980 --> 03:55.960
+seven, eight, etc..
+
+03:57.190 --> 04:02.380
+The electromagnetic moulds in the cavity must appear, therefore in energy steps of.
+
+04:03.390 --> 04:04.050
+Energy.
+
+04:05.390 --> 04:13.820
+Difference age, no, with no the frequency of the first mode, and which is given only by the distance,
+
+04:14.030 --> 04:20.000
+determined only by the distance and geometric structure of the cavity, and any value in between is
+
+04:20.000 --> 04:21.230
+not allowed to exist.
+
+04:22.910 --> 04:30.140
+Therefore, despite being the cavity filled with an astronomical number of moles, none of it can have
+
+04:30.140 --> 04:36.830
+an energy less than a minimum energy H2O and which is called the Ground State Energy.
+
+04:38.040 --> 04:46.950
+This is a typical aspect of quantum theory, energy appears in Quanta, and there does not exist a state
+
+04:46.950 --> 04:48.180
+of zero energy.
+
+04:49.350 --> 04:56.880
+Every quantum system, such as, for example, an atom, has a non-zero ground state energy, as we
+
+04:56.880 --> 04:59.580
+will see also in more detail later.
+
+05:01.360 --> 05:10.150
+It may be said also that modern textbooks associate the end modes in the cavity, also to end particles
+
+05:10.150 --> 05:16.780
+of electromagnetic energy eight times now called photons.
+
+05:17.770 --> 05:24.640
+Historically, however, as we shall see, this concept and the word photon itself was introduced only
+
+05:24.640 --> 05:28.180
+later by Einstein describing the photoelectric effect.
+
+05:29.550 --> 05:37.500
+Actually, at this point, until now, there is no need to introduce light particles, at least not
+
+05:37.500 --> 05:38.250
+at this stage.
+
+05:41.000 --> 05:47.540
+Then the idea to replace continues with discrete energy modes was not entirely a novel idea.
+
+05:48.230 --> 05:55.280
+It was already well known that atoms absorb and emit light only with specific wavelengths and not throughout
+
+05:55.280 --> 05:56.350
+a continuous spectrum.
+
+05:57.530 --> 05:59.770
+The spectral analysis of elements.
+
+05:59.840 --> 06:10.820
+In fact, dates back to 1861 when Gustaaf about yourself and about a billion Bonson realized how every
+
+06:10.820 --> 06:15.650
+element emits and absorbs light only at very specific wavelengths.
+
+06:16.640 --> 06:23.270
+Each element has its own spectrum, which is like characteristic optical fingerprint.
+
+06:24.870 --> 06:32.970
+More generally, every element or substance, every type of atom or molecule resonate only at certain
+
+06:32.970 --> 06:37.000
+frequencies and which can be visualized with their spectral lines.
+
+06:38.190 --> 06:44.730
+For example, here you can see the emission spectrum of hydrogen and mercury atoms.
+
+06:45.930 --> 06:53.400
+When the hydrogen atom is excited, say, buy an electric discharge or buy heat, it really emits the
+
+06:53.400 --> 06:58.220
+absorbed energy only at certain colors of the visible spectrum.
+
+06:58.380 --> 06:59.820
+It's shown with one line.
+
+07:00.120 --> 07:02.300
+There is no continuity in the emission.
+
+07:03.450 --> 07:08.940
+The same thing happens with Mercury, which, however, shows to have several more emission spectral
+
+07:08.940 --> 07:18.540
+lines than hydrogen, indicating the fact that mercury in the mercury atom must be much more complicated
+
+07:18.660 --> 07:20.070
+and complex than hydrogen.
+
+07:21.150 --> 07:28.440
+Therefore, the analogy between these discrete spectral lines and energy states of atoms withstanding
+
+07:28.440 --> 07:37.380
+waves which exist only for a specific frequency and wavelength inside a cavity is not too far fetched.
+
+07:38.970 --> 07:46.170
+But a clear understanding how these spectra come into being had to wait at least another another 70
+
+07:46.170 --> 07:50.340
+years after cursus and balloons and observations.
+
+07:52.160 --> 07:59.300
+The second hypothesis Plank introduced was that let's consider not all the modes as being equally probable.
+
+08:00.500 --> 08:07.250
+This wasn't a new idea either, since it was already considered by the Austrian physicist Ludwig Boltzmann
+
+08:07.880 --> 08:14.180
+and who is well known for his contribution in the field of statistical physics, according to Bozman,
+
+08:14.330 --> 08:20.930
+for blackbirding thermal equilibrium, which again means at constant temperature, the probability to
+
+08:20.930 --> 08:26.450
+find a mode with a certain energy will be smaller.
+
+08:26.480 --> 08:28.880
+The smaller, the greater this energy is.
+
+08:29.990 --> 08:36.710
+According to this hypothesis, which postpunk described in a mathematical precise manner, there are
+
+08:36.710 --> 08:41.210
+much more modes with lower energy than those with higher ones.
+
+08:42.660 --> 08:48.560
+The energy of the cavity is therefore no longer distributed equally, equally on all modes.
+
+08:49.040 --> 08:54.380
+But according to a law which is called the Boltzmann distribution law.
+
+08:56.050 --> 09:04.060
+However, the decisive the decisive difference between the idea of Plank and that of Boltzmann was that
+
+09:04.060 --> 09:13.050
+the former introduced the hypothesis which replaced the arbitrary energy values e with the above disco
+
+09:13.240 --> 09:23.350
+described quantized once e and the probability to find modes with energy n plus one is smaller than
+
+09:23.350 --> 09:25.600
+finding those with energy n.
+
+09:26.990 --> 09:35.510
+Also in this model for an increasing number in the energy of the mold increases too, but the probability
+
+09:35.720 --> 09:40.710
+to find such molds becomes also increasing increasingly smaller.
+
+09:43.190 --> 09:49.180
+At this point, it becomes also clear why there could be no ultraviolet catastrophe.
+
+09:49.730 --> 09:56.660
+The probability to find modes of increasing high energy after a certain point, after a certain GNR
+
+09:57.590 --> 10:04.490
+becomes so vanishingly small that for any practical purpose we can consider it to be zero.
+
+10:05.660 --> 10:09.030
+Emote with increasing N becomes increasingly improbable.
+
+10:09.050 --> 10:16.640
+And by the way, with an exponential law, Muslem one, I must say that is the probability to find Mode's
+
+10:16.880 --> 10:21.680
+with higher energy decreases increasingly fast.
+
+10:21.680 --> 10:30.530
+If you let me put it in this way, which also entails that if we add up all the energies of the infinite
+
+10:30.530 --> 10:39.320
+number of modes, the sum, even if it has an infinite number of term terms, will turn out nevertheless
+
+10:39.620 --> 10:42.860
+to be infinite amount of energy.
+
+10:44.000 --> 10:48.740
+It is what in mathematics one calls a convergent, a convergent Sirius.
+
+10:49.670 --> 10:56.390
+Or, to put it another way, an infinitely high energy mode has an infinitely small probability to exist.
+
+10:57.140 --> 10:58.880
+That is, there could not.
+
+10:59.830 --> 11:07.360
+Exist any mode with infinite energy and therefore the total energy in the cavity stays infinite.
+
+11:08.440 --> 11:12.050
+Nothing explodes in an infinite blast of energy.
+
+11:12.400 --> 11:16.020
+And finally, the universe is safe.
+
+11:18.510 --> 11:25.860
+Moreover, Plank's great achievement was not only that to avoid catastrophic infinities in the calculations,
+
+11:26.370 --> 11:33.570
+but also to be able to furnish a precise formula which correctly describes the black body radiation
+
+11:33.570 --> 11:41.490
+we observe in nature, he made again all the calculations that Boltzmann already did, but with the
+
+11:41.490 --> 11:47.070
+decisive modifications that replaced the continuous energy function with a quantized one.
+
+11:48.440 --> 11:56.300
+By doing so, he obtained an expression which nicely describes the energy density of the electron electromagnetic
+
+11:56.300 --> 12:04.130
+radiation spectrum of a black body with temperature T and any given wavelength lambda or frequency no.
+
+12:05.120 --> 12:09.830
+The famous Planck's formula for the black body radiation.
+
+12:11.250 --> 12:18.480
+In this graph on the horizontal axis, the axis, the wave length of a body is given by the vertical
+
+12:18.480 --> 12:25.050
+axis, the ordinate represents the intensity of the electromagnetic electromagnetic radiation it emits
+
+12:25.770 --> 12:27.210
+in arbitrary units.
+
+12:27.570 --> 12:31.540
+The units of the intensity would be a bit cumbersome to explain you.
+
+12:31.800 --> 12:34.300
+And but this is not really relevant.
+
+12:34.680 --> 12:38.040
+Just imagine a higher intensity going upwards.
+
+12:39.650 --> 12:47.180
+Each curve on the graph represents a body with a specific temperature, the black the black curve represents
+
+12:47.180 --> 12:53.720
+that of a body for 5000 degrees Kelvin and is calculated with the classical physics.
+
+12:54.350 --> 13:01.180
+As one can see the divergence quickly for smaller wavelengths, it leads to the ultraviolet catastrophe.
+
+13:01.430 --> 13:12.860
+It is the formula of ryley genes, whereas the blue curve represents the radiation of the body was the
+
+13:12.860 --> 13:21.050
+same temperature, but this time calculated by taking into account that energy is absorbed in quanta
+
+13:21.620 --> 13:29.570
+and into oscillation modes with energy states of different probabilities, according to Blancs idea.
+
+13:31.160 --> 13:34.230
+You can see that apart from concealing the divergence.
+
+13:34.520 --> 13:43.010
+It has a maximum peak at about zero point six micrometers, it's 600 nanometres, which corresponds
+
+13:43.670 --> 13:45.680
+more or less to the yellow color.
+
+13:46.490 --> 13:53.000
+In fact, the surface of our sun has a temperature of about five thousand two hundred Celsius and as
+
+13:53.000 --> 13:56.080
+well known, appears to have a yellow color.
+
+13:57.290 --> 14:04.670
+A couple of other curves for the radiation of what is at 4000 Kelvin and 3000 Kelvin are shown also
+
+14:04.670 --> 14:05.240
+as well.
+
+14:06.530 --> 14:13.190
+Note how the colder the body, the more shifted towards large wavelengths is its maximum.
+
+14:14.340 --> 14:21.640
+Therefore, hot bodies tend to radiate in higher frequencies, the main frequency domains, that is,
+
+14:21.660 --> 14:29.610
+they tend to radiate more blue or become eventually even ultraviolet, whereas cold bodies tend more
+
+14:29.610 --> 14:32.040
+towards the visible or infrared light.
+
+14:33.410 --> 14:40.400
+If a body becomes white, this only means that it has become so hot that it radiates strongly in any
+
+14:40.400 --> 14:48.530
+or several wavelengths because as well known, when all colors are mixed up together, the resultant
+
+14:48.530 --> 14:50.050
+color appears as white.
+
+14:50.420 --> 14:57.410
+That is the reason, which, by the way, makes it also clear how, strictly speaking, white isn't
+
+14:57.620 --> 15:01.640
+physically, physically a color as black isn't either.
+
+15:03.510 --> 15:11.340
+Planck's theory solves the problem of the ultraviolet catastrophe, and this was also confirmed experimentally,
+
+15:11.670 --> 15:16.480
+measuring the radiation emitted by different bodies at different temperature.
+
+15:18.240 --> 15:22.760
+For those interested in the mathematical description here, I add only for completeness.
+
+15:22.770 --> 15:31.110
+Also, the formulas which describe the Riley Riley genes curve and which leads to the ultraviolet catastrophe
+
+15:31.110 --> 15:37.670
+and the Planck formula, which turns out to be without divergences and is the correct one.
+
+15:38.670 --> 15:47.520
+You is the energy density like the Boltzmann constant, a universal constant that appears in thermodynamics?
+
+15:48.490 --> 15:57.010
+C is the speed of light and obviously age no end to the blanks constant the frequency of the electromagnetic
+
+15:57.010 --> 16:00.160
+radiation and the temperature, respectively.
+
+16:01.360 --> 16:07.570
+I added this just only for illustrative purposes for those who might be curious about it.
+
+16:07.900 --> 16:10.490
+If you do not understand these formulas, it does not matter.
+
+16:10.600 --> 16:12.540
+We won't need it anyway.
+
+16:14.310 --> 16:22.230
+So one interesting fact is that since the spectrographs do not depend from the type of material, but
+
+16:22.230 --> 16:29.790
+only from its temperature, which gave astronomers also a great tool for measuring the temperature of
+
+16:29.790 --> 16:38.870
+distant stars, for example, there is no need to reach physically a star light years away with a thermometer,
+
+16:39.300 --> 16:40.720
+a physical thermometer.
+
+16:41.250 --> 16:46.860
+We have just to measure its spectral curve and we will know its temperature just by fitting it with
+
+16:46.860 --> 16:47.850
+a Blancs equation.
+
+16:49.830 --> 16:57.450
+For instance, this graph shows the spectrum of the solar radiation, it does not appear so smooth as
+
+16:57.450 --> 17:04.210
+the preceding graph, but this is only because it is measured through the Earth's atmosphere.
+
+17:05.040 --> 17:11.700
+We can see how the solar spectrum is absorbed by the molecules that make up the atmosphere itself and
+
+17:11.700 --> 17:15.450
+produce some sort of pick holes in the spectrum.
+
+17:18.470 --> 17:24.470
+Why the theoretical black body radiation fits well, the measured curve of the sun at the top of the
+
+17:24.470 --> 17:26.730
+atmosphere at the sea level.
+
+17:26.780 --> 17:35.780
+There are these holes, so-called absorb absorption bands, corresponding to several kinds of molecules,
+
+17:36.140 --> 17:44.410
+typically water or carbon dioxide molecules, with this kind of observations and experimental analysis,
+
+17:44.570 --> 17:51.380
+also the determination of the chemical composition of stars or other distant objects that cannot be
+
+17:51.740 --> 17:56.360
+analyzed directly on place became possible.
+
+17:59.070 --> 18:06.750
+The black body radiation was also confirmed much later about the end of the 1960s on a cosmic scale.
+
+18:07.500 --> 18:15.990
+In fact, we can conceive also the whole universe as a single body or if you prefer, a cavity, which
+
+18:15.990 --> 18:23.250
+country contains a sea of electromagnetic radiation and matter like every every other object to.
+
+18:24.870 --> 18:31.590
+According to the Big Bang Theory, the universe once came into being at extremely high temperatures
+
+18:31.590 --> 18:40.000
+by a huge explosion about thirteen point seven billions of years ago, expanded and cooled down with
+
+18:40.020 --> 18:41.520
+a thought with time passing by.
+
+18:42.780 --> 18:49.350
+But as a whole, it can still be considered as a body with some temperature, which must contain a radiation,
+
+18:49.920 --> 18:57.480
+just like in the case of the cavity, the so-called cosmic background radiation into which we can associate
+
+18:57.480 --> 18:58.260
+a temperature.
+
+18:59.980 --> 19:09.790
+So the question arises naturally, if that the spectrum of the cosmic background radiation fallout follows
+
+19:09.790 --> 19:13.270
+also the bell shaped Planck spectrum.
+
+19:14.120 --> 19:14.640
+Does it?
+
+19:15.080 --> 19:23.900
+Well, the answer came by measuring radio waves with radio telescopes from the ground and later confirmed
+
+19:24.020 --> 19:31.520
+with much more precise measurements on board of satellites free from the atmospheric atmospheric absorption.
+
+19:32.870 --> 19:33.680
+The result?
+
+19:35.010 --> 19:36.710
+The results are visible here.
+
+19:37.280 --> 19:44.420
+And you can see the cosmic microwave background spectrum measured by the Colbie satellite.
+
+19:46.220 --> 19:51.890
+You can see how there is an almost perfect match between the measured, measured flux coming from the
+
+19:51.890 --> 20:00.920
+universe and the calculated and that calculated for a body with two point seven Kelvin temperature where
+
+20:00.920 --> 20:06.160
+the units here are in frequency, it is about wavelengths percent matter.
+
+20:06.590 --> 20:14.690
+If one knows how many times a wavelength fits into a centimeter and knows the speed of light, one can
+
+20:14.690 --> 20:23.210
+infer from that the frequency and the intensity is given in mega Jansky past Erdogan that is about 10
+
+20:23.210 --> 20:25.090
+to the power minus 20.
+
+20:25.100 --> 20:28.670
+That for a solid angle unit.
+
+20:29.120 --> 20:35.930
+OK, just on the up side there you have the frequency and the ordinate, the vertical axis.
+
+20:36.150 --> 20:38.150
+Just imagine an intensity.
+
+20:39.590 --> 20:41.780
+So the universe is a very cold place.
+
+20:42.830 --> 20:51.140
+Because it's it has a temperature of about two point seven Kelvin, which is about almost more than
+
+20:51.140 --> 21:00.820
+270 degrees Celsius under below zero, but still it is not at absolute zero temperature.
+
+21:03.050 --> 21:09.230
+Just for curiosity, here you see the map of the overall structure of the universe inferred from the
+
+21:09.230 --> 21:16.140
+cosmic background radiation and more precisely from its fluctuations, from the ideal Planck spectrum.
+
+21:17.180 --> 21:24.650
+These ripples and tiny inner modernities represent the small departure from perfect homogeneity of matter
+
+21:24.770 --> 21:25.370
+and energy.
+
+21:25.380 --> 21:33.590
+These distributions, these observations confirmed Planck theory, which can be considered one of the
+
+21:33.590 --> 21:37.500
+greatest triumphs of the physics of the last century.
+
+21:38.540 --> 21:44.690
+It makes also clear how Boltzmann was incredibly near to the solution.
+
+21:45.530 --> 21:47.540
+What would he have replaced?
+
+21:47.540 --> 21:51.440
+The continuous energy function with a discrete, valued one?
+
+21:51.620 --> 21:58.460
+In his own mathematical theory, all Planck's merits and fame would have been his instead.
+
+21:59.680 --> 22:07.840
+This shows also how sometimes very simple but subtle intuitions could change the history of science,
+
+22:08.350 --> 22:10.960
+leading to a great paradigm shift.
+
+22:13.650 --> 22:19.740
+So the most important message of this lecture on the black body radiation and that we will have to keep
+
+22:19.740 --> 22:26.790
+in mind throughout is that we must surrender to the idea and fact that according to quantum mechanics
+
+22:26.790 --> 22:35.190
+energy and we will see later also other physical quantities as well, seems to come up in form of these
+
+22:35.850 --> 22:39.260
+chunks and packets or quanta of energy.
+
+22:40.200 --> 22:45.960
+Energy is absorbed or emitted only in discrete quantum amounts.
+
+22:47.070 --> 22:56.910
+By Metro Metro, it absorbs and emits it in form of quantum energy is therefore a quantized physical
+
+22:56.910 --> 22:57.420
+quantity.
+
+22:57.420 --> 23:05.400
+One use to say this fact became the conceptual foundation on which all modern quantum physics is based
+
+23:05.400 --> 23:07.670
+on, and that will follow us.
+
+23:07.680 --> 23:15.390
+And in all the coming lectures to that is, after all, where the name quantum mechanics or quantum
+
+23:15.390 --> 23:17.490
+physics or quantum theory comes from.
+
+23:18.950 --> 23:23.930
+With Plank's achievement, quantum physics was finally born.

@@ -1,0 +1,147 @@
+WEBVTT
+
+WEBVTT
+
+00:00.400 --> 00:05.660
+All right concept ject 7 for RC circuits consider these two circuits over here.
+
+00:05.670 --> 00:12.040
+So same voltage different values of the resistance and same capacitance.
+
+00:12.090 --> 00:17.130
+So batteries and capacitors are identical then you are going to close the switch.
+
+00:17.160 --> 00:20.740
+Let's go ahead do that for a very long time.
+
+00:21.720 --> 00:23.880
+To close a switch for a really long time.
+
+00:23.880 --> 00:27.140
+However at Teagle zero we open them again.
+
+00:27.150 --> 00:27.870
+Let me get rid of that.
+
+00:27.870 --> 00:32.410
+So first of all let's first see what happens after we've closed them for a long time.
+
+00:32.420 --> 00:35.930
+All right because we're going to end up charging both of those capacitors.
+
+00:36.540 --> 00:42.420
+So after a long time again the voltage Now what voltage do you think you would get after a long time
+
+00:42.420 --> 00:45.410
+again the voltage across each branch has to be the same.
+
+00:45.540 --> 00:49.790
+And after a while you're not going to have any current So there's no more voltage drop after a long
+
+00:49.780 --> 00:53.640
+time across the one arm and the form resistor.
+
+00:53.640 --> 01:01.320
+So that means that this is basically going to start with a voltage equal to six volts so you got this
+
+01:01.320 --> 01:05.450
+part at least initially.
+
+01:08.170 --> 01:08.950
+Same for both.
+
+01:08.950 --> 01:12.720
+Right it doesn't matter because we've waited a long time.
+
+01:13.420 --> 01:15.460
+OK now we're going to open the switch.
+
+01:15.460 --> 01:18.180
+So think about what happens when we open the switch.
+
+01:18.190 --> 01:23.440
+Well basically all we have here is going to be a small little circuit here.
+
+01:24.540 --> 01:27.320
+And this branch after we open the switch.
+
+01:27.320 --> 01:31.280
+All right in both cases this is the only thing we're really concerned about.
+
+01:31.280 --> 01:31.640
+All right.
+
+01:31.660 --> 01:37.270
+Is going to be what's going to happen here on the right hand side because we've opened the switch can't
+
+01:37.270 --> 01:39.720
+be any current flowing over there.
+
+01:40.870 --> 01:42.880
+OK so think about what happens here.
+
+01:42.880 --> 01:47.830
+So let's look at all the choices here says the resistors and this circuit here dissipate more energy
+
+01:48.670 --> 01:51.160
+and the resistors and B dissipate more energy.
+
+01:51.220 --> 01:56.450
+Both pairs of resistor Well look at they have different total effective resistance right.
+
+01:56.470 --> 02:03.040
+The equivalent resistance of circuit A is three ohms this one here and circuit B is 6 ohms right so
+
+02:03.040 --> 02:05.740
+we have a bigger value of a resistance.
+
+02:06.070 --> 02:12.070
+Both pairs of resistors dissipate the same amount of energy or we can't determine again whatever the
+
+02:12.070 --> 02:20.240
+voltages for both of these cases the potential energy stored in a capacitor is given by one half C-v
+
+02:20.260 --> 02:21.990
+squared.
+
+02:22.000 --> 02:24.570
+C is the same for both of them.
+
+02:24.610 --> 02:31.390
+So that means that the energy stored in this one has to be equal to the energy stored in the first one.
+
+02:31.480 --> 02:35.470
+The voltage is going to be the same six of all the capacitance is the same.
+
+02:35.500 --> 02:37.810
+We start with the same amount of energy.
+
+02:37.870 --> 02:43.510
+Now again all of that energy is effectively you know if you leave this open now for a very long time
+
+02:44.320 --> 02:48.490
+all of this energy gets dissipated by these resistors.
+
+02:48.490 --> 02:50.910
+Now that's going to happen at a different rate.
+
+02:51.010 --> 02:53.230
+So the power would be different.
+
+02:53.290 --> 02:59.080
+However the total amount of energy that's going to be dissipated is going to be the same because they
+
+02:59.080 --> 03:04.900
+started off with the same value and all that energy gets dissipated in the resistors.
+
+03:04.960 --> 03:10.750
+So really the best choice here is that both pairs the same amount of energy they do it at a different
+
+03:10.750 --> 03:16.360
+rate because they have a different value of effective resistance.
+
+03:16.390 --> 03:22.840
+They have a different RC time constant which will impact the rate at which the dissipation happens however
+
+03:22.840 --> 03:24.760
+it's the same amount of total energy.

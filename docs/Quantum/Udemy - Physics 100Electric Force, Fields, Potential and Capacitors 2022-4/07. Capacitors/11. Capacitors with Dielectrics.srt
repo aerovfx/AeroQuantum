@@ -1,0 +1,229 @@
+WEBVTT
+
+00:00.180 --> 00:05.640
+I now want to consider what happens when I play something between the plates of a capacitor in this
+
+00:05.640 --> 00:12.060
+case let's just keep the discussion to parallel play capacitors on the material that I'm going to place
+
+00:12.120 --> 00:17.310
+is something called a dielectric and that is just another word for an insulating material.
+
+00:17.310 --> 00:18.820
+So it's not a conductor.
+
+00:19.020 --> 00:24.300
+You don't want a conductor between the parallel plates because then the charge is just going to leave.
+
+00:24.330 --> 00:29.040
+So you want the charge to remain there so it has to be a material that doesn't conduct electricity very
+
+00:29.040 --> 00:29.990
+well.
+
+00:30.000 --> 00:31.680
+One example of that is rubber.
+
+00:31.680 --> 00:33.970
+You can have plastic paper wood.
+
+00:34.080 --> 00:38.390
+Again things that are they don't let the Chargers move across.
+
+00:38.580 --> 00:39.300
+All right.
+
+00:39.390 --> 00:45.240
+Now if I consider just this simple case where I have some charge on each plate.
+
+00:45.300 --> 00:52.110
+All right here's the illustration down here in the left figure and I have a way that I've measured the
+
+00:52.110 --> 00:57.870
+voltage between those plates so I use a meter over here and I've charged the plates using a battery
+
+00:58.260 --> 01:04.010
+and I get a certain reading on that dial the capacitance for this case again.
+
+01:04.010 --> 01:10.220
+If it's just that parallel plate capacitor we looked at this equation before it's Epsilon 0 a divided
+
+01:10.220 --> 01:12.440
+by D.
+
+01:12.500 --> 01:16.340
+Now the question is what happens when I place this material inside.
+
+01:16.340 --> 01:23.660
+Well there's always something that happens and the key is that the capacitance C always goes up whatever
+
+01:23.660 --> 01:26.710
+number I get here when there's nothing between the plates.
+
+01:26.900 --> 01:32.590
+When I play something between the plates the capacitance always increases it will never go down.
+
+01:32.610 --> 01:39.020
+So let me write that down capacitance will increase
+
+01:42.360 --> 01:43.870
+always.
+
+01:44.160 --> 01:45.360
+So how much does it go.
+
+01:45.360 --> 01:46.410
+Does it increase by.
+
+01:46.440 --> 01:51.490
+Well it kind of depends on what you place in that between the parallel plates.
+
+01:51.750 --> 01:54.820
+So all of these materials are rubber plastic wood.
+
+01:54.820 --> 01:55.240
+Okay.
+
+01:55.350 --> 02:00.060
+They're all characterized with something called a dielectric constant.
+
+02:00.060 --> 02:01.440
+Let me highlight this point.
+
+02:01.530 --> 02:10.310
+The dielectric constant is usually given by the letter K or Kappa and it is dimension less it's just
+
+02:10.310 --> 02:11.550
+the number.
+
+02:11.550 --> 02:18.780
+Okay so this dielectric constant I mean just write it as K Number One is it's always bigger equal to
+
+02:18.780 --> 02:26.390
+one if it's air the capacitance sorry the dielectric constant for air is very very close to one.
+
+02:27.330 --> 02:30.390
+So that's why it behaves just like this.
+
+02:30.390 --> 02:37.050
+So when you place the dielectric constant between the plates the capacitance increases we said and the
+
+02:37.050 --> 02:40.200
+new capacitance is given by this equation.
+
+02:40.350 --> 02:46.450
+See when there is a dielectric inside is equal to the dielectric constant.
+
+02:46.710 --> 02:51.010
+Again multiplied by the capacitance when there's nothing between the plates.
+
+02:51.090 --> 02:54.610
+So I'm gonna call this C0 when there's nothing between the plates.
+
+02:54.690 --> 03:00.750
+So the new capacitance is written as dielectric constant multiplied by the value of the capacitance
+
+03:00.750 --> 03:03.820
+when it's air filled or nothing between the plates.
+
+03:03.840 --> 03:11.940
+Ok so this is really the key equation and again that dielectric constant is always bigger than one.
+
+03:11.940 --> 03:18.040
+Which means if I multiply this by the original capacities I'm always going to get something bigger.
+
+03:18.060 --> 03:18.480
+OK.
+
+03:18.570 --> 03:20.400
+So why is that.
+
+03:20.700 --> 03:24.900
+And the other question is kind of what happens to the voltage between the plates.
+
+03:24.930 --> 03:30.250
+You can see here if I kept everything connected and I have some charge between the plates.
+
+03:30.390 --> 03:33.680
+Look what happened to the reading right.
+
+03:33.700 --> 03:36.220
+We had a voltage drop over here right.
+
+03:36.250 --> 03:37.780
+V went down a little bit.
+
+03:37.780 --> 03:39.780
+It used to be at the maximum value.
+
+03:39.790 --> 03:47.020
+Now it's kind of gone down a little bit and it's going to go down by the dielectric constant.
+
+03:47.320 --> 03:52.570
+And to really understand this you really have to look at what's happening to that material when you
+
+03:52.570 --> 03:54.500
+place it between the plates.
+
+03:54.520 --> 03:56.250
+Again we talked about this before.
+
+03:56.740 --> 04:03.550
+And again the atoms although they're neutral they can still spread out right the positives and the negatives
+
+04:03.550 --> 04:08.680
+are going to go in different directions because there's an electric field inside that material.
+
+04:08.680 --> 04:13.220
+So let me draw a kind of one big atom so we can see what's going to happen.
+
+04:13.270 --> 04:17.230
+It was a neutral atom except the positive side's going to end up here.
+
+04:17.410 --> 04:22.390
+And the electrons are going to end up closer to the positive plates.
+
+04:22.480 --> 04:26.770
+So there's charged separation we say there is a polarization now.
+
+04:27.210 --> 04:28.720
+So if you have a look at it now.
+
+04:28.720 --> 04:31.450
+So we had a voltage between the plates.
+
+04:31.450 --> 04:38.290
+However look what happens right we have the voltage which is due to both of those.
+
+04:38.310 --> 04:40.360
+However now look what happens.
+
+04:40.470 --> 04:45.540
+We also have some positive charges that are going to be close to those negatives.
+
+04:45.540 --> 04:52.620
+It basically reduces the potential difference between the plates on this side here you got negatives
+
+04:52.620 --> 04:54.240
+that are really close to the positive.
+
+04:54.240 --> 04:56.820
+So they have some voltage between them.
+
+04:57.270 --> 05:03.390
+So at the end the total voltage is going to end up dropping because you end up canceling out some of
+
+05:03.390 --> 05:08.730
+these positive charges on the plates with the negative charges from the material that are really close
+
+05:08.730 --> 05:09.050
+to it.
+
+05:10.320 --> 05:10.530
+All right.
+
+05:10.530 --> 05:15.900
+So the net voltage is always a voltage drop when I have charged plates and I stick something between
+
+05:15.900 --> 05:16.070
+them.

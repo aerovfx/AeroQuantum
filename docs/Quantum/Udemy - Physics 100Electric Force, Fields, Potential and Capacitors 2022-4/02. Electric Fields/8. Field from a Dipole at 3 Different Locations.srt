@@ -1,0 +1,553 @@
+WEBVTT
+
+00:00.840 --> 00:01.410
+Hi folks.
+
+00:01.410 --> 00:06.180
+Today I want to solve a problem dealing with electric fields and more specifically I want to calculate
+
+00:06.180 --> 00:13.440
+the electric field produced by a dipole so for a dipole we have a positive charge and a negative charge
+
+00:13.760 --> 00:18.580
+and they're separated by some distance that I've denoted by the letter D.
+
+00:18.690 --> 00:23.240
+The question is I want to calculate the electric field at three specific points in space.
+
+00:23.430 --> 00:30.500
+The point p is located midway between the two charges the point X is located just above the axis and
+
+00:30.500 --> 00:37.140
+it's a distance D over to above point p and the last case I want to calculate the electric field that
+
+00:37.140 --> 00:42.280
+point y a point Y is located on the axis joining the two charges.
+
+00:42.360 --> 00:47.460
+However it's a little bit closer to the negative charge now than it is to the positive charge.
+
+00:48.180 --> 00:53.640
+So now the only thing to remember for this delay equation we really need to calculate the electric field
+
+00:53.640 --> 00:59.580
+for this problem is to remember that the electric field from any single point charged the magnitude
+
+00:59.580 --> 01:06.960
+any is given by this equation K is our constant Q Is the charge and that's the inverse squared relationship.
+
+01:07.140 --> 01:08.810
+So k q over our squared.
+
+01:08.970 --> 01:13.550
+That gives me the magnitude of the electric field produced by any specific charge.
+
+01:13.560 --> 01:19.200
+I also have to worry about the direction of the electric field so let's go to the online whiteboard
+
+01:19.200 --> 01:21.140
+and see how we solve that problem.
+
+01:21.140 --> 01:22.490
+Thanks.
+
+01:22.560 --> 01:23.130
+Okay great.
+
+01:23.130 --> 01:24.250
+So here's my dipole.
+
+01:24.330 --> 01:26.730
+Let's first consider the point p.
+
+01:26.730 --> 01:32.940
+We've got our point p located at the center point between the two charges which are separated by distance
+
+01:32.970 --> 01:34.170
+D.
+
+01:34.170 --> 01:39.090
+So to calculate the total field at this point we need to consider the contribution from the positive
+
+01:39.090 --> 01:42.470
+charge and the contribution from the negative charge.
+
+01:42.570 --> 01:44.070
+So let's draw the vectors first.
+
+01:44.610 --> 01:50.250
+If I'm only considering the positive charge let's plot that vector and read the field produce at point
+
+01:50.250 --> 01:58.020
+p by the positive charge should point away from the positive charge it points away from the positive
+
+01:58.020 --> 01:58.920
+charge.
+
+01:58.920 --> 02:04.300
+That's the convention and the magnitude we can calculate using our equation appear.
+
+02:05.190 --> 02:10.170
+All right now let's go ahead and calculate the field from the negative charge in the field from the
+
+02:10.170 --> 02:13.190
+negative charge at the point P where we want to evaluate it.
+
+02:14.280 --> 02:19.410
+It's going to have a particular magnitude and it's going to have a direction because it's a negative
+
+02:19.410 --> 02:20.230
+charge.
+
+02:20.370 --> 02:23.880
+The field points toward the negative charge.
+
+02:23.880 --> 02:28.130
+So we've got two vectors here that are pointing in the same direction.
+
+02:28.200 --> 02:34.210
+One thing you should know right away is since the distance will be the same for both and the charge
+
+02:34.210 --> 02:34.990
+is the same.
+
+02:35.040 --> 02:39.180
+Only the magnitude is different because we're dealing with an electric dipole.
+
+02:39.240 --> 02:46.170
+You should notice that the magnitudes of both of those vectors should be the same since the charge is
+
+02:46.170 --> 02:53.270
+the same in the distance to the to the charge to the point of evaluation will also be the same.
+
+02:53.340 --> 02:58.360
+In both cases the distance R is simply D over 2 for this particular point.
+
+02:59.460 --> 03:00.990
+So therefore the total field
+
+03:04.500 --> 03:07.950
+is going to be E plus plus a minus
+
+03:13.010 --> 03:13.280
+all right.
+
+03:13.310 --> 03:18.350
+We're gonna choose a convention I'm gonna call this direction here as being my positive direction.
+
+03:18.440 --> 03:19.910
+I'm free to choose whatever I want.
+
+03:20.750 --> 03:25.040
+Therefore if I want to eliminate this vector here and we'll call that the positive x direction.
+
+03:27.210 --> 03:33.680
+Okay so the total feel now is simply going to be k kill.
+
+03:33.840 --> 03:37.690
+And again the distances deal over 2 squared.
+
+03:37.740 --> 03:47.810
+That is the field from the positive charge evaluating that point P plus k q d over 2 squared.
+
+03:47.820 --> 03:49.020
+We get the exact same thing.
+
+03:49.050 --> 03:51.960
+So we get two contributions.
+
+03:51.960 --> 03:56.830
+And again the distance term is gonna be the same for both.
+
+03:56.940 --> 04:01.900
+If you simplify that a little bit you're gonna get a one over four here.
+
+04:02.880 --> 04:11.670
+Once you square everything in at the end of the day you should get eight K Q over over d squared in
+
+04:11.670 --> 04:18.960
+the direction of the field is going to be in the positive x direction and I've defined up above.
+
+04:18.960 --> 04:19.390
+All right.
+
+04:19.560 --> 04:31.830
+So the total field that point P has a magnitude of 8 q over d squared and the direction is to the left
+
+04:34.880 --> 04:35.410
+all right.
+
+04:35.760 --> 04:40.230
+So case number one is pretty straightforward.
+
+04:40.370 --> 04:40.700
+OK.
+
+04:40.700 --> 04:50.280
+Now let's look at point X point X was located above point p and it was a distance D over to above.
+
+04:50.660 --> 04:52.640
+And remember of point P was right at the center.
+
+04:52.640 --> 04:59.380
+That means at this distance here from the center line to each individual charge is also D over 2.
+
+05:00.280 --> 05:00.550
+Okay.
+
+05:00.560 --> 05:06.020
+So if we want to find the field that point X again there's gonna be two contributions to the field each
+
+05:06.020 --> 05:07.440
+one of them we know the magnitude.
+
+05:07.820 --> 05:10.580
+So let's start by drawing the vectors.
+
+05:10.580 --> 05:17.600
+The field at point X produced by this positive charge should point in this direction away from the positive
+
+05:17.600 --> 05:18.250
+charge.
+
+05:18.330 --> 05:27.290
+And I'm calling that he plus in the electric field produced by the negative charge at point X is a vector
+
+05:27.290 --> 05:33.380
+of a particular length that I'm going to denote as a minus.
+
+05:33.380 --> 05:35.900
+And it's pointing toward the negative charge.
+
+05:36.030 --> 05:36.250
+Right.
+
+05:36.280 --> 05:39.900
+If you continue this line here should go right through the negative charge.
+
+05:40.700 --> 05:41.120
+Okay.
+
+05:41.330 --> 05:45.010
+So all we have to do now is simply add those up as vectors.
+
+05:45.080 --> 05:46.160
+Now one thing you should note
+
+05:49.070 --> 05:54.400
+is the vertical components of those vectors are going to cancel out.
+
+05:54.410 --> 05:59.390
+Again we're dealing with the electric field from a dipole so that means that this charge is equal in
+
+05:59.390 --> 06:02.150
+magnitude but opposite sign from the negative charge.
+
+06:02.780 --> 06:07.750
+And also the distance from the point to each charge is going to be the same.
+
+06:07.760 --> 06:14.150
+So that means when you substitute things into our equation for the electric fuel produced by one individual
+
+06:14.150 --> 06:16.840
+charge you have the same magnitude.
+
+06:16.850 --> 06:22.250
+You also have the same distance from the point where we evaluate the field to the charge.
+
+06:22.250 --> 06:26.690
+Therefore both of those vectors have the same magnitude.
+
+06:27.470 --> 06:33.370
+So when you add them up as vectors at the end let's drive a little bit clear down here at the bottom
+
+06:34.430 --> 06:43.400
+so we've got a vector in this direction he plus and we've also got a vector in this direction.
+
+06:43.400 --> 06:45.770
+He minus.
+
+06:46.400 --> 06:50.000
+So now let's find the actual magnitudes of each one of those vectors
+
+06:53.440 --> 06:55.860
+so we can start with the first one.
+
+06:56.260 --> 07:01.360
+All we really need to find is what is the distance from the charge to the point of the valuation.
+
+07:01.420 --> 07:01.620
+Right.
+
+07:01.630 --> 07:04.210
+And that distance is simply this one over here on the figure.
+
+07:04.210 --> 07:13.240
+This is r that's very easy to solve because we know the distance from the charge to the midpoint and
+
+07:13.240 --> 07:16.630
+we know the distance from the midpoint to the point of observation.
+
+07:16.720 --> 07:21.400
+Therefore we should be able to solve what is the length of that top side.
+
+07:21.400 --> 07:24.110
+Each one of these is d over 2.
+
+07:24.670 --> 07:30.360
+Therefore R to use Pythagorean theorem.
+
+07:32.930 --> 07:33.830
+Okay.
+
+07:33.930 --> 07:35.240
+Now you could simplify this.
+
+07:35.240 --> 07:41.110
+We're going to get d over a square root of 2 so there's the distance.
+
+07:41.570 --> 07:55.100
+So the magnitude of E plus we do it over here magnitude of E plus is simply k q and divided by our square
+
+07:55.670 --> 08:00.000
+r squared is gonna be d squared divided by two.
+
+08:00.100 --> 08:02.870
+I'll just put the two up on top here.
+
+08:02.870 --> 08:09.570
+The magnitude of E minus is also going to be the same.
+
+08:10.240 --> 08:14.810
+The only thing that's different is the orientation or the direction that vector.
+
+08:14.950 --> 08:20.050
+So at the end now what we have to do is we simply have to break both of those vectors down into two
+
+08:20.050 --> 08:21.880
+components.
+
+08:21.880 --> 08:28.020
+This year we'll have a horizontal component and a vertical component.
+
+08:28.630 --> 08:36.820
+Likewise with the green vector we have a horizontal component and a vertical component of the vector
+
+08:36.850 --> 08:38.940
+e minus.
+
+08:40.090 --> 08:46.760
+And you should see that both of these vectors at least the vertical components cancel so if we choose
+
+08:46.760 --> 08:56.240
+a coordinate system let's choose a coordinate system where we have positive why it's pointing up and
+
+08:56.240 --> 09:01.270
+positive X is pointing to the left.
+
+09:01.710 --> 09:02.730
+Okay.
+
+09:02.910 --> 09:05.490
+And if you want to find the field in the y direction
+
+09:11.860 --> 09:18.000
+let's call the angle that that vector makes with respect to the horizontal it's theta.
+
+09:18.130 --> 09:24.140
+And again you can find theta because it's gonna be the same angle as the angle over here.
+
+09:24.220 --> 09:33.940
+Since both of those sides are the same you should know that the angle theta should be forty five degrees.
+
+09:34.240 --> 09:36.010
+So in the y direction what do we have.
+
+09:36.010 --> 09:47.770
+We've got he total in the y direction is equal to E plus in the y direction.
+
+09:48.140 --> 09:52.890
+And now the component of E minus in the y direction is pointing down.
+
+09:53.150 --> 09:59.450
+I would call that negative and at the end that components very easy.
+
+09:59.450 --> 10:01.780
+It equals to zero.
+
+10:01.780 --> 10:10.370
+Well all we have to do now is simply find the vector in the x direction and again both of those are
+
+10:10.370 --> 10:12.240
+gonna have the exact same length.
+
+10:12.530 --> 10:20.900
+So the total field in the x direction is gonna be twice whatever the x component of E pluses and the
+
+10:20.900 --> 10:22.620
+x component its cos of theta.
+
+10:25.250 --> 10:30.710
+So now we can substitute everything we know the two is the fact that we have both vectors pointing in
+
+10:30.710 --> 10:32.190
+the same direction.
+
+10:32.420 --> 10:42.860
+The magnitude of E plus I've got a written there on the side it's 2 k divided by D squared and coast
+
+10:42.860 --> 10:43.390
+of theta.
+
+10:43.400 --> 10:49.780
+That's code of forty five degrees coast of forty five degrees is Route 2 over 2.
+
+10:50.150 --> 10:51.710
+You can simplify a few things
+
+10:55.760 --> 11:04.890
+at the end while we're left with is 2 square root of 2 k divided by D squared.
+
+11:04.970 --> 11:08.330
+That is the total field at point X.
+
+11:08.930 --> 11:13.810
+So this one's a little bit tricky because the vectors are not along the same axis.
+
+11:14.450 --> 11:20.540
+However there is some simplification because the y components cancel out and we're left with both components
+
+11:20.540 --> 11:28.670
+of the X both x components adding together to give us a total field in the x direction with this magnitude
+
+11:29.600 --> 11:31.400
+2 square root of 2.
+
+11:31.850 --> 11:37.180
+Multiply times the constant I can't forget the charge q divided by D squared.
+
+11:38.290 --> 11:38.640
+Okay.
+
+11:40.260 --> 11:44.970
+Okay so now let's consider the total electric field produce at point Y.
+
+11:45.110 --> 11:51.820
+Again we're gonna have two contributions we have a contribution from the positive charge at point y.
+
+11:51.860 --> 11:57.830
+That's a vector pointing away from the positive charge and we also have an electric field produced by
+
+11:57.830 --> 11:59.780
+the negative charge at point y.
+
+11:59.930 --> 12:03.530
+And that vector should point toward the negative charge.
+
+12:03.540 --> 12:06.860
+Now we can easily calculate the magnitude of each one.
+
+12:07.280 --> 12:12.380
+The magnitude of E plus is K Q And what is the distance.
+
+12:12.380 --> 12:16.240
+Now the distance is D plus D over 2.
+
+12:16.280 --> 12:24.740
+Well that's three D over two and you can't forget the square that guy at the end of the day you expand
+
+12:24.740 --> 12:28.450
+this power to and what do we get.
+
+12:28.460 --> 12:35.520
+We're gonna get 4 k q divided by 9 D squared.
+
+12:35.750 --> 12:42.170
+That's the magnitude of the electric field produced by the positive charge.
+
+12:42.180 --> 12:47.480
+Now let's consider the negative charge k q that terms the same.
+
+12:47.480 --> 12:48.380
+What is the distance now.
+
+12:48.380 --> 12:53.320
+The distance is only D over to a much smaller distance do you over too.
+
+12:53.340 --> 12:55.500
+And don't forget to square that term.
+
+12:55.600 --> 13:00.500
+So at the end of the day when we expand everything we can write out that the electric field produced
+
+13:00.500 --> 13:05.430
+by the negative charge has a magnitude of K key over d squared.
+
+13:06.970 --> 13:07.600
+Okay.
+
+13:07.610 --> 13:13.220
+So the total field now again I'm going to choose a coordinate system where everything pointing to the
+
+13:13.220 --> 13:14.210
+left is positive.
+
+13:14.210 --> 13:16.330
+You're free to do whatever you want at this point.
+
+13:16.970 --> 13:18.140
+And now the total field
+
+13:20.870 --> 13:33.770
+the magnitude of the total field is going to be plus four nights Kate Q divided by D squared and minus
+
+13:34.370 --> 13:40.750
+minus because this vector here is pointing to the right and I've decided that that direction is gonna
+
+13:40.760 --> 13:46.110
+be the negative direction for k q divided by D squared.
+
+13:47.040 --> 13:47.420
+Okay.
+
+13:47.450 --> 13:49.030
+So you just gotta do a little bit of algebra.
+
+13:49.040 --> 13:52.580
+Here we have four nights minus what is this.
+
+13:52.580 --> 13:58.180
+Thirty six nights and everything is multiplied times the same factor here.
+
+13:58.190 --> 14:06.200
+Kick you over d squared and at the end of the day we are left with that the total feel that point Y
+
+14:08.090 --> 14:21.150
+is equal to minus thirty two over nine K Q divided by D squared.
+
+14:21.320 --> 14:29.690
+Negative negative for vectors simply tells me the direction and that tells me that this vector here
+
+14:30.320 --> 14:34.110
+points to the right and that makes sense right.
+
+14:34.130 --> 14:42.260
+Because the fuel produced by the negative charge is going to be bigger at point Y because the distance
+
+14:42.260 --> 14:49.670
+to the point Y is much closer for the positive charge the distance is much larger it's three D over
+
+14:49.670 --> 14:53.770
+two words for the negative charge it was only D over two.
+
+14:54.160 --> 14:54.560
+Okay.
+
+14:54.650 --> 15:00.620
+So at any point in space you simply have to consider two vectors the vectors the electric field produced
+
+15:00.620 --> 15:03.110
+by each charge.
+
+15:03.110 --> 15:07.970
+Just be careful how you add them up and you should be able to find the electric field anywhere in space.

@@ -1,0 +1,345 @@
+WEBVTT
+
+WEBVTT
+
+00:00.330 --> 00:02.950
+I now want to look at a different geometry.
+
+00:02.970 --> 00:08.430
+Okay I want to now take a whole bunch of point charges and form a line with them.
+
+00:08.790 --> 00:13.920
+And what I'm going to do is I'm going to space them evenly so we're gonna say that this line of charge
+
+00:14.280 --> 00:19.590
+is that the charge is uniformly distributed along that line.
+
+00:19.590 --> 00:25.020
+So I want to think about now how we're going to apply Gauss as law and we we want to find the field
+
+00:25.020 --> 00:27.230
+produced by this line of charge.
+
+00:27.300 --> 00:32.350
+If I'm a certain distance away from the charge so let me have a look at it right here.
+
+00:32.370 --> 00:39.240
+Imagine here I'm at some point and I'm a certain distance little are away from that line of charge.
+
+00:39.270 --> 00:44.380
+Again we're going to assume that the line of charge is very long so it extends in both directions.
+
+00:44.490 --> 00:45.900
+Kind of like this.
+
+00:45.940 --> 00:49.800
+Okay so how do we find what surface would we choose.
+
+00:49.800 --> 00:51.170
+That's number one.
+
+00:51.330 --> 00:55.320
+And then how do you find the charging close by the surface.
+
+00:55.380 --> 01:02.160
+So let's think about this and apply Gauss is law to find the field produced by this line of charge.
+
+01:02.310 --> 01:02.550
+Okay.
+
+01:02.590 --> 01:08.260
+So for this problem here I'm going to define something called the lambda which is the amount of charge
+
+01:08.680 --> 01:13.250
+you have per unit length and this is going to be a constant for this problem.
+
+01:13.320 --> 01:13.600
+Okay.
+
+01:13.630 --> 01:18.620
+Because I'm going to assume that you have a uniform charge distribution.
+
+01:19.110 --> 01:19.710
+Okay.
+
+01:19.750 --> 01:24.920
+The second thing we have to do now is defined a Goshen surface.
+
+01:24.920 --> 01:27.450
+So think about this wire over here.
+
+01:27.450 --> 01:28.760
+This line of charge.
+
+01:28.870 --> 01:33.910
+It really doesn't make sense to use a surface like this that we use for spherical objects.
+
+01:33.910 --> 01:37.630
+Actually if you think about a wire Well it looks more like a cylinder.
+
+01:37.650 --> 01:37.950
+Okay.
+
+01:37.990 --> 01:44.260
+So for anything that has kind of like a cylindrical shape like a wire we're going to use their Gaussian
+
+01:44.260 --> 01:47.420
+surface that looks like a wire.
+
+01:47.560 --> 01:51.330
+And again we want to have the wire here has a certain length.
+
+01:51.340 --> 01:56.230
+Let's call this L and it has a certain radius which I'm calling R and this is really where I want to
+
+01:56.230 --> 01:58.600
+evaluate the field.
+
+01:58.660 --> 01:58.980
+OK.
+
+01:59.020 --> 02:00.740
+So given all of this now.
+
+02:00.840 --> 02:02.970
+Well we want to do now is go back to Gauss is law.
+
+02:02.970 --> 02:07.120
+Let's find how much charge is enclosed here in this cylinder.
+
+02:07.300 --> 02:08.290
+So let's start with that.
+
+02:08.290 --> 02:16.780
+So cue enclosed cue enclosed there's going to be my line density my charge density divided by the length
+
+02:16.780 --> 02:19.380
+that I have here multiplied by the length.
+
+02:19.540 --> 02:22.560
+This gives me the total charge that I have.
+
+02:22.600 --> 02:28.040
+So if you go back to go says law now this is the numerator on top of the right hand side.
+
+02:28.240 --> 02:32.520
+So let's go back to Gauss as lie with simply right over Epsilon 0.
+
+02:32.650 --> 02:35.130
+And this has to be the total flux.
+
+02:35.950 --> 02:37.570
+And this is a close surface right.
+
+02:37.570 --> 02:39.060
+So this is the total flux.
+
+02:39.070 --> 02:40.710
+That's it.
+
+02:40.780 --> 02:41.050
+All right.
+
+02:41.050 --> 02:44.210
+Now how do we more specifically look at this term.
+
+02:44.380 --> 02:49.420
+Now if you think about a line of charge that extends in both directions over here the field produced
+
+02:49.420 --> 02:53.310
+by a line of charge has to be in this direction.
+
+02:53.590 --> 03:00.400
+It doesn't make sense that there's any component here really that is along the axis and make sure you
+
+03:00.400 --> 03:02.010
+understand that part.
+
+03:02.190 --> 03:07.750
+And that's because if you think about what produces the field over here all of these charges are going
+
+03:07.750 --> 03:09.880
+to produce a field at this point.
+
+03:09.880 --> 03:14.920
+If you consider first the field produced by this little charge while that little charge would produce
+
+03:14.920 --> 03:22.300
+a tiny little field like this but there's always a charge opposite of that that will produce a field
+
+03:22.840 --> 03:28.150
+for example like this at the end if you add both of those vectors you're going to get a vector that
+
+03:28.150 --> 03:30.050
+points away from the wire.
+
+03:30.340 --> 03:35.740
+There's always charges tops and bottom so that there's never any vertical component of this electric
+
+03:35.740 --> 03:36.770
+field.
+
+03:37.360 --> 03:43.840
+So the total field really has to be pointing out for any line of charge that's very long.
+
+03:43.840 --> 03:44.080
+All right.
+
+03:44.110 --> 03:50.150
+So that makes our job a little bit easier because remember we have to evaluate the total flux.
+
+03:50.230 --> 03:55.560
+So if I think about all these surfaces here here's the top surface let's call it one.
+
+03:55.570 --> 04:00.110
+Here's the bottom surface and call three the side surface.
+
+04:00.280 --> 04:04.600
+So if I'm going to write the total flux going through that surface I have to calculate the flux through
+
+04:04.600 --> 04:11.980
+surface 1 the flux through surface 2 plus the flux through surface 3 and all this has to be equal to
+
+04:12.700 --> 04:16.200
+the right hand side of Gauss is law now.
+
+04:16.210 --> 04:20.740
+If you think about our area vector that we've defined there's different ones because these surfaces
+
+04:20.740 --> 04:23.780
+are in different orientations.
+
+04:23.860 --> 04:30.880
+If you think about a we did that those vectors in black before right let's think about this is the direction
+
+04:30.940 --> 04:34.910
+of a vector that is perpendicular to the surface.
+
+04:34.910 --> 04:37.480
+Here's a vector that's perpendicular to surface.
+
+04:37.480 --> 04:41.650
+Number two and a vector that is perpendicular to surface.
+
+04:41.650 --> 04:43.510
+Number three.
+
+04:44.020 --> 04:51.640
+You notice that if we have that the field is pointing away from the wire and that our vector is pointing
+
+04:51.700 --> 05:00.730
+up for surface one the angle over here between the field and the surface the angle over here is 90 degrees
+
+05:01.330 --> 05:06.320
+the angle down over here for Surface 2 is also going to be 90 degrees.
+
+05:06.340 --> 05:12.510
+So that really simplifies our expression over here that these flux have to be equal to zero.
+
+05:12.550 --> 05:18.090
+There is no electric flux going through both of those surfaces at the top and the bottom of my cylinder.
+
+05:18.130 --> 05:23.920
+So all we're really left with is just the sides of this tube.
+
+05:23.920 --> 05:29.530
+So how would we write down the flux while you'd write down it would be the electric field multiplied
+
+05:29.530 --> 05:31.470
+by the area.
+
+05:31.780 --> 05:32.770
+What is the area.
+
+05:32.770 --> 05:38.130
+The total area of the side of this cylinder over here.
+
+05:38.140 --> 05:40.710
+Well if you think about it it's going to have.
+
+05:40.840 --> 05:42.540
+I mean imagine if you unrolled it right.
+
+05:42.630 --> 05:46.520
+If you unrolled it it would simply look like a big rectangle.
+
+05:46.540 --> 05:54.150
+This here would be the length L and this distance here would be the total circumference of this sill.
+
+05:54.220 --> 06:01.210
+This circle over here would be the length L multiplied by the circumference which would be two pi times
+
+06:01.210 --> 06:03.280
+little r All right.
+
+06:03.280 --> 06:11.280
+This here has to be equal to Lambda my charge density multiplied by the length divided by epsilon 0.
+
+06:11.500 --> 06:11.770
+All right.
+
+06:11.770 --> 06:16.420
+One thing you notice over here is that the length can actually cancel out because they're on both sides
+
+06:17.100 --> 06:22.560
+and at the end we're left with just one expression for my field which looks like this.
+
+06:22.570 --> 06:24.840
+So first of all the term in the front is different.
+
+06:24.850 --> 06:31.510
+It's two pi Epsilon 0 this time which is different from the point charge and now it also depends on
+
+06:31.780 --> 06:43.370
+the line DNC the charge density divided by the radius or the distance away from the wire all right there's
+
+06:43.410 --> 06:44.160
+the field.
+
+06:44.160 --> 06:47.170
+If you were gonna make a quick sketch of this.
+
+06:47.760 --> 06:54.630
+This means as I go far away from the wire that the field drops off.
+
+06:54.740 --> 06:58.260
+This is the distance and the magnitude of the field.
+
+06:58.340 --> 07:02.780
+You see that the field is proportional to 1 over the distance.
+
+07:02.780 --> 07:11.300
+It drops off slower than a point charge for a point charge for example the field dropped off much faster.
+
+07:11.450 --> 07:11.840
+All right.
+
+07:11.840 --> 07:17.250
+For a point charge the field was proportional to one over our squared.
+
+07:17.330 --> 07:20.270
+Here it drops off much more slowly.
+
+07:20.330 --> 07:20.580
+All right.
+
+07:20.600 --> 07:21.830
+So keep that in mind.
+
+07:21.980 --> 07:27.420
+Anyway this is how you apply Gauss his law to an object that has cylindrical symmetry.
+
+07:27.560 --> 07:39.000
+So I mean just write down cylindrical symmetry so you would always try to choose a an object that also
+
+07:39.000 --> 07:46.110
+are a Goshen surface that is also cylindrical and that makes that the area should be always a term that
+
+07:46.110 --> 07:51.180
+looks like this if you're dealing with wires again you typically don't have to worry about the tops
+
+07:51.180 --> 07:53.520
+and the bottoms of this Goshen surface.
+
+07:53.580 --> 07:55.620
+You really only have to worry about the side.

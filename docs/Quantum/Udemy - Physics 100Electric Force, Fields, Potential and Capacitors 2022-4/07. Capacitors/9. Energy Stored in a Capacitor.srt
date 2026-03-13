@@ -1,0 +1,184 @@
+WEBVTT
+
+00:00.350 --> 00:00.600
+All right.
+
+00:00.600 --> 00:07.260
+The last thing I want to say here about these capacitors here is concerning the potential energy stored
+
+00:07.740 --> 00:09.210
+in capacitors.
+
+00:09.330 --> 00:12.840
+Again to get charges on these plates it doesn't happen by itself.
+
+00:12.840 --> 00:15.400
+You need to plug in a battery.
+
+00:15.540 --> 00:18.340
+And it's the battery that does the work.
+
+00:18.450 --> 00:18.810
+OK.
+
+00:18.810 --> 00:20.930
+That's where the energy comes from.
+
+00:20.940 --> 00:21.150
+All right.
+
+00:21.150 --> 00:23.330
+It comes from the power supply.
+
+00:23.340 --> 00:28.190
+So let me just write this down so battery does work.
+
+00:29.150 --> 00:35.940
+And as a result of something doing work we store what kind of energy we would store electrical potential
+
+00:35.940 --> 00:38.260
+energy in this capacitor.
+
+00:38.260 --> 00:39.840
+So let me just right capacitor
+
+00:42.130 --> 00:46.420
+stores electrical potential energy
+
+00:54.750 --> 00:55.110
+all right.
+
+00:55.230 --> 00:57.750
+So that is a very very important concept.
+
+00:58.050 --> 01:02.410
+So the next thing we want to do is how do we calculate the electrical potential energy.
+
+01:02.610 --> 01:09.360
+Again first we're going to start with our famous capacitor equation the famous capacitor equation is
+
+01:09.480 --> 01:17.520
+simply that the charge is equal to the capacitance multiplied by the voltage between the plates.
+
+01:17.520 --> 01:19.560
+So again one plate has positive charge.
+
+01:19.560 --> 01:21.360
+The other plate has negative charge.
+
+01:21.360 --> 01:23.670
+There is a voltage between those plates.
+
+01:23.670 --> 01:28.680
+This is number one that's always true.
+
+01:28.680 --> 01:31.250
+So how much potential energy with there have.
+
+01:31.470 --> 01:37.950
+Would you have let me write down the first equation going gonna write this equation three different
+
+01:37.950 --> 01:38.280
+ways.
+
+01:38.280 --> 01:39.870
+There's three variables involved.
+
+01:39.870 --> 01:44.430
+There's the charge there is capacitance and there is voltage.
+
+01:44.430 --> 01:47.720
+The equation for potential energy involves two of those variables.
+
+01:47.820 --> 01:54.330
+One way of writing it is like this one half the charge multiplied by the voltage.
+
+01:54.550 --> 02:00.390
+If you remember the units here the units for charge are columns the units for voltage are joules per
+
+02:00.390 --> 02:05.970
+column if you multiply those things at the end of the day we're going to get a quantity here that is
+
+02:05.970 --> 02:09.010
+measured in Joules.
+
+02:09.150 --> 02:13.090
+So this is the first equation for energy.
+
+02:13.200 --> 02:14.480
+How can I.
+
+02:14.550 --> 02:17.280
+It's written in terms of the charge in the voltage.
+
+02:17.280 --> 02:23.520
+What if instead if I wanted to write this equation without the charge q in that equation what I could
+
+02:23.520 --> 02:27.120
+do is use equation 1 and eliminate the charge.
+
+02:27.120 --> 02:28.450
+So let me go ahead and do that.
+
+02:29.890 --> 02:36.210
+So instead of having the charged Q I'm going to replace Q by the capacitance multiplied by the voltage
+
+02:36.210 --> 02:42.380
+I could do that and I still have the voltage from the equation for potential energy.
+
+02:42.480 --> 02:48.410
+So at the end you could see that this one here reduces to one half CV squared.
+
+02:48.750 --> 02:55.510
+Same equation just different terms involved so somebody gives you the capacitance and you know the voltage
+
+02:55.540 --> 02:57.750
+automatically you could quickly calculate it.
+
+02:57.820 --> 02:59.490
+You don't have to go through the charge.
+
+03:00.250 --> 03:03.380
+So that's the second way of calculating the same quantity.
+
+03:03.400 --> 03:07.270
+The third way now which often comes up is sometimes
+
+03:10.310 --> 03:13.630
+you may just know the charge in the capacitance.
+
+03:13.740 --> 03:18.950
+Then usually you'd have to go through the voltage but again I can use my start with the first equation
+
+03:18.950 --> 03:20.660
+for potential energy.
+
+03:20.930 --> 03:27.230
+And let me eliminate voltage and I'm going to eliminate the voltage using equation 1.
+
+03:27.410 --> 03:33.050
+So again I'm going to have the charge q from the definition and instead of me writing voltage over here
+
+03:33.050 --> 03:38.870
+for that term I am going to write charge divided by the capacitance.
+
+03:38.870 --> 03:47.880
+So the third formula for calculating the exact same thing is Q squared divided by C Okay.
+
+03:47.900 --> 03:56.330
+So we really have three different equations to calculate the energy generated is one two and three they
+
+03:56.330 --> 03:58.280
+all mean the same thing.
+
+03:58.580 --> 04:00.020
+They're all the same.
+
+04:00.020 --> 04:05.950
+They will give you a number of joules if you're charges and cooldowns and your voltage is in volts.
+
+04:06.080 --> 04:06.570
+Okay.
+
+04:06.680 --> 04:08.320
+So that is really really important.

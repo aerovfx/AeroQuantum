@@ -1,0 +1,97 @@
+WEBVTT
+
+00:00.300 --> 00:00.600
+All right.
+
+00:00.600 --> 00:04.260
+So here is a concept check too for RC circuits.
+
+00:04.260 --> 00:06.990
+Again it's the same circuit over here.
+
+00:06.990 --> 00:08.550
+We closed the switch.
+
+00:08.550 --> 00:13.560
+Except now we want to know what is the voltage across the capacitor after a long time.
+
+00:13.710 --> 00:14.820
+OK.
+
+00:14.820 --> 00:16.640
+And again you go to all these voltages here.
+
+00:16.650 --> 00:18.910
+None of the above impossible to determine.
+
+00:19.230 --> 00:21.960
+OK so let's close up that switch and let's think about this for a minute.
+
+00:21.960 --> 00:23.320
+Right.
+
+00:23.400 --> 00:33.810
+So initially what we have initially the charge was zero and the voltage was also zero.
+
+00:34.580 --> 00:41.480
+And basically at time equals to zero you can basically replace the capacitor by just a wire right.
+
+00:41.480 --> 00:44.760
+You imagine that the capacitor is shorted.
+
+00:44.810 --> 00:49.570
+So there's initially a lot of current and you start building up charge right.
+
+00:49.820 --> 00:56.750
+So as time goes on Q goes up which means that the voltage goes up so to initially zero but then it goes
+
+00:56.750 --> 00:58.280
+up as a function of time.
+
+00:58.940 --> 01:01.780
+And then q reaches a maximum value.
+
+01:01.930 --> 01:02.120
+Right.
+
+01:02.120 --> 01:09.740
+Once it's fully charge it reaches a maximum value which means that the voltage also reaches a maximum
+
+01:09.740 --> 01:11.680
+value.
+
+01:11.690 --> 01:18.300
+Now once the charge reaches its maximum value it means there is no more change in the charge.
+
+01:18.350 --> 01:25.730
+So that means that the current has to be equal to zero because the current is how the charge changes
+
+01:25.730 --> 01:28.000
+with respect to time.
+
+01:28.010 --> 01:34.910
+So really in this limit in a long time limit there is no more current and if there is no more current
+
+01:35.270 --> 01:40.630
+it means that if you look at this guy if the current is zero it means that the voltage drop across.
+
+01:40.630 --> 01:43.800
+This guy also must be equal to zero.
+
+01:44.420 --> 01:51.860
+So if you apply Kirchhoff's loop rle now and you do plus six across the battery and theres no more voltage
+
+01:51.860 --> 01:56.510
+drop across here because there is no more current right that guy equals to zero.
+
+01:56.750 --> 02:02.550
+So that means you have to have a voltage drop across the capacitor and thats it.
+
+02:02.570 --> 02:07.100
+The voltage across the capacitor at the end has to be equal to six volts.
+
+02:07.100 --> 02:11.000
+It has to be equal to the voltage across the power supply.
+
+02:11.600 --> 02:15.110
+So the correct answer for this one is Choice number seven and thats six volts.

@@ -1,0 +1,967 @@
+1
+00:00:18,110 --> 00:00:23,540
+All right, let's continue on our journey and running through different examples in relativistic mechanics,
+
+2
+00:00:23,750 --> 00:00:28,760
+so you can get used to trying to take all the puzzle pieces or tools we've put together in this course,
+
+3
+00:00:29,090 --> 00:00:35,090
+slapping together to see the big picture and solve problems and do different kind of analysis.
+
+4
+00:00:35,120 --> 00:00:43,310
+OK, now the problem which we're going to work on today in this video is that of a lambda particle.
+
+5
+00:00:43,310 --> 00:00:48,620
+Now what you're going to learn in maybe quantum mechanics or a particle physics course is that this
+
+6
+00:00:48,620 --> 00:00:52,490
+particle known as a land, a particle, it's a subatomic particle.
+
+7
+00:00:52,700 --> 00:01:02,060
+Sometimes it's going to spontaneously decay into two other subatomic particles a proton and a pion.
+
+8
+00:01:02,420 --> 00:01:06,530
+If the name is confusing, if you haven't seen this before, don't worry about that.
+
+9
+00:01:08,180 --> 00:01:12,650
+This sort of trying to emulate a real life situation, so there's some context behind it.
+
+10
+00:01:12,650 --> 00:01:15,420
+But if you don't get what's going on here, that's fine.
+
+11
+00:01:15,420 --> 00:01:16,300
+That's not the main inside.
+
+12
+00:01:16,340 --> 00:01:22,520
+This example, which to focus on are the parameters that are provided, such as the momentum, the mass,
+
+13
+00:01:22,700 --> 00:01:24,320
+so on and so forth.
+
+14
+00:01:24,530 --> 00:01:24,980
+OK.
+
+15
+00:01:25,130 --> 00:01:31,130
+So in this problem, states allow the particle is a subatomic particle, which can sometimes spontaneously
+
+16
+00:01:31,130 --> 00:01:37,460
+decay into a proton and a negatively charged pion, as depicted below.
+
+17
+00:01:38,270 --> 00:01:44,010
+The problem states that if the momentum of the outgoing particles in the same direction, so the traveling
+
+18
+00:01:44,010 --> 00:01:53,270
+in the same direction after decays are measured to be 581 mega electron volts over C and 256 mega electron
+
+19
+00:01:53,270 --> 00:01:55,270
+volts, or C proton.
+
+20
+00:01:55,420 --> 00:01:59,630
+The Pi on respectively determined the mess of the lambda particle.
+
+21
+00:02:00,410 --> 00:02:07,940
+Now this kind of problem is pretty cool because in a real life situation, it's pretty easy to measure
+
+22
+00:02:07,940 --> 00:02:12,170
+the momentum of particles flying through different apparatuses.
+
+23
+00:02:12,470 --> 00:02:12,710
+Right?
+
+24
+00:02:12,860 --> 00:02:20,630
+For example, if we had a magnetic field that was going into the board as such, and I'm just providing
+
+25
+00:02:20,630 --> 00:02:26,240
+some context and cool context to the problem before we actually run through it, what we would find
+
+26
+00:02:26,240 --> 00:02:28,430
+is that these guys driving in this direction.
+
+27
+00:02:28,760 --> 00:02:30,590
+Remember what I said about the Reds force?
+
+28
+00:02:30,800 --> 00:02:37,460
+We had a force equal to Q V Cross B as such.
+
+29
+00:02:38,330 --> 00:02:41,450
+So the R A V crossed B, right?
+
+30
+00:02:41,900 --> 00:02:49,010
+We're going to get a vector if it goes up or down, depending on whether goes into the board or it comes
+
+31
+00:02:49,010 --> 00:02:49,880
+out OK.
+
+32
+00:02:50,000 --> 00:02:54,020
+So as a result of that, we're going to get some force that one, this is moving.
+
+33
+00:02:54,410 --> 00:02:55,760
+It wants to push it up.
+
+34
+00:02:56,060 --> 00:02:59,450
+And what's going to happen is the particle is going to curve.
+
+35
+00:02:59,630 --> 00:03:00,920
+You're going to get some curvature.
+
+36
+00:03:01,670 --> 00:03:05,990
+What you can do, you can measure the radius of that curvature.
+
+37
+00:03:06,410 --> 00:03:11,690
+And there are different parameters, different equations you can derive to figure out how you can link
+
+38
+00:03:11,720 --> 00:03:12,410
+all these guys.
+
+39
+00:03:12,410 --> 00:03:19,700
+But using that, you can figure out pretty precisely the velocity here and that can tell you the momentum
+
+40
+00:03:19,940 --> 00:03:21,410
+pretty easily, OK?
+
+41
+00:03:23,170 --> 00:03:23,830
+So.
+
+42
+00:03:25,760 --> 00:03:33,290
+In a real life situation, you can use everything we're going to do in this problem to actually determine
+
+43
+00:03:33,290 --> 00:03:40,010
+and measure the mass of a particle that decays or some initial particle very accurately.
+
+44
+00:03:40,010 --> 00:03:42,470
+So this kind of problem is very practical.
+
+45
+00:03:42,650 --> 00:03:48,890
+It gives you an opportunity to practice special relativity, but it's also something you could employ
+
+46
+00:03:49,010 --> 00:03:50,270
+in a real life situation.
+
+47
+00:03:50,400 --> 00:03:55,760
+OK, so you know, all these problems, and I consider this sort of like the first challenging, somewhat
+
+48
+00:03:55,760 --> 00:03:58,550
+challenging problem we've ran through example problem.
+
+49
+00:03:58,910 --> 00:04:02,000
+What you want to do is you want to take all the promise.
+
+50
+00:04:02,000 --> 00:04:06,200
+You're given all the puzzle pieces and collect them and document them.
+
+51
+00:04:06,230 --> 00:04:06,470
+Right.
+
+52
+00:04:06,660 --> 00:04:10,550
+So these problems sometimes become a problem of accounting.
+
+53
+00:04:10,820 --> 00:04:15,620
+OK, so what I like to do is when I wrote up my problem statements, I only got a column where I have
+
+54
+00:04:15,620 --> 00:04:16,670
+given parameters.
+
+55
+00:04:17,650 --> 00:04:20,500
+I'm going to use this as such, and I write down literally what I had.
+
+56
+00:04:20,770 --> 00:04:28,210
+We were given the momentum of the proton and the pion as such and what we can do or what you will be
+
+57
+00:04:28,210 --> 00:04:33,940
+doing and a lot of special relativity problems is you will be looking at the masses, all the different
+
+58
+00:04:33,940 --> 00:04:39,970
+particles that are associated in this problem and that is usually your first step in your giving.
+
+59
+00:04:40,300 --> 00:04:42,820
+So you would want to look up the proton.
+
+60
+00:04:43,030 --> 00:04:43,750
+You can look up.
+
+61
+00:04:43,900 --> 00:04:44,530
+It's nice.
+
+62
+00:04:44,530 --> 00:04:51,460
+It's 938 megawatt, Turnbull's prestige squared, and you could also look up the pylon in a particle
+
+63
+00:04:51,460 --> 00:04:52,120
+physics book.
+
+64
+00:04:52,300 --> 00:04:55,600
+Or you can use Google to look it up pretty quickly.
+
+65
+00:04:55,600 --> 00:04:58,750
+So the mass of a pion, if you did that, you fine.
+
+66
+00:04:58,750 --> 00:05:03,730
+It's 140 mega electron volts overseas, where if you want to pause this video and try and confirm this.
+
+67
+00:05:03,940 --> 00:05:07,150
+See if you can find that it should be pretty close.
+
+68
+00:05:07,160 --> 00:05:13,180
+You might have small discrepancies based upon your source and the level of accuracy associated with
+
+69
+00:05:13,180 --> 00:05:15,220
+that measurement, but you should be able to look.
+
+70
+00:05:15,220 --> 00:05:17,890
+These are pretty easy to get used to doing that.
+
+71
+00:05:18,400 --> 00:05:23,590
+Be comfortable looking up the mess of different particles when you're doing special relativity problems.
+
+72
+00:05:23,620 --> 00:05:27,400
+OK, so next what you want to do is you have all the puzzle pieces laid out.
+
+73
+00:05:27,700 --> 00:05:29,650
+Now you want to see, OK, are they compatible?
+
+74
+00:05:29,800 --> 00:05:32,560
+How can they fit together with the tools I have?
+
+75
+00:05:33,340 --> 00:05:35,290
+I'll be providing you with the equation sheet.
+
+76
+00:05:35,980 --> 00:05:37,540
+You should use an equation sheet.
+
+77
+00:05:38,870 --> 00:05:44,210
+So, you know, you say, Oh, I got these variables, how can I fit them in with my different tools
+
+78
+00:05:44,690 --> 00:05:47,000
+to paint a picture of what's going on here?
+
+79
+00:05:47,360 --> 00:05:50,080
+And if you do that, you'll say, OK, I have the momentum.
+
+80
+00:05:50,450 --> 00:05:51,230
+I have mass.
+
+81
+00:05:51,620 --> 00:05:58,550
+Well, if I take our energy momentum relationship that we derive previously, I can determine the total
+
+82
+00:05:58,550 --> 00:06:06,140
+energy because in this recipe for a puzzle, right, we have this puzzle piece with the the momentum
+
+83
+00:06:06,860 --> 00:06:09,110
+we have the rest energy with mass.
+
+84
+00:06:09,350 --> 00:06:11,150
+The only unknown is the energy.
+
+85
+00:06:11,360 --> 00:06:17,300
+So I could use this plug and shock to figure out the energy of both particles at the end.
+
+86
+00:06:17,990 --> 00:06:22,460
+OK, and then maybe I can use conservation of energy, but let's focus on this initial part.
+
+87
+00:06:22,730 --> 00:06:24,680
+OK, so we could take this guy.
+
+88
+00:06:24,890 --> 00:06:29,990
+And again, as I said, we know PC and M.S. Square the rest of energy for both particles.
+
+89
+00:06:30,800 --> 00:06:33,500
+What we can do is you take a square root on both sides.
+
+90
+00:06:33,740 --> 00:06:35,570
+We end up with this guy right here.
+
+91
+00:06:35,930 --> 00:06:38,780
+All we need to do is just plug and chug.
+
+92
+00:06:38,870 --> 00:06:39,230
+All right.
+
+93
+00:06:39,440 --> 00:06:42,950
+So we do it for both particles to figure out the total energy of both these guys.
+
+94
+00:06:43,400 --> 00:06:47,510
+And what we find is that the proton, right?
+
+95
+00:06:47,600 --> 00:06:52,250
+We plug in PPC and PC squared into the equation.
+
+96
+00:06:52,460 --> 00:06:56,180
+We got 581 for the momentum.
+
+97
+00:06:56,270 --> 00:07:01,430
+And again, this shows the analytical efficiency associated with the units we're using here because
+
+98
+00:07:01,580 --> 00:07:03,950
+again, PC, the C cancels out.
+
+99
+00:07:04,400 --> 00:07:05,480
+We kick that guy out.
+
+100
+00:07:05,570 --> 00:07:08,560
+We get the energy term thoroughly for the mass.
+
+101
+00:07:08,600 --> 00:07:13,820
+The rest energy 938 mega electron volts per squared band kicked out C squared out.
+
+102
+00:07:14,270 --> 00:07:15,530
+We got the energy right there.
+
+103
+00:07:15,770 --> 00:07:18,560
+So we take this expression, we evaluate it.
+
+104
+00:07:18,980 --> 00:07:25,730
+And the result we end up with the total energy is 11 03 mega electron volts for that proton.
+
+105
+00:07:25,940 --> 00:07:26,390
+OK.
+
+106
+00:07:26,510 --> 00:07:32,150
+From a negatively charged PI on what we end up with, we do the same exact exercise.
+
+107
+00:07:32,330 --> 00:07:33,560
+We have this equation here.
+
+108
+00:07:33,710 --> 00:07:35,810
+We plug in should plug in those parameters.
+
+109
+00:07:36,290 --> 00:07:39,140
+We take the momentum of the power and that's the pion.
+
+110
+00:07:39,470 --> 00:07:40,340
+Put these guys in.
+
+111
+00:07:40,490 --> 00:07:44,360
+We kick off their C or C squared terms and we end up with the following.
+
+112
+00:07:44,360 --> 00:07:52,460
+So this guy becomes 256 mega electron volts squared and then this guy becomes 140 mega electron volts
+
+113
+00:07:52,460 --> 00:07:52,910
+squared.
+
+114
+00:07:53,480 --> 00:07:54,520
+We add them together.
+
+115
+00:07:54,530 --> 00:07:56,420
+Take the square root bam.
+
+116
+00:07:56,570 --> 00:08:03,680
+We figure out that the PI on has a total energy of two hundred and ninety two mega electron volts.
+
+117
+00:08:03,920 --> 00:08:09,800
+Now we want to take a pause and say, OK, we know the energy, we know the momentum, we know the mass
+
+118
+00:08:09,800 --> 00:08:10,880
+of the products.
+
+119
+00:08:11,840 --> 00:08:17,870
+How do we figure out the mass of the parent particle, the lambda particle?
+
+120
+00:08:18,080 --> 00:08:19,130
+How do we do that?
+
+121
+00:08:19,400 --> 00:08:21,440
+Well, what we can do is we can say what?
+
+122
+00:08:21,440 --> 00:08:22,800
+What kind of tools do we have?
+
+123
+00:08:22,820 --> 00:08:28,820
+Well, we know from conservation of energy that the initial energy must be equal to the final energy
+
+124
+00:08:28,820 --> 00:08:32,570
+because we cannot really create nor destroy energy, right?
+
+125
+00:08:32,990 --> 00:08:37,130
+We may convert between different types, but we cannot create or destroy it.
+
+126
+00:08:37,130 --> 00:08:42,500
+So we would expect that if we took conservation of energy, we know the end products right here.
+
+127
+00:08:42,650 --> 00:08:48,690
+We could figure out the initial product of Lambda Guy, and that's the approach we want to take.
+
+128
+00:08:48,710 --> 00:08:51,320
+OK, so we could figure out energy.
+
+129
+00:08:51,620 --> 00:08:52,280
+Let's do that.
+
+130
+00:08:52,670 --> 00:08:53,000
+All right.
+
+131
+00:08:53,270 --> 00:08:56,210
+The initial energy must equal the final energy.
+
+132
+00:08:57,290 --> 00:09:02,510
+And we know that initially we had the energy of the land, the particle that decays, and then we get
+
+133
+00:09:02,510 --> 00:09:03,290
+these guys right.
+
+134
+00:09:03,590 --> 00:09:11,270
+So initially we had the land particle and that has to be converted into the energy of a proton and the
+
+135
+00:09:11,270 --> 00:09:12,110
+energy of the plant.
+
+136
+00:09:12,140 --> 00:09:16,970
+Again, this is going to the rest, the energy and the kinetic energy of this guy.
+
+137
+00:09:17,570 --> 00:09:23,630
+And we know from previous studies that if this guy was at rest, some of the best inside of it would
+
+138
+00:09:23,630 --> 00:09:26,720
+have to be converted to kinetic energy.
+
+139
+00:09:26,900 --> 00:09:28,730
+It would have to be utilized, right?
+
+140
+00:09:29,030 --> 00:09:30,080
+We saw that previously.
+
+141
+00:09:30,290 --> 00:09:37,510
+And that's why conservation of mass tenant hold, we see that full force right here in this equation.
+
+142
+00:09:37,590 --> 00:09:40,430
+OK, so we got this guy.
+
+143
+00:09:40,430 --> 00:09:46,730
+We can determine the energy of this initially by literally adding the two to energy as we determine
+
+144
+00:09:47,060 --> 00:09:47,390
+so.
+
+145
+00:09:48,710 --> 00:09:53,410
+The energy, the proton from the energy and pylon, we plugged them straight in 11 or three million
+
+146
+00:09:53,420 --> 00:09:57,710
+electron volts, plus 292 mega electron volts band.
+
+147
+00:09:58,010 --> 00:10:03,860
+We got the total energy of our initial system of that lambda particle, which is thirteen ninety five
+
+148
+00:10:03,980 --> 00:10:05,660
+mega electron volts.
+
+149
+00:10:05,870 --> 00:10:10,290
+Now the next thing you must be thinking, OK, we want to find the mass.
+
+150
+00:10:10,310 --> 00:10:12,260
+This guy pretty accurately.
+
+151
+00:10:12,350 --> 00:10:16,670
+And that's sort of the intent of an experiment of this nature where we have these different parameters
+
+152
+00:10:16,880 --> 00:10:17,780
+that we're measured.
+
+153
+00:10:18,230 --> 00:10:19,270
+What in the world do we do?
+
+154
+00:10:19,280 --> 00:10:20,240
+What what do we do?
+
+155
+00:10:20,840 --> 00:10:21,740
+I have the energy.
+
+156
+00:10:21,770 --> 00:10:22,820
+How can I get the mass?
+
+157
+00:10:22,850 --> 00:10:27,350
+Well, this is the total energy, so I can't really use the rest energy.
+
+158
+00:10:28,160 --> 00:10:29,390
+I would need the kinetic energy.
+
+159
+00:10:29,390 --> 00:10:31,000
+But what do I know?
+
+160
+00:10:31,010 --> 00:10:31,640
+I know.
+
+161
+00:10:33,410 --> 00:10:38,990
+The momentum of this guy in the mantle of this guy, and I know that I have another puzzle piece our
+
+162
+00:10:38,990 --> 00:10:44,090
+conservation law conservation momentum that says that momentum is conserved.
+
+163
+00:10:44,570 --> 00:10:50,540
+So the initial momentum of this guy must equal the final momentum of these two guys.
+
+164
+00:10:50,900 --> 00:10:58,370
+And what we see, if we do that, we can say the initial item by item item of the land.
+
+165
+00:10:58,370 --> 00:11:04,490
+The particle must equal the momentum of the proton and the momentum of the PI on some together.
+
+166
+00:11:04,880 --> 00:11:06,080
+Now we plug in shot.
+
+167
+00:11:06,230 --> 00:11:15,140
+So for a proton, we literally get 581 mega electron volts of C, plus the pilot 256 mega lightning
+
+168
+00:11:15,140 --> 00:11:15,950
+bolts oversea.
+
+169
+00:11:16,670 --> 00:11:17,680
+Add them together.
+
+170
+00:11:17,690 --> 00:11:18,740
+Bam, what do you get?
+
+171
+00:11:19,090 --> 00:11:23,980
+Yeah, this guy right here we get 837 mega electron volts over.
+
+172
+00:11:23,990 --> 00:11:24,500
+See?
+
+173
+00:11:24,590 --> 00:11:28,580
+And at this point, we should have a a ha moment.
+
+174
+00:11:28,820 --> 00:11:29,120
+We got.
+
+175
+00:11:29,330 --> 00:11:30,110
+We got energy.
+
+176
+00:11:30,680 --> 00:11:31,490
+We got momentum.
+
+177
+00:11:31,500 --> 00:11:34,190
+What's the third term we usually have in a relationship?
+
+178
+00:11:34,490 --> 00:11:37,850
+Oh, bam, that's the mass that we're looking for.
+
+179
+00:11:38,120 --> 00:11:42,620
+So we pull this trick out of our rat hat and we employ it.
+
+180
+00:11:43,010 --> 00:11:45,860
+Or, in other words, using the different metaphor, a different analogy.
+
+181
+00:11:46,520 --> 00:11:51,050
+We take this puzzle piece, combine it with these puzzle pieces.
+
+182
+00:11:51,050 --> 00:11:57,350
+We just arrived and we're going to get the full picture that full final picture we want regarding the
+
+183
+00:11:57,350 --> 00:11:58,580
+mass of this particle.
+
+184
+00:11:58,580 --> 00:12:06,110
+So when we do that, we know that e squared off lambda must equal the momentum of time C squared off
+
+185
+00:12:06,110 --> 00:12:08,600
+lambda, plus the rest the energy of lambda squared.
+
+186
+00:12:08,960 --> 00:12:09,290
+OK.
+
+187
+00:12:09,560 --> 00:12:12,290
+So if we take this, we want to isolate the mass.
+
+188
+00:12:12,290 --> 00:12:17,720
+What we could do is we could say e squared minus PC squared is equal to end, not c squared.
+
+189
+00:12:17,720 --> 00:12:20,900
+And I sort of skipped some steps here due to the size of my board.
+
+190
+00:12:20,900 --> 00:12:23,300
+But you can see what we're doing here, literally.
+
+191
+00:12:23,480 --> 00:12:27,980
+Again, e squared minus PC squared, we take the square root of them.
+
+192
+00:12:28,010 --> 00:12:29,030
+That's where we got this.
+
+193
+00:12:29,600 --> 00:12:34,940
+Then we end up with the energy squares we have to divide by a c squared and that guy sort of comes along
+
+194
+00:12:34,940 --> 00:12:35,540
+for the ride.
+
+195
+00:12:35,810 --> 00:12:37,370
+We don't want to throw in the speed of light.
+
+196
+00:12:37,670 --> 00:12:40,250
+And again, this is what makes our units so useful.
+
+197
+00:12:40,490 --> 00:12:43,480
+So this is a very easy calculation.
+
+198
+00:12:43,490 --> 00:12:48,470
+Again, all we need to do is plug in the unknowns that we get the final result.
+
+199
+00:12:48,650 --> 00:12:52,430
+So we know the total energy that 395 mega electron volts.
+
+200
+00:12:52,760 --> 00:12:56,240
+Square that term and then subtract the momentum.
+
+201
+00:12:56,240 --> 00:12:56,780
+Turn right.
+
+202
+00:12:56,990 --> 00:13:04,340
+The CIA down here cancels out that the efficiency of our units, so we square that term and then track
+
+203
+00:13:04,340 --> 00:13:05,060
+it from this guy.
+
+204
+00:13:05,360 --> 00:13:10,100
+Take the square root and then on the outside, we divide by a C squared.
+
+205
+00:13:10,520 --> 00:13:16,070
+And the net effect is we have this nice, easy calculation which tells us precisely.
+
+206
+00:13:17,260 --> 00:13:17,830
+That's.
+
+207
+00:13:18,860 --> 00:13:28,040
+This guy, the mess is one thousand one hundred and sixteen mega electron volts per C squared.
+
+208
+00:13:28,070 --> 00:13:28,640
+So.
+
+209
+00:13:29,700 --> 00:13:36,390
+If whatever reason you determined an unknown particle without a previously calculated mass.
+
+210
+00:13:36,630 --> 00:13:41,280
+What you could do is, you know, you could get magnetic fields, you can measure the magnetic field.
+
+211
+00:13:42,360 --> 00:13:45,300
+You can have these guys flying through that magnetic field.
+
+212
+00:13:45,870 --> 00:13:54,900
+And then when it decays right, you can measure literally literally measure the velocity by taking or
+
+213
+00:13:54,900 --> 00:13:57,660
+rather tracking the trajectory of that particle.
+
+214
+00:13:57,900 --> 00:13:59,580
+Figuring out the radius.
+
+215
+00:14:00,740 --> 00:14:01,000
+Right.
+
+216
+00:14:02,020 --> 00:14:06,490
+You can figure out relativistic forces, you can use that Lawrence force.
+
+217
+00:14:07,300 --> 00:14:15,790
+And then you can backtrack the momentum and also the velocity and go through this little exercise here
+
+218
+00:14:16,240 --> 00:14:19,840
+to literally figure out with a very precise accuracy.
+
+219
+00:14:20,020 --> 00:14:23,770
+This will be tied to the way in which you measure that radius.
+
+220
+00:14:24,190 --> 00:14:30,010
+If you have a good measurement of that radius, you get a very accurate measurement of the mass of this
+
+221
+00:14:30,010 --> 00:14:30,460
+guy.
+
+222
+00:14:31,390 --> 00:14:40,240
+And that's something you could do in a particle accelerator, a benchtop experiment, even maybe in
+
+223
+00:14:40,240 --> 00:14:41,080
+CERN somewhere.
+
+224
+00:14:41,950 --> 00:14:48,520
+But this would be a very useful tool for experimentally determining the mass of some of these particles.
+
+225
+00:14:49,480 --> 00:14:54,910
+And it could also allow you to identify different problems if you didn't even know what this was previously,
+
+226
+00:14:55,240 --> 00:14:59,980
+how you could determine the mass and the pair that up with previously identified masses.
+
+227
+00:15:00,010 --> 00:15:09,160
+So, yes, this is an example of how you figure out how you would employ ideas and concepts and special
+
+228
+00:15:09,160 --> 00:15:10,930
+relativity, but it's practical.
+
+229
+00:15:11,080 --> 00:15:16,930
+You could use it to turn the mass in and experiment so you can add this to your bag of tricks.
+
+230
+00:15:17,710 --> 00:15:19,130
+Your bag of puzzle piece.
+
+231
+00:15:19,430 --> 00:15:19,750
+Right?
+
+232
+00:15:19,900 --> 00:15:25,900
+So that's special relativity of relativistic mechanics here at the two examples.
+
+233
+00:15:26,350 --> 00:15:32,680
+I love to show you how units really drove the analysis forward and how special relativity is really
+
+234
+00:15:33,160 --> 00:15:38,740
+trying to figure out how energy, momentum and rest energy come into play, how they can be related
+
+235
+00:15:39,400 --> 00:15:44,440
+and how it can use our conservation laws to pull out different parameters we're interested in.
+
+236
+00:15:45,100 --> 00:15:49,840
+And everything else is just literally bookkeeping and plugging and chugging.
+
+237
+00:15:49,930 --> 00:15:50,260
+All right.
+
+238
+00:15:50,500 --> 00:15:51,340
+I hope you enjoyed that.
+
+239
+00:15:51,340 --> 00:15:51,790
+VIDEO.
+
+240
+00:15:52,000 --> 00:15:57,760
+Next, we're going to take a look at something what's very interesting something known as a photon.
+
+241
+00:15:58,150 --> 00:16:03,250
+And we're going to figure out the energy of a massless particle.
+
+242
+00:16:03,880 --> 00:16:04,360
+Stay tuned.

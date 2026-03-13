@@ -1,0 +1,117 @@
+WEBVTT
+
+WEBVTT
+
+00:00.300 --> 00:03.410
+All right let's look at some conventional symbols over here.
+
+00:03.450 --> 00:08.280
+So voltage sources when we're going to look at circuits are not represented by those big batteries that
+
+00:08.280 --> 00:09.620
+I had on the previous one.
+
+00:09.640 --> 00:14.010
+And again they're usually represented just by these parallel lines that are of different lengths the
+
+00:14.010 --> 00:18.750
+longer length represents the positive terminal the negative for the shorter one represents the negative
+
+00:18.750 --> 00:21.190
+terminal in a circuit.
+
+00:21.210 --> 00:22.470
+Would kind of look like this.
+
+00:22.470 --> 00:26.190
+Sometimes you write the letter E sometimes you would just write the letter V next to it.
+
+00:26.190 --> 00:32.240
+And again that always represents the voltage the terminal voltage across across both ends.
+
+00:32.560 --> 00:35.180
+And this particular case there is no internal resistance.
+
+00:35.190 --> 00:40.240
+If there is an internal resistance you'll sometimes just add another resistance right next to it.
+
+00:40.590 --> 00:45.840
+And usually you give it a letter a little our resistor is everywhere in our circuits are going to be
+
+00:45.840 --> 00:51.390
+represented by these kind of Sawtooth here again.
+
+00:51.390 --> 00:54.720
+And usually you have some value of the resistance next to it.
+
+00:54.720 --> 01:01.170
+Now these are often connected by wires and in our circuits here wires are just lines.
+
+01:01.170 --> 01:05.210
+For example the segment that goes from 8 to B is just a wire.
+
+01:05.580 --> 01:12.030
+And for most of what we do unless the problem explicitly tells you to calculate it and most of what
+
+01:12.030 --> 01:18.350
+we do we will neglect any resistance of these wires that connect the batteries to the resistors.
+
+01:18.590 --> 01:19.080
+OK.
+
+01:19.380 --> 01:22.360
+So the wires let me just do something like this.
+
+01:23.530 --> 01:24.640
+Segment of wire
+
+01:28.130 --> 01:29.660
+usually no resistance.
+
+01:34.240 --> 01:34.450
+All right.
+
+01:34.450 --> 01:39.460
+The other thing that often shows up sometimes you have these lines like this it just represents a switch
+
+01:39.460 --> 01:43.360
+you'll see more of these switches later on when we talk about capacitors.
+
+01:43.360 --> 01:46.770
+But for now you still might see them sometimes in circuits.
+
+01:46.840 --> 01:51.550
+So clearly when it's open it means there is no current flowing through that segment of wire that includes
+
+01:51.550 --> 01:52.380
+the switch.
+
+01:52.480 --> 01:56.200
+And when you would close it well when you close it you could draw like this.
+
+01:56.200 --> 02:00.280
+And then you make an electrical connection and now current is free to go by.
+
+02:00.280 --> 02:05.770
+So what it's like in this position here is open again no current can flow through there.
+
+02:07.150 --> 02:09.750
+And it's basically no current can flow through that segment.
+
+02:09.760 --> 02:15.310
+If there's a switch only in one part of a circuit then it could be you might have current flowing in
+
+02:15.310 --> 02:16.140
+a different part.
+
+02:16.330 --> 02:23.120
+And when it's closed in this position current flow yes the current
+
+02:26.420 --> 02:32.150
+an open circuit like this basically represents a case where the resistance between this point and that
+
+02:32.150 --> 02:33.680
+point is basically infinite.
+
+02:33.680 --> 02:38.910
+And if we have an infinite resistance as we saw from Ohm's law there is no current flowing through it.

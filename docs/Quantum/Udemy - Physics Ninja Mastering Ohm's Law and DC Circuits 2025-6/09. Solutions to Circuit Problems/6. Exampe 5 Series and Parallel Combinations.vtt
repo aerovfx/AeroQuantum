@@ -1,0 +1,573 @@
+WEBVTT
+
+WEBVTT
+
+00:00.750 --> 00:04.910
+All right here's our first problem here that kind of involves a whole series of questions related to
+
+00:05.010 --> 00:09.840
+kind of a full circuit which involves parallel and series combinations.
+
+00:09.840 --> 00:13.250
+So the first question is well first it says that the switch one is open.
+
+00:13.290 --> 00:18.360
+So there's going to be no current up here and then switch to is close so let me go ahead and draw wire
+
+00:18.360 --> 00:20.830
+here that connects both of those.
+
+00:20.860 --> 00:21.260
+OK.
+
+00:21.390 --> 00:24.490
+First thing is what is the equivalent resistance of this circuit.
+
+00:24.660 --> 00:29.550
+Well the first thing we're going to do is first we're going to combine both of those are there in parallel
+
+00:29.550 --> 00:30.880
+with each other.
+
+00:31.530 --> 00:33.780
+If I combine both of those.
+
+00:34.200 --> 00:35.810
+Maybe you just write it up over here.
+
+00:36.030 --> 00:38.980
+I'm just going to use my trick because there's only two of them.
+
+00:39.150 --> 00:43.690
+And all you have to do for that is you multiply them and you divide it by the sum.
+
+00:44.010 --> 00:52.140
+And what you find over here again 18 goes into six three times and 12 goes and three four times.
+
+00:52.290 --> 00:59.840
+We have basically an equivalent resistance here of four ohms that's everything here in the orange box.
+
+00:59.850 --> 01:04.980
+Now the other thing we need is we need to combine this four ohm resistor with a two old resistor and
+
+01:04.980 --> 01:07.270
+those are in series with each other.
+
+01:07.590 --> 01:15.770
+So our total is the equivalent to simply two plus four which gives me six ohms.
+
+01:16.240 --> 01:16.550
+OK.
+
+01:16.560 --> 01:21.660
+What's the current Now in this MF effort through the earmuffs source again what we've done now is we
+
+01:21.660 --> 01:24.190
+simply simplify this circuit over here.
+
+01:26.510 --> 01:27.790
+Into something like this.
+
+01:27.830 --> 01:33.950
+This is still an 18 volt power supply and this is my equivalent what I've called our total here which
+
+01:33.950 --> 01:35.270
+is 6 ohms.
+
+01:35.660 --> 01:43.310
+So automatically you can write down ohms law for this simple circuit in the current simply 18 over 6
+
+01:43.310 --> 01:45.770
+which should give me 3 amps.
+
+01:45.770 --> 01:51.770
+So that means you have 3 amps over here you have three amps over in this section you have three amps
+
+01:51.770 --> 01:54.310
+flowing through this tube and resistor.
+
+01:55.080 --> 01:56.620
+OK so we've got both of those.
+
+01:56.630 --> 01:59.550
+What's the potential drop now across each resistor.
+
+01:59.870 --> 02:03.290
+Well that's basically just applying ohms law to each resistor.
+
+02:03.290 --> 02:03.930
+Right.
+
+02:03.950 --> 02:09.320
+So for Part C we can do that immediately for this to ohm resistor because the potential drop across
+
+02:09.320 --> 02:15.340
+the resistor is simply going to be the value of the resistance times the current which is two times
+
+02:15.500 --> 02:20.300
+it's going ahead of myself two times three three was the current flowing through it.
+
+02:20.360 --> 02:21.850
+That gives me six volts.
+
+02:22.070 --> 02:26.200
+So there's six volts between this point and that point.
+
+02:26.210 --> 02:28.420
+Now what about both of those.
+
+02:28.610 --> 02:33.290
+Now since these are in parallel we should know that the voltage across both of those have to be the
+
+02:33.290 --> 02:35.110
+same.
+
+02:35.140 --> 02:37.220
+So how do we get the value.
+
+02:37.390 --> 02:42.340
+Well again now if you look at this branch over on the left hand side if I could look at between this
+
+02:42.340 --> 02:48.730
+point and this point and I compare that to what's going on between this point and that point we basically
+
+02:48.730 --> 02:51.990
+have two branches here that are in parallel with each other.
+
+02:52.420 --> 02:57.850
+And one day we should know about that is that the voltage across both of those branches have to be the
+
+02:57.850 --> 03:00.060
+same OK.
+
+03:00.500 --> 03:05.270
+So let's just find with the voltages across both of these points.
+
+03:05.540 --> 03:11.000
+Well if we start down here at the bottom what do we do we first gain 18 when we crossed the battery
+
+03:11.000 --> 03:11.960
+and then what happens.
+
+03:11.990 --> 03:15.470
+We just said there's a voltage drop now of six volts.
+
+03:15.830 --> 03:22.140
+So the voltage difference between points A and Point B has to be 12 volts.
+
+03:22.550 --> 03:27.770
+And that also must be the voltage difference between Point C and point D.
+
+03:28.130 --> 03:30.720
+That just comes from the loop rule.
+
+03:31.100 --> 03:32.470
+So the voltage difference
+
+03:36.530 --> 03:37.590
+just call it.
+
+03:37.730 --> 03:39.120
+I don't know which we should call here.
+
+03:40.730 --> 03:42.590
+Again let's just apply the loop rule here.
+
+03:42.590 --> 03:44.240
+So what we would get is 18.
+
+03:44.520 --> 03:47.520
+Then we get minus 6 when we go across that resistor.
+
+03:47.910 --> 03:50.540
+And then that there has to be equal to VB.
+
+03:50.930 --> 03:54.960
+So you see that VB right away I can write the VB.
+
+03:55.000 --> 03:58.950
+Mine is V-A has to be equal to 12 volts.
+
+03:59.300 --> 04:06.320
+So that means that you have to have 12 volts across both of those across points C and point the point
+
+04:06.320 --> 04:09.400
+C is at a higher voltage than point D.
+
+04:09.410 --> 04:16.380
+So this here must also equal divisi mine VD must also be equal to 12 volts.
+
+04:16.430 --> 04:16.860
+OK.
+
+04:17.030 --> 04:18.810
+Here you gain 12 volts.
+
+04:18.860 --> 04:21.040
+Here you go down 12 volts.
+
+04:21.050 --> 04:21.470
+OK.
+
+04:21.590 --> 04:25.570
+Because the sum has to be equal to zero Appian.
+
+04:25.850 --> 04:26.540
+So what does that mean.
+
+04:26.540 --> 04:27.810
+So let's just write it all out then.
+
+04:27.830 --> 04:34.580
+I mean that the voltage is now across this 12 Olmer this there has to be 12 volts and it's also the
+
+04:34.580 --> 04:38.090
+voltage across the six ohm resistor.
+
+04:38.120 --> 04:39.670
+All right that's question see.
+
+04:39.680 --> 04:41.680
+Now what is the current through each resistor.
+
+04:41.720 --> 04:46.130
+We already know the current through the tube resistor that has to be 3 amps.
+
+04:46.130 --> 04:51.530
+How do you now get the current here across the 12 ohm and across the 6 ohm.
+
+04:52.130 --> 04:53.390
+Call that question D.
+
+04:53.550 --> 04:59.930
+Well if you automatically know what the voltage is we just said it's 12 volts across each one you can
+
+04:59.930 --> 05:04.270
+automatically just apply ohms law and find what is the current through each one.
+
+05:04.280 --> 05:11.570
+So for the 12 ohm resistor we have basically 12 equals to the value of the resistance times the current
+
+05:11.570 --> 05:13.670
+flowing through the 12 alarm resistor.
+
+05:14.180 --> 05:19.840
+So the current flowing through the 12 ohm resistor has to be one what else.
+
+05:20.140 --> 05:23.130
+Well we can also write a student a different color here.
+
+05:23.180 --> 05:27.450
+We also write that the voltage across the six ohm resistor is also 12.
+
+05:27.800 --> 05:33.050
+That must be equal to the value of the resistance multiplied by the current flowing through the 6 ohm
+
+05:33.050 --> 05:34.080
+resistor.
+
+05:34.790 --> 05:40.160
+So the current flowing through the six ohm resistor has to be equal to 12 over 6 which gives me two
+
+05:40.160 --> 05:41.830
+amps.
+
+05:41.900 --> 05:46.700
+You could have also used a junction rule over here because you know you have three going in you're going
+
+05:46.700 --> 05:50.270
+to have one going on this side you're going to have two going on this side.
+
+05:50.270 --> 05:53.120
+They have to sum up whatever current flows into the junction.
+
+05:53.120 --> 05:56.520
+Must be the current flowing out of the junction.
+
+05:56.540 --> 05:57.110
+All right good.
+
+05:57.110 --> 05:58.860
+We've got the first four parts going.
+
+05:58.880 --> 06:01.230
+Now let's switch it up a little bit.
+
+06:01.250 --> 06:01.550
+All right.
+
+06:01.550 --> 06:03.120
+For part e and f.
+
+06:03.120 --> 06:07.150
+Now it's going to switch the current a little bit or switch the circuit rather.
+
+06:07.340 --> 06:12.530
+So let me go ahead and just kind of make some room over here maybe remove some of these parts.
+
+06:12.530 --> 06:16.450
+The nice thing about the videos is you can always go back in to see what I did before.
+
+06:16.680 --> 06:17.020
+OK.
+
+06:17.030 --> 06:19.040
+I think this should give me enough space.
+
+06:19.100 --> 06:22.010
+So now we say that switch one is now closed.
+
+06:22.010 --> 06:25.340
+Let me go ahead and close this.
+
+06:25.490 --> 06:25.780
+All right.
+
+06:25.780 --> 06:29.580
+What is going to be the current now through this two ohm resistor.
+
+06:29.630 --> 06:32.470
+When the switch was open we said there was three amps.
+
+06:32.690 --> 06:35.240
+What happens now that it's closed.
+
+06:35.930 --> 06:39.470
+Well you can imagine over here let's kind of redraw what's going on over here.
+
+06:39.470 --> 06:49.380
+So we've got our resistor 2 ohm resistor and now there's another path.
+
+06:49.450 --> 06:51.660
+So we kind of have something like this.
+
+06:51.700 --> 06:55.030
+So what would happen now if you have two Ohmes.
+
+06:55.440 --> 07:00.750
+But now the current whatever current is going to enter over here it now has a choice.
+
+07:01.260 --> 07:07.590
+Is it going to go through the path on the kind of along this path or is it mainly going to go through
+
+07:07.590 --> 07:13.160
+the tools resistor while the two ohm resistor offers some resistance.
+
+07:13.170 --> 07:16.060
+What about this path over here on the right hand side.
+
+07:16.110 --> 07:21.570
+It offers no resistance and whenever that happens basically all the currents are going to decide to
+
+07:21.570 --> 07:22.930
+go along this path.
+
+07:23.070 --> 07:27.920
+And none of the currents going to decide to go through this two ohm resistor.
+
+07:28.000 --> 07:30.590
+Now if you want to kind of show why that is.
+
+07:30.750 --> 07:39.020
+Again if you look at the right basically we have two past that are in parallel with each other and if
+
+07:39.020 --> 07:44.420
+two paths are in parallel with each other the voltage across has to be the same regardless of the path
+
+07:44.420 --> 07:46.070
+that you take.
+
+07:46.070 --> 07:54.290
+So the voltage across these two ohm resistor is simply the value of the resistance multiplied by the
+
+07:54.290 --> 07:56.940
+current flowing through the tumor's asthore.
+
+07:56.990 --> 07:59.170
+That has to be equal to the voltage.
+
+07:59.180 --> 08:03.570
+If I go across this side the right hand side.
+
+08:03.920 --> 08:06.530
+So what's the voltage between this point over here.
+
+08:06.530 --> 08:15.380
+Call it point and point B if I'm going just along the wire against these wires are basically ideal conductors
+
+08:15.380 --> 08:15.830
+right.
+
+08:15.830 --> 08:21.470
+That's how we've simplified circuits when we've drawn them out and if they're ideal conductors they
+
+08:21.470 --> 08:24.490
+basically don't have any resistance whatsoever.
+
+08:24.830 --> 08:30.620
+So the voltage drop across something that doesn't have a resistance is zero.
+
+08:31.550 --> 08:38.110
+And the only way you can have that now is if the voltage drop across this two ohm resistor is also zero.
+
+08:38.300 --> 08:43.680
+And the only way you can have that is if you have zero because you have the resistance is two.
+
+08:43.970 --> 08:46.850
+So the current must be zero.
+
+08:47.060 --> 08:51.530
+This is basically creating a short so all the currents basically are going to go through here because
+
+08:51.920 --> 08:57.070
+it's the path of least resistance OK so that one's kind of a trick.
+
+08:57.080 --> 09:01.930
+But make sure you understand why that is are in the last part is question.
+
+09:01.940 --> 09:08.030
+AF So now we're going to open switch to switch one is going to remain closed.
+
+09:08.360 --> 09:11.440
+So let's go ahead and clean this up a little bit.
+
+09:11.710 --> 09:16.470
+So do this clean up the diagram an open switch too.
+
+09:16.550 --> 09:16.820
+OK.
+
+09:16.820 --> 09:21.130
+So this is what we have now is not the three amps anymore you got to be careful with this.
+
+09:21.300 --> 09:21.550
+OK.
+
+09:21.560 --> 09:23.160
+But we have something like that.
+
+09:24.380 --> 09:32.390
+All right so a switch is opened find the potential drop now across the six ohm resistor and across the
+
+09:32.390 --> 09:34.350
+switch.
+
+09:34.640 --> 09:40.750
+So what is the potential drop now across the 6 ohm resistor and also across the switch.
+
+09:41.300 --> 09:49.880
+Well again if this is OPEN basically the resistance here right there should not be any current flowing
+
+09:49.880 --> 09:51.600
+through that other branch.
+
+09:51.650 --> 09:54.350
+Basically all the currents going to go through the battery.
+
+09:54.410 --> 10:00.050
+It's going to go where the switch S1 was going to go down here and it has a path to go through the 12
+
+10:00.050 --> 10:02.660
+ohm resistor and then go back.
+
+10:03.170 --> 10:06.950
+So there is no more current because this is basically an infinite resistance.
+
+10:06.950 --> 10:11.840
+If I open it up if you have infinite resistance I don't care what the voltages you're going to get.
+
+10:11.840 --> 10:12.700
+Zero current.
+
+10:12.860 --> 10:18.260
+So this current here is going to be zero which means now that the potential drop across the six ohm
+
+10:18.260 --> 10:19.090
+resistor.
+
+10:19.350 --> 10:23.410
+Well the value of the resistance multiplied by the current going through it.
+
+10:23.420 --> 10:27.610
+This here has to be zero volts OK.
+
+10:27.780 --> 10:33.290
+So now the next part is what is the voltage across the switch.
+
+10:33.450 --> 10:41.580
+If you took a volt meter and you put one in here one end over here which value would I measure.
+
+10:41.580 --> 10:44.270
+So in order to find out well you kind of have to do a loop.
+
+10:44.460 --> 10:52.140
+So let's call this maybe point no which we call this let's call this maybe point C and let's call that
+
+10:52.140 --> 10:53.800
+point D.
+
+10:54.030 --> 10:55.930
+Let's find the voltage across.
+
+10:55.950 --> 11:01.880
+So that means you have to start at point D and then end up going all the way to the other point.
+
+11:02.040 --> 11:03.770
+We can't really go right across the gap.
+
+11:03.780 --> 11:06.840
+We can go somewhere else I can start over here at Point D.
+
+11:06.990 --> 11:08.200
+I can go around here.
+
+11:08.250 --> 11:10.880
+I can go around here go through the battery and end up that point.
+
+11:10.900 --> 11:13.100
+So that's what I'm going to do.
+
+11:13.100 --> 11:19.400
+So we're going to start at point D which I'm at some particular potential I go through the resistor.
+
+11:19.440 --> 11:22.300
+However we just said there is no current over here.
+
+11:22.470 --> 11:27.510
+If there's no current that I don't have to do anything with Kirchhoff's loop rule I'm going to go over
+
+11:27.510 --> 11:28.280
+here.
+
+11:28.680 --> 11:31.190
+I'm going to go over here again there's no current here.
+
+11:32.120 --> 11:34.760
+Flowing through that tumor's this is set off to do anything.
+
+11:35.000 --> 11:39.320
+Now I'm going across a battery and I'm going to go from the high potential to the lower potential.
+
+11:39.320 --> 11:46.650
+So I get a voltage drop of 18 and then I go all the way up to point C V c.
+
+11:46.790 --> 11:53.510
+So at the end the difference of potential between both of those sides is v D minus v c is going to be
+
+11:53.510 --> 11:55.020
+18 volts.
+
+11:55.610 --> 12:01.240
+So you use a volt meter you plug a volt meter in here kind of look in something like this.
+
+12:01.430 --> 12:04.970
+You're going to measure 18 volts OK.
+
+12:05.270 --> 12:08.800
+Kind of a tricky problem and I think both of these were a little bit tricky.
+
+12:08.800 --> 12:15.140
+I think the first four are more straightforward but you know make sure you understand the solution that
+
+12:15.130 --> 12:16.910
+I provided here.

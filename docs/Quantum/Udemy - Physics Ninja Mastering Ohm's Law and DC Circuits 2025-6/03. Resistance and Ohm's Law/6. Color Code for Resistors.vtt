@@ -1,0 +1,360 @@
+WEBVTT
+
+WEBVTT
+
+00:00.330 --> 00:06.270
+All right the electric circuits that we're going to see in a little bit are going to contain wires but
+
+00:06.270 --> 00:13.110
+they're also going to contain electrical components called resistors and resistors although every every
+
+00:13.110 --> 00:15.510
+wire has a particular resistance.
+
+00:15.510 --> 00:18.630
+The value of the resistors tend to be much higher.
+
+00:18.630 --> 00:23.940
+The wires themselves for example copper wire that's a meter long has an overall resistance that is very
+
+00:23.940 --> 00:25.170
+very small.
+
+00:25.170 --> 00:29.560
+We might want to put other types of resistors in our circuit.
+
+00:29.970 --> 00:35.400
+And which values are much bigger than the resistance of the actual wire that's connecting it to the
+
+00:35.400 --> 00:36.630
+battery.
+
+00:36.630 --> 00:42.330
+Some of these resistors if you're kind of a hobbyist in electronics a lot of the resistors kind of look
+
+00:42.810 --> 00:46.650
+like the one shown here in this diagram.
+
+00:46.650 --> 00:51.370
+One thing you notice is there are all these color codes on the various resistors.
+
+00:51.390 --> 00:56.190
+These are all different values are going to show you how to analyze these different color codes and
+
+00:56.190 --> 01:00.780
+how to come up with a value of the resistance of this particular resistor.
+
+01:01.050 --> 01:05.750
+And how do you calculate it measured in ohms at the end of the day.
+
+01:05.850 --> 01:10.650
+In some cases the actual value of the resistance is simply written right on it.
+
+01:10.670 --> 01:11.180
+OK.
+
+01:11.220 --> 01:15.960
+Actually you're right it would have been hard to see here but you see the ohms sign over here this one
+
+01:15.960 --> 01:21.100
+also this is a 4 ohm resistor and then it also lists some tolerance here.
+
+01:21.150 --> 01:26.850
+These are probably some ceramics but we want to be able to look at any type of kind of component if
+
+01:26.850 --> 01:33.360
+you look at electrical circuit board you might see some of these types of components on those boards
+
+01:33.360 --> 01:36.080
+and these are simply resistance values.
+
+01:36.330 --> 01:42.150
+So let's go ahead now and show you how to calculate what is the actual value of the resistance of a
+
+01:42.150 --> 01:43.940
+component like this.
+
+01:43.950 --> 01:49.530
+All right if I go now and look at some actual resistors you look back on the previous page you'll notice
+
+01:49.530 --> 01:52.290
+that some of them had four different colors.
+
+01:52.290 --> 01:56.180
+Some of them had five and some of them even have six.
+
+01:56.190 --> 02:00.840
+So the way you interpret these now all we need two things First we need to know which each one of these
+
+02:00.840 --> 02:01.570
+colors.
+
+02:01.650 --> 02:02.760
+What do they mean.
+
+02:02.760 --> 02:06.930
+And then we need to know which direction do we actually read do we start on the left side or the right
+
+02:06.930 --> 02:08.800
+side and how do we do that.
+
+02:08.850 --> 02:12.240
+So let's start with the direction that you would read any of these.
+
+02:12.560 --> 02:18.560
+Notice on one side that the bands are closer together and on one side then there's a larger gap.
+
+02:18.570 --> 02:22.920
+And then there's more space even for the six band and this is that the left hand side the bands are
+
+02:22.920 --> 02:24.060
+closer together.
+
+02:24.120 --> 02:29.280
+And as I move toward the right side of the resistor notice the bands are farther apart.
+
+02:29.280 --> 02:33.990
+So you always start with the side where the bands are closer together.
+
+02:33.990 --> 02:40.920
+So for all of these We're going to start on this side now if we're looking at a four band resistor and
+
+02:40.920 --> 02:42.870
+I want to calculate what the resistance is.
+
+02:42.870 --> 02:44.610
+It's very very simple.
+
+02:44.880 --> 02:50.240
+Some of the bands refer to the digits and the digits will show you what that means in a second image
+
+02:50.270 --> 02:51.510
+just kind of get rid of this.
+
+02:51.510 --> 02:52.080
+All right.
+
+02:52.240 --> 02:54.030
+So let's start with the four band receivers.
+
+02:54.030 --> 02:57.380
+I start at the first first one here on the left hand side it's red.
+
+02:57.720 --> 03:04.320
+So I follow the dashed line down each color represents a number for red over here.
+
+03:04.320 --> 03:05.400
+What do I get.
+
+03:05.490 --> 03:06.930
+It represents the number two.
+
+03:06.970 --> 03:09.130
+I write the number two over here.
+
+03:09.750 --> 03:13.080
+That's the first digit of the resistance.
+
+03:13.260 --> 03:15.340
+The next band now is a green.
+
+03:15.360 --> 03:17.110
+Go to the second digit.
+
+03:17.370 --> 03:20.970
+It represents the number five.
+
+03:21.240 --> 03:22.100
+The third.
+
+03:22.110 --> 03:27.420
+Now if I'm only looking at a 4 band the third band represents the multiplier.
+
+03:27.420 --> 03:31.700
+So it means it's a number that's going to multiply this 25.
+
+03:31.710 --> 03:33.120
+So in this case it's orange.
+
+03:33.120 --> 03:36.690
+So let's follow down the multiplier color scale is over here.
+
+03:37.260 --> 03:41.440
+And if it's orange it represents 1 k 1 k means 1000.
+
+03:41.520 --> 03:44.760
+So that's multiplied by 1000 and that's it.
+
+03:44.760 --> 03:48.100
+I'm actually with the first three bands if there's only four of them.
+
+03:48.210 --> 03:52.450
+That is the value of the resistance and that should be at times a thousand not a 100.
+
+03:52.500 --> 03:57.640
+So that means that this guy here is 25 Kila Ohmes.
+
+03:57.900 --> 04:01.730
+Now the fourth band here represents the tolerance.
+
+04:01.780 --> 04:06.660
+Now if you go to the tolerance color scale which is over here in this case it looks like it's more of
+
+04:06.660 --> 04:07.390
+a gold.
+
+04:07.560 --> 04:17.250
+So that tells me that plus or minus that's the uncertainty on the value of the resistance is 5 percent.
+
+04:17.280 --> 04:19.810
+So that gives you approximately 1250.
+
+04:19.830 --> 04:20.460
+Right.
+
+04:20.550 --> 04:28.760
+So the value of the resistance if you wanted to write it as 25000 homes plus or minus let's say while
+
+04:28.770 --> 04:30.770
+I may just write it all.
+
+04:31.020 --> 04:35.760
+Not to worry about the significant figures here I probably wouldn't write an uncertainty with this many
+
+04:35.760 --> 04:39.780
+significant figures but just to highlight how you would write data.
+
+04:40.440 --> 04:41.110
+Okay.
+
+04:41.310 --> 04:45.900
+So that's all there is if there's four band now if there's five bands you got to be a bit more careful.
+
+04:46.320 --> 04:52.050
+If there's five bands the first three of them actually refer to the digits.
+
+04:52.230 --> 04:58.020
+And then after that the fourth band of the five band color code represents the multiplier and the last
+
+04:58.020 --> 05:00.920
+one is a tolerance here or the fifth one.
+
+05:00.960 --> 05:05.890
+So let's go ahead and calculate what is the resistance of this five band resistor.
+
+05:06.270 --> 05:11.010
+Well the first one is yellow so the yellow first digit means it's four.
+
+05:11.750 --> 05:12.530
+It's easy.
+
+05:12.660 --> 05:13.950
+The second digit is a blue.
+
+05:13.950 --> 05:16.860
+So I go down here that's a 6.
+
+05:16.860 --> 05:17.970
+Now I got to be careful now.
+
+05:17.970 --> 05:23.850
+The third band because there's five of them the third band doesn't necessarily tell me the multiplier.
+
+05:23.880 --> 05:26.740
+It simply refers to the third digit.
+
+05:27.270 --> 05:30.130
+Since it's black that's the number 0.
+
+05:30.360 --> 05:36.270
+The fourth band now if it's a five band color code the fourth band represents the multiplier in this
+
+05:36.270 --> 05:38.620
+case it's orange so it's also a thousand.
+
+05:38.820 --> 05:40.900
+So that means it's also kill.
+
+05:42.980 --> 05:46.120
+It now well the last one represents the tolerance here.
+
+05:46.120 --> 05:51.870
+The tolerance is approximately this doesn't look like gold to me it looks more like brown it looks closer
+
+05:51.870 --> 05:53.500
+to plus or minus 1 percent.
+
+05:55.650 --> 05:59.510
+All right let's try to figure out what this last one is the 6 band color code.
+
+05:59.640 --> 06:06.480
+Now the six band refers to some temperature coefficient and I wouldn't be too concerned about that.
+
+06:06.570 --> 06:12.380
+Let's just calculate what the value of the resistance is based on the first five bands.
+
+06:12.870 --> 06:19.710
+So again we're going to have the first three are going to represent the digits the fourth one represents
+
+06:19.710 --> 06:25.110
+a multiplier and the fifth one will represent a tolerance.
+
+06:25.140 --> 06:33.360
+So when we write down for the 6 band one well first start at the red the red represents a two.
+
+06:33.740 --> 06:40.110
+What about the next one the next one looks like it's kind of like a purplish that looks like maybe seven
+
+06:40.160 --> 06:43.020
+Dimi seven.
+
+06:43.120 --> 06:47.880
+The next one is definitely blue so that's a six to 76.
+
+06:47.890 --> 06:49.650
+The fourth Bane is the multiplier.
+
+06:49.660 --> 06:50.650
+All look what we get here.
+
+06:50.650 --> 06:52.210
+Now it's black.
+
+06:52.210 --> 06:52.840
+What does that mean.
+
+06:52.840 --> 06:55.170
+The multiplier is simply one.
+
+06:55.660 --> 06:56.590
+Well that means I'm done.
+
+06:56.590 --> 06:59.940
+So that's 276 ohms.
+
+06:59.950 --> 07:06.220
+So you could see you can cover a lot of different values of the resistor simply by having these different
+
+07:06.220 --> 07:07.610
+color for the multiplier.
+
+07:07.620 --> 07:13.010
+So right now I mean having a thousand there makes these resistance is much bigger than this one.
+
+07:13.010 --> 07:17.950
+All right now what is the last one the last one here is the tolerance tolerance again this one looks
+
+07:17.950 --> 07:25.630
+more like gold to me the gold tolerance is plus or minus 5 percent.
+
+07:25.650 --> 07:32.670
+This one here would also have a temperature coefficient which looks kind of not the clearest but it
+
+07:32.670 --> 07:34.540
+would be 100 ppm again.
+
+07:35.010 --> 07:39.810
+Not 100 percent sure what this means but it's not a big concern as long as we can calculate what the
+
+07:42.330 --> 07:47.200
+what the values of the resistances are and what the value of the tolerances were in pretty good shape.

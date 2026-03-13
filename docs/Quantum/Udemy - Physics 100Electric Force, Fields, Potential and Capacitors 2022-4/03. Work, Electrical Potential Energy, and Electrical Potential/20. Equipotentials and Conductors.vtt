@@ -1,0 +1,144 @@
+WEBVTT
+
+WEBVTT
+
+00:00.330 --> 00:00.900
+All right.
+
+00:00.980 --> 00:06.080
+The last thing I want to say for this electrical potential right here is let's revisit our conductors.
+
+00:06.420 --> 00:12.070
+If you remember if I had a conductor for example a piece of copper right.
+
+00:12.710 --> 00:17.220
+Well and if I charged it up for example if I remove some of the free electrons here.
+
+00:17.250 --> 00:23.610
+Well that means that if you remember that charge would have to be at the surface and if it has an odd
+
+00:23.610 --> 00:26.520
+shape it's not going to be evenly distributed.
+
+00:26.520 --> 00:33.960
+You tend to have a little bit more charge near the sharp edges and fewer charges kind of along the straighter
+
+00:33.960 --> 00:35.160
+sections.
+
+00:35.190 --> 00:46.920
+But let me draw some positive charges remember that the charges are at the surface for conductors.
+
+00:46.980 --> 00:48.780
+What else do we say about conductors.
+
+00:48.780 --> 00:52.150
+There was something really really special about inside the conductor.
+
+00:52.170 --> 00:52.920
+Right.
+
+00:53.070 --> 00:59.040
+The electric field inside although you'd have to calculate it from all of these charges at the end if
+
+00:59.040 --> 01:00.270
+you did it carefully.
+
+01:00.270 --> 01:05.380
+You'd have to get that the electric field inside is equal to zero.
+
+01:05.390 --> 01:09.800
+Well let's think about what that means if it's zero and let's think about it maybe just in terms of
+
+01:10.190 --> 01:13.190
+this one corner right here.
+
+01:13.340 --> 01:20.860
+That means that if I go from this point that this point is zero over here and it's zero over here this
+
+01:20.860 --> 01:23.610
+could be an initial position this could be some final position right.
+
+01:23.620 --> 01:31.090
+As I move from one to the other there is no electric field what what would that mean in terms of the
+
+01:31.090 --> 01:33.990
+electrical potential again.
+
+01:34.000 --> 01:40.450
+If you think about what the definition is it would be that change in the voltage over the change in
+
+01:40.630 --> 01:43.650
+x positions right here.
+
+01:43.680 --> 01:52.810
+Now if my electric field inside we just said was zero what does that mean and how do I get to zero from
+
+01:52.840 --> 01:55.040
+the right hand side of this expression.
+
+01:55.210 --> 02:02.740
+This is v final minus V initial and over the change in x that's right here x final minus X initial.
+
+02:02.740 --> 02:10.660
+The only way I can have that the only way I can get zero right here is if both of these guys are actually
+
+02:10.720 --> 02:18.690
+equal to each other I can only get zero if the initial voltage is the voltage at this point is actually
+
+02:18.750 --> 02:23.340
+equal to the voltage at that point.
+
+02:23.450 --> 02:25.880
+That's the only way I can have that.
+
+02:26.160 --> 02:28.650
+And now you can make the argument if he is inside.
+
+02:28.670 --> 02:32.940
+Well I could choose points going in the opposite direction right now.
+
+02:32.980 --> 02:34.970
+And I chose these two points.
+
+02:34.970 --> 02:38.580
+This would be some initial why this would be some final why.
+
+02:38.720 --> 02:44.630
+Again if the field is zero inside there's no electric field component in the vertical direction here.
+
+02:44.690 --> 02:50.990
+The only way I could have that is if the voltage here has to be equal to the voltage here.
+
+02:51.110 --> 02:53.000
+They must be equal to each other.
+
+02:53.210 --> 02:57.260
+And you could do that for every single point inside this conductor.
+
+02:57.320 --> 03:03.170
+So at the end what this means is that the entire conductor is on every potential
+
+03:05.910 --> 03:10.460
+this entire conductor is at the same voltage.
+
+03:10.500 --> 03:11.980
+That's the only way.
+
+03:12.030 --> 03:14.880
+That same voltage.
+
+03:15.420 --> 03:21.360
+So if I remove some electrons it would probably add some positive voltage for example it could be at
+
+03:21.360 --> 03:28.180
+20 volts it's 20 volts everywhere inside this conductor it has to be the same.
+
+03:28.180 --> 03:34.990
+Otherwise we would have an electric field if it was 20 volts over here and 10 volts right here I would
+
+03:34.990 --> 03:38.930
+have a variation of voltage with space but I can't have that.
+
+03:39.040 --> 03:42.430
+I do require that the electric feel inside a conductor is always zero.

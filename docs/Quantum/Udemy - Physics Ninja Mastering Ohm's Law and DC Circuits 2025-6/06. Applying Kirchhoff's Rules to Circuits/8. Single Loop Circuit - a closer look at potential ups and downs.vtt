@@ -1,0 +1,273 @@
+WEBVTT
+
+WEBVTT
+
+00:00.070 --> 00:06.270
+And I want to show you a slightly different interpretation here of cure cause voltage law just kind
+
+00:06.270 --> 00:09.340
+of hopefully makes you understand things a little bit better.
+
+00:09.360 --> 00:12.920
+So let's just apply the standard definition to the single loop circuit.
+
+00:13.230 --> 00:17.440
+So I only have one power supply one battery and two resistors.
+
+00:17.460 --> 00:21.280
+So again the first thing we would have to do would pick a loop.
+
+00:21.840 --> 00:26.310
+So we are going to pick the loop AB CD and again I'm going to is going to go around in this clockwise
+
+00:26.310 --> 00:31.290
+fashion and I'm going to probably guess that the current is going to flow in this direction and that's
+
+00:31.290 --> 00:33.770
+going to be the current flowing there.
+
+00:33.780 --> 00:37.260
+So here's the voltage law says you add all the potential differences.
+
+00:37.260 --> 00:37.820
+Right.
+
+00:37.830 --> 00:45.820
+So when I cross a battery I would get plus the EMR or the battery 9 volt.
+
+00:45.830 --> 00:48.070
+I don't know what it is but that would be it.
+
+00:48.080 --> 00:53.930
+Now when I cross a resistor going from a high to a low electrical potential I get a voltage drop given
+
+00:53.930 --> 01:04.270
+by Ohm's law in this case it would be I times are 1 and now I'm going across a resistance are two.
+
+01:04.380 --> 01:10.790
+I get a voltage drop again because I'm crossing that resistance in the direction of the current times
+
+01:10.820 --> 01:12.060
+are two and that's it.
+
+01:12.060 --> 01:14.930
+Then I go back to where I started.
+
+01:15.030 --> 01:17.400
+I have to have that equal to zero.
+
+01:17.430 --> 01:23.820
+So you've summed all the differences in potential over all the elements and then that equals to zero.
+
+01:24.030 --> 01:28.950
+A slightly different approach here which I'll show in two different ways is to actually not look at
+
+01:28.950 --> 01:29.780
+the differences.
+
+01:29.790 --> 01:30.420
+Right.
+
+01:30.420 --> 01:33.210
+Kirchoff's voltage law looks at all the differences.
+
+01:33.210 --> 01:37.980
+But what if you would actually just look at the potential not the difference of potential.
+
+01:37.980 --> 01:43.470
+So first let's start over here really what the law says is you really have some potential here which
+
+01:43.470 --> 01:44.560
+you don't really know what it is.
+
+01:44.580 --> 01:49.440
+But at the end it doesn't matter because you come back to the same point again if you remember that
+
+01:49.440 --> 01:54.660
+picture I had of the mountain the actual height doesn't really matter because you start at some height
+
+01:54.690 --> 01:56.590
+and then you come back to the same point.
+
+01:56.640 --> 02:00.350
+So I'll show you what it means in terms of the potentials are really I'm at some potential here.
+
+02:00.600 --> 02:05.650
+And then what happens when I cross a battery is that I gain the potential of the battery.
+
+02:05.760 --> 02:11.310
+So I wasn't originally at some voltage and then I gain the voltage of the battery and then when I cross
+
+02:11.310 --> 02:11.970
+a resistor.
+
+02:11.970 --> 02:13.730
+Now I drop in voltage.
+
+02:13.800 --> 02:16.280
+In this case because I'm going from high to low.
+
+02:16.530 --> 02:19.140
+So now there's a change.
+
+02:19.170 --> 02:24.720
+Times are one and then again I'm going to have a drop in electrical potential when I crossed the second
+
+02:24.720 --> 02:25.440
+resistor.
+
+02:26.530 --> 02:32.530
+I times are two in at the end will really go back to where I started so that there is equal to the potential
+
+02:32.530 --> 02:34.550
+where I started.
+
+02:34.570 --> 02:41.440
+Now you see what happens here is wherever you started that this potential is where you end and that
+
+02:41.440 --> 02:46.990
+term is on both sides of the equation which means it doesn't really matter where you started what the
+
+02:46.990 --> 02:48.830
+absolute value of the potential is.
+
+02:48.850 --> 02:55.870
+It's only the sums and differences of the Potentials across the elements that matter and that's true.
+
+02:55.870 --> 02:58.510
+Whenever you do a complete loop.
+
+02:58.540 --> 03:02.710
+In some cases we're not going to want to do complete loops we might want to measure the voltage between
+
+03:02.710 --> 03:04.490
+point A and Point C.
+
+03:04.690 --> 03:08.620
+So later on we're going to look at examples where we don't do complete loops and see how that changes
+
+03:08.620 --> 03:09.890
+the equations.
+
+03:10.420 --> 03:12.090
+But for now we're doing complete loops.
+
+03:12.090 --> 03:13.420
+Let's look at the same circuit.
+
+03:13.420 --> 03:16.410
+Now what I've done is I've drawn the exact same circuit.
+
+03:16.450 --> 03:22.060
+However I'll just make it just kind of drawn into one complete line here instead of making a loop out
+
+03:22.060 --> 03:22.660
+of it.
+
+03:23.110 --> 03:26.350
+But it starts at a point and it terminates at point.
+
+03:26.950 --> 03:31.200
+So again the way this would look like while you'd be at some potential I don't really know what it is
+
+03:31.210 --> 03:35.060
+but let's just call it a go.
+
+03:35.730 --> 03:41.220
+And the way this looks like now as I travel along the wire the potential doesn't change and the potential
+
+03:41.220 --> 03:43.830
+doesn't change because the wires are ideal.
+
+03:43.830 --> 03:49.090
+That means the potential would remain constant right up until I hit this battery.
+
+03:49.410 --> 03:55.190
+And then what happens now there is a potential gain when I cross the battery when I cross the battery
+
+03:55.200 --> 03:58.070
+I go up in voltage like this.
+
+03:58.230 --> 04:06.160
+And the amount of increase that I have right here this difference this here is equal to the AMFA the
+
+04:06.160 --> 04:08.620
+battery the.
+
+04:08.930 --> 04:14.600
+So now I'm right here right after I'm right at the positive edge of the battery and now I'm traveling
+
+04:14.600 --> 04:21.810
+toward the resistor along a wire the wire has no resistance there is no voltage drop across it.
+
+04:21.810 --> 04:25.940
+So I'm at a concert electrical potential.
+
+04:26.040 --> 04:29.910
+All right the next thing I do now I encounter a resistance.
+
+04:29.910 --> 04:36.740
+So there is now a voltage drop I go from a high electrical potential toward a low electrical potential.
+
+04:36.750 --> 04:39.880
+So in this case now there is a voltage drop.
+
+04:39.930 --> 04:45.850
+So I go from a high to Wardlow and this amount of drop here.
+
+04:46.200 --> 04:53.750
+So again if you kind of check this out this amount of drop here this term here is given by Ohm's law
+
+04:53.750 --> 05:00.770
+which is either current multiplied by the value of the resistance or one the next thing you do now is
+
+05:00.770 --> 05:05.560
+you just travel along the wire all the way to the next resistance.
+
+05:05.570 --> 05:12.450
+Again what I'm going to see now is another voltage drop and the voltage drop this time is given by.
+
+05:12.740 --> 05:13.490
+You bet.
+
+05:13.640 --> 05:18.370
+Ohms law let's go ahead and do it with the same color over here.
+
+05:18.370 --> 05:23.070
+I continue this line and I measure what this drop here is in potential.
+
+05:23.200 --> 05:29.710
+It's given two times are two in this case and at the end where am I.
+
+05:29.710 --> 05:36.790
+Well I should be exactly where I was at the beginning and I continue now along this wire I met right
+
+05:36.820 --> 05:41.090
+after this resistance and then I continue all the way back to Point A.
+
+05:41.410 --> 05:46.960
+So I continue all the way back to Point A and I'm always at the same potential over here.
+
+05:46.960 --> 05:53.430
+So at the end the difference from when I started to when I finished is zero.
+
+05:53.580 --> 05:59.300
+So that's really kind of the best interpretation I think you can get of what the voltage lies.
+
+06:01.280 --> 06:04.430
+Think about these batteries as being pumps.
+
+06:04.730 --> 06:08.200
+You increase the potential energy of the charge.
+
+06:08.240 --> 06:12.660
+Think about these as being slide's you decrease the potential energy.
+
+06:14.590 --> 06:15.860
+So there you have it folks.
+
+06:15.850 --> 06:21.730
+There's Kirchoff's voltage law applied to a single loop kind of shown you two different ways of looking
+
+06:21.730 --> 06:22.340
+at the picture.

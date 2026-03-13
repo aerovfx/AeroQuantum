@@ -1,0 +1,829 @@
+WEBVTT
+
+1
+00:00:18.050 --> 00:00:22.760
+All right, so for this part of the problem, what we're trying to figure out is we're trying to determine
+
+2
+00:00:23.030 --> 00:00:27.350
+how long it takes for Philip to paddle across the river.
+
+3
+00:00:27.800 --> 00:00:31.880
+Now where which we solve this is we harken back to elementary physics.
+
+4
+00:00:32.360 --> 00:00:40.100
+And we know that physics tells us that the velocity of any any kind of unit, any kind of object moving
+
+5
+00:00:40.100 --> 00:00:40.730
+at speed.
+
+6
+00:00:41.830 --> 00:00:49.990
+Is no different than the change in the lane or the change in the time, now this is at an infinitesimal
+
+7
+00:00:49.990 --> 00:00:50.500
+point.
+
+8
+00:00:52.540 --> 00:00:58.300
+We're assuming that the velocity is constant so we can use something like this without going into calculus
+
+9
+00:00:58.690 --> 00:00:59.200
+or.
+
+10
+00:01:00.570 --> 00:01:03.750
+Considering, Ephraim, infinitesimally small units.
+
+11
+00:01:05.350 --> 00:01:05.740
+But.
+
+12
+00:01:06.610 --> 00:01:16.000
+For this problem, what we know is that we want to figure we know the distance 30 is 40 across this
+
+13
+00:01:16.000 --> 00:01:16.420
+river.
+
+14
+00:01:16.930 --> 00:01:18.040
+I will write it now.
+
+15
+00:01:20.100 --> 00:01:21.960
+So we got the distance, the length.
+
+16
+00:01:23.800 --> 00:01:24.820
+It must travel.
+
+17
+00:01:26.360 --> 00:01:27.230
+40 meters.
+
+18
+00:01:28.310 --> 00:01:29.210
+We have this guy.
+
+19
+00:01:30.860 --> 00:01:38.120
+We know the velocity with respect to the ground, and we have to use the ground because this distance
+
+20
+00:01:38.960 --> 00:01:41.120
+is in the ground reference frame, right?
+
+21
+00:01:42.600 --> 00:01:47.430
+Distance from Philip to this guy is going to change, this is constant in the ground frame.
+
+22
+00:01:48.980 --> 00:01:51.440
+So if we use this in the ground frame.
+
+23
+00:01:52.810 --> 00:01:58.800
+That, combined with the distance D will allow us to solve for Delta T.
+
+24
+00:01:59.050 --> 00:02:01.180
+OK, so what we want to do.
+
+25
+00:02:02.310 --> 00:02:10.200
+Is we want to use the Y component because velocity in the X direction does not contribute to diminishing
+
+26
+00:02:10.200 --> 00:02:13.020
+this devalue in Y right.
+
+27
+00:02:13.410 --> 00:02:18.510
+It just moves it to the left closer to B, and that's partially why this guy ends up.
+
+28
+00:02:19.460 --> 00:02:26.120
+At the in the horizontal direction, but in the y direction, every second we're going to go four meters.
+
+29
+00:02:26.840 --> 00:02:28.190
+And that's what we want to use here.
+
+30
+00:02:28.230 --> 00:02:35.300
+OK, so if we take our conventions of labeling everything to make sense of what's going on, this just
+
+31
+00:02:35.300 --> 00:02:35.900
+becomes.
+
+32
+00:02:37.230 --> 00:02:40.680
+The velocity of the boat or fill up with respect to the ground.
+
+33
+00:02:42.280 --> 00:02:47.010
+It's going to be equal to the the entire distance de.
+
+34
+00:02:48.350 --> 00:02:50.180
+So I'm going to put a wide down there.
+
+35
+00:02:51.250 --> 00:02:52.930
+Over Delta T.
+
+36
+00:02:54.580 --> 00:02:55.040
+OK.
+
+37
+00:02:55.060 --> 00:02:56.170
+And I'm using this.
+
+38
+00:02:59.160 --> 00:03:03.870
+We can isolate deputy and figure out how long it takes.
+
+39
+00:03:04.170 --> 00:03:04.560
+All right.
+
+40
+00:03:04.620 --> 00:03:05.820
+That's the name of the game here.
+
+41
+00:03:06.210 --> 00:03:07.200
+So Delta State.
+
+42
+00:03:09.790 --> 00:03:10.570
+Becomes.
+
+43
+00:03:11.780 --> 00:03:12.650
+DIY.
+
+44
+00:03:14.370 --> 00:03:15.660
+Over VP.
+
+45
+00:03:16.880 --> 00:03:19.220
+With respect to G8 in the wider action.
+
+46
+00:03:19.670 --> 00:03:22.940
+OK, so I'm going to go back to that, why there?
+
+47
+00:03:22.940 --> 00:03:26.180
+Because we're only considering the y component of velocity.
+
+48
+00:03:27.710 --> 00:03:32.230
+And if we plug this straight in, we're going to get the result that we're looking for.
+
+49
+00:03:32.240 --> 00:03:37.010
+So, you know, DUI is 40 meters distance, it travels.
+
+50
+00:03:41.600 --> 00:03:44.510
+And we already calculated the velocity in the wider action.
+
+51
+00:03:46.210 --> 00:03:50.560
+Right up here, the J component is four meters per second.
+
+52
+00:03:51.310 --> 00:03:53.080
+We see two meters cancel off.
+
+53
+00:03:54.370 --> 00:03:56.980
+And the second one pops up to the top.
+
+54
+00:03:57.850 --> 00:03:58.510
+So.
+
+55
+00:04:01.190 --> 00:04:04.340
+We get a value of 10 seconds.
+
+56
+00:04:05.580 --> 00:04:07.950
+So after 10 seconds, he starts paddling.
+
+57
+00:04:08.250 --> 00:04:14.100
+He quickly gets to the other coast at point B and crosses the river.
+
+58
+00:04:14.370 --> 00:04:16.980
+OK, so that's pretty straightforward, right?
+
+59
+00:04:18.230 --> 00:04:21.530
+And since I'm all for intuition, let's jump to the next part of the problem.
+
+60
+00:04:22.310 --> 00:04:22.670
+All right.
+
+61
+00:04:22.700 --> 00:04:27.530
+Now that we know the time it takes for Phil to paddle all the way across the river.
+
+62
+00:04:28.240 --> 00:04:33.620
+Next, we want to figure out in this part of the problem is what is the total distance between points
+
+63
+00:04:33.620 --> 00:04:34.940
+A and B?
+
+64
+00:04:34.950 --> 00:04:41.390
+We know the Y component is 40 meters, but what about the X component when which we solve this is again,
+
+65
+00:04:41.390 --> 00:04:44.210
+we're going to operate in the ground of reference frame.
+
+66
+00:04:44.840 --> 00:04:46.760
+We've already calculate are velocity.
+
+67
+00:04:47.450 --> 00:04:55.400
+But if we know that fill up, it takes 10 seconds to get across this river or to traverse the distance
+
+68
+00:04:55.400 --> 00:04:56.060
+in the Y.
+
+69
+00:04:56.840 --> 00:05:03.320
+Then after that time, that's going to give us the distance that was traveled in the X direction.
+
+70
+00:05:03.350 --> 00:05:08.300
+So again, what we're going to use is elementary physics concepts.
+
+71
+00:05:09.490 --> 00:05:15.730
+And we're going to see that the velocity of fill up with respect back to the ground and the extraction
+
+72
+00:05:16.030 --> 00:05:24.670
+for a constant velocity that's going to be the distance traveled in the X direction over the entire
+
+73
+00:05:24.670 --> 00:05:25.810
+time of the trip.
+
+74
+00:05:26.230 --> 00:05:27.520
+And we already have that time.
+
+75
+00:05:27.910 --> 00:05:29.680
+It's not going to change between the two.
+
+76
+00:05:30.370 --> 00:05:32.650
+These two sections, these two calculations.
+
+77
+00:05:33.190 --> 00:05:35.290
+Now we want to find is Delta X.
+
+78
+00:05:35.290 --> 00:05:42.400
+We want to find how far it has traversed the extraction due to this velocity last year.
+
+79
+00:05:42.400 --> 00:05:47.110
+The water is back to the ground, right, because as he paddles across, he's trying to go straight,
+
+80
+00:05:47.170 --> 00:05:48.670
+according to himself.
+
+81
+00:05:50.340 --> 00:05:57.300
+But he is going to drift to the left due to this philosophy, so all you need to do is isolate Delta
+
+82
+00:05:57.300 --> 00:06:00.330
+X, so Delta X becomes.
+
+83
+00:06:01.850 --> 00:06:09.770
+The fill up with his back to the ground, the X component times Delta T and now we just plug in shock,
+
+84
+00:06:09.860 --> 00:06:10.160
+right?
+
+85
+00:06:10.370 --> 00:06:12.770
+Simple, straightforward problem, right?
+
+86
+00:06:13.430 --> 00:06:15.110
+So what we want is the X component.
+
+87
+00:06:15.620 --> 00:06:17.210
+So he's going to traverse.
+
+88
+00:06:18.420 --> 00:06:21.600
+Negative six meters per second.
+
+89
+00:06:23.790 --> 00:06:25.800
+And in 10 seconds.
+
+90
+00:06:28.110 --> 00:06:29.460
+That's going to tell us that.
+
+91
+00:06:30.630 --> 00:06:33.040
+If we cancel these units, the second is cancel.
+
+92
+00:06:33.060 --> 00:06:34.170
+We end up with meters.
+
+93
+00:06:34.500 --> 00:06:37.800
+We had negative 60 meters.
+
+94
+00:06:39.500 --> 00:06:44.720
+And it's going to be in the X direction will superfluous, but I'm going to include that.
+
+95
+00:06:44.900 --> 00:06:53.660
+OK, so now we know that in 10 seconds, Philip travels 40 meters in the right direction and 60 meters
+
+96
+00:06:53.660 --> 00:07:00.410
+in the X direction, and now we want to figure out the distance from point A to B. We need the theory
+
+97
+00:07:00.410 --> 00:07:01.160
+in their own right.
+
+98
+00:07:01.400 --> 00:07:02.720
+So if we take.
+
+99
+00:07:05.910 --> 00:07:07.740
+Point A and Point B.
+
+100
+00:07:08.680 --> 00:07:11.860
+And form a nice triangle that looks terrible.
+
+101
+00:07:14.320 --> 00:07:17.980
+But we just need a vague representation, what we're doing here.
+
+102
+00:07:18.160 --> 00:07:19.510
+So in the y direction.
+
+103
+00:07:20.560 --> 00:07:21.580
+We have a 40.
+
+104
+00:07:22.650 --> 00:07:23.550
+Meter value.
+
+105
+00:07:23.940 --> 00:07:27.510
+And in the X direction, we have a 60 years value.
+
+106
+00:07:28.560 --> 00:07:32.760
+And what we're trying to find is the Typekit hypotenuse stake.
+
+107
+00:07:33.150 --> 00:07:35.330
+All right, well, we can just take the green theorem.
+
+108
+00:07:36.090 --> 00:07:37.500
+That's pretty straightforward, right?
+
+109
+00:07:38.430 --> 00:07:49.800
+So we know that oh h squared is equal to 60 metres squared plus 40 metres squared.
+
+110
+00:07:52.140 --> 00:07:53.760
+And if you like working with variables.
+
+111
+00:07:55.880 --> 00:07:58.550
+Is it basically Delta X, Delta Y?
+
+112
+00:07:59.720 --> 00:08:02.780
+And all we need to do is literally take the square root.
+
+113
+00:08:04.310 --> 00:08:07.100
+And that will give us the answer we're looking for.
+
+114
+00:08:07.320 --> 00:08:09.260
+The distance, the total distance he traveled.
+
+115
+00:08:10.070 --> 00:08:20.450
+So when we do this on the sky calculator, right, you get 30, 600 plus what 600 and then you square
+
+116
+00:08:20.450 --> 00:08:21.140
+that puppy.
+
+117
+00:08:22.970 --> 00:08:27.170
+What you end up with is a result of each each.
+
+118
+00:08:28.550 --> 00:08:31.760
+Approximately equal to seventy two meters.
+
+119
+00:08:32.280 --> 00:08:32.560
+Right?
+
+120
+00:08:33.140 --> 00:08:35.450
+Literally just plug and shut.
+
+121
+00:08:36.680 --> 00:08:38.630
+So, you know, that sort of makes sense.
+
+122
+00:08:39.690 --> 00:08:42.510
+This is going to be longer than its legs.
+
+123
+00:08:43.930 --> 00:08:45.570
+Joe Walther intuition.
+
+124
+00:08:45.840 --> 00:08:52.890
+And now to wrap up the problem or consider one last section, one last part, which is pretty important.
+
+125
+00:08:53.640 --> 00:08:54.060
+All right.
+
+126
+00:08:54.060 --> 00:08:55.560
+So we're almost finished the problem.
+
+127
+00:08:55.800 --> 00:09:02.040
+The last part we want to question and we're going to wrap this up is Part E, which states that or questions.
+
+128
+00:09:02.040 --> 00:09:07.290
+Rather, how long does Terrence think it takes for fill up to cross the river?
+
+129
+00:09:07.290 --> 00:09:12.540
+Now, when you read this kind of question, you're probably like, OK, let's do the same exact thing
+
+130
+00:09:12.540 --> 00:09:13.140
+we've been doing.
+
+131
+00:09:13.140 --> 00:09:17.880
+Let's start labeling the losses, figure out what reference frame we want to do and who your mind is
+
+132
+00:09:17.880 --> 00:09:20.310
+probably firing a mile a minute.
+
+133
+00:09:21.180 --> 00:09:23.460
+And what I want to is stop and say stop.
+
+134
+00:09:24.960 --> 00:09:27.690
+In order to solve this problem, we already have the answer, right?
+
+135
+00:09:27.990 --> 00:09:28.740
+What's the answer?
+
+136
+00:09:29.010 --> 00:09:29.280
+We'll see.
+
+137
+00:09:29.430 --> 00:09:30.420
+Do we have to do anything?
+
+138
+00:09:30.750 --> 00:09:32.350
+No, we do not have to do anything.
+
+139
+00:09:32.370 --> 00:09:32.730
+Why?
+
+140
+00:09:32.970 --> 00:09:40.350
+Because as we showed in driving all these formulas right, we had an inherent assumption and that assumption
+
+141
+00:09:40.500 --> 00:09:45.270
+was grounded in our understanding of every situation in front of us, right?
+
+142
+00:09:45.300 --> 00:09:51.390
+I like to say that kids are sometimes the best physicists because you when you're a toddler, you're
+
+143
+00:09:51.390 --> 00:09:53.520
+trying to make sense of the world in front of you, right?
+
+144
+00:09:53.730 --> 00:09:58.770
+You play off blocks, you drop them, you see how they fall, you analyze what's going on and using
+
+145
+00:09:58.770 --> 00:09:59.520
+that information.
+
+146
+00:09:59.700 --> 00:10:02.310
+You form your own understanding of the universe, right?
+
+147
+00:10:02.520 --> 00:10:10.650
+So when a kid would say is that, oh, if I had a clock and I did something and you had a clock or our
+
+148
+00:10:10.810 --> 00:10:13.250
+clocks would sync up right, there would be no difference.
+
+149
+00:10:13.260 --> 00:10:20.370
+In other words, what we assumed in putting this together is that time is absolute right.
+
+150
+00:10:20.490 --> 00:10:29.460
+What we said is that Delta T in the ref's frame is equal to Delta T and the moving frame.
+
+151
+00:10:29.880 --> 00:10:30.180
+Right?
+
+152
+00:10:30.420 --> 00:10:35.160
+So in any kind of reference frame that we deal with these problems, what we're going to know is we're
+
+153
+00:10:35.160 --> 00:10:36.600
+going to say they're equivalent.
+
+154
+00:10:36.750 --> 00:10:39.150
+So using this problem, the Delta T.
+
+155
+00:10:40.370 --> 00:10:46.520
+Of parents observing the moving reference frame, they're both sort of moving, but of course, a parent's
+
+156
+00:10:46.850 --> 00:10:47.150
+right.
+
+157
+00:10:47.450 --> 00:10:48.830
+He's going to be still.
+
+158
+00:10:51.310 --> 00:10:54.370
+To Delta and Terrence is going to be equal to Delta.
+
+159
+00:10:54.490 --> 00:10:56.950
+Delta T in Phillips reference frame.
+
+160
+00:10:57.310 --> 00:10:58.870
+And there is no difference.
+
+161
+00:10:58.930 --> 00:11:05.500
+This is sort of a trick question to sort of make you think about this problem and we sort of take this
+
+162
+00:11:05.500 --> 00:11:06.250
+for granted, right?
+
+163
+00:11:06.280 --> 00:11:09.250
+I'm sure you would agree that time is absolute.
+
+164
+00:11:09.250 --> 00:11:12.340
+That's not going to change between different conceptions of it.
+
+165
+00:11:12.820 --> 00:11:17.650
+But as we start jumping into special relativity, the wacky world of special relativity, what we're
+
+166
+00:11:17.650 --> 00:11:23.440
+going to find is that assumptions and assertions that perhaps we established as a child or that we take
+
+167
+00:11:23.440 --> 00:11:29.980
+for granted have to be questioned to sort of get to the result that actually happens in the real world,
+
+168
+00:11:29.980 --> 00:11:30.220
+right?
+
+169
+00:11:30.460 --> 00:11:32.620
+We would like to hold our intuition.
+
+170
+00:11:32.770 --> 00:11:41.440
+We would like to hold these concepts that we take for granted on a silver platter and not really change
+
+171
+00:11:41.440 --> 00:11:42.460
+them or throw them away.
+
+172
+00:11:42.460 --> 00:11:44.890
+But sometimes we're going to have to do that.
+
+173
+00:11:45.100 --> 00:11:51.790
+And that's part of what makes special relativity such a hard subject to wrap our minds around.
+
+174
+00:11:52.000 --> 00:11:58.990
+And even for scientists back in the day which Einstein proposed, this idea is really to accept them
+
+175
+00:11:58.990 --> 00:12:07.900
+because they really span the face of all the ideas and concepts we've taken for granted that we assume
+
+176
+00:12:07.900 --> 00:12:09.910
+are universal and absolute.
+
+177
+00:12:09.910 --> 00:12:14.950
+But if we want to put together that nice universal conception of the universe, we're going to have
+
+178
+00:12:14.950 --> 00:12:17.080
+to challenge everyday concessions.
+
+179
+00:12:17.080 --> 00:12:21.390
+We have the universe in order to get to the truth, to the facts.
+
+180
+00:12:21.500 --> 00:12:24.070
+Okay, so that's the problem we ran through today.
+
+181
+00:12:24.070 --> 00:12:25.240
+I hope you enjoyed it.
+
+182
+00:12:26.890 --> 00:12:28.390
+I hope what?
+
+183
+00:12:28.420 --> 00:12:30.640
+What I want you to get out of this problem is.
+
+184
+00:12:31.680 --> 00:12:36.810
+And what I want you to continue to do as you run through problems and special relativity is.
+
+185
+00:12:37.800 --> 00:12:42.840
+Be cognizant of how you keep track of things, keep track of your reference frames and come up with
+
+186
+00:12:42.840 --> 00:12:46.170
+some kind of system that allows you to keep track of it.
+
+187
+00:12:46.200 --> 00:12:51.360
+You can use my system here, but in addition to the problems you run through, some homework you have
+
+188
+00:12:51.360 --> 00:12:54.780
+is when you run through these problems, and I think it's important to do this.
+
+189
+00:12:55.950 --> 00:13:00.690
+You got to figure out some kind of system that helps you keep track of what's going on.
+
+190
+00:13:00.960 --> 00:13:07.800
+Keep track of the different losses and figure out how you can attribute attribute them to different
+
+191
+00:13:07.800 --> 00:13:08.700
+reference frames, right?
+
+192
+00:13:08.970 --> 00:13:10.590
+If you can keep track of this stuff.
+
+193
+00:13:10.980 --> 00:13:16.260
+And it doesn't consume a lot of brainpower that's going to help you stay in tune with what's going on
+
+194
+00:13:16.410 --> 00:13:23.670
+and help you really pierce through those wacky ideas and special relativity so you can build a nice
+
+195
+00:13:23.670 --> 00:13:29.520
+intuition and really focus on what's going on in the problem in all kinds of physics.
+
+196
+00:13:30.240 --> 00:13:35.370
+It's really when you run through problems, a big part of it is really keeping track of what's going
+
+197
+00:13:35.370 --> 00:13:35.600
+on.
+
+198
+00:13:35.820 --> 00:13:39.930
+The accounting portion of it and then plugging in your numbers, right?
+
+199
+00:13:40.230 --> 00:13:43.160
+This is not the physics, but it's math and accounting.
+
+200
+00:13:43.350 --> 00:13:46.620
+If you can master this, I promise you, I promise you.
+
+201
+00:13:46.830 --> 00:13:52.530
+You can focus on the weird ideas, the physical concepts, and then you can master physics problems,
+
+202
+00:13:52.530 --> 00:13:52.770
+right?
+
+203
+00:13:53.040 --> 00:13:53.970
+This is important.
+
+204
+00:13:54.300 --> 00:13:58.680
+Focus on that when you run through these problems and then I'll join you in the next section.
+
+205
+00:13:58.830 --> 00:14:05.010
+As we delve into our first video talking about special relativity and start taking a look at the wacky
+
+206
+00:14:05.010 --> 00:14:06.900
+effects that are going to crop up.
+
+207
+00:14:07.410 --> 00:14:08.160
+Stay tuned.

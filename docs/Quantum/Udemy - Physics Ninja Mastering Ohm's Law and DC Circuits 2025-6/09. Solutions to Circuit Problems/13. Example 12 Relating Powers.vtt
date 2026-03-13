@@ -1,0 +1,309 @@
+WEBVTT
+
+WEBVTT
+
+00:00.900 --> 00:02.540
+All right here's another problem here.
+
+00:02.700 --> 00:04.670
+It's called relating powers.
+
+00:04.680 --> 00:09.990
+The problem with our numbers I would know who didn't put any numbers in this one so it is a circuit.
+
+00:09.990 --> 00:11.520
+We have three resistors.
+
+00:11.520 --> 00:17.280
+This is our one our two and our three are simply two times R1.
+
+00:17.700 --> 00:19.250
+Just write it like this.
+
+00:19.500 --> 00:20.250
+OK.
+
+00:20.640 --> 00:29.610
+Now if p is the power delivered to our one what is the power delivered to our two and our three from.
+
+00:29.640 --> 00:31.450
+So how do we solve a problem like this.
+
+00:31.680 --> 00:35.370
+Well I think what I would first do is I would just assume there numbers there and what would I do if
+
+00:35.370 --> 00:38.560
+there were numbers there I would probably calculate what the power is.
+
+00:38.850 --> 00:43.150
+So in order to calculate what the power is you need to find what is the current everywhere.
+
+00:43.470 --> 00:45.720
+So let's find the current everywhere in this section.
+
+00:45.720 --> 00:49.600
+Now the curve is not going to be a number it's going to be written in terms of our one maybe are two
+
+00:49.630 --> 00:53.480
+and three in the MFA of power supply.
+
+00:53.880 --> 00:57.970
+So let's go ahead and do that first thing I would do is I would combine both of these.
+
+00:57.990 --> 01:00.480
+These are in parallel with each other.
+
+01:00.720 --> 01:07.670
+If I combine both of those kind of group them together you multiply them and divided by the sum.
+
+01:07.680 --> 01:17.010
+What do you get called that are equivalent when you multiply them you get 4 R1 squared.
+
+01:17.070 --> 01:23.730
+Divide by the sum you get four are one force cancel out our one cancels out look at that you're left
+
+01:23.730 --> 01:25.050
+with R1.
+
+01:25.350 --> 01:29.060
+So both of those that each had a value of two times are one.
+
+01:29.340 --> 01:32.010
+Anyway they get when you combine them in parallel.
+
+01:32.030 --> 01:34.350
+They're equivalent to simply one are one.
+
+01:34.590 --> 01:41.970
+So this total circuit over here can be simplified now because I simply have are one that is in series
+
+01:41.970 --> 01:43.260
+with another R1.
+
+01:43.260 --> 01:50.400
+So the total thing here the simple equivalent circuit is simply an equivalent resistance equal to two
+
+01:50.400 --> 01:51.370
+R1.
+
+01:51.510 --> 01:54.600
+And this is still the method of battery.
+
+01:54.600 --> 01:57.000
+So that automatically tells you now that the current
+
+02:00.640 --> 02:07.410
+simply the MF of the battery divided by the total equivalent resistance which is two times R1.
+
+02:07.510 --> 02:08.000
+OK.
+
+02:08.140 --> 02:09.270
+So that's the current.
+
+02:09.550 --> 02:14.770
+So now if you wanted to write down an expression of what is the power now for example being delivered
+
+02:14.770 --> 02:16.420
+by the battery let's calculate that.
+
+02:16.450 --> 02:22.900
+So the power being delivered by the battery or by the E-Myth is the value of the IMF multiplied by the
+
+02:22.900 --> 02:27.710
+current current which is calculated.
+
+02:27.780 --> 02:32.790
+So at the end you simply square the EMI for the battery divided by two times that resistance one.
+
+02:32.850 --> 02:37.380
+That's the power being delivered by the battery.
+
+02:37.380 --> 02:41.820
+All right let's calculate the expression now what is the power being delivered in this resistance over
+
+02:41.820 --> 02:42.890
+here.
+
+02:43.160 --> 02:46.860
+Well again the power being dissipated by that resistance are one.
+
+02:47.580 --> 02:54.050
+It's the value of the resistance R1 multiplied by the current squared the current.
+
+02:54.060 --> 02:59.910
+We just calculated the same current whatever current was flowing through my equivalent resistance is
+
+02:59.910 --> 03:04.380
+the same current flowing through this resistance R1.
+
+03:04.410 --> 03:04.690
+All right.
+
+03:04.690 --> 03:06.110
+Now take care of everything here.
+
+03:06.120 --> 03:08.930
+We get square.
+
+03:08.970 --> 03:12.180
+This becomes for this becomes our one squared.
+
+03:12.180 --> 03:13.910
+You can cross out one of those.
+
+03:14.250 --> 03:19.150
+So you're left with over for a four or one.
+
+03:19.720 --> 03:25.170
+And actually what we're doing here in the problem they call this the power that is the power delivered
+
+03:25.170 --> 03:26.300
+to our one.
+
+03:26.610 --> 03:33.000
+So this here is actually the power of call that PR one but this is really what they are it's defined
+
+03:33.000 --> 03:35.250
+in the problem.
+
+03:35.640 --> 03:42.720
+So if that's my power how much power is delivered to each one of those well.
+
+03:42.770 --> 03:46.250
+Do we know how much current is flowing through each one of those.
+
+03:46.790 --> 03:51.830
+Well think about here we have a junction and we have how much current Over here we have that current
+
+03:52.640 --> 03:55.190
+coming into the junction.
+
+03:55.190 --> 04:00.110
+So it has to be the same current now flowing out of the junction or whatever goes in.
+
+04:00.230 --> 04:02.550
+We know this is what's going in.
+
+04:03.140 --> 04:09.230
+And now if these resistors are the exact same that means that this current is simply going to split
+
+04:09.230 --> 04:10.080
+in half.
+
+04:10.160 --> 04:15.560
+That's the only way you can have the same voltage across each resistor because they're all the same.
+
+04:15.560 --> 04:22.060
+So the voltage must split in equal parts so that means that the current up here let's call it maybe
+
+04:22.280 --> 04:28.840
+to this current Aitu is simply going to be this guy I divided by two.
+
+04:28.840 --> 04:33.400
+This is the current Aitu flowing in each branch.
+
+04:33.400 --> 04:39.110
+So that means you can calculate the power being dissipated for example by the resistor are two.
+
+04:40.090 --> 04:44.470
+So it's the value of the resistance which is two times are one.
+
+04:44.740 --> 04:49.960
+That's what R2 is defined as multiplied by the current squared.
+
+04:49.960 --> 04:51.560
+Now the currents squared was a what.
+
+04:51.580 --> 04:55.810
+Well it's I too was going to write it like this.
+
+04:57.000 --> 05:02.220
+Just substitute the entire thing in there it's not over to our one because don't forget I'm dividing
+
+05:02.220 --> 05:02.700
+by two.
+
+05:02.700 --> 05:08.830
+So the current is actually for our one and I have to square it.
+
+05:09.010 --> 05:17.510
+Right now we have to take care of everything so we have to our one and we have e squared before turns
+
+05:17.510 --> 05:19.270
+into 16 after I square it.
+
+05:19.280 --> 05:22.400
+And here I have our 1 squared.
+
+05:22.430 --> 05:28.340
+Now you can cross out a bunch of things and cross out this you're left with eight in cross out this
+
+05:28.340 --> 05:31.730
+are one you're left with this one.
+
+05:31.730 --> 05:33.340
+Now clean things up a little bit.
+
+05:33.380 --> 05:37.360
+You get enough of the battery squared.
+
+05:37.550 --> 05:41.780
+And at the bottom here you still have my eight and R 1.
+
+05:42.230 --> 05:45.550
+So this is the power being dissipated by the resistance are two.
+
+05:45.620 --> 05:50.840
+It's also equal to the power dissipated by the resistance are three because they're the exact same value
+
+05:52.230 --> 05:57.170
+and actually now if you check it out it should work out right.
+
+05:57.170 --> 06:02.880
+Remember this was the power being delivered by the battery.
+
+06:02.920 --> 06:08.810
+This is the power being dissipated in the resistance are one.
+
+06:09.280 --> 06:11.290
+We have two of these.
+
+06:11.350 --> 06:17.680
+Two of those powers that are being dissipated by those resistances are two and are three.
+
+06:17.680 --> 06:21.310
+Actually if you add both of these up you should get this value.
+
+06:21.310 --> 06:23.760
+Check it out for yourself so you going to get a quarter here.
+
+06:23.860 --> 06:28.240
+You get two eighths over here that's another quarter or a quarter and a quarter gives you a half.
+
+06:28.240 --> 06:30.000
+So that's all going to work out.
+
+06:30.430 --> 06:35.030
+So now if you relate this power to the other one it's simply going to be half right.
+
+06:35.050 --> 06:40.630
+So each one of those is simply the power be divided by 2.
+
+06:41.230 --> 06:48.770
+So if p is the power delivered to our one that means P over to is being delivered to each one of these
+
+06:48.770 --> 06:53.270
+resistors.
+
+06:53.810 --> 06:56.880
+All right well hopefully you've got that one.
+
+06:56.960 --> 07:01.510
+Sometimes these can be a little bit complicated but I always suggest just assume there are numbers there
+
+07:01.510 --> 07:06.800
+and just precede the exact same way you normally would except this time you just have to keep all the
+
+07:06.800 --> 07:08.000
+variables of the way they are.

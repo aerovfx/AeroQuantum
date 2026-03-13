@@ -1,0 +1,261 @@
+WEBVTT
+
+WEBVTT
+
+00:00.120 --> 00:03.810
+Okay so we're gonna start off with one of the simple cases here we're going to look at the electrical
+
+00:03.810 --> 00:05.170
+potential energy.
+
+00:05.220 --> 00:10.350
+However I am going to limit my discussion here to point charges.
+
+00:10.850 --> 00:11.340
+OK.
+
+00:11.340 --> 00:17.220
+So what are we knowable point charges we know that we've already seen that there is a force acting on
+
+00:17.220 --> 00:24.720
+between them and the forces given by cool Ohm's Law and I can write it as this K Q1 Q2 and over the
+
+00:24.720 --> 00:28.260
+distance squared just right as R squared.
+
+00:28.260 --> 00:35.220
+So let me go out somewhere in space and imagine here this is just empty space and I place one positive
+
+00:35.220 --> 00:42.870
+charge here and I stick it there I glue it so it can't move so it is actually fixed in space.
+
+00:43.110 --> 00:43.400
+All right.
+
+00:43.410 --> 00:44.270
+Now what do I do.
+
+00:44.310 --> 00:50.130
+I'm gonna go really really far away and I'm gonna go and find a another charge and for this case let's
+
+00:50.130 --> 00:52.750
+just consider a another positive charge.
+
+00:52.830 --> 00:56.600
+So here I am out in space I'm gonna grab that positive charge.
+
+00:56.670 --> 00:57.000
+All right.
+
+00:57.000 --> 01:00.600
+Now what happens when I bring it closer.
+
+01:00.600 --> 01:06.450
+Well when it's in this position right here guess what there is a little bit of a force acting on this
+
+01:06.450 --> 01:06.960
+charge.
+
+01:06.960 --> 01:13.600
+There's also a little force acting on this one but I have something that is keeping it fixed.
+
+01:13.710 --> 01:14.670
+So what happens now.
+
+01:14.670 --> 01:17.280
+Well I'm going to apply a force right here.
+
+01:17.280 --> 01:24.240
+This is my applied force FAA and what I want to do now is I want to bring this charge and I want to
+
+01:24.240 --> 01:26.130
+place it right over here.
+
+01:26.130 --> 01:29.890
+But what happens as I start bringing it closer.
+
+01:30.160 --> 01:34.670
+Right as I start bringing it closer it's harder for me to do that right.
+
+01:34.680 --> 01:38.880
+Because imagine when I'm kind of getting close to my final position all right.
+
+01:38.880 --> 01:42.360
+This here is the final position let me write that down so this is final position
+
+01:46.290 --> 01:50.730
+so if you think about it now if you draw what the force is well since it's much closer together the
+
+01:50.730 --> 01:55.440
+force is going to be bigger and again the force I can calculate from cool Ohm's Law.
+
+01:55.730 --> 01:59.350
+So I'm got make this vector down over here bigger.
+
+01:59.360 --> 01:59.990
+All right.
+
+02:00.450 --> 02:06.050
+Well I had to apply a force in order to bring that one there it's not going to get there by itself.
+
+02:06.050 --> 02:06.300
+Right.
+
+02:06.300 --> 02:12.830
+So my applied force for only to hold it here has to be at least as big as cool Ohm's Law.
+
+02:13.020 --> 02:22.660
+So I had to do some positive work in order to bring this charge all the way to this final position.
+
+02:22.740 --> 02:24.830
+So let me call this final spacing here.
+
+02:24.830 --> 02:26.070
+Let's call it a distance.
+
+02:26.130 --> 02:30.100
+Ah so we'd be able to use this equation to calculate the force.
+
+02:30.360 --> 02:37.770
+First of all during this path remember that F.A. my applied force does positive work
+
+02:40.800 --> 02:46.650
+the work done by the electric field in this case would be negative because the force the electric force
+
+02:47.040 --> 02:50.320
+is like this and my displacement is like this.
+
+02:50.370 --> 02:56.280
+So the angle is 180 degrees in that case which gives me negative work.
+
+02:56.280 --> 03:02.100
+Now I can't use my equation unfortunately in order to calculate the work done by the electric force
+
+03:02.100 --> 03:03.520
+that I did previously.
+
+03:03.540 --> 03:07.230
+You can't just use f DOT and the displacement.
+
+03:07.410 --> 03:15.090
+And the reason you can't this the reason you can't use this is because the force is not constant so
+
+03:15.090 --> 03:20.060
+it doesn't apply for this particular case but I'll show you how to do it in this case.
+
+03:20.370 --> 03:22.580
+But just remember this you've got to be a little bit careful.
+
+03:22.590 --> 03:27.810
+I can still kind of use the argument to decide whether or not the work is positive or negative I just
+
+03:28.230 --> 03:31.690
+I'm unable to use this equation to calculate the work.
+
+03:31.770 --> 03:35.870
+All right regardless this charge eventually made it to this position.
+
+03:36.300 --> 03:41.400
+So there is a force acting on it and there was some work done by this applied force.
+
+03:41.400 --> 03:47.490
+Whenever you do some work you're going to end up storing some potential energy in the system.
+
+03:47.490 --> 03:47.760
+OK.
+
+03:47.790 --> 03:56.070
+So the electrical potential energy this is a definition now you write it all down.
+
+03:56.970 --> 04:00.750
+Now it's energy which is going to be measured in jewels.
+
+04:00.750 --> 04:01.140
+All right.
+
+04:01.160 --> 04:05.570
+So that's gonna be my unit at the end of the equation again.
+
+04:05.580 --> 04:11.900
+I'm gonna write it as you and I'm going to put a subscript e to remind me that it is electrical.
+
+04:12.090 --> 04:12.360
+All right.
+
+04:12.360 --> 04:16.110
+The formula looks pretty similar to cool Ohm's Law.
+
+04:16.130 --> 04:18.330
+So we have the same constant k.
+
+04:18.510 --> 04:25.860
+I still have the charges Q1 and Q2 except now it gets divided only by the distance.
+
+04:25.880 --> 04:35.270
+Ah so this is the equation pretty straightforward now there are some differences.
+
+04:35.270 --> 04:38.430
+Energy is a scalar quantity.
+
+04:38.450 --> 04:41.660
+OK so it's just a number.
+
+04:41.660 --> 04:48.460
+This here was a vector quantity so which had a magnitude and a direction associated with it.
+
+04:48.530 --> 04:54.130
+Now one kind of comment about this one I was calculating forces using my cool Ohm's law up here.
+
+04:54.260 --> 04:56.930
+I really didn't care whether was positive or negative.
+
+04:57.020 --> 04:57.340
+OK.
+
+04:57.350 --> 05:03.860
+Because positive and negative when I put the charges in here they only tell me something about the direction
+
+05:03.860 --> 05:08.410
+of the force for potential energy.
+
+05:08.510 --> 05:14.870
+It's going to be very very important to actually put the signs of the charges in here.
+
+05:14.870 --> 05:20.540
+So in this case if this is positive and this is positive and they're separated by some distance I am
+
+05:20.540 --> 05:24.950
+going to get a positive potential energy in the system.
+
+05:24.950 --> 05:30.350
+There are cases however where you could have negative potential energy in the system.
+
+05:30.350 --> 05:40.100
+All right so we really it's important to use sine of charges in this equation at the end of the day.
+
+05:40.100 --> 05:45.120
+The only thing that's really going to matter is how the potential energy changes.
+
+05:45.140 --> 05:51.110
+So one thing to notice just like the force when the distance is very very far we're going to get a small
+
+05:51.110 --> 05:58.680
+number for the force and we're going to get a small amount of potential energy however one one charge
+
+05:58.680 --> 06:01.700
+is positive and one is negative.
+
+06:01.850 --> 06:06.980
+What we're going to have over here when I multiply both of these I will have a negative number for potential
+
+06:06.980 --> 06:07.970
+energy and that's OK.
+
+06:07.970 --> 06:10.000
+There's nothing wrong with that.
+
+06:10.130 --> 06:13.340
+We'll see cases where we'll see what that means in a minute.
+
+06:13.490 --> 06:14.050
+OK.

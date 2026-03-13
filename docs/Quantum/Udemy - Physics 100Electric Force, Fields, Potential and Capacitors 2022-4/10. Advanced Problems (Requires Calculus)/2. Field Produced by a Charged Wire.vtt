@@ -1,0 +1,639 @@
+WEBVTT
+
+WEBVTT
+
+00:00.390 --> 00:00.990
+Hi everybody.
+
+00:00.990 --> 00:03.830
+Physics major here today where I got a great problem for you.
+
+00:03.840 --> 00:08.280
+We're going to look at the electric field from a continuous charged distribution.
+
+00:08.460 --> 00:11.240
+So consider the wire I've got here on the whiteboard.
+
+00:11.400 --> 00:13.580
+I want to look at three specific questions.
+
+00:13.590 --> 00:20.580
+I want to find the electric field when I'm a distance x away from that wire and I've placed it kind
+
+00:20.580 --> 00:22.800
+of right at the center of the wire.
+
+00:22.800 --> 00:27.960
+Second part is I want to take that expression and I want to see what happens when I go really really
+
+00:27.960 --> 00:29.650
+far from the wire.
+
+00:29.730 --> 00:35.070
+What is the electric field look like when I'm really far from the wire and in the third case I want
+
+00:35.070 --> 00:35.930
+to see what happens.
+
+00:35.940 --> 00:39.320
+Now if I put my position right near the wire.
+
+00:39.360 --> 00:42.780
+Right when I'm really close to the wire the wire looks really really long.
+
+00:42.810 --> 00:48.120
+So we're going to look at our expression and take the right limits and see what the expression simplifies
+
+00:48.120 --> 00:48.790
+to.
+
+00:48.870 --> 00:49.890
+So let's get started.
+
+00:49.890 --> 00:58.260
+I have a wire here that has a like L and it has a total charge q and its charge is uniformly distributed
+
+00:58.290 --> 01:00.000
+over the length.
+
+01:00.000 --> 01:03.200
+So let's see how to solve this problem.
+
+01:03.530 --> 01:03.740
+Okay.
+
+01:03.770 --> 01:07.750
+So let's start by looking at this system a little bit more closely.
+
+01:07.940 --> 01:09.680
+We've got our wire here.
+
+01:09.690 --> 01:13.060
+Got our distance x to the point p.
+
+01:13.350 --> 01:16.870
+And now let's consider a small little bit of charge.
+
+01:17.100 --> 01:23.310
+Somewhere on the wire and the magnitude of that charge is d q.
+
+01:23.400 --> 01:30.510
+Now this little charge is going to produce an electric field at point p and it's going to be in this
+
+01:30.510 --> 01:31.540
+direction.
+
+01:31.840 --> 01:35.300
+And the magnitude of that field is going to be DC.
+
+01:35.310 --> 01:43.350
+Now you notice since I've picked the position of the point x to be kind of in the center of that wire
+
+01:45.030 --> 01:49.680
+every time there's a little charge D Q up on the top there's also going to be a little charge D Q On
+
+01:49.680 --> 01:50.400
+the bottom.
+
+01:50.590 --> 01:55.790
+And that one's also going to produce an electric field with the same magnitude.
+
+01:55.820 --> 01:59.790
+But in this direction it's pointing away from that small charge.
+
+01:59.790 --> 02:01.900
+If it's positive.
+
+02:01.900 --> 02:08.040
+So one thing you notice if I find this to be the angle theta This is also going to be the angle theta.
+
+02:08.070 --> 02:13.440
+What we're going to notice here is that you would re plot those vectors you'll see that those vectors
+
+02:13.440 --> 02:21.010
+can be broken down into components and the y components of those vectors are going to cancel out they're
+
+02:21.010 --> 02:22.200
+going to be equal and opposite.
+
+02:23.220 --> 02:28.650
+So we can conclude right away just from the symmetry of the problem that the total field E Y is going
+
+02:28.650 --> 02:32.360
+to be equal to zero by the symmetry of the problem
+
+02:35.410 --> 02:41.650
+every time there's a little charge D Q On the positive y axis there's going to be another charge D Q
+
+02:41.650 --> 02:42.810
+On the negative y axis.
+
+02:42.820 --> 02:45.460
+So their contributions are always going to cancel out.
+
+02:46.660 --> 02:47.960
+So that's kind of the first part.
+
+02:50.140 --> 02:57.830
+The second part is the total field is going to be simply in the x direction.
+
+02:57.840 --> 03:03.910
+Note Since the y components cancel and while there's gonna be two of them right there's a contribution
+
+03:03.910 --> 03:08.650
+from the charge at the bottom and there's gonna be a contribution from the charge of the top.
+
+03:09.400 --> 03:20.220
+So you can actually write the x component as being the magnitude times cos of theta and we'll we're
+
+03:20.220 --> 03:25.770
+gonna do now is we're gonna add all the x contributions from every single charge here along the length
+
+03:25.770 --> 03:27.490
+of the wire.
+
+03:27.630 --> 03:35.610
+So in order to do that let's find what the magnitude of DC is and let's substitute with the value of
+
+03:35.610 --> 03:40.710
+CO State it is and then we're going to add all the contributions of d e.
+
+03:41.580 --> 03:48.960
+So we're left with a D E is going to be oh what's this magnitude of the vector.
+
+03:48.960 --> 03:57.740
+Well this is simply the magnitude of the field produced by a charge D Q That's simple that's the expression
+
+03:57.740 --> 04:06.350
+we know K the magnitude of the charge divided by the distance squared in the distance squared is simply
+
+04:06.350 --> 04:14.430
+the distance from the charge D Q to the point where I'm evaluating that star vector r and I can write
+
+04:14.430 --> 04:21.480
+that in terms of the distance x and plus the distance from
+
+04:24.690 --> 04:28.390
+the origin to that charge let's call that y.
+
+04:29.550 --> 04:33.600
+So here's my distance from the charge to the point.
+
+04:33.760 --> 04:36.800
+The other thing I need to do now is find what is the angle Coast theta.
+
+04:37.440 --> 04:40.360
+While the angle coast data is also defined here.
+
+04:41.200 --> 04:44.880
+So you could see Coast theta simply x divided by by R..
+
+04:46.280 --> 04:56.160
+So if you simplify things you'll have K D Q X divided by our cube.
+
+04:56.160 --> 04:57.300
+All right great.
+
+04:57.660 --> 05:04.560
+Next thing we have to do now is well let's get rid of D Q Because we're gonna have to add over all of
+
+05:04.560 --> 05:07.270
+our small little charges okay.
+
+05:07.500 --> 05:16.170
+And the way you do that is through the charge density remember our charge density for this wire was
+
+05:16.170 --> 05:19.380
+simply the total charge divided by the total length
+
+05:22.680 --> 05:33.720
+so that also means that I can write the charge density as D Q divided by the small length d y of this
+
+05:33.720 --> 05:36.690
+small tiny segment okay.
+
+05:37.760 --> 05:43.340
+So this is kind of something you always do when you're dealing with charge distributions as you have
+
+05:43.340 --> 05:48.010
+to eliminate that small charge and write it in terms of the charge density.
+
+05:48.050 --> 05:53.330
+So for this specific problem this is kind of what we want to do here.
+
+05:53.390 --> 05:53.600
+All right.
+
+05:53.600 --> 06:02.780
+We can substitute that in our expression for the electric field and we can replace AR with our variable
+
+06:03.180 --> 06:10.160
+or the actual distance here from each small charge D Q to the point p and we're left with this expression
+
+06:10.160 --> 06:20.030
+over here that D E and it's only the x component here that you're looking at is simply K X the charge
+
+06:20.030 --> 06:28.430
+D Q I replace it with Lambda our charge density times the small element of length DIY and divided by
+
+06:28.430 --> 06:35.980
+our cube while R is the root of x squared plus Y squared.
+
+06:36.230 --> 06:40.650
+Therefore our cube this is gonna be to the three R's.
+
+06:40.700 --> 06:41.010
+All right.
+
+06:41.020 --> 06:48.590
+At the end you want to evaluate everything you want to find the total field and again it's only in the
+
+06:48.590 --> 06:55.970
+x direction so what you have to do is you have to sum or integrate all the contributions of all the
+
+06:55.970 --> 06:59.090
+D X values.
+
+06:59.090 --> 07:05.760
+So that means we want to integrate the right hand side of our electric field expression here.
+
+07:06.660 --> 07:20.070
+So that's K lambda x d y over X squared plus Y square to the three has and we're gonna integrate that
+
+07:20.080 --> 07:21.750
+we're integrating over y.
+
+07:22.450 --> 07:31.690
+We're integrating Y and Y goes if the total length of the wires L Y will go from minus L over to all
+
+07:31.690 --> 07:33.010
+the way to l over to
+
+07:38.850 --> 07:45.790
+not to simplify this a little bit further we can take out all the constants if you take out all the
+
+07:45.790 --> 07:51.130
+constants you're simply going to get that the total expression for the electric field is the magnitude
+
+07:51.130 --> 07:57.430
+of the x component is going to be KS A CONSTANT I could take it out of the integral land as a constant
+
+07:58.570 --> 08:09.490
+and left with the integral from minus L over to the L over to of x d y divided by X squared plus Y squared
+
+08:10.310 --> 08:12.570
+to the three halves.
+
+08:12.890 --> 08:13.220
+All right.
+
+08:14.620 --> 08:17.420
+So actually I could have factored out the X right.
+
+08:17.440 --> 08:20.290
+The X is also a constant for this problem.
+
+08:20.710 --> 08:22.300
+So let's do that right now.
+
+08:23.920 --> 08:29.530
+Let me take the X out and let's just put it out here all right.
+
+08:30.090 --> 08:31.930
+So let's go see how to evaluate this term
+
+08:34.870 --> 08:35.140
+okay.
+
+08:35.140 --> 08:41.670
+The next step I did was well we have to evaluate this integral and actually in its current form this
+
+08:41.680 --> 08:45.480
+is actually not that easy.
+
+08:45.520 --> 08:53.590
+So what I did was I simply went up and looked it up in an integral table kind of sheet a little bit
+
+08:54.080 --> 08:55.300
+but that's OK.
+
+08:55.430 --> 09:03.760
+I think once you get this result here you can do that to simply look it up in an integral table and
+
+09:03.760 --> 09:10.720
+after you're able to write that the total electric field magnitude in the x direction or the x component
+
+09:10.720 --> 09:14.760
+the field is simply going to be I'm going to evaluate this.
+
+09:14.760 --> 09:20.350
+So everything in the square bracket is what I looked up in the integral table and I'm integrating over
+
+09:20.350 --> 09:20.920
+y.
+
+09:21.160 --> 09:24.120
+So I'm gonna get y up here.
+
+09:24.220 --> 09:32.680
+I'm going to get X squared here and square root of x squared plus Y squared and evaluated between L
+
+09:32.680 --> 09:35.640
+over 2 and minus.
+
+09:36.400 --> 09:36.640
+All right.
+
+09:36.640 --> 09:45.580
+So the next step is you simply substitute in our limits here and this simplifies nicely to a result
+
+09:45.580 --> 09:48.300
+that looks like this.
+
+09:48.430 --> 10:00.320
+We're gonna have l over 2 divided by X squared X squared plus L over 2 squared and minus again.
+
+10:00.340 --> 10:07.670
+Now we're gonna have the same thing minus L over to X squared
+
+10:14.160 --> 10:14.490
+okay.
+
+10:14.500 --> 10:20.740
+So our final expression for the electric field or the magnitude of the electric field which is in the
+
+10:20.740 --> 10:21.490
+x direction
+
+10:24.400 --> 10:28.770
+is simply going to be both of those terms that are double up.
+
+10:29.180 --> 10:29.440
+Okay.
+
+10:29.500 --> 10:34.920
+They add up together and that means that this factor of two in the denominator here is going to leave.
+
+10:35.020 --> 10:43.720
+So we're gonna be left with K lambda l There's still an x term over there and this whole term is still
+
+10:43.720 --> 10:52.750
+there the square root of x squared plus L over 2 squared 1 simplification you can make you can get rid
+
+10:52.750 --> 10:58.660
+of the charge density remember the charge density we can write as the total charge divided by the total
+
+10:58.660 --> 11:00.030
+length.
+
+11:00.630 --> 11:05.980
+The nice thing about making this substitution is it's going to get the final solution a nice form because
+
+11:05.980 --> 11:08.890
+it's going to eliminate this length over here so let's do that.
+
+11:08.890 --> 11:10.650
+So we're gonna be left with K.
+
+11:10.960 --> 11:20.560
+The total charge that was on the wire divided by x divided by X squared plus L over 2 squared.
+
+11:21.280 --> 11:27.370
+So here's the final expression we get for our electric field produced by the wire when I'm a distance
+
+11:27.400 --> 11:30.630
+x away from the center of the wire.
+
+11:30.970 --> 11:31.290
+All right.
+
+11:31.330 --> 11:37.420
+So now let's manipulate this formula a little bit and see what happens when we're really far away from
+
+11:37.420 --> 11:37.840
+the wire.
+
+11:37.870 --> 11:40.570
+So we're gonna make X very very big and take the right limit.
+
+11:41.150 --> 11:46.230
+And what happens when x is small compared to the overall length of the wire.
+
+11:47.140 --> 11:52.210
+OK so now let's take the limit when we're gonna be really really far away from the wire.
+
+11:52.280 --> 11:56.920
+So actually Ed that didn't probably exaggerate this diagram enough but we're going to take the limit
+
+11:56.920 --> 12:00.090
+here when X is much much bigger than L.
+
+12:00.310 --> 12:05.500
+So how do we simplify this expression when X is very big.
+
+12:05.500 --> 12:12.790
+Well for that you simply have to expand the denominator and the way we're gonna do that is we're going
+
+12:12.790 --> 12:15.250
+to leave that x term alone.
+
+12:15.250 --> 12:20.740
+What I'm gonna do is I'm going to factor out one of the X terms from that square root rather than writing
+
+12:20.740 --> 12:21.460
+a square root.
+
+12:21.460 --> 12:26.440
+I'm simply going to write it as something raised to the 1 1/2.
+
+12:26.950 --> 12:34.370
+So if I take out an X and I already had an X on the outside I'm gonna have X squared over here.
+
+12:34.810 --> 12:46.300
+Now I'll be left with 1 plus L over 2 squared divided by also going to be divided by X squared because
+
+12:46.300 --> 12:50.770
+I factored out x an x squared term.
+
+12:50.770 --> 12:51.130
+Okay.
+
+12:51.130 --> 12:52.000
+Now what do we do.
+
+12:53.350 --> 12:56.590
+Well take a look at this term over here.
+
+12:56.590 --> 13:04.900
+This term in the denominator if X is very very big compared to l this term in the denominator at least
+
+13:04.900 --> 13:08.610
+the second part of it is going to be a very very small term.
+
+13:08.980 --> 13:13.320
+So you're gonna have one plus something that is very very small.
+
+13:15.100 --> 13:16.450
+And the way you expand that
+
+13:20.130 --> 13:30.080
+so if I have one and one plus a variable let's call it alpha where alpha is very very small.
+
+13:30.080 --> 13:33.100
+And in this case this is also raised to the one power.
+
+13:33.130 --> 13:40.510
+This here is approximately equal to one minus one half Alpha.
+
+13:40.510 --> 13:45.690
+Actually for this specific problem let's even just keep the one let's not even worry about this term.
+
+13:45.770 --> 13:46.540
+Right.
+
+13:46.570 --> 13:49.720
+If X is very big I divide by a very big number.
+
+13:49.720 --> 13:57.790
+This term is negligible compared to the one in which you're left with is simply at the field the X is
+
+13:57.790 --> 14:01.880
+simply k q divided by X squared.
+
+14:03.940 --> 14:08.130
+Well that should look like a really familiar result.
+
+14:08.380 --> 14:15.460
+This is exactly the fields you'd get if it was a point charged with a charge q right here at the origin
+
+14:16.060 --> 14:20.000
+and you were a distance x away and you were really far away right.
+
+14:20.050 --> 14:21.250
+Looks like a point charge
+
+14:27.340 --> 14:33.150
+so even though you had a uniform charge distribution here once you're really really far away it basically
+
+14:33.150 --> 14:34.440
+just looks like a point.
+
+14:34.980 --> 14:36.780
+So I kind of expect that result.
+
+14:36.780 --> 14:41.880
+Even before doing any of the calculation so let's have a look.
+
+14:41.880 --> 14:44.250
+Now what happens when I'm really close to the wire.
+
+14:45.210 --> 14:51.430
+So the distance x relative to the overall length is much much smaller.
+
+14:52.320 --> 14:54.530
+So how do you simplify this expression that limit.
+
+14:54.760 --> 15:03.990
+Well so in that limit what I can first do is I can first factor out turn from the bottom.
+
+15:03.990 --> 15:06.660
+It's similar to the previous case.
+
+15:06.660 --> 15:11.790
+So let's keep those terms the same except now instead of factoring out an X I don't want to do that
+
+15:11.790 --> 15:13.700
+because X is gonna be small.
+
+15:13.790 --> 15:14.740
+Okay.
+
+15:14.880 --> 15:20.220
+Actually what I want to do this time is I want to factor out an L over to term.
+
+15:20.220 --> 15:25.970
+If I factor out an L over to term well this term here is gonna be 1 plus.
+
+15:26.040 --> 15:35.340
+I'm gonna be left with x l over 2 squared and everything to the 1 half might have to just think about
+
+15:35.340 --> 15:37.500
+that for a little bit.
+
+15:37.500 --> 15:37.920
+All right.
+
+15:38.070 --> 15:44.700
+So now we're in the limit of x much much less than L.
+
+15:45.120 --> 15:46.530
+So what can I do to this term.
+
+15:46.560 --> 15:53.150
+Again if X is much much less than L this second term is very small compared to 1.
+
+15:53.630 --> 15:57.320
+So if it's very small compared to 1 Let's just get rid of it.
+
+15:57.480 --> 16:00.700
+So that's also the reason why you want to factor out an L over 2.
+
+16:00.700 --> 16:06.690
+Now you want to end up getting an expression in this denominator where we have one plus something that
+
+16:06.690 --> 16:09.260
+is very very small.
+
+16:09.540 --> 16:09.950
+All right.
+
+16:10.050 --> 16:16.620
+So at the end once you make this approximation you can write that field in the x direction simply going
+
+16:16.620 --> 16:20.600
+to be there's an L over to term I'm going to bring that 2 to the top.
+
+16:20.700 --> 16:21.630
+It's Kate Q
+
+16:24.240 --> 16:32.310
+divided by X and there's still an L there and I can't forget the total charge q over l like this and
+
+16:32.340 --> 16:36.500
+this whole term simply becomes a one the square root of 1 which is 1.
+
+16:37.020 --> 16:44.340
+The last thing I can do now is we can simplify this a little bit and fir the long wire it's probably
+
+16:44.340 --> 16:49.980
+best to write this in terms of yeah here's our factor of total charge divided by the total length.
+
+16:49.980 --> 16:57.720
+That's simply the charge density so you can write this as two times the constant K are charged density
+
+16:58.680 --> 17:07.800
+divided by X so the magnitude of the electric field produced by a wire when you're very close to it
+
+17:08.950 --> 17:14.730
+is simply this expression over here.
+
+17:14.730 --> 17:19.680
+Again if you remember what the constant K is K is simply 1 over for Pi Epsilon 0.
+
+17:20.160 --> 17:30.490
+So if you substitute that in there you're going to end up getting over to PI Epsilon 0 times x.
+
+17:30.810 --> 17:35.100
+Actually this is the exact same result you get using Gauss as law.
+
+17:35.820 --> 17:36.770
+I have a video on that.
+
+17:36.780 --> 17:42.150
+You can go have a look at it but if you want to find a field produced by an infinitely long wire or
+
+17:42.150 --> 17:47.550
+a really long wire you can use goats is low due to the symmetry of the problem and you'll get the same
+
+17:47.550 --> 17:50.330
+result here in the right hand box.

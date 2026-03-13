@@ -1,0 +1,115 @@
+WEBVTT
+
+00:00.090 --> 00:05.730
+All right here is content check five for RC circuits again same circuit as before or we're going to
+
+00:05.730 --> 00:09.300
+do now is what does the current through the capacitor.
+
+00:09.300 --> 00:15.330
+Well through the capacitor is it a little bit of kind of maybe not the best term to use here.
+
+00:15.330 --> 00:20.080
+Well we're asking for is it what is the the rate of change of the charger and what's the current in
+
+00:20.100 --> 00:22.470
+kind of this section over here.
+
+00:23.100 --> 00:27.720
+Just after you close the switch again the key to all these problems here is in the short time limit
+
+00:27.720 --> 00:34.590
+what you do is you just short off the capacitor or you just replace it with a wire.
+
+00:34.710 --> 00:41.340
+And now if you want to determine the current out here what we could do now is basically this outer branch
+
+00:41.340 --> 00:43.380
+has a resistance of zero.
+
+00:43.440 --> 00:47.320
+This other branches middle branch here has a resistance of two homes.
+
+00:47.370 --> 00:54.670
+So what happens when you kind of group them up had these basically behave like an effective resistance.
+
+00:54.670 --> 00:59.930
+And what's the value if there's two of them right the equivalent resistance if there's two you end up
+
+00:59.930 --> 01:06.820
+multiplying so you get two times zero divided by the sum two plus zero equals zero.
+
+01:06.920 --> 01:07.240
+Right.
+
+01:07.250 --> 01:13.370
+Basically all the current that comes into this junction Well it's going to go through the path of least
+
+01:13.370 --> 01:14.570
+resistance.
+
+01:14.630 --> 01:18.190
+It's going to go toward the capacitor initially.
+
+01:18.590 --> 01:20.510
+Why would it want to go through the two home.
+
+01:20.540 --> 01:20.780
+Right.
+
+01:20.780 --> 01:26.130
+That's more resistance initially going out in this outer branch.
+
+01:26.140 --> 01:32.320
+So all we have to do now is if we can determine how much current flows through the battery and across
+
+01:32.320 --> 01:37.390
+the 1 ohm resistor all that current initially is going to go toward this outer branch.
+
+01:37.520 --> 01:38.010
+OK.
+
+01:38.110 --> 01:43.810
+In order to do that all you have to do is apply Ohm's Law use LOOP rule and let's go around this outer
+
+01:43.810 --> 01:44.950
+branch.
+
+01:44.950 --> 01:48.310
+So the first thing I encounter is a 6 volt battery.
+
+01:48.310 --> 01:54.460
+The next thing I encounter now is a 1 ohm resistor and I'm going to get a voltage drop across that resistor
+
+01:54.520 --> 01:59.160
+and that's going to be equal to our I.
+
+01:59.190 --> 02:03.960
+So the resistance is one and the current is I and that's it.
+
+02:03.960 --> 02:08.880
+Now I'm at this point and now I keep going all the way around this outer branch but there's no resistance
+
+02:08.880 --> 02:09.860
+here initially.
+
+02:10.670 --> 02:12.930
+And then I go back to where I started.
+
+02:12.940 --> 02:13.980
+That's it.
+
+02:13.980 --> 02:19.550
+So the current at the end of the day six stamps is the correct answer.
+
+02:19.560 --> 02:27.600
+Again this is in the short time limit here where the capacitor behaves like a just resistance with or
+
+02:27.630 --> 02:29.030
+no resistance.
+
+02:29.140 --> 02:29.560
+Right.
+
+02:29.610 --> 02:30.210
+It shorted.

@@ -1,0 +1,1507 @@
+1
+00:00:01,780 --> 00:00:03,480
+Okay, welcome back everybody.
+
+2
+00:00:03,480 --> 00:00:08,260
+Today we're going to actually
+use the Feynman path integral
+
+3
+00:00:08,260 --> 00:00:13,780
+to obtain a few very interesting
+results and physical phenomena.
+
+4
+00:00:13,780 --> 00:00:17,160
+And in the first video today,
+we're going to actually,
+
+5
+00:00:17,160 --> 00:00:20,820
+you'll have a very unexpected
+surprisingly result.
+
+6
+00:00:20,820 --> 00:00:25,540
+Mainly, we're going to see
+how the Newton Equation,
+
+7
+00:00:25,540 --> 00:00:28,943
+second Newton law of
+classical physics appears in
+
+8
+00:00:28,943 --> 00:00:34,399
+the classical limit of Feynman
+by Feynman path integral.
+
+9
+00:00:35,520 --> 00:00:38,210
+So more precisely what I'm going to do,
+
+10
+00:00:38,210 --> 00:00:44,430
+I'm going to start with the expression we
+just discussed in the previous lecture.
+
+11
+00:00:44,430 --> 00:00:46,920
+Which tells us that the probability of
+
+12
+00:00:46,920 --> 00:00:51,790
+a quantum particle to go from
+an initial point to find a point.
+
+13
+00:00:51,790 --> 00:00:57,070
+R sub f can be written as the sum or
+actual value of a sum over
+
+14
+00:00:57,070 --> 00:01:02,640
+all classical trajectories which sort
+of symbolically represents what we call
+
+15
+00:01:02,640 --> 00:01:08,770
+the path integral of this individual
+quantum mechanical transition amplitude.
+
+16
+00:01:08,770 --> 00:01:13,440
+And each of these amplitudes is written
+as the exponential of this constant i,
+
+17
+00:01:13,440 --> 00:01:16,530
+times the classic collection, and
+divided by the Planck Constant.
+
+18
+00:01:17,600 --> 00:01:22,850
+And, surprisingly, what we're
+going to see is that the familiar
+
+19
+00:01:22,850 --> 00:01:26,190
+Equations of motion of
+the classical physics.
+
+20
+00:01:26,190 --> 00:01:29,360
+This Newton second law
+
+21
+00:01:29,360 --> 00:01:34,920
+appears as a result of taking
+the classical limit of this expression.
+
+22
+00:01:34,920 --> 00:01:38,590
+And I'm going to formulate precisely
+what I mean by the classical limit, but
+
+23
+00:01:38,590 --> 00:01:43,650
+at this stage let me just tell you that
+The classical limit will imply suppressing
+
+24
+00:01:43,650 --> 00:01:46,540
+the essence of quantum mechanics
+interference phenomenal
+
+25
+00:01:46,540 --> 00:01:49,990
+which are controlled by this
+blank constant each bar.
+
+26
+00:01:51,620 --> 00:01:54,670
+Now, just as a side comment here
+sort of historical comment.
+
+27
+00:01:54,670 --> 00:01:58,950
+Let me mention something about this
+equation so of course this I expect,
+
+28
+00:01:58,950 --> 00:02:03,670
+all of you or
+the majority of you to know this equation.
+
+29
+00:02:03,670 --> 00:02:07,060
+It's something we learn
+sometimes in high school
+
+30
+00:02:07,060 --> 00:02:11,420
+which is the second Newton law which is
+mass times acceleration of a classical
+
+31
+00:02:11,420 --> 00:02:16,048
+particle is equal to the sum of all
+the forces acting on the particle.
+
+32
+00:02:16,048 --> 00:02:21,630
+So apparently,
+if you read actually the original
+
+33
+00:02:22,670 --> 00:02:27,740
+scientific work by Newton, the first
+version, the first addition of this,
+
+34
+00:02:27,740 --> 00:02:33,030
+Principia, was published back in 1687,
+a long time ago.
+
+35
+00:02:33,030 --> 00:02:38,370
+So, we're not actually going to see
+this equation in this modern form.
+
+36
+00:02:38,370 --> 00:02:42,500
+The closest correlation to what we
+currently call Newton's Second Law
+
+37
+00:02:42,500 --> 00:02:47,380
+of Motion appeared in his original
+work in the Falling Four.
+
+38
+00:02:47,380 --> 00:02:50,840
+A change in motion is proportional
+to the mighty force impressed and
+
+39
+00:02:50,840 --> 00:02:53,829
+takes place along the straight line
+in which the force is presses.
+
+40
+00:02:54,880 --> 00:03:01,200
+It probably requires some imagination to
+connect this statement to this equation.
+
+41
+00:03:01,200 --> 00:03:03,930
+But, in any case obviously Newton
+
+42
+00:03:03,930 --> 00:03:08,000
+understood the basic principles
+of classical mechanics.
+
+43
+00:03:08,000 --> 00:03:09,700
+He was the one who created it.
+
+44
+00:03:09,700 --> 00:03:12,750
+So, there's no question about that.
+
+45
+00:03:12,750 --> 00:03:16,030
+So, this comment I just wanted
+to make to show you that.
+
+46
+00:03:16,030 --> 00:03:21,920
+Sometimes the regional discoveries will
+vary strongly from their original form,
+
+47
+00:03:21,920 --> 00:03:26,960
+and become even though we still give
+credit to people who were the first to put
+
+48
+00:03:26,960 --> 00:03:34,640
+them together, the final form may be quite
+different from what they were envisioning,
+
+49
+00:03:34,640 --> 00:03:40,750
+and this is perfect because I'm now, going
+back to the main subject of this video.
+
+50
+00:03:40,750 --> 00:03:46,500
+So now I'm going to actually
+show you how mathematically this
+
+51
+00:03:46,500 --> 00:03:51,530
+all the and
+well known Second Newton Laws appears from
+
+52
+00:03:51,530 --> 00:03:56,870
+this modern more sophisticated quantum
+theory, similarly unrelated theory.
+
+53
+00:03:56,870 --> 00:04:01,740
+In order for me to show you how it
+happens, I need to present mathematical
+
+54
+00:04:01,740 --> 00:04:06,610
+trick or method called Laplace's
+methods or saddle-point approximation.
+
+55
+00:04:06,610 --> 00:04:10,420
+Which allows us to calculate
+certain integrals that otherwise
+
+56
+00:04:10,420 --> 00:04:12,110
+cannot be calculated.
+
+57
+00:04:12,110 --> 00:04:16,690
+And this method as we'll see sort
+propagates more complicated theories
+
+58
+00:04:16,690 --> 00:04:21,510
+including our ability to calculate
+certain path integrals approximately.
+
+59
+00:04:21,510 --> 00:04:26,870
+Now we have seen already the Gaussian
+integral which is an integral of
+
+60
+00:04:26,870 --> 00:04:32,000
+e to the minus x squared And
+between minus infinity and plus infinity.
+
+61
+00:04:32,000 --> 00:04:35,250
+And we know the result is equal
+to the square root of pi.
+
+62
+00:04:35,250 --> 00:04:40,240
+So of course what this integral is
+is the area enclosed by this curve,
+
+63
+00:04:40,240 --> 00:04:41,370
+which is nothing but
+
+64
+00:04:41,370 --> 00:04:46,320
+the plot of this Gaussian function e,
+-x squared, as a function of x.
+
+65
+00:04:47,320 --> 00:04:51,130
+Now of course, this function is special,
+well, there's nothing very special about
+
+66
+00:04:51,130 --> 00:04:55,230
+this function, but it does appear
+in many fields in math and physics.
+
+67
+00:04:55,230 --> 00:04:58,810
+And one property of this
+function is that it decays very,
+
+68
+00:04:58,810 --> 00:05:04,020
+very fast when the argument
+x becomes large.
+
+69
+00:05:04,020 --> 00:05:07,260
+Either they're very negative or
+very positive.
+
+70
+00:05:07,260 --> 00:05:12,730
+Now, in general however if you want
+to calculate the integral of let's
+
+71
+00:05:12,730 --> 00:05:17,040
+say from minus infinity to plus infinity,
+or some other limits of a function,
+
+72
+00:05:17,040 --> 00:05:22,240
+e to the power, minus f(x), where f(x)
+is relatively every few function.
+
+73
+00:05:22,240 --> 00:05:25,330
+There is no closed mathematical
+expression, typically, for
+
+74
+00:05:25,330 --> 00:05:26,180
+recession integral.
+
+75
+00:05:27,330 --> 00:05:31,190
+But it turns out that if there is a small
+parameter in the exponential, if this
+
+76
+00:05:31,190 --> 00:05:35,210
+function actually involves not just f(x)
+but f(x) divided by some epsilon and
+
+77
+00:05:35,210 --> 00:05:40,510
+this epsilon is very small, then one,
+in many cases, can simplify things.
+
+78
+00:05:40,510 --> 00:05:43,800
+And I will explain the logic
+behind this simplification.
+
+79
+00:05:43,800 --> 00:05:47,440
+A particular example of
+this function of a fact,
+
+80
+00:05:47,440 --> 00:05:52,610
+which is x squared plus one over x
+squared, and so I want to integrate
+
+81
+00:05:52,610 --> 00:05:57,230
+the exponential of minus this function
+from minus infinity plus infinity.
+
+82
+00:05:57,230 --> 00:06:01,020
+So, there's not closed analytical
+expression for the integral of this word,
+
+83
+00:06:01,020 --> 00:06:07,070
+but it turns out that if indeed we have
+this small parameter in the denominator,
+
+84
+00:06:07,070 --> 00:06:10,680
+of the exponential,
+things can actually be simplified.
+
+85
+00:06:11,830 --> 00:06:14,840
+In order to see how it happens,
+let me plot this function f of x.
+
+86
+00:06:14,840 --> 00:06:19,130
+And so if we do so,
+we see that there is a minimum, but
+
+87
+00:06:19,130 --> 00:06:22,790
+of course due to the minus
+sign in the exponential.
+
+88
+00:06:22,790 --> 00:06:27,170
+The smaller the f of x the larger
+the exponential itself.
+
+89
+00:06:27,170 --> 00:06:30,250
+And vice versa, if f of x,
+on the other hand, very large and
+
+90
+00:06:30,250 --> 00:06:33,850
+positive, either the the bar
+minus f of x becomes negligible.
+
+91
+00:06:34,860 --> 00:06:39,260
+So if we now plot the function
+f of x to one to integrate,
+
+92
+00:06:39,260 --> 00:06:43,030
+it's going to look approximately
+like this, my artistic expression.
+
+93
+00:06:43,030 --> 00:06:46,780
+Of what it's going to look like, but
+the point here is it is going to have
+
+94
+00:06:46,780 --> 00:06:51,980
+a maximum around where f(x) is minimal and
+
+95
+00:06:51,980 --> 00:06:54,720
+is going to have the stills
+which become smaller and
+
+96
+00:06:54,720 --> 00:07:00,120
+smaller as f(x) becomes larger.
+
+97
+00:07:00,120 --> 00:07:05,370
+So, what we want to collect
+the area influenced by this curve.
+
+98
+00:07:05,370 --> 00:07:09,410
+And so some area will come from the region
+of this maximum summary account will
+
+99
+00:07:09,410 --> 00:07:11,340
+come from this [INAUDIBLE].
+
+100
+00:07:11,340 --> 00:07:15,370
+So, but S epsilon,
+this parameter here becomes smaller and
+
+101
+00:07:15,370 --> 00:07:18,570
+smaller, we'll see when it's 0.1 or
+something like that, so
+
+102
+00:07:18,570 --> 00:07:22,595
+then it implies that our exponential
+[INAUDIBLE] either part one or
+
+103
+00:07:22,595 --> 00:07:27,490
+0.1 which means either part
+10 of whatever the are and
+
+104
+00:07:27,490 --> 00:07:32,710
+so the will become less and less
+relevant on the background of this peak.
+
+105
+00:07:32,710 --> 00:07:38,430
+So for instance, for a smaller epsilon,
+let's say my f of x.
+
+106
+00:07:38,430 --> 00:07:40,770
+So for a smaller epsilon,
+it's going to look like this.
+
+107
+00:07:40,770 --> 00:07:48,280
+So in some sense it's going to become
+closer and closer to the Gaussian form.
+
+108
+00:07:48,280 --> 00:07:49,451
+So the reason for that.
+
+109
+00:07:49,451 --> 00:07:54,600
+Because if I spend my function,
+f of x, in Taylor Series,
+
+110
+00:07:54,600 --> 00:07:58,812
+in the vicinity of this point,
+f of x Equals 1.
+
+111
+00:07:58,812 --> 00:08:03,543
+So what I'm going to get,
+is the first term
+
+112
+00:08:03,543 --> 00:08:08,413
+which is just the value
+of my function f of f
+
+113
+00:08:08,413 --> 00:08:13,281
+= 1 + f prime(f) = 1 (x- 1) + f 2
+
+114
+00:08:13,281 --> 00:08:18,900
+primes divided by 2 (x- 1) squared.
+
+115
+00:08:18,900 --> 00:08:22,780
+But since this is the minimum of
+my function, so the derivative,
+
+116
+00:08:22,780 --> 00:08:27,270
+the first derivative of my function
+here vanishes, it becomes equal to 0.
+
+117
+00:08:27,270 --> 00:08:33,381
+And so the only terms sort of in the
+leading order that matter are this guy and
+
+118
+00:08:33,381 --> 00:08:34,943
+the quadratical.
+
+119
+00:08:34,943 --> 00:08:39,209
+So essentially which means the integral
+that I'm dealing with Gaussin.
+
+120
+00:08:39,209 --> 00:08:42,735
+And as I mentioned, we know how
+to calculate Gaussian integrals.
+
+121
+00:08:42,735 --> 00:08:47,455
+So without going through the algebra,
+let me just sort of present the results.
+
+122
+00:08:47,455 --> 00:08:52,631
+So here I first present sort
+of a general result for
+
+123
+00:08:52,631 --> 00:08:56,461
+almost arbitrary function f(x).
+
+124
+00:08:56,461 --> 00:09:01,763
+And the first factor here comes
+essentially from the just simply
+
+125
+00:09:01,763 --> 00:09:07,472
+calculating the value of this
+exponential in the minimum point of f.
+
+126
+00:09:07,472 --> 00:09:11,365
+And the second true is the result
+of integrating the Gaussian part,
+
+127
+00:09:11,365 --> 00:09:14,080
+much like this Gaussian integral.
+
+128
+00:09:14,080 --> 00:09:18,645
+So for the particular function, we
+are not going to need this result at all.
+
+129
+00:09:18,645 --> 00:09:20,030
+So it was just an example.
+
+130
+00:09:20,030 --> 00:09:23,060
+But nevertheless, here is the answer.
+
+131
+00:09:23,060 --> 00:09:26,850
+Let me also mention another fact,
+which I'm not going to prove it.
+
+132
+00:09:26,850 --> 00:09:29,360
+But, it's important for the following.
+
+133
+00:09:29,360 --> 00:09:32,530
+That even if we have
+a slightly different integral.
+
+134
+00:09:32,530 --> 00:09:36,750
+When we have an exponential of i,
+the measuring constant i,
+
+135
+00:09:36,750 --> 00:09:41,980
+over some small parameter and some f(x).
+
+136
+00:09:41,980 --> 00:09:45,750
+So this integral oftentimes too
+can be simplified using this
+
+137
+00:09:45,750 --> 00:09:49,190
+very similar saddle-point
+approximation which we just discussed.
+
+138
+00:09:49,190 --> 00:09:54,121
+And the reason for that is because e to
+the power i f(x) can be written as a bunch
+
+139
+00:09:54,121 --> 00:09:55,556
+of cosines and sines.
+
+140
+00:09:55,556 --> 00:10:00,162
+And if epsilon becomes very small,
+they become strong oscillating
+
+141
+00:10:00,162 --> 00:10:04,540
+functions which on the average give us 0,
+if epsilon is small.
+
+142
+00:10:04,540 --> 00:10:08,961
+Because we have a plus, a positive part of
+the cosine, negative part of the cosine,
+
+143
+00:10:08,961 --> 00:10:13,100
+and then in some sense, they balance each
+other out and give on the average 0.
+
+144
+00:10:13,100 --> 00:10:17,240
+And there is a similar argument that you
+can actually write the expression of this
+
+145
+00:10:17,240 --> 00:10:22,590
+integral in a very similar form and focus
+only on the minimum of this function.
+
+146
+00:10:22,590 --> 00:10:27,500
+Now let me go back to quantum physics and
+we're going to
+
+147
+00:10:27,500 --> 00:10:31,690
+see how the previous mathematical
+discussion is going to become relevant.
+
+148
+00:10:33,252 --> 00:10:37,820
+Now, remember,
+my motivation in the very beginning,
+
+149
+00:10:37,820 --> 00:10:42,330
+I said that I want to take the classical
+limit of my quantum mechanical theory.
+
+150
+00:10:43,560 --> 00:10:46,670
+So what does it mean to
+take a classical limit?
+
+151
+00:10:46,670 --> 00:10:51,870
+So let us recall that the most interesting
+quantum phenomenon that we have in quantum
+
+152
+00:10:51,870 --> 00:10:57,830
+mechanics was actually discovered, implied
+interference between different waves,
+
+153
+00:10:57,830 --> 00:11:00,670
+sort of describing wave
+functions describing a particle.
+
+154
+00:11:02,160 --> 00:11:05,820
+So if we want to kill, in some sense,
+the quantum mechanical effects,
+
+155
+00:11:05,820 --> 00:11:08,220
+we want to suppress
+the interference phenomena.
+
+156
+00:11:08,220 --> 00:11:11,820
+Or we want to make the wave
+length as small as possible.
+
+157
+00:11:11,820 --> 00:11:15,479
+So let's say if we have
+a particle with a momentum p, so
+
+158
+00:11:15,479 --> 00:11:20,336
+the corresponding wave length is
+going to be, per debroyles argument,
+
+159
+00:11:20,336 --> 00:11:22,341
+is going to be h borrower 2 pi p.
+
+160
+00:11:22,341 --> 00:11:26,917
+So if you want to set a lambda to 0,
+that is to completely suppress
+
+161
+00:11:26,917 --> 00:11:31,581
+the interference effects of
+the particle's actual wavelength,
+
+162
+00:11:31,581 --> 00:11:34,342
+we want to set, in some sense, h to 0.
+
+163
+00:11:34,342 --> 00:11:38,698
+So the Planck constant, which controls
+the quantum effects, which is sort of
+
+164
+00:11:38,698 --> 00:11:43,200
+the essence of quantum mechanics, so
+it should be set to 0 in order to take.
+
+165
+00:11:43,200 --> 00:11:47,270
+So now recall the expression for
+the Feynman path integral.
+
+166
+00:11:47,270 --> 00:11:51,134
+So we see that in the quasi classical
+limit, in the classical limit,
+
+167
+00:11:51,134 --> 00:11:55,467
+when h formally is taken to 0, the
+function that we are actually a functional
+
+168
+00:11:55,467 --> 00:11:59,668
+better to say that we're integrating
+becomes in some sense very similar to
+
+169
+00:11:59,668 --> 00:12:03,590
+the types of functions that
+we saw in the previous slide.
+
+170
+00:12:03,590 --> 00:12:04,940
+With the h bar here,
+
+171
+00:12:04,940 --> 00:12:09,951
+the Planck constant being equivalent
+in a sense to the parameter epsilon,
+
+172
+00:12:09,951 --> 00:12:14,740
+that control the applicability of
+the saddle-point approximation.
+
+173
+00:12:15,890 --> 00:12:20,670
+And also in the full analogy with this
+previous slide with this saddle-point
+
+174
+00:12:20,670 --> 00:12:24,590
+approximation, we can see that as
+h becomes smaller and smaller so
+
+175
+00:12:24,590 --> 00:12:28,500
+we can only focus on the trajectories
+in the vicinity of the trajectory for
+
+176
+00:12:28,500 --> 00:12:29,780
+which the action is minimal.
+
+177
+00:12:31,430 --> 00:12:37,400
+So basically the limit of h going to
+0 therefore reproduces the principle
+
+178
+00:12:37,400 --> 00:12:42,420
+of least action, which is another sort
+of cornerstone of classical physics.
+
+179
+00:12:43,830 --> 00:12:48,000
+Now I should comment here that of
+course h bar, the Planck constant,
+
+180
+00:12:48,000 --> 00:12:50,170
+is a fundamental physics constant.
+
+181
+00:12:50,170 --> 00:12:51,440
+We cannot take it to 0.
+
+182
+00:12:51,440 --> 00:12:54,730
+We cannot take the limit
+physically of h bar going to 0.
+
+183
+00:12:54,730 --> 00:12:58,460
+What it actually means when I'm saying
+that h bar goes to 0 and this also you're
+
+184
+00:12:58,460 --> 00:13:01,580
+going to see in the textbooks on
+quasi-classical approximation.
+
+185
+00:13:01,580 --> 00:13:06,620
+It means that we have essentially two
+types of length scales in our problem.
+
+186
+00:13:06,620 --> 00:13:11,600
+One type of length scale is the wave
+lengths of our quantum particles, and
+
+187
+00:13:11,600 --> 00:13:16,050
+the other type of length scales is
+the typical length scales in our system.
+
+188
+00:13:16,050 --> 00:13:20,100
+And if the wave length of our quantum
+particles are much more than everything
+
+189
+00:13:20,100 --> 00:13:22,504
+else, this effectively
+means this limit and
+
+190
+00:13:22,504 --> 00:13:27,142
+this effectively means the applicability
+of the quasi-classical approximations.
+
+191
+00:13:27,142 --> 00:13:31,517
+So for those of you familiar with
+Lagrangian classical mechanics,
+
+192
+00:13:31,517 --> 00:13:36,506
+it should be clear now that principle of
+least action all ready demands that we
+
+193
+00:13:36,506 --> 00:13:40,191
+essentially are going to
+reproduce Newton's equations as
+
+194
+00:13:40,191 --> 00:13:43,365
+was advertised at
+the beginning of the lecture.
+
+195
+00:13:43,365 --> 00:13:48,153
+So you can stop listening to the lecture
+right here and move on to the next part.
+
+196
+00:13:48,153 --> 00:13:52,856
+But for the sake of completeness,
+let me nevertheless present, or
+
+197
+00:13:52,856 --> 00:13:56,661
+remind you,
+of how these equations would come about.
+
+198
+00:13:56,661 --> 00:14:01,380
+So again, the question that we're now
+asking, okay, we have found that,
+
+199
+00:14:01,380 --> 00:14:04,107
+well if we take the Planck constant to 0,
+or
+
+200
+00:14:04,107 --> 00:14:08,903
+if we consider the wave lengths which
+are much smaller than everything else,
+
+201
+00:14:08,903 --> 00:14:13,665
+we must extract the minimum of the
+classical action from the path integral.
+
+202
+00:14:13,665 --> 00:14:17,835
+And this minimum would occur on
+a particular trajectory that particle
+
+203
+00:14:17,835 --> 00:14:18,900
+would follow.
+
+204
+00:14:18,900 --> 00:14:22,140
+So how to find this special trajectory?
+
+205
+00:14:22,140 --> 00:14:27,210
+So we can sort of motivate the standard,
+what is known as variational analysis by
+
+206
+00:14:27,210 --> 00:14:29,910
+this, again,
+simple analogy using the usual function.
+
+207
+00:14:29,910 --> 00:14:33,580
+So suppose we have
+an arbitrary function f(x),
+
+208
+00:14:33,580 --> 00:14:37,480
+which has a minimum or
+maximum principal too, somewhere.
+
+209
+00:14:37,480 --> 00:14:39,090
+But let's assume it's a minimum.
+
+210
+00:14:39,090 --> 00:14:42,710
+And we want to determine the point
+where this minimum actually occurs.
+
+211
+00:14:42,710 --> 00:14:47,440
+And for this I can again use
+the Taylor expansion for
+
+212
+00:14:47,440 --> 00:14:51,800
+this function f in the vicinity of this
+point, x0 that I'm trying to find.
+
+213
+00:14:51,800 --> 00:14:55,280
+And so it's going to have the value of
+the function at x0, the first derivative,
+
+214
+00:14:55,280 --> 00:14:57,430
+the second derivative, etc.
+
+215
+00:14:57,430 --> 00:15:00,595
+And the minimum of this functions,
+if I have functions, so
+
+216
+00:15:00,595 --> 00:15:03,590
+this minimum is going to
+occur where this derivative,
+
+217
+00:15:03,590 --> 00:15:09,000
+where the tangent to this plot,
+f(x), as a function of x is
+
+218
+00:15:09,000 --> 00:15:14,630
+going to be horizontal to the x direction
+or the first derivative vanishes.
+
+219
+00:15:14,630 --> 00:15:18,940
+Now an analogy to this if we
+have now a function of or
+
+220
+00:15:18,940 --> 00:15:21,970
+in particular our action as a fact.
+
+221
+00:15:21,970 --> 00:15:26,040
+So to determine a particular trajectory
+which we will identify as a classical
+
+222
+00:15:26,040 --> 00:15:27,250
+trajectory.
+
+223
+00:15:27,250 --> 00:15:32,860
+So we have to demand that if we calculate
+this action in the vicinity of this
+
+224
+00:15:32,860 --> 00:15:37,350
+classical trajectory for which the action
+is minimal, the first sort of variation of
+
+225
+00:15:37,350 --> 00:15:42,580
+the analogy, well the analogous part to
+this first derivative is going to vanish.
+
+226
+00:15:42,580 --> 00:15:45,582
+And this symbol, delta S = 0.
+
+227
+00:15:45,582 --> 00:15:50,538
+So this equation is a sort of
+mathematical expression for
+
+228
+00:15:50,538 --> 00:15:53,643
+this principle of the list action.
+
+229
+00:15:53,643 --> 00:15:58,763
+And in some sense, all of classical
+physics is contained in this equation,
+
+230
+00:15:58,763 --> 00:16:01,333
+which is actually quite remarkable.
+
+231
+00:16:01,333 --> 00:16:06,840
+Now if we now go back to, well, and recall
+the particular action we are studying now,
+
+232
+00:16:06,840 --> 00:16:11,814
+which is just the kinetic energy,
+mv squared/2- the potential energy for
+
+233
+00:16:11,814 --> 00:16:13,940
+a certain quantum particle.
+
+234
+00:16:13,940 --> 00:16:17,502
+So in order to find the classical
+trajectory, as we know,
+
+235
+00:16:17,502 --> 00:16:21,719
+we want to calculate the first variation,
+and we do so by writing this
+
+236
+00:16:21,719 --> 00:16:26,208
+action in the vicinity of the classical
+trajectory that we want to find.
+
+237
+00:16:26,208 --> 00:16:29,100
+So in some sense, what we should
+think about is that we have this
+
+238
+00:16:29,100 --> 00:16:31,480
+initial point and
+we have this final point, and
+
+239
+00:16:31,480 --> 00:16:36,370
+there is some unique trajectory
+that we are looking for.
+
+240
+00:16:36,370 --> 00:16:38,477
+But there're also trajectory
+very close to it.
+
+241
+00:16:40,718 --> 00:16:45,069
+And this deviation from this, so
+this black trajectory here is
+
+242
+00:16:45,069 --> 00:16:49,600
+the classical trajectory and
+the red ones are classical plus dr.
+
+243
+00:16:49,600 --> 00:16:54,570
+And this dr is a small deviation
+from the classical path.
+
+244
+00:16:54,570 --> 00:16:58,780
+So if we now just simply plug this
+expression into this expression for
+
+245
+00:16:58,780 --> 00:17:02,290
+the action, so we are going to have
+the kinetic energy through, so
+
+246
+00:17:02,290 --> 00:17:10,030
+of course the velocity is just dr/dt, or
+abbreviated, we can write it as r dot.
+
+247
+00:17:10,030 --> 00:17:11,720
+So we're going to have here the two terms.
+
+248
+00:17:11,720 --> 00:17:16,130
+And we're going to have two terms as
+an argument of the potential energy.
+
+249
+00:17:16,130 --> 00:17:20,940
+And since dr is very small, we're going to
+keep track only of the linear terms here.
+
+250
+00:17:20,940 --> 00:17:25,846
+So for example,
+in the kinetic energy part, so
+
+251
+00:17:25,846 --> 00:17:31,980
+here we're going to have m/2
+plus equal velocity squared,
+
+252
+00:17:31,980 --> 00:17:37,149
+plus the linear term,
+which comes from 2r.dr.
+
+253
+00:17:37,149 --> 00:17:43,255
+So we're going to have m r
+plus equal dot plus dr dot.
+
+254
+00:17:43,255 --> 00:17:45,766
+And this guy, what we're going to do,
+
+255
+00:17:45,766 --> 00:17:50,638
+we're going to expand this function
+in Taylor series up to linear order.
+
+256
+00:17:50,638 --> 00:17:56,410
+And again, we can do that
+because this dr is very small.
+
+257
+00:17:56,410 --> 00:18:01,454
+And so we're going to have the classical
+
+258
+00:18:01,454 --> 00:18:08,710
+V of r classical minus dv/dr,
+the gradient, dot dr.
+
+259
+00:18:11,370 --> 00:18:14,770
+And everything integrated over time.
+
+260
+00:18:14,770 --> 00:18:16,360
+So we have four terms here.
+
+261
+00:18:16,360 --> 00:18:18,170
+So this term is simple enough.
+
+262
+00:18:18,170 --> 00:18:22,780
+And these two terms actually, this guy and
+this guy, together, they represent
+
+263
+00:18:22,780 --> 00:18:27,510
+the classical action, so the one which
+occurs on the classical trajectory.
+
+264
+00:18:27,510 --> 00:18:30,330
+Remember, what we want is not
+the classical action itself.
+
+265
+00:18:30,330 --> 00:18:32,812
+But in some sense
+the derivative of the action,
+
+266
+00:18:32,812 --> 00:18:35,998
+basically with something which
+is proportional to this dr.
+
+267
+00:18:35,998 --> 00:18:40,390
+The only term which is sort of
+non trivial is this guy, okay?
+
+268
+00:18:40,390 --> 00:18:47,510
+And it can be further simplified
+by using the integration by parts.
+
+269
+00:18:47,510 --> 00:18:50,606
+So just to remind you, I'm sure you have,
+many of you have seen it before.
+
+270
+00:18:50,606 --> 00:18:54,880
+So if we have an integral,
+let's say from a to b,
+
+271
+00:18:54,880 --> 00:19:00,080
+of a function f with terms g'dx,
+so we can write it as
+
+272
+00:19:01,570 --> 00:19:06,990
+derivative of everything of g'- f'g.
+
+273
+00:19:06,990 --> 00:19:12,650
+And so here, I have the full derivative,
+and I can basically calculate
+
+274
+00:19:12,650 --> 00:19:16,570
+the value of the functions.
+
+275
+00:19:16,570 --> 00:19:20,286
+And the limits essentially move
+the derivative from the function g to
+
+276
+00:19:20,286 --> 00:19:22,170
+the function f.
+
+277
+00:19:22,170 --> 00:19:27,680
+Now in our case, the role of
+the function g is played by this dr dot,
+
+278
+00:19:27,680 --> 00:19:30,610
+and the role of the function
+f is played by this mr dot.
+
+279
+00:19:30,610 --> 00:19:33,796
+So we want to move the derivative
+over time from here to here.
+
+280
+00:19:33,796 --> 00:19:38,832
+But this full derivative term,
+so if we're going to calculate
+
+281
+00:19:38,832 --> 00:19:43,767
+the values of this function dr
+in the endpoints at time 0 and
+
+282
+00:19:43,767 --> 00:19:49,840
+time t, they correspond to
+the endpoints of this trajectory.
+
+283
+00:19:49,840 --> 00:19:52,388
+So in our trajectory remember spinned, so
+
+284
+00:19:52,388 --> 00:19:56,873
+we have to go from the prescribed
+initial point to prescribed final point.
+
+285
+00:19:56,873 --> 00:19:58,600
+So there is no freedom for
+
+286
+00:19:58,600 --> 00:20:03,889
+this sort of fluctuation to deviate
+from these initial and final points.
+
+287
+00:20:05,100 --> 00:20:07,743
+It can only deviate from
+the classical trajectory in between.
+
+288
+00:20:07,743 --> 00:20:10,558
+So what I'm saying here is that this term,
+
+289
+00:20:10,558 --> 00:20:14,780
+the full derivative term in this
+particular case vanishes, and
+
+290
+00:20:14,780 --> 00:20:19,720
+we can simply move the derivative
+from here to here with a minus sign.
+
+291
+00:20:19,720 --> 00:20:23,600
+If we put everything together based
+on this discussion, so essentially,
+
+292
+00:20:23,600 --> 00:20:29,980
+if we integrate by parts and replace this
+and this term with classical action.
+
+293
+00:20:29,980 --> 00:20:35,271
+We're going to have this classical
+action minus because there
+
+294
+00:20:35,271 --> 00:20:40,457
+isn't going to be minus here and
+there is already minus here,
+
+295
+00:20:40,457 --> 00:20:45,432
+integral from 0 to r,
+m r two dots, second derivative,
+
+296
+00:20:45,432 --> 00:20:48,566
+because we moved it, plus dv/dr.
+
+297
+00:20:48,566 --> 00:20:54,038
+And everything is multiplied
+by this thing, dt.
+
+298
+00:20:54,038 --> 00:20:58,448
+Now remember,
+this is exactly our first derivation, and
+
+299
+00:20:58,448 --> 00:21:01,330
+this is something we want to set to 0.
+
+300
+00:21:01,330 --> 00:21:03,274
+And this guy must be equal to 0 for
+
+301
+00:21:03,274 --> 00:21:08,460
+every possible sort of fluctuation
+away from the classical trajectory.
+
+302
+00:21:08,460 --> 00:21:13,680
+And this implies that this
+expression in the curly brackets, so
+
+303
+00:21:13,680 --> 00:21:17,800
+this expression must be
+identically equal to 0 for
+
+304
+00:21:17,800 --> 00:21:22,720
+the first variation to vanish for us to
+be able to find the minimal reaction.
+
+305
+00:21:23,720 --> 00:21:28,169
+And if we're actually going to write it,
+
+306
+00:21:28,169 --> 00:21:33,769
+we're going to get m r two
+dots is equal to -dv/dr.
+
+307
+00:21:34,956 --> 00:21:39,990
+Well, the second derivative for the
+coordinate is known as the acceleration,
+
+308
+00:21:39,990 --> 00:21:45,920
+so the left hand side is simply m times a,
+and the right hand side
+
+309
+00:21:45,920 --> 00:21:51,040
+is the gradient of the potential energy,
+which is the force acting on the particle.
+
+310
+00:21:51,040 --> 00:21:54,644
+So we see that we indeed have derived the,
+
+311
+00:21:56,026 --> 00:22:03,330
+Newton second law from the principle
+of the action being minimal.
+
+312
+00:22:03,330 --> 00:22:08,076
+This principle itself followed from
+us taking the formal limit of h
+
+313
+00:22:08,076 --> 00:22:13,060
+bar going to 0, from setting to 0
+the wavelengths of our particles.

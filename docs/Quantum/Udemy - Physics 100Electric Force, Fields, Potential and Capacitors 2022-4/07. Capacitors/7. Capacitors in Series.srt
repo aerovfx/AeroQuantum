@@ -1,0 +1,190 @@
+WEBVTT
+
+00:00.240 --> 00:04.350
+So let's recap here what we just saw for capacitors and series.
+
+00:04.410 --> 00:06.930
+The first thing is our capacitor equation.
+
+00:06.930 --> 00:13.200
+It applies to each one of those capacitors which means you're going to write that that charge q one
+
+00:13.590 --> 00:20.460
+is equal to see one multiplied by the voltage across that one capacitor we call that V1.
+
+00:20.520 --> 00:22.520
+We go ahead and show what V1 looks like.
+
+00:22.530 --> 00:24.030
+The voltage across here.
+
+00:24.090 --> 00:24.960
+Right.
+
+00:25.020 --> 00:27.280
+And this is the voltage across this one.
+
+00:27.550 --> 00:30.560
+And this is the voltage across this one V3.
+
+00:30.630 --> 00:38.800
+So you're going to write this for each one of those capacitors right C2 V2 Q Three.
+
+00:38.930 --> 00:39.430
+Oy.
+
+00:39.450 --> 00:40.260
+Try that again.
+
+00:40.260 --> 00:41.130
+Come on.
+
+00:41.130 --> 00:47.570
+Q three equals to see three v three very important.
+
+00:47.880 --> 00:49.710
+Now what do we say about the charge.
+
+00:49.770 --> 00:53.350
+The charge is the same for all three capacitors.
+
+00:53.370 --> 01:00.270
+OK so that means each one of these has to be simply equal to Q some value.
+
+01:00.390 --> 01:03.180
+You have to have that the charge is the same.
+
+01:03.180 --> 01:04.980
+So again we have to have that.
+
+01:05.010 --> 01:06.710
+I mean make a bullet point here.
+
+01:06.840 --> 01:09.240
+Same charge on each
+
+01:12.560 --> 01:13.250
+capacitor
+
+01:16.100 --> 01:20.410
+again this applies only to capacitors in series with each other.
+
+01:20.680 --> 01:25.910
+And the other important equation that you need to solve any of these problems over here is that the
+
+01:25.910 --> 01:36.620
+voltage if I look at the voltage across each one if I is some those values v 1 plus v 2 plus v 3 again
+
+01:36.710 --> 01:42.800
+adding the voltages across it has to be the same as going across the other side has to be equal to the
+
+01:42.800 --> 01:44.790
+voltage across the battery.
+
+01:44.900 --> 01:45.790
+Super important.
+
+01:46.730 --> 01:46.990
+All right.
+
+01:47.020 --> 01:52.580
+So let me clean up the first equations I don't need a subscript for the charges because they're all
+
+01:52.580 --> 02:01.180
+the same and let me move this over and the other thing that you can do with these types of circuits
+
+02:01.180 --> 02:04.860
+right here you do one other thing.
+
+02:05.370 --> 02:12.980
+All right that's the charge relationship I can represent it using an effective an equivalent capacitance.
+
+02:12.980 --> 02:16.280
+All right I could simplify the circuit and write it like this.
+
+02:16.280 --> 02:24.400
+I have the same voltage V and I'm able to write it in terms of just one equivalent capacitance.
+
+02:24.490 --> 02:31.490
+It's not the same value as C one C two or C three but it's a combination of all three and this is what
+
+02:31.490 --> 02:34.940
+you call an equivalent capacitance.
+
+02:35.040 --> 02:38.600
+I'll show you a trick now for calculating the equivalent capacitance.
+
+02:38.600 --> 02:41.290
+It's very very straightforward.
+
+02:41.360 --> 02:47.450
+It's easier to calculate one divided by C equivalent and at the end what you have to do is take the
+
+02:47.450 --> 02:48.860
+reciprocal of that.
+
+02:48.920 --> 02:49.970
+All right.
+
+02:50.210 --> 02:57.860
+Because the one over the equivalent capacitance is one divided by C one plus one divided by C two plus
+
+02:57.860 --> 02:59.640
+one divided by C three.
+
+02:59.720 --> 03:04.460
+If you have more you just keep adding them like that one divided by okay.
+
+03:04.470 --> 03:09.630
+And after if I want to get the value for the equivalent capacitance you have to take the one divided
+
+03:09.630 --> 03:13.320
+by the number that you're going to get over here for example in this bracket.
+
+03:13.410 --> 03:17.730
+Can't forget that last step otherwise you get the wrong answer you don't have the right units.
+
+03:17.840 --> 03:18.030
+OK.
+
+03:18.060 --> 03:24.990
+So it's very easy to set up an equivalent circuit if you have capacitors in series with each other.
+
+03:25.080 --> 03:31.230
+Once you have this remember that the charge that you have on this equivalent capacitance is going to
+
+03:31.230 --> 03:34.740
+be the same charge Q that you had everywhere else.
+
+03:35.100 --> 03:42.070
+So you're still going to have plus q on this plate and negative Q on that plate so the way that the
+
+03:42.070 --> 03:50.020
+capacitor equation looks like for this simplified Circuit Assembly q equals to the equivalent capacitance
+
+03:50.020 --> 03:52.540
+multiplied by the voltage.
+
+03:52.870 --> 03:57.650
+Always the same equation that applies if you have a simple circuit like this.
+
+03:57.700 --> 03:58.020
+All right.
+
+03:58.030 --> 04:02.640
+So that is a recap of what's going on for capacitors in series.
+
+04:02.650 --> 04:09.550
+Same charge the sum of the voltages has to be equal to the voltage across all three which is the same
+
+04:09.550 --> 04:12.210
+voltage as the battery in this case.
+
+04:12.460 --> 04:19.420
+And you could simplify using an equivalent capacitance and the formula for the equivalent capacitance
+
+04:19.420 --> 04:21.520
+is the one provided here in purple.
+
+04:21.520 --> 04:21.730
+All right.

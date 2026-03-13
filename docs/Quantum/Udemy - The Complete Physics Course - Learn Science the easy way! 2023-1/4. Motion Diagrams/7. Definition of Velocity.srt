@@ -1,0 +1,55 @@
+1
+00:00:00,390 --> 00:00:03,690
+Now, let's think of different examples of velocity.
+
+2
+00:00:04,170 --> 00:00:08,930
+Well, think about the traffic signs that you saw on your drive to school today.
+
+3
+00:00:08,970 --> 00:00:12,150
+So maybe you actually saw a sign here in the United States.
+
+4
+00:00:12,150 --> 00:00:20,600
+You might see a sign that says, hey and what the speed limit is 25 miles per hour.
+
+5
+00:00:21,860 --> 00:00:29,360
+Maybe it was actually written like this 25 mph, but that's the same thing, say 25 miles an hour,
+
+6
+00:00:29,360 --> 00:00:30,280
+written like this.
+
+7
+00:00:30,680 --> 00:00:31,740
+And what does that mean?
+
+8
+00:00:32,210 --> 00:00:36,830
+Hey, no, once again, I think I actually mentioned this in the previous lectures, but it's.
+
+9
+00:00:38,150 --> 00:00:44,010
+Going at this velocity, you'll be moving 25 miles in one hour.
+
+10
+00:00:44,150 --> 00:00:45,560
+That's what this means.
+
+11
+00:00:45,710 --> 00:00:55,220
+So you're changing your position of 25 miles over the certain amount of time, which is one hour, for
+
+12
+00:00:55,250 --> 00:01:00,380
+our example, over here, we're changing our position four meters in one minute.
+
+13
+00:01:00,830 --> 00:01:02,390
+And that's what its velocity is.
+
+14
+00:01:02,540 --> 00:01:08,630
+The velocity is a change in position over a certain amount of time.

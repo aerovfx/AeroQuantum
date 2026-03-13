@@ -1,0 +1,454 @@
+WEBVTT
+
+00:00.730 --> 00:08.980
+Another interesting effect that you will find in the rhythm of the quantum world is the so-called quantum
+
+00:08.980 --> 00:10.250
+tunneling effect.
+
+00:11.170 --> 00:18.980
+It is a strange phenomenon that emerges quite naturally once the time energy relation, the Heisenberg's
+
+00:19.000 --> 00:26.930
+uncertainty relation and the wave particle principle expressed by the debris relation are taken together.
+
+00:27.790 --> 00:34.750
+This implies that we have to expect very different behaviors between classical, mechanical and quantum
+
+00:34.750 --> 00:35.430
+objects.
+
+00:36.400 --> 00:45.130
+For instance, according to classical mechanics, we can throw an object over a wall only if it has
+
+00:45.130 --> 00:52.600
+a sufficient kinetic energy that can overcome the wall, which means more precisely, that there is
+
+00:52.600 --> 01:01.060
+enough kinetic energy that can be transformed into potential energy to reach the hate, the hate of
+
+01:01.060 --> 01:02.800
+the top of the wall wall.
+
+01:04.700 --> 01:11.150
+If it does not have that or more speed in the form of kinetic energy to overcome this potential barrier,
+
+01:11.810 --> 01:18.950
+it will hit the wall and eventually bounce back by more and more or less elastic or inelastic reflection.
+
+01:20.390 --> 01:24.360
+However, in quantum mechanics, things are a bit different.
+
+01:25.160 --> 01:33.980
+Any object's position and energy is due to Heisenberg's time, energy, uncertainty, always a bit uncertain,
+
+01:34.250 --> 01:42.280
+intrinsically fuzzy and smeared out over an average value and the figure for simplicity.
+
+01:42.530 --> 01:51.800
+We depicted the classical trajectory here with a solid line while the dashed lines stand for the quantum
+
+01:51.800 --> 01:52.640
+fuzziness.
+
+01:54.730 --> 02:04.000
+And this now is in turn means that due to this slight but sometimes, sometimes not negligible degree
+
+02:04.000 --> 02:13.510
+of uncertainty, a quantum particle which was prepared with a kinetic energy of a value near to that
+
+02:13.510 --> 02:22.960
+necessary to jump over the wall, but still classically insufficient to do that might yet possess due
+
+02:22.960 --> 02:25.150
+to this Quantum added.
+
+02:26.110 --> 02:33.670
+And certain quantum uncertainty might possess that little bit of additional energy that will eventually
+
+02:33.670 --> 02:36.610
+allow it to overcome the barrier.
+
+02:38.470 --> 02:46.510
+Therefore, in quantum physics, it is always possible, though usually with low probability, that
+
+02:46.510 --> 02:54.610
+sometimes particle will be able to overcome an obstacle, even if they have a slightly lower kinetic
+
+02:54.610 --> 02:59.990
+energy than that which is classically necessary, necessary to overcome it.
+
+03:01.810 --> 03:08.890
+This classically not allowed slipping through a barrier is called quantum tunneling.
+
+03:11.590 --> 03:17.860
+This was a bit of a down to earth and intuitive way to put things, a more rigorous understanding of
+
+03:17.860 --> 03:27.900
+quantum tunneling can be achieved if we also recall that the particles have a wave character, they
+
+03:28.000 --> 03:30.690
+due to the particle wave particle duality.
+
+03:30.700 --> 03:32.800
+We can describe them also with waves.
+
+03:33.610 --> 03:40.960
+With this perspective, we no longer conceive of a particle hitting a wall as a point like or eventually
+
+03:40.960 --> 03:45.700
+extend that well defined object which overcomes it or not.
+
+03:46.660 --> 03:55.570
+But rather we will visualize it as a travelling probability wave, which is in part reflected and in
+
+03:55.570 --> 03:57.640
+part transmitted through the barrier.
+
+03:58.060 --> 04:06.370
+Just like a light rail can be partially reflected and transmitted by a glass plate, a wave can do to
+
+04:06.400 --> 04:13.930
+diffraction effects be deviated from classical path, especially at the boundary of a sharp edge.
+
+04:15.140 --> 04:23.010
+In microscopic structures, it is more realistic to think of thin, atomic or molecular layers.
+
+04:23.780 --> 04:32.240
+These two are barriers that, for the sake of simplicity, can be approximated as a step function like
+
+04:32.240 --> 04:32.900
+this one.
+
+04:32.900 --> 04:41.600
+In this figure here, if you insert the wavefunction into the Schrodinger's equation and constrain the
+
+04:41.600 --> 04:51.230
+particle appropriately with the potential V of X, which represents the barrier, then you will obtain
+
+04:51.230 --> 05:00.260
+a different solution for the wave function BPCI of X before inside and after the barrier he ipsi of
+
+05:00.260 --> 05:08.450
+X is shown instead of its model of square and to show how the solution behaves inside and outside of
+
+05:08.450 --> 05:08.870
+the well.
+
+05:09.820 --> 05:18.220
+In the upper figure, you can see the image, imaginary and real parts of the wave function and how
+
+05:18.760 --> 05:27.910
+this is reflected and transmitted through the potential barrier in the lower figure, an analog representation.
+
+05:28.450 --> 05:34.660
+However, in this time, with a model squared of the wave function, that is, it is represented as
+
+05:34.660 --> 05:45.940
+a probability wave on one side, the left part of the figure here and incoming and reflected probability
+
+05:45.940 --> 05:53.510
+wave will overlap, that is, interfere and result in the left standing wave.
+
+05:54.040 --> 06:01.600
+Again, in principle, a similar standing wave effect that we saw for orbitals or in the black body
+
+06:01.600 --> 06:02.740
+radiation cavity.
+
+06:04.770 --> 06:11.670
+Inside the barrier, one gets an exponentially decaying wave function, which means an exponentially
+
+06:11.670 --> 06:17.930
+decaying probability with the thickness of the barrier of finding the particle inside it.
+
+06:19.230 --> 06:28.320
+But for the transmitted wave after the barrier, another solution will result and oscillating non-zero
+
+06:28.320 --> 06:35.940
+solution, implying a non-zero probability to find the particle having tunneled through the barrier.
+
+06:37.180 --> 06:44.800
+So before the barrier, there are several regions where we will find the particle being reflected since
+
+06:44.950 --> 06:51.730
+its kinetic energy was not sufficient to penetrate the barrier, at least classically, but there is
+
+06:51.730 --> 06:56.220
+also a small probability to find it after the barrier as well.
+
+06:57.480 --> 07:03.360
+Despite the fact that the classically did not have sufficient in the energy, kinetic energy to do so.
+
+07:05.040 --> 07:15.780
+Statistically, that means that multiple particles, even if all are prepared in the exact same kinetic
+
+07:15.930 --> 07:23.760
+kinetic energy again state, must have nevertheless slightly different energy values distributed over
+
+07:23.760 --> 07:32.770
+a mean energy due to the uncertainty that governs the quantum world due to the energy time uncertainty.
+
+07:32.790 --> 07:40.860
+For example, while most are reflected, a few will nevertheless make it through because these few will
+
+07:40.860 --> 07:48.600
+have a slightly higher energy content than the average value and which is considered the classical mechanical
+
+07:48.600 --> 07:56.220
+one and will be able to penetrate nevertheless the potential barrier, even though they were prepared
+
+07:56.520 --> 07:59.280
+in a lower energy, energetic state.
+
+08:01.240 --> 08:08.800
+This is in stark contrast to the classical behavior, where if a number of particles all have the same
+
+08:08.800 --> 08:12.220
+energy, they will all behave together in the same way.
+
+08:12.700 --> 08:17.900
+They will all bounce back or all jump over the obstacle.
+
+08:19.210 --> 08:27.490
+Nobody has been seen to be able to walk through a wall, for example, and yet little tiny quantum particles
+
+08:27.490 --> 08:28.870
+are allowed to do that.
+
+08:31.130 --> 08:36.700
+Atomic decays display quantum tunneling effects in a particularly striking manner.
+
+08:37.640 --> 08:43.460
+In fact, quantum tunneling explains why radioactive elements decay.
+
+08:44.450 --> 08:51.650
+An atomic nucleus can be represented as a potential well, where the protons and neutrons are trapped
+
+08:51.800 --> 09:02.450
+inside a square potential, a proton or neutron bound inside the atomic nucleus never has an entirely
+
+09:02.450 --> 09:08.230
+normal energy because of Heisenberg's position, momentum and certainty.
+
+09:08.810 --> 09:14.970
+It has a ground state energy, which in classical mechanics would be perfectly zero.
+
+09:15.140 --> 09:19.760
+But in quantum mechanics, it is tiny but non-zero.
+
+09:20.860 --> 09:29.020
+Recall how the same applies to the ground state energy of an electron in the hydrogen atom.
+
+09:30.540 --> 09:37.050
+It to this reason, there is a tiny but non-zero probability to tunnel, which the particle will acquire
+
+09:37.050 --> 09:47.940
+sooner or later, a sufficient impulse to overcome the nuclear barrier and traverse it sooner or later
+
+09:48.150 --> 09:53.880
+means that the time at which the signal decay will occur is completely undetermined.
+
+09:54.510 --> 09:59.130
+Also, one can speak of a mean lifetime for nuclease.
+
+10:00.880 --> 10:09.310
+For special nuclear strike, structural and energetic configurations, this period of time can be almost
+
+10:09.310 --> 10:09.870
+infinite.
+
+10:10.600 --> 10:19.570
+In that case, the nucleus is considered to be stable and that means for extremely long, eventually
+
+10:19.570 --> 10:21.940
+also longer than the life of the universe.
+
+10:22.450 --> 10:28.780
+Halftimes also very short, say, of the order of a few microseconds.
+
+10:30.100 --> 10:37.450
+An element is considered radioactive when several nuclei decay every second.
+
+10:38.810 --> 10:45.860
+But the underlying principle is substantially the same if we apply the Schrodinger equation to the nuclear
+
+10:45.860 --> 10:54.140
+potential well and set the appropriate boundary conditions, we obtain a solution for the wavefunction
+
+10:54.440 --> 10:58.990
+which will furnish the probability to tunnel outside.
+
+10:59.030 --> 11:08.480
+There is a little wave part of the solution, the small way the left and right side of X in the figure
+
+11:08.510 --> 11:18.020
+here, which is also non-zero at great distances from the atomic nucleus, and which means that there
+
+11:18.020 --> 11:28.430
+is a tiny but non-zero probability given, as usual by the model square of PSI of X to find a proton
+
+11:28.430 --> 11:32.240
+or neutron ejected outside the nucleus.
+
+11:33.110 --> 11:38.930
+And then we say that a nuclear decay even has taken place here.
+
+11:38.930 --> 11:51.710
+Also an example which shows nuclear decay, often uranium isotope into thorium, one with emission of
+
+11:51.710 --> 11:56.450
+an alpha particle, which is a helium nucleus.
+
+11:59.290 --> 12:05.260
+An important point to keep in mind for all these examples is that there is no way to determine.
+
+12:06.160 --> 12:15.400
+Or decide apriori which particles will tunnel through and which will not the tunnel effect, like all
+
+12:15.400 --> 12:20.210
+quantum effects, is a purely random stochastic effect.
+
+12:21.070 --> 12:27.850
+It is a probabilistic and completely unpredictable process which determines which of the single particles
+
+12:27.850 --> 12:29.480
+will tunnel through or not.
+
+12:30.460 --> 12:39.490
+You can never say when an element decays only the mean amount of time that it takes for half of the
+
+12:39.490 --> 12:41.280
+nuclei to decay.
+
+12:41.710 --> 12:49.390
+We can tell this fact will be used later to illustrate also the Schrodinger's cat paradox.
+
+12:51.390 --> 12:58.800
+Quantum theory is not just something theoretical, most of the physicists working on are with quantum
+
+12:58.800 --> 13:06.660
+theory today are mostly concerned with all sorts of possible practical applications rather than questions
+
+13:06.660 --> 13:08.250
+about its foundations.
+
+13:09.270 --> 13:15.750
+One interesting example, which shows how quantum effects are not only interesting phenomena for physical
+
+13:15.750 --> 13:20.880
+or philosophical ruminations, but also can have very practical applications.
+
+13:21.270 --> 13:28.110
+Is this so-called scanning tunneling microscope or shortly ASTM?
+
+13:29.520 --> 13:38.040
+And ASTM is a microscope that uses quantum tunneling effects to investigate surfaces of materials and
+
+13:38.040 --> 13:41.490
+the resolution of the atomic scale.
+
+13:42.660 --> 13:51.750
+It was possible to build such such microscopes only after the 1980s because they require particularly
+
+13:51.750 --> 14:00.030
+precise mechanics, cryogenic cryogenic techniques and extremely fine positioning methods.
+
+14:01.260 --> 14:06.120
+Their working principle, however, is relatively easy to understand.
+
+14:06.120 --> 14:11.540
+Once you know the ones, you know how quantum tunneling works.
+
+14:12.840 --> 14:20.250
+Very briefly and schematically, this figure shows a tip which is usually made of graphene.
+
+14:21.750 --> 14:30.870
+This tip must be extremely thin and sharp, a sort of needle which is only a few atoms thick itself
+
+14:31.410 --> 14:36.970
+in order to position it exactly on each individual atom from time to time.
+
+14:37.920 --> 14:46.590
+This tape is positioned through another very precise positioning system made of pizza, electric crystals,
+
+14:47.340 --> 14:55.680
+the genetic properties of which can be varied and modulated very precisely by applying an electric tension
+
+14:56.250 --> 14:59.510
+and which positions it the tip.
+
+15:00.090 --> 15:05.370
+This little needle above the surface that is to be analyzed.
+
+15:06.660 --> 15:15.060
+This graphene tip is positioned very closely to the atoms of the sample surface onto which also an electric
+
+15:15.060 --> 15:16.210
+potential is applied.
+
+15:16.560 --> 15:19.050
+So you have this electric potential on both sides.
+
+15:20.400 --> 15:29.610
+At some point they get so near that the electrons of one atom of the tip can quantum tunnel through
+
+15:29.820 --> 15:35.400
+the potential barrier induced by the tunneling voltage to the atom of the sample.
+
+15:37.720 --> 15:46.570
+This really is a tiny but measurable electric current, which can be read out if appropriate, appropriately
+
+15:46.570 --> 15:49.060
+amplified through some electronics.
+
+15:50.680 --> 15:59.080
+The tape then moves along on the sample surface by means of this pizza electric positioning system and
+
+15:59.380 --> 16:08.320
+through a computerized distance and position, control scans the area of interest step by step.
+
+16:09.830 --> 16:18.260
+It becomes then possible to reconstruct pixel by pixel an image that represents the atomic landscape.
+
+16:19.770 --> 16:20.340
+Thereby.
+
+16:21.480 --> 16:27.420
+Can one obtain images like this one, which is a Graffin surface?
+
+16:28.980 --> 16:39.300
+In some sense, we might say that the scanner is scanning tunneling microscope, the system allows us
+
+16:39.300 --> 16:42.030
+to see, so to speak, atoms.
+
+16:43.080 --> 16:51.330
+But you should by now be able to understand that what these images actually show are probabilities,
+
+16:52.170 --> 17:00.720
+more precisely the probability that is at the specific position, the microscope type measures and interaction
+
+17:00.930 --> 17:01.890
+with the atoms.
+
+17:02.970 --> 17:08.640
+And in what sense does this imply seeing, one might ask?
+
+17:10.590 --> 17:18.780
+Are these images really showing us an objective reality as things they are really.
+
+17:20.120 --> 17:24.650
+It's difficult to give a real answer to this, because, after all.
+
+17:25.590 --> 17:34.440
+It is difficult to say if a probability wave or a probability density distribution is something objectively
+
+17:34.440 --> 17:37.200
+real, but after all.
+
+17:38.130 --> 17:47.190
+This is what we are left with, the universe that we observe is at a quantum level is always and only
+
+17:47.670 --> 17:49.770
+a quantum probability distribution.

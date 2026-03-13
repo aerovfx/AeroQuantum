@@ -1,0 +1,725 @@
+WEBVTT
+
+1
+00:00:01.600 --> 00:00:07.120
+So in this last video of this lecture, I'm
+going to derive the harmonic oscillator
+
+2
+00:00:07.120 --> 00:00:13.790
+wave functions, but I will do so without
+writing down the Schrödinger Equation.
+
+3
+00:00:13.790 --> 00:00:19.760
+We will rely entirely on the solution that
+algebraic solution I presented that took
+
+4
+00:00:19.760 --> 00:00:25.990
+advantage of the creation and annihilation
+operator, it turns out that they are very
+
+5
+00:00:25.990 --> 00:00:30.700
+helpful in determining the explicit form
+of the oscillator wave functions, si of x.
+
+6
+00:00:32.280 --> 00:00:37.240
+So before we write down these wave
+functions we derive these wave functions
+
+7
+00:00:37.240 --> 00:00:41.840
+let me summarize what we know so
+far which is actually a lot so
+
+8
+00:00:41.840 --> 00:00:47.880
+first of all we found a way to represent
+the harmonic oscillator Hamiltonian
+
+9
+00:00:47.880 --> 00:00:53.420
+in this compact form in terms of
+this creation and operators here.
+
+10
+00:00:53.420 --> 00:00:59.830
+And using the algebra or the computation
+relations of these harmonic oscillator
+
+11
+00:00:59.830 --> 00:01:06.870
+operators, we derived the energy spectrum
+of the oscillator, which has this form.
+
+12
+00:01:06.870 --> 00:01:08.168
+H omega n + one half.
+
+13
+00:01:08.168 --> 00:01:10.440
+Where n = zero, one, two, etc.
+
+14
+00:01:12.940 --> 00:01:17.730
+And again, I reiterate that this spectrum
+is special in that the level spacing
+
+15
+00:01:17.730 --> 00:01:20.880
+between the neighboring
+levels is always the same, so
+
+16
+00:01:20.880 --> 00:01:24.180
+it doesn't change as we
+go higher up in energy.
+
+17
+00:01:24.180 --> 00:01:27.709
+So another thing we derived, and so
+here I'm being a little more specific.
+
+18
+00:01:28.840 --> 00:01:33.870
+Is that given an arbitrary icon
+state of the Hamiltonian with
+
+19
+00:01:33.870 --> 00:01:38.850
+a quantum number n as here,
+so we can generate the entire
+
+20
+00:01:38.850 --> 00:01:43.920
+spectrum by applying the creation
+operations and alienation
+
+21
+00:01:43.920 --> 00:01:49.650
+operators praise the energy
+of the system by h omega.
+
+22
+00:01:49.650 --> 00:01:51.820
+So we go from n to n + 1.
+
+23
+00:01:51.820 --> 00:01:55.180
+And in the case of normalized
+eigenfunctions there appears this
+
+24
+00:01:55.180 --> 00:01:55.770
+coefficient.
+
+25
+00:01:55.770 --> 00:02:00.270
+I haven't derived it in
+the previous video, but
+
+26
+00:02:00.270 --> 00:02:03.920
+this is rather straightforward to do so
+using the same methods.
+
+27
+00:02:03.920 --> 00:02:07.770
+And it's not in many textbooks so
+I'm not going to spend time on that.
+
+28
+00:02:07.770 --> 00:02:11.720
+And likewise, given the same eigenstate n.
+
+29
+00:02:11.720 --> 00:02:16.430
+We can find the state
+corresponding to a lower energy
+
+30
+00:02:16.430 --> 00:02:20.950
+with the one less quantum of h omega
+by applying this alienation operators.
+
+31
+00:02:22.300 --> 00:02:23.980
+But what we don't know at this stage,
+
+32
+00:02:23.980 --> 00:02:28.340
+we don't know an example of any wave
+function explicit wave-function.
+
+33
+00:02:28.340 --> 00:02:29.160
+So.
+And
+
+34
+00:02:29.160 --> 00:02:32.630
+preferably we would like to see
+a wave function that's in real space,
+
+35
+00:02:32.630 --> 00:02:35.550
+which is more intuitive that
+other sort of, let's say
+
+36
+00:02:35.550 --> 00:02:39.380
+abstract spaces that we have been
+operating with so far in this problem.
+
+37
+00:02:40.950 --> 00:02:46.160
+So in order to find the explicit form
+of an eigenfunction, let me actually
+
+38
+00:02:46.160 --> 00:02:52.420
+focus on the ground state that is
+the lowest energy state in our problem.
+
+39
+00:02:52.420 --> 00:02:56.630
+And this eigen state as we just discussed
+in the previous video is characterized by
+
+40
+00:02:56.630 --> 00:03:02.070
+the fact that the action of this
+a dagger e on it gives simply zero.
+
+41
+00:03:02.070 --> 00:03:05.400
+Gives us it's an eigen state
+with an eigen value zero.
+
+42
+00:03:05.400 --> 00:03:09.810
+Or the eigen energy of this
+state is equal to him over two.
+
+43
+00:03:09.810 --> 00:03:14.390
+So in other words, so
+the angulation operator
+
+44
+00:03:14.390 --> 00:03:19.330
+acting on this state Must produce zero and
+
+45
+00:03:19.330 --> 00:03:24.340
+we can write this operator
+explicitly in real space.
+
+46
+00:03:24.340 --> 00:03:29.280
+So we use the definition if
+we want of this a as so and
+
+47
+00:03:29.280 --> 00:03:31.930
+here what I'm going to do is
+I'm going to just write down
+
+48
+00:03:31.930 --> 00:03:36.980
+explicitly the form of the momentum
+operator and position operator.
+
+49
+00:03:36.980 --> 00:03:39.800
+In real space the position
+operator is really simple.
+
+50
+00:03:39.800 --> 00:03:45.070
+It's just a multiplication operator,
+while the momentum operator as we know,
+
+51
+00:03:45.070 --> 00:03:49.400
+is just minus i h bar d over dx.
+
+52
+00:03:49.400 --> 00:03:55.490
+So therefore here I will just simply
+remove the measuring constant.
+
+53
+00:03:55.490 --> 00:03:57.960
+So, all in all the.
+
+54
+00:03:57.960 --> 00:04:03.500
+Equation, so I should have written
+perhaps here psi0 because I'm
+
+55
+00:04:03.500 --> 00:04:10.110
+specifically talking about the ground
+state of the harmonic oscillator,
+
+56
+00:04:10.110 --> 00:04:15.290
+so explicitly the equation for this psi0,
+therefore, becomes the following.
+
+57
+00:04:15.290 --> 00:04:20.760
+So we'll have this square root
+of m omega over two h bar
+
+58
+00:04:20.760 --> 00:04:25.862
+x plus h over two
+
+59
+00:04:25.862 --> 00:04:31.370
+m omega h bar in the denominator d
+
+60
+00:04:31.370 --> 00:04:36.230
+over d x so which is coming
+from this momentum operator.
+
+61
+00:04:36.230 --> 00:04:40.339
+And this acts on si not and
+this whole thing must be equal to 0.
+
+62
+00:04:41.340 --> 00:04:45.990
+So here what I'm going to do, I'm going to
+simplify this thing a little bit so
+
+63
+00:04:45.990 --> 00:04:50.000
+I'm going to put the square
+root here on top.
+
+64
+00:04:50.000 --> 00:04:54.240
+I'm going to get rid of the factor two so
+
+65
+00:04:54.240 --> 00:05:00.410
+what I see here is that I can
+introduce a new parameter.
+
+66
+00:05:00.410 --> 00:05:06.780
+But we call it x naught, which is
+the square root of H divided by m omega.
+
+67
+00:05:06.780 --> 00:05:09.090
+And it appears both here and here.
+
+68
+00:05:09.090 --> 00:05:10.950
+And so this you can check that
+
+69
+00:05:12.580 --> 00:05:16.450
+the physical dimension
+of the square root of H.
+
+70
+00:05:16.450 --> 00:05:19.480
+Over m Amanda is a length scale.
+
+71
+00:05:19.480 --> 00:05:22.240
+So it has a physical dimension of length.
+
+72
+00:05:22.240 --> 00:05:28.430
+So this in some sense a natural length
+scale for the harmonic oscillator problem.
+
+73
+00:05:28.430 --> 00:05:30.630
+And so it is convenient therefore for
+
+74
+00:05:30.630 --> 00:05:35.210
+me to rewrite my equation as
+above in the full length form.
+
+75
+00:05:35.210 --> 00:05:42.540
+I will write it as X over x not
+plus x not times d over dx.
+
+76
+00:05:43.860 --> 00:05:46.830
+And this whole thing acts
+on the wave function.
+
+77
+00:05:46.830 --> 00:05:49.420
+So it effects and we want to produce 0.
+
+78
+00:05:49.420 --> 00:05:52.610
+So now,
+
+79
+00:05:52.610 --> 00:05:57.720
+let me just rewrite this equation
+in a slighty different form.
+
+80
+00:05:57.720 --> 00:06:01.910
+So I'm going to write dx
+over dx sine prime, so
+
+81
+00:06:01.910 --> 00:06:07.220
+this is going to be sine prime and
+put this guy in the left hand side.
+
+82
+00:06:07.220 --> 00:06:12.030
+So I'm going to have
+minus x over x 0 squared
+
+83
+00:06:12.030 --> 00:06:16.220
+times sine and so I just want to
+show this differential equation.
+
+84
+00:06:16.220 --> 00:06:21.680
+You can check, you can solve it formally
+or you can just convince yourself
+
+85
+00:06:21.680 --> 00:06:28.830
+that the solution to this equation is Is
+an exponential, it's Gaussian, basically.
+
+86
+00:06:28.830 --> 00:06:33.570
+Minus x squared over 2 x not squared.
+
+87
+00:06:33.570 --> 00:06:36.670
+So, and this is,
+let me just put 0's in, in
+
+88
+00:06:36.670 --> 00:06:41.070
+here which correspond again to the ground
+state and this is pretty much the result.
+
+89
+00:06:41.070 --> 00:06:45.760
+So, C here is a coefficient which
+is determined by the normalization
+
+90
+00:06:45.760 --> 00:06:46.940
+of this wave function.
+
+91
+00:06:46.940 --> 00:06:51.100
+So again, this wave function describes
+a particle in the ground state of
+
+92
+00:06:51.100 --> 00:06:56.430
+the harmonic oscillator and so
+therefore, the total probability for
+
+93
+00:06:56.430 --> 00:07:01.750
+me of finding a particle somewhere
+in space must be equal to one.
+
+94
+00:07:01.750 --> 00:07:02.400
+So therefore,
+
+95
+00:07:02.400 --> 00:07:07.570
+this integral from minus infinity
+to plus infinity of sine r squared.
+
+96
+00:07:07.570 --> 00:07:13.450
+So I don't bother here with the complex
+sines because everything is real so far.
+
+97
+00:07:13.450 --> 00:07:15.020
+So this must be equal to one.
+
+98
+00:07:15.020 --> 00:07:19.780
+And this gives me the value of the wave of
+
+99
+00:07:19.780 --> 00:07:23.320
+this coefficient that
+multiplies this ground state.
+
+100
+00:07:23.320 --> 00:07:25.870
+A wave function so
+let me just write it down.
+
+101
+00:07:25.870 --> 00:07:31.405
+So the C is equal to m omega over two,
+I'm sorry,
+
+102
+00:07:31.405 --> 00:07:36.030
+pi that is pi h bar to the power 1/4th.
+
+103
+00:07:36.030 --> 00:07:39.460
+So this is the normalization coefficient.
+
+104
+00:07:39.460 --> 00:07:43.110
+But notice that we have found the ground
+state wave function without actually
+
+105
+00:07:43.110 --> 00:07:44.430
+solving the Schroedinger equation.
+
+106
+00:07:44.430 --> 00:07:47.183
+We actually solved
+a much simpler equation.
+
+107
+00:07:47.183 --> 00:07:52.476
+This first order differential equation
+just by requiring that our wave
+
+108
+00:07:52.476 --> 00:07:57.950
+function is in state with
+an value zero of this operator.
+
+109
+00:07:57.950 --> 00:07:59.060
+Okay, so this is great.
+
+110
+00:07:59.060 --> 00:08:02.000
+So we can now work with this
+wave function if we want, but
+
+111
+00:08:02.000 --> 00:08:03.720
+what about the higher energy states?
+
+112
+00:08:03.720 --> 00:08:08.780
+So what we have just done
+was we determined this guy,
+
+113
+00:08:08.780 --> 00:08:13.410
+the lowest energy state, so here what
+I'm showing, let me just write down.
+
+114
+00:08:13.410 --> 00:08:19.810
+So this is, first of all, the potential
+of this v of x if this is x, and
+
+115
+00:08:19.810 --> 00:08:25.640
+this levels here correspond to the energy
+levels of the harmonic oscillator and
+
+116
+00:08:25.640 --> 00:08:30.370
+the lowest energy has the wave function
+as so which is usual Gaussian.
+
+117
+00:08:30.370 --> 00:08:32.540
+So this is a typical Gaussian.
+
+118
+00:08:32.540 --> 00:08:36.820
+And high energy states have a more
+complicated sort of texture.
+
+119
+00:08:36.820 --> 00:08:39.540
+So how do we get these eigan states?
+
+120
+00:08:39.540 --> 00:08:46.920
+Well, so here, we can take advantage
+again of the creation operators now.
+
+121
+00:08:46.920 --> 00:08:51.700
+So as we discussed In the first
+slide in this video so
+
+122
+00:08:51.700 --> 00:08:56.940
+the relationship between
+the low energy states and
+
+123
+00:08:56.940 --> 00:09:01.526
+high energy states, so let's say
+go from m to m + 1, we can simply
+
+124
+00:09:01.526 --> 00:09:07.260
+apply the creation
+operator divided by n + 1.
+
+125
+00:09:07.260 --> 00:09:08.260
+Square root of n+1.
+
+126
+00:09:08.260 --> 00:09:10.790
+So if we apply it to our in state n,
+we're going to get,
+
+127
+00:09:10.790 --> 00:09:16.300
+oops there's no square root here,
+there's just n+1,
+
+128
+00:09:16.300 --> 00:09:20.460
+a normalized state that
+corresponds to high energy.
+
+129
+00:09:20.460 --> 00:09:23.390
+And so what we can do,
+we can apply this operators.
+
+130
+00:09:23.390 --> 00:09:24.890
+let's say to our ground state.
+
+131
+00:09:24.890 --> 00:09:26.230
+So we can apply this guy.
+
+132
+00:09:28.304 --> 00:09:31.470
+As many times as we want
+to the ground state.
+
+133
+00:09:31.470 --> 00:09:35.560
+For instance,
+we can generate this wave function So
+
+134
+00:09:35.560 --> 00:09:40.120
+by just applying this derivative
+essentially to the Gaussian.
+
+135
+00:09:40.120 --> 00:09:45.170
+And this will produce certain coefficients
+in front of the Gaussian and this,
+
+136
+00:09:45.170 --> 00:09:50.219
+well not coefficients, better to say
+polynomials which are functions of x and
+
+137
+00:09:50.219 --> 00:09:57.376
+these guys, these polynomials they
+are called Hermite Polynomials
+
+138
+00:09:57.376 --> 00:10:01.909
+which are special functions and
+you can Google them or
+
+139
+00:10:01.909 --> 00:10:06.250
+you can look them up in Wikipedia and
+in many books.
+
+140
+00:10:06.250 --> 00:10:11.680
+So this sort of, this solution using
+the explicit form of the wave functions.
+
+141
+00:10:11.680 --> 00:10:16.000
+And the explicit form of
+the Hermite polynomials appears in
+
+142
+00:10:16.000 --> 00:10:18.540
+pretty much any book on quantum physics.
+
+143
+00:10:18.540 --> 00:10:22.600
+And I'm not going to spend time
+on discussing these details.
+
+144
+00:10:22.600 --> 00:10:26.940
+I will simply notice that you can
+actually solve the Schrödinger equation
+
+145
+00:10:26.940 --> 00:10:30.320
+starting from this spectrum,
+up to the ground state and
+
+146
+00:10:30.320 --> 00:10:35.250
+up to the excited state, using only
+the creation and annihilation operators.
+
+147
+00:10:35.250 --> 00:10:40.670
+So there's very little inside that is
+actually needed from the equation.
+
+148
+00:10:40.670 --> 00:10:43.270
+Which is in fact quite remarkable.
+
+149
+00:10:43.270 --> 00:10:48.337
+So in your homework, you will need to play
+around a little bit with this equation.
+
+150
+00:10:48.337 --> 00:10:53.974
+And with this grounded state function and
+I hope that you found this solution
+
+151
+00:10:53.974 --> 00:10:59.173
+illuminating and of course I encourage
+you to look into the literature
+
+152
+00:10:59.173 --> 00:11:04.134
+to see more about this very important
+problem of quantum physics.

@@ -1,0 +1,171 @@
+WEBVTT
+
+WEBVTT
+
+00:00.420 --> 00:02.880
+All right I'm a firm believer that practice makes perfect.
+
+00:02.880 --> 00:09.930
+So let's go ahead and practice this voltage law again for a couple more loops we draw the loop here
+
+00:09.970 --> 00:11.910
+let's draw this one.
+
+00:11.940 --> 00:17.320
+Let's maybe go through the 12 ohm resistor and then through the four and then come back down to Point
+
+00:17.380 --> 00:18.700
+A.
+
+00:18.730 --> 00:25.360
+So let's go ahead and apply the the the different rules so the first thing I'm going to encounter here
+
+00:25.360 --> 00:31.990
+if I start at point A and I move around this region over here I'm going to encounter a MF and I go from
+
+00:31.990 --> 00:36.480
+a low to a high potential which means I put plus 12 loops.
+
+00:36.580 --> 00:39.050
+Try this again plus 12.
+
+00:39.370 --> 00:41.170
+And next thing nothing happens.
+
+00:41.170 --> 00:43.410
+I'm just going along the wire here.
+
+00:43.510 --> 00:46.530
+The next thing I encounter is a 12 ohm resistor.
+
+00:46.950 --> 00:47.440
+OK.
+
+00:47.650 --> 00:50.280
+And I'm going in the direction of the current.
+
+00:50.410 --> 00:56.690
+If you go in the direction of the current you are going from a high potential to a low electrical potential.
+
+00:56.830 --> 01:00.040
+So there is a voltage drop across this resistor.
+
+01:00.310 --> 01:03.780
+The voltage drop across this resistor is given by Ohm's law.
+
+01:04.090 --> 01:05.170
+First of all to drop.
+
+01:05.170 --> 01:11.740
+So we represent that with a negative sign and the magnitude of the drop now is 12 multiplied by the
+
+01:11.740 --> 01:12.230
+current.
+
+01:12.260 --> 01:15.700
+I for Okay great.
+
+01:15.930 --> 01:23.130
+And the last case over here the next thing I encounter here is a 4 ohm resistor.
+
+01:23.170 --> 01:27.540
+Again I'm going to get a voltage drop because I'm going from a high electrical potential toward a lower
+
+01:27.540 --> 01:28.980
+electrical potential.
+
+01:29.350 --> 01:31.780
+The magnitude of the voltage drop is four.
+
+01:31.800 --> 01:36.700
+That's the value of the resistance multiplied by the current two.
+
+01:37.020 --> 01:40.700
+That's the current flowing through this resistance.
+
+01:40.720 --> 01:47.170
+Now I'm at this point in the circuit circuit I go all the way back to point a Kirchoff's voltage law
+
+01:47.170 --> 01:53.240
+says if I do a complete loop that's equal to zero pretty good.
+
+01:53.270 --> 01:53.580
+All right.
+
+01:53.600 --> 01:59.480
+Maybe let's try one more case let's highlight maybe what if I do a different loop let's start from a
+
+01:59.480 --> 02:05.490
+different point let's start from this junction over here and go around this tiny little loop.
+
+02:05.510 --> 02:08.700
+What happens if I go around just this tiny little loop up here.
+
+02:10.220 --> 02:11.890
+Well at the plier rules right.
+
+02:11.900 --> 02:15.130
+The only thing I'm going to encounter here are resistors.
+
+02:15.830 --> 02:21.710
+So the first thing I encounter if I go around in a counter-clockwise fashion the first thing I encounter
+
+02:21.710 --> 02:28.520
+is a 12 ohm resistor and I'm going in the direction of the current I4 which means I'm going from a high
+
+02:28.520 --> 02:35.530
+to a low electrical potential so that the voltage drop the voltage drop is given by ohms law and the
+
+02:35.570 --> 02:40.850
+voltage drop is minus 12 multiplied by 4.
+
+02:40.850 --> 02:46.500
+Notice it's the same term is what I had my previous equation.
+
+02:46.550 --> 02:47.570
+All right then what do I do.
+
+02:47.580 --> 02:53.390
+I'm just going at the top and now I'm going to cross a six ohm resistor and I'm crossing a resistor
+
+02:53.430 --> 02:57.780
+but I'm going from a low to a high electrical potential because I'm going in the opposite direction
+
+02:57.780 --> 02:59.180
+of the current.
+
+02:59.220 --> 03:05.340
+So this means years of voltage gain and that's given by Ohm's law which is six multiplied by the current
+
+03:05.620 --> 03:09.940
+three and that there is equal to zero.
+
+03:09.940 --> 03:12.360
+So that said See I have two equations here.
+
+03:12.490 --> 03:18.610
+They introduce different values of the currents because there is different voltage drops or voltage
+
+03:18.610 --> 03:23.860
+gains depending on the direction and depending which resistor that I'm looking at.
+
+03:23.860 --> 03:26.450
+But C.M. able to set up a series of equations.
+
+03:26.540 --> 03:33.040
+Now the equation one here is equation 2 I can also do another loop which could include other combinations
+
+03:33.040 --> 03:36.360
+of resistors and introduce the current I want if I wanted to.
+
+03:36.790 --> 03:42.730
+OK so I have different methods now to introduce different values of the currents at the end the goal
+
+03:42.730 --> 03:46.990
+is going to be to solve for these currents so they're going to be unknown's in our equations and we're
+
+03:46.990 --> 03:48.840
+going to need to solve them.
+
+03:48.880 --> 03:51.230
+We'll see how to do that in just a few minutes.

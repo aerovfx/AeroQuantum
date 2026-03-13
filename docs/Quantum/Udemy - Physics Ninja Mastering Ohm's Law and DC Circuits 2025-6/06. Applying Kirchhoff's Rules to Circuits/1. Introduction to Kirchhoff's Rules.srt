@@ -1,0 +1,82 @@
+WEBVTT
+
+00:00.630 --> 00:01.370
+Hi everybody.
+
+00:01.380 --> 00:06.690
+So this is Section 5 entitled A plan Kirchhoff's rules to circuits.
+
+00:06.690 --> 00:11.850
+So up until now we've learned quite a few things we talked about Ohm's law and looking at the potential
+
+00:11.850 --> 00:15.820
+difference across a resistor that has a current flowing through it.
+
+00:15.840 --> 00:19.370
+We talked about the differences between resistivity and resistance.
+
+00:19.380 --> 00:26.430
+We've looked at ways of simplifying networks of resistors to make circuits look as simple as possible.
+
+00:26.580 --> 00:32.390
+What we haven't done however is we haven't really looked at how to solve a complete circuit problem.
+
+00:32.430 --> 00:39.720
+And what I mean by that imagine you take this example of a circuit I have here in front of you the tools
+
+00:39.720 --> 00:44.640
+I'd given you up until now haven't really allowed you to calculate what is the current flowing through
+
+00:44.730 --> 00:46.680
+each and every one of those resistors.
+
+00:46.680 --> 00:48.060
+So that's what we're going to learn how to do.
+
+00:48.060 --> 00:53.850
+Now the circuit can be either a single loop or multi loop like the one I'm showing you here.
+
+00:54.270 --> 00:59.730
+Also what if you were asked to find what what if what if I attach a volt meter between two points in
+
+00:59.730 --> 01:00.680
+a circuit.
+
+01:00.750 --> 01:08.170
+It could be between points A and B it could be between this point and this point CND.
+
+01:08.370 --> 01:10.340
+What would the volt meter read.
+
+01:10.860 --> 01:17.250
+What if I tried to measure the current flowing through each in each individual resistor in this network
+
+01:17.250 --> 01:19.310
+how can I calculate the current.
+
+01:19.380 --> 01:24.280
+And then once I know the current flowing through each resistor I should be then able to calculate what
+
+01:24.280 --> 01:30.010
+the power dissipated by that resistor using some of the tools we already learned how to how to use.
+
+01:30.270 --> 01:35.210
+So in what follows here we're going to apply certain set of rules.
+
+01:35.310 --> 01:38.670
+There are two rules they're called Kirchhoff's rules for circuits.
+
+01:38.910 --> 01:43.140
+It's kind of like following dance steps if you want the dance to look good.
+
+01:43.170 --> 01:45.510
+You simply have to follow the steps that I'm going to give you.
+
+01:45.510 --> 01:47.340
+And they never fail.
+
+01:47.340 --> 01:52.740
+The steps are pretty straightforward and I'm going to teach you how to use them and at the end you're
+
+01:52.740 --> 01:57.340
+going to look at any circuit like this and you'll be able to analyze it with ease.

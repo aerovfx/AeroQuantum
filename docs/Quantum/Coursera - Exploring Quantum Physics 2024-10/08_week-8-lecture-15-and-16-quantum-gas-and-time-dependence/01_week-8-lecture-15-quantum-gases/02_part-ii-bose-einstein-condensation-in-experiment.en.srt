@@ -1,0 +1,1147 @@
+1
+00:00:01,490 --> 00:00:05,610
+Hello everyone, welcome back to exploring
+quantum physics, I'm Charles Clark.
+
+2
+00:00:05,610 --> 00:00:06,350
+In this part,
+
+3
+00:00:06,350 --> 00:00:11,070
+we're going to look at the experimental
+development of Bose-Einstein condensation.
+
+4
+00:00:11,070 --> 00:00:16,180
+As you saw in the previous lecture,
+the theory of BEC
+
+5
+00:00:16,180 --> 00:00:21,460
+was developed in 1924, and it more less
+likely dormant for about 70 years and
+
+6
+00:00:21,460 --> 00:00:27,800
+then explosive phase of growth
+which is still continuing.
+
+7
+00:00:27,800 --> 00:00:33,930
+70 years after Einstein first proposed
+Bose-Einstein condensation on ideal gas,
+
+8
+00:00:33,930 --> 00:00:39,600
+it was finally observed quite
+decisively in experiments.
+
+9
+00:00:39,600 --> 00:00:44,960
+And that's led to a real revolution in
+atomic and condensed matter physics.
+
+10
+00:00:46,440 --> 00:00:51,600
+So the first production of Bose-Einstein
+condensate in a laboratory was done
+
+11
+00:00:51,600 --> 00:00:56,510
+in 1995 at JILA, the joint institute
+of the University of Colorado and
+
+12
+00:00:56,510 --> 00:00:58,378
+the National Institute of Science and
+Technology.
+
+13
+00:00:58,378 --> 00:01:03,680
+And the key enabling technology for
+
+14
+00:01:03,680 --> 00:01:07,170
+this work,
+was the development of cooling and
+
+15
+00:01:07,170 --> 00:01:12,860
+trapping of atoms that first came
+on the scene in the early 1980s.
+
+16
+00:01:12,860 --> 00:01:17,320
+This has made it possible to get to much
+lower temperatures and has been obtained
+
+17
+00:01:17,320 --> 00:01:22,690
+in any other material system now down into
+the picokelvin machine in some cases.
+
+18
+00:01:23,880 --> 00:01:25,274
+And the decisive evidence for
+
+19
+00:01:25,274 --> 00:01:30,570
+Bose-Einstein condensation that
+was presented then is a picture of
+
+20
+00:01:30,570 --> 00:01:35,550
+the clouds of a rubidium
+gas after its release
+
+21
+00:01:35,550 --> 00:01:40,200
+from atomic trap at three
+different temperatures.
+
+22
+00:01:40,200 --> 00:01:44,460
+Now, we'll discuss in a moment how
+these temperatures are determined but
+
+23
+00:01:44,460 --> 00:01:49,380
+what you see are three images
+taken at different temperatures.
+
+24
+00:01:49,380 --> 00:01:52,720
+Going temperatures decreasing
+from one frame to the next and
+
+25
+00:01:52,720 --> 00:01:59,420
+you see a distinctive change in
+the density profile of this release cloud.
+
+26
+00:01:59,420 --> 00:02:04,170
+It's more or less a spherical
+cloud at the high temperature and
+
+27
+00:02:04,170 --> 00:02:08,760
+then a sharp and asymmetric peak
+develops as the temperature is lowered.
+
+28
+00:02:10,110 --> 00:02:15,620
+A very good, accessible account of this
+work is given in the additional materials,
+
+29
+00:02:15,620 --> 00:02:22,110
+written by Eric Cornell, who's, one of
+the co-authors of the original experiment.
+
+30
+00:02:24,680 --> 00:02:27,680
+Let me say something about these
+images that you're looking at,
+
+31
+00:02:27,680 --> 00:02:29,200
+just to try to make them clearer.
+
+32
+00:02:29,200 --> 00:02:32,240
+It may take a while to
+understand their implications.
+
+33
+00:02:32,240 --> 00:02:36,320
+These are just simple shadow
+grams you might say of
+
+34
+00:02:36,320 --> 00:02:39,040
+the atomic density in the expanded clouds.
+
+35
+00:02:39,040 --> 00:02:42,920
+So there's a small cloud of atoms here.
+
+36
+00:02:42,920 --> 00:02:49,290
+Light is incident from the left and
+then it's imaged by a microscope which
+
+37
+00:02:49,290 --> 00:02:54,960
+can scan in the horizontal direction there
+and so acquire an image of the density.
+
+38
+00:02:54,960 --> 00:02:59,220
+It's just determined by the absorption
+of the light by the gas.
+
+39
+00:02:59,220 --> 00:03:03,330
+So what you're seeing is
+the integrated density
+
+40
+00:03:03,330 --> 00:03:05,820
+of the gas in the line of the light.
+
+41
+00:03:07,070 --> 00:03:11,000
+And the coloring here is just
+artificial which is put in
+
+42
+00:03:11,000 --> 00:03:13,690
+to enhance the visual contrast of
+the image, it's just proportional.
+
+43
+00:03:13,690 --> 00:03:18,854
+It's just a look up table that
+reflect the density of the atoms.
+
+44
+00:03:21,617 --> 00:03:25,710
+So, this asymmetry is a very
+interesting aspect of
+
+45
+00:03:25,710 --> 00:03:28,480
+the formation of the quantum gas.
+
+46
+00:03:30,200 --> 00:03:33,580
+And if you return to thinking
+about classical mechanics,
+
+47
+00:03:34,910 --> 00:03:39,440
+classical statistical mechanics,
+there is is this universal
+
+48
+00:03:39,440 --> 00:03:45,020
+accounting of states for momentum that's
+independent of the trapping potential.
+
+49
+00:03:45,020 --> 00:03:49,810
+And that has the following implication
+that if you have a trap of arbitrary shape
+
+50
+00:03:49,810 --> 00:03:51,980
+with gas held in it and
+
+51
+00:03:51,980 --> 00:03:57,660
+then you turn off the trap,
+the expanding cloud
+
+52
+00:03:57,660 --> 00:04:02,050
+eventually becomes spherical completely
+independent of the shape of the trap.
+
+53
+00:04:04,680 --> 00:04:11,280
+Now for a quantum gas on the other hand,
+position and momentum don't commute.
+
+54
+00:04:12,470 --> 00:04:17,890
+And if you have an asymmetric trap,
+when you turn it off,
+
+55
+00:04:19,000 --> 00:04:22,690
+the cloud changes the aspect
+ratio of asymmetry.
+
+56
+00:04:23,762 --> 00:04:29,230
+In other words, the most tightly
+bound part of the gas, because of
+
+57
+00:04:29,230 --> 00:04:35,030
+the uncertainty relation, has the higher
+momentum so it expands more rapidly.
+
+58
+00:04:37,620 --> 00:04:41,175
+There is an analogy of this in optics,
+
+59
+00:04:41,175 --> 00:04:45,960
+and that,
+I'll just state it briefly as follows.
+
+60
+00:04:45,960 --> 00:04:50,724
+If you have an aperture of arbitrary
+shape, here's a strangely shaped aperture,
+
+61
+00:04:50,724 --> 00:04:54,193
+and it's being illuminated by
+light from a thermal source,
+
+62
+00:04:54,193 --> 00:04:55,908
+an incoherent light source.
+
+63
+00:04:55,908 --> 00:05:00,171
+And then if you view that
+light on a distant screen,
+
+64
+00:05:00,171 --> 00:05:04,931
+what you'll see is a circularly
+symmetric image which is
+
+65
+00:05:04,931 --> 00:05:09,310
+independent of the shape
+of the original aperture.
+
+66
+00:05:10,590 --> 00:05:13,090
+And you might think about
+this in the same way
+
+67
+00:05:13,090 --> 00:05:17,670
+as the rays coming from
+the various part of the aperture.
+
+68
+00:05:17,670 --> 00:05:21,430
+Just travel at a common speed, and so
+
+69
+00:05:21,430 --> 00:05:26,860
+they scatter onto the screen at far
+distances without retaining any memory
+
+70
+00:05:26,860 --> 00:05:29,250
+of the particular part of
+the aperture from which they came.
+
+71
+00:05:30,860 --> 00:05:35,270
+For radiation from a coherent source,
+on the other hand,
+
+72
+00:05:35,270 --> 00:05:39,770
+like a laser where all the photons
+have the same frequency on
+
+73
+00:05:39,770 --> 00:05:44,001
+the same directionality,
+the common mode structure,
+
+74
+00:05:44,001 --> 00:05:49,242
+then you get a result similar to what
+we just mentioned for the gases.
+
+75
+00:05:49,242 --> 00:05:54,987
+So if you have coherent radiation
+incident on a circular aperture,
+
+76
+00:05:54,987 --> 00:05:59,080
+well then the far field image is circular.
+
+77
+00:05:59,080 --> 00:06:04,130
+But, if you have the coherent light
+going through an asymmetric aperture
+
+78
+00:06:04,130 --> 00:06:09,210
+then the far field image reverses the
+aspect ratio just as in the case of a gas,
+
+79
+00:06:09,210 --> 00:06:10,690
+that's for very similar reasons.
+
+80
+00:06:10,690 --> 00:06:15,867
+So, the inversion of the aspect ratio
+as well as a very distinctive density
+
+81
+00:06:15,867 --> 00:06:21,211
+profile is a very strong sign that
+you're producing coherent matter waves,
+
+82
+00:06:21,211 --> 00:06:26,082
+that is all atoms are in the same
+quantum state and with a common phase.
+
+83
+00:06:28,821 --> 00:06:33,629
+This is illustrated even more
+dramatically when one looks at
+
+84
+00:06:33,629 --> 00:06:36,340
+atoms in optical lattices.
+
+85
+00:06:36,340 --> 00:06:37,550
+And we'll say something about,
+
+86
+00:06:38,640 --> 00:06:42,120
+more about optical lattices in
+the later part of this lecture.
+
+87
+00:06:42,120 --> 00:06:44,060
+But you can think of it, for the moment,
+
+88
+00:06:44,060 --> 00:06:48,960
+it's a just a set of standing light waves
+and they form a periodic structure,
+
+89
+00:06:50,180 --> 00:06:55,990
+not that well represented by my scribbling
+here which forms an array of sites.
+
+90
+00:06:55,990 --> 00:07:00,680
+Just like the sites of a crystal,
+atoms in a crystal, and
+
+91
+00:07:00,680 --> 00:07:05,170
+that can be use as a trap to
+form sort of a synthetic lattice
+
+92
+00:07:05,170 --> 00:07:09,450
+of atoms that are held in
+a regular array by light forces.
+
+93
+00:07:11,350 --> 00:07:19,180
+So when you have a non-condensed gas in
+such a trap and you turn the trap off.
+
+94
+00:07:19,180 --> 00:07:23,797
+Then what you see is spherical
+expansion with a little bit of memory
+
+95
+00:07:23,797 --> 00:07:27,270
+retention of the underlying
+lattice structure.
+
+96
+00:07:27,270 --> 00:07:32,205
+But here is an actual observation
+such as system consisting about
+
+97
+00:07:32,205 --> 00:07:36,162
+150,000 rubidium atoms in a cubic lattice.
+
+98
+00:07:36,162 --> 00:07:41,022
+So you're seeing a line of sight
+image showing a spherical expansion
+
+99
+00:07:41,022 --> 00:07:42,040
+of the cloud.
+
+100
+00:07:43,470 --> 00:07:48,228
+Well, if you go into Bose-Einstein
+
+101
+00:07:48,228 --> 00:07:54,810
+condensate phase where all
+the atoms in the lattice
+
+102
+00:07:54,810 --> 00:07:59,870
+have a common phase, then the expansion
+image is radically different.
+
+103
+00:07:59,870 --> 00:08:04,570
+You can see that the gas
+expands really indiscrete
+
+104
+00:08:04,570 --> 00:08:08,530
+directions that carry the underlying
+symmetry of the lattice.
+
+105
+00:08:08,530 --> 00:08:12,960
+This is really an analog of brag
+defraction of x-rays or flight.
+
+106
+00:08:12,960 --> 00:08:15,100
+And this is not just a fluke,
+
+107
+00:08:15,100 --> 00:08:19,680
+the last of these images is
+the one that's most amazing to me.
+
+108
+00:08:19,680 --> 00:08:24,920
+And it actually shows that
+when you turn off the trap
+
+109
+00:08:24,920 --> 00:08:28,830
+the cloud falls under
+the influence of gravity,
+
+110
+00:08:28,830 --> 00:08:32,930
+as you would expect, and
+that this cubic expansion,
+
+111
+00:08:32,930 --> 00:08:39,210
+this highly ordered expansion phase is
+not just a fluke, it continues forever.
+
+112
+00:08:39,210 --> 00:08:41,930
+So that's a powerful demonstration,
+
+113
+00:08:41,930 --> 00:08:44,820
+of the production of coherence
+in the matter waves.
+
+114
+00:08:47,210 --> 00:08:51,870
+How do we understand in detail the
+dynamics of the Bose-Einstein condensate?
+
+115
+00:08:51,870 --> 00:08:56,650
+Well it turns out there's a very useful
+framework, originally developed for
+
+116
+00:08:56,650 --> 00:08:58,680
+the study of liquid helium.
+
+117
+00:08:58,680 --> 00:09:01,990
+Where it wasn't really that successful
+because liquid helium is a strongly
+
+118
+00:09:01,990 --> 00:09:03,680
+interacting system.
+
+119
+00:09:03,680 --> 00:09:07,960
+But it has proven to be of incredibly
+valuable use in understanding
+
+120
+00:09:07,960 --> 00:09:13,620
+the dilute Bose-Einstein condensates
+that are produced in the lab today.
+
+121
+00:09:13,620 --> 00:09:14,510
+And let me emphasize,
+
+122
+00:09:14,510 --> 00:09:18,680
+these gases that show this remarkable
+quantum behavior are very dilute.
+
+123
+00:09:18,680 --> 00:09:23,070
+They have a density about
+100,000th that of air, yet
+
+124
+00:09:23,070 --> 00:09:25,120
+they showed that remarkable
+collective phenomenon.
+
+125
+00:09:26,600 --> 00:09:32,210
+So this equation describes a framework
+in which all the atoms in the gas
+
+126
+00:09:32,210 --> 00:09:37,300
+are said to be characterized to be
+of the same wave function psi or
+
+127
+00:09:37,300 --> 00:09:38,860
+orbital psi you may call it.
+
+128
+00:09:40,140 --> 00:09:44,980
+The interaction between the atoms is
+the two body interaction between a given
+
+129
+00:09:44,980 --> 00:09:49,470
+pair of atoms is represented by
+a direct delta pseudo potential.
+
+130
+00:09:49,470 --> 00:09:54,130
+The type was discussed in
+a previous lecture characterized by
+
+131
+00:09:54,130 --> 00:09:58,260
+the scattering length which is a proxy for
+
+132
+00:09:58,260 --> 00:10:05,039
+the full two body interaction potential in
+a limited energy range near zero energy.
+
+133
+00:10:05,039 --> 00:10:12,680
+So called scattered length,
+on that is a parameter which is determined
+
+134
+00:10:12,680 --> 00:10:16,295
+by independent experimental measurements
+of the atomic collision physics.
+
+135
+00:10:16,295 --> 00:10:20,370
+And I emphasize that, in modern work,
+
+136
+00:10:20,370 --> 00:10:25,280
+there are no adjustable parameters in the
+description of a Bose-Einstein condensate.
+
+137
+00:10:25,280 --> 00:10:28,550
+Everything is determined,
+some cases by great accuracy,
+
+138
+00:10:28,550 --> 00:10:30,000
+by independent types of measurements.
+
+139
+00:10:31,540 --> 00:10:35,700
+So the time evolution of
+the wave function is given by
+
+140
+00:10:35,700 --> 00:10:38,180
+a variation on the Schrodinger equation.
+
+141
+00:10:38,180 --> 00:10:41,840
+The first part of which
+you should recognize as
+
+142
+00:10:41,840 --> 00:10:46,630
+the usual single particle
+Schroedinger equation that we've
+
+143
+00:10:46,630 --> 00:10:52,330
+discussed at length in
+previous parts of this course.
+
+144
+00:10:52,330 --> 00:10:56,150
+And then the new element
+is this nonlinear term
+
+145
+00:10:56,150 --> 00:11:00,740
+which reflects the influence of
+the interaction between atoms so
+
+146
+00:11:00,740 --> 00:11:05,200
+it's proportional to the number of
+atoms to the scattering length and
+
+147
+00:11:05,200 --> 00:11:11,200
+then it has a cubic nonlinearity and
+the wave function and this gives rise to
+
+148
+00:11:11,200 --> 00:11:16,627
+typo dynamic that just not seen at all
+in the ordinary Schrodinger equation.
+
+149
+00:11:19,250 --> 00:11:22,174
+Here's an example of
+the generation of soliton in
+
+150
+00:11:22,174 --> 00:11:27,290
+a Bose-Einstein condensate by
+the use of optical phase imprinting.
+
+151
+00:11:28,920 --> 00:11:33,030
+And the way the experiment is done
+is that there's a cloud of gas in
+
+152
+00:11:33,030 --> 00:11:39,370
+the Bose-Einstein condensate, then it's
+illuminated by near resonant light,
+
+153
+00:11:40,570 --> 00:11:46,550
+and there's a mask that shadows half
+the condensate from the light and
+
+154
+00:11:46,550 --> 00:11:50,660
+the part that's illuminated
+acquires a phase shift
+
+155
+00:11:52,070 --> 00:11:56,920
+which is just due to the ac-Stark effect
+of the light, the light shift potential.
+
+156
+00:11:58,220 --> 00:12:02,662
+And then one looks at the evolution
+of the condensate after that.
+
+157
+00:12:05,565 --> 00:12:09,720
+Which is shown here,
+an experiment done the year 2000.
+
+158
+00:12:09,720 --> 00:12:15,080
+This shows the cloud of
+the gas at a sequence of
+
+159
+00:12:15,080 --> 00:12:20,620
+time intervals after this imprinting
+of the optical phase and what
+
+160
+00:12:20,620 --> 00:12:25,770
+you see is the development of a density
+notch which propagates along the cloud.
+
+161
+00:12:25,770 --> 00:12:28,968
+This is actually a matter-wave soliton.
+
+162
+00:12:28,968 --> 00:12:33,134
+The top row of the images
+are experimental measurements and
+
+163
+00:12:33,134 --> 00:12:37,885
+the bottom are calculations using
+the Gross–Pitaevskii equation
+
+164
+00:12:37,885 --> 00:12:40,478
+with the experimental parameters.
+
+165
+00:12:44,193 --> 00:12:49,215
+Here's some more recent
+work that just shows how
+
+166
+00:12:49,215 --> 00:12:57,440
+we can generate arbitrary angular
+momentum states in the ring-shaped traps.
+
+167
+00:12:57,440 --> 00:12:58,340
+Prefers experimental
+
+168
+00:12:58,340 --> 00:13:01,090
+work done by my colleagues at the National
+Institute Science and Technology.
+
+169
+00:13:02,290 --> 00:13:07,980
+And so it uses an optical trap which is
+
+170
+00:13:07,980 --> 00:13:14,110
+schematized in this frame,
+it consist of a supporting light sheet and
+
+171
+00:13:14,110 --> 00:13:19,070
+then a ring that's created from
+symmetric being with a core in it.
+
+172
+00:13:19,070 --> 00:13:24,630
+And this creates a confining potential
+that's of a toroidal shape indicated here.
+
+173
+00:13:24,630 --> 00:13:29,530
+And then another beam is introduced
+that is sort of like a paddle.
+
+174
+00:13:29,530 --> 00:13:33,370
+It's a light sheet that
+cuts through the Taurus
+
+175
+00:13:33,370 --> 00:13:36,630
+just like you might cut through
+a donut with a knife and
+
+176
+00:13:36,630 --> 00:13:41,750
+then that paddle can be rotated
+around to stir the condensate up.
+
+177
+00:13:41,750 --> 00:13:47,340
+And so you see images here
+in this lower frame of how
+
+178
+00:13:47,340 --> 00:13:52,170
+the cloud of atoms is moved
+by the action of this paddle.
+
+179
+00:13:53,710 --> 00:13:58,910
+So the general characteristics of these
+experiments is about half a million sodium
+
+180
+00:13:58,910 --> 00:14:08,090
+atoms in this ring trap, toroidal trap the
+radius of this trap is about 20 microns.
+
+181
+00:14:08,090 --> 00:14:11,800
+So one starts with a nice
+quiet ground state
+
+182
+00:14:11,800 --> 00:14:16,740
+of the condensate stirs it up and
+then releases and measures, the density.
+
+183
+00:14:18,070 --> 00:14:22,460
+And what is seen there,
+here's the experimental data.
+
+184
+00:14:22,460 --> 00:14:25,510
+These again are these absorption images.
+
+185
+00:14:25,510 --> 00:14:32,510
+It's a sort of the most common way of
+viewing Bose-Einstein condensates.
+
+186
+00:14:32,510 --> 00:14:37,440
+These are labeled after the fact by
+the values of the angular momentum.
+
+187
+00:14:37,440 --> 00:14:42,625
+We have a donut here and
+there is a conserve angular momentum
+
+188
+00:14:42,625 --> 00:14:47,220
+LZ along the axis perpendicular
+to the plane of the donut.
+
+189
+00:14:47,220 --> 00:14:51,550
+And depending on the stirring conditions
+one can generate the successive
+
+190
+00:14:51,550 --> 00:14:53,530
+values of the quantized angular momentum.
+
+191
+00:14:54,700 --> 00:15:00,720
+There will be a problem in the final
+exam that deals with this and
+
+192
+00:15:00,720 --> 00:15:06,910
+just to give a hint ahead of time,
+you could think about how these angular
+
+193
+00:15:06,910 --> 00:15:12,530
+momentum could be generated by thinking
+along the lines of the bohr model.
+
+194
+00:15:12,530 --> 00:15:17,060
+In other words, we're going to
+stir the atoms with a paddle and
+
+195
+00:15:17,060 --> 00:15:20,860
+promote them to states of
+higher angular momentum.
+
+196
+00:15:20,860 --> 00:15:24,240
+So you can think about,
+
+197
+00:15:24,240 --> 00:15:29,270
+well, if the angular momentum is
+quantized as proposed by Bohr.
+
+198
+00:15:29,270 --> 00:15:33,220
+That is the integer multiple
+of Planck's constant,
+
+199
+00:15:33,220 --> 00:15:38,220
+what does that imply about the rotation
+frequency of the paddle that
+
+200
+00:15:38,220 --> 00:15:42,670
+you need to tune to in order
+to get that quantized result?
+
+201
+00:15:42,670 --> 00:15:48,280
+And here is a you might say
+the smoking gun for quantization.
+
+202
+00:15:48,280 --> 00:15:51,820
+These two frames look
+at the distribution of
+
+203
+00:15:51,820 --> 00:15:55,000
+whole sizes that are seen
+in various experiments.
+
+204
+00:15:55,000 --> 00:15:58,430
+The upper frame and the lower,
+they represent two modes of release of
+
+205
+00:15:58,430 --> 00:16:03,470
+the condensate, one of which turns out
+to give a more regular set of images.
+
+206
+00:16:03,470 --> 00:16:08,620
+But what can see is that the whole
+sizes come in these quantized groups
+
+207
+00:16:08,620 --> 00:16:13,600
+which are attributed to the generation of
+different values in the angle momentum.
+
+208
+00:16:15,140 --> 00:16:19,150
+And the use of the Gross–Pitaevskii
+equation with the parameters
+
+209
+00:16:19,150 --> 00:16:23,590
+appropriate to the experiment shows
+that there's a relatively good agreement
+
+210
+00:16:23,590 --> 00:16:28,520
+with some deviation for the various
+angle momentum states that observe.
+
+211
+00:16:28,520 --> 00:16:33,120
+So this frames show images of
+the experimental data which is
+
+212
+00:16:34,130 --> 00:16:38,980
+indicated by the red lines with the
+results of theoretical calculations for
+
+213
+00:16:38,980 --> 00:16:41,120
+different values of the angular momentum.
+
+214
+00:16:41,120 --> 00:16:45,610
+And they show that the whole size
+Increases with angular momentum.
+
+215
+00:16:45,610 --> 00:16:49,394
+This is a reflection of the sort of
+repulsive centrifugal potential that we
+
+216
+00:16:49,394 --> 00:16:52,828
+found in the discussion of angular
+momentum in an earlier lecture.
+
+217
+00:16:56,682 --> 00:17:01,725
+So finally, I'll mention some more
+recent work with this stirring
+
+218
+00:17:01,725 --> 00:17:06,068
+procedure in which the phenomena
+of hysteresis is found.
+
+219
+00:17:06,068 --> 00:17:11,134
+So this experiment reported
+in nature early 2014,
+
+220
+00:17:11,134 --> 00:17:14,799
+involves stirring and condensate up and
+
+221
+00:17:14,799 --> 00:17:20,520
+then stirring it back to
+return to the original state.
+
+222
+00:17:20,520 --> 00:17:24,545
+And it has found that there is
+an asymmetry in the stirring and
+
+223
+00:17:24,545 --> 00:17:25,860
+de-stirring procedure.
+
+224
+00:17:25,860 --> 00:17:29,336
+Much of is seen In classical magnetism,
+
+225
+00:17:29,336 --> 00:17:34,270
+the magnetic induced is
+a function of applied field.
+
+226
+00:17:35,750 --> 00:17:42,117
+And this is a theme that's pursued
+in this work is often referred to
+
+227
+00:17:42,117 --> 00:17:48,258
+as atomtronics which has a goal
+of using coherent matter waves to
+
+228
+00:17:48,258 --> 00:17:53,848
+implement functionality such
+as one has in electronics.
+
+229
+00:17:53,848 --> 00:17:58,842
+That is to make circuits which use
+atoms rather than electrons as
+
+230
+00:17:58,842 --> 00:18:03,281
+a carrier of information, and
+of mass, and of spin, and
+
+231
+00:18:03,281 --> 00:18:09,664
+to explore the possibilities that are
+available there that would perhaps someday
+
+232
+00:18:09,664 --> 00:18:15,140
+complement conventional electronics for
+new functional purposes.
+
+233
+00:18:16,620 --> 00:18:21,250
+So I'll just conclude by
+mention of some accessible
+
+234
+00:18:21,250 --> 00:18:25,840
+reviews that will show you examples
+of things that can be done.
+
+235
+00:18:26,980 --> 00:18:31,600
+Open source of these articles
+is all found on the archives.
+
+236
+00:18:31,600 --> 00:18:35,010
+And these are also good references
+
+237
+00:18:35,010 --> 00:18:39,740
+to search against them on Google Scholar
+to find examples of more recent work.
+
+238
+00:18:39,740 --> 00:18:41,240
+I think you'll see it's
+a very vibrant field.

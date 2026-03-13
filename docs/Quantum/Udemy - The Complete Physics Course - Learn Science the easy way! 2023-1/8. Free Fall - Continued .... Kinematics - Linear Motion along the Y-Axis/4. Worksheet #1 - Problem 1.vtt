@@ -1,0 +1,389 @@
+WEBVTT
+
+1
+00:00:00.210 --> 00:00:05.040
+So from number one, keep in mind that these are all going to be problems where the object is being
+
+2
+00:00:05.040 --> 00:00:05.700
+dropped.
+
+3
+00:00:06.030 --> 00:00:09.630
+Notice how I said that they're being dropped, they're not being thrown upwards, not they're not being
+
+4
+00:00:09.630 --> 00:00:10.620
+thrown downwards.
+
+5
+00:00:10.710 --> 00:00:13.580
+And we'll actually see that these these problems over here.
+
+6
+00:00:13.590 --> 00:00:19.320
+So problem number one, your sister drops your house keys down to you from the second floor window if
+
+7
+00:00:19.320 --> 00:00:23.210
+you catch them four point three meters from where your sister dropped them.
+
+8
+00:00:23.460 --> 00:00:26.080
+What is the velocity of the case when you catch them?
+
+9
+00:00:26.400 --> 00:00:32.370
+OK, so it's describing here that your sister is dropping keys out of a window and they're dropping
+
+10
+00:00:32.370 --> 00:00:35.160
+for a total of four point three meters.
+
+11
+00:00:35.820 --> 00:00:39.090
+And you're being asked what is the velocity when you catch them?
+
+12
+00:00:39.270 --> 00:00:41.670
+Well, I'm just going to do here is I'm just gonna draw a picture.
+
+13
+00:00:41.850 --> 00:00:46.050
+Does it really matter that they're being dropped out of a window?
+
+14
+00:00:46.170 --> 00:00:50.020
+Does it really matter that they're being caught and not actually hitting the ground?
+
+15
+00:00:50.040 --> 00:00:54.020
+No, we just know that they're dropping for a total of four point three meters.
+
+16
+00:00:54.030 --> 00:00:55.950
+So essentially, what do we have here?
+
+17
+00:00:55.960 --> 00:00:56.970
+We have an object.
+
+18
+00:00:58.590 --> 00:01:03.700
+It's going to be dropping for a total of four point three meters.
+
+19
+00:01:04.140 --> 00:01:08.460
+I know that was shown here that's hitting the ground, but it doesn't matter if they're being caught
+
+20
+00:01:08.760 --> 00:01:09.920
+or if they're hitting the ground.
+
+21
+00:01:10.080 --> 00:01:15.090
+We know that they're dropping for a total of four point three meters and that's what matters.
+
+22
+00:01:16.650 --> 00:01:18.450
+OK, so this being the case.
+
+23
+00:01:19.620 --> 00:01:23.490
+Just think about the situation, your sister, what is she doing?
+
+24
+00:01:23.520 --> 00:01:27.460
+She's dropping keys and they're dropping for a total of four point three meters.
+
+25
+00:01:27.510 --> 00:01:29.880
+We're trying to find out the velocity of the keys.
+
+26
+00:01:30.030 --> 00:01:34.980
+When you catch them, they're going to hit your hand or hit the ground at a certain velocity.
+
+27
+00:01:34.980 --> 00:01:37.340
+That's the velocity that we're trying to calculate here.
+
+28
+00:01:37.650 --> 00:01:39.570
+So let's pull out some given information.
+
+29
+00:01:40.540 --> 00:01:44.200
+What would you say is the initial height of the object?
+
+30
+00:01:45.700 --> 00:01:48.370
+Well, we're given that that's given information here.
+
+31
+00:01:48.400 --> 00:01:49.480
+It's four point three.
+
+32
+00:01:52.850 --> 00:01:56.060
+And what would you say is the final height of the object?
+
+33
+00:01:58.980 --> 00:02:04.470
+Well, it's being called it's hitting the ground, so it's dropping for a total of four point three
+
+34
+00:02:04.470 --> 00:02:07.300
+metres, we could say that the final height is zero.
+
+35
+00:02:07.620 --> 00:02:08.680
+Let's come over here.
+
+36
+00:02:08.710 --> 00:02:11.280
+Let's just start writing this in.
+
+37
+00:02:13.930 --> 00:02:19.090
+What is the initial velocity, am I throwing this case up and my throwing them down, or am I just letting
+
+38
+00:02:19.090 --> 00:02:20.620
+go in them and letting them drop?
+
+39
+00:02:21.040 --> 00:02:25.800
+Initial velocity is zero meters per second.
+
+40
+00:02:26.200 --> 00:02:27.160
+What's the final velocity?
+
+41
+00:02:27.220 --> 00:02:28.690
+Oh, isn't that what we're trying to find?
+
+42
+00:02:30.210 --> 00:02:35.190
+What is the acceleration of the object once again, four objects are in freefall.
+
+43
+00:02:35.340 --> 00:02:41.390
+It's going to be a negative nine point eight meters per second squared.
+
+44
+00:02:41.850 --> 00:02:43.990
+That's acceleration due to gravity.
+
+45
+00:02:44.640 --> 00:02:46.740
+And are we given anything about time?
+
+46
+00:02:46.760 --> 00:02:48.450
+Are we being told anything about time?
+
+47
+00:02:48.810 --> 00:02:49.140
+No.
+
+48
+00:02:49.150 --> 00:02:49.470
+Right.
+
+49
+00:02:49.680 --> 00:02:53.880
+Oh, so we're going to treat this just like we actually treat the previous problems.
+
+50
+00:02:54.120 --> 00:02:57.380
+So we're going to say, what do I not care about time?
+
+51
+00:02:57.900 --> 00:03:02.070
+I'm just going to come back over here and let's look through this.
+
+52
+00:03:02.310 --> 00:03:07.770
+I'm going to tell you right off the bat, I don't think that I actually have any problems for Free-Fall
+
+53
+00:03:07.770 --> 00:03:10.050
+that actually have to do with average velocity.
+
+54
+00:03:10.050 --> 00:03:12.960
+So I'm just going to erase these two equations right here.
+
+55
+00:03:13.410 --> 00:03:18.240
+It's going to be these four equations that were going to be mainly dealing with now what's in what I
+
+56
+00:03:18.240 --> 00:03:22.850
+say, the variable that we simply just don't care about is going to be our time.
+
+57
+00:03:23.280 --> 00:03:24.210
+Let's come through here.
+
+58
+00:03:24.210 --> 00:03:27.420
+Let's find all the equations I have to do with time and exclude them.
+
+59
+00:03:27.450 --> 00:03:28.620
+So we have time right here.
+
+60
+00:03:28.650 --> 00:03:32.190
+OK, that's an equation that we're not interested in coming over here.
+
+61
+00:03:33.420 --> 00:03:34.470
+Oh, we have time right there.
+
+62
+00:03:34.500 --> 00:03:36.480
+OK, so I'm not interested in this one.
+
+63
+00:03:36.690 --> 00:03:38.040
+What about this one?
+
+64
+00:03:38.220 --> 00:03:40.070
+We have time here and we have time there.
+
+65
+00:03:40.080 --> 00:03:42.350
+So definitely not going to be using this one.
+
+66
+00:03:42.840 --> 00:03:44.790
+And do we have time in this equation?
+
+67
+00:03:45.540 --> 00:03:46.090
+Nope.
+
+68
+00:03:46.110 --> 00:03:48.960
+OK, so we're going to be using the equation number six.
+
+69
+00:03:49.680 --> 00:03:51.270
+Make sure that you write it out correctly.
+
+70
+00:03:57.550 --> 00:03:59.140
+And did I do that correct?
+
+71
+00:03:59.590 --> 00:04:01.200
+Let's just double check here.
+
+72
+00:04:02.420 --> 00:04:03.280
+And that was good.
+
+73
+00:04:04.970 --> 00:04:12.880
+OK, so now let's plug in our information so we have V F squared is equal to V.I. squared, which is
+
+74
+00:04:12.890 --> 00:04:16.090
+zero squared, 020 is zero zero zero.
+
+75
+00:04:16.100 --> 00:04:21.670
+So that's not going to have any sort of impact two times our negative nine point eight.
+
+76
+00:04:22.820 --> 00:04:30.740
+And we have our final height, which is zero minus our initial height, which is four point three.
+
+77
+00:04:31.280 --> 00:04:34.130
+OK, so this is zero squared, zero two zero zero zero.
+
+78
+00:04:34.130 --> 00:04:36.530
+So that's not going to have any sort of impact on our equation.
+
+79
+00:04:36.570 --> 00:04:41.360
+We have this zero over here and zero minus four point three.
+
+80
+00:04:41.370 --> 00:04:45.150
+Or we could actually just call this a minus four point three and negative four point three.
+
+81
+00:04:45.260 --> 00:04:46.000
+They're the same thing.
+
+82
+00:04:46.020 --> 00:04:46.960
+It doesn't really matter.
+
+83
+00:04:46.970 --> 00:04:54.380
+So let's just get rid of this zero over here and notice here that what we have is two times well, it's
+
+84
+00:04:54.380 --> 00:04:59.150
+a positive two times, nine point eight times a negative four point three.
+
+85
+00:04:59.240 --> 00:05:01.770
+So we have a positive times, a negative times, a negative.
+
+86
+00:05:01.820 --> 00:05:07.190
+This should result in a positive answer in the calculator right now.
+
+87
+00:05:07.310 --> 00:05:12.290
+And we get eighty four point two eight.
+
+88
+00:05:13.010 --> 00:05:14.510
+That's equal to the F squared.
+
+89
+00:05:14.510 --> 00:05:16.400
+I don't care what V of squared is equal to.
+
+90
+00:05:16.440 --> 00:05:18.720
+I want to know what our final velocity is equal to.
+
+91
+00:05:18.830 --> 00:05:24.470
+So how do we get rid of the squared, take the square root of both sides of the equation and we get
+
+92
+00:05:24.470 --> 00:05:30.260
+the F is equal to nine point two metres per second.
+
+93
+00:05:31.520 --> 00:05:32.230
+Hey, wait a minute.
+
+94
+00:05:32.240 --> 00:05:36.650
+The answer over here is telling us it's negative nine point two meters per second.
+
+95
+00:05:36.890 --> 00:05:41.810
+The calculator, when you take the square root of this, it will not give you a negative answer.
+
+96
+00:05:41.930 --> 00:05:43.630
+It's going to give you the positive version.
+
+97
+00:05:43.760 --> 00:05:48.380
+So make sure that you do include the negative to account for the direction.

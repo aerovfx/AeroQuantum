@@ -1,0 +1,358 @@
+WEBVTT
+
+00:00.150 --> 00:00.350
+All right.
+
+00:00.360 --> 00:05.400
+So now what we want to do is we want to apply cool Ohm's law to cases where we have more than two point
+
+00:05.400 --> 00:06.640
+charges.
+
+00:06.690 --> 00:11.910
+The first problem here that I'm going to look at we're going to have three point charges there all along
+
+00:11.910 --> 00:17.370
+the x axis and I've given you the magnitudes of those three point charges in a second problem I have
+
+00:17.370 --> 00:18.630
+the same three charges.
+
+00:18.630 --> 00:21.650
+However now they're in the x y plane.
+
+00:21.650 --> 00:23.400
+It's kind of like a two dimensional problem.
+
+00:23.400 --> 00:27.700
+So how would that change how we apply cool Ohm's Law to this particular problem.
+
+00:27.810 --> 00:31.410
+Okay so let's go ahead and solve both of these problems all right.
+
+00:31.440 --> 00:36.440
+So here's my first problem My goal is to find out what is the net force acting on this charge Q3.
+
+00:36.480 --> 00:42.670
+So let me go ahead and kind of just draw it over here here's Q3 right here and Q3 is negative saying
+
+00:42.720 --> 00:47.030
+go ahead and maybe just remind myself that's a negative charge here.
+
+00:47.040 --> 00:47.360
+All right.
+
+00:47.370 --> 00:48.660
+So let's go ahead and get started.
+
+00:48.660 --> 00:54.870
+So cool Ohm's law you might see a rate like this k q a QB divided by our Squared R squared or r rather
+
+00:54.870 --> 01:00.900
+is the distance between the two charges a and b Sometimes It's written with a different constant in
+
+01:00.900 --> 01:05.990
+the front instead of this value K is sometimes written as one over for Pi Epsilon 0.
+
+01:06.480 --> 01:09.890
+And that's OK if that's what's done in your textbook.
+
+01:09.900 --> 01:16.790
+The only thing to realize is that that value K is actually equal to one over for Pi Epsilon 0.
+
+01:16.860 --> 01:22.170
+And if you substitute the numbers you look this up in your textbook you say look this substitute everything
+
+01:22.170 --> 01:27.240
+in your calculator you should get nine times tend to the nine in the units four that are going to be
+
+01:27.250 --> 01:31.530
+Newton's meters squared per Coolum squared.
+
+01:31.530 --> 01:35.460
+And you need those units in order to have Newtons for the force at the end of the day.
+
+01:35.520 --> 01:35.730
+All right.
+
+01:35.730 --> 01:37.350
+So how do you find the force.
+
+01:37.350 --> 01:42.630
+Well let's first look at them in pairs cool Ohm's Law works with two charges at a time.
+
+01:42.630 --> 01:48.270
+So we have to do is if we're looking for the total force on Q3 Well there's going to be an interaction
+
+01:48.270 --> 01:50.910
+between Q3 and Q1.
+
+01:50.910 --> 01:56.650
+So let's go ahead and draw what is the direction of that force between Q1 and Q3.
+
+01:56.790 --> 02:03.740
+Q1 is a positive charge and Q3 is a negative charge which means they are attracted to each other.
+
+02:03.750 --> 02:08.640
+So if I go ahead and draw the force that means Q3 wants to get closer to Q1.
+
+02:08.790 --> 02:10.410
+There is an attractive force there.
+
+02:10.410 --> 02:14.010
+So we're going to go ahead and we're going to call this fourth F one.
+
+02:14.130 --> 02:18.930
+So the direction has to be to the left because it's attracted to Q1.
+
+02:18.930 --> 02:20.110
+All right what else do we have.
+
+02:20.160 --> 02:27.180
+We also have an interaction here between the charge Q2 which is negative and the charge Q3 which is
+
+02:27.210 --> 02:28.900
+also negative.
+
+02:28.920 --> 02:35.520
+So if I'm looking at all the forces acting on Q3 that means it's also trying to be being repelled by
+
+02:35.520 --> 02:36.630
+Q2.
+
+02:36.720 --> 02:43.300
+So that means over here I should probably have another force and I'm going to label this one F2.
+
+02:43.380 --> 02:47.410
+So this is interaction of Q2 and Q3.
+
+02:47.430 --> 02:50.820
+All right let's remind ourselves that this here is the charge Q3.
+
+02:50.880 --> 02:55.740
+So now the only thing that's left is we have to find how big those two forces are.
+
+02:55.740 --> 02:56.820
+So let's go ahead and do that.
+
+02:58.020 --> 03:00.840
+So the fourth F one in order to find its magnitude.
+
+03:01.830 --> 03:04.280
+Well all you have to do now is use Coombs law.
+
+03:04.410 --> 03:09.030
+So f 1 is going to be equal to let's use this first equation over here.
+
+03:09.300 --> 03:12.180
+K is our constant nine times tend to the 9.
+
+03:12.300 --> 03:19.950
+Our first charge here we're going to call it Q1 our second charge now is going to be the charge Q3 the
+
+03:19.950 --> 03:27.000
+one we're interested in and now it's divided by r squared and our squared is the distance between both
+
+03:27.000 --> 03:28.440
+of those charges.
+
+03:28.500 --> 03:33.870
+If I look on the figure here it would be the distance between this guy and Q3.
+
+03:33.870 --> 03:36.050
+So let's go ahead and call this a distance here.
+
+03:36.050 --> 03:37.600
+D 1.
+
+03:37.640 --> 03:38.130
+Okay.
+
+03:38.190 --> 03:43.250
+So I have to add this to Coombs law D1 squared.
+
+03:43.770 --> 03:44.010
+All right.
+
+03:44.010 --> 03:46.740
+So all you have to do now is substitute in all the values.
+
+03:46.730 --> 03:49.670
+So for K we get nine times tend to the nine.
+
+03:49.730 --> 03:51.510
+I'm not going to write the units.
+
+03:51.790 --> 03:58.560
+Q One is listed over here is five micro cool alone that's five times 10 to the negative 6 if I want
+
+03:58.560 --> 04:04.470
+to convert into columns Q 3 you know Q3 is negative 2.
+
+04:04.500 --> 04:04.840
+All right.
+
+04:05.070 --> 04:05.870
+Micro cool.
+
+04:05.930 --> 04:12.510
+I'm actually just going to write as to micro Coolum I'm gonna drop the negative sign because the negative
+
+04:12.510 --> 04:18.150
+sign here is only going to tell me something about the direction of the force but we know the direction
+
+04:18.150 --> 04:22.170
+of the force because one charge is positive in the other one is negative.
+
+04:22.170 --> 04:27.690
+So there is no real reason to put negative signs here if you're looking at interaction between point
+
+04:27.690 --> 04:31.950
+charges we automatically know the direction of the force just by looking at.
+
+04:31.950 --> 04:35.670
+Are they both positive is one positive and the other one's negative.
+
+04:35.670 --> 04:35.980
+All right.
+
+04:36.030 --> 04:39.540
+And now we also have to divide by the distance squared.
+
+04:39.570 --> 04:43.540
+Now in this case this is the distance between Q1 and Q3.
+
+04:43.620 --> 04:48.720
+If I look down at the figure I've given you some distances here you should see that this distance should
+
+04:48.720 --> 04:52.470
+be zero point six zero point six meters.
+
+04:52.470 --> 04:58.450
+And I have to square that value all right now be a little bit careful when you enter this in the calculator.
+
+04:58.650 --> 05:04.700
+I did this and hopefully I did it correctly at the end I get to zero point to five Newtons.
+
+05:04.790 --> 05:09.850
+Now if you kept the negative sign here you would get a negative zero point two five Newtons but negative
+
+05:09.870 --> 05:13.200
+simply tell me tells me that the force is attractive.
+
+05:13.660 --> 05:14.070
+OK.
+
+05:14.090 --> 05:19.740
+So that means that this force here is zero point to five Newtons and it's pointing to the left.
+
+05:19.890 --> 05:20.100
+All right.
+
+05:20.100 --> 05:23.550
+Now we have to find the magnitude of this other force.
+
+05:23.640 --> 05:27.360
+So let's go ahead and we're going to apply cool Ohm's law yet again.
+
+05:27.360 --> 05:35.790
+So again now in this case it's K the two charges you're acting now or Q2 and Q3 Q2 Q3 and now it's going
+
+05:35.790 --> 05:37.860
+to be divided by a different distance.
+
+05:37.860 --> 05:38.120
+Right.
+
+05:38.130 --> 05:40.380
+The distance is much smaller.
+
+05:40.380 --> 05:45.300
+So we're going to call this D2 D2 and I have to square that value.
+
+05:45.300 --> 05:50.370
+All right let's go ahead and substitute in all the values so we get nine times tend to the nine for
+
+05:50.370 --> 05:55.250
+our K constant Q Q2 has a magnitude of negative 3.
+
+05:55.260 --> 05:59.670
+Again I'm not too worried about the magnitude that tells me the direction of the force.
+
+06:00.330 --> 06:06.000
+Tend to the negative 6 because we're dealing with micro columns 2 3 still the same 2 times tend to the
+
+06:06.000 --> 06:07.380
+negative 6.
+
+06:07.380 --> 06:13.230
+And now I have to divide by this distance this distance is zero point two and I have to square that
+
+06:13.230 --> 06:16.580
+value you place everything in your calculator again.
+
+06:16.740 --> 06:24.670
+In this case here I got a stronger force I got one point three five Newtons as the magnitude of EF 2
+
+06:25.110 --> 06:26.780
+Let's go ahead and write this on the figure.
+
+06:26.820 --> 06:35.400
+So we get one point three five here and I get a vector that is zero point two five Newtons pointing
+
+06:35.400 --> 06:38.420
+to the left for the red one and that's it.
+
+06:38.490 --> 06:44.070
+All you have to do now is find what is the net force you can tell just by looking at this that the net
+
+06:44.070 --> 06:48.410
+force is going to have to point to the right hand side.
+
+06:48.500 --> 06:48.720
+All right.
+
+06:48.720 --> 06:57.750
+Again my goal was define f net the definition of f net as a vector means you have to add up all of the
+
+06:57.750 --> 07:02.620
+forces acting on the charge in this case I have two of them.
+
+07:03.100 --> 07:03.390
+OK.
+
+07:03.420 --> 07:10.140
+So what I'm going to do now is I'm going to assume that everything pointing to the right hand side is
+
+07:10.140 --> 07:15.030
+going to be a positive force and everything pointing to the left hand side is going to be a negative
+
+07:15.030 --> 07:15.940
+force.
+
+07:15.940 --> 07:20.910
+So at the end if you want to add both of these up I would say there is a positive one point three five
+
+07:20.910 --> 07:29.850
+Newton force acting to the right and there is a negative zero point to five Newton force acting to the
+
+07:29.850 --> 07:30.940
+left.
+
+07:31.020 --> 07:38.310
+So my net force at the end of the day simply have to evaluate both of those.
+
+07:38.310 --> 07:44.870
+My net force at the end should be one point one Newtons in the direction since it's a positive value
+
+07:44.880 --> 07:47.630
+the direction of the force has to be like this.
+
+07:47.700 --> 07:53.660
+This is the direction of f net it's in the same direction as the force F two.
+
+07:54.520 --> 07:59.250
+Okay so there's a nice simple application of cool Ohm's law when there's more than two charges.
+
+07:59.340 --> 08:01.170
+Let's go ahead and look at problem number two now.

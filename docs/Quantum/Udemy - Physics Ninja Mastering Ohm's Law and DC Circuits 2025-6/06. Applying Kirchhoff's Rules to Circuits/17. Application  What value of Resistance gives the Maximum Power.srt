@@ -1,0 +1,358 @@
+WEBVTT
+
+00:00.300 --> 00:03.170
+Have one more application problem here that I want to look at.
+
+00:03.240 --> 00:08.730
+So I've got a real battery a real battery consist of an ideal battery with a internal resistance that
+
+00:08.730 --> 00:10.120
+is in series with it.
+
+00:10.260 --> 00:14.670
+And now I want to ask the question well I want to connect this battery now to some other resistance
+
+00:15.090 --> 00:17.610
+and I want to know for which value of this resistance.
+
+00:17.610 --> 00:20.170
+Am I going to get the maximum amount of power.
+
+00:21.230 --> 00:24.570
+And the power dissipated by this resistance.
+
+00:24.610 --> 00:28.590
+So remember the power being dissipated by any resistance.
+
+00:28.590 --> 00:35.280
+In this case I'm interested in this upper case are simply going to be the value of the resistance multiplied
+
+00:35.280 --> 00:36.780
+by the currents squared.
+
+00:38.840 --> 00:43.190
+Now there's actually two terms here to find the maximum power being dissipated.
+
+00:43.190 --> 00:47.710
+Well it depends not only on the value of the resistance but it depends on the currents.
+
+00:47.720 --> 00:50.180
+You can't just say you want to maximize the current.
+
+00:50.400 --> 00:50.770
+OK.
+
+00:50.900 --> 00:54.840
+Because this value of the current here also depends on the value.
+
+00:54.860 --> 00:58.380
+So let's start maybe by eliminating the value of the current.
+
+00:58.490 --> 01:03.980
+Very easy to find for this particular circuit because we only have two resistors.
+
+01:04.040 --> 01:08.800
+So again if you do a loop around here starting at point B.
+
+01:08.870 --> 01:17.330
+Kirchoff's loop rule gives us e minus the voltage drop across the internal resistance minus the voltage
+
+01:17.330 --> 01:24.810
+drop across the resistance that's plugged in over here to the battery and do a complete loop that has
+
+01:24.810 --> 01:26.020
+to be equal to zero.
+
+01:26.400 --> 01:33.780
+Again at the end you get that the current flowing in the circuit simply looks like this.
+
+01:33.790 --> 01:37.890
+All right so now let's go ahead and substitute this in the expression up here.
+
+01:38.380 --> 01:39.310
+So we get our
+
+01:43.850 --> 01:47.550
+R plus uppercase R and don't forget the square this guy.
+
+01:47.810 --> 01:50.990
+Now let me just group the terms together maybe carry out the square.
+
+01:51.230 --> 01:55.040
+So the first term here is the term that involves only the resistance values.
+
+01:56.030 --> 02:02.660
+This guy hears our Plus our and I have to square it and everything here gets multiply by the earmuffs
+
+02:02.660 --> 02:03.970
+squared.
+
+02:04.580 --> 02:04.830
+All right.
+
+02:04.850 --> 02:07.570
+So there is our value for the power.
+
+02:07.580 --> 02:12.670
+Now the question is which value of R will maximize this.
+
+02:13.090 --> 02:15.260
+Well let's do some test cases.
+
+02:15.260 --> 02:20.070
+What happens if so do Case 1.
+
+02:20.190 --> 02:22.220
+What if our equals zero.
+
+02:22.620 --> 02:24.350
+What if there is no resistance.
+
+02:24.570 --> 02:26.250
+What power do I get here.
+
+02:26.250 --> 02:29.070
+Well if you substitute big R equals zero.
+
+02:29.070 --> 02:30.080
+Look what you get.
+
+02:30.270 --> 02:34.410
+You get zero appear and you get divided by our squares so that will be fine.
+
+02:34.410 --> 02:40.140
+So at the end you're going to get that the power dissipated by that resistance R is actually zero.
+
+02:42.440 --> 02:46.380
+So that's doesn't look like a maximum value to me.
+
+02:46.400 --> 02:47.550
+Let's try another value.
+
+02:47.630 --> 02:52.820
+What happens if I make this resistance very very big.
+
+02:52.940 --> 02:58.380
+What if I make are tend toward something very very big tend toward infinity.
+
+02:58.490 --> 02:59.770
+Where would you get.
+
+03:00.350 --> 03:04.610
+Well now you have to take a limit here because look at the term at the bottom.
+
+03:04.610 --> 03:05.830
+The term at the bottom.
+
+03:05.840 --> 03:09.580
+Forget about little r if Big R is very very big.
+
+03:09.710 --> 03:09.880
+Right.
+
+03:09.880 --> 03:15.400
+The dominant term here will be the the upper case value of the resistance here and what you're going
+
+03:15.400 --> 03:18.420
+to get here is going to be one divided by R.
+
+03:18.930 --> 03:21.840
+So let's maybe carry that out.
+
+03:23.810 --> 03:27.700
+And in that case if you divide now by something that's very very big.
+
+03:27.710 --> 03:30.080
+So the term at the bottom is always going to be bigger.
+
+03:30.080 --> 03:35.660
+And then again that means that in this limit over here the power being dissipated by the resistance
+
+03:36.320 --> 03:43.340
+is again is going to be zero in the limit that are equal to infinity or tends toward infinity.
+
+03:43.340 --> 03:49.550
+So it must mean that there is some value in between zero and infinity where we're actually going to
+
+03:49.550 --> 03:51.440
+get some maximum value.
+
+03:52.570 --> 03:58.640
+Right you could try any other value and you're going to get a positive number which means that if I
+
+03:58.640 --> 04:04.460
+substitute our equals to zero here and let's just say here is basically infinity there's got to be some
+
+04:04.460 --> 04:10.410
+point here in between where we're going to get some maximum value of the power
+
+04:13.500 --> 04:20.180
+your own plotting power being dissipated by that resistance versus the value of the resistance.
+
+04:20.320 --> 04:24.640
+These were the two cases here illustrated by both of these red points.
+
+04:25.460 --> 04:32.270
+All right so now let's try to find what is this actual value of our in or you do this someone do a little
+
+04:32.270 --> 04:41.930
+bit of calculus but what is this value of are here where do you get that maximum power.
+
+04:42.710 --> 04:47.500
+Again if you remember from calculus while we have an expression here what we want to do now to find
+
+04:47.500 --> 04:56.890
+the maximum is we're going to differentiate with respect to our ok in order to differentiate this function
+
+04:56.890 --> 04:57.540
+here.
+
+04:57.820 --> 05:02.820
+Well actually what I will do first is maybe a little bit careful here.
+
+05:02.860 --> 05:06.350
+Let me first rewrite it and then I'll take the derivative.
+
+05:06.620 --> 05:08.050
+So let's write it down over here.
+
+05:08.130 --> 05:13.120
+And I'm just going to write it in a nice easier form to take the derivative because I'm going to use
+
+05:13.120 --> 05:16.330
+the product rule for the derivative.
+
+05:16.330 --> 05:21.670
+So I'm going to write the function as are going to bring this term at the top.
+
+05:21.670 --> 05:27.440
+And if I do that I just have to switch the exponent minus two.
+
+05:27.540 --> 05:33.830
+Then all of that gets multiplied by a constant here which is the IMF of the battery.
+
+05:33.860 --> 05:38.280
+Now let's take the derivative of this function here with respect to our.
+
+05:38.700 --> 05:43.380
+And what we want to do to find the maximum value we want to set that derivative equals to zero.
+
+05:44.130 --> 05:49.570
+OK so we have two functions we don't have to worry about this term over here let's just leave it outside.
+
+05:50.090 --> 05:53.570
+That's just a constant term not a function of our.
+
+05:53.570 --> 05:55.310
+So I'll take the derivative of the first term.
+
+05:55.320 --> 05:56.630
+That's simply one.
+
+05:56.910 --> 05:59.750
+So that gets multiplied by the second term.
+
+05:59.750 --> 06:03.160
+So right away I'm simply going to write it in the denominator.
+
+06:03.190 --> 06:06.850
+See the step.
+
+06:07.220 --> 06:15.020
+Now I multo I have to take the derivative of the second term and leave the first term the way it is.
+
+06:15.020 --> 06:23.700
+So that looks like minus to our in this term here in the bracket the exponent here has to be reduced
+
+06:23.700 --> 06:29.550
+by 1 so that becomes r plus R to raise to the power of 3.
+
+06:29.550 --> 06:31.590
+So make sure you kind of understand this step here.
+
+06:31.600 --> 06:33.680
+That's kind of a critical step.
+
+06:33.690 --> 06:38.880
+Now we have two different fractions over here but they're on different they have a different denominator
+
+06:38.880 --> 06:44.120
+so in order to simplify this we're going to do is going to put things on a common denominator.
+
+06:44.280 --> 06:48.060
+I'm going to leave this constant term there although I could have just gotten rid of it I guess.
+
+06:49.770 --> 06:50.020
+All right.
+
+06:50.020 --> 06:56.360
+And the denominator here that I'm going to use is our Plus our race to the third power.
+
+06:56.430 --> 06:58.480
+So that means that this term here remains unchanged.
+
+06:58.530 --> 06:59.550
+That's minus to our
+
+07:02.530 --> 07:05.580
+and this first term here you simply have to add R plus R.
+
+07:05.590 --> 07:09.010
+In order to make it equal OK.
+
+07:09.030 --> 07:11.200
+Now if we want to set everything equal to zero.
+
+07:11.370 --> 07:16.370
+Well now you can factor out or you can simplify some of the terms rather you can get rid of this.
+
+07:16.490 --> 07:20.670
+You can get rid of the bottom term and here you can simplify this right.
+
+07:20.670 --> 07:26.070
+This is our Plus our minus to our must be equal to zero.
+
+07:26.700 --> 07:31.850
+So that means that the R minus r must be equal to zero.
+
+07:31.890 --> 07:38.850
+And at the end the last result we get is that the resistance is simply equal to the internal resistance
+
+07:39.330 --> 07:41.820
+of the battery.
+
+07:41.820 --> 07:46.870
+That is the value that is going to give us a maximum.
+
+07:46.980 --> 07:49.340
+So let's clear that up a little bit.
+
+07:49.800 --> 07:56.610
+Means when are here equal to the internal resistance you're going to get a maximum power and go ahead
+
+07:56.610 --> 08:01.420
+and substitute that back into our expression to find what the actual maximum is.
+
+08:01.500 --> 08:03.900
+But that's kind of an interesting result.
+
+08:04.620 --> 08:11.920
+Later on when you talk about AC circuits they they call this impedance matching.
+
+08:12.750 --> 08:17.680
+If you can impedance match you're going to get the maximum power delivered to the load.
+
+08:17.830 --> 08:18.210
+OK.
+
+08:18.360 --> 08:21.940
+But it's the same thing that happens here with DC circuits.
+
+08:21.960 --> 08:26.180
+You want to get the maximum power being delivered to this resistance.
+
+08:26.250 --> 08:31.980
+You set the resistance equal to the internal resistance of the battery and that's how you're going to
+
+08:31.980 --> 08:37.570
+get the maximum power delivered to this back to this load or to this resistance.

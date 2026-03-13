@@ -1,0 +1,1063 @@
+1
+00:00:01,540 --> 00:00:05,632
+To calculate the remaining metrics
+elements, in particular, the metrics
+
+2
+00:00:05,632 --> 00:00:09,687
+element the first metrics element that we
+saw in the previous slide.
+
+3
+00:00:09,688 --> 00:00:14,599
+So let me recall a distinction between the
+[inaudible] vector of psi used in the
+
+4
+00:00:14,599 --> 00:00:17,964
+direct notations, and the wave function,
+psi of x.
+
+5
+00:00:17,965 --> 00:00:21,070
+As it appears, let's say, in the
+Schrodinger equation.
+
+6
+00:00:21,071 --> 00:00:26,200
+So the former really represents an
+abstract state of the system which is sort
+
+7
+00:00:26,200 --> 00:00:29,430
+of unrelated to our choice of describing
+it.
+
+8
+00:00:29,430 --> 00:00:32,389
+So, it sort of doesn't rely on the
+particular choice of the coordinates.
+
+9
+00:00:32,390 --> 00:00:36,635
+Well psi of x is a specific what we call
+representation, which is much like
+
+10
+00:00:36,635 --> 00:00:40,083
+coordinates of a vector.
+So, the relation between the two is the
+
+11
+00:00:40,083 --> 00:00:43,164
+full length.
+So it's basically matrix elements of psi
+
+12
+00:00:43,164 --> 00:00:45,620
+of x is a matrix element between x and
+psi.
+
+13
+00:00:45,620 --> 00:00:48,920
+You know, and both are abstract vectors
+and some Hilbert space.
+
+14
+00:00:48,920 --> 00:00:52,888
+Now a particular example of this wave
+function wave for example is this plane
+
+15
+00:00:52,888 --> 00:00:56,830
+wave which just grabs the particle.
+Moving with a certain momentum.
+
+16
+00:00:56,830 --> 00:01:00,232
+I don't want to discuss too much the
+choice of the coefficient at this stage,
+
+17
+00:01:00,232 --> 00:01:02,300
+we're going to discuss it later in the
+course.
+
+18
+00:01:02,300 --> 00:01:07,490
+In any case, we definitely have seen this
+function before and we know it describes a
+
+19
+00:01:07,490 --> 00:01:11,948
+particle with a given momentum.
+Now the question that you're really asking
+
+20
+00:01:11,948 --> 00:01:16,096
+now in relation with this matrix element
+It was a, what is, what is the wave
+
+21
+00:01:16,096 --> 00:01:19,890
+function of a particle with the given
+coordinate, let's say x pri.
+
+22
+00:01:19,890 --> 00:01:24,182
+So, in order to answer this question we
+need to remind ourselves to introduce for
+
+23
+00:01:24,182 --> 00:01:28,662
+those of who[UNKNOWN] know the notion of
+the Dirac delta-function which basically
+
+24
+00:01:28,662 --> 00:01:32,913
+is exactly this.
+Matrix elements we're after.
+
+25
+00:01:32,913 --> 00:01:38,380
+So in order to introduce it, let me recall
+a very few, very simple facts from the
+
+26
+00:01:38,380 --> 00:01:42,295
+usual linear algebra.
+So let's say if we have a finite
+
+27
+00:01:42,295 --> 00:01:48,703
+dimensional vector space with some
+cartesian coordinate system and basis
+
+28
+00:01:48,703 --> 00:01:54,666
+vectors, let's say e1 E2 well in principle
+it's every 3 or 4 so the Cartesian
+
+29
+00:01:54,666 --> 00:02:00,362
+Coordinate system implies that we, the
+product, the dot product of two basis
+
+30
+00:02:00,362 --> 00:02:05,347
+vectors, e sub i and e sub g is equal to
+zero if they are different.
+
+31
+00:02:05,348 --> 00:02:09,715
+Which means they are orthogonal to each
+other or is equal to 1 if this is the same
+
+32
+00:02:09,715 --> 00:02:12,939
+vector.
+Which means that the, normal trajectory is
+
+33
+00:02:12,939 --> 00:02:16,148
+equal to 1.
+And, so the, symbol, which sort of
+
+34
+00:02:16,148 --> 00:02:21,692
+summarizes, this, relation, is the
+chronicer delta symbol, delta IG, which is
+
+35
+00:02:21,692 --> 00:02:25,464
+defined as this.
+Of course if we're going to calculate the
+
+36
+00:02:25,464 --> 00:02:30,958
+sum, over all let's say i's, of delta IG,
+we're going to have the sum equal to one,
+
+37
+00:02:30,958 --> 00:02:36,452
+just because all of them are equal all,
+all these terms are equal to zero apart
+
+38
+00:02:36,452 --> 00:02:41,315
+from the one we, where I is equal to G.
+Now the difference between the sort of
+
+39
+00:02:41,315 --> 00:02:46,273
+simplistic picture of the usual basis
+vectors and the usual linear vector space,
+
+40
+00:02:46,273 --> 00:02:50,561
+and the basis vectors in quantum mechanics
+in, i-, i-, is that the basis we're
+
+41
+00:02:50,561 --> 00:02:55,580
+dealing now is sort of continual base.
+So the basis vectors are really sort of
+
+42
+00:02:55,580 --> 00:02:59,960
+some [unknown] vectors which are labeled
+by coordinates, and there are infinitely
+
+43
+00:02:59,960 --> 00:03:03,894
+many coordinates and there's sort of a
+continuum space of this coordinates.
+
+44
+00:03:03,895 --> 00:03:08,625
+But if we sort of use the analogy between,
+let's say e i, and x, and e g, and x
+
+45
+00:03:08,625 --> 00:03:13,739
+prime, so this product is much like a
+[unknown] product of these two vectors.
+
+46
+00:03:13,740 --> 00:03:18,640
+So using this analogy we can demand,
+therefore that if x is not equal to x
+
+47
+00:03:18,640 --> 00:03:23,740
+prime, this measured [unknown] and
+therefore, this delta function, which is
+
+48
+00:03:23,740 --> 00:03:28,010
+sort of a continuum version of this delta
+symbol, are equal to zero.
+
+49
+00:03:28,010 --> 00:03:32,906
+And if x is equal to x prime and something
+else and so there's something else that is
+
+50
+00:03:32,906 --> 00:03:37,802
+determined by a condition which is very
+similar to this condition but now instead
+
+51
+00:03:37,802 --> 00:03:42,122
+of summing over a discreet set of vectors
+by i, we have to integrate over a
+
+52
+00:03:42,122 --> 00:03:46,280
+continuum set of vectors labeled by x.
+And so these are all possible coordinates
+
+53
+00:03:46,280 --> 00:03:49,489
+in one dimensional space going from minus
+infinity to plus infinity.
+
+54
+00:03:49,490 --> 00:03:53,896
+And the corresponding the corresponding
+delta function, the integral of the
+
+55
+00:03:53,896 --> 00:03:56,375
+corresponding delta function is equal to
+one.
+
+56
+00:03:56,376 --> 00:04:02,381
+And so therefore, if we try to visualize
+this delta function, it's something which
+
+57
+00:04:02,381 --> 00:04:07,177
+is equal to zero everywhere.
+So this is our delta of x, and this is x.
+
+58
+00:04:07,178 --> 00:04:12,550
+So we have something which is equal to
+zero everywhere apart from just one single
+
+59
+00:04:12,550 --> 00:04:17,670
+point where this function is so large, it
+has such a huge high peak that the
+
+60
+00:04:17,670 --> 00:04:22,320
+integral collected from this single peak
+gives us a finite result.
+
+61
+00:04:22,320 --> 00:04:27,327
+And well, this sort of implies that the
+value of this delta function at x equals
+
+62
+00:04:27,327 --> 00:04:32,406
+x-prime is, is infinity.
+And these, conditions are the canonical
+
+63
+00:04:32,406 --> 00:04:36,903
+conditions that determine the Dirac delta
+function.
+
+64
+00:04:36,903 --> 00:04:41,224
+Now, this Dirac delta function has many,
+properties that can be discussed.
+
+65
+00:04:41,224 --> 00:04:46,338
+So, I don't have time for that now but let
+me just mention one important property,
+
+66
+00:04:46,338 --> 00:04:50,392
+which is essentially the Fourier transform
+or the delta function.
+
+67
+00:04:50,392 --> 00:04:54,182
+So we, we, know that any reasonable
+function and, in this case, actually,
+
+68
+00:04:54,182 --> 00:04:58,987
+unreasonable function too can be expanded
+in terms of these sort of, plain wave like
+
+69
+00:04:58,987 --> 00:05:01,832
+functions.
+And this expansion is called the Fourier
+
+70
+00:05:01,832 --> 00:05:05,223
+transform so if you the Fourier transform,
+the DIrac delta function.
+
+71
+00:05:05,223 --> 00:05:11,052
+It will look like that so essentially an
+integral from minus infinity to plus
+
+72
+00:05:11,052 --> 00:05:16,252
+infinity of dk over 2 pi either for ikx.
+So these are well, things that we need now
+
+73
+00:05:16,252 --> 00:05:18,974
+to calculate the remaining matrix
+elements.
+
+74
+00:05:18,974 --> 00:05:21,274
+So, one of them in some sense have already
+calculate.
+
+75
+00:05:21,275 --> 00:05:26,990
+So let me just put everything together and
+clean up this space a little bit.
+
+76
+00:05:26,990 --> 00:05:32,760
+So, one matrix element that we can
+immediately write down a by analogy with
+
+77
+00:05:32,760 --> 00:05:38,898
+this relation we just arrived is the
+matrix element between the neighboring
+
+78
+00:05:38,898 --> 00:05:44,385
+points x sub k and x sub k plus 1, which
+can be written just in one to one
+
+79
+00:05:44,385 --> 00:05:50,137
+correspondence with this result.
+We just replaced x with xk plus 1 and x
+
+80
+00:05:50,137 --> 00:05:56,100
+prime with x sub k and we get this delta
+function of the difference which we'll
+
+81
+00:05:56,100 --> 00:06:00,370
+also call later on delta x.
+Now, in a very similar way.
+
+82
+00:06:00,370 --> 00:06:07,320
+We can now calculate, also, the, matrix
+element of the, potential, v of x.
+
+83
+00:06:07,320 --> 00:06:11,120
+So since v has the potential depends on
+the, on the coordinate.
+
+84
+00:06:11,120 --> 00:06:16,250
+And this vector, this state vector is the
+eigenstate of the coordinate.
+
+85
+00:06:16,250 --> 00:06:21,985
+Means that v of x, when acting on the x
+sub key just gives us.
+
+86
+00:06:21,986 --> 00:06:27,386
+The number v of x of k which can be
+factored out and the remaining matrix
+
+87
+00:06:27,386 --> 00:06:31,877
+element we just calculate it so the result
+is simply this.
+
+88
+00:06:31,878 --> 00:06:38,676
+So a slightly less trivial matrix element
+appears from the kinetic energy where we
+
+89
+00:06:38,676 --> 00:06:44,505
+have to calculate the matrix element of
+the p squared over 2m and So the x of k is
+
+90
+00:06:44,505 --> 00:06:50,256
+not and eigenfunction of momentum p.
+So in order to calculate it, do we can use
+
+91
+00:06:50,256 --> 00:06:55,500
+again the resolution of the identity that
+we discussed before, but now formulated
+
+92
+00:06:55,500 --> 00:06:58,543
+for the momentum rather than for
+coordinates.
+
+93
+00:06:58,544 --> 00:07:03,234
+So this guy is equal to 1.
+And we can insert this resolution of the
+
+94
+00:07:03,234 --> 00:07:08,527
+identity in between this operator p
+squared over 2m and x sub k, and if we do
+
+95
+00:07:08,527 --> 00:07:12,424
+so we get this integral.
+So here are placed the dummy variable of
+
+96
+00:07:12,424 --> 00:07:15,959
+integration.
+Instead of writing it as p here, I just
+
+97
+00:07:15,959 --> 00:07:20,977
+write it as p sub k, and, but it's the
+same resolution of the identity.
+
+98
+00:07:20,978 --> 00:07:25,958
+And so here now, so the, momentum
+operator, this kinetic energy, does act on
+
+99
+00:07:25,958 --> 00:07:30,064
+its eigenstate.
+So therefore this becomes simply P
+
+100
+00:07:30,064 --> 00:07:34,817
+sub-case squared over 2m, which is a
+number that can be factored out.
+
+101
+00:07:34,818 --> 00:07:39,726
+And there are many matrix elements this
+guy and this guy has to be compared, has
+
+102
+00:07:39,726 --> 00:07:43,350
+to be compared with this expression with
+the plain wave.
+
+103
+00:07:43,350 --> 00:07:47,619
+So these are simply plain waves.
+And so if we put everything together for
+
+104
+00:07:47,619 --> 00:07:51,714
+this room, we get the following results
+with the matrix element of the kinetic
+
+105
+00:07:51,714 --> 00:07:55,619
+energy.
+So which involves an integral o over a
+
+106
+00:07:55,619 --> 00:07:58,820
+momentum.
+In this case p of k is the momentum.
+
+107
+00:07:58,820 --> 00:08:04,780
+So in order to write all measuring
+supplements in a similar fashion we can
+
+108
+00:08:04,781 --> 00:08:11,742
+use this now this relation for the delta
+function which with the fourier transform
+
+109
+00:08:11,742 --> 00:08:16,682
+put the delta function and just replace
+key with a p over e bar.
+
+110
+00:08:16,682 --> 00:08:22,870
+So if we do so, we get essentially the
+same integral but now, integrate it over a
+
+111
+00:08:22,870 --> 00:08:28,977
+momentum and the exponential here will,
+will i over each bar, p sub p times x.
+
+112
+00:08:28,978 --> 00:08:33,889
+So but it's essentially the same the same
+expression for the delta function and we
+
+113
+00:08:33,889 --> 00:08:38,719
+can use it here to write the matrix
+element in terms of this in terms of this
+
+114
+00:08:38,719 --> 00:08:43,030
+integral.
+So you see that all three metrics elements
+
+115
+00:08:43,030 --> 00:08:48,022
+that appear in the in our previous
+calculation can be written in a very
+
+116
+00:08:48,022 --> 00:08:51,922
+similar fashion.
+Now, the good news is that we have reached
+
+117
+00:08:51,922 --> 00:08:57,214
+our final slide and we are now in the
+position to put everything together and
+
+118
+00:08:57,214 --> 00:09:03,444
+well, get to the main result of Feynman.
+We have done in the previous slide, we
+
+119
+00:09:03,444 --> 00:09:09,905
+have calculated the, the matrix elements
+that we need to, to describe the
+
+120
+00:09:09,905 --> 00:09:13,917
+propagator and so these are these matrix
+elements.
+
+121
+00:09:13,918 --> 00:09:16,890
+So we write them sort of in the uniform
+fashion.
+
+122
+00:09:16,890 --> 00:09:21,312
+So the, there is this one coming from his
+term and there is a kinetic and potential
+
+123
+00:09:21,312 --> 00:09:25,746
+energy from the cumulitonian.
+Now why, let's recall why do we even
+
+124
+00:09:25,746 --> 00:09:29,162
+bother you know to think about this
+[unknown] element.
+
+125
+00:09:29,162 --> 00:09:35,098
+So, where it comes from is really the this
+sort of picture of the propagators.
+
+126
+00:09:35,098 --> 00:09:41,762
+So remember we want to find the propagator
+from an initial point xi or 0 to the final
+
+127
+00:09:41,762 --> 00:09:47,402
+point xf and a time t.
+And so what we did, we split the time
+
+128
+00:09:47,402 --> 00:09:54,134
+interval from 0 to t into n a very, very
+small time intervals delta t and in doing
+
+129
+00:09:54,134 --> 00:10:00,764
+so we have represented our initial
+propagature as a product essentially of
+
+130
+00:10:00,764 --> 00:10:07,596
+this small propagature.
+Going let's say from this point to x1,
+
+131
+00:10:07,596 --> 00:10:13,110
+from x1 to x2 etc., etc.
+And so basically to calculate this, this
+
+132
+00:10:13,111 --> 00:10:18,659
+many matrix elements you know to calculate
+the 0 without the delta t, we needed to
+
+133
+00:10:18,659 --> 00:10:21,730
+calculate this guy and so we have the
+answer.
+
+134
+00:10:21,730 --> 00:10:24,769
+So this is the expression.
+And now we can just use it.
+
+135
+00:10:24,769 --> 00:10:27,368
+So notice the good thing about this
+expression.
+
+136
+00:10:27,368 --> 00:10:30,789
+Well, it looks a little bit cumbersome,
+but the good thing about this expression
+
+137
+00:10:30,789 --> 00:10:32,867
+is that it doesn't have any operators any
+more.
+
+138
+00:10:32,868 --> 00:10:34,760
+The operators are gone.
+There are no hats here.
+
+139
+00:10:34,760 --> 00:10:37,955
+There are only numbers, the regular
+numbers we're used to.
+
+140
+00:10:37,955 --> 00:10:42,856
+So another thing we should, we can notice
+is that this time interval, delta t, is
+
+141
+00:10:42,856 --> 00:10:47,072
+very small, because we try and keep our
+Interval from 0 to 10 to n pieces and n
+
+142
+00:10:47,072 --> 00:10:50,270
+goes to infinity, so this guy is really,
+really small.
+
+143
+00:10:50,270 --> 00:10:53,750
+At this point what we can recall is
+the[UNKNOWN] Taylor expansion for an
+
+144
+00:10:53,750 --> 00:10:56,979
+exponential of some small number.
+So if we have a small number, let's say
+
+145
+00:10:56,979 --> 00:11:01,120
+epsilon much smaller that 1.
+So the exponential can be written as 1
+
+146
+00:11:01,120 --> 00:11:04,190
+plus epsilon, we can neglect the other
+terms.
+
+147
+00:11:04,190 --> 00:11:09,562
+So what Feynman does at this, at this
+stage, he notices that, well this term
+
+148
+00:11:09,562 --> 00:11:13,019
+here is a small, much like, the epsilon
+here.
+
+149
+00:11:13,020 --> 00:11:16,260
+And he uses this, Taylor Expansion sort of
+backwards.
+
+150
+00:11:16,260 --> 00:11:18,365
+So instead of writing the exponential as a
+liner.
+
+151
+00:11:18,365 --> 00:11:21,910
+Well, 1 plus a linear term.
+He write this 1 minus a linear term, is an
+
+152
+00:11:21,910 --> 00:11:26,233
+exponential.
+So, and, This is the, result that he has.
+
+153
+00:11:26,233 --> 00:11:31,200
+So the reason he does that is because now
+the integral that we get is very
+
+154
+00:11:31,200 --> 00:11:33,790
+convenient.
+Because this is really the Gaussian
+
+155
+00:11:33,790 --> 00:11:37,542
+integral that we know how to calculate so
+you see we have this, we have an integral
+
+156
+00:11:37,542 --> 00:11:41,462
+over momentum, we have a programmatic term
+and a linear term and this is something we
+
+157
+00:11:41,462 --> 00:11:44,310
+have seen before.
+So if we do the calculation of the
+
+158
+00:11:44,310 --> 00:11:46,700
+integral so what we'll going to get is
+this.
+
+159
+00:11:46,700 --> 00:11:53,840
+So just, you know, the result of
+exponential m over 2 delta x squared over
+
+160
+00:11:53,840 --> 00:11:57,818
+delta t squared.
+But now let's look again at this picture
+
+161
+00:11:57,818 --> 00:12:01,738
+which shows the trajectory.
+So you see these are these trajectories
+
+162
+00:12:01,738 --> 00:12:06,277
+that, various trajectories that go from
+the initial point to the final point.
+
+163
+00:12:06,278 --> 00:12:10,624
+And so here, this term sort of corresponds
+to a single segment, let's say this guy.
+
+164
+00:12:10,625 --> 00:12:17,128
+Where a delta t is this small dimension.
+And delta x is really the change in the
+
+165
+00:12:17,128 --> 00:12:20,236
+coordinate.
+Well, basically, you may think about the
+
+166
+00:12:20,236 --> 00:12:23,520
+distance that the particle propagates in
+this time delta t.
+
+167
+00:12:23,520 --> 00:12:28,004
+So delta x or delta t simply, can
+interpret as simply the velocity of the
+
+168
+00:12:28,004 --> 00:12:31,629
+particle.
+So therefore, if we write it, so we, we
+
+169
+00:12:31,629 --> 00:12:37,219
+can see that this matrix element is
+nothing but either the power I over H, MV
+
+170
+00:12:37,219 --> 00:12:43,239
+squared over two, so basically the kinetic
+energy minus the potential energy times
+
+171
+00:12:43,239 --> 00:12:47,740
+Delta T.
+So and this is something which has a name
+
+172
+00:12:47,740 --> 00:12:55,090
+in classical physics, so maybe some of you
+know it, and this Name is called the
+
+173
+00:12:55,090 --> 00:12:59,557
+Lagrangian.
+Let me call it L sub k.
+
+174
+00:12:59,558 --> 00:13:04,595
+And so in these notations we can write the
+result for the matrix element of U of
+
+175
+00:13:04,595 --> 00:13:07,714
+delta T is simply E to the power of I over
+H bar.
+
+176
+00:13:07,715 --> 00:13:15,114
+L sub k times delta t.
+So using this result we can now rewrite
+
+177
+00:13:15,114 --> 00:13:19,910
+our main object this propagature as
+follows.
+
+178
+00:13:19,910 --> 00:13:24,932
+So we're going to have a bunch on
+integrals over x1, this point, this point,
+
+179
+00:13:24,932 --> 00:13:27,938
+this point.
+Uih, and of this exponentials of this
+
+180
+00:13:27,938 --> 00:13:31,066
+Lagrangians.
+First point it was at the first segment,
+
+181
+00:13:31,067 --> 00:13:36,316
+second segment thir segment etcetera.
+So notice that eseentially these integrals
+
+182
+00:13:36,316 --> 00:13:40,537
+over X1, X2 etcetera sort of correspond to
+moving aroudn these poitns tehse
+
+183
+00:13:40,537 --> 00:13:44,030
+intermediate points between Xi and Xf.
+The endpoints.
+
+184
+00:13:44,030 --> 00:13:47,690
+Are completely fixed.
+But the intermediates intermediate points
+
+185
+00:13:47,690 --> 00:13:51,046
+are free.
+And these integrals essentially symbolize
+
+186
+00:13:51,046 --> 00:13:54,378
+this freedom.
+So now the last step here in the
+
+187
+00:13:54,378 --> 00:14:00,328
+continuation is you have to recognize
+that, so here the product of exponential,
+
+188
+00:14:00,328 --> 00:14:05,149
+it can be written of the exponential of
+the sum, i over h bar.
+
+189
+00:14:05,150 --> 00:14:12,696
+L sub k delta t.
+And as delta t the interval, time interval
+
+190
+00:14:12,696 --> 00:14:19,640
+goes to zero, we can simply write it as e
+to the power i over h bar, an integral
+
+191
+00:14:19,640 --> 00:14:24,658
+well from 0 to t l d t.
+And the integral of the Lagrangien over
+
+192
+00:14:24,658 --> 00:14:28,119
+time is called is known as classical
+action.
+
+193
+00:14:28,120 --> 00:14:34,295
+So what we got is essentially the main
+result that the propogator can be written
+
+194
+00:14:34,295 --> 00:14:39,398
+as an integral over all possible
+trajectories, all possible intermediate
+
+195
+00:14:39,398 --> 00:14:44,760
+coordinates of the weighted with this
+exponential of the classic election.
+
+196
+00:14:44,760 --> 00:14:47,758
+So this is the result that we sort of
+advertised in the very beginning.
+
+197
+00:14:47,758 --> 00:14:53,372
+And Feynman introduced essentially a
+symbol, a notation, instead of writing a
+
+198
+00:14:53,372 --> 00:14:59,662
+bunch of these Intermediate step, so if
+you can introduce a single symbol which is
+
+199
+00:14:59,662 --> 00:15:04,608
+this capital curly d of x of t which is
+called the path integral.
+
+200
+00:15:04,608 --> 00:15:08,689
+So, it's just a symbol.
+But it turns out that it's actually a very
+
+201
+00:15:08,689 --> 00:15:11,500
+convenient symbol.
+So now our derivation is over so this is
+
+202
+00:15:11,500 --> 00:15:14,416
+again, this is the main result, so maybe
+let me just write it.
+
+203
+00:15:14,416 --> 00:15:19,542
+Sort of underline it again, so this is our
+main result.
+
+204
+00:15:19,542 --> 00:15:24,414
+And so, I know it's been a very long
+derivation, but as we'll see in the next
+
+205
+00:15:24,414 --> 00:15:29,202
+lecture, so this result is extremely
+useful in that, it will allow us to get,
+
+206
+00:15:29,202 --> 00:15:34,750
+well from now on, without extraordinary
+calculations, extremely profound and
+
+207
+00:15:34,750 --> 00:15:39,045
+interesting physical facts.
+So we're going to discuss the
+
+208
+00:15:39,045 --> 00:15:43,961
+correspondence between classical and
+quantum mechanics.
+
+209
+00:15:43,962 --> 00:15:46,998
+We're going to discuss so called quantum
+localization, we're going to discuss a
+
+210
+00:15:46,998 --> 00:15:49,070
+very interesting process of quantum
+dissipation.
+
+211
+00:15:49,070 --> 00:15:52,937
+So there are a lot of cool things that can
+be studied now with this object.
+
+212
+00:15:52,938 --> 00:15:57,098
+But well, it did take us a while to derive
+it, so hope some of you got the main
+
+213
+00:15:57,098 --> 00:15:58,693
+points of this derivation.

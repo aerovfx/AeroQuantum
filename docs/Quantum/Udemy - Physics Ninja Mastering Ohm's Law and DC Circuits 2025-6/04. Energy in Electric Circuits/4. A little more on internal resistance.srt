@@ -1,0 +1,121 @@
+WEBVTT
+
+00:00.300 --> 00:03.660
+Here's another kind of view of the previous picture as the scribing.
+
+00:03.660 --> 00:05.440
+So here's our battery again.
+
+00:05.520 --> 00:09.050
+The internal resistance is given by a lowercase r.
+
+00:09.510 --> 00:10.900
+Here's the ideal EMR.
+
+00:10.920 --> 00:17.680
+Inside the battery and some resistance that is maybe connected to to form a closed loop circuit.
+
+00:17.880 --> 00:19.070
+Imagine here you have a current.
+
+00:19.120 --> 00:29.670
+I it remember our expression now for the terminal voltage was V-A mine is VB would be equal to the ideal
+
+00:31.350 --> 00:33.710
+minus i r.
+
+00:34.080 --> 00:40.050
+Actually if you call this V again just the voltage of the battery if you plug that voltage as a function
+
+00:40.050 --> 00:43.230
+of the current look what you get here.
+
+00:43.770 --> 00:45.930
+If the current is zero.
+
+00:46.200 --> 00:46.780
+Right.
+
+00:46.800 --> 00:52.260
+If there is no closed loop you would have a kind of just an open circuit over here you wouldn't have
+
+00:52.260 --> 00:53.700
+any current.
+
+00:53.730 --> 01:01.870
+So in that case the voltage of the battery is simply equal to the MF of the ideal ium F..
+
+01:01.920 --> 01:03.190
+So let's write that down.
+
+01:03.210 --> 01:06.580
+So if current equals to zero.
+
+01:06.600 --> 01:11.640
+So that's if for example there's a break here or it's not connected to any resistance or you'd have
+
+01:11.640 --> 01:12.750
+zero current.
+
+01:12.900 --> 01:20.190
+In that case the terminal voltage is simply equal to the ideal M.F. of the battery and that's what you
+
+01:20.190 --> 01:21.230
+get over here.
+
+01:21.360 --> 01:27.270
+Now as more and more current depending on what you've connected here to form a closed loop the more
+
+01:27.270 --> 01:29.600
+current that you get.
+
+01:30.810 --> 01:36.350
+What that would cause would be that the terminal voltage here would go down more.
+
+01:36.700 --> 01:41.860
+And you could see as a function of I the bigger this current is the more you take away from this ideal.
+
+01:41.860 --> 01:52.340
+MF So if you take an example imagine here we have a 12 volt battery ideal battery and imagine the internal
+
+01:52.340 --> 01:56.890
+resistance here is 0.5 ohms.
+
+01:56.920 --> 02:02.410
+So over here I get if there is no current flowing through it you would measure 12 volts across the terminals
+
+02:02.410 --> 02:03.750
+of that battery.
+
+02:04.380 --> 02:10.660
+Imagine you connect it to some resistor and then the current is measured and you measure a current equal
+
+02:10.660 --> 02:12.670
+to two amps.
+
+02:12.760 --> 02:20.710
+So in that case if I go all the way here to two atoms what I would now measure for the voltage across
+
+02:20.710 --> 02:25.030
+that the terminals of this battery would be my value over here.
+
+02:25.120 --> 02:34.930
+So I get the ideal MF which is 12 minus two multiplied by a 1 1/2 0.5 2 times 1 1/2 gives me one.
+
+02:34.930 --> 02:37.680
+So I would actually measure 11 volts.
+
+02:37.680 --> 02:41.560
+So you go and you measure the voltage.
+
+02:41.570 --> 02:44.360
+In that case you're going to measure 11 volts.
+
+02:44.360 --> 02:48.440
+If there's more current You're going to measure a lower voltage for the terminal voltage of that battery
+
+02:48.440 --> 02:54.110
+because there ends up being a larger voltage drop across this internal resistance and we'll get more
+
+02:54.110 --> 02:56.850
+into this in the next section.

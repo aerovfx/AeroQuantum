@@ -1,0 +1,589 @@
+WEBVTT
+
+1
+00:00:00.780 --> 00:00:01.420
+Hello, everyone.
+
+2
+00:00:01.420 --> 00:00:04.040
+Welcome back to Exploring Quantum Physics.
+
+3
+00:00:04.040 --> 00:00:07.040
+In this part we're going to look at how
+
+4
+00:00:07.040 --> 00:00:11.350
+the concept of spin emerges very
+naturally from the Dirac Equation.
+
+5
+00:00:11.350 --> 00:00:13.400
+It's quite a remarkable thing because so
+
+6
+00:00:13.400 --> 00:00:18.520
+little goes into the formulation of
+Dirac Theory, so much comes out of it.
+
+7
+00:00:18.520 --> 00:00:22.920
+Including this amazing result of
+the prediction of half interval spin
+
+8
+00:00:22.920 --> 00:00:24.100
+of fundamental particles.
+
+9
+00:00:26.470 --> 00:00:31.050
+On the exit quiz of the last part of this
+lecture, previous part of this lecture,
+
+10
+00:00:32.240 --> 00:00:36.480
+you found that the angular
+momentum operator did
+
+11
+00:00:36.480 --> 00:00:41.470
+not commute with the Dirac Hamiltonian.
+
+12
+00:00:41.470 --> 00:00:47.410
+So in particular, here we are with
+three dimensional Dirac Equation,
+
+13
+00:00:47.410 --> 00:00:50.800
+with the various
+anticommutations indicated.
+
+14
+00:00:50.800 --> 00:00:55.380
+And when you just apply this to the,
+apply the commutator to the angular
+
+15
+00:00:55.380 --> 00:00:59.130
+momentum with the Hamiltonian,
+It's straight forward to show this.
+
+16
+00:00:59.130 --> 00:01:04.860
+Because you see the momenta, pi,
+are the elements of a vector.
+
+17
+00:01:04.860 --> 00:01:10.140
+So the angular momentum rotates a spatial
+vector around, and so it mixes up,
+
+18
+00:01:10.140 --> 00:01:15.149
+the weighting of the momenta by
+the different quantities alpha.
+
+19
+00:01:17.390 --> 00:01:23.210
+This seems problematic, but it turns
+out to be a feature rather than a bug.
+
+20
+00:01:23.210 --> 00:01:24.088
+Let's see why.
+
+21
+00:01:28.558 --> 00:01:33.230
+So, we have to ask, what's gone
+wrong with the angular momentum?
+
+22
+00:01:33.230 --> 00:01:38.400
+Is there something else that
+exists in the Dirac Equation that
+
+23
+00:01:38.400 --> 00:01:43.280
+can be used to sort of fix the problem
+with the violation of angular momentum?
+
+24
+00:01:44.620 --> 00:01:49.560
+So let's see if we can identify
+any other constants of motion
+
+25
+00:01:49.560 --> 00:01:53.610
+that derive from these
+various relationships.
+
+26
+00:01:53.610 --> 00:01:55.699
+And I emphasize here that
+everything we're doing now
+
+27
+00:01:56.700 --> 00:02:01.680
+is independent of the representation that
+we take for the alphas and the betas.
+
+28
+00:02:04.590 --> 00:02:08.960
+So, as you'll see in a moment, if you sit
+down and actually try this, you quickly
+
+29
+00:02:08.960 --> 00:02:14.350
+find something out and that is,
+first of all, in the Dirac Equation, we're
+
+30
+00:02:14.350 --> 00:02:20.340
+only given anticommutation relationships
+between involving these alphas and betas.
+
+31
+00:02:22.280 --> 00:02:27.430
+But it turns out that when you construct
+quadratic forms of the alpha and beta
+
+32
+00:02:28.480 --> 00:02:34.030
+that you can get commutation
+relations out of those.
+
+33
+00:02:34.030 --> 00:02:38.560
+So here I'm sort of anticipating
+the result by this particular definition.
+
+34
+00:02:38.560 --> 00:02:42.610
+But we're just going to use the cross
+product of alpha with itself
+
+35
+00:02:42.610 --> 00:02:46.390
+times h bar over 4i to
+define this new object.
+
+36
+00:02:46.390 --> 00:02:50.716
+Soit's defined entirely in terms
+of these anticommuting numbers of
+
+37
+00:02:50.716 --> 00:02:55.874
+Dirac Equation and let's see what type
+of commutation relationships it yields.
+
+38
+00:02:59.474 --> 00:03:02.323
+Okay, so,
+let's just look at things one at a time.
+
+39
+00:03:02.323 --> 00:03:03.400
+So, here's s1.
+
+40
+00:03:04.880 --> 00:03:08.270
+It's given by the cross
+product of alpha with itself.
+
+41
+00:03:08.270 --> 00:03:10.936
+It's the one complement
+of a cross product,
+
+42
+00:03:10.936 --> 00:03:16.050
+which through the anticommutation
+relationship simplifies to this.
+
+43
+00:03:16.050 --> 00:03:17.940
+Now we don't know what
+the product alpha 2,
+
+44
+00:03:17.940 --> 00:03:21.070
+alpha 3 is because we don't have
+a definite value of alpha 2, alpha.
+
+45
+00:03:21.070 --> 00:03:22.860
+That's going to depend
+upon the representation.
+
+46
+00:03:24.070 --> 00:03:26.010
+But just bear with me.
+
+47
+00:03:26.010 --> 00:03:31.808
+It turns out that,
+let's try to look at the commutator
+
+48
+00:03:31.808 --> 00:03:36.735
+of s1 with the Hamiltonian
+sort of bit by bit.
+
+49
+00:03:36.735 --> 00:03:42.250
+So the first thing I'll, that's looked
+at is the commutate of s1 with beta.
+
+50
+00:03:45.381 --> 00:03:47.870
+Okay, so
+here's the principle I mentioned earlier.
+
+51
+00:03:47.870 --> 00:03:52.270
+Here, this is how you write
+the commutator down, in the usual way.
+
+52
+00:03:53.980 --> 00:03:59.440
+But now you can use
+the anticommutation relationship
+
+53
+00:03:59.440 --> 00:04:03.690
+to pass beta to invert
+the order of beta and
+
+54
+00:04:03.690 --> 00:04:06.480
+alpha 3 and
+you pick up a minus sign when you do that.
+
+55
+00:04:06.480 --> 00:04:10.730
+And so do you see you just do that again.
+
+56
+00:04:10.730 --> 00:04:12.036
+You get rid of the minus sign.
+
+57
+00:04:12.036 --> 00:04:17.460
+And so, s1 commutes with beta.
+
+58
+00:04:17.460 --> 00:04:20.216
+And it's automatically, too,
+that s2 and s3 do as well.
+
+59
+00:04:20.216 --> 00:04:21.900
+You can verify those if you like.
+
+60
+00:04:21.900 --> 00:04:24.180
+But it's a very similar reason.
+
+61
+00:04:24.180 --> 00:04:28.000
+So that makes it some
+kind of candidate for
+
+62
+00:04:28.000 --> 00:04:32.250
+further investigation because at least it
+commutes with part of the Hamiltonian.
+
+63
+00:04:33.660 --> 00:04:39.760
+Now let's see what it does for
+other elements.
+
+64
+00:04:41.779 --> 00:04:46.369
+Okay, so, sticking with this value for
+the, this, well, it'll turn out
+
+65
+00:04:46.369 --> 00:04:50.990
+to be the spin operator, let's look
+at the commutator of s1 with alpha 1.
+
+66
+00:04:50.990 --> 00:04:54.550
+Okay, so now, once again,
+very straightforward,
+
+67
+00:04:54.550 --> 00:04:59.840
+just the algebraic writing out a1,
+alpha 1 minus alpha 1, s1.
+
+68
+00:04:59.840 --> 00:05:04.410
+And then invoking the anticommutation
+relationship to invert
+
+69
+00:05:04.410 --> 00:05:07.040
+the order with getting a negative sign.
+
+70
+00:05:07.040 --> 00:05:12.310
+And then doing it again,
+we find that s1, alpha 1 vanishes.
+
+71
+00:05:14.370 --> 00:05:17.620
+So that's possibly a nice thing.
+
+72
+00:05:17.620 --> 00:05:19.470
+Let's go further.
+
+73
+00:05:21.000 --> 00:05:23.045
+And now we start to see
+something interesting.
+
+74
+00:05:23.045 --> 00:05:26.927
+So here's again s1,
+straightforward development commutator.
+
+75
+00:05:29.587 --> 00:05:34.917
+Inverting the order,
+and so now we have s1,
+
+76
+00:05:34.917 --> 00:05:40.550
+alpha 2 is proportional
+to i h bar alpha three.
+
+77
+00:05:40.550 --> 00:05:48.106
+So if you think about your
+epsilon a b c operations,
+
+78
+00:05:48.106 --> 00:05:52.160
+then that's suggestive.
+
+79
+00:05:53.820 --> 00:05:55.686
+So let's go one step further.
+
+80
+00:06:00.181 --> 00:06:05.180
+And, given the, given those previous
+operations you might want to pause.
+
+81
+00:06:05.180 --> 00:06:06.376
+Scroll back and
+
+82
+00:06:06.376 --> 00:06:11.536
+then work out the commutator of
+the vector s with the Hamiltonian.
+
+83
+00:06:11.536 --> 00:06:17.966
+So again the vector s is defined this
+way and there's the Hamiltonian.
+
+84
+00:06:21.285 --> 00:06:28.790
+And again, I recommend that you do
+that and what you find is this.
+
+85
+00:06:29.890 --> 00:06:33.713
+So, do you see that the commutator of s,
+
+86
+00:06:33.713 --> 00:06:37.875
+s doesn't commute with the Hamiltonian but
+
+87
+00:06:37.875 --> 00:06:44.978
+it returns the opposite of what
+the commutator of l does with Hamiltonian.
+
+88
+00:06:50.579 --> 00:06:56.545
+Therefore the vector sum
+of these two operations,
+
+89
+00:06:56.545 --> 00:07:01.538
+the orbital angular momentum, which is,
+
+90
+00:07:01.538 --> 00:07:07.101
+remember that l is equal to r cross p,
+r cross p.
+
+91
+00:07:07.101 --> 00:07:12.174
+The angular momentum contains
+only the spacial coordinates,
+
+92
+00:07:12.174 --> 00:07:16.481
+the coordinate and
+the momentum of the electron, and
+
+93
+00:07:16.481 --> 00:07:20.132
+then s is proportional
+to alpha cross alpha.
+
+94
+00:07:20.132 --> 00:07:25.123
+So the ingredients of s are just these
+magical anticommuting numbers that
+
+95
+00:07:25.123 --> 00:07:29.228
+have nothing to do with the spatial,
+the space coordinate or
+
+96
+00:07:29.228 --> 00:07:32.140
+the momentum coordinate of the electron.
+
+97
+00:07:32.140 --> 00:07:37.190
+So it's as if it it's
+something intrinsic and so
+
+98
+00:07:37.190 --> 00:07:44.290
+this new object which is the sum of two
+vectors commutes with the Hamiltonian.
+
+99
+00:07:47.510 --> 00:07:52.160
+And you can also show that
+the components of the spin
+
+100
+00:07:52.160 --> 00:07:56.890
+operator satisfy the components
+of an angular momentum.
+
+101
+00:07:56.890 --> 00:08:01.484
+But it differs from the orbital momentum,
+in that the intrinsic
+
+102
+00:08:01.484 --> 00:08:06.432
+spin angular momentum has value of
+half of reduced blocks constant.
+
+103
+00:08:09.915 --> 00:08:15.170
+So all that came just from this
+amazingly simple equation.
+
+104
+00:08:15.170 --> 00:08:21.080
+It yielded both spin, a property of
+the electron that was postulated, but
+
+105
+00:08:21.080 --> 00:08:26.990
+couldn't really be associated with
+any reasonable physical theory.
+
+106
+00:08:26.990 --> 00:08:31.606
+And then the existence of antimatter,
+something that no one had ever thought of.
+
+107
+00:08:31.606 --> 00:08:34.424
+And which had a revolutionary
+influence on the world.
+
+108
+00:08:38.104 --> 00:08:44.162
+So, just to wrap things up for now, the
+other things, antimatter, electron spin,
+
+109
+00:08:44.162 --> 00:08:49.400
+the Dirac Equation also gives this so
+called anomalous magnetic moment.
+
+110
+00:08:49.400 --> 00:08:51.410
+It describes that correctly,
+
+111
+00:08:51.410 --> 00:08:57.060
+gives fine structure of atomic
+spectra to very good accuracy.
+
+112
+00:08:57.060 --> 00:09:01.190
+And, then it has a bunch of other sort of,
+paradoxes involved.
+
+113
+00:09:01.190 --> 00:09:04.500
+So for example, the Zitterbewegung,
+
+114
+00:09:04.500 --> 00:09:09.480
+discovered by Schrodinger, which
+suggests that the free Dirac electron is
+
+115
+00:09:09.480 --> 00:09:13.040
+always oscillating violently
+at the speed of light.
+
+116
+00:09:13.040 --> 00:09:15.240
+And that the classical
+motion's just a drift motion.
+
+117
+00:09:15.240 --> 00:09:17.550
+Now this is a simplistic interpretation.
+
+118
+00:09:17.550 --> 00:09:21.860
+But, recently, there have been
+counterparts to this relativistic
+
+119
+00:09:21.860 --> 00:09:25.145
+zitterbewegung encountered in
+non-relativistic system, in fact,
+
+120
+00:09:25.145 --> 00:09:29.980
+in cold trapped atoms and such things
+as topological insulators have been
+
+121
+00:09:29.980 --> 00:09:35.080
+found to have Dirac-like dispersion points
+in their electronic band structure.
+
+122
+00:09:35.080 --> 00:09:38.510
+So there's the richness
+of the Dirac Equation
+
+123
+00:09:39.830 --> 00:09:44.620
+extends well beyond its application
+to relativistic particles.

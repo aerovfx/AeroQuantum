@@ -1,0 +1,241 @@
+WEBVTT
+
+00:00.090 --> 00:03.570
+All right I want to now look at a different way of connecting to capacitors again.
+
+00:03.570 --> 00:10.140
+We're gonna have the same voltage 10 volts same two capacitors except now we've connected them slightly
+
+00:10.140 --> 00:16.680
+differently I've defined some points A B that's points on different sides of the plates for capacitor
+
+00:16.680 --> 00:24.690
+C one and point C and D are just on both sides of capacitor C two again the same questions we would
+
+00:24.690 --> 00:27.390
+have how much charges on each capacitor.
+
+00:27.480 --> 00:36.420
+So what is kind of Q1 what is Q2 again what is the voltage across the first capacitor and what is the
+
+00:36.420 --> 00:41.100
+voltage across the second capacitor how do we use our equations.
+
+00:41.160 --> 00:45.180
+So the first thing to notice is that this is what we say.
+
+00:45.270 --> 00:52.730
+This is a parallel configuration here in parallel because it's actually different wires right.
+
+00:52.730 --> 00:56.710
+There's different parts for each capacitor.
+
+00:56.820 --> 00:58.580
+They're connected by a different wire.
+
+00:58.590 --> 01:00.460
+They're not one right after another.
+
+01:00.540 --> 01:02.550
+So we say that these are in parallel with each other.
+
+01:02.550 --> 01:06.500
+You can see they kind of form parallel lines depending on how you draw them.
+
+01:06.600 --> 01:10.700
+So what we can do is for each capacitor is we can write down our equation.
+
+01:10.710 --> 01:17.490
+We can write that the charge on this first one has to be equal to see one multiplied by V1 you have
+
+01:17.490 --> 01:27.960
+to have this charge on Q2 capacitors C2 is Q Q2 and that has to be equal to the value of the capacitor
+
+01:28.380 --> 01:30.250
+multiplied by V.
+
+01:30.330 --> 01:34.780
+We're going to take the same values here we just want to see what's the difference between both cases.
+
+01:34.800 --> 01:37.000
+So this is kind of really equation 1.
+
+01:37.080 --> 01:42.390
+And although there's two equations here again both of these expressions have to be true.
+
+01:42.480 --> 01:48.660
+So all I know right now is I know the value of C1 and C2 So what happens now.
+
+01:48.670 --> 01:53.010
+What about the voltage across each capacitor.
+
+01:53.030 --> 01:55.320
+OK so this case is a little bit different.
+
+01:55.340 --> 02:03.440
+So in this case here the voltage across each capacitor v 1 has to be equal to V 2 and also has to be
+
+02:03.440 --> 02:06.460
+equal to V the voltage across the battery.
+
+02:06.530 --> 02:13.370
+Again this is a wire this whole side here is connected to the positive terminal of the battery which
+
+02:13.370 --> 02:17.120
+means this is all an equity potential it's a complicated looking conductor.
+
+02:17.150 --> 02:22.010
+There's a plate here there's a plate here but again they're all connected over here.
+
+02:22.100 --> 02:23.520
+Likewise on this side.
+
+02:23.730 --> 02:24.310
+Right.
+
+02:24.320 --> 02:26.120
+If this is at a negative voltage.
+
+02:26.360 --> 02:32.150
+Everything here has to be at the same negative voltage so you have to have the same positive voltage
+
+02:32.150 --> 02:32.900
+everywhere here.
+
+02:32.900 --> 02:37.100
+Same negative voltage as the battery for each case.
+
+02:37.100 --> 02:37.320
+All right.
+
+02:37.320 --> 02:44.570
+And this is true if they're in parallel with each other you'll always have the same voltage across parallel
+
+02:44.570 --> 02:46.430
+branches all right.
+
+02:46.430 --> 02:51.650
+So now we can actually calculate how much charge there is on each plate because I know the value of
+
+02:51.650 --> 02:55.980
+the capacitance and I also know that the voltage now is going to be 10 volts.
+
+02:56.060 --> 03:01.940
+So right away you can go back to my first equations this year would be ten times tend to the negative
+
+03:01.940 --> 03:06.120
+six fair add multiplied by 10.
+
+03:06.620 --> 03:14.060
+So I would have I'm just gonna write this as one hundred again micro Q Long How about on the second
+
+03:14.060 --> 03:22.610
+one you have 40 TIMES 10 TO THE NEGATIVE six and multiplied by again ten volts means you have to have
+
+03:22.610 --> 03:29.870
+400 micro columns okay and the voltage is going to be ten for each one.
+
+03:29.870 --> 03:36.950
+So V1 is 10 volts the two is equal to 10 volts and that's it you're all done for this one.
+
+03:37.760 --> 03:43.420
+Actually the other thing we could do though is represent this using an equivalent circuit.
+
+03:43.790 --> 03:47.060
+Nice thing about equivalent circuits is they're simpler.
+
+03:48.290 --> 03:54.920
+So again we're gonna use the same battery and I'm going to represent it now using a different capacitor
+
+03:55.370 --> 04:01.940
+that I want to simplify to and just represented as one equivalent capacitor the way that you do this
+
+04:01.940 --> 04:05.120
+now is through this.
+
+04:05.120 --> 04:13.040
+So the equivalent capacitor is C equivalent and the value now is basically simply going to be the sum
+
+04:13.040 --> 04:18.400
+of both of them it's a different equation so in this case it's simply C one plus C two.
+
+04:18.440 --> 04:27.830
+So in this example here it would be 10 micro Farad plus 40 micro Feride so C equivalent would give me
+
+04:29.000 --> 04:31.300
+50 micro ferret.
+
+04:32.000 --> 04:38.960
+What would be the charge now on this equivalent capacitor in the formula I would use for the charge
+
+04:38.960 --> 04:43.820
+on the equivalent capacitor would be C equivalent multiplied by the voltage.
+
+04:43.820 --> 04:49.580
+This is still 10 volts right here so the voltage across this capacitor has to be 10 volts at the end.
+
+04:49.580 --> 04:54.720
+If you substitute both of this in you're gonna get 50 micro grow by 10.
+
+04:55.040 --> 04:58.230
+You're going to get 500 micro cooling.
+
+04:58.830 --> 05:04.820
+It's actually what we're doing right here is we're simplifying this or representing kind of both of
+
+05:04.820 --> 05:08.860
+these plates here kind of combining them together.
+
+05:10.350 --> 05:13.790
+And we're the same thing on the other side.
+
+05:13.920 --> 05:18.400
+On the other side we're kind of combining both of those together.
+
+05:18.510 --> 05:25.000
+If I combine both of those imagine they have the same area and I stick them right next to each other.
+
+05:25.110 --> 05:26.610
+So this one has a bit of charge.
+
+05:26.610 --> 05:28.670
+This one however has a bit of charge.
+
+05:28.830 --> 05:33.460
+The total charge that you end up getting on this plate right here.
+
+05:34.080 --> 05:42.510
+I would read it as something like this that the total charge is equal to Q1 plus Q2 and we calculated
+
+05:42.510 --> 05:48.770
+both of those you could see that the number I just calculated using the equivalent capacitor is 500
+
+05:48.780 --> 05:49.960
+micro cooling.
+
+05:50.200 --> 05:56.240
+And again that's the number I would get if I would sum up the charges from each one one hundred micro
+
+05:56.240 --> 06:03.070
+cool on plus 400 micro cooling gives me 500 micro cooling.
+
+06:03.690 --> 06:14.050
+So again the key point for capacitors in parallel the voltage is the same that's really the key.
+
+06:14.470 --> 06:20.260
+If you want to represent it using an equivalent capacitor all you have to do is you simply have to sum
+
+06:20.260 --> 06:22.250
+up the different values.
+
+06:23.050 --> 06:27.190
+If there's three of them that are in parallel with each other I would simply add another term over here
+
+06:28.240 --> 06:30.480
+to calculate the charge on each one.
+
+06:30.640 --> 06:36.370
+Again since the voltage is the same it's pretty straightforward if you know the values in the last part
+
+06:36.370 --> 06:43.380
+is that my equivalent capacitor has a total charge equal to Q1 plus Q2.

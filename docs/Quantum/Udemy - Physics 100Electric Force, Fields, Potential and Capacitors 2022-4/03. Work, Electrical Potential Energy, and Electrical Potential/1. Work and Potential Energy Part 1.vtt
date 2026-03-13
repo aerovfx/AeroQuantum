@@ -1,0 +1,189 @@
+WEBVTT
+
+WEBVTT
+
+00:00.180 --> 00:07.500
+So so far we've focused on concepts that involve vectors some of the vectors that we've looked at so
+
+00:07.500 --> 00:11.190
+far were the force vector given by cool Ohm's Law.
+
+00:11.190 --> 00:16.200
+For example if I want to calculate the magnitude we've also looked at the electric field produced by
+
+00:16.200 --> 00:21.530
+point charges maybe by sheets of charges or by wires.
+
+00:21.720 --> 00:24.770
+And those were linked together by this simple formula.
+
+00:24.780 --> 00:25.010
+Right.
+
+00:25.010 --> 00:28.810
+Simply the charge multiplied by the electric field.
+
+00:28.830 --> 00:29.000
+All right.
+
+00:29.010 --> 00:36.960
+What I now want to do is I want to develop some problem solving approaches that involves scales and
+
+00:36.960 --> 00:40.290
+scalar as will be related to the concept of energy.
+
+00:41.850 --> 00:45.150
+So the basic property of those is they're just numbers right.
+
+00:45.150 --> 00:49.440
+We don't have any direction so simple numbers no direction.
+
+00:51.270 --> 00:56.850
+So in some ways it is a little bit easier to solve problems like that.
+
+00:57.060 --> 00:57.600
+All right.
+
+00:57.600 --> 01:01.820
+The first concept that I want to just kind of remind ourselves is something called work.
+
+01:01.830 --> 01:07.610
+This is going to be important when we deal with problems solving haven't do it charges.
+
+01:07.620 --> 01:11.200
+Let me start by just the simple definition of work.
+
+01:11.370 --> 01:17.440
+It's called sorry it's defined as the force a scalar product with a displacement.
+
+01:17.470 --> 01:19.320
+And I'll illustrate what that means.
+
+01:19.320 --> 01:29.310
+Now this formula right here that I write is only true for constant forces so only true for constant
+
+01:29.310 --> 01:30.030
+forces
+
+01:32.800 --> 01:40.140
+when the force changes for example for new for cool arms law we saw that the force depends on the distance.
+
+01:40.210 --> 01:46.120
+I wouldn't be able to use this equation to calculate the work done but if the force is constant like
+
+01:46.120 --> 01:51.220
+a charge between parallel plates typically the force is constant so let's have a look at this in more
+
+01:51.220 --> 01:52.240
+detail.
+
+01:52.240 --> 01:53.830
+This is a scalar product
+
+01:57.250 --> 02:02.500
+and the way that you can write down a scalar product again I would write simply that the work again
+
+02:02.500 --> 02:08.650
+if the magnitude of the force I'll just call it force it's the magnitude of the displacement and it's
+
+02:08.650 --> 02:11.350
+coercive the angle between both of those.
+
+02:12.130 --> 02:18.940
+So if we take a couple of cases for example if I have a force F which is in this direction and I have
+
+02:18.940 --> 02:22.700
+a displacement which is also in this direction.
+
+02:23.080 --> 02:28.360
+In that case here the angle theta would be equal to zero because there's no angle between both of those
+
+02:28.360 --> 02:29.420
+vectors.
+
+02:29.470 --> 02:35.730
+So this here would represent a case where somebody might be pushing a crate along the floor.
+
+02:35.740 --> 02:43.470
+So here's a crate resting on the floor and I apply a force to it in order to move it.
+
+02:43.600 --> 02:47.460
+So in this case here I'm applying a force and I want to move it a certain distance.
+
+02:47.470 --> 02:51.970
+Delta X again the displacement is also to the right in this case.
+
+02:52.190 --> 02:54.920
+So that would represent this one.
+
+02:54.920 --> 02:56.440
+There's another way I can move that crate.
+
+02:56.440 --> 03:00.990
+What if I have a force that's actually pushing down a little bit.
+
+03:01.140 --> 03:01.420
+Right.
+
+03:01.420 --> 03:04.980
+Again imagine we have again a same crate.
+
+03:05.440 --> 03:13.600
+I could push that crate and move it along the floor even if I apply a certain force at a distance like
+
+03:13.600 --> 03:15.440
+this it might be a little bit harder.
+
+03:15.460 --> 03:21.060
+However I'm still going to have a displacement and the displacement is still going to be this way.
+
+03:21.070 --> 03:23.160
+I'm gonna move the crate along the floor.
+
+03:23.710 --> 03:29.200
+So in this case if you draw those vectors end to end or starting at the same position here I'd have
+
+03:29.200 --> 03:30.800
+my force like this.
+
+03:31.110 --> 03:32.770
+So sorry forces at an angle.
+
+03:32.770 --> 03:43.400
+Try that again I'd have a force in this direction and my displacement is in this direction.
+
+03:43.420 --> 03:44.980
+That's my delta x.
+
+03:45.160 --> 03:49.590
+In this case here I have an angle theta between them.
+
+03:49.690 --> 03:58.090
+So if I wanted to calculate the work for this case I would say that the work is simply f delta x and
+
+03:58.090 --> 04:02.030
+then I would have to include this coast of the angle theta.
+
+04:03.370 --> 04:04.900
+So that's how that angle theta comes in.
+
+04:04.900 --> 04:09.840
+You could see that in some cases for the special case where theta is 90 degrees.
+
+04:09.970 --> 04:12.300
+There is no work being done by that force.
+
+04:12.310 --> 04:22.570
+So let's kind of highlight that right when theta equals the 90 that's the force is perpendicular to
+
+04:22.570 --> 04:24.460
+the displacement.
+
+04:24.460 --> 04:27.800
+In that case the work equals to 0.
+
+04:28.120 --> 04:32.060
+The units of work again it's a force times a distance.
+
+04:32.080 --> 04:38.220
+This actually ends up being units of joules and these are units of energy.

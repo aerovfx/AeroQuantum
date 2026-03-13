@@ -1,0 +1,1279 @@
+WEBVTT
+
+00:00.820 --> 00:11.020
+Another famous principle that most of you may have heard of is the Heisenberg's uncertainty or determination
+
+00:11.020 --> 00:11.660
+principle.
+
+00:12.880 --> 00:17.800
+Usually it is explained with a few sentences or with wrong analogies.
+
+00:17.800 --> 00:25.030
+And people, sometimes even professional physicists, have a misleading understanding of what it is
+
+00:25.030 --> 00:31.000
+about, therefore, to get a clear picture and avoid misunderstandings.
+
+00:31.360 --> 00:38.050
+It is instructive to deepen further our understanding of the diffraction and interference phenomenon
+
+00:38.380 --> 00:41.950
+for the one, two and many of its cases.
+
+00:44.030 --> 00:50.210
+So far, we concentrated our attention on young stubbles lead case in that occasion.
+
+00:50.240 --> 00:58.010
+We saw how when a couple of slits the a transverse plane wave, it produces the typical interference
+
+00:58.010 --> 01:03.770
+pattern made of white maxima and dark M.A fringes on a detection screen.
+
+01:05.480 --> 01:13.300
+And we saw that this is equally true if we sent also only one photon at a time through the slits after
+
+01:13.310 --> 01:20.840
+sufficient number of photons have excited the single photosensitive molecules of the photographic plate
+
+01:20.840 --> 01:22.650
+or the camera sensor.
+
+01:23.090 --> 01:26.210
+Again, the interference fringes reappear.
+
+01:27.960 --> 01:34.270
+The question at this point is what happens if we use only one bullet or vice versa?
+
+01:34.710 --> 01:37.380
+What happens when we use many bullets instead?
+
+01:39.020 --> 01:46.880
+Already at about the end of the 17th century, well before the birth of quantum mechanics, the singer
+
+01:47.120 --> 01:57.470
+and endless interference phenomena were well known and extensively studied as every good textbook on
+
+01:57.470 --> 01:59.450
+electromagnetism will tell you.
+
+01:59.630 --> 02:06.620
+Also, a single bullet or a pinhole will produce an interference pattern, even though less pronounced.
+
+02:08.060 --> 02:15.170
+We mentioned how Young studied the friction at a pinhole already before experimenting, experimenting
+
+02:15.170 --> 02:21.340
+with the double slit, it is even an easy experiment that you can do by yourself.
+
+02:21.650 --> 02:30.470
+Just take a piece of paper, poke a little round hole with a pin or a needle and look towards a light
+
+02:30.470 --> 02:31.010
+source.
+
+02:32.120 --> 02:39.850
+You will observe the image of the light source surrounded by several consistent concentric colored fringes.
+
+02:40.580 --> 02:42.250
+We will see this pattern later.
+
+02:42.260 --> 02:50.660
+Also, the colors appear obviously only due to the fact that fortunately the world we live in is not
+
+02:50.780 --> 02:51.710
+monochromatic.
+
+02:51.720 --> 02:52.970
+There are many colors.
+
+02:54.950 --> 02:58.890
+More precisely, for example, here in this picture.
+
+02:59.030 --> 03:08.600
+This picture shows how a plane wave behaves when one of percha, the single bullet of size A is about
+
+03:08.600 --> 03:12.050
+five times the size of the light wavelength.
+
+03:12.830 --> 03:16.370
+That is A equals five times lambda.
+
+03:18.020 --> 03:25.520
+Due to the direction that occurs when whenever a wave encounters an object or Haslet, especially when
+
+03:25.520 --> 03:34.880
+its size is comparable to the wavelength, this causes at a fraction of the plane wavefront to a spherical
+
+03:34.880 --> 03:40.280
+or distorted wavefront, which then travels towards the detection screen.
+
+03:42.200 --> 03:50.180
+In this case, you see that even though we are dealing with only one bullet, still some weak but clearly
+
+03:50.330 --> 03:55.280
+with visible secondary minima and maxima fringes can be observed.
+
+03:56.870 --> 04:04.250
+An important and important point here to keep in mind is to avoid a common misconception, and that
+
+04:04.250 --> 04:11.420
+one reads frequently also in some popular science books, according to which only two or more states
+
+04:11.420 --> 04:13.640
+can produce interference fringes.
+
+04:14.610 --> 04:20.880
+Whereas for the single toilet, interference affects supposedly disappear.
+
+04:21.600 --> 04:29.430
+However, this is not entirely correct through it is easier to produce more pronounced interference
+
+04:29.430 --> 04:32.610
+patterns with more than one toilet or pinhole.
+
+04:34.650 --> 04:41.880
+And that for most applications, especially when the wavelength of the incident wave is much smaller
+
+04:42.030 --> 04:43.960
+than the size of the aperture.
+
+04:44.730 --> 04:46.440
+These effects can be neglected.
+
+04:47.250 --> 04:54.540
+However, strictly speaking, and this is also important for us as singers, it also produces small
+
+04:54.540 --> 04:56.990
+diffraction and interference phenomena.
+
+04:59.110 --> 05:07.060
+An elegant explanation of how interference comes into being also for a signal, it dates back to the
+
+05:07.060 --> 05:10.810
+French physicist Augustus Augustine, Israel.
+
+05:11.950 --> 05:20.410
+He borrowed an idea from Horgan's, hence the name Horgan's Fresnel principle, according to which every
+
+05:20.410 --> 05:27.340
+point on a wavefront should be considered a point source of a spherical wave itself again.
+
+05:28.770 --> 05:38.190
+Once the incoming plane wave reaches all the virtually infinite points along the aperture, every single
+
+05:38.190 --> 05:43.890
+point becomes itself again, a spherical wave point source, so to speak.
+
+05:45.910 --> 05:49.630
+All this point like sources along the A percha.
+
+05:50.430 --> 05:57.570
+And at the same time, their own spherical wavefront, which, however, when seen from the position
+
+05:57.570 --> 06:01.890
+on the screen, end up producing an interference pattern.
+
+06:03.210 --> 06:12.030
+The reason for this is not so difficult to visualize since all fronts are initiated in different locations
+
+06:12.030 --> 06:13.270
+along the aperture.
+
+06:13.590 --> 06:21.810
+They will also travel at different parts length, which implies that they have different phase shifts
+
+06:21.810 --> 06:23.760
+when they overlap on the screen.
+
+06:25.240 --> 06:33.190
+For instance, in this figure of the previous slide, we show here again, the two pairs of the two
+
+06:33.190 --> 06:36.780
+saucers from the edges are considered.
+
+06:37.720 --> 06:45.550
+And as in the case of the double slit, these two rays have a relative phase shift by an amount Delta
+
+06:45.550 --> 06:54.640
+V, and when superimposed together on the screen, they form a result, resultant intensity according
+
+06:54.640 --> 06:56.290
+to the interference laws.
+
+06:57.490 --> 07:05.170
+In this case, however, this holds not only for two ways, as in the double slit, but for an infinite
+
+07:05.170 --> 07:06.490
+number of points.
+
+07:06.490 --> 07:16.420
+Sources along the Aperture Fresnel, by making the appropriate calculations, was able to show that
+
+07:16.420 --> 07:25.870
+if one sums up all these spherical wavefront wavefront coming from the points along the upper aperture
+
+07:26.020 --> 07:34.930
+of the single slit and projects these on to all the points along the detection screen, then one obtains
+
+07:34.930 --> 07:38.560
+indeed the known diffraction and interference pattern.
+
+07:40.750 --> 07:47.740
+And if we repeat now the same experiment with as little that has a size close to the wavelength of our
+
+07:47.740 --> 07:56.950
+incoming wavefront, that is instead of using a pinhole of five times lambda, that is five times the
+
+07:56.950 --> 08:03.270
+wavelength of the incoming wavefront, but only one time the size of the.
+
+08:03.550 --> 08:05.640
+So a equal one lambda.
+
+08:05.830 --> 08:11.850
+So the size of the aperture is about the wavelength of the incoming wave.
+
+08:12.430 --> 08:16.650
+Then we see that the interpret the interference fringes disappear.
+
+08:17.500 --> 08:25.210
+As you can see in this figure here, only when the size of the slits or not of the slit of the single
+
+08:25.210 --> 08:30.550
+slit is equal to or smaller than the wavelength.
+
+08:31.330 --> 08:34.250
+Are the fringes definitely absent?
+
+08:35.230 --> 08:42.550
+This is because the slit is so small that only a single point source can form a spherical wavefront
+
+08:42.910 --> 08:48.280
+with a wavelength equal to the slit size and therefore can be.
+
+08:49.750 --> 08:58.240
+There can be no path difference and phase shift with some other source which will produce the interference
+
+08:58.240 --> 08:58.690
+pattern.
+
+08:59.560 --> 09:04.480
+However, diffraction has become very large instead.
+
+09:04.510 --> 09:13.510
+Now at this point for a equal lambda so that the photons will displace themselves on a relatively large
+
+09:13.870 --> 09:21.130
+area on the screen, according to a so-called bell shaped distribution.
+
+09:22.320 --> 09:28.260
+So the important point to keep in mind here is that the interference pattern, the interference phenomena
+
+09:28.980 --> 09:33.620
+does not arise simply due to the fact that there are one or two or many states.
+
+09:33.630 --> 09:36.960
+But it is and it is a universal phenomenon.
+
+09:36.970 --> 09:40.990
+You can have this also on at one slit.
+
+09:41.420 --> 09:45.360
+So it depends how large the slit is.
+
+09:45.810 --> 09:55.620
+And these, uh, the interference fringes disappear completely only if the aperture is about the wavelength
+
+09:56.430 --> 09:57.840
+as the size of the wavelength.
+
+09:57.960 --> 10:03.300
+Otherwise, there is still a little bit left.
+
+10:04.020 --> 10:06.840
+So it is important that you keep in mind this.
+
+10:08.030 --> 10:14.600
+Let us look also quickly at what happens if we change the number.
+
+10:14.900 --> 10:20.690
+It's a special example so we can compare three different cases.
+
+10:22.160 --> 10:30.530
+Here on the accessor that is on the horizontal line, we have the angle of position on the screen angle
+
+10:30.530 --> 10:38.420
+of incidence teeter between the centerline of the diffraction plane at a point on the detection screen
+
+10:39.350 --> 10:41.630
+while on the ordinate access.
+
+10:41.750 --> 10:43.550
+That is the vertical axis.
+
+10:43.850 --> 10:46.220
+We have the usual intensity.
+
+10:47.270 --> 10:55.730
+The parameters that determine the angle dependence of the interference pattern are, first of all,
+
+10:55.730 --> 11:02.770
+the size a of the aperture of the slit relative to the wavelength here.
+
+11:02.780 --> 11:06.880
+In this case, we have taken a equal three times lambda.
+
+11:06.890 --> 11:12.030
+So the size of the aperture is three times the size of the wavelength.
+
+11:13.040 --> 11:23.060
+Second, the spacing, the between the slits here I took three times eight and of course the number
+
+11:23.330 --> 11:25.730
+capital letters and of the slits.
+
+11:27.280 --> 11:32.920
+The intensities have been normalized in all the cases to one to to unity.
+
+11:34.630 --> 11:42.100
+So you see that for the one solid case, you see there are some weak but clearly discernible secondary
+
+11:42.370 --> 11:48.490
+blue lateral peaks that reduce almost to the diffraction envelope.
+
+11:50.990 --> 11:57.920
+For the two slits, as in the case of young double slit experiment, we obtain more pronounced Frenches
+
+11:57.920 --> 11:59.960
+traced with this red line.
+
+11:59.960 --> 12:07.730
+Here you can see how the one slit pattern envelopes the two slits pattern.
+
+12:09.200 --> 12:16.460
+And the interference figure of the signals led pattern is split into several more fringes.
+
+12:17.930 --> 12:24.650
+However, notice that it would be incorrect to say, as you might hear frequently, that when we switch
+
+12:24.650 --> 12:30.310
+from the double slit back to the single case, interference phenomena disappear.
+
+12:31.430 --> 12:33.890
+That is in general, not the case.
+
+12:35.360 --> 12:43.220
+What happens is that we return to the envelope of the single bullet, which contains many fewer fringes
+
+12:43.550 --> 12:49.760
+but still might have, and in this case it has some other interference fringes, too.
+
+12:51.320 --> 12:57.880
+Again, interference is not a phenomenon specific to the double or more slit experiment.
+
+12:58.070 --> 13:00.370
+Interference does not disappear.
+
+13:00.380 --> 13:07.220
+If one slit is covered, it just becomes weaker then with more slits, but it is still there.
+
+13:08.990 --> 13:14.090
+Finally, the green curve depicts the case of 10 bullets.
+
+13:15.320 --> 13:21.830
+This time the two slits curve turns out to be the the envelope curve of the ten slits curve.
+
+13:23.570 --> 13:30.500
+So you can observe how this is a more general trend and phenomenon which results from the interplay
+
+13:30.500 --> 13:39.380
+between diffraction and interference, in fact, the endless fringes and their spacing's arise due to
+
+13:39.380 --> 13:43.520
+this combined effect between diffraction and interference.
+
+13:46.160 --> 13:55.370
+These were only a few examples that I wanted to show you to outline how, at least intuitively, wave
+
+13:55.370 --> 14:05.210
+interference works programmers who might be interested to recreate the infinite possibilities and possible
+
+14:05.570 --> 14:13.520
+combinations of interference figures can find this general formula of intensity, of the intensity function
+
+14:14.750 --> 14:16.640
+of some use if they wish.
+
+14:17.120 --> 14:19.080
+If you wish, you can play with it.
+
+14:19.100 --> 14:27.200
+It is sometimes interesting and amusing to see the kind of pattern that result when changing the parameters.
+
+14:27.560 --> 14:31.930
+I place this formula here only for the interested student.
+
+14:32.300 --> 14:35.750
+We won't need it at all in the rest of the course.
+
+14:35.750 --> 14:37.540
+So you can also skip it if you wish.
+
+14:39.290 --> 14:46.040
+Now, we have seen in the previous lectures, especially with the friction out, the friction and interference
+
+14:46.040 --> 14:52.370
+phenomenon, determine the wave particle duality not only of light particles, that is photons, but
+
+14:52.370 --> 15:00.110
+more generally hold for all particles, also material particles that have a mass and that nevertheless
+
+15:00.410 --> 15:07.330
+behave like waves, even though we think we think of them as localized pieces of solid matter.
+
+15:08.990 --> 15:15.380
+A question we might ask at this point is what happens with the particle if we want to know precisely
+
+15:15.380 --> 15:16.970
+its whereabouts in space?
+
+15:18.770 --> 15:26.420
+For example, let us determine the precise position of a particle by letting it go through a tiny pinhole,
+
+15:26.780 --> 15:32.730
+as Isaac Newton used to do with photons and his investigations on the nature of light.
+
+15:34.250 --> 15:41.900
+If a particle goes through that single little hole on a piece of paper, say, for example, then we
+
+15:41.900 --> 15:47.280
+are authorized to say that we can determine its precise position in space.
+
+15:47.900 --> 15:57.380
+In fact, this can be done, but at the cost, because on the other hand, we know that due to the wave
+
+15:57.380 --> 16:02.060
+particle duality, we cannot forget the particle swathi aspect.
+
+16:02.750 --> 16:11.030
+So when a particle also material particle goes through this pinhole, it will also be distracted and
+
+16:11.030 --> 16:17.810
+afterwards position itself on the detector screen according to an interference interference pattern.
+
+16:19.830 --> 16:30.990
+If instead of dealing with slits, so we take a tiny round hole with a size comparable to a few multiples
+
+16:30.990 --> 16:32.040
+of the wavelength.
+
+16:33.490 --> 16:42.520
+We obtain circler interference for injuries like shown in this figure here, and this is an intrinsic
+
+16:42.520 --> 16:46.780
+and an unavoidable effect for all types of waves.
+
+16:48.430 --> 16:57.160
+If particles have to be linked to weight, to a wave, according to the debris, the very relation conceiving
+
+16:57.160 --> 17:06.330
+it as a wave packet, then we will always have the interference fringes, even with only one or oscillate,
+
+17:06.340 --> 17:08.620
+and even with only one particle.
+
+17:09.580 --> 17:12.010
+Recall the single photon experiment.
+
+17:13.400 --> 17:20.690
+In this figure, we compare the two cases where the pinhole determines the position of the particle
+
+17:21.050 --> 17:30.500
+with an aperture of a equals to lamda, which means a relatively high precision because the aperture
+
+17:30.500 --> 17:39.230
+is only two times the wavelength as the size of two times the wavelength of the incoming wave or meter
+
+17:39.230 --> 17:49.190
+wave, and the other case of a equal 20 times lambda, which means we determine with low precision the
+
+17:49.190 --> 17:53.420
+whereabouts of the particle because.
+
+17:54.960 --> 18:03.870
+The Aperture A is 20 times as large as the wavelength of the particle where, of course, lambda here
+
+18:03.870 --> 18:11.460
+the wavelength is can be that of the photon, of the electromagnetic wave, or in case of a meter wave,
+
+18:11.950 --> 18:16.860
+it must be associated to the to the liberally wavelength.
+
+18:18.800 --> 18:21.800
+Therefore, if the pinhole is small.
+
+18:22.890 --> 18:31.320
+It localizes quite well the position of the particle, it will produce a relatively broad diffraction
+
+18:31.320 --> 18:35.600
+pattern that renders the position on the screen of the photon uncertain.
+
+18:36.780 --> 18:44.610
+We can know in a relatively precise manner the where the photon or the matter particle went through
+
+18:44.610 --> 18:50.790
+the piece of paper that is inside the space constrained by the Pinhas aperture.
+
+18:51.510 --> 19:01.250
+But it will be displaced laterally on the screen anyway due to the friction and interference phenomena.
+
+19:01.980 --> 19:05.520
+And we cannot avoid this because it is a law of nature.
+
+19:05.550 --> 19:15.300
+A lot of the that governs the waves, of course, with a single particle producing a single spot on
+
+19:15.300 --> 19:18.680
+the screen, no interference figure is visible.
+
+19:19.170 --> 19:25.980
+But as we have learned with a single photon diffraction at the double slit, the probability to find
+
+19:25.980 --> 19:34.380
+this spot is in one to one correspondence with the intensity of the interference fringes produced by
+
+19:34.380 --> 19:35.400
+many particles.
+
+19:36.910 --> 19:44.740
+Moreover, and this is the important point that we have already made, recall also that we can't predict
+
+19:44.890 --> 19:49.270
+in advance where precisely this spot will appear.
+
+19:51.310 --> 19:57.050
+If instead the pinhole is large, fringes will become less pronounced.
+
+19:57.940 --> 20:05.710
+We will know where the photon will hit the screen with relatively good accuracy, the red spikes here,
+
+20:06.940 --> 20:14.460
+which means it failed, so to speak, only a tiny displacement, displacement along the screen.
+
+20:14.860 --> 20:20.460
+But by doing so, we will lose our capacity to determine where where this is.
+
+20:20.470 --> 20:28.960
+Particle exactly went through the pinhole, since this pinhole is no longer a pinhole at all, but a
+
+20:28.960 --> 20:30.220
+large hole.
+
+20:32.270 --> 20:39.230
+There is no way, never, ever, not even in principle, to obtain the precise measurement of the particle
+
+20:39.230 --> 20:46.880
+position and at the same time avoid the production of interference, fringes or at any rate, a large
+
+20:46.890 --> 20:55.670
+deflection, one will always obtain a more or less pronounced bell shaped or peaked distribution of
+
+20:55.670 --> 21:02.960
+white spots on the screen, not because we have not a sufficient precise measurement apparatus, but
+
+21:02.960 --> 21:08.390
+because this is a consequence of the intrinsic wave nature of particles.
+
+21:09.410 --> 21:17.630
+It is a universal law of nature, according to which it is hopeless to believe that we can pass a wave
+
+21:17.930 --> 21:23.820
+through as late tiny slit and not observe any interference and diffraction phenomena.
+
+21:24.320 --> 21:26.930
+It is against the nature of waves itself.
+
+21:29.620 --> 21:37.780
+So if you have followed so far, it should be easy at this point to understand the essence of Heisenberg's
+
+21:37.780 --> 21:39.030
+uncertainty principle.
+
+21:40.780 --> 21:50.380
+Werner Heisenberg was a German physicist who around the 1930s asked himself if and how there is a way
+
+21:50.380 --> 21:53.530
+to precisely determine the position of particle.
+
+21:55.190 --> 22:02.530
+This one was one of the most urgent questions to find an answer for, since, after all, in classical
+
+22:02.540 --> 22:09.980
+classical physics, everything is expressed, analyzed and described in terms of space, time, forces
+
+22:10.100 --> 22:14.680
+and particles following accordingly precise trajectories.
+
+22:15.680 --> 22:22.310
+If we are no longer able to describe the position in space of a particle, we are substantially blowing
+
+22:22.310 --> 22:31.820
+up almost all know in physics, which until then relied completely on particles interacting through
+
+22:31.820 --> 22:35.180
+forces which with each other in space and time.
+
+22:37.590 --> 22:41.250
+So Heisenberg reasoned as follows.
+
+22:43.140 --> 22:51.300
+Let us suppose that we want to determine with a high precision the position of a particle, notice that
+
+22:51.300 --> 22:58.800
+in this figure here, the x axis is the vertical one, not the horizontal.
+
+22:59.710 --> 23:03.910
+Along the vertical line, we have the X variable.
+
+23:06.090 --> 23:11.070
+Imagine the particle coming from the left with a specific amount of momentum.
+
+23:11.390 --> 23:19.050
+We recall that the momentum of a particle in classical, non relativistic mechanics is just the quantity
+
+23:19.050 --> 23:25.650
+of motion of an object and is given by the product product of its mass times, its velocity.
+
+23:26.310 --> 23:30.570
+Generally, it is a vector quantity, which means it is also a direction.
+
+23:31.920 --> 23:39.840
+Let us also recall that as we have discussed in the lecture on the elite relation, once momentum is
+
+23:39.840 --> 23:44.010
+given in quantum physics, we can relate to every particle.
+
+23:44.010 --> 23:48.600
+Also a wavelength as that equal H of a p.
+
+23:50.760 --> 23:58.680
+This particle, which we must intend as a transverse plane wave, is an incident on the diffraction
+
+23:58.680 --> 24:03.810
+plane with one slit open hole of size Delta X.
+
+24:05.780 --> 24:13.220
+This particle that is this plane wave, once it has passed through, the slit, will be deflected and
+
+24:13.220 --> 24:19.040
+shortly after interact on the detection screen at the position, according to a probabilistic law,
+
+24:19.070 --> 24:24.320
+which is determined by the interference pattern, as you certainly know by now.
+
+24:26.180 --> 24:34.820
+So the particle, even without any interaction from outside forces and even with no physical disturbance
+
+24:34.820 --> 24:41.810
+from the environment, and even by constructing an experimental set up, which is perfect and ideal
+
+24:42.320 --> 24:48.340
+without any imprecision, will nevertheless be displaced on the screen.
+
+24:48.710 --> 24:50.510
+The vertical x axis.
+
+24:52.280 --> 25:03.110
+This happens because of our attempt to localize the particle in that tiny region, Delta X, Letter
+
+25:03.110 --> 25:10.400
+X. We can arrange our experiment as we wish, but if the size of the slit is comparable to the wavelength
+
+25:10.400 --> 25:19.490
+of the photon or to the temporary wavelength of a material particle, then we will always and inevitably
+
+25:19.700 --> 25:28.370
+note that the particle after it passed the slit, the slit of six Delta X will be displaced on the screen
+
+25:28.370 --> 25:37.940
+according to the laws of interference diffraction and to the laws determining the behavior of waves.
+
+25:38.990 --> 25:42.400
+There is no way to avoid this interference phenomenon.
+
+25:44.310 --> 25:52.470
+Now, this could also be interpreted as if the particle, once it has gone through the slit, will acquire
+
+25:52.500 --> 26:01.680
+an extra momentum delta along the vertical axis, this does not happen because of the interaction of
+
+26:01.680 --> 26:10.020
+an outside force or as we might imagine, naively by an interaction, deviation or bouncing effect of
+
+26:10.020 --> 26:16.470
+the particle with as little edges, because in that case, we would observe a random distribution,
+
+26:16.680 --> 26:20.070
+but not an interference pattern characteristic of waves.
+
+26:21.510 --> 26:28.860
+This extra momentum Delta P, which displaces the particle along the detection screen, is due only
+
+26:28.860 --> 26:32.970
+and exclusively to the wave nature of matter and light.
+
+26:34.410 --> 26:41.280
+We might interpret this also as a scattering of the particle, but we should keep in mind that this
+
+26:41.280 --> 26:46.510
+is a misleading terminology since there is no scattering force at all.
+
+26:46.980 --> 26:53.250
+It does not need any scattering interaction of forces from the outside to make this happen.
+
+26:54.850 --> 26:58.720
+So where does this extra momentum Delta P come from?
+
+26:59.900 --> 27:05.520
+It is just the uncertainty we have about the particles momentum in the first place.
+
+27:05.840 --> 27:13.670
+It is an inherent uncertainty of the properties of any particle due to their wave nature.
+
+27:13.910 --> 27:22.400
+So this is the only possible conclusion if we want to avoid violation of the principles of conservation,
+
+27:22.400 --> 27:24.020
+of momentum and energy.
+
+27:25.760 --> 27:33.410
+The point is that we will never be able to determine with extreme precision, that is with an infinitely
+
+27:33.410 --> 27:44.360
+small slit of size, Delta X equals zero without blurring the momentum in space around the vertical
+
+27:44.360 --> 27:50.210
+axis, since by doing so, we inevitably will diffract the plane wavefront.
+
+27:51.200 --> 27:58.490
+The wavelength of which is given by the debris relation, and this inevitably will displace the particle
+
+27:58.490 --> 28:06.140
+of the photon according to a statistical law which reflects the deflection and interference laws.
+
+28:08.810 --> 28:16.460
+So we must conclude that the smaller our uncertainty in determining the particles position, the size
+
+28:17.180 --> 28:25.700
+of the slit, the larger will be the diffraction effects and therefore also the larger the uncertainty
+
+28:25.700 --> 28:33.550
+over the momentum that the P of the particle that becomes therefore large in the vertical direction.
+
+28:35.020 --> 28:43.900
+On the other hand, if I want to know the political momentum was small uncertainty, that is, I would
+
+28:43.900 --> 28:50.230
+like to maintain Delta Small, then we will have to open up those little aperture.
+
+28:50.740 --> 28:56.710
+This means Delta X must be large in order to reduce the disruption.
+
+28:57.940 --> 29:04.960
+But I will never, ever be able to determine with precision both the momentum and the position of a
+
+29:04.960 --> 29:07.550
+particle was the same at the same time.
+
+29:08.680 --> 29:17.050
+We have to chose if we want to keep focused on one or the other, never, ever are we allowed to obtain
+
+29:17.050 --> 29:17.590
+both.
+
+29:19.090 --> 29:23.090
+Not because we interfere with the system.
+
+29:23.110 --> 29:29.100
+This is also another misleading misconception, but because we are dealing with waves of.
+
+29:31.890 --> 29:38.370
+We have, however, interference fringes here, and in principle, the particle can displace itself
+
+29:38.370 --> 29:45.960
+also very far away from the center of the screen, especially if the slits or is dark with the slit
+
+29:46.270 --> 29:49.330
+we have only a single single cell becomes very small.
+
+29:50.550 --> 29:53.610
+But this also happens with a decreasing probability.
+
+29:55.180 --> 30:02.770
+It is much more probable to find the particle hitting the screen at the central white peaks higher peaks
+
+30:02.770 --> 30:10.600
+than at the little ones far away from the center, for practical reasons, one must set a limit as a
+
+30:10.600 --> 30:16.570
+convention due to statistical reasons which will be clarified in the next sections.
+
+30:16.930 --> 30:24.340
+One takes as conventional the normal distribution which states that Delta P is the width of the central
+
+30:24.340 --> 30:26.050
+fringe corresponding to.
+
+30:27.110 --> 30:32.900
+Sixty eight point three percent of all of the particles it contains.
+
+30:34.300 --> 30:41.500
+Because this is a central region with high intensity and therefore that region where we have the highest
+
+30:41.500 --> 30:43.760
+probability to detect a single particle.
+
+30:44.800 --> 30:50.770
+In fact, as we have seen with the signals, let the secondary interference interference fringes beyond
+
+30:50.770 --> 30:57.550
+the central one are usually quite small, usually also smaller, smaller than the in this figure.
+
+30:59.580 --> 31:06.990
+So this means that to a specific amount of Delta X, we must expect to find also a specific amount of
+
+31:06.990 --> 31:07.640
+Delta P?
+
+31:08.250 --> 31:09.600
+Yeah, always.
+
+31:09.600 --> 31:19.500
+And inevitably, by the laws of nature, Heisenberg was also able to show that the product of these
+
+31:19.500 --> 31:30.870
+two uncertain quantities is a constant and summed up this with his famous and extremely important inequality,
+
+31:31.440 --> 31:45.060
+which states that Delta X times Delta B is greater equal each bar half where each bar is the plank's
+
+31:45.060 --> 31:49.590
+content constant age divided by two times pi.
+
+31:51.370 --> 31:55.300
+This is a mathematical way to state what we have said so far.
+
+31:55.780 --> 32:04.360
+If you force the value of the photon of a particle to be tight, it will always have an uncertainty
+
+32:04.360 --> 32:14.050
+over the momentum of Delta P greater equal H over two times Delta X. But that is a precise measurement
+
+32:14.050 --> 32:22.090
+of the particle position will imply and uncertainty over its momentum is more Delta X inducers delta
+
+32:22.950 --> 32:26.170
+to become large viceversa.
+
+32:26.290 --> 32:32.890
+If you force the value of the momentum of a particle into a narrow range of values, it will always
+
+32:32.890 --> 32:40.960
+have an uncertainty over the position of Delta X and greater or equal age over two times.
+
+32:40.960 --> 32:41.560
+Delta P.
+
+32:43.030 --> 32:51.430
+This is an inequality which can be obtained in several ways, and one closely related to this is via
+
+32:51.430 --> 32:58.600
+the so-called Fourier transforms, and that is it is a mathematical tool that the composers signal in
+
+32:58.600 --> 33:06.100
+time, such as a complicated travelling wave into many sine and cosine functions of different frequencies,
+
+33:07.000 --> 33:14.230
+or as it is done in modern quantum theory, Heisenberg's inequality is obtained through a mathematical
+
+33:14.230 --> 33:18.400
+operator theory approach, which is mathematically more rigorous.
+
+33:18.820 --> 33:19.270
+But.
+
+33:20.640 --> 33:27.570
+Frankly, obscures somehow the deeper meaning of the Heisenberg principle, really related to the wave
+
+33:27.570 --> 33:28.750
+nature of matter.
+
+33:29.490 --> 33:37.320
+At any rate, always keep what was important point is always to keep in mind this little but very important
+
+33:37.320 --> 33:43.020
+inequality, since it will turn up more or less everywhere and quantum mechanics.
+
+33:44.490 --> 33:53.700
+Now, let us analyze what interpretation Heisenberg himself gave to this to his own principal.
+
+33:54.690 --> 34:02.280
+He illustrated this with a famous thought experiment by thought experiment, which is kind of the meaning
+
+34:02.280 --> 34:10.770
+comes from the German Gattung experiment in science, one means an ideal experiment which could be realized
+
+34:10.770 --> 34:18.810
+in principle and does not as such, violate violate the laws of physics, but can't be performed in
+
+34:18.810 --> 34:23.760
+practice due to technological limitations or other constraints.
+
+34:25.230 --> 34:31.980
+Heisenberg's thought experiment elucidated what nowadays is remembered as the Heisenberg microscope
+
+34:31.980 --> 34:32.970
+interpretation.
+
+34:33.960 --> 34:40.770
+It is an interpretation that unfortunately also several professional physicists adopt, probably to
+
+34:40.770 --> 34:49.410
+make it more understandable, understandable and appealing to the public or first year students.
+
+34:49.830 --> 34:55.860
+But if you have followed carefully what we have said so far, you shall be able to recognize that Heisenberg's
+
+34:55.860 --> 34:59.350
+interpretation is somewhat misleading, to say the least.
+
+35:00.930 --> 35:04.650
+This experiment went as follows a thought experiment.
+
+35:04.890 --> 35:11.970
+Imagine we want to detect the position and momentum of a particle in a region that acts by using an
+
+35:11.970 --> 35:13.080
+incoming photon.
+
+35:14.150 --> 35:23.930
+The green wavy arrow here, which hits the particle, this photon is then scattered towards some direction,
+
+35:23.930 --> 35:28.610
+say, along the direction represented by the red wavy arrow.
+
+35:29.990 --> 35:37.910
+We have already described something similar with a compensatory effect then so was the reasoning of
+
+35:37.910 --> 35:39.020
+Heisenberg Heisenberg.
+
+35:39.830 --> 35:47.510
+We can look to where the photon has been shattered and we should be able to deduce the electrons position.
+
+35:48.920 --> 35:57.140
+So we just look with the microscope, we see the scattered photo and say are the particle was just there
+
+35:57.140 --> 36:00.650
+in that position that X is or was at least.
+
+36:02.700 --> 36:11.400
+However, the problem is that according to classical optics, the larger the angular aperture data of
+
+36:11.400 --> 36:18.870
+the microscope is, the better it will resolve the position of the scattered photon and therefore deduce
+
+36:18.870 --> 36:20.390
+the position of the electron.
+
+36:21.600 --> 36:29.310
+But this angular aperture does not only depend on the size of the microscope lens its lens, but also
+
+36:29.310 --> 36:36.810
+on the wavelength of the photon itself to have a high precision in determining from which direction
+
+36:36.810 --> 36:37.910
+the photon comes.
+
+36:38.220 --> 36:43.310
+That is, in determining the position, the original position, at least of the electron.
+
+36:43.860 --> 36:47.310
+We must use a photon with a short wavelength.
+
+36:48.640 --> 36:55.690
+But and this is the point, if the photon has a short wavelength, which means high frequency, it will
+
+36:55.690 --> 37:04.510
+carry more momentum because it is more energetic due to Plank's relation, as you might recall, and
+
+37:04.510 --> 37:10.450
+the kick it imparts to the electron will therefore be also larger.
+
+37:11.890 --> 37:19.210
+That is, if I want to observe the precise position of the electron with this microscope, I must use
+
+37:19.220 --> 37:25.620
+photons which will produce a larger recoil on the electron itself.
+
+37:26.290 --> 37:30.850
+And this makes its position again, indeterminate.
+
+37:32.360 --> 37:40.730
+On the other hand, if I want to determine more precisely the momentum of a particle, then I'm forced
+
+37:40.730 --> 37:50.450
+to use photons with large wavelengths, since only these have a small momentum and will not displace
+
+37:50.630 --> 37:54.470
+the electron too much through constant scattering.
+
+37:55.800 --> 38:03.960
+But if I use long wavelengths, what long wavelength photons, the microscope optics will resolve its
+
+38:03.960 --> 38:06.150
+position with less accuracy.
+
+38:07.710 --> 38:13.500
+So again, we have to search for a trade off between the wavelength we use.
+
+38:14.010 --> 38:20.260
+That is the precision, the precision over the momentum, Delta P and the microscope aperture.
+
+38:20.790 --> 38:24.510
+That is the capability to look at the precise position.
+
+38:24.510 --> 38:25.990
+At the precise point.
+
+38:26.010 --> 38:26.790
+Delta X.
+
+38:30.200 --> 38:35.900
+In the macroscopic world, this effect does not play any role for practical purposes, even though,
+
+38:35.900 --> 38:44.120
+strictly speaking, it always holds because objects are huge and are not disturbed by tiny photons.
+
+38:44.930 --> 38:53.090
+However, for atoms and even more for particles like electrons, a single photon can also disturb them
+
+38:53.090 --> 38:58.100
+and scatter them away, preventing us from determining their properties.
+
+38:59.490 --> 39:03.950
+That is why Heisenberg's uncertainty principle is invoked.
+
+39:03.950 --> 39:10.910
+To explain that in the microscope, the microscopic world, a measurement always perturbs a system in
+
+39:10.910 --> 39:18.860
+such a way that the scale of the measurements perturbation is about the same magnitude of the effect
+
+39:18.860 --> 39:26.000
+it produces and therefore renders imprecise, if not at all useless.
+
+39:26.150 --> 39:26.930
+The result?
+
+39:28.980 --> 39:36.420
+Heisenberg was able to show that by reasoning in such manner, making the appropriate calculations,
+
+39:36.660 --> 39:46.500
+which is to classical optics, he could indeed obtain his own famous inequality of momentum and position.
+
+39:48.060 --> 39:53.060
+Heisenberg's microscope thought experiment boils down to the following argument.
+
+39:53.580 --> 39:59.400
+We cannot determine the position and momentum of a particle at the same time, because when we make
+
+39:59.400 --> 40:06.270
+an observation, we inevitably must interact with the object, with the object we want to observe,
+
+40:07.110 --> 40:13.580
+such as sending other particles of comparable mass or energy of the particle to be observed.
+
+40:14.250 --> 40:22.950
+And this inevitably disturbs the system, which then loses its original position and momentum that we
+
+40:22.950 --> 40:24.120
+sought to determine.
+
+40:27.310 --> 40:34.850
+But this interpretation, however, is in stark contrast to the wave particle nature of matter itself.
+
+40:35.680 --> 40:41.140
+It is interpretation and interpretation that does not stand up to the test of modern modern quantum
+
+40:41.140 --> 40:41.610
+theory.
+
+40:42.550 --> 40:48.820
+The popular belief that Heisenberg's uncertainty principle is about the interaction between the observer
+
+40:48.820 --> 40:51.040
+and the observed object is wrong.
+
+40:52.060 --> 40:58.690
+Heisenberg's uncertainty principle is a fundamental law of nature, which has its rules in the way nature
+
+40:58.690 --> 41:04.630
+of matter and has nothing to do with the interaction between the measuring apparatus and the measured
+
+41:04.630 --> 41:05.320
+objects.
+
+41:06.580 --> 41:13.000
+Of course, the interactions and the imperfections of measurement devices must always take, must be
+
+41:13.000 --> 41:16.170
+always taken into account in a real laboratory.
+
+41:17.050 --> 41:26.000
+But this adds further uncertainty to the intrinsic quantum fuzziness that is present apriori.
+
+41:26.680 --> 41:36.910
+In fact, we shall see later on that, as strange as it might sound by now, it is nevertheless perfectly
+
+41:36.910 --> 41:44.170
+possible to set up experiments which make measurements without necessarily interacting with the system.
+
+41:45.280 --> 41:50.090
+And yet the Heisenberg uncertainty principle remains inescapable.
+
+41:51.790 --> 41:54.910
+We will see this late in Coming Lecture's.
+
+41:55.860 --> 42:03.120
+It also also shows that the principle holds also in the case where we are able to reduce to zero any
+
+42:03.120 --> 42:11.280
+interaction with the observed object, it is an inherent law of nature that is independent from observational
+
+42:11.280 --> 42:12.150
+interactions.
+
+42:13.740 --> 42:21.090
+At the Times of Heisenberg, it was still legitimate to think of particles in this way, Heisenberg
+
+42:21.420 --> 42:27.750
+can be excused because several experiments which showed how his own interpretation must be revised,
+
+42:27.960 --> 42:28.980
+came much later.
+
+42:29.760 --> 42:37.140
+Some not even until before the 1990s, with the development of sophisticated laser and quantum optics
+
+42:37.140 --> 42:38.300
+optics devices.
+
+42:39.240 --> 42:47.310
+So why the the historical context and the lack of more experimental evidence justifies Heisenberg not
+
+42:47.310 --> 42:48.870
+so modern physicist?
+
+42:49.410 --> 42:55.800
+Nowadays, we can no longer stick with the microscope interpretation as a correct understanding of how
+
+42:55.800 --> 42:57.780
+the uncertainty principle works.
+
+42:58.500 --> 43:04.890
+This is no less fundamental than the geocentric model of or flat earth theory.
+
+43:05.790 --> 43:12.810
+We should accept that nature is telling us that we should never forget that wave particle duality.
+
+43:13.740 --> 43:20.280
+When a particle goes through a pinhole, we must think of it as a physical process described by transverse
+
+43:20.640 --> 43:29.550
+plana waves, which a meter wave which is refracted like any other wave and produces a spherical wavefront
+
+43:30.360 --> 43:32.940
+not more nor less than in this figure.
+
+43:34.930 --> 43:41.310
+Quantum mechanics, the classical understanding of particles which possess definite properties, such
+
+43:41.310 --> 43:50.370
+a position which move along precise trajectories and possess a definite momentum, must be taken with
+
+43:50.370 --> 43:51.240
+great care.
+
+43:52.560 --> 44:00.220
+There are no positions or momenta which describe a particle we must seriously consider.
+
+44:00.240 --> 44:08.790
+We must take quantum physics and nature seriously and consider consider instead that these are emergent
+
+44:08.790 --> 44:11.880
+qualities, not intrinsic properties.
+
+44:13.060 --> 44:20.530
+Particles do not have at all a clear and precise position and momentum as we imagine them to have at
+
+44:20.530 --> 44:22.840
+our microscopic level.
+
+44:22.990 --> 44:31.210
+And as our naive, intuitive, intuitive understanding wants to make us believe, quantum physics seems
+
+44:31.210 --> 44:38.770
+to suggest that the physical objects we imagine as point like hard material, material, billiard balls
+
+44:39.280 --> 44:48.160
+are instead entities which are intrinsically somewhat fuzzy with no sharp and well-defined boundaries,
+
+44:48.550 --> 44:59.140
+and that travel throughout space as waves that eventually then collapse to a point somewhere, interacting
+
+44:59.140 --> 45:01.720
+with some detectors or whatever.
+
+45:03.540 --> 45:11.610
+This nature of particles is independent of the precision of our measurement apparatus and independent
+
+45:11.610 --> 45:18.840
+of the fact that we interact or not by observing it, the position and velocity of particles is independent
+
+45:18.840 --> 45:21.840
+from what we know in the classical world in which we live.
+
+45:23.100 --> 45:27.120
+Therefore, indeterminacy is not a matter of ignorance.
+
+45:27.990 --> 45:33.620
+Heisenberg uncertainty principle is not a principle about a lack of information.
+
+45:34.410 --> 45:41.700
+It is not about particles, but which we cannot determine their whereabouts and speed.
+
+45:42.620 --> 45:51.390
+It is about physical entities that simply do not have anything to do with our anthropomorphic imagination.
+
+45:52.160 --> 45:57.650
+To sum up this lecture, we must keep in mind, therefore, the following things.
+
+45:58.840 --> 46:06.370
+First of all, Heisenberg's uncertainty principle is not a principle about the lack of precision of
+
+46:06.370 --> 46:07.000
+measurements.
+
+46:08.460 --> 46:16.140
+Then Heisenberg's uncertainty principle is an intrinsic aspect and law of nature, which arises due
+
+46:16.140 --> 46:25.950
+to the particle wave duality and finally, even an ideal measurement instrument with infinite precision
+
+46:26.130 --> 46:28.170
+must nevertheless obey it.
+
+46:29.960 --> 46:35.270
+These are the important aspects that distinguish classical from quantum physics.

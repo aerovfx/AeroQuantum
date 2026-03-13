@@ -1,0 +1,201 @@
+WEBVTT
+
+WEBVTT
+
+00:00.260 --> 00:03.890
+Are is probably nine are asking you to calculate what the resistance is.
+
+00:03.930 --> 00:13.410
+It's this circuit here shown this MF equals to 50 volts and the capacitance down over here to micro
+
+00:13.410 --> 00:14.820
+Feraud.
+
+00:15.840 --> 00:21.420
+OK the switch now is opened after having been closed for a long time.
+
+00:21.420 --> 00:26.730
+So when it's closed for a long time basically he simply does have current that's going to flow around
+
+00:26.730 --> 00:28.080
+the closed wire.
+
+00:28.080 --> 00:33.400
+This just acts like an open an open circuit so no current's going to flow over here.
+
+00:33.820 --> 00:34.400
+OK.
+
+00:34.500 --> 00:42.020
+So that means initially the voltage drop across this resistance is 50 volts because if add 50 you'll
+
+00:42.020 --> 00:46.630
+lose 50 and then there's no other voltage drops when that switch is close.
+
+00:47.040 --> 00:48.630
+OK.
+
+00:48.870 --> 00:52.540
+And the voltage across the capacitor then initially has to be zero.
+
+00:52.840 --> 00:53.510
+OK.
+
+00:53.910 --> 00:55.660
+So let's write that down.
+
+00:56.010 --> 01:01.330
+So the voltage across the capacitor at time zero must be equal to zero.
+
+01:01.890 --> 01:02.490
+And what else.
+
+01:02.490 --> 01:08.160
+Well now they say and four seconds later the voltage drop across the resistor.
+
+01:09.000 --> 01:11.810
+Which was initially 50 right.
+
+01:11.820 --> 01:17.830
+The voltage drop across the resistor at times zero had to be equal to 50 volts.
+
+01:17.940 --> 01:23.430
+However at four seconds now they're telling us that the voltage drop across the resistor at time equals
+
+01:23.430 --> 01:27.240
+the four has to be equal to 20 volts.
+
+01:28.110 --> 01:34.860
+So we know then that the voltage across the capacitor at time equals to four seconds must be 30 volts
+
+01:34.860 --> 01:39.420
+because if you do a complete loop at time equals to four.
+
+01:39.420 --> 01:40.740
+Remember the switch is open.
+
+01:40.800 --> 01:46.170
+So you have plus 50 you're going to have minus 20 volts across this resistor.
+
+01:46.170 --> 01:55.510
+You have to have 30 volts across this capacitor here at Time equals the four.
+
+01:55.520 --> 01:59.930
+All right so these are all the voltages now are asked to find what is the value of the resistance.
+
+02:00.290 --> 02:04.550
+So again basically what happens now is that the capacitor is starting to charge.
+
+02:04.640 --> 02:08.210
+And it's not fully charged because we didn't wait long enough.
+
+02:08.870 --> 02:16.430
+So the voltage as a function of time across this capacitor is well are going to be our final voltage
+
+02:17.030 --> 02:19.920
+which is going to be let's just call it V.F..
+
+02:20.090 --> 02:26.240
+And again it's a charging so the equation looks like this it's one minus exponential of minus the time
+
+02:26.840 --> 02:32.510
+divided by our time constant which is R C and in this case our final voltage.
+
+02:32.580 --> 02:37.450
+Again that's a time equals to infinity that's going to be equal to the voltage of the battery.
+
+02:37.970 --> 02:41.410
+So my final value here is really going to be 50.
+
+02:42.350 --> 02:48.920
+And I do know the voltage at time Eagles the four seconds right at four seconds what I have is I have
+
+02:48.920 --> 02:50.750
+3000 volts.
+
+02:51.500 --> 02:59.170
+So one minus exponential of minus four seconds that's when I have 30 volts over here divided by our
+
+02:59.170 --> 03:01.060
+AC.
+
+03:01.190 --> 03:01.850
+All right.
+
+03:01.850 --> 03:08.330
+The only equation in sort of the only unknown in this equation here is the value of the resistance.
+
+03:08.360 --> 03:13.670
+We know that capacitance is to microflora And so at the end all we have to do here is do 30 over 50
+
+03:15.410 --> 03:18.020
+must be equal to 1 minus exponential.
+
+03:18.320 --> 03:26.140
+And all of this minus for over R C R it all you have to do now is kind of simplify this expression.
+
+03:26.480 --> 03:32.300
+So let me just continued on this side of myself a bit of space here.
+
+03:32.300 --> 03:42.310
+So I'm going to have one minus this will be three over five which is 0.6 and that's going to be equal
+
+03:42.310 --> 03:46.990
+to the exponential of minus 4 divided by RC.
+
+03:47.460 --> 03:47.670
+All right.
+
+03:47.680 --> 03:53.020
+So to simplify this now all you need to do is take the natural log on both sides so you take natural
+
+03:53.020 --> 03:59.500
+log of 0.4 and that's going to be equal to if you take natural log of the exponential you simply get
+
+03:59.500 --> 04:06.790
+the argument which is minus 4 over R C and the last thing I'll just isolate for the unknown resistance
+
+04:07.480 --> 04:09.290
+in this case which is our.
+
+04:09.350 --> 04:18.400
+So it's minus 4 divided by the value of the capacitance multiplied by the natural log of 0.4.
+
+04:18.400 --> 04:20.890
+We know the value of the capacitance.
+
+04:20.890 --> 04:28.510
+Pretty straightforward as is two times ten of the minus six and multiplied by the natural log of zero
+
+04:28.510 --> 04:29.620
+point four.
+
+04:29.620 --> 04:30.470
+All right.
+
+04:30.580 --> 04:32.150
+Put everything in a calculator.
+
+04:32.160 --> 04:37.420
+I think I got a pretty large resistance of 2.2 times tended to the six ohms
+
+04:40.410 --> 04:46.890
+and that's the value of the resistance here given all of this information and the problem.
+
+04:46.890 --> 04:52.130
+All right so this is just the problem of basically writing down what you know what you don't know realizing
+
+04:52.140 --> 04:58.920
+that this is a charging of a capacitor problem or it's kind of disguised with the switch but that's
+
+04:58.920 --> 05:00.270
+all it is.
+
+05:00.480 --> 05:02.330
+You just have to be able to identify that.
+
+05:02.460 --> 05:05.180
+And then at the end you simply have one equation in one unknown.
+
+05:05.190 --> 05:08.700
+Just do a little bit of math in order to get to the final answer.

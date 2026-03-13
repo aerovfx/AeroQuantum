@@ -1,0 +1,840 @@
+1
+00:00:01,170 --> 00:00:06,460
+Hell everyone, welcome back to Exploring
+Quantum Physics, I'm Charles Clark.
+
+2
+00:00:06,460 --> 00:00:07,830
+And now we're going to wrap up the
+
+3
+00:00:07,830 --> 00:00:11,220
+connection between the angular momentum of
+the Runge-Lenz
+
+4
+00:00:11,220 --> 00:00:15,170
+Vector that we saw in a previous lecture,
+
+5
+00:00:15,170 --> 00:00:17,889
+and use that to describe the spectrum of
+hydrogen.
+
+6
+00:00:21,500 --> 00:00:27,640
+So I hope you remember from lectures in
+the past week, we derived
+
+7
+00:00:27,640 --> 00:00:33,170
+this new con, constant motion for the
+hydrogen atom.
+
+8
+00:00:33,170 --> 00:00:36,690
+Unusual tide to run the lens vector, which
+is really
+
+9
+00:00:36,690 --> 00:00:41,090
+the cross product, of the momentum and the
+angular momentum.
+
+10
+00:00:41,090 --> 00:00:46,610
+And the radial vector, and this, this lies
+in the same plane as
+
+11
+00:00:46,610 --> 00:00:48,960
+the, the radius.
+
+12
+00:00:48,960 --> 00:00:51,630
+Same plane as the position and the
+momentum, classically.
+
+13
+00:00:51,630 --> 00:00:55,840
+And def-, defi-, it, it serves to define
+the elliptical orbit that
+
+14
+00:00:55,840 --> 00:00:58,559
+the electron and the nucleus make about
+the center of the mass.
+
+15
+00:01:00,050 --> 00:01:05,090
+Well, the classical definition is, is
+asymmetric in p and L.
+
+16
+00:01:05,090 --> 00:01:12,470
+And precocious young scientist Wolfgang
+Pauli, devised a symmetrised form.
+
+17
+00:01:12,470 --> 00:01:17,190
+And he's, he, he takes the mass out and,
+
+18
+00:01:17,190 --> 00:01:22,770
+and puts it in a different area.
+So as you an see, this,
+
+19
+00:01:22,770 --> 00:01:28,260
+this m factor that Pauli that Pauli
+
+20
+00:01:28,260 --> 00:01:32,773
+derived, is identical up to an overall
+constant to the
+
+21
+00:01:32,773 --> 00:01:38,640
+Runge-Lenz Vector that we derived, but it
+has a nice symmetric form.
+
+22
+00:01:38,640 --> 00:01:41,060
+That is required by quantum mechanics.
+
+23
+00:01:47,680 --> 00:01:52,720
+Well, I invite you to give your opinion on
+that in the, in the video quiz.
+
+24
+00:01:56,140 --> 00:02:01,000
+Now, the central result found by Pauli,
+and
+
+25
+00:02:01,000 --> 00:02:04,290
+it's, it seems mysterious and miraculous
+to me.
+
+26
+00:02:05,410 --> 00:02:06,830
+It has to do with the commutators of
+
+27
+00:02:06,830 --> 00:02:10,330
+the angular momentum operator the run the
+lens vector.
+
+28
+00:02:10,330 --> 00:02:15,824
+So you have already derived this, and
+since
+
+29
+00:02:15,824 --> 00:02:21,050
+since M is a vector valued operator it is,
+
+30
+00:02:21,050 --> 00:02:25,874
+it, it, you, this, this is this is a
+
+31
+00:02:25,874 --> 00:02:31,636
+consequence, this is the, this is the
+common
+
+32
+00:02:31,636 --> 00:02:36,326
+commutator that applies when the angular
+
+33
+00:02:36,326 --> 00:02:41,180
+momentum Operators apply to any vector.
+
+34
+00:02:42,230 --> 00:02:47,280
+But now here's the the new one.
+And
+
+35
+00:02:47,280 --> 00:02:48,750
+I am not going to go through a
+
+36
+00:02:48,750 --> 00:02:53,630
+step by step derivation because it's a
+lengthy one.
+
+37
+00:02:53,630 --> 00:02:54,130
+But
+
+38
+00:02:56,230 --> 00:03:01,730
+as you can see from a, from the, from the
+mechanical point of view this just
+
+39
+00:03:01,730 --> 00:03:07,720
+involves it now involves the M.
+The M has products of
+
+40
+00:03:09,770 --> 00:03:15,300
+p x p.
+There are triples of momenta and, and
+
+41
+00:03:15,300 --> 00:03:21,250
+coordinates in his expressions.
+so it's lengtly but, when it is done
+
+42
+00:03:23,290 --> 00:03:26,810
+this, this is the answer.
+
+43
+00:03:26,810 --> 00:03:33,430
+And as we'll see, these these identities
+make it possible to find the bound
+
+44
+00:03:33,430 --> 00:03:34,990
+state energies of all solutions of the
+
+45
+00:03:34,990 --> 00:03:38,550
+hydrogen atom, without actually solving
+the Schrodinger Equation.
+
+46
+00:03:45,110 --> 00:03:47,350
+Now, first I'm going to talk about the
+spectrum
+
+47
+00:03:47,350 --> 00:03:50,120
+that's associated with the angular
+momentum operator itself.
+
+48
+00:03:50,120 --> 00:03:54,880
+It's very important, and I'm going to
+outline the
+
+49
+00:03:54,880 --> 00:03:58,870
+derivation here just because for, in the
+interest of time.
+
+50
+00:04:00,010 --> 00:04:02,470
+But it's something that you can do
+yourself.
+
+51
+00:04:02,470 --> 00:04:04,560
+I've done it.
+
+52
+00:04:04,560 --> 00:04:06,580
+And Zach has written, Zach Raines has
+written
+
+53
+00:04:06,580 --> 00:04:10,210
+up some nice notes, that sort of take you
+step
+
+54
+00:04:10,210 --> 00:04:13,220
+by step through that.
+
+55
+00:04:13,220 --> 00:04:18,040
+So the first, the first observation is
+that since L3 and
+
+56
+00:04:18,040 --> 00:04:22,660
+L squared commute, and there's nothing
+important about L3 here but
+
+57
+00:04:22,660 --> 00:04:28,390
+it's we know that, that L3, L1 and L2 do
+not
+
+58
+00:04:28,390 --> 00:04:32,560
+mutually commute, though each one of them
+commutes with L squared.
+
+59
+00:04:32,560 --> 00:04:35,510
+So we're going to pick, we just, by
+convention
+
+60
+00:04:35,510 --> 00:04:40,400
+we pick L3 to be we're, we're going to,
+
+61
+00:04:40,400 --> 00:04:44,040
+we're going to make Eigenfunctions that
+are Eigenfunctions, both of
+
+62
+00:04:44,040 --> 00:04:48,510
+l squared and of L3, because we can choose
+
+63
+00:04:48,510 --> 00:04:54,420
+to have Eigen functions that have both
+those Eigenvalues simultaneously.
+
+64
+00:04:54,420 --> 00:05:01,040
+So we'll call these by convention lm and
+L3|lm.
+
+65
+00:05:01,040 --> 00:05:01,540
+Is
+
+66
+00:05:04,220 --> 00:05:07,820
+is, is just the eigenvalues denoted by
+this.
+
+67
+00:05:07,820 --> 00:05:14,990
+Now, it will turn out that l is equal to
+0, 1, 2, and so on, integer.
+
+68
+00:05:14,990 --> 00:05:23,610
+And then m is equal to minus l, minus l
+plus 1, et cetera, up to
+
+69
+00:05:23,610 --> 00:05:28,070
+l, but for the moment, we'll just, we'll
+just leave it undetermined like that.
+
+70
+00:05:30,100 --> 00:05:35,160
+Okay, now, in order to prove the spectral
+property
+
+71
+00:05:36,370 --> 00:05:41,530
+this, this is the spectral property of the
+eigenvalue operator.
+
+72
+00:05:41,530 --> 00:05:45,870
+It's relat-, it's straightforward to prove
+it if you define these two operators.
+
+73
+00:05:45,870 --> 00:05:47,890
+L plus and l minus.
+
+74
+00:05:47,890 --> 00:05:50,900
+These are sort of like, they resemble, to
+some
+
+75
+00:05:50,900 --> 00:05:54,390
+degree, the creation annihilation
+operators
+
+76
+00:05:54,390 --> 00:05:56,780
+of the harmonic oscillator problem.
+
+77
+00:05:56,780 --> 00:06:02,900
+So, you can readily verify this identity.
+Because, you know,
+
+78
+00:06:02,900 --> 00:06:08,593
+it, we're just saying you've previously
+established that, for example, L3
+
+79
+00:06:08,593 --> 00:06:15,640
+commutator L1 equal i h bar L2.
+
+80
+00:06:15,640 --> 00:06:18,600
+so it's, it's quite straightforward to
+verify
+
+81
+00:06:20,840 --> 00:06:26,040
+that this, this identity, which
+
+82
+00:06:26,040 --> 00:06:31,210
+says for example when you, when you, when
+you
+
+83
+00:06:31,210 --> 00:06:36,480
+go, when you apply, when you take this,
+and you now say alright,
+
+84
+00:06:36,480 --> 00:06:41,280
+let's apply L plus or L minus to this lm.
+
+85
+00:06:43,080 --> 00:06:45,560
+Is it an eigenstate of L3?
+
+86
+00:06:45,560 --> 00:06:51,320
+And indeed it is.
+But it has its
+
+87
+00:06:53,660 --> 00:06:59,180
+eigen, its, its, its eigenvalue of L3 is
+increased by plus or minus 1
+
+88
+00:06:59,180 --> 00:07:05,470
+times h bar.
+So, in other words if you, if you,
+
+89
+00:07:05,470 --> 00:07:11,520
+if you start, whatever this state may be,
+Lm, if you start with Lm,
+
+90
+00:07:14,460 --> 00:07:19,880
+then you get a sequence.
+So this is the value of L3 here.
+
+91
+00:07:19,880 --> 00:07:26,510
+You get a sequence of equally spaced
+values of, of L3.
+
+92
+00:07:28,740 --> 00:07:30,165
+So the, this is an example of a
+
+93
+00:07:30,165 --> 00:07:34,816
+ladder operator, that's somewhat analogous
+to the creation/annihilation operator.
+
+94
+00:07:34,816 --> 00:07:38,195
+it generates a sequence of Eigenstates
+with equally-spaced Eigenvalues.
+
+95
+00:07:38,195 --> 00:07:47,969
+Well the full analysis requires that this
+this sequence terminate at some point.
+
+96
+00:07:47,969 --> 00:07:50,444
+Because if L squared has a fixed value,
+
+97
+00:07:50,444 --> 00:07:53,894
+that means there's a maximum value of the
+maximum
+
+98
+00:07:53,894 --> 00:07:59,210
+eigenvalue for any one of it's components.
+And that,
+
+99
+00:07:59,210 --> 00:08:05,170
+that yields that analysis yields the
+following result,
+
+100
+00:08:05,170 --> 00:08:10,820
+that the spectrum of the angular momentum
+operator it's L squared.
+
+101
+00:08:10,820 --> 00:08:18,840
+The eigenvalues of the form l times l plus
+1 where l is any nonnegative integer,
+
+102
+00:08:18,840 --> 00:08:28,530
+so zero to six, et cetera.
+Now there's a widely used,
+
+103
+00:08:30,780 --> 00:08:34,620
+system of eigenfunctions of the angular
+momentum operator.
+
+104
+00:08:35,660 --> 00:08:38,250
+these are called spherical harmonics.
+
+105
+00:08:38,250 --> 00:08:42,350
+Here's a, here's an appropriate reference
+for their properties.
+
+106
+00:08:42,350 --> 00:08:46,560
+And they're expressed in spherical
+coordinates so basic, if
+
+107
+00:08:46,560 --> 00:08:50,020
+you have a func, a function in three
+dimensional space
+
+108
+00:08:52,640 --> 00:08:56,480
+the, the spherical harmonics are used to
+paramatize the angular dependance.
+
+109
+00:08:56,480 --> 00:09:01,740
+So by convention this is, this is x3, the
+z coordinant.
+
+110
+00:09:01,740 --> 00:09:06,830
+phi is the, is the as it moves the angle
+theta, the conventional polar angle.
+
+111
+00:09:08,790 --> 00:09:13,070
+And here is a, an image that shows the
+
+112
+00:09:13,070 --> 00:09:17,790
+various the various so
+
+113
+00:09:17,790 --> 00:09:23,630
+for l equals 0, there's m equals 0 only.
+For l equal 1 there's
+
+114
+00:09:23,630 --> 00:09:27,790
+m equal plus 1, 0, minus 1, and so on.
+Now
+
+115
+00:09:30,240 --> 00:09:35,660
+I think it's useful to keep in mind that
+Ylm
+
+116
+00:09:37,010 --> 00:09:42,124
+is, is basically a polynomial.
+Of
+
+117
+00:09:42,124 --> 00:09:48,606
+degree
+
+118
+00:09:48,606 --> 00:09:52,180
+l, divided by r to the l.
+So all, all
+
+119
+00:09:52,180 --> 00:09:55,260
+these, these functions, I mean, their,
+their expressions
+
+120
+00:09:55,260 --> 00:09:58,740
+can get pretty complicated, but you can
+always think of them as polynomials.
+
+121
+00:09:58,740 --> 00:10:06,522
+So for example, Y 0 is 1 over root 4 pi.
+
+122
+00:10:06,522 --> 00:10:10,279
+It's just a constant, it's just a constant
+function.
+
+123
+00:10:10,279 --> 00:10:15,583
+y 1 0 and minus 1 are Well,
+
+124
+00:10:15,583 --> 00:10:20,479
+y one zero, is proportional
+
+125
+00:10:20,479 --> 00:10:25,375
+to cosine theta, which is,
+
+126
+00:10:25,375 --> 00:10:30,679
+so it's proportional to c o for
+
+127
+00:10:30,679 --> 00:10:35,779
+all r, and y 1 plus or minus 1
+
+128
+00:10:35,779 --> 00:10:41,083
+are proportional to x plus
+
+129
+00:10:41,083 --> 00:10:46,203
+or minus iy over r.
+So they're they're,
+
+130
+00:10:46,203 --> 00:10:50,628
+the, the things that, the most problems
+you encounter just deal
+
+131
+00:10:50,628 --> 00:10:55,053
+with fairly small values of l, whereas the
+the the spherical
+
+132
+00:10:55,053 --> 00:10:59,904
+harmonic functions are rather simple, but
+they're very powerful sets.
+
+133
+00:10:59,904 --> 00:11:05,930
+And they're often, they're widely used in,
+in many
+
+134
+00:11:05,930 --> 00:11:12,044
+applications in physics and mathematical
+analysis.
+
+135
+00:11:12,044 --> 00:11:18,366
+Now, it turns out, to get back to the the
+angle Runge-Lenz
+
+136
+00:11:18,366 --> 00:11:23,236
+vectors.
+These operators, L and M together, let's
+
+137
+00:11:23,236 --> 00:11:28,728
+just think about the balance states of
+either for the motion.
+
+138
+00:11:28,728 --> 00:11:32,018
+Together, they're the generation, they
+provide the
+
+139
+00:11:32,018 --> 00:11:35,135
+generators of a rotation proof in four
+dimensions.
+
+140
+00:11:35,135 --> 00:11:37,340
+So, the hydrogen
+
+141
+00:11:37,340 --> 00:11:42,338
+atom, has an internal symmetry, which
+
+142
+00:11:42,338 --> 00:11:47,483
+is like the symmetry of an object that has
+a
+
+143
+00:11:47,483 --> 00:11:53,069
+particular transformation under rotations
+
+144
+00:11:53,069 --> 00:11:58,312
+in a space of four spacial divisions.
+
+145
+00:11:58,312 --> 00:12:02,344
+it's quite extraordinary that such a deep
+
+146
+00:12:02,344 --> 00:12:04,626
+relationship exists.
+
+147
+00:12:04,626 --> 00:12:07,380
+Now I don't think it's possible in, to
+
+148
+00:12:07,380 --> 00:12:11,368
+make a interpretation of that fourth
+spacial dimension.
+
+149
+00:12:11,368 --> 00:12:15,784
+That's something that exists like one of
+the three spacial dimensions with which
+
+150
+00:12:15,784 --> 00:12:20,646
+we're familiar.
+But it is striking that this, this very
+
+151
+00:12:20,646 --> 00:12:27,480
+basic dynamical system, the hydrogen atom,
+the simplest atom, has this very
+
+152
+00:12:27,480 --> 00:12:33,051
+rich and symmetric structure with a high
+degree of degeneracy.
+
+153
+00:12:33,051 --> 00:12:38,157
+So for for a given, for a given
+
+154
+00:12:38,157 --> 00:12:43,019
+value of, of principal quantum number.
+
+155
+00:12:43,019 --> 00:12:48,227
+Let's say N is equal to n, n plus
+
+156
+00:12:48,227 --> 00:12:53,375
+l plus 1.
+There are
+
+157
+00:12:53,375 --> 00:12:59,717
+N squared states
+
+158
+00:12:59,717 --> 00:13:04,700
+with the same
+
+159
+00:13:04,700 --> 00:13:09,850
+energy.
+So this degeneracy
+
+160
+00:13:09,850 --> 00:13:14,926
+receives, I think, spectacular
+confirmation in this data for
+
+161
+00:13:14,926 --> 00:13:19,737
+the molecular cloud that we saw in an
+earlier lecture.
+
+162
+00:13:19,737 --> 00:13:25,785
+So this frame shows absorption by states
+
+163
+00:13:25,785 --> 00:13:31,991
+in a molecular cloud with an N value of
+600.
+
+164
+00:13:31,991 --> 00:13:37,841
+And the, there are, there are basically,
+something like 300 and,
+
+165
+00:13:37,841 --> 00:13:44,960
+for, for, in this region there are 350,000
+states with the same energy.
+
+166
+00:13:44,960 --> 00:13:48,490
+And there, well there are 350,000 states
+in
+
+167
+00:13:48,490 --> 00:13:53,830
+this vicinity and you see sharp lines here
+
+168
+00:13:53,830 --> 00:13:56,810
+and these are, according to our best
+understanding
+
+169
+00:13:56,810 --> 00:13:59,690
+of the system, those states are all
+equally populated.
+
+170
+00:13:59,690 --> 00:14:02,070
+So you're seeing the sharp ringing.
+
+171
+00:14:02,070 --> 00:14:04,680
+All of these hundreds of thousands of
+states
+
+172
+00:14:04,680 --> 00:14:08,020
+are making transitions at exactly the same
+frequency.
+
+173
+00:14:08,020 --> 00:14:10,370
+It is really, it's really quite a
+remarkable thing.
+
+174
+00:14:10,370 --> 00:14:16,370
+Indeed, without this high degeneracy of
+the these are actually
+
+175
+00:14:16,370 --> 00:14:22,790
+carbon like atoms with a with highly
+excited electrons that are hydrogenic.
+
+176
+00:14:22,790 --> 00:14:25,560
+Without that exact degeneracy, we wouldn't
+see these signals at all.
+
+177
+00:14:27,010 --> 00:14:30,990
+So we're going to conclude for the moment
+there, and
+
+178
+00:14:30,990 --> 00:14:36,210
+then proceed in the next lecture with some
+discussion
+
+179
+00:14:36,210 --> 00:14:40,170
+of more applications of angular vectors.
+Hope to see you then.

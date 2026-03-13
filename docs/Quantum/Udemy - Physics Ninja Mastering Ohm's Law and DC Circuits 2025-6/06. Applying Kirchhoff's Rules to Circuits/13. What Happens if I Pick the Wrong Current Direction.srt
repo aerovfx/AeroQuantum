@@ -1,0 +1,211 @@
+WEBVTT
+
+00:00.360 --> 00:04.930
+All right I want to look at the previous example again except I wanted to show you what happens now.
+
+00:05.610 --> 00:10.410
+If when you set your current directions at the beginning of a problem what happens if you pick the wrong
+
+00:10.410 --> 00:11.640
+answer.
+
+00:11.640 --> 00:15.450
+So what I'm going to do is I'm going to keep the current eye the way it was set up like this.
+
+00:15.460 --> 00:17.920
+Now keep the current eye to the way it is.
+
+00:17.970 --> 00:23.250
+Previously I had the current one flowing down through this resistance are two what I'm going to do now
+
+00:23.250 --> 00:26.200
+is I'm going to pick something like this.
+
+00:26.490 --> 00:30.720
+Imagine here I had initially set up the current I wanted to be in this direction.
+
+00:31.370 --> 00:31.960
+OK.
+
+00:32.190 --> 00:36.510
+So we're going to resolve the exact same problem except let's look at what happens at the solution now
+
+00:36.510 --> 00:39.150
+and how it changes and what it means.
+
+00:39.150 --> 00:44.670
+So even if I switch the current direction I would still get the same equivalent resistance.
+
+00:44.670 --> 00:49.650
+This really has nothing to do with the current So I'd still get my 13 divided by three which gives me
+
+00:49.650 --> 00:54.160
+a total equivalent resistance for this network of 4.3 ohms.
+
+00:54.420 --> 00:57.480
+Given this I would still solve for the current AI.
+
+00:57.540 --> 01:03.620
+And that's the current flowing through this bottom branch and I would still get my value equal to 2.3.
+
+01:03.630 --> 01:08.460
+And again that would simply be obtain the current Iowas a result of taking the voltage of the battery
+
+01:08.460 --> 01:16.890
+10 divided by my equivalent resistance which gives me 10 divided by 13 over three.
+
+01:16.890 --> 01:23.360
+So that's 30 over 13 which gave me the 2.3 ohms.
+
+01:23.460 --> 01:27.430
+Yeah 2.3 amps rather.
+
+01:27.510 --> 01:31.080
+OK so right back to where we were.
+
+01:31.750 --> 01:37.910
+Now one thing that would immediately change would be the junction rule if you write the junction Roulet
+
+01:37.960 --> 01:44.620
+junction over here the junction rule would change if you have the current one flowing up rather than
+
+01:44.620 --> 01:48.040
+flowing down the junction rule would now look like this.
+
+01:48.250 --> 01:55.930
+Whatever current flows into the junction it's I plus the current one has to be equal to the current
+
+01:56.020 --> 02:01.840
+Aitu right because we have two currents flowing in and we have one current flowing out of the junction
+
+02:02.890 --> 02:04.990
+so that one would look a little bit different.
+
+02:05.590 --> 02:06.430
+And the other the case.
+
+02:06.440 --> 02:11.670
+Now while let's imagine doing our loop rule let's do Kirchhoff's loop rule doing this inner loop.
+
+02:11.680 --> 02:13.160
+Let's see what would change.
+
+02:13.570 --> 02:15.900
+Well it's called this equation too.
+
+02:15.910 --> 02:17.290
+So first thing I encounter.
+
+02:17.380 --> 02:24.760
+Well that term doesn't change it's still plus 10 because I cross a MF going from the low to a high electrical
+
+02:24.760 --> 02:25.630
+potential.
+
+02:25.960 --> 02:30.080
+And now I cross a resistance R1 so I get a voltage drop.
+
+02:30.340 --> 02:31.610
+That turn doesn't change.
+
+02:31.810 --> 02:37.590
+And that's three multiplied by the current 2.3 and.
+
+02:37.640 --> 02:41.420
+OK so now I'm going to go down this branch with the current one.
+
+02:41.420 --> 02:42.530
+However look at what happens.
+
+02:42.530 --> 02:48.060
+Now I'm crossing this resistor and I'm crossing it opposite the direction of the current.
+
+02:48.510 --> 02:53.630
+OK which means I'm going toward a higher electrical potential which means you have to I'm increasing
+
+02:53.630 --> 02:58.020
+the electrical potential and I'm going to increase it by Ohm's law.
+
+02:58.970 --> 03:05.870
+Right by the voltage difference across this resistor which is two multiplied by the current one equals
+
+03:05.870 --> 03:06.960
+to zero.
+
+03:07.500 --> 03:13.150
+Well if I look at equation 2 again the only unknown in this equation is the current one.
+
+03:13.280 --> 03:18.180
+So I can do a little bit of math in order to isolate that unknown and so forth.
+
+03:18.200 --> 03:22.980
+So let's go ahead and do that if I bring this term on the other side I get minus two I 1.
+
+03:23.540 --> 03:26.870
+And then the equation you should get for I 1 is this.
+
+03:26.870 --> 03:31.270
+So it's 10 minus three two point three.
+
+03:31.310 --> 03:35.820
+Then at the end you'd probably have to divide through by negative two.
+
+03:35.830 --> 03:37.750
+Now you punched the numbers in your calculator.
+
+03:37.750 --> 03:40.640
+The one thing you notice here is that this negative sign appears.
+
+03:40.690 --> 03:48.130
+Everything else looks the same except the current I get is minus 1.5 5 amps.
+
+03:48.160 --> 03:50.520
+I'm not going to go ahead now and solve the outer one.
+
+03:50.650 --> 03:52.970
+We're going to get the same answers what we previously did.
+
+03:53.260 --> 03:55.740
+But I want to point this out.
+
+03:56.080 --> 04:03.190
+So I won is equal to minus 1.5 5.
+
+04:03.220 --> 04:04.770
+Now this is an important result.
+
+04:04.870 --> 04:10.770
+And whenever you solve our rules.
+
+04:10.920 --> 04:19.380
+The juncture rule in combination with the loop rules and if you solve for the currents and you're consistent
+
+04:19.440 --> 04:24.660
+when you cross your elements and you've done all the physics right you're consistent with whatever direction
+
+04:24.660 --> 04:28.530
+of the current You picked and you end up getting a negative answer like this.
+
+04:28.560 --> 04:31.890
+It simply means that your guess was wrong.
+
+04:32.340 --> 04:38.190
+So my initial guess here if I got a negative answer for this value it tells me that oh I should go through
+
+04:38.970 --> 04:41.280
+and actually switch the direction.
+
+04:42.030 --> 04:47.170
+The correct answer is should be a current flowing down like this and call it.
+
+04:47.190 --> 04:49.240
+I won OK.
+
+04:49.420 --> 04:54.670
+So that's all these negative signs tell me that my guess my initial guess really
+
+04:58.150 --> 04:58.870
+was wrong.
+
+05:00.610 --> 05:05.320
+So all you have to do then just go back to your diagram switch the direction and then you'll be fine.

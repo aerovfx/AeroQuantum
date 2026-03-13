@@ -1,0 +1,108 @@
+WEBVTT
+
+WEBVTT
+
+00:00.300 --> 00:06.210
+All right one last thing I wanted to comment on for combinations of series and parallel let's just recall
+
+00:06.210 --> 00:14.760
+that for combinations and series to get the equivalent You simply have to add up each individual resistor.
+
+00:14.940 --> 00:25.570
+And if they're in parallel it's 1 over are equivalent and then you add up the reciprocal of the terms.
+
+00:25.840 --> 00:30.630
+OK and this works fine as long as they're in series and in parallel.
+
+00:30.640 --> 00:36.880
+Now all those circuits that I've shown you so far all the different networks we were able to kind of
+
+00:36.880 --> 00:41.080
+reduce them into combinations of series or parallel resistors.
+
+00:41.080 --> 00:47.410
+However one thing I want you guys to be very very careful of is there are many circuits where these
+
+00:47.410 --> 00:54.310
+tricks don't work because you can't clearly identify whether or not they're in series or in parallel.
+
+00:54.460 --> 00:57.980
+And I'm going to illustrate it with this simple case over here.
+
+00:58.150 --> 01:01.170
+Kind of a simple network there's only five resistors.
+
+01:01.660 --> 01:10.000
+However if you look at them imagine we look at this forum resistor so points A and B are over here and
+
+01:10.000 --> 01:15.500
+imagine the question was well find the equivalent resistance between points AB.
+
+01:15.850 --> 01:20.360
+So we'd want to try to use some of our rules that we know work.
+
+01:20.360 --> 01:27.520
+However Majel we try to group this forum resistor and while you would say well this forum resistor is
+
+01:27.520 --> 01:32.650
+actually not in series with this forum resistor because there's another resistor here that kind of breaks
+
+01:32.650 --> 01:33.360
+it up.
+
+01:33.370 --> 01:38.550
+Remember the rule for them to be in series was you have to have the same current but I imagine there
+
+01:38.550 --> 01:41.960
+is current flowing down here well some of it might go through here.
+
+01:42.190 --> 01:43.900
+Some of it might continue down here.
+
+01:43.900 --> 01:44.830
+We don't know.
+
+01:46.050 --> 01:50.280
+All right so you can't say that both of these foreign resistors are in series.
+
+01:50.880 --> 01:56.880
+Now you might be tempted to say well this forum resisted and might be in parallel with this guy.
+
+01:57.000 --> 02:05.050
+This 3.1 to 5 ohm resistor and again that's not really true because we run into a problem when you have
+
+02:05.050 --> 02:06.790
+this resistor in the mix.
+
+02:06.790 --> 02:12.250
+If this resistor wasn't there then you'd be able to do a lot of simpler simpler simplifications to the
+
+02:12.250 --> 02:13.000
+circuit.
+
+02:13.000 --> 02:16.220
+But it is here and this complicates the matter.
+
+02:16.240 --> 02:20.550
+There are also a lot of circuits that you're going to see that involve multiple power supplies.
+
+02:20.710 --> 02:27.220
+And in those cases also you won't be able to use these tools over here on the right on the left hand
+
+02:27.220 --> 02:30.350
+side in order to simplify our circuit.
+
+02:30.340 --> 02:34.870
+So don't worry about it there are going to be other methods that we can use in order to solve these
+
+02:34.870 --> 02:37.500
+circuits and that's all we're going to see in the next section.
+
+02:37.570 --> 02:40.000
+But these techniques don't always work.
+
+02:40.000 --> 02:43.510
+So just be on the lookout for them for some of those circuits.
+
+02:43.540 --> 02:44.130
+OK.

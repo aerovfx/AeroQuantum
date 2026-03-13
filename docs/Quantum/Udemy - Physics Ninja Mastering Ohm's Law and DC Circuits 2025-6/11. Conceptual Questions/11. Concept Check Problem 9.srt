@@ -1,0 +1,196 @@
+WEBVTT
+
+00:00.080 --> 00:01.260
+All right concept check nine.
+
+00:01.290 --> 00:04.530
+We have two light bulbs that are connected to a wall socket bulb.
+
+00:04.530 --> 00:09.210
+Number one they're connected in series as shown here bulb number one is a 100 watt bulb Number two is
+
+00:09.210 --> 00:11.550
+40 watt which statement is true.
+
+00:11.930 --> 00:12.270
+OK.
+
+00:12.280 --> 00:15.670
+Well the wall socket is 120 volts.
+
+00:16.070 --> 00:18.140
+These are 100 watt bulb.
+
+00:18.870 --> 00:20.420
+Here's a 40 watt bulb.
+
+00:20.970 --> 00:21.240
+All right.
+
+00:21.240 --> 00:27.240
+Now both light bulbs are at their normal brightness 100 watt bulb is brighter than the 40 watt bulb.
+
+00:27.630 --> 00:36.300
+40 watt bulb is brighter than 100 watt equal brightness or can't determine how you might be.
+
+00:36.720 --> 00:38.210
+Just try to answer this quickly.
+
+00:38.230 --> 00:45.990
+Say oh the wattage of a 100 watt bulb it's it's got a bigger power rating it must be brighter than the
+
+00:45.990 --> 00:47.100
+40 watt bulb.
+
+00:47.310 --> 00:51.060
+Now you've got to be just a little bit careful when you make that argument because now we have two of
+
+00:51.060 --> 00:54.970
+them that are connected in series with each other.
+
+00:55.050 --> 01:02.640
+So if you wanted to calculate the power dissipated by a 100 watt bulb Well what you would do is there's
+
+01:02.640 --> 01:07.500
+different ways to rate this power equation but one way we saw would be the resistance of the 100 watt
+
+01:07.500 --> 01:08.150
+bulb.
+
+01:08.490 --> 01:13.850
+Let's call it R1 and multiply by the current flowing through it squared right.
+
+01:13.950 --> 01:18.720
+And we know since there are going to be in series the current is going to be the same flowing through
+
+01:18.720 --> 01:20.900
+both of them.
+
+01:21.130 --> 01:22.250
+So we'll just call that.
+
+01:22.310 --> 01:30.060
+I know the power being dissipated by the 40 watt bulb you say it's 40 resistance R2.
+
+01:30.760 --> 01:31.290
+OK.
+
+01:31.470 --> 01:34.000
+And multiplied by the same current.
+
+01:34.730 --> 01:35.070
+All right.
+
+01:35.070 --> 01:40.300
+So whichever one dissipates more power should be the brightest light bulb however.
+
+01:40.530 --> 01:43.350
+So they both have the same current.
+
+01:43.350 --> 01:46.040
+Now we have to determine what is the resistance.
+
+01:46.100 --> 01:46.310
+Right.
+
+01:46.320 --> 01:52.950
+If we know the resistance are one and our two we'll be able to determine which power is actually bigger.
+
+01:52.950 --> 01:54.290
+Now you have to be a little bit careful.
+
+01:54.300 --> 01:58.080
+Now we're going to use this information when they kind of rate light bulbs like this.
+
+01:58.080 --> 02:02.190
+This is when it's plugged into 120 volts all by itself.
+
+02:03.760 --> 02:09.270
+So let's consider a simple circuit where we have just the 100 watt bulb.
+
+02:09.280 --> 02:11.920
+Let me just represented by a resistor here.
+
+02:12.510 --> 02:16.840
+Here's our resistance one here is 120 volts.
+
+02:17.070 --> 02:22.810
+That way you would find the power dissipated here well you can simply write the power being dissipated.
+
+02:22.810 --> 02:25.240
+Now the voltage is going to be the same in both cases.
+
+02:25.290 --> 02:29.430
+It's going to be 120 an that's divided by the resistance.
+
+02:29.430 --> 02:32.490
+This was another way we wrote down the power equation.
+
+02:33.000 --> 02:40.330
+So when they write down 100 watts like this that's the power dissipated again V is 120.
+
+02:40.710 --> 02:41.390
+So what does that mean.
+
+02:41.390 --> 02:46.980
+I means that the resistance is going to be the voltage squared divided by that power rating.
+
+02:49.080 --> 02:51.720
+So what does that tell you about the resistance.
+
+02:51.720 --> 02:57.750
+It tells you that for 100 watt bulb the resistance again the voltage square divided by the value of
+
+02:57.810 --> 03:06.750
+the wattage tells you automatically that the resistance of this guy is actually less than the resistance
+
+03:06.750 --> 03:08.050
+of the 40 watt bulb.
+
+03:08.070 --> 03:10.950
+Are two.
+
+03:11.050 --> 03:12.270
+So that's very important.
+
+03:12.270 --> 03:20.220
+Resistance a 40 watt bulb resistance is bigger.
+
+03:20.270 --> 03:25.050
+Now we go back to the original statement over here our original equations.
+
+03:25.070 --> 03:29.730
+Now it's different in this case because the same current now flows through them.
+
+03:29.960 --> 03:31.690
+When you plug them in differently.
+
+03:31.760 --> 03:35.710
+Right just like in this little circuit over here if plug in a 100 watt bulb.
+
+03:35.720 --> 03:38.100
+And then I substituted for a 40 watt bulb.
+
+03:38.180 --> 03:41.080
+You're going to have a different amount of current flowing through it.
+
+03:41.270 --> 03:44.920
+But when they're in series with each other the same current flows through them.
+
+03:44.930 --> 03:52.070
+So these are my power expressions over here and we just argued that the resistance are two is actually
+
+03:52.070 --> 03:57.650
+bigger than the distance are one which means that the power is dissipated by the by that the watt bulb
+
+03:58.130 --> 04:02.920
+is going to be bigger in this case than 100 watt bulb when they're in series
+
+04:05.880 --> 04:06.530
+OK.
+
+04:06.750 --> 04:11.640
+So actually the 40 watt bulb and then the situation is he going to be brighter than 100 watt bulb kind
+
+04:11.640 --> 04:12.720
+of counter-intuitive.

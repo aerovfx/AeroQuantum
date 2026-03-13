@@ -1,0 +1,64 @@
+WEBVTT
+
+00:00.360 --> 00:01.970
+All right let's try this example out.
+
+00:02.010 --> 00:04.300
+Pretty simple we have a resistor over here.
+
+00:04.590 --> 00:07.000
+Let's calculate the value of the resistance.
+
+00:07.000 --> 00:09.930
+So first of all it's a four band.
+
+00:10.290 --> 00:14.080
+And notice the lines are more closely spaced at the top.
+
+00:14.400 --> 00:17.030
+So we're going to read in this direction down here.
+
+00:17.430 --> 00:23.110
+So the first one we get is a Brown Brown has a digit of 1 the first digit should be 1.
+
+00:23.190 --> 00:26.910
+Then we have green the second digit should be five.
+
+00:27.390 --> 00:28.970
+Then we have orange.
+
+00:29.020 --> 00:32.310
+OK so again now again it's only four bands.
+
+00:32.310 --> 00:35.410
+So that means the third band tells you the multiplier.
+
+00:35.520 --> 00:36.840
+And again that's the thousand.
+
+00:36.840 --> 00:39.070
+So this is 15 Kila.
+
+00:39.750 --> 00:41.270
+And then plus or minus.
+
+00:41.280 --> 00:46.410
+Then we get a silver down here the silver for the tolerance is written over here with plus or minus
+
+00:46.410 --> 00:49.570
+10 percent 10 percent.
+
+00:49.570 --> 00:56.510
+So really I could write this as 15000 ohms plus or minus 1500.
+
+00:56.970 --> 01:01.910
+That's 10 percent of 15000.
+
+01:02.220 --> 01:05.270
+That would be the value of this resistance here.
+
+01:05.550 --> 01:06.950
+Pretty straightforward.
+
+01:07.020 --> 01:08.320
+Just needs a bit of practice.

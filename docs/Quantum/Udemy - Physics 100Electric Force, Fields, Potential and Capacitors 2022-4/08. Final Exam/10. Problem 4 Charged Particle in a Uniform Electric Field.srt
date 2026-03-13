@@ -1,0 +1,256 @@
+WEBVTT
+
+00:00.450 --> 00:00.690
+All right.
+
+00:00.690 --> 00:06.660
+Here's the last problem here we have a uniform electric field which exist between two parallel plates.
+
+00:06.660 --> 00:11.970
+We have an electron here that's released from arrest from the surface of the negative plate and then
+
+00:11.970 --> 00:19.010
+it strikes a positive plate which is a distance of three point six centimeters from the first.
+
+00:19.020 --> 00:21.090
+And it gives us how much time it takes.
+
+00:21.390 --> 00:21.730
+OK.
+
+00:21.750 --> 00:23.880
+So let me go ahead first and just kind of fill this in.
+
+00:23.880 --> 00:32.730
+This is zero point zero three six meters and the amount of time it takes delta t is small because it's
+
+00:32.730 --> 00:34.620
+a tiny little electron.
+
+00:34.620 --> 00:39.560
+So two point zero times ten to the negative eight seconds.
+
+00:39.590 --> 00:40.040
+Okay.
+
+00:40.230 --> 00:44.070
+For a first question fine the acceleration of the electron.
+
+00:44.100 --> 00:44.350
+All right.
+
+00:44.370 --> 00:49.140
+So acceleration when I would think about that I would probably think about the word force.
+
+00:49.170 --> 00:49.790
+Right.
+
+00:49.830 --> 00:55.170
+So I'd say there's probably a force acting on the electron and the force is usually given by the charge
+
+00:55.170 --> 00:57.760
+multiplied by the electric field.
+
+00:57.870 --> 01:02.100
+And if this is the only force acting on this electron I can go ahead and kind of draw.
+
+01:02.100 --> 01:04.880
+Right here there has to be a force acting on it like this.
+
+01:04.920 --> 01:06.090
+Right.
+
+01:06.390 --> 01:11.370
+If this is the only force that should be equal to the mass times the acceleration.
+
+01:11.400 --> 01:11.670
+Oh.
+
+01:11.700 --> 01:15.870
+So my acceleration then must be QE over m.
+
+01:15.930 --> 01:19.580
+So let's think about this for a minute do I know the charge of the electron Yep.
+
+01:19.650 --> 01:20.880
+Do I know the mass.
+
+01:20.940 --> 01:24.720
+You might not know the mass but here let me go ahead and give it to you the mass of the electron is
+
+01:25.200 --> 01:30.930
+nine point one times 10 to the negative 31 KG something you can look up in a book.
+
+01:31.680 --> 01:34.050
+However do I know the electric field.
+
+01:34.350 --> 01:37.730
+There's no mention here of the electric field so I'm kind of stuck.
+
+01:37.740 --> 01:42.230
+If I if I wrote this down there's nothing wrong with this but I wouldn't be able to take it further.
+
+01:42.270 --> 01:48.300
+So one thing I could do now is maybe use some of this information right here because I know it accelerates
+
+01:48.330 --> 01:50.520
+because there is an electric field.
+
+01:50.520 --> 01:57.090
+So what I'm going to do here is I'm going to use some of the Kitimat X in order to analyze this motion.
+
+01:57.090 --> 02:02.400
+So one of the kinetic equations says if an object is accelerating and it starts from rest well it could
+
+02:02.400 --> 02:09.040
+look something like this plus one half the acceleration multiplied by T.
+
+02:09.060 --> 02:14.360
+Now if I start from rest it means that this first term is zero because there's no initial velocity.
+
+02:14.490 --> 02:19.890
+So this is another equation that I have at my disposal that lets me solve for acceleration.
+
+02:19.890 --> 02:24.210
+So now I have to do a little bit of algebra because I know it goes you know three point six centimeters
+
+02:24.210 --> 02:25.960
+in this amount of time.
+
+02:25.980 --> 02:30.600
+So right away I should be on the right that the acceleration if I'm a little bit careful two times delta
+
+02:30.600 --> 02:35.450
+x divided by T squared and I know everything now in this problem.
+
+02:35.620 --> 02:36.660
+So I can write this down.
+
+02:36.660 --> 02:43.620
+So two multiplied by zero point zero three six meters I want to have it in s I units at the end and
+
+02:43.620 --> 02:46.200
+two times ten to the negative eight.
+
+02:46.230 --> 02:48.700
+And you have to square that time.
+
+02:48.870 --> 02:53.130
+All right you put that number in the calculate you're going to get a kind of a ginormous number one
+
+02:53.130 --> 02:58.250
+point eight times ten to the 14 and that is in meters per second squared.
+
+02:58.680 --> 02:58.980
+OK.
+
+02:58.980 --> 03:02.110
+So that's kind of my answer for chart choice A.
+
+03:02.210 --> 03:02.670
+All right read.
+
+03:02.700 --> 03:03.280
+Question B.
+
+03:03.290 --> 03:03.690
+Question.
+
+03:03.700 --> 03:06.150
+B now says what is the electric field.
+
+03:06.150 --> 03:12.430
+Oh well this is now I can go back to this other problem which I was kind of started off with.
+
+03:12.930 --> 03:18.090
+All right except now I'm asking for the electric field e so I really want an equation in terms of E
+
+03:18.630 --> 03:24.780
+so I can put the charge down here at the bottom so I kind of look like this just rearranging that equation.
+
+03:24.930 --> 03:26.930
+And now again I know everything here.
+
+03:26.940 --> 03:32.910
+So guess what I can just go ahead and substitute that again nine point one times ten to the negative
+
+03:32.910 --> 03:39.940
+thirty one for an electron the acceleration we just calculated one point eight times ten to the 14 a
+
+03:40.040 --> 03:44.550
+lot of different orders of magnitude here you have to deal with and the charge of the electron I know
+
+03:44.550 --> 03:51.270
+is one point six times tend to the negative 19 this is a good exercise to use your calculator and hopefully
+
+03:51.270 --> 03:51.870
+you get it right.
+
+03:51.870 --> 03:58.330
+I think I got 1024 and I would write that a nuance for cool on all right.
+
+03:58.330 --> 04:00.310
+So this is the question.
+
+04:00.310 --> 04:02.710
+B In the last one now find the speed.
+
+04:03.190 --> 04:06.340
+OK so how fast is it moving now once it hits the other side.
+
+04:06.340 --> 04:08.460
+It started from rest right.
+
+04:08.490 --> 04:13.690
+So v zero is equal to zero but it's been accelerating now for a long time.
+
+04:13.720 --> 04:20.260
+So for part c again I'm gonna go back to my good old faithful Kitimat ex because I know basically everything
+
+04:20.260 --> 04:21.510
+about it.
+
+04:21.640 --> 04:28.340
+One other key nomadic equation which you might know is this one the square that gives me the speed.
+
+04:28.570 --> 04:34.260
+V not squared plus two times the acceleration multiplied by the displacement.
+
+04:34.940 --> 04:38.160
+OK so I guess what I'm gonna do here.
+
+04:38.180 --> 04:39.880
+This initial velocity is zero.
+
+04:40.360 --> 04:44.350
+So all you have to do here at the end is simply take the square root of both sides and you're gonna
+
+04:44.350 --> 04:47.430
+get an expression for the final speed.
+
+04:47.660 --> 04:49.870
+All right going to put everything in the calculator again.
+
+04:49.910 --> 04:52.790
+Let me make this kind of big so I have to.
+
+04:52.900 --> 05:01.210
+This is one point eight times 10 to the 14 the large acceleration and the displacement is zero point
+
+05:01.210 --> 05:02.350
+zero three six.
+
+05:02.350 --> 05:05.190
+Don't forget to take the square root of this number at the end.
+
+05:05.260 --> 05:09.130
+So the final speed of this electron just before it hits the plate.
+
+05:09.160 --> 05:16.130
+I think I got three point six times tend to the six and that would be in meters per second.
+
+05:16.260 --> 05:18.790
+OK so this is a problem see right here.
+
+05:18.790 --> 05:21.640
+All right kind of a nice little cinematics problem just to end the exam.

@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00.440 --> 00:07.170
+Let me just highlight some language that's often used to characterize resisters or relationships.
+
+00:07.170 --> 00:14.070
+The graph here on the left hand side shows you a plot of voltage versus current for a particular resistance.
+
+00:14.070 --> 00:18.430
+Again this is what we call an Olmec resistor.
+
+00:18.540 --> 00:21.410
+Remember our here does not depend on the voltage.
+
+00:21.510 --> 00:23.160
+R does not depend on the current.
+
+00:23.160 --> 00:33.730
+You simply get a linear relationship here and R is equal to over I and that's it.
+
+00:33.740 --> 00:41.460
+You're going to get the same value irrespective of which point you pick on this curve.
+
+00:41.480 --> 00:47.420
+Now the graph here on the right hand side this refers to a non omic anything that is not a straight
+
+00:47.420 --> 00:56.060
+line that goes through the origin refers to as a non omic at any point along this orange curve.
+
+00:56.360 --> 01:00.890
+You can calculate what a resistances I can go over here.
+
+01:01.100 --> 01:03.030
+I can look at what the voltage reading is.
+
+01:03.050 --> 01:09.050
+I can look at what the current is and I could say that the resistance at this value is given by V over
+
+01:09.050 --> 01:10.170
+I.
+
+01:11.390 --> 01:20.120
+Sometimes you can set a slope equal to that point however you notice here that if I use this point or
+
+01:20.120 --> 01:27.260
+if I use this point I'm actually going to get a different value for the resistance and that is because
+
+01:27.320 --> 01:34.560
+in this case the resistance is not independent of voltage and current.
+
+01:34.620 --> 01:40.590
+So this is what is referred to as a non omic for the materials that we're basically going to look at
+
+01:40.590 --> 01:44.600
+or really going to focus our attention in this class on omic cases.
+
+01:44.760 --> 01:50.090
+But non-OEM cases could be diodes could be semiconductors.
+
+01:50.100 --> 01:56.450
+In any case where this this line here this relationship is not a straight line.

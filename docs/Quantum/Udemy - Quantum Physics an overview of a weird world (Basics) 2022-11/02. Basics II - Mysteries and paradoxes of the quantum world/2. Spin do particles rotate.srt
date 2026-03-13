@@ -1,0 +1,895 @@
+WEBVTT
+
+00:00.640 --> 00:09.280
+In quantum mechanics, one is usually more concerned with single particles or many particle systems
+
+00:09.280 --> 00:11.500
+than with extended bodies.
+
+00:12.730 --> 00:17.530
+So what about elementary particles like electrons?
+
+00:17.950 --> 00:27.790
+When it comes to the notion of the angular momentum, it is not difficult to extend the notion of the
+
+00:27.790 --> 00:34.730
+orbital angular momentum of a material particle having a mass like, for example, the electron.
+
+00:34.870 --> 00:45.310
+In the case we conceived of it in Bors atomic model as a particle flying around the atoms nucleus.
+
+00:47.070 --> 00:56.490
+This conception is dubious enough because we should actually have in mind the atomic orbital model not.
+
+00:57.960 --> 01:06.750
+Borse atomic model, but the orbital atomic model that in any event, so far, this picture of reality,
+
+01:06.750 --> 01:11.030
+that, of course, atomic model to some degree still works.
+
+01:12.330 --> 01:20.060
+And here the orbital angular momentum of the electron can be defined as the product of its mass times
+
+01:20.160 --> 01:28.500
+velocity at which we imagine, believe it to orbit the nucleus times, the orbital distance from it
+
+01:29.430 --> 01:35.720
+according to the formula we have defined in the previous lecture.
+
+01:37.520 --> 01:46.300
+However, this is where the analogies to the classical world, uh, finish, they they end here.
+
+01:47.780 --> 01:57.230
+In fact, what about the spin that is what in quantum mechanics is called the the intrinsic angular
+
+01:57.230 --> 02:06.350
+momentum of a particle rotating around an axis that goes through its center, as in the case of the
+
+02:06.350 --> 02:06.710
+earth?
+
+02:08.210 --> 02:16.430
+The problem is this analogy analogy breaks down because we think of so-called elementary particles as
+
+02:16.430 --> 02:19.100
+a mathematical point like objects.
+
+02:20.330 --> 02:26.630
+Thus, it becomes somewhat unclear what the spin of a points structure should mean at all.
+
+02:27.610 --> 02:36.880
+What is a point that spins around itself into it intuitively and even mathematically, it doesn't make
+
+02:36.880 --> 02:37.700
+much sense.
+
+02:38.920 --> 02:42.970
+So either electrons are not point like.
+
+02:43.690 --> 02:52.810
+But no experiment has so far revealed any internal structure, at least not as of 2019, where I'm speaking
+
+02:52.810 --> 02:53.080
+now.
+
+02:54.910 --> 03:02.740
+Or we must consider the notion of the spin of particles in quantum mechanics as something that must
+
+03:02.740 --> 03:05.770
+not be viewed as we do intuitively.
+
+03:06.330 --> 03:07.780
+The macroscopic scale.
+
+03:08.860 --> 03:15.550
+For this reason, in quantum mechanics, one more loosely speaks of particles carrying an intrinsic
+
+03:15.730 --> 03:23.320
+momentum, intrinsic angular momentum or spin simply without suggesting literally the the image of a
+
+03:23.320 --> 03:26.650
+spinning sphere, as in a classical theory.
+
+03:28.590 --> 03:36.810
+And yet we know that even elementary particles, such electrons or protons and neutrons, well, protons
+
+03:36.810 --> 03:42.450
+and neutrons are not really elementary because we know nowadays they are composed of so-called quarks.
+
+03:42.970 --> 03:50.100
+But in any event, that also these particles have a tiny but measurable spin.
+
+03:51.510 --> 03:57.030
+Can the spin of a particle as tiny as an electron be measured?
+
+03:58.290 --> 04:00.930
+The answer is positive and even surprising.
+
+04:01.710 --> 04:06.900
+It is possible to measure and associate a spin to elementary particles.
+
+04:07.800 --> 04:17.310
+The interesting point is that as we saw energy being quantized in quantum mechanics, the spin also
+
+04:17.670 --> 04:21.390
+of particles, this also turns out to be quantized.
+
+04:23.010 --> 04:30.870
+Nature allows only discrete, not continuous quantities of intrinsic angular momentum spin.
+
+04:31.110 --> 04:37.050
+Therefore, in quantum mechanics is a quantized dynamical property of all particles.
+
+04:38.960 --> 04:44.730
+How physicists reached this conclusion will be elucidated now.
+
+04:44.750 --> 04:51.840
+We will explain this now with the so-called Stand Galla experiment.
+
+04:53.030 --> 04:59.840
+It is easier to understand how this works if we first introduce some basics and anticipate some of the
+
+04:59.840 --> 05:00.530
+results.
+
+05:02.770 --> 05:11.590
+For elementary particles, the spin has only two possible values if we take as a convention the vertical
+
+05:11.590 --> 05:22.510
+axis being the upward set axis, we can show experimentally that, say, an electron or a photon has
+
+05:22.510 --> 05:30.820
+only two possible spins along that axis, a fixed specific amount of spin up or spin down states.
+
+05:32.080 --> 05:39.880
+We will never, ever observe the electron having other amounts of spin and being directed towards another
+
+05:39.880 --> 05:41.260
+direction in between.
+
+05:43.100 --> 05:50.630
+Or if you would like to stick to the classical intuitive understanding, elementary particles rotate
+
+05:50.630 --> 05:58.610
+clockwise or counterclockwise around an axis, always with the same angular frequency.
+
+06:01.700 --> 06:08.480
+What must be added to this picture is the fact that we should not forget that several particles like
+
+06:08.480 --> 06:14.230
+electrons and protons are electrical, electrically charged particles.
+
+06:14.390 --> 06:21.260
+They have an electric charge where neutrons and not the fact as such.
+
+06:21.410 --> 06:28.760
+But internally, the internal structure of a neutron is made of quarks again, and these have an electric
+
+06:28.760 --> 06:29.200
+charge.
+
+06:29.210 --> 06:35.450
+So from the outside, a neutron is seen as not being electric charge.
+
+06:35.450 --> 06:36.500
+But this is another matter.
+
+06:36.530 --> 06:38.750
+Let's focus on electrons.
+
+06:38.750 --> 06:43.750
+Eventually they all possess an equal.
+
+06:44.180 --> 06:54.050
+So electrons, protons possess an equal tiny charge, which is also taken as the elementary electric
+
+06:54.050 --> 07:08.060
+charge leveled with a small letter E which amounts to E equals one point six to a six seven two times
+
+07:08.510 --> 07:19.970
+the power of ten to the minus 19 km where the letter C stands in fact for Coulomb and is the standard
+
+07:19.970 --> 07:23.150
+international unit for the electric charge.
+
+07:24.530 --> 07:31.490
+This is the number E should not be confused with the oil, a number, which is a completely different
+
+07:31.490 --> 07:37.020
+thing, of course, at this elementary charge.
+
+07:37.370 --> 07:39.530
+Is an extremely small charge.
+
+07:40.160 --> 07:48.260
+For example, a typical household electric device, say, is more lamp that works with an electric current
+
+07:48.260 --> 07:49.400
+of one ampere.
+
+07:50.420 --> 07:53.660
+Ampere stands for a.
+
+07:55.450 --> 08:02.400
+For the unit of the intensity of an electric current that you probably have also noticed in your household
+
+08:02.670 --> 08:05.730
+as something of the order of six times.
+
+08:07.400 --> 08:18.890
+Ten to the power, 18, 18, which means six quintillion electrons, six billions of billions of electrons
+
+08:18.890 --> 08:25.280
+per second flowing through this, the secretary of the small lamp.
+
+08:26.150 --> 08:32.960
+So you can imagine that the charge and the end of an electron and the electron itself is an extremely
+
+08:33.200 --> 08:34.650
+small object.
+
+08:35.570 --> 08:43.310
+However, despite its small value, the electric charge of an electron can be measured using relatively
+
+08:43.310 --> 08:48.810
+simple consideration and consideration and experimental arrangements.
+
+08:49.010 --> 08:58.580
+Well, not so simple, but they believe this could be already measured in the beginning of the first
+
+08:58.580 --> 09:01.460
+of the last half of the last century.
+
+09:01.730 --> 09:11.480
+In fact, electrically charged particles produce an electric field in the surrounding space around an
+
+09:11.480 --> 09:13.710
+electric charge, their electric field.
+
+09:13.790 --> 09:17.000
+Otherwise the definition you would not have an electric charge.
+
+09:17.300 --> 09:26.360
+And this interacts with other charged particles or also with other magnetic fields.
+
+09:27.890 --> 09:34.640
+These electric fees are graphically shown with the field lines in case of a positive charge.
+
+09:35.180 --> 09:42.230
+Uh, the lines are directed outwards and for negative charges inward.
+
+09:43.500 --> 09:53.550
+The stronger a field is in general and is, the denser the field lines are represented also for other
+
+09:53.550 --> 09:58.480
+types of fields like the magnetic fields, the gravitational field or whatever.
+
+10:00.330 --> 10:07.980
+Just to add another example, similarly for the interaction of two positive electric charges, one obtains
+
+10:08.490 --> 10:09.930
+pictures like these.
+
+10:11.040 --> 10:15.920
+These are, however, only pictorial representations.
+
+10:15.930 --> 10:21.450
+You must not consider these lines as being really existing objects out there.
+
+10:22.110 --> 10:29.760
+They just represent the intensity and of the field and the direction in which the forces of these fields
+
+10:30.510 --> 10:30.950
+act.
+
+10:31.710 --> 10:39.840
+They are, however, in any case and aid for our mind to represent the strength and structure of a field.
+
+10:41.910 --> 10:46.480
+Electric charges are also themselves the source of magnetic fields.
+
+10:47.610 --> 10:56.130
+In fact, it is a simple law of nature that every moving electrically electrically charged particle
+
+10:56.490 --> 11:00.090
+always produces a corresponding magnetic field.
+
+11:01.560 --> 11:08.430
+For example, also a cable through which an electric current that is electrons flow will also manifest
+
+11:08.430 --> 11:09.400
+a magnetic field.
+
+11:10.770 --> 11:14.610
+This is always true and is fundamental, a fundamental physics.
+
+11:14.610 --> 11:21.870
+Wherever electric particles travel throughout space or through a conductor, there will always produce
+
+11:21.870 --> 11:22.910
+a magnetic field.
+
+11:24.540 --> 11:33.690
+The construction of electromagnets, for example, relies on this principle, a loop of electric current,
+
+11:33.900 --> 11:42.690
+a bar magnet, an electron, a molecule, and the planet always have magnetic moments as they all contain
+
+11:42.690 --> 11:47.390
+in one form or another, circulating electric charges.
+
+11:48.970 --> 11:56.860
+This is something we imagine also happening with the earth's magnetic field, the earth's interior must
+
+11:56.860 --> 12:05.350
+contain a huge amount of magma, of hot currents, of magma fluid, which is electrically charge charged,
+
+12:06.430 --> 12:14.170
+and therefore its movement around the earth's axis causes the earth, the Earth's magnetic field, to
+
+12:14.170 --> 12:14.680
+build up.
+
+12:16.840 --> 12:24.820
+However, the interesting point is that also the opposite is true as well, wherever a magnetic field
+
+12:25.210 --> 12:27.100
+changes in time.
+
+12:28.050 --> 12:30.420
+An electric field will appear.
+
+12:31.400 --> 12:38.150
+This is what we already hinted at when discussing the nature of light as an oscillating electromagnetic
+
+12:38.150 --> 12:45.530
+field, and it is at the foundation of Maxwell's equations.
+
+12:47.420 --> 12:56.990
+Therefore, an electrically charged spinning object is also expected to display some magnetic field
+
+12:57.920 --> 13:01.130
+as it is a charge in rotation rotational movement.
+
+13:03.020 --> 13:12.320
+And because only to fix spin states are possible, the result is also that only two magnetic moments
+
+13:13.220 --> 13:19.250
+with the magnetic field lines directed in one or the other direction, according to the Spin's, particle
+
+13:19.250 --> 13:21.860
+orientations are possible.
+
+13:23.390 --> 13:30.080
+The magnetic moment of a magnet is a physical quantity that tells us how strong the magnet is, more
+
+13:30.080 --> 13:37.940
+precisely, it is a vector quantity which determines the talk to you that the magnet here, the particle
+
+13:38.420 --> 13:44.900
+will experience in the presence of another external external magnetic field.
+
+13:45.700 --> 13:54.910
+Say some produced in the laboratory with electromagnets, and if we can measure a particles magnetic
+
+13:54.910 --> 14:02.710
+moment, we can be sure that it possesses a spin and therefore we can evaluate its magnitude.
+
+14:04.600 --> 14:12.280
+Of course, because the spins of quantum objects are quantized, the same must hold for its magnetic
+
+14:12.280 --> 14:12.730
+moment.
+
+14:13.780 --> 14:22.090
+Electrons and protons therefore have only two magnetic moments due to their corresponding spin as equals
+
+14:22.090 --> 14:28.930
+plus minus half one half, which are accordingly labelled as M.
+
+14:28.930 --> 14:36.940
+S equals plus minus one half Y half integers and not plus minus one.
+
+14:37.570 --> 14:39.460
+Well, we will see this later.
+
+14:41.690 --> 14:50.780
+This approach, this is precisely this is an experimental approach is precisely what in 1922, the German
+
+14:50.780 --> 14:57.980
+physicists, Otterton and Walter Gaila were able to demonstrate.
+
+14:59.200 --> 15:06.820
+In particular, they showed they showed this, first of all, on Adams and Silver items, but this can
+
+15:06.820 --> 15:14.470
+be used also to this day that they are technique, I mean, can be used also to show the existence of
+
+15:14.800 --> 15:20.160
+intrinsic angular momentum, of momentum of single particles.
+
+15:21.490 --> 15:28.720
+This D'Angela experimental set up from now on, let's just label it as G.
+
+15:29.050 --> 15:34.990
+O or S.G. experimental setup was constructed as follows.
+
+15:37.540 --> 15:40.840
+They sent a beam of silver atoms and they said.
+
+15:41.920 --> 15:51.810
+Previously prepared in a source of head at hot items, in that case using a furnace and column column
+
+15:51.830 --> 16:01.870
+into the beam of outcoming atoms by Haslet sending it through and in homogeneous magnetic field created
+
+16:01.870 --> 16:09.760
+by magnets that had a special form and orientation of the sort seen in this figure here.
+
+16:11.540 --> 16:19.850
+The choice of silver atoms was due only to practical considerations, silver atoms are easier to handle
+
+16:19.850 --> 16:24.000
+and have only one unpaired electron and the outer atomic shell.
+
+16:24.680 --> 16:33.380
+Why the electric and magnetic properties due to all the other inert electrons are canceled out mutually
+
+16:33.960 --> 16:38.930
+will explain this further when we are dealing with the Pauli exclusion principle.
+
+16:40.190 --> 16:47.540
+Therefore, the measurement of the magnetic momentum of a solar silver atom reduces to that of one single
+
+16:47.540 --> 16:49.250
+outer shell electron.
+
+16:51.290 --> 17:00.440
+Now, when an atom or a particle or whatever object that has a magnetic moment is sent through an inner
+
+17:00.440 --> 17:10.070
+homogeneous magnetic field, it experiences a force and therefore is deviated in one or the other direction,
+
+17:10.400 --> 17:14.450
+relatively relative to the poles of the magnet.
+
+17:14.990 --> 17:23.660
+That is relative to the direction of the magnetic lines and according to the orientation of its own
+
+17:23.660 --> 17:25.010
+magnetic moment.
+
+17:26.890 --> 17:36.430
+It is quite intuitive to understand why this must be so, just as a couple of magnets must repel or
+
+17:36.430 --> 17:37.780
+attract each other.
+
+17:38.800 --> 17:49.990
+The stangl, the the S.G. magnet and the particles or atoms which are also tiny magnets, must mutually
+
+17:50.290 --> 17:59.110
+repel or attract each other according to the directions of their magnetic polarities.
+
+18:00.720 --> 18:07.920
+That is, if one sends the particle, which has a spin up, say, preconvention relative to the Z axis
+
+18:08.700 --> 18:16.860
+through the S.G. device with its north south magnetic poles directed along the that Z axis, it will
+
+18:16.860 --> 18:19.530
+be activated upwards.
+
+18:20.550 --> 18:25.350
+On the other hand, the spin down particle will be activated downwards.
+
+18:26.460 --> 18:34.800
+And if the magnetic moment of quantum particles is indeed quantized, in only two possible states,
+
+18:35.520 --> 18:43.980
+we will observe only an up or down deviation in the S.G. experiment, which must therefore create two
+
+18:43.980 --> 18:50.070
+distinct spots on a detecting screen that the particles strike.
+
+18:53.150 --> 19:01.280
+Otherwise, if the magnetic moment were continuous, that is would not be a discrete physical property
+
+19:01.280 --> 19:10.700
+of particles, the deviation of the S.G. magnets induced on the particles would also be continuous,
+
+19:11.510 --> 19:18.120
+producing instead a continuous line on the detection screen, as expected by classical physics.
+
+19:20.000 --> 19:27.410
+This was a conceptually simple method of showing that atoms and particles indeed possess a quantized,
+
+19:27.410 --> 19:33.470
+intrinsic, angular momentum, Stan and Galla observed.
+
+19:33.920 --> 19:41.480
+Always and only the binary possibility, the binary outcome, not the expected classical results.
+
+19:43.040 --> 19:49.730
+What they showed with this is that the quantization quantization of spin is not simply speculation,
+
+19:49.970 --> 19:53.630
+but an established experimental fact.
+
+19:56.160 --> 20:05.070
+Before we discuss other interesting discoveries one can make with devices, let us fix this first result
+
+20:05.160 --> 20:11.040
+with the Dirac Dirac notation we discussed in the lecture on the State Vector's.
+
+20:12.870 --> 20:20.280
+The two possible spin states could be labeled with the cat plus and minus symbols.
+
+20:21.890 --> 20:29.450
+If not further specified, it is convention usually to assume that these states are measured against
+
+20:30.440 --> 20:36.140
+whatever axis or the standard that axis of the laboratory.
+
+20:38.420 --> 20:44.810
+Just for the record, keep in mind that in the literature, you might find also other symbolic conventions
+
+20:44.810 --> 20:55.880
+like these, the plus minus get as that or Keat as that semicolon plus minus and so on, especially
+
+20:55.880 --> 21:01.630
+when it is important to distinguish them from the other X and Y directions.
+
+21:02.030 --> 21:11.110
+And we will use the first ones, however, because there is no universal standard convention, uh,
+
+21:11.300 --> 21:20.630
+in this regard, please learn to be flexible enough to read the symbols that we use interchangeably
+
+21:20.630 --> 21:24.290
+according to the context and the literature.
+
+21:26.270 --> 21:33.260
+The important point in any in any in any case is to keep in mind here is that the Tangela experiments
+
+21:33.560 --> 21:41.520
+can easily show that the quantize character of the spin does not change, even with a change in the
+
+21:41.540 --> 21:44.540
+direction along which the measurement is taken.
+
+21:45.620 --> 21:53.840
+Whatever axis you choose in a three dimensional space, you will always get as a result of the measurement,
+
+21:53.840 --> 21:55.420
+a spin up or spin down.
+
+21:55.700 --> 21:56.560
+That means a.
+
+21:57.500 --> 22:03.780
+Kate, plus or minus particle, as strange as that might seem.
+
+22:04.520 --> 22:11.720
+The fact is, in the quantum world, there is no longer such a thing that can mostly worry its spinning
+
+22:11.720 --> 22:20.090
+direction, interpretation of speed as we imagine it, for example, with spinning top or spinning billiard
+
+22:20.090 --> 22:20.410
+balls.
+
+22:21.210 --> 22:27.170
+Instead, we have a quantum objects, which once a direction has been chosen.
+
+22:28.440 --> 22:34.570
+Can acquire or display only two possible spin states along that direction.
+
+22:35.280 --> 22:36.450
+Nothing in between.
+
+22:38.750 --> 22:47.420
+In physics, one formalizes this with an elegant formalism that puts all three Igen states, that is
+
+22:47.420 --> 22:53.990
+the spin state vector's along a preferred that axis into one single description.
+
+22:55.740 --> 23:02.010
+For the sake of simplicity, let us restrict ourselves to the that explain.
+
+23:03.590 --> 23:11.780
+Define a spin up and spin down along that that axis, as with the formalism reminiscent of vectors on
+
+23:11.780 --> 23:21.500
+a Cartesian Cartesian two dimensional plane as this one here where you have a dead cat plus equals a
+
+23:21.500 --> 23:23.270
+vector or.
+
+23:24.460 --> 23:34.880
+Something that we will now call Spiner one zero and that Kate minus equals at zero zero one Spiner.
+
+23:35.410 --> 23:42.910
+These are not really vectors and that's why they are called Spinous to distinguish them from the usual
+
+23:43.270 --> 23:45.090
+Cartesian vectors.
+
+23:46.180 --> 23:54.760
+In fact, note that these are not the Baz's vectors of the Cartesian two dimensional plane you learned
+
+23:54.760 --> 24:08.050
+about in school, or as we have also repeated for you, for you in the appendix videos of this course,
+
+24:09.280 --> 24:16.530
+because these were one zero for the Baz's vector along the x axis and zero one for the basis vector
+
+24:16.540 --> 24:18.700
+along the Y axis here.
+
+24:18.720 --> 24:27.880
+Instead, we are not speaking about a geometrical directions in space, but these represent directional
+
+24:27.910 --> 24:31.780
+spin directions in not a.
+
+24:33.070 --> 24:41.710
+Geometrics, three dimensional space that we live in with, we perceive with our senses, but so to
+
+24:41.710 --> 24:46.390
+speak, in a spin Spiner space.
+
+24:48.060 --> 24:54.210
+We are going to see later that spiders are quite different objects, therefore, and require a different
+
+24:54.210 --> 25:01.130
+treatment, that is to obey, they they obey other algebraic rules.
+
+25:03.120 --> 25:12.000
+The amount of intrinsic angular momentum or the spin can also be measured, one can relate it to the
+
+25:12.000 --> 25:17.820
+separation of the two spots on on the Stanzler screen.
+
+25:19.520 --> 25:31.490
+And it turns out that it is equal to plus minus each bar, half each bar being as usual, Planck's constant
+
+25:32.060 --> 25:34.880
+divided by two times pi.
+
+25:36.320 --> 25:43.280
+In fact, Planck's constant has the dimension of an angular momentum, by the way, if you consider
+
+25:43.280 --> 25:52.550
+that it is a value of the order of 10 to the PI, to the power minus 34 jowls per second.
+
+25:53.610 --> 26:00.240
+When we recall what we have said in the section on the black body radiation, we realize that it is
+
+26:00.240 --> 26:05.450
+an incredibly small but not zero amount of angular momentum.
+
+26:08.000 --> 26:15.950
+We have also seen how if a measurement on a particle takes place, this is represented in mathematical
+
+26:15.950 --> 26:25.550
+abstract terms by operators that we called observables acting in a Hilbert space on vector states.
+
+26:26.330 --> 26:29.480
+That is the case in the direct notation.
+
+26:30.260 --> 26:39.350
+On that occasion, we describe the measurement process by means of an operator Igen equation with an
+
+26:39.350 --> 26:43.450
+eigenvalue representing the measurement, the measured quantity.
+
+26:44.450 --> 26:47.900
+Go back to the previous one of the previous lecture.
+
+26:47.900 --> 26:55.760
+We have clarified this because the spin is a physical, measurable quantity it must have associated.
+
+26:55.760 --> 26:59.840
+Operator in this case it is the spin operator.
+
+27:00.680 --> 27:02.600
+Capital Letter S.
+
+27:03.920 --> 27:12.560
+A spin operator is also defined along one of the three dimensions of space, again, usually that directed
+
+27:12.560 --> 27:15.590
+along that axis as as Seth.
+
+27:17.690 --> 27:27.200
+And however, there is no reason to restrict ourselves to the measurement along one axis, three possible
+
+27:27.200 --> 27:30.990
+spinning directions exist in a three dimensional space.
+
+27:31.520 --> 27:40.460
+We can therefore also consider measuring the spin of an object along the other two X or Y spinning axis
+
+27:40.700 --> 27:47.570
+with associated operators as X and as Y, respectively.
+
+27:49.120 --> 27:55.820
+Recall that in quantum mechanics, every act of measurement represented by an operator, the observable,
+
+27:55.840 --> 28:03.190
+the observable of the physical property measured acts on a wave function or state vector and delivers
+
+28:03.190 --> 28:12.490
+the eigenvalue the quantity one measures through the eigenvalue equation translated in.
+
+28:13.510 --> 28:22.030
+To the spin, uh, turns, if the particle is in an Afghan state, the same state which will always
+
+28:22.030 --> 28:29.890
+turn out to be even after repeated measurements, the spin operator is acting on the eigenvector of
+
+28:29.890 --> 28:32.400
+an electron in a spin up or spin down.
+
+28:32.590 --> 28:42.970
+Can state therefore get plus minus the spin measurement of the Gallet device, for example, for all
+
+28:42.970 --> 28:46.810
+three axis is represented, as we have shown here.
+
+28:48.060 --> 28:54.000
+The measurement process along the Z axis is written with the operator as.
+
+28:55.000 --> 28:55.840
+As that.
+
+28:56.740 --> 29:08.530
+These operators that acting on the eigenvector that got caught plus and resulting in a plus h ba eigenvalue.
+
+29:09.450 --> 29:18.630
+The result of the measurement times that that get plus a vector itself, the same holds for the particles
+
+29:18.630 --> 29:26.850
+in spin down state both but with the opposite side and so on, measuring making the same measurement
+
+29:26.850 --> 29:31.410
+along the X axis is the same thing in principle only.
+
+29:31.710 --> 29:39.540
+You have to remember that you are using another observable, namely you are making a different measurement
+
+29:39.540 --> 29:40.410
+than that.
+
+29:40.620 --> 29:48.690
+But you're making a measurement with the operator as X onto a particle along X direction.
+
+29:48.700 --> 29:58.260
+Therefore you're presented with operator s X acting on the X Kate plus minus vector, which again as
+
+29:58.500 --> 30:06.740
+being an eigenvalue equation, results in plus minus eight times the same vector and so on also for
+
+30:06.750 --> 30:09.060
+the x y axis and so on.
+
+30:11.440 --> 30:18.250
+However, generally speaking, the outcome is not known, and the probability of finding the particle
+
+30:18.250 --> 30:25.480
+in one or the other state is usually 50 percent if it is not in an angry state.
+
+30:27.250 --> 30:33.610
+We have learned that the probability of finding the system in a specific igan state is encoded in the
+
+30:33.640 --> 30:41.680
+in the coefficients of the state vector, which contains all the possible states in which a system can
+
+30:41.680 --> 30:41.940
+be.
+
+30:43.060 --> 30:47.020
+Therefore, the spin state of an electron is written.
+
+30:47.410 --> 30:52.730
+The spin the vector state is a quantum vector state of.
+
+30:54.600 --> 31:03.180
+Particle like an electron in a specific, non determined spin state, which is not the Igan State spin
+
+31:03.180 --> 31:06.360
+state, is written as follows.
+
+31:06.980 --> 31:11.080
+And here we omit for sake of simplicity the axis level.
+
+31:11.310 --> 31:14.160
+Just imagine them according to one direction.
+
+31:15.270 --> 31:15.900
+Um.
+
+31:16.970 --> 31:21.350
+Let us closely inspect the state vector equation, the cat.
+
+31:22.890 --> 31:29.170
+Sigh is not or not necessarily the state in which the particle is observed to be.
+
+31:30.270 --> 31:40.290
+It is a state before the measurement and comprises all possible outcomes, we might say that it describes
+
+31:40.290 --> 31:42.810
+a potentiality of realization.
+
+31:43.740 --> 31:51.960
+Because for an elementary particle like an electron, only two possible measurement outcomes exist for
+
+31:51.960 --> 32:00.900
+the spin states, namely the net plus or minus I can state and because there is no reason to believe
+
+32:00.900 --> 32:03.540
+that nature prefers one over the other.
+
+32:04.560 --> 32:07.500
+And in fact, measurements show that it is not.
+
+32:07.740 --> 32:15.780
+It is so they must both have an equal 50 percent probability of being measured.
+
+32:16.200 --> 32:18.480
+That is of being realized.
+
+32:19.110 --> 32:28.110
+It is an easy fact that one can determine by measuring how intense the spots on the screen are.
+
+32:31.610 --> 32:41.240
+So this probability is encoded in the coefficients one over the square to, in fact recall that the
+
+32:41.240 --> 32:48.380
+squared models of these coefficients furnishes us with the probability of observing one or the other
+
+32:48.650 --> 32:57.910
+associated igan states realized by the measurement process here, the model square of one over the square
+
+32:57.910 --> 33:06.260
+of two is just one half, which means zero point five and which means 50 percent each.
+
+33:07.480 --> 33:13.750
+These coefficients, that is the model, the square of one over the square root of two.
+
+33:14.410 --> 33:20.930
+They are summed up together because before the measurement, we do not know which of the two will emerge.
+
+33:21.160 --> 33:25.120
+And in quantum mechanics, you imagine that both.
+
+33:26.040 --> 33:26.790
+State's.
+
+33:28.030 --> 33:36.220
+Are in potential of existence, so to speak, and to be realized, but only at a time where you make
+
+33:36.220 --> 33:42.370
+your measurement, that is only at the time where you apply your operator?
+
+33:42.790 --> 33:49.350
+S capital letter s on the eigenvector get BPCI.
+
+33:51.560 --> 33:58.490
+In general, the igan equation for spin, for the spin of the quantum system can be described by this
+
+33:58.490 --> 34:00.410
+more general agan equation.
+
+34:02.950 --> 34:10.600
+These equations with its coefficients are one of the most typical equations you will find in most every
+
+34:10.600 --> 34:18.520
+treatise on quantum physics and will follow us throughout this journey in one form or another.
+
+34:18.970 --> 34:27.580
+So with these fundamentals in mind, we can discuss other revealing experiments that one can perform
+
+34:27.820 --> 34:30.910
+with Stan Galla devices.

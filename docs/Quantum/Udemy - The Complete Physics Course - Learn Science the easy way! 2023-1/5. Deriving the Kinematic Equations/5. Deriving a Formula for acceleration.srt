@@ -1,0 +1,183 @@
+1
+00:00:00,120 --> 00:00:05,910
+Now we're going to sidestep a little bit, notice that the motion diagram, it looks a little bit different
+
+2
+00:00:05,910 --> 00:00:06,250
+now.
+
+3
+00:00:06,510 --> 00:00:10,670
+Notice that we actually do have our velocity over here over time.
+
+4
+00:00:10,950 --> 00:00:14,430
+And now we actually do have our velocity changing.
+
+5
+00:00:14,640 --> 00:00:17,210
+Before our velocity was just constant.
+
+6
+00:00:17,220 --> 00:00:19,410
+It just moved horizontally.
+
+7
+00:00:19,560 --> 00:00:21,630
+Now we actually do have it changing.
+
+8
+00:00:22,230 --> 00:00:25,590
+OK, so we're just going to do the same thing that we did before.
+
+9
+00:00:25,710 --> 00:00:29,570
+We're going to find the slope of this velocity over time graph.
+
+10
+00:00:29,790 --> 00:00:31,650
+And where does it go from there?
+
+11
+00:00:31,710 --> 00:00:32,040
+All right.
+
+12
+00:00:32,050 --> 00:00:37,200
+So we have these numbers should make sense considering what we've learned in the past.
+
+13
+00:00:37,620 --> 00:00:41,520
+And so this is equal to six over one.
+
+14
+00:00:43,610 --> 00:00:47,990
+In our units, it's meters per second per second.
+
+15
+00:00:50,110 --> 00:00:53,580
+So meters per second, per second.
+
+16
+00:00:54,540 --> 00:00:57,060
+And usually I do right, the SCC.
+
+17
+00:00:58,790 --> 00:01:02,120
+OK, so what is this actually telling us here?
+
+18
+00:01:02,150 --> 00:01:04,850
+What is what are these units actually mean?
+
+19
+00:01:06,220 --> 00:01:16,660
+So this is basically saying for every second the objects of velocity changes by six meters per second.
+
+20
+00:01:17,410 --> 00:01:24,640
+OK, so this is saying once again, let me just reread this for every once in the objects and velocity
+
+21
+00:01:24,640 --> 00:01:26,810
+changes by six meters per second.
+
+22
+00:01:27,100 --> 00:01:31,510
+What this is basically describing to us is actually an acceleration.
+
+23
+00:01:32,470 --> 00:01:35,770
+An acceleration is a change in velocity.
+
+24
+00:01:38,810 --> 00:01:41,420
+Over a certain amount of time.
+
+25
+00:01:42,290 --> 00:01:47,840
+Now, let me ask you this, when you are in the car with somebody and you're you're thinking to yourself,
+
+26
+00:01:47,860 --> 00:01:51,650
+I know what, this person's going a little too slow, he needs to speed up.
+
+27
+00:01:52,160 --> 00:01:53,450
+How do you actually go about saying that?
+
+28
+00:01:54,110 --> 00:01:57,520
+You basically say to them, hey, you need to accelerate.
+
+29
+00:01:58,010 --> 00:02:00,920
+And basically what you're saying is you need to change your velocity.
+
+30
+00:02:00,930 --> 00:02:04,250
+You need to go faster in a quick amount of time.
+
+31
+00:02:04,520 --> 00:02:09,260
+And that's basically what you're saying, hey, an acceleration, you need to accelerate or you can
+
+32
+00:02:09,260 --> 00:02:13,040
+actually say to yourself, hey, Noah, I think that my friend's going a little too, too fast right
+
+33
+00:02:13,040 --> 00:02:16,160
+now, considering the speed limit and they need to slow down.
+
+34
+00:02:16,700 --> 00:02:17,630
+How do you go about saying that?
+
+35
+00:02:17,870 --> 00:02:19,810
+Oh, you need to decelerate.
+
+36
+00:02:19,940 --> 00:02:20,990
+You need to go slower.
+
+37
+00:02:21,200 --> 00:02:22,310
+And that's what you're doing.
+
+38
+00:02:22,310 --> 00:02:25,880
+You're changing your velocity over a certain amount of time.
+
+39
+00:02:26,330 --> 00:02:30,590
+Now, once again, I'm actually just going to do right now is looking at this.
+
+40
+00:02:30,590 --> 00:02:32,730
+I'm just going to rewrite this.
+
+41
+00:02:32,780 --> 00:02:34,430
+So what is this eight represent?
+
+42
+00:02:34,670 --> 00:02:37,490
+Oh, that is our final velocity.
+
+43
+00:02:39,040 --> 00:02:40,330
+What is it to represent?
+
+44
+00:02:40,360 --> 00:02:42,820
+Oh, that's our initial velocity.
+
+45
+00:02:43,850 --> 00:02:49,040
+Divided by once again, I'm just going to write here instead of final time, this initial time, I'm
+
+46
+00:02:49,040 --> 00:02:55,550
+just going to represent that using R Delta T and this is our formula for acceleration.

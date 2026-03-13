@@ -1,0 +1,255 @@
+WEBVTT
+
+WEBVTT
+
+00:00.120 --> 00:03.660
+All right what I want to do now folks is look at a different geometry.
+
+00:03.770 --> 00:04.010
+OK.
+
+00:04.020 --> 00:04.950
+So we've looked at.
+
+00:04.950 --> 00:10.230
+If I have a positive point charge I can go everywhere in space and I could say well what's the electric
+
+00:10.230 --> 00:11.340
+field right here.
+
+00:11.460 --> 00:11.670
+Right.
+
+00:11.660 --> 00:16.290
+You could draw it draw an electric field vector and you can calculate its magnitude right as long as
+
+00:16.290 --> 00:18.230
+you know the distance right here.
+
+00:18.240 --> 00:24.630
+So here I would say it's simply k q over R squared and the direction of the vector if it's a positive
+
+00:24.630 --> 00:30.100
+point charge that's producing it the electric field points away from positive charges.
+
+00:30.160 --> 00:30.410
+Okay.
+
+00:30.430 --> 00:32.350
+Well now I have another question for you.
+
+00:32.400 --> 00:39.090
+What happens now if I have instead of one point charge if I have a large plate.
+
+00:39.540 --> 00:41.070
+So here's a large plate.
+
+00:41.260 --> 00:42.390
+Let's just call it like this.
+
+00:42.390 --> 00:46.030
+So it's just really a two dimensional plate.
+
+00:46.070 --> 00:47.060
+It has a little thickness.
+
+00:47.070 --> 00:48.300
+But let's just neglect that.
+
+00:48.300 --> 00:51.150
+So it's really two dimensional object.
+
+00:51.150 --> 00:58.350
+And what I'm going to do now is on this plate I am going to produce or say remove a whole bunch of electrons
+
+00:59.160 --> 01:03.180
+in such a way that this plate here becomes positively charged.
+
+01:03.320 --> 01:08.310
+They will just keep on drawing a few of them but there's a whole bunch of these individual point charges
+
+01:08.310 --> 01:15.120
+here but they're spread out kind of all over this two dimensional surface.
+
+01:15.120 --> 01:15.380
+All right.
+
+01:15.390 --> 01:17.840
+Imagine now I wanted to know well what it is.
+
+01:17.840 --> 01:21.660
+The if I just pick a direction here that's perpendicular to the plate.
+
+01:22.020 --> 01:27.480
+What is the direction of the electric field right here at some point that is above the plate.
+
+01:27.480 --> 01:30.690
+It could be some height h above the plate.
+
+01:30.780 --> 01:37.320
+Now again although I drew this little area right here again I'm assuming that this area is actually
+
+01:37.320 --> 01:38.950
+pretty large.
+
+01:40.980 --> 01:46.050
+So I'm just going to write these arrows just to tell you that it's kind of extended pretty large and
+
+01:46.050 --> 01:48.940
+I'm at a point that's close to the surface of the plate.
+
+01:49.080 --> 01:51.080
+Which direction with the electric field be it.
+
+01:51.620 --> 01:51.850
+OK.
+
+01:52.110 --> 01:57.750
+Well again you would use the equation for the point charges but you would have to add up all the contributions
+
+01:57.750 --> 01:59.530
+from all the point charges.
+
+01:59.550 --> 02:01.350
+For example I'd have to add this one.
+
+02:01.380 --> 02:07.060
+So this one here produces an electric field at the red point which is something like this.
+
+02:07.080 --> 02:11.650
+Now every time there is a point charge on this side there's going to be one on the other side.
+
+02:11.880 --> 02:13.130
+That's going to oppose it.
+
+02:13.240 --> 02:19.970
+It's going to produce it's its electric field in this direction at the end when we add those as vectors.
+
+02:20.060 --> 02:26.850
+Turns out that the electric field is only going to be pointing away from the plate if it's positively
+
+02:26.850 --> 02:27.830
+charged.
+
+02:27.860 --> 02:28.080
+Okay.
+
+02:28.110 --> 02:32.400
+Because every time you have a point charged on one side you'll always have another one on the other
+
+02:32.400 --> 02:32.750
+side.
+
+02:32.760 --> 02:38.970
+So there's can't be any contribution or any component of the electric fuel that's in the plane of the
+
+02:38.970 --> 02:40.490
+plate.
+
+02:40.490 --> 02:40.760
+OK.
+
+02:40.790 --> 02:42.960
+So let's just define a couple of things.
+
+02:43.020 --> 02:47.650
+First of all we have our area of the plate.
+
+02:47.700 --> 02:48.150
+What else.
+
+02:48.150 --> 02:50.820
+Well we want to know how much charge do we place on that plate.
+
+02:50.820 --> 02:51.940
+Is that a lot of charge.
+
+02:51.960 --> 02:53.480
+Is it a little bit of charge.
+
+02:53.490 --> 02:53.990
+OK.
+
+02:54.090 --> 02:55.520
+So I'm going to define something.
+
+02:55.620 --> 03:05.860
+There is something called Sigma Sigma is what we're going to call a surface charge density surface charge
+
+03:06.910 --> 03:13.630
+density and this quantity is important to calculate the electric field from the plate.
+
+03:14.380 --> 03:16.680
+The definition of this in terms of other variables.
+
+03:16.690 --> 03:26.770
+So a charge density is how much total charge do I have divided by the total area of the plate.
+
+03:27.320 --> 03:33.290
+Now this is important this quantity here because it's used to calculate the electric field produced
+
+03:33.290 --> 03:35.380
+by this object by this plate.
+
+03:35.870 --> 03:41.100
+So the electric field produced by this plate which I'm going to write here just using a purple E.
+
+03:41.120 --> 03:45.840
+Now we know the direction if it's positively charged the electric field points away from it.
+
+03:45.980 --> 03:48.880
+If it's negatively charged the electric fuel points toward it.
+
+03:48.910 --> 03:56.960
+So that convention hasn't changed the magnitude of the field produced by a charged plate it can be written
+
+03:56.960 --> 03:58.610
+some like this.
+
+03:58.610 --> 04:04.130
+Now have a look it's different from the point charged depend on this charge density and the rest of
+
+04:04.130 --> 04:07.980
+it depends on two Epsilon 0.
+
+04:08.750 --> 04:11.440
+Pretty simple equation.
+
+04:11.520 --> 04:16.590
+Now I just wrote the magnitude here of the electric field the direction of the electric field again.
+
+04:16.620 --> 04:17.790
+We know that.
+
+04:17.940 --> 04:23.360
+So notice here it doesn't actually depend on the distance H right.
+
+04:23.850 --> 04:25.090
+H was the point.
+
+04:25.140 --> 04:28.520
+How far away I was from that surface in here.
+
+04:28.560 --> 04:34.190
+This electric field the really important thing here is that it is a constant value.
+
+04:35.780 --> 04:40.890
+If it's a constant value it means it doesn't depend if you're close to the plate or a little bit farther
+
+04:40.890 --> 04:42.020
+away.
+
+04:42.090 --> 04:44.980
+Again we're assuming we have a really really large plate.
+
+04:45.120 --> 04:45.380
+All right.
+
+04:45.660 --> 04:50.360
+So let's have a look at this formula a little bit more detail now what we're gonna do is we're gonna
+
+04:50.400 --> 04:53.310
+place two of these plates next to each other.
+
+04:53.310 --> 04:58.590
+This is what we call parallel plates and let's look at the electric field produced by parallel plates.

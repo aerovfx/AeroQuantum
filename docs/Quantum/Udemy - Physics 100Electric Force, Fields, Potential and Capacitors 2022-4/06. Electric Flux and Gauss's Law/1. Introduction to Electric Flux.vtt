@@ -1,0 +1,252 @@
+WEBVTT
+
+WEBVTT
+
+00:00.190 --> 00:03.570
+ALL RIGHT NOW I WANT TO TALK ABOUT SOMETHING CALLED THE ELECTRIC FLUX.
+
+00:03.570 --> 00:03.780
+ALL RIGHT.
+
+00:03.780 --> 00:06.480
+THE ELECTRIC FLUX has a basic definition.
+
+00:06.600 --> 00:12.690
+We call it Fi and usually I put a little subscript E TO REMIND ME THAT I'M TALKING ABOUT THE ELECTRIC
+
+00:12.690 --> 00:13.700
+FLUX.
+
+00:13.770 --> 00:18.740
+First of all this is a scalar quantity so it's just the number.
+
+00:18.780 --> 00:24.410
+Having trouble here a scalar in it's defined in terms of two vectors.
+
+00:24.440 --> 00:30.110
+One of them is the electric field vector and it's a scalar product with an area vector.
+
+00:30.120 --> 00:31.580
+I'll get back to this in a minute.
+
+00:31.590 --> 00:37.170
+Let me just kind of write this down this here's a scalar product between two vectors
+
+00:39.990 --> 00:46.080
+if you want to write the scalar products slightly differently you can do it using just the definition
+
+00:46.080 --> 00:49.660
+of the scalar product and it ends up looking like the definition over here.
+
+00:50.080 --> 00:56.700
+OK so the flux is equal to the magnitude over here it's just the magnitude of the electric field.
+
+00:56.820 --> 01:04.320
+The magnitude of the area and theta here is actually the angle between the electric field and this area.
+
+01:04.320 --> 01:09.120
+So it's kind of a little bit of the talk about area in terms of a vector but let's do that in just a
+
+01:09.120 --> 01:10.980
+second here.
+
+01:10.980 --> 01:17.310
+You could see right here in the figure here that it's defined that if I have a square plate in this
+
+01:17.310 --> 01:25.560
+case if I take a direction that is perpendicular to the plane that's kind of what it says here.
+
+01:25.890 --> 01:28.020
+That is the direction of the area.
+
+01:28.560 --> 01:34.890
+So for example if I have a circular area here right here in the plane let me draw a set of coordinates
+
+01:34.890 --> 01:36.590
+just so we can kind of see something.
+
+01:36.590 --> 01:42.300
+So imagine this here was X Y and then that would make Z like in this direction.
+
+01:43.320 --> 01:44.580
+Okay.
+
+01:45.120 --> 01:47.820
+So the area for this particular circle.
+
+01:47.880 --> 01:51.560
+Well first of all I would have a particular radius.
+
+01:51.720 --> 01:53.240
+The magnitude of the area.
+
+01:53.250 --> 01:58.060
+How big is the area of that circle would be pi are squared.
+
+01:58.140 --> 01:59.210
+What about the direction.
+
+01:59.220 --> 02:04.040
+How would you define the direction of the area if I wanted to define it as a vector over here.
+
+02:04.050 --> 02:10.230
+Again you have to draw a vector that's perpendicular to the plane so perpendicular to the plane would
+
+02:10.230 --> 02:11.310
+be this direction.
+
+02:11.310 --> 02:16.320
+This would be the direction of the area and you could see right here at the perpendicular to the plane
+
+02:16.320 --> 02:18.120
+of that circle.
+
+02:18.180 --> 02:21.900
+So over here I would simply write it in the z direction.
+
+02:22.040 --> 02:22.330
+Okay.
+
+02:22.360 --> 02:28.140
+Knowing the direction is important because of this angle theta that angle theta is always the angle
+
+02:28.140 --> 02:31.730
+between the area of vector and the electric field vector right.
+
+02:31.740 --> 02:34.810
+You could see it right here in the figure.
+
+02:35.130 --> 02:40.950
+So the first definition I have here highlighted in green is for the case where you have a uniform electric
+
+02:40.950 --> 02:41.620
+field.
+
+02:41.670 --> 02:47.920
+In this case the electric field points from the left hand side all the way to the right hand side.
+
+02:48.600 --> 02:51.670
+And it's more or less constant everywhere.
+
+02:51.960 --> 02:55.850
+So the flux if you look at it it basically counts right.
+
+02:55.880 --> 03:03.610
+It's a number that is associated with the number of electric field lines that go through a certain surface.
+
+03:03.660 --> 03:07.050
+One more definition this here is actually an open surface.
+
+03:07.050 --> 03:09.710
+It's just one surface out in space.
+
+03:09.720 --> 03:13.750
+This is also an open surface.
+
+03:14.070 --> 03:19.980
+When we talk about something in the next lecture called Gauss is law we're gonna be interested in close
+
+03:19.980 --> 03:27.300
+surface a close surface would represent like a cube or a sphere for example something that has no holes
+
+03:27.300 --> 03:34.410
+in it that's completely closed an open surface would just represent one surface from a cube for example
+
+03:35.130 --> 03:39.920
+one of the walls of the cube that would represent an open surface All right.
+
+03:39.930 --> 03:47.910
+So this is our definition for electric flux and this is the case where E is uniform all we say is constant
+
+03:47.910 --> 03:48.440
+in space.
+
+03:48.450 --> 03:51.180
+So the definition is pretty straightforward.
+
+03:51.240 --> 03:57.480
+Now we've looked at point charges and maybe fields from wires or you're going to see later on fields
+
+03:57.480 --> 04:01.530
+from stacking a whole bunch of point charges on top of each other.
+
+04:01.650 --> 04:05.970
+In that case the field is not constant everywhere in space.
+
+04:05.970 --> 04:06.210
+All right.
+
+04:06.210 --> 04:11.220
+If you remember from point charges let's me just write it over here.
+
+04:11.220 --> 04:13.620
+Four point charge.
+
+04:13.620 --> 04:21.150
+My equation for the electric field a magnitude any way was k q divided by our squared and R was the
+
+04:21.150 --> 04:23.520
+distance from that point charge.
+
+04:23.520 --> 04:26.570
+You can see here that the field is not uniform.
+
+04:26.570 --> 04:31.680
+So actually the electric FLUX AND IF YOU WANTED TO CALCULATE THE ELECTRIC FLUX what you would need to
+
+04:31.680 --> 04:35.890
+do is really you'd have to integrate over the entire surface.
+
+04:35.940 --> 04:41.310
+So what you have to do is you have to take your surface and break it down into a whole bunch of smaller
+
+04:41.310 --> 04:42.760
+little slices.
+
+04:43.260 --> 04:49.050
+Each one of these little slices has an area and it also could have a direction right if that area is
+
+04:49.050 --> 04:50.020
+curved.
+
+04:50.490 --> 04:55.020
+It's a little bit more complicated to do it this way but if you're taking a calculus based course you
+
+04:55.020 --> 04:56.270
+might want to do this.
+
+04:56.430 --> 05:01.500
+We're gonna see later on when we're talk about GAUSS LAW THERE'S GOING TO BE SOME simplifications we're
+
+05:01.500 --> 05:03.960
+gonna use this second form of the equation.
+
+05:03.960 --> 05:06.810
+Let me highlight here here in a different color.
+
+05:06.810 --> 05:11.970
+We're gonna use this form of the equation but we're gonna simplify because there are cases where you
+
+05:11.970 --> 05:14.030
+can simplify this form of the equation.
+
+05:14.120 --> 05:19.320
+OK but you might see this one looks more complicated but really all you're doing is you're adding the
+
+05:19.320 --> 05:26.190
+electric flux due to each little area and you have to do this because the electric field is not uniform
+
+05:26.220 --> 05:28.160
+everywhere in space.
+
+05:28.500 --> 05:28.710
+All right.
+
+05:28.710 --> 05:29.970
+So we have two definitions.
+
+05:30.030 --> 05:35.430
+I want to go back to the case that I have highlighted in green here and look at this angle theta and
+
+05:35.430 --> 05:36.540
+a little bit more detail.

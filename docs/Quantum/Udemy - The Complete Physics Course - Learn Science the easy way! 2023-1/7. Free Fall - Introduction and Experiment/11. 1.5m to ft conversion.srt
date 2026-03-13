@@ -1,0 +1,39 @@
+1
+00:00:00,060 --> 00:00:04,980
+So just to spare you the trouble of actually doing this, I just calculated how many feet are there
+
+2
+00:00:04,980 --> 00:00:06,760
+in one point five meters.
+
+3
+00:00:06,780 --> 00:00:12,120
+So I just converted one point five meters to number of feet, four point ninety feet, and then I have
+
+4
+00:00:12,300 --> 00:00:13,260
+zero point ninety feet.
+
+5
+00:00:13,290 --> 00:00:14,500
+I know what that really means.
+
+6
+00:00:14,530 --> 00:00:19,590
+So let's convert that point ninety feet into a number of inches and we have 11 inches.
+
+7
+00:00:19,710 --> 00:00:25,410
+So in other words, we actually have one point five meters is equal to four feet, 11 inches.
+
+8
+00:00:25,590 --> 00:00:29,940
+And that's where I'm actually just going to be using to conduct an experiment.
+
+9
+00:00:30,120 --> 00:00:34,110
+I going to be dropping a book six times from this height.
+
+10
+00:00:34,440 --> 00:00:38,430
+And I'm just going to be noting the times for each one of these drops.

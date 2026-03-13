@@ -1,0 +1,887 @@
+1
+00:00:18,090 --> 00:00:18,570
+All right.
+
+2
+00:00:18,720 --> 00:00:25,260
+In the last few videos, we derived a Doppler shift equation that is used for determining the apparent
+
+3
+00:00:25,260 --> 00:00:30,420
+frequency from a reference frame that's moving away from some kind of radar source.
+
+4
+00:00:30,630 --> 00:00:37,440
+Now in those videos, I noticed that when we got the equation, which I have right here, when we derive
+
+5
+00:00:37,440 --> 00:00:43,260
+that equation, I thought that it was inherently a non relativistic result.
+
+6
+00:00:44,040 --> 00:00:51,960
+And as we ran through the derivation, you yourself probably should have noted that I was making certain
+
+7
+00:00:51,960 --> 00:00:58,950
+assumptions that were not quite true, given what you currently know about time dilation, length,
+
+8
+00:00:58,950 --> 00:01:00,870
+contraction, so on and so forth.
+
+9
+00:01:01,350 --> 00:01:01,740
+OK.
+
+10
+00:01:01,980 --> 00:01:10,230
+So in those videos, what I I asserted was that time was absolute between a moving reference frame in
+
+11
+00:01:10,230 --> 00:01:14,160
+a stationary reference frame attached to a radar source.
+
+12
+00:01:14,160 --> 00:01:21,510
+And we know that to be inherently wrong because we study time dilation and we know that a moving body
+
+13
+00:01:21,720 --> 00:01:24,780
+is observed, its clock is observed to tick slow.
+
+14
+00:01:25,170 --> 00:01:31,770
+So if we don't account for that result, wouldn't that insinuate that the Doppler shift equation we
+
+15
+00:01:31,770 --> 00:01:34,170
+derive right here is not correct?
+
+16
+00:01:34,530 --> 00:01:41,370
+And it would yield incorrect predictions on the frequency observed by somebody in a moving reference
+
+17
+00:01:41,370 --> 00:01:41,670
+frame.
+
+18
+00:01:42,360 --> 00:01:49,920
+You would think that, but in order to assess how valid or how invalid our previous result is, we have
+
+19
+00:01:49,920 --> 00:01:54,540
+to take a look at the general relative velocities we observe in everyday situations.
+
+20
+00:01:54,900 --> 00:02:00,810
+And then what we're going to do is we're going to derive a more accurate and more precise Doppler shift
+
+21
+00:02:00,810 --> 00:02:06,690
+equation that accounts for relativistic effects and accounts for what we learned for when we study time
+
+22
+00:02:06,690 --> 00:02:07,110
+dilation.
+
+23
+00:02:07,110 --> 00:02:07,400
+OK?
+
+24
+00:02:07,690 --> 00:02:09,990
+But back it up.
+
+25
+00:02:10,260 --> 00:02:15,180
+What we want to do is want to take a look at the relative speeds we're going to observe in any kind
+
+26
+00:02:15,180 --> 00:02:15,870
+of radar system.
+
+27
+00:02:15,870 --> 00:02:16,830
+Now, a radar system.
+
+28
+00:02:16,830 --> 00:02:22,670
+Generally, what it's trying to do is trying to detect any kind of enemy, target, man-made kind of
+
+29
+00:02:22,690 --> 00:02:26,010
+vehicle that fly through the air for defense purposes.
+
+30
+00:02:26,120 --> 00:02:29,620
+And that's the main objective and a missile defense system.
+
+31
+00:02:29,670 --> 00:02:30,000
+OK.
+
+32
+00:02:30,300 --> 00:02:36,870
+So what I've tabulated, I've searched you, Google, and I found the fastest manmade vehicle, which
+
+33
+00:02:36,870 --> 00:02:43,440
+is actually a vehicle designed by one of my previous companies, Lockheed Martin.
+
+34
+00:02:44,040 --> 00:02:46,200
+It's an SLR 71 Blackbird.
+
+35
+00:02:46,770 --> 00:02:53,670
+And what we found is that this can travel up to speeds of approximately 20 100 miles per hour.
+
+36
+00:02:53,670 --> 00:02:55,830
+So that's a very fast speed.
+
+37
+00:02:56,190 --> 00:02:59,580
+But relative to the speed of light, is that faster?
+
+38
+00:02:59,580 --> 00:03:00,210
+Is that slow?
+
+39
+00:03:00,210 --> 00:03:02,640
+Whoa, you look at this, you know, like, whoa, wait a minute.
+
+40
+00:03:02,940 --> 00:03:07,170
+I don't usually deal at the speed of light in terms of miles per hour, right?
+
+41
+00:03:07,350 --> 00:03:08,920
+I like the seafood assistance.
+
+42
+00:03:08,920 --> 00:03:16,380
+So let's first calculate the relative velocity by by converting our speed of light and then throwing
+
+43
+00:03:16,380 --> 00:03:19,050
+it into our general equation we generally use.
+
+44
+00:03:19,050 --> 00:03:26,160
+So we know that the world have lost EBITA is equal to the velocity of our target, oversee the speed
+
+45
+00:03:26,160 --> 00:03:26,550
+of light.
+
+46
+00:03:26,850 --> 00:03:32,160
+So we have the maximum loss who had ever observed with a manmade vehicle up to twenty one hundred miles
+
+47
+00:03:32,160 --> 00:03:32,760
+per hour.
+
+48
+00:03:33,150 --> 00:03:37,470
+And then when we convert the speed of light, you can use Google, you can use Mathematica, you can
+
+49
+00:03:37,470 --> 00:03:40,530
+use MATLAB, or you can do the calculation by hand, right?
+
+50
+00:03:40,530 --> 00:03:43,650
+You need to convert meters to miles, seconds, two hours.
+
+51
+00:03:44,070 --> 00:03:50,850
+We get that it comes out to be six point seven zero six times 10 to the eight miles per hour.
+
+52
+00:03:50,850 --> 00:03:54,850
+So you can see this is this is out of the ballpark compared to this guy.
+
+53
+00:03:54,880 --> 00:04:00,660
+But so when we do the calculation, we find that the relative velocity is three point one times 10 to
+
+54
+00:04:00,660 --> 00:04:04,080
+the minus six, and that is unit less tuneless.
+
+55
+00:04:04,380 --> 00:04:08,120
+So we get a result like this based on what you study previously.
+
+56
+00:04:08,130 --> 00:04:09,360
+What does that tell us?
+
+57
+00:04:09,990 --> 00:04:17,760
+What does that indicate that indicates that our Lorenz factor this guy right here, this guy is going
+
+58
+00:04:17,760 --> 00:04:21,090
+to be approximately equal to one, right?
+
+59
+00:04:21,270 --> 00:04:25,650
+It's going to be approximately equal to one because what we have found is that that equation.
+
+60
+00:04:26,900 --> 00:04:27,200
+Right.
+
+61
+00:04:27,710 --> 00:04:31,520
+It goes where this is one, it basically goes one for a lot of.
+
+62
+00:04:33,490 --> 00:04:38,710
+Portion and then it shoots up and becomes often that high rollers have lost.
+
+63
+00:04:38,800 --> 00:04:42,700
+So we know that we are probably closer to this region here.
+
+64
+00:04:43,570 --> 00:04:50,920
+What that tells us is that relativistic effects should not really arise if and this is the conditional,
+
+65
+00:04:50,920 --> 00:04:51,850
+the important conditional.
+
+66
+00:04:52,210 --> 00:04:59,170
+If we're only trying to detect manmade vehicles, which cannot go close to the speed of light yet,
+
+67
+00:04:59,890 --> 00:05:07,180
+OK, so relativistic effects should not arise for manmade targets and the equation we derived this guy
+
+68
+00:05:07,180 --> 00:05:09,370
+right here is still quite accurate.
+
+69
+00:05:09,370 --> 00:05:15,880
+And that is why if you look up some radar textbooks, you're going to find this equation and you're
+
+70
+00:05:15,880 --> 00:05:18,460
+going to see it sometimes in computations.
+
+71
+00:05:18,790 --> 00:05:24,400
+There's going to be a slight error, but that error is in essence negligible unless you're going into
+
+72
+00:05:24,430 --> 00:05:27,070
+very precise measurements you're trying to make.
+
+73
+00:05:28,750 --> 00:05:33,070
+So there is value in using this equation equation, which is derived.
+
+74
+00:05:33,700 --> 00:05:39,400
+And you know, we went through the two way Doppler shift to figure out what the frequency would be back
+
+75
+00:05:39,400 --> 00:05:39,760
+here.
+
+76
+00:05:40,450 --> 00:05:43,390
+So that can give us some accurate results and still make use of that.
+
+77
+00:05:43,750 --> 00:05:49,000
+But let's say we want stuff that is 100 percent accurate, something that converges completely upon
+
+78
+00:05:49,000 --> 00:05:49,520
+reality, right?
+
+79
+00:05:49,540 --> 00:05:52,230
+We're trying to get this universal conception of reality.
+
+80
+00:05:52,240 --> 00:05:53,470
+That's the point, of course.
+
+81
+00:05:53,740 --> 00:05:58,870
+So if we're going to do that, what we can do is we can go to Tarrance and fill up and say, Hey, guys,
+
+82
+00:05:59,410 --> 00:06:00,310
+help us out here.
+
+83
+00:06:00,610 --> 00:06:01,750
+We want to do another experiment.
+
+84
+00:06:01,750 --> 00:06:04,060
+What you did was it's not quite right.
+
+85
+00:06:04,570 --> 00:06:05,560
+Fix it, fix.
+
+86
+00:06:05,560 --> 00:06:12,130
+And they say, Hey, man, since we talked, we quit our job as scientists and we became actors.
+
+87
+00:06:12,640 --> 00:06:15,250
+So we're actors on the set of Star Trek.
+
+88
+00:06:15,760 --> 00:06:19,870
+And what we found is that, you know, they have a lot of manmade vehicles that travel close to the
+
+89
+00:06:19,870 --> 00:06:20,470
+speed of light.
+
+90
+00:06:21,490 --> 00:06:27,480
+Whether or not this is true and ours is possible actually found, but this is not quite possible based
+
+91
+00:06:27,490 --> 00:06:31,380
+on physical laws that these guys can go faster than the speed of light.
+
+92
+00:06:31,390 --> 00:06:34,060
+But we're going to assume it's going to go close to the speed of light.
+
+93
+00:06:34,420 --> 00:06:34,810
+And.
+
+94
+00:06:36,420 --> 00:06:40,530
+Tears of Philip say, Hey, this is pretty interesting, I'm going to dive back into my science.
+
+95
+00:06:40,620 --> 00:06:45,210
+They're going to help us out there to help us derive the relativistic Doppler shift.
+
+96
+00:06:45,510 --> 00:06:50,670
+And Rudy is USS Enterprise won't assume it's going to fly straight out to the right.
+
+97
+00:06:51,390 --> 00:06:54,570
+We're not parachuting beans at it trying to figure out.
+
+98
+00:06:56,210 --> 00:06:59,270
+How long or the apparent frequency?
+
+99
+00:07:01,370 --> 00:07:06,740
+That the US has enterprise actually observes, and you could use any kind of fast vehicle.
+
+100
+00:07:07,580 --> 00:07:08,930
+We have to generally use fancy.
+
+101
+00:07:08,930 --> 00:07:10,330
+I'm not a big Star Trek fan.
+
+102
+00:07:10,340 --> 00:07:14,150
+Maybe you could use Star Wars Millennium Falcon going straight out.
+
+103
+00:07:15,300 --> 00:07:21,090
+The point is, we want the relative velocity to be approximately equal to the speed of light and maybe
+
+104
+00:07:21,160 --> 00:07:27,630
+point nine, nine times C, I say at minimum point five times the speed of light to get from relativistic
+
+105
+00:07:27,630 --> 00:07:30,960
+effects, we get to this point on the curve where it's awesome.
+
+106
+00:07:31,500 --> 00:07:37,260
+OK, so if we take this, we can say, Oh, I'm not going to do these convoluted derivations because
+
+107
+00:07:37,260 --> 00:07:45,180
+previously I found this result and this for a target moving away from the source, moving away from
+
+108
+00:07:46,110 --> 00:07:46,650
+the radar.
+
+109
+00:07:47,370 --> 00:07:52,890
+OK, so we know that's true because if it's moving away, we know that the distance each wave has to
+
+110
+00:07:52,890 --> 00:07:55,800
+travel is going to be an extra v delta T.
+
+111
+00:07:56,370 --> 00:08:00,780
+So with the crest this guy sees, they're going to be separated by the distance.
+
+112
+00:08:01,080 --> 00:08:03,900
+The frequency is going to decrease.
+
+113
+00:08:04,170 --> 00:08:04,440
+Right?
+
+114
+00:08:04,840 --> 00:08:10,680
+OK, so we got this result and it's not quite right because we know that from time dilation, we cannot
+
+115
+00:08:10,680 --> 00:08:17,490
+assume, as we did in the previous generation, that Delta T prime equals Delta T or the.
+
+116
+00:08:18,210 --> 00:08:25,110
+The time difference, as observed by the USS Enterprise, cannot be equivalent to what terrorist measures
+
+117
+00:08:25,440 --> 00:08:29,280
+we got fill up on the U.S. enterprise, and he's going to measure a different time.
+
+118
+00:08:29,310 --> 00:08:29,520
+Right?
+
+119
+00:08:29,700 --> 00:08:34,140
+Space time tends to bend to account for the second posture, the special relativity.
+
+120
+00:08:34,440 --> 00:08:35,550
+That's what we learned, right?
+
+121
+00:08:35,760 --> 00:08:37,200
+Let's put it to use right now.
+
+122
+00:08:37,770 --> 00:08:45,420
+So we say that, OK, well, when time was observed by somebody who stationary or Terence Delta T,
+
+123
+00:08:46,440 --> 00:08:48,630
+it has to be delayed by this Lorentz factor.
+
+124
+00:08:48,630 --> 00:08:52,470
+We have the gamma times deputy prime reguilon's defined as such.
+
+125
+00:08:53,100 --> 00:08:58,770
+So what we could do is we could take a look at the times that are measured in our equation here.
+
+126
+00:08:59,310 --> 00:08:59,730
+So.
+
+127
+00:09:01,590 --> 00:09:11,610
+When Terence shoots out these pins every time he sees a crest or the frequency cycles per second, this
+
+128
+00:09:11,610 --> 00:09:15,240
+is measured in terms of his reference range in terms of Delta T.
+
+129
+00:09:15,810 --> 00:09:20,710
+In other words, he's measuring the number of press emitted for a time period.
+
+130
+00:09:20,730 --> 00:09:24,210
+Delta T observed in the radar system.
+
+131
+00:09:25,530 --> 00:09:32,370
+What Tarrant or Philip is interested in on the USS Enterprise is he wants something a bit different.
+
+132
+00:09:32,880 --> 00:09:37,560
+He still wants to measure these red crests hitting his vehicle.
+
+133
+00:09:38,250 --> 00:09:44,460
+However, he's measuring the number of press received for a time period Delta T Prime.
+
+134
+00:09:45,490 --> 00:09:48,670
+Which is different, a novelty as we learn in time dilation.
+
+135
+00:09:49,740 --> 00:09:54,450
+He wants it for a time for Delta T Prime observed in the U.S. enterprise.
+
+136
+00:09:54,990 --> 00:09:59,550
+The time he sees would be different than the time Terrence seized.
+
+137
+00:10:01,080 --> 00:10:09,960
+So if that's what we're really looking for, then this equation we start off with cannot be quite right
+
+138
+00:10:10,380 --> 00:10:17,370
+because Philip, once cycles per deputy prime, the number of cycles per his time measurement.
+
+139
+00:10:18,400 --> 00:10:27,700
+But he's calculating it in terms of these quantities in X source is the number of cycles per regular
+
+140
+00:10:27,700 --> 00:10:30,040
+delta, the Delta T in the radar system.
+
+141
+00:10:31,110 --> 00:10:35,010
+So what we need to do is we need to convert this time and if we can do that.
+
+142
+00:10:36,110 --> 00:10:39,410
+Then we can get the correct result, so we go back to time relation.
+
+143
+00:10:39,890 --> 00:10:43,730
+And we say, OK, Delta T is equal to Gamma Deputy Prime.
+
+144
+00:10:46,270 --> 00:10:48,490
+We can flip, we can flip.
+
+145
+00:10:50,540 --> 00:10:56,630
+Both of these to get one Delta T equals one of a gamma delta T prime and multiply the game over to the
+
+146
+00:10:56,630 --> 00:10:58,670
+left, and we get this equation here.
+
+147
+00:10:59,240 --> 00:11:07,490
+We see that if we multiply gamma over here, we get a camera T or get gamma over Delta team and that
+
+148
+00:11:07,490 --> 00:11:13,100
+transforms into a one over a deputy prime, which would get what we really want because what we have
+
+149
+00:11:13,100 --> 00:11:15,950
+now if fill up.
+
+150
+00:11:17,080 --> 00:11:19,060
+Takes everything on the right.
+
+151
+00:11:19,570 --> 00:11:22,690
+He would get cycles of respect to Terrence's clock.
+
+152
+00:11:23,050 --> 00:11:24,340
+So we want to convert it over.
+
+153
+00:11:24,610 --> 00:11:27,460
+OK, so what we could do is.
+
+154
+00:11:29,360 --> 00:11:33,800
+We would take this Lawrence factor, multiply it in here.
+
+155
+00:11:34,640 --> 00:11:39,920
+Laurence Packer, Delta T, I guess this one of Delta T Prime the number here, he's really measuring
+
+156
+00:11:39,920 --> 00:11:40,310
+this.
+
+157
+00:11:40,850 --> 00:11:47,990
+But when we multiply by gamma, it turns into what we once were the cycle per Delta T prime.
+
+158
+00:11:48,230 --> 00:11:50,000
+OK, so this is important.
+
+159
+00:11:50,480 --> 00:11:54,020
+Make sure you understand this is a conceptual derivation.
+
+160
+00:11:54,320 --> 00:12:01,970
+We'll go back, take a more convoluted or a more mathematically intensive approach next.
+
+161
+00:12:02,630 --> 00:12:09,710
+But if we just want to convert this result into a relativistic result, we just have to make note that,
+
+162
+00:12:09,920 --> 00:12:19,070
+OK, we're calculating in terms of clock multiply by gamma that will make it in terms of the USS Enterprise
+
+163
+00:12:19,070 --> 00:12:22,160
+s clock and what we want right here.
+
+164
+00:12:22,280 --> 00:12:25,310
+OK, so when we do that, we multiply by gamma.
+
+165
+00:12:26,770 --> 00:12:27,070
+Right.
+
+166
+00:12:28,490 --> 00:12:34,630
+On both sides, actually, and then this turns into the correct form we want as measured by the.
+
+167
+00:12:35,840 --> 00:12:42,020
+And all we need to do is just plug in this guy right here, so we just take the gavel, that's a one
+
+168
+00:12:42,560 --> 00:12:46,610
+over square root of one, minus the relative over C squared.
+
+169
+00:12:47,780 --> 00:12:53,390
+This guy comes along for the ride, the one minus the relative ever c times the source frequency.
+
+170
+00:12:54,260 --> 00:12:55,760
+And then we just need to do some math.
+
+171
+00:12:56,150 --> 00:12:56,450
+OK.
+
+172
+00:12:56,570 --> 00:12:58,250
+So what we could do is.
+
+173
+00:12:59,350 --> 00:13:06,460
+Well, you know that one minus x squared is equal to one minus x times one plus x, right?
+
+174
+00:13:06,910 --> 00:13:14,380
+So we could do that on the bottom and we get the square root one minus the rail or C and one plus Fiorillo
+
+175
+00:13:14,380 --> 00:13:22,800
+C, and that on the top, we can make note that this guy is no different than this quantity squared
+
+176
+00:13:22,810 --> 00:13:23,890
+or two of them.
+
+177
+00:13:24,460 --> 00:13:30,460
+And then you take the square root, so the top becomes the square root of one minus v relevancy has
+
+178
+00:13:30,460 --> 00:13:31,900
+one minus the irrelevancy.
+
+179
+00:13:32,410 --> 00:13:36,010
+I didn't do anything because it's technically this guy squared.
+
+180
+00:13:36,460 --> 00:13:38,100
+Take the square root band.
+
+181
+00:13:38,260 --> 00:13:40,550
+You recover the original term, right?
+
+182
+00:13:40,570 --> 00:13:41,410
+We didn't do anything.
+
+183
+00:13:41,410 --> 00:13:42,490
+We didn't do anything special.
+
+184
+00:13:42,970 --> 00:13:46,750
+So if we take this guy and we say, Oh, look at this man, look at that.
+
+185
+00:13:47,560 --> 00:13:52,030
+We can cancel out parliamentarians, bam, we cancel that with that guy right there.
+
+186
+00:13:52,810 --> 00:13:56,920
+And what we end up with is our relativistic result quite quickly.
+
+187
+00:13:57,640 --> 00:14:05,020
+Just by taking our understanding of time and swapping those guys out with the rest factor, we end up
+
+188
+00:14:05,020 --> 00:14:09,600
+with the following equation, which is a bit more convoluted than our previous result.
+
+189
+00:14:09,610 --> 00:14:19,540
+Not as nice, but it gives us that the observed frequency at the target as measured as measured by fill
+
+190
+00:14:19,540 --> 00:14:19,780
+up.
+
+191
+00:14:21,210 --> 00:14:27,390
+It's going to be the square root of one minus relative velocity of a C over the square root of one.
+
+192
+00:14:27,600 --> 00:14:34,830
+Plus the relative velocity oversea times the source frequency, and it's important to note that this
+
+193
+00:14:34,830 --> 00:14:39,630
+only applies for a target moving away from the source.
+
+194
+00:14:40,110 --> 00:14:47,400
+If we want to move towards the source right, the relative, the sign with swish must be coming in this
+
+195
+00:14:47,400 --> 00:14:47,970
+direction.
+
+196
+00:14:48,450 --> 00:14:50,760
+All we need to do is change the signs.
+
+197
+00:14:51,150 --> 00:14:58,110
+And you should be able to reason through it because if it's going away, you would expect the frequency
+
+198
+00:14:58,110 --> 00:14:58,740
+to be lower.
+
+199
+00:14:58,890 --> 00:15:06,420
+So currently, one minus the quantity, you may get a 0.5 five, you're taking like a fraction of something.
+
+200
+00:15:07,440 --> 00:15:10,980
+Divide it by one plus you divide it by like one or two.
+
+201
+00:15:11,340 --> 00:15:14,520
+So this is making the frequency smaller as expected.
+
+202
+00:15:14,940 --> 00:15:15,870
+Switch the signs.
+
+203
+00:15:15,870 --> 00:15:18,540
+We're going to get one plus a ratio.
+
+204
+00:15:19,930 --> 00:15:23,380
+So that's going to increase it divided by one minus.
+
+205
+00:15:23,470 --> 00:15:28,330
+So we're dividing dividing by a fraction, which means it's going to increase it further.
+
+206
+00:15:28,900 --> 00:15:34,240
+So then as it travels close, you're increasing that frequency because you're decreasing the distance
+
+207
+00:15:34,240 --> 00:15:36,010
+each wave has to travel.
+
+208
+00:15:36,430 --> 00:15:39,430
+So the apparent frequency to fill up would be increased.
+
+209
+00:15:40,150 --> 00:15:46,390
+So if you were really concerned about accuracy, really concerned about maybe your radar algorithm being
+
+210
+00:15:46,390 --> 00:15:50,590
+precise and converging from reality, you want to use this equation here.
+
+211
+00:15:50,860 --> 00:15:55,180
+This is the relativistic Doppler shift we obtained.
+
+212
+00:15:56,110 --> 00:16:01,480
+What I want to do next is, you know, there were sort of sort of felt like we're doing some hand waving.
+
+213
+00:16:01,840 --> 00:16:08,440
+I want to do a more direct derivation of back up in terms of what we're doing for this guide and show
+
+214
+00:16:08,440 --> 00:16:10,420
+you how we can derive this exactly.
+
+215
+00:16:10,420 --> 00:16:11,740
+And why is that important?
+
+216
+00:16:12,040 --> 00:16:12,820
+Why is that important?
+
+217
+00:16:12,820 --> 00:16:16,670
+Because if you derive a result once, that's nice, it's fine.
+
+218
+00:16:16,670 --> 00:16:16,750
+And.
+
+219
+00:16:17,050 --> 00:16:25,120
+But if you can derive it twice or three times, that would increase the validity of the result you get.
+
+220
+00:16:25,120 --> 00:16:26,480
+It increases your confidence.
+
+221
+00:16:26,500 --> 00:16:27,880
+OK, so let's do that.
+
+222
+00:16:27,880 --> 00:16:32,560
+I want you to be confident in this result and understand where it came from.

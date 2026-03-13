@@ -1,0 +1,142 @@
+WEBVTT
+
+00:00.410 --> 00:07.260
+Hi everybody welcome to my class on DC circuits by DC circuits I simply mean that means direct current
+
+00:07.260 --> 00:14.100
+circuits and that basically means that the direction of the current eye the direction doesn't change.
+
+00:14.140 --> 00:16.240
+So the direction let me just write that down.
+
+00:16.440 --> 00:22.010
+Direction is constant.
+
+00:22.140 --> 00:25.060
+Now the magnitude of the current can change but the direction doesn't change.
+
+00:25.060 --> 00:30.390
+So you can go from zero to a maximum value or it can change from some maximum value to zero but the
+
+00:30.390 --> 00:32.010
+direction doesn't change.
+
+00:32.160 --> 00:36.590
+If you want circuits where the direction changes they refer to those as AC circuits.
+
+00:36.600 --> 00:40.290
+All right here's kind of a list of topics that I cover in this class we're going to start with current
+
+00:40.290 --> 00:44.960
+and the motion of charges when you place an electric field in a wire from a microscopic viewpoint.
+
+00:44.970 --> 00:46.950
+What does that look like.
+
+00:47.070 --> 00:51.420
+Once we have those kind of concepts nailed down we're going to introduce the concept of resistance something
+
+00:51.420 --> 00:56.940
+that resists the flow of charges moving and the concept of resistivity where they are going to link
+
+00:56.940 --> 01:00.210
+everything together the resistance the current and something called ohms law.
+
+01:00.240 --> 01:06.030
+We introduced the concept of potential difference and earmuffs.
+
+01:06.230 --> 01:12.140
+After that we're going to look at energy when it relates to electric circuits and by energy are typically
+
+01:12.230 --> 01:17.360
+looking at how much power is being supplied by these power supplies by the batteries in the circuit
+
+01:17.770 --> 01:22.520
+and how much energy is being used and what is the rate at which energy is being used in some of these
+
+01:22.520 --> 01:23.630
+resistors.
+
+01:23.960 --> 01:25.130
+Sections 4 and 5.
+
+01:25.130 --> 01:30.650
+So Section 4 is combinations of resistors in many circuits that you see although they might look complicated
+
+01:30.650 --> 01:34.550
+there are techniques that can reduce the circuit that something that looks really really complicated
+
+01:34.820 --> 01:36.600
+the something that's much simpler.
+
+01:36.890 --> 01:42.410
+So we're going to learn different methods to simplify circuits whether you have some resistors in series
+
+01:42.450 --> 01:46.730
+in parallel we have techniques that we can use in order to simplify them and we'll practice a whole
+
+01:46.730 --> 01:48.400
+bunch of problems together.
+
+01:48.410 --> 01:54.590
+Section 5 is really the bulk and it's really applying to rules Kirchoff's rules in order to analyze
+
+01:54.680 --> 01:55.610
+any circuit.
+
+01:55.670 --> 02:00.650
+For example analyzing the circuit on the right hand side by the end of this section would be very very
+
+02:00.650 --> 02:05.330
+easy and by analyzing I mean are you able to find the current through every single resistor.
+
+02:05.330 --> 02:09.100
+Are you able to find that potential difference across every resistor.
+
+02:09.170 --> 02:13.680
+Can you then use that information to look at the power being supplied by every battery in the circuit
+
+02:13.970 --> 02:17.930
+and the power being dissipated by every resistor in your circuit.
+
+02:17.980 --> 02:22.580
+The last section then we're going to introduce a new component to our circuits we're going to plug in
+
+02:22.580 --> 02:28.260
+capacitors into our circuits like the circuit shown down below.
+
+02:28.700 --> 02:33.380
+So that is what happens what changes are you able to analyze then the current the charge and the voltage
+
+02:33.380 --> 02:36.540
+across the capacitor or across any other point in the circuit.
+
+02:36.740 --> 02:42.200
+Well look at different methods to analyze what happens when you first close a switch versus what happens
+
+02:42.200 --> 02:44.770
+over a longer period of time.
+
+02:44.780 --> 02:49.310
+So by the end of this class you're going to look at circuits on the right hand side and say yeah those
+
+02:49.310 --> 02:50.710
+are pretty easy now.
+
+02:51.020 --> 02:54.220
+And that's the overall goal of my class so let's get started.
+
+02:54.330 --> 02:59.120
+I have some fun at the end there is over 50 problems that you can practice by yourself with detailed
+
+02:59.120 --> 03:01.830
+solutions worked out the best part is.
+
+03:01.910 --> 03:04.180
+Message me any time and I'll get back to you.
+
+03:04.220 --> 03:04.850
+OK.
+
+03:05.420 --> 03:06.080
+Let's do this.

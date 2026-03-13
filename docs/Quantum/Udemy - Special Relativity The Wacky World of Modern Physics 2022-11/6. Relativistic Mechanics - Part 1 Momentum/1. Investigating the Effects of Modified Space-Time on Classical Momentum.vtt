@@ -1,0 +1,1113 @@
+WEBVTT
+
+1
+00:00:18.370 --> 00:00:18.850
+All right.
+
+2
+00:00:19.120 --> 00:00:24.610
+So far in our journey to force this nice universal conception of the universe, we ended up completely
+
+3
+00:00:24.610 --> 00:00:30.100
+redefining our basic notions of kinematics and spacetime in particular.
+
+4
+00:00:30.190 --> 00:00:34.900
+What we found is that the poshest the special relativity, which really gave birth to these weird,
+
+5
+00:00:34.900 --> 00:00:40.930
+wacky effects such as time dilation and length contraction, challenged our notion of the universe as
+
+6
+00:00:40.930 --> 00:00:41.440
+a whole.
+
+7
+00:00:41.770 --> 00:00:49.240
+But in doing so, it really allowed us to bridge the gap between an infinite set of perceptions and
+
+8
+00:00:49.240 --> 00:00:55.960
+allowed us to form this map, known as the Lorenz transformation, which really allowed us to talk intelligently
+
+9
+00:00:56.110 --> 00:01:00.760
+about a infinite set of perceptions of the universe.
+
+10
+00:01:01.150 --> 00:01:08.080
+Now, with these monumental ideas being introduced in special relativity, it's natural to assume that
+
+11
+00:01:08.230 --> 00:01:14.830
+they would have a cascading effect upon physical theories that are closely related to the ideas that
+
+12
+00:01:14.830 --> 00:01:16.000
+are imbued within them.
+
+13
+00:01:16.390 --> 00:01:25.390
+For example, maybe ideas that depend upon velocity, space and time would also give rise to special
+
+14
+00:01:25.390 --> 00:01:26.770
+relativistic effects.
+
+15
+00:01:27.070 --> 00:01:29.440
+And that's what we're going to find in this video.
+
+16
+00:01:29.700 --> 00:01:30.070
+OK.
+
+17
+00:01:30.850 --> 00:01:39.220
+In fact, much like throwing a rock into a still peaceful lake in nature, we're going to find that
+
+18
+00:01:39.400 --> 00:01:46.180
+taking these huge ideas, these impactful ideas and throwing them into the body of physics is going
+
+19
+00:01:46.180 --> 00:01:53.770
+to lead to a ripple effect that drastic effects a lot of different physical theories such as momentum,
+
+20
+00:01:54.040 --> 00:01:56.260
+energy, so on and so forth.
+
+21
+00:01:56.680 --> 00:02:01.750
+Furthermore, what we're going to find is that much like when you throw a rock into a pond and that
+
+22
+00:02:01.750 --> 00:02:07.900
+creates the ripples that expand out from the source of that effect, the rock hitting the water, we're
+
+23
+00:02:07.900 --> 00:02:14.320
+going to find that when we introduced this idea into a body of physics, physical theories which are
+
+24
+00:02:14.320 --> 00:02:21.550
+closely tied to space-time kinematics, so on and so forth are going to be drastically affected.
+
+25
+00:02:21.760 --> 00:02:26.590
+It's going to be very impactful theoretical implications associated with them.
+
+26
+00:02:26.950 --> 00:02:33.070
+But once we start getting away from time and kinematics, the effects are going to be minimized.
+
+27
+00:02:33.430 --> 00:02:35.740
+And it's not going to be as impactful.
+
+28
+00:02:35.770 --> 00:02:43.060
+For example, we would expect that idea, such as momentum, kinetic energy, total energy, which are
+
+29
+00:02:43.060 --> 00:02:47.230
+dependent upon velocity to get these quantities in classical physics.
+
+30
+00:02:47.620 --> 00:02:54.160
+At least we'd expect them to have some weird effects pop out as a result of introducing these interesting
+
+31
+00:02:54.160 --> 00:02:55.870
+special relativity concepts.
+
+32
+00:02:56.560 --> 00:03:03.070
+However, ideas such as, you know, electrodynamics, which aren't as prominently influenced by kinematics,
+
+33
+00:03:03.280 --> 00:03:07.000
+so on and so forth, may not have as many effects.
+
+34
+00:03:07.240 --> 00:03:10.970
+They will have slight effects, but it won't be as drastic now.
+
+35
+00:03:11.350 --> 00:03:15.490
+In this video, we're going to start taking a look at those ripple effects.
+
+36
+00:03:15.490 --> 00:03:21.790
+We're going to see how introducing these ideas that we spend so much time coming up with in terms of
+
+37
+00:03:21.790 --> 00:03:27.370
+kinematics in spacetime, how special relativity effects that we're going to find that the ripple effect
+
+38
+00:03:27.670 --> 00:03:30.470
+drastically affects momentum in particular.
+
+39
+00:03:30.490 --> 00:03:36.670
+That's what we're going to focus on in this video now jumping into the idea of momentum.
+
+40
+00:03:37.000 --> 00:03:43.600
+Classically, we would expect that our notions, our classical notions are preserved, right?
+
+41
+00:03:43.750 --> 00:03:51.310
+Classically, we know that momentum, which is defined as M times V and as a factor, we would expect
+
+42
+00:03:51.310 --> 00:03:55.900
+that conservation of momentum to also be preserved.
+
+43
+00:03:56.130 --> 00:03:59.440
+OK, so we know that momentum is always conserved.
+
+44
+00:03:59.740 --> 00:04:05.350
+We'd expect this result preserved at high velocities, even after accepting the implications of special
+
+45
+00:04:05.350 --> 00:04:05.830
+relativity.
+
+46
+00:04:05.830 --> 00:04:09.790
+So we know right momentum is lost as mass times velocity.
+
+47
+00:04:10.450 --> 00:04:16.630
+And because our conservation of momentum implies that our initial momentum must be equivalent to a our
+
+48
+00:04:16.900 --> 00:04:17.890
+final momentum.
+
+49
+00:04:18.100 --> 00:04:18.520
+OK.
+
+50
+00:04:18.760 --> 00:04:21.400
+And then this can be reduced down to this guy right here.
+
+51
+00:04:22.630 --> 00:04:29.710
+So we would expect this to hold in special relativity because if it didn't, that would have huge implications,
+
+52
+00:04:29.710 --> 00:04:29.980
+right?
+
+53
+00:04:30.280 --> 00:04:36.130
+If momentum did not hold, then force Newton's second law.
+
+54
+00:04:36.130 --> 00:04:42.000
+You know, f is equal to the derivative of momentum of this back to time.
+
+55
+00:04:42.310 --> 00:04:45.660
+That would also break down, and they'll have huge implications, right?
+
+56
+00:04:45.910 --> 00:04:47.410
+We like Newtonian mechanics.
+
+57
+00:04:47.590 --> 00:04:48.970
+We like classical physics.
+
+58
+00:04:49.270 --> 00:04:51.790
+We want it to translate pretty well into special relativity.
+
+59
+00:04:51.790 --> 00:04:52.990
+So let's investigate this.
+
+60
+00:04:53.350 --> 00:04:57.970
+And in order to do that, what we're going to do is we're going to employ our best friends, right?
+
+61
+00:04:58.120 --> 00:05:01.940
+Terrance and Phillip, what they did is they had similar notions.
+
+62
+00:05:01.960 --> 00:05:09.700
+They thought that all these ideas would be drastically impacted by changing our basic notions of kinematics
+
+63
+00:05:09.700 --> 00:05:12.100
+in space time, and they want to investigate that.
+
+64
+00:05:12.250 --> 00:05:15.570
+What effect is this going to have upon momentum to do that?
+
+65
+00:05:15.580 --> 00:05:17.820
+What they're going to do is they're going to carry out.
+
+66
+00:05:18.240 --> 00:05:24.190
+A classical experiment that demonstrates momentum, but they're going to do it at high speeds, and
+
+67
+00:05:24.190 --> 00:05:26.820
+they're going to see how that high velocity.
+
+68
+00:05:27.870 --> 00:05:33.750
+Affects their notions, the classical notions of momentum, basically the conservation momentum, does
+
+69
+00:05:33.750 --> 00:05:34.350
+it hold up?
+
+70
+00:05:34.920 --> 00:05:38.250
+Does it fall apart or does it give rise to a new effect?
+
+71
+00:05:38.550 --> 00:05:39.780
+That's what we're going to investigate.
+
+72
+00:05:40.210 --> 00:05:40.890
+Let's do this.
+
+73
+00:05:41.260 --> 00:05:50.400
+They're going to take the classical experiment of a a ball or maybe some kind of any kind of object
+
+74
+00:05:50.880 --> 00:05:57.990
+coming in at the same velocities, hitting each other and having a perfectly elastic collision such
+
+75
+00:05:57.990 --> 00:06:00.000
+that they come out at the same velocity.
+
+76
+00:06:00.450 --> 00:06:07.470
+They're going to use this a bouncy ball, and Terence is going to hold that ball and spaceship that's
+
+77
+00:06:07.470 --> 00:06:08.820
+traveling close to the speed of light.
+
+78
+00:06:08.850 --> 00:06:12.150
+We're going to use zero point eight seven times the speed of light.
+
+79
+00:06:12.300 --> 00:06:15.180
+See, but you can use any kind of last thing you want.
+
+80
+00:06:16.140 --> 00:06:22.440
+And we're going to have Philip up on the ground watching him fly right by the both going to hold a bouncy
+
+81
+00:06:22.440 --> 00:06:22.680
+ball.
+
+82
+00:06:23.100 --> 00:06:29.490
+Now they timed it out such that at times equals zero and terrorists a little bit to the left of Philip.
+
+83
+00:06:29.730 --> 00:06:34.770
+They're both going to throw the ball in their respective reference frames straight down and straight
+
+84
+00:06:34.770 --> 00:06:34.980
+up.
+
+85
+00:06:35.760 --> 00:06:36.510
+Throws it down.
+
+86
+00:06:36.780 --> 00:06:44.490
+Philip throws it up and what's going to happen is they're going to hit at this point here at the same
+
+87
+00:06:44.490 --> 00:06:44.820
+speed.
+
+88
+00:06:44.820 --> 00:06:49.170
+Remember, they're going to bounce off in the perfectly elastic collision.
+
+89
+00:06:50.920 --> 00:06:52.820
+And then terrorists, it's going to catch it.
+
+90
+00:06:53.650 --> 00:06:55.590
+And Philip is going to catch hits.
+
+91
+00:06:55.960 --> 00:06:57.610
+This is a classical experiment.
+
+92
+00:06:57.970 --> 00:07:03.760
+We don't know what's going to happen at high speeds now to make this easy and straightforward.
+
+93
+00:07:04.390 --> 00:07:08.440
+Let's try and tabulate the different velocities of the balls at different times.
+
+94
+00:07:08.710 --> 00:07:15.430
+We're not two events, then no one when they the actually throw the ball and event number two when they
+
+95
+00:07:15.430 --> 00:07:17.350
+actually catch that ball.
+
+96
+00:07:18.190 --> 00:07:24.880
+Now, initially, when they both throw it, they're going to throw it either up or down with a velocity
+
+97
+00:07:24.880 --> 00:07:25.570
+of you.
+
+98
+00:07:25.570 --> 00:07:26.050
+Not.
+
+99
+00:07:26.890 --> 00:07:35.110
+So for even one over here, Philip Ball is going to throw it up with no exit velocity, but with a positive
+
+100
+00:07:35.110 --> 00:07:37.150
+y velocity of you not.
+
+101
+00:07:37.480 --> 00:07:43.840
+So that means that to fill up his philosophy in the X direction for event one is zero.
+
+102
+00:07:44.080 --> 00:07:48.100
+But his velocity in the Y direction for event one is you not.
+
+103
+00:07:49.060 --> 00:07:52.630
+And then in turns his ball in his reference frame.
+
+104
+00:07:53.560 --> 00:07:57.220
+What we're going to find is and I got to put a little.
+
+105
+00:07:58.240 --> 00:08:04.870
+Apostrophe right here to indicate that Terrance is the one measuring it's met, it's measured in reference
+
+106
+00:08:04.870 --> 00:08:05.680
+s prime.
+
+107
+00:08:07.100 --> 00:08:11.810
+What we find is that in the X direction, since he's throwing a straight down, it's going to look like
+
+108
+00:08:11.810 --> 00:08:14.330
+it goes straight down and it goes up.
+
+109
+00:08:14.660 --> 00:08:14.960
+Right?
+
+110
+00:08:15.380 --> 00:08:16.820
+There's going to be no x component.
+
+111
+00:08:17.150 --> 00:08:25.340
+So in the X, direction is lost near zero and in the Y direction, his ball has a velocity of negative.
+
+112
+00:08:25.340 --> 00:08:33.650
+You not go straight down with a speed of, you know, that's what they measure now from classical physics.
+
+113
+00:08:33.650 --> 00:08:38.450
+We know that in a perfectly elastic collision, right?
+
+114
+00:08:38.480 --> 00:08:43.700
+If the balls come up, let's say it's going to look something like this like that.
+
+115
+00:08:44.240 --> 00:08:48.080
+We're going to have a ball of mass m a ball mass m.
+
+116
+00:08:49.150 --> 00:08:54.280
+There's going to be you, not that's you, not then they're going to collide, they have to come back
+
+117
+00:08:54.520 --> 00:08:56.620
+with an equal but opposite.
+
+118
+00:08:57.840 --> 00:08:58.470
+Velocity.
+
+119
+00:08:58.500 --> 00:08:58.800
+Right.
+
+120
+00:08:59.100 --> 00:09:01.620
+That's what's implied by conservation of momentum, right?
+
+121
+00:09:01.830 --> 00:09:02.520
+That's what we get.
+
+122
+00:09:02.880 --> 00:09:05.310
+So what we know is that.
+
+123
+00:09:07.260 --> 00:09:08.030
+I can work it out.
+
+124
+00:09:08.160 --> 00:09:10.500
+This a very simple deduction, right?
+
+125
+00:09:11.490 --> 00:09:14.070
+So if we have that, they both have a massive and.
+
+126
+00:09:15.210 --> 00:09:17.310
+We have and you not.
+
+127
+00:09:18.340 --> 00:09:19.420
+That's Phillips Ball.
+
+128
+00:09:21.190 --> 00:09:23.650
+Minus and you not.
+
+129
+00:09:24.580 --> 00:09:26.590
+All right, so I'll call this guy, Phillip.
+
+130
+00:09:27.160 --> 00:09:28.150
+This guy, Terrence.
+
+131
+00:09:28.990 --> 00:09:33.310
+That must be equal to the final guy here, which would be Anton.
+
+132
+00:09:33.310 --> 00:09:37.810
+Some velocity plus and another velocity.
+
+133
+00:09:37.810 --> 00:09:40.530
+Basically, the final guy right here is going to be P.
+
+134
+00:09:41.150 --> 00:09:43.660
+This is T from this, we can deduce that.
+
+135
+00:09:44.810 --> 00:09:46.520
+This guy has to be negative, you not.
+
+136
+00:09:47.730 --> 00:09:50.070
+This guy has the positive you not.
+
+137
+00:09:51.240 --> 00:09:52.500
+And they reverse in sight.
+
+138
+00:09:52.680 --> 00:09:53.040
+Right?
+
+139
+00:09:53.310 --> 00:09:56.520
+This is straightforward ideas for physics, one to one.
+
+140
+00:09:56.880 --> 00:09:57.330
+So.
+
+141
+00:09:58.980 --> 00:10:03.270
+The Philippines has actually measure the velocity on the ball that they receive.
+
+142
+00:10:03.520 --> 00:10:08.370
+But we could deduce from classical physics and this is the beauty of conservation of momentum.
+
+143
+00:10:09.900 --> 00:10:18.060
+That the following is a true event to after a time Delta T Phillips ball, as measured by him, is going
+
+144
+00:10:18.060 --> 00:10:23.550
+to have a negative y component, you know, as we just discovered from the conservation of momentum,
+
+145
+00:10:24.150 --> 00:10:27.300
+but it did not change in the X direction, right?
+
+146
+00:10:27.630 --> 00:10:34.110
+So from from him, what we're going to say is that, oh, that guy zero four, the the X component of
+
+147
+00:10:34.110 --> 00:10:42.320
+the velocity and Terrence's ball, it's going to come straight up at that same velocity or same speed.
+
+148
+00:10:42.330 --> 00:10:42.840
+You're not.
+
+149
+00:10:43.260 --> 00:10:46.410
+So the y component of the velocity is positive, you not.
+
+150
+00:10:46.860 --> 00:10:51.540
+And the X component, as observed by parents, we need to put a little.
+
+151
+00:10:52.950 --> 00:10:56.850
+Posh, be there to signify that we are in the prime reference frame.
+
+152
+00:10:57.480 --> 00:10:58.740
+That's going to be zero.
+
+153
+00:10:59.760 --> 00:11:01.560
+Now we took these quantities.
+
+154
+00:11:01.830 --> 00:11:05.490
+It would appear as though conservation of momentum is guaranteed.
+
+155
+00:11:06.150 --> 00:11:06.540
+OK?
+
+156
+00:11:06.960 --> 00:11:07.440
+But.
+
+157
+00:11:08.680 --> 00:11:14.380
+We know that when you travel close to the speed of light, as we just discovered through Velocity Edition.
+
+158
+00:11:16.600 --> 00:11:22.630
+The each individual's conception of that losses and speed is going to be different in different reference
+
+159
+00:11:22.630 --> 00:11:23.140
+range, right?
+
+160
+00:11:23.500 --> 00:11:29.350
+Your experience of the phenomenon is contingent upon how you view it, your perspective, right?
+
+161
+00:11:29.350 --> 00:11:32.920
+This is what we've been discussing in the course that's the main tenet, the main idea.
+
+162
+00:11:33.160 --> 00:11:37.150
+So we would expect that if conservation of momentum.
+
+163
+00:11:38.820 --> 00:11:41.430
+Is true in in one reference frame.
+
+164
+00:11:41.610 --> 00:11:44.490
+It must be true in all initial reference frames, right?
+
+165
+00:11:45.300 --> 00:11:48.090
+That's just a restatement of the first of the special relativity.
+
+166
+00:11:48.480 --> 00:11:54.780
+So what we want to see is that using all of these ideas that we came up with from special relativity
+
+167
+00:11:55.140 --> 00:11:58.410
+lost the additional time dilation length contraction.
+
+168
+00:11:58.650 --> 00:12:01.200
+We want to see if this still holds right.
+
+169
+00:12:01.920 --> 00:12:03.780
+In every initial reference frame.
+
+170
+00:12:04.020 --> 00:12:08.370
+OK, so what we're going to do is we're going to do the same experiment.
+
+171
+00:12:08.640 --> 00:12:16.620
+But from Phillip's standpoint, in order to do that, what we need to do is we need to take these velocities
+
+172
+00:12:16.620 --> 00:12:24.780
+as measured by parents and translate them into the reference frame the rest frame in Phillips rest frame.
+
+173
+00:12:25.230 --> 00:12:26.350
+So let's do that now.
+
+174
+00:12:26.380 --> 00:12:31.500
+Fortunately, in our last video at the end of the class, the last section.
+
+175
+00:12:33.220 --> 00:12:41.350
+We found that we could quickly relate and put together this nice map in the last transformation to allow
+
+176
+00:12:41.360 --> 00:12:44.890
+Philip to talk intelligently about Terrence's velocities.
+
+177
+00:12:45.340 --> 00:12:47.080
+So let's do that right now.
+
+178
+00:12:47.140 --> 00:12:47.500
+OK?
+
+179
+00:12:47.830 --> 00:12:54.490
+What we're going to do is we're going to take those formulas exactly as they are and write them up.
+
+180
+00:12:54.670 --> 00:12:59.410
+So we're going to have to do it for the X direction and also the Y direction.
+
+181
+00:12:59.770 --> 00:13:01.900
+Let's focus first on the extraction.
+
+182
+00:13:01.910 --> 00:13:03.160
+What we're going to find is that.
+
+183
+00:13:04.870 --> 00:13:16.750
+The v x t Terrence's bond x direction for you, that one we're going to find is that we could get our
+
+184
+00:13:16.750 --> 00:13:19.540
+Velocity Edition formula and calculate it direct.
+
+185
+00:13:20.020 --> 00:13:26.200
+This is no different than the X prime, plus the relative.
+
+186
+00:13:28.620 --> 00:13:30.360
+Divide it by one.
+
+187
+00:13:31.440 --> 00:13:33.390
+Plus the relative.
+
+188
+00:13:34.910 --> 00:13:36.050
+Over C squared.
+
+189
+00:13:37.220 --> 00:13:39.060
+Times, V.X, Prof.
+
+190
+00:13:40.490 --> 00:13:44.000
+OK, so we could basically just plug and chug this guy.
+
+191
+00:13:44.030 --> 00:13:49.970
+We know that the prime this guy I'll put in the.
+
+192
+00:13:51.180 --> 00:13:58.150
+Exact notation, so we avoid confusion here, but we can throw this guy straight in here.
+
+193
+00:13:58.560 --> 00:13:59.070
+Bam.
+
+194
+00:13:59.670 --> 00:14:04.290
+That's zero bam zero one on the bottom, we get one plus zero.
+
+195
+00:14:05.160 --> 00:14:09.900
+Oh, this guy is nothing more than just derail the relative velocity.
+
+196
+00:14:10.940 --> 00:14:14.660
+This is what we find initially, and we could do the same thing.
+
+197
+00:14:16.080 --> 00:14:23.790
+For Event two, because we know this guy and we know that in inertial reference frame, the relative
+
+198
+00:14:23.790 --> 00:14:26.250
+remains concerned he zooms via the cause of last.
+
+199
+00:14:27.090 --> 00:14:33.570
+Well, we know that this guy is not changing, so we would get the same result, right?
+
+200
+00:14:34.350 --> 00:14:36.300
+This changes to a two of the team's two, a two.
+
+201
+00:14:36.630 --> 00:14:38.040
+We plug that guy straight in.
+
+202
+00:14:38.220 --> 00:14:39.660
+We end up with the same result.
+
+203
+00:14:39.870 --> 00:14:47.520
+So what we could do is we could just put the X to two that is equal to that guy and we get the result.
+
+204
+00:14:47.520 --> 00:14:54.390
+That's not surprising to somebody, stat. If you drop, if you're going at speed B and you drop a rock,
+
+205
+00:14:55.080 --> 00:14:56.720
+it's going to continue in the X direction.
+
+206
+00:14:56.730 --> 00:15:00.810
+Nothing is going to prevent it or stop it from traveling in the X direction.
+
+207
+00:15:00.900 --> 00:15:01.680
+This makes sense.
+
+208
+00:15:01.920 --> 00:15:03.570
+This drives well for our intuition.
+
+209
+00:15:04.140 --> 00:15:07.010
+We're on good track here, and that's why Philip is happy.
+
+210
+00:15:07.020 --> 00:15:07.670
+He's super happy.
+
+211
+00:15:07.710 --> 00:15:08.370
+Like all.
+
+212
+00:15:08.370 --> 00:15:11.760
+Yeah, baby, this is agreeing with my intuition, his degree of physics.
+
+213
+00:15:12.030 --> 00:15:12.840
+Let's continue.
+
+214
+00:15:13.290 --> 00:15:14.680
+We're going to find a conservation.
+
+215
+00:15:14.750 --> 00:15:16.470
+LATAM is concern to my preference for him.
+
+216
+00:15:16.470 --> 00:15:19.200
+I'm confident, you know, this is a classic idea.
+
+217
+00:15:19.200 --> 00:15:21.180
+It has to hold, has to hold no matter what.
+
+218
+00:15:21.690 --> 00:15:27.420
+OK, so what he does is, he says, OK, to continue this exercise, I need to figure out the Y component
+
+219
+00:15:27.660 --> 00:15:30.450
+so I can just pull out of my my bag of tricks.
+
+220
+00:15:30.790 --> 00:15:38.940
+Michael asked the addition formula, and I can calculate the wide Terrence's ball for state one event
+
+221
+00:15:38.940 --> 00:15:39.420
+one.
+
+222
+00:15:39.900 --> 00:15:44.790
+Well, I know from, you know, my my my hat tricks.
+
+223
+00:15:45.300 --> 00:15:48.840
+This guy is no more than v y t.
+
+224
+00:15:49.900 --> 00:15:52.690
+One, Prime.
+
+225
+00:15:54.520 --> 00:16:04.420
+Divided by our Lorentz factor times, one plus B rule, the relative over C squared.
+
+226
+00:16:06.200 --> 00:16:07.010
+Times.
+
+227
+00:16:09.570 --> 00:16:10.590
+The direction.
+
+228
+00:16:16.700 --> 00:16:17.150
+All right.
+
+229
+00:16:17.930 --> 00:16:18.920
+So what we can do.
+
+230
+00:16:21.390 --> 00:16:22.740
+Literally plug and chug, baby.
+
+231
+00:16:22.890 --> 00:16:25.850
+So we come down here, the next one, that's zero.
+
+232
+00:16:26.250 --> 00:16:27.930
+This guy cancels out.
+
+233
+00:16:29.240 --> 00:16:35.450
+That cancels, so we get one plus here, that's one we get a gallon bottom and we get nothing more than
+
+234
+00:16:35.450 --> 00:16:35.960
+a falling.
+
+235
+00:16:37.660 --> 00:16:41.920
+We could plug this guy in right down here, so that's a negative.
+
+236
+00:16:43.840 --> 00:16:44.530
+You not.
+
+237
+00:16:46.200 --> 00:16:51.810
+Over Gamma, and I'm going to write this guy in just so.
+
+238
+00:16:53.290 --> 00:16:55.510
+We can see the actual values this is negative.
+
+239
+00:16:56.200 --> 00:16:59.020
+You cannot divide it by the square root.
+
+240
+00:17:01.210 --> 00:17:05.860
+One minus v relative over C.
+
+241
+00:17:06.840 --> 00:17:08.250
+And it's quantity squared.
+
+242
+00:17:09.910 --> 00:17:15.890
+Basically, the Lorentz factor be OK, so that's what we end up with VI t two.
+
+243
+00:17:16.810 --> 00:17:19.570
+And we could do a similar calculation for event number two.
+
+244
+00:17:20.440 --> 00:17:22.690
+And we see the only difference is that you not.
+
+245
+00:17:24.290 --> 00:17:30.020
+The sign in front of you not changes, so you could deduce that, oh, we know this guy in here right
+
+246
+00:17:30.020 --> 00:17:36.780
+there, you know, we're going to get him on the bottom and we end up with the whitey.
+
+247
+00:17:38.410 --> 00:17:42.490
+Two is nothing more than positive.
+
+248
+00:17:43.120 --> 00:17:43.870
+You not.
+
+249
+00:17:45.360 --> 00:17:47.000
+Over the square root.
+
+250
+00:17:49.070 --> 00:17:58.870
+Of one minus the relative or C quantity squared is the same result, but it's opposite that.
+
+251
+00:17:58.940 --> 00:18:04.410
+That's what we discovered from using our classical idea is that the velocity is the same magnitude,
+
+252
+00:18:04.430 --> 00:18:06.000
+but has an opposite direction.
+
+253
+00:18:06.020 --> 00:18:07.850
+OK, so that's not very surprising.
+
+254
+00:18:08.090 --> 00:18:12.110
+But now we have all the ingredients to take this guy here.
+
+255
+00:18:12.800 --> 00:18:19.100
+Our conservation rule, and that's a formula for all these guys in and see what really happens.
+
+256
+00:18:19.430 --> 00:18:27.410
+But before we do that, what I want to do is record these ideas so you have them right in front of you.
+
+257
+00:18:29.240 --> 00:18:33.620
+What I'm going to say is that I put it down here the X.
+
+258
+00:18:35.190 --> 00:18:36.120
+He won.
+
+259
+00:18:37.480 --> 00:18:39.670
+Is equal to the relative.
+
+260
+00:18:42.190 --> 00:18:43.390
+So we get that guy there.
+
+261
+00:18:44.400 --> 00:18:46.740
+And to put the wine.
+
+262
+00:18:47.970 --> 00:18:48.830
+T one.
+
+263
+00:18:50.130 --> 00:18:51.960
+We're gonna bring that guy over there.
+
+264
+00:18:52.200 --> 00:18:53.340
+We're going to write it in here.
+
+265
+00:18:55.420 --> 00:18:56.770
+We get negative view, not.
+
+266
+00:18:59.000 --> 00:19:02.540
+Over square root one minus B or C.
+
+267
+00:19:04.290 --> 00:19:05.080
+On squared.
+
+268
+00:19:05.520 --> 00:19:08.490
+Little difficult to see that, and I'm just going to highlight this.
+
+269
+00:19:15.950 --> 00:19:18.140
+Sort of running out of board space here, I apologize.
+
+270
+00:19:18.500 --> 00:19:20.000
+So we end up with that result.
+
+271
+00:19:20.540 --> 00:19:24.510
+And we also want to record the same exact result right over here.
+
+272
+00:19:25.490 --> 00:19:29.420
+So we end up with the X T.
+
+273
+00:19:32.120 --> 00:19:42.620
+That's also a relative, and the Y Terrence's ball or state two is a positive.
+
+274
+00:19:43.870 --> 00:19:51.160
+You know what, the square root of one minus the relative or C squared?
+
+275
+00:19:51.610 --> 00:19:52.000
+All right.
+
+276
+00:19:52.330 --> 00:19:53.410
+So we end up with these guys.
+
+277
+00:19:53.410 --> 00:19:54.700
+Very important results.
+
+278
+00:19:57.910 --> 00:20:04.090
+And what we want to do is now plug them in the conservation of momentum formula.

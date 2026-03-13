@@ -1,0 +1,123 @@
+WEBVTT
+
+WEBVTT
+
+00:00.150 --> 00:06.330
+Art first RC circuits example problem here we have a resistance of one kill ohm and a capacitance of
+
+00:06.330 --> 00:07.840
+two micro Feraud.
+
+00:07.950 --> 00:14.120
+What time is required for the capacitor to discharge 99 percent of its original value.
+
+00:14.150 --> 00:15.420
+Her original charge.
+
+00:15.420 --> 00:17.070
+I mean that really is the key right here.
+
+00:17.080 --> 00:18.990
+You're doing a discharge case.
+
+00:18.990 --> 00:24.510
+If you do a discharge you should remember that the charge is a function of time.
+
+00:24.510 --> 00:26.490
+Remember it's some exponential decay.
+
+00:26.490 --> 00:33.180
+So it really is some initial value multiplied by this exponential function and since it's a decay it's
+
+00:33.180 --> 00:38.830
+minus T divided by R C was the time constant.
+
+00:38.880 --> 00:39.600
+All right.
+
+00:39.600 --> 00:45.270
+So we know what R is you know what the capacitance is is to micro Feraud what we need Knows What do
+
+00:45.270 --> 00:45.800
+we do with this.
+
+00:45.800 --> 00:48.570
+Ninety nine percent of its original charge.
+
+00:48.600 --> 00:55.420
+So if the original charges zero how much charge do you have left if you've discharged 99 percent.
+
+00:55.740 --> 01:02.280
+So what you should know is that the charge that we have now is really only 1 percent Leffe.
+
+01:02.280 --> 01:03.430
+So it's one over a.
+
+01:03.450 --> 01:10.220
+Multiplied by the initial charge this is how much charge you have left if you've discharged 99 percent.
+
+01:10.230 --> 01:12.810
+So now we simply substitute things into here.
+
+01:13.230 --> 01:19.080
+And the same thing exponential of mine is t divided by r c.
+
+01:19.590 --> 01:22.490
+Ok so now we can simplify this expression a little bit.
+
+01:22.710 --> 01:29.050
+You can cross out the Q knots and now really what you're asking for now is what time.
+
+01:29.070 --> 01:32.900
+So we're really looking for just this time over here we know everything else in this equation.
+
+01:32.940 --> 01:34.990
+You simply have to isolate the time.
+
+01:35.010 --> 01:40.120
+So if you take the natural log on each side the natural log of one over a hundred.
+
+01:40.870 --> 01:45.090
+And this is going to be equal if you take natural log of an exponential you're simply left with the
+
+01:45.090 --> 01:46.720
+argument.
+
+01:46.740 --> 01:51.660
+Now you might think well isn't time going to be negative here from the right hand side of this equation.
+
+01:51.870 --> 01:56.730
+Well actually it's not because natural log of a fraction will also give me a negative number.
+
+01:56.730 --> 02:03.210
+So the last thing you got to do now is simply isolate the time and we're going to have an expression
+
+02:03.210 --> 02:11.790
+now is simply going to be equal to minus R C multiplied by the natural log of one divided by 100.
+
+02:11.820 --> 02:14.820
+Substituting everything we get.
+
+02:14.820 --> 02:16.990
+Now just make sure you're working in S-I units here.
+
+02:17.010 --> 02:24.140
+We're going to get minus one kill OAM is 1000 multiplied by two micro Feraud.
+
+02:24.570 --> 02:32.130
+That's 2.0 times ten to the minus 6 is micro and multiply by natural law of 1 over 100.
+
+02:32.760 --> 02:34.710
+All right so now you substitute the numbers in there.
+
+02:34.740 --> 02:43.000
+What you get is that the time is equal to nine point two multiplied by 10 to the minus three seconds.
+
+02:43.520 --> 02:47.140
+And that simply looks like $9.2 seconds.
+
+02:47.390 --> 02:51.930
+You kind of a standard this charging a capacitor problem.
+
+02:52.050 --> 02:52.820
+Hopefully you got that one.

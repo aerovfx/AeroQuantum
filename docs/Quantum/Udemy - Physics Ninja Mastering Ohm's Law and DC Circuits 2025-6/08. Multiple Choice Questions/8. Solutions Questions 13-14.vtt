@@ -1,0 +1,165 @@
+WEBVTT
+
+WEBVTT
+
+00:00.280 --> 00:07.020
+It for problem 13 says the EAF of the batteries six volts when the battery delivers a current of 0.5
+
+00:07.020 --> 00:12.270
+amps to the external circuit the potential difference between the terminals of the battery is five point
+
+00:12.270 --> 00:13.510
+eight volts.
+
+00:13.590 --> 00:16.310
+The internal resistance of the battery is what.
+
+00:16.320 --> 00:25.110
+So again all we have to do for this one let's just consider a ideal battery is a six volt battery and
+
+00:25.110 --> 00:33.360
+it has some internal resistance trying to find and just consider this small segment of current.
+
+00:33.390 --> 00:37.830
+Now we're going to say there we're going to assume there is a current eye going through and the current
+
+00:37.860 --> 00:40.660
+EIS 0.5 amps.
+
+00:40.680 --> 00:44.140
+This ideal battery six volts we're really looking for what are is.
+
+00:44.400 --> 00:50.430
+And when we measure the potential difference between the ends what do we end up measuring is five point
+
+00:50.430 --> 00:51.460
+eight.
+
+00:52.200 --> 00:56.970
+So you can imagine here if we call this point A and Point B.
+
+00:57.660 --> 01:02.270
+So the difference of potential is 5.8 between points and point B.
+
+01:02.510 --> 01:08.320
+So let's just go from point A to Point B what would we get good V-A is equal to.
+
+01:08.510 --> 01:09.170
+Sorry.
+
+01:09.780 --> 01:14.700
+You get V-A where you start and now you go through those six full battery you get an increase of potential
+
+01:14.700 --> 01:22.710
+of six and then I get a drop equal to the current flowing through it multiplied by the internal resistance.
+
+01:22.740 --> 01:25.650
+Then you end up going all the way to point B.
+
+01:25.650 --> 01:35.120
+So let me just rearrange just a little bit so you get six minus I are equal to VB minus v.
+
+01:35.700 --> 01:40.270
+All right and VB VI of mine is V-A is my 5.8 volts.
+
+01:40.270 --> 01:40.550
+All right.
+
+01:40.560 --> 01:43.590
+So the only unknown again we know the current here is 0.5.
+
+01:43.590 --> 01:48.660
+So you simply have to just rearrange this equation a little bit.
+
+01:48.660 --> 01:56.140
+So you're going to get six minus five point eight equals to zero point five multiplied by R..
+
+01:56.160 --> 02:00.720
+This guy gives me 0.2 0.5 r.
+
+02:00.740 --> 02:06.550
+So at the end you get Rs 0.4 ohms OK.
+
+02:07.090 --> 02:09.130
+0.2 divided by 0.5.
+
+02:09.130 --> 02:12.400
+So the correct answer for this one has to be choice.
+
+02:13.210 --> 02:13.450
+All right.
+
+02:13.450 --> 02:20.140
+Hubble 14:14 says a wire is connected to a battery of a constant voltage and negligible internal resistance
+
+02:20.950 --> 02:24.180
+by decreasing which of the following.
+
+02:24.180 --> 02:26.730
+Can we increase the power dissipated in the wire.
+
+02:28.400 --> 02:28.760
+Rs.
+
+02:28.800 --> 02:35.550
+So what we have here again with value for the resistance is the resists Dev-T the length and divided
+
+02:35.550 --> 02:36.660
+by the area.
+
+02:36.660 --> 02:37.980
+Now we have different choices here.
+
+02:37.980 --> 02:39.290
+We can play with the length.
+
+02:39.300 --> 02:43.350
+Here let me maybe switch the notation here so that we have the same thing.
+
+02:43.350 --> 02:47.060
+D is the diameter of the wire row's the resistivity.
+
+02:47.250 --> 02:52.270
+So all we want to do if we want to increase the power we have a fixed voltage.
+
+02:52.290 --> 02:56.710
+Again our power now is simply this V squared over r.
+
+02:56.760 --> 03:00.470
+So how would I increase the power I want to make.
+
+03:00.470 --> 03:05.930
+Are as small as possible and I do that by well.
+
+03:06.090 --> 03:09.650
+If I make l small thats going to make the resistance small.
+
+03:09.780 --> 03:14.820
+If I make d small Now thats going to make the resistance big because I'm going to make the cross-sectional
+
+03:14.820 --> 03:20.510
+area small if I divide by a small number that's going to increase my resistance.
+
+03:20.790 --> 03:23.130
+So certainly can't be Alan.
+
+03:23.670 --> 03:30.360
+How about choice C choice C has decrease L and the resistivity both of those are in the numerator over
+
+03:30.360 --> 03:30.570
+here.
+
+03:30.570 --> 03:35.460
+So if you do decrease both of those you're going to end up decreasing the resistance which is what we
+
+03:35.460 --> 03:37.860
+want so that one works.
+
+03:37.860 --> 03:44.460
+We've already said it can't be d so it's not only the resistance L it's really both of them have the
+
+03:44.460 --> 03:50.280
+same effect of increasing the power dissipated in that wire.
+
+03:50.290 --> 03:52.050
+It seems the correct answer for this point.

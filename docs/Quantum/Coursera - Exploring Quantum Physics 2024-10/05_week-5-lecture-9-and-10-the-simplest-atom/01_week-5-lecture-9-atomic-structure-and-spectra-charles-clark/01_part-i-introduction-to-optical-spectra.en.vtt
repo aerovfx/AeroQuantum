@@ -1,0 +1,409 @@
+WEBVTT
+
+1
+00:00:00.850 --> 00:00:02.210
+Hello everyone.
+
+2
+00:00:02.210 --> 00:00:05.770
+Welcome back to exploring Quantum Physics,
+I'm Charles Clark.
+
+3
+00:00:05.770 --> 00:00:11.235
+This week, we're going to look at solving
+some of the practical problems of quantum
+
+4
+00:00:11.235 --> 00:00:16.318
+mechanics using the vehicle of the theory
+of atomic structure and spectra.
+
+5
+00:00:16.318 --> 00:00:19.173
+We'll start with an overview
+of optical spectrosopy,
+
+6
+00:00:19.173 --> 00:00:23.650
+it's a subject with great scientific and
+technological importance.
+
+7
+00:00:23.650 --> 00:00:27.350
+In some sense it's responsible for
+modern telecommunications infrastructure,
+
+8
+00:00:27.350 --> 00:00:31.250
+the knowledge that we have about
+the properties of the sun and stars.
+
+9
+00:00:31.250 --> 00:00:36.930
+And it's one that provided really
+compelling evidence, a very
+
+10
+00:00:36.930 --> 00:00:41.800
+deep quantitative evidence, for
+the existence of quantum mechanics.
+
+11
+00:00:43.570 --> 00:00:50.638
+Now from the course homepage you can get
+to this section, Additional Materials.
+
+12
+00:00:50.638 --> 00:00:55.108
+And within it you'll find a section
+called, Original scientific literature.
+
+13
+00:00:55.108 --> 00:01:01.008
+And we will be using two of
+the papers here in the homework.
+
+14
+00:01:01.008 --> 00:01:07.453
+Bohr model of the atom, and, The
+photoelectric affect, a paper by Einstein.
+
+15
+00:01:07.453 --> 00:01:11.214
+You'll really need to look at these in
+order to answer some of the homework
+
+16
+00:01:11.214 --> 00:01:12.790
+questions.
+
+17
+00:01:12.790 --> 00:01:18.190
+It does not require the reading of
+the full paper, but I hope you will get
+
+18
+00:01:18.190 --> 00:01:24.498
+some enjoyment out of having read original
+work by Niels Boor and Albert Einstein.
+
+19
+00:01:29.193 --> 00:01:32.400
+You're all familiar with
+a beautiful rainbow.
+
+20
+00:01:32.400 --> 00:01:38.030
+An effect seen when sunlight
+is scattered in a certain way.
+
+21
+00:01:38.030 --> 00:01:42.995
+And it seems that all the colors that we
+can perceive are found within the rainbow.
+
+22
+00:01:44.955 --> 00:01:49.328
+Now here's an important tool for
+spectroscopy.
+
+23
+00:01:49.328 --> 00:01:55.598
+We have white light entering
+into this prism here.
+
+24
+00:01:55.598 --> 00:02:01.220
+And then you see output of a band
+of colors running from red to blue.
+
+25
+00:02:02.920 --> 00:02:08.080
+This technique, this is basically what you
+might call a deep multiplexing system.
+
+26
+00:02:08.080 --> 00:02:10.110
+The pure white light comes in and
+
+27
+00:02:10.110 --> 00:02:12.970
+what comes out is a spread
+out mixture of colors.
+
+28
+00:02:12.970 --> 00:02:17.230
+This is the technique used by
+Isaac Newton to demonstrate
+
+29
+00:02:17.230 --> 00:02:20.340
+that white light of the sun was
+indeed a mixture of colors.
+
+30
+00:02:20.340 --> 00:02:24.420
+Because what he did was pick
+off a particular color,
+
+31
+00:02:24.420 --> 00:02:27.200
+let's say the blue, and
+put it through a second prism
+
+32
+00:02:27.200 --> 00:02:31.265
+to find that no further
+separation of the color occurred.
+
+33
+00:02:31.265 --> 00:02:36.448
+So, from the modern perspective,
+color is a proxy for
+
+34
+00:02:36.448 --> 00:02:40.844
+the wavelength or
+the frequency of the light,
+
+35
+00:02:40.844 --> 00:02:46.608
+which are related by this characteristic,
+wave equation.
+
+36
+00:02:46.608 --> 00:02:51.190
+The frequency of a wave motion is equal
+to its speed divided by its wavelength.
+
+37
+00:02:55.380 --> 00:02:58.695
+Now here's a rather clever
+demonstration of the inverse action of
+
+38
+00:02:58.695 --> 00:02:59.888
+the separation light.
+
+39
+00:02:59.888 --> 00:03:06.887
+This is a multiplexing effect,
+where one combines a violet,
+
+40
+00:03:06.887 --> 00:03:12.150
+a green, and
+a red light by the following way.
+
+41
+00:03:12.150 --> 00:03:14.730
+There's a laser, you can't really see it.
+
+42
+00:03:14.730 --> 00:03:17.818
+These are cylinders of water
+with a hole poured into it.
+
+43
+00:03:17.818 --> 00:03:22.395
+And when they're illuminated
+from behind the laser light is
+
+44
+00:03:22.395 --> 00:03:27.070
+entrained in the stream of water
+that's falling into a dish.
+
+45
+00:03:28.210 --> 00:03:31.880
+And what you see coming out of
+the dish is scattered light.
+
+46
+00:03:31.880 --> 00:03:35.610
+It's just a random mixture of the violet,
+the green, and the red colors, so
+
+47
+00:03:35.610 --> 00:03:36.720
+it looks white.
+
+48
+00:03:36.720 --> 00:03:37.370
+So in other words,
+
+49
+00:03:37.370 --> 00:03:41.230
+this shows the combination of
+these three different colors.
+
+50
+00:03:41.230 --> 00:03:42.320
+It gives apparent white light.
+
+51
+00:03:43.870 --> 00:03:48.610
+Now I use this illustration
+in part to introduce
+
+52
+00:03:48.610 --> 00:03:53.810
+the three reference lasers that we'll
+use for discussions during the course.
+
+53
+00:03:53.810 --> 00:03:59.028
+These are three commonly used laser
+lights that you've seen in practice.
+
+54
+00:03:59.028 --> 00:04:04.323
+For example, the red laser pointer
+with a wavelength of 650 nm is widely
+
+55
+00:04:04.323 --> 00:04:09.990
+used in lectures and presentations,
+as is the green laser pointer.
+
+56
+00:04:09.990 --> 00:04:15.580
+The diode pumped solid state green laser
+pointer with the wavelength of 532 nm.
+
+57
+00:04:16.980 --> 00:04:21.822
+And then the Blu-Ray laser
+player utilizes a violet
+
+58
+00:04:21.822 --> 00:04:25.630
+laser with a wavelength of 405 nm.
+
+59
+00:04:25.630 --> 00:04:29.820
+These spread the range of
+human vision as we'll see, and
+
+60
+00:04:29.820 --> 00:04:33.018
+so they provide a good set of basic tools.
+
+61
+00:04:33.018 --> 00:04:35.193
+If you want to remember
+properties of light,
+
+62
+00:04:35.193 --> 00:04:37.378
+it's nice to have some specific examples.
+
+63
+00:04:37.378 --> 00:04:45.088
+So we'll use these the number of points
+in the lectures and the homework.
+
+64
+00:04:45.088 --> 00:04:49.543
+Okay, now we'll just have the first and
+only inline quiz of this introductory
+
+65
+00:04:49.543 --> 00:04:53.950
+lecture to give you some practice in
+thinking about the properties of light.
+
+66
+00:04:55.570 --> 00:04:59.950
+So, the main message of the inline
+quiz was that when you combine
+
+67
+00:04:59.950 --> 00:05:02.420
+two photons to produce a third,
+
+68
+00:05:02.420 --> 00:05:06.240
+you add the energies of the two photons
+to get the energy of the third.
+
+69
+00:05:06.240 --> 00:05:11.157
+So that the light from
+the green laser pointer is made
+
+70
+00:05:11.157 --> 00:05:15.860
+my combining the energy
+of two infrared photons.
+
+71
+00:05:20.000 --> 00:05:23.830
+Now the rainbow is a very smooth
+appearing object, and those colors that
+
+72
+00:05:25.400 --> 00:05:30.510
+you saw dispersed by the prism also
+seem to form a relatively smooth band.
+
+73
+00:05:30.510 --> 00:05:35.204
+But about almost exactly 200 years ago,
+Joseph Fraunhofer,
+
+74
+00:05:35.204 --> 00:05:39.043
+looking at the spectrum of
+sun with high resolution,
+
+75
+00:05:39.043 --> 00:05:44.788
+found that it exhibited a number of rather
+sharp features of a mysterious type.
+
+76
+00:05:48.428 --> 00:05:52.530
+And here is a modern study
+of the spectrum of the sun.
+
+77
+00:05:52.530 --> 00:05:57.960
+The rainbow has been sort of
+spread out here, and stretched, so
+
+78
+00:05:57.960 --> 00:06:04.000
+that you can see very narrow
+regions of wavelength
+
+79
+00:06:04.000 --> 00:06:07.570
+where there are dark spots
+in the structure of the sun.
+
+80
+00:06:09.930 --> 00:06:17.300
+Here are reference lasers laid out
+roughly where their wavelengths lie.
+
+81
+00:06:17.300 --> 00:06:23.920
+And this notch here is going to be
+of great interest to us later on.
+
+82
+00:06:25.070 --> 00:06:31.744
+So when this phenomena was discovered
+it was not understood at all.
+
+83
+00:06:31.744 --> 00:06:37.004
+And there was no physical theory
+that suggested why the smooth
+
+84
+00:06:37.004 --> 00:06:43.190
+light of the sun should be disrupted by so
+many apparent imperfections.

@@ -1,0 +1,921 @@
+WEBVTT
+
+1
+00:00:18.040 --> 00:00:18.430
+All right.
+
+2
+00:00:18.460 --> 00:00:22.870
+To wrap up this session and give you some experience at the concepts we've been talking about, namely
+
+3
+00:00:22.870 --> 00:00:27.760
+the Doppler shift, what I thought would be a good idea is to run through an example problem where you
+
+4
+00:00:28.000 --> 00:00:29.710
+design your own radar system.
+
+5
+00:00:29.980 --> 00:00:34.600
+It's going to be a simplified one and also work through some of the problems you might encounter when
+
+6
+00:00:34.600 --> 00:00:37.730
+trying to execute it and implement it in the real world.
+
+7
+00:00:37.770 --> 00:00:43.780
+OK, so for the problem statement, for this example problem, we're going to take a look at Terrance
+
+8
+00:00:43.780 --> 00:00:44.270
+and Phillip.
+
+9
+00:00:44.320 --> 00:00:51.700
+Terrance is going to try and monitor the traffic using a radar gun that you're going to design, and
+
+10
+00:00:51.700 --> 00:00:57.630
+he's going to try assess the velocity of Philip riding in his car away from him.
+
+11
+00:00:57.640 --> 00:01:01.240
+So the problem statement says to monitor the traffic.
+
+12
+00:01:01.480 --> 00:01:08.080
+Terrence designed a radar gun that emits a signal with a frequency, if not a 36 gigahertz.
+
+13
+00:01:08.470 --> 00:01:11.980
+You decide that you're going to send out this signal, it's going to have that frequency.
+
+14
+00:01:12.310 --> 00:01:18.490
+And as we discussed previously, we want to fly out, hit the car, come back and measure the frequency
+
+15
+00:01:18.490 --> 00:01:19.150
+we obtain.
+
+16
+00:01:19.450 --> 00:01:21.910
+That's going to give us information regarding the velocity.
+
+17
+00:01:22.450 --> 00:01:28.510
+But the rest of the province states that when Philip flies by, parents is gone, receives the emitted
+
+18
+00:01:28.510 --> 00:01:30.700
+signal back with a frequency change.
+
+19
+00:01:30.700 --> 00:01:35.920
+We're going to measure the change in the frequency, the what the wave form that comes back.
+
+20
+00:01:36.340 --> 00:01:39.700
+We're going to get a delta of negative ten point three two kilohertz.
+
+21
+00:01:40.180 --> 00:01:45.730
+And what we want to figure out is how fast is Philip traveling when he's traveling away from parents?
+
+22
+00:01:46.240 --> 00:01:52.330
+Now, when you work through this problem and you're trying to design an algorithm for calculating the
+
+23
+00:01:52.330 --> 00:01:58.510
+velocity of the car that's speeding up, what you have to ask is what equation drives, what equation
+
+24
+00:01:58.510 --> 00:01:59.050
+do I use?
+
+25
+00:01:59.680 --> 00:02:05.380
+The first thing you're going to say is, well, parent or fill up is traveling in a car at a speed that
+
+26
+00:02:05.590 --> 00:02:06.760
+is Newtonian.
+
+27
+00:02:06.760 --> 00:02:08.590
+In a sense, it's not just the speed of light.
+
+28
+00:02:08.620 --> 00:02:15.610
+So can we or can we not get away of using a simplified non relativistic form of the Doppler shift equation?
+
+29
+00:02:15.610 --> 00:02:16.060
+Can we?
+
+30
+00:02:16.450 --> 00:02:22.540
+Yes, indeed we can, because he's going to be traveling very slow, and that's the justification for
+
+31
+00:02:22.540 --> 00:02:22.960
+using it.
+
+32
+00:02:23.170 --> 00:02:27.670
+We're getting high accuracy with the simplified non relativistic equation.
+
+33
+00:02:27.680 --> 00:02:29.620
+So that's the first equation we're going to use.
+
+34
+00:02:29.950 --> 00:02:36.940
+And that's a question we have to ask is how many times of the Doppler shift that phenomenon, that concept,
+
+35
+00:02:37.240 --> 00:02:38.890
+how many times is it applied?
+
+36
+00:02:39.220 --> 00:02:43.000
+Well, initially we shoot out a beam, then it's going to hit the car.
+
+37
+00:02:43.300 --> 00:02:48.610
+So we're going to have a Doppler shift that fill up actually seasonless car, but then it's going to
+
+38
+00:02:48.610 --> 00:02:49.930
+bounce back and come back.
+
+39
+00:02:50.200 --> 00:02:54.040
+And because he's traveling away, he's increasing the distance between them.
+
+40
+00:02:54.220 --> 00:02:56.650
+It's going to experience another Doppler shift.
+
+41
+00:02:56.680 --> 00:03:02.500
+Now what we talk about when running through Doppler shifts and radar in particular, that's the main
+
+42
+00:03:02.890 --> 00:03:05.020
+application we had in the section.
+
+43
+00:03:05.230 --> 00:03:07.180
+So we have to have a 280 opposite.
+
+44
+00:03:07.570 --> 00:03:12.460
+So it's important when you design your algorithm, you use this equation here for the non relativistic
+
+45
+00:03:12.460 --> 00:03:15.730
+Doppler shift, which accounts for the phenomenon twice.
+
+46
+00:03:16.120 --> 00:03:19.690
+All right, now that we have a general form of the equation, we're going to use for our algorithm.
+
+47
+00:03:19.990 --> 00:03:23.440
+Next, we want a question do we want a positive sign here or a negative sign, right?
+
+48
+00:03:24.280 --> 00:03:30.010
+Depending upon the situation at hand, whether the car is traveling away or traveling toward the radar
+
+49
+00:03:30.010 --> 00:03:33.910
+gun, we're going to get different effects arising right when it's traveling away.
+
+50
+00:03:34.060 --> 00:03:37.590
+That's increasing the wavelength, but decreasing the frequency right.
+
+51
+00:03:37.600 --> 00:03:43.390
+So when the the object is moving away from the source, we need to put a negative sign, right?
+
+52
+00:03:43.600 --> 00:03:49.120
+We want the frequency to be smaller, right, because it's not going to hit him as frequently when it's
+
+53
+00:03:49.120 --> 00:03:50.260
+traveling towards him.
+
+54
+00:03:50.470 --> 00:03:52.060
+We would need a positive sign.
+
+55
+00:03:52.060 --> 00:03:58.060
+So we've selected the correct equation here and now all we need to do is isolate the term that we're
+
+56
+00:03:58.060 --> 00:03:58.600
+interested in.
+
+57
+00:03:58.600 --> 00:04:04.870
+So where is it in the relative velocity of fill up the parents respect to his radar gun?
+
+58
+00:04:05.110 --> 00:04:10.780
+And what we could do is we could say, wait a second, the frequency of the beam with that comes back,
+
+59
+00:04:11.890 --> 00:04:12.190
+right?
+
+60
+00:04:12.910 --> 00:04:18.160
+We we we don't know that because our device is going to measure a change in frequency and that's typically
+
+61
+00:04:18.160 --> 00:04:19.000
+what you observe.
+
+62
+00:04:19.240 --> 00:04:22.060
+And a lot of radar guns when it's doing these computations.
+
+63
+00:04:22.060 --> 00:04:29.260
+So we have to convert this first to use the terms that we do have are givens and then we can isolate
+
+64
+00:04:29.260 --> 00:04:37.420
+the re the V relative and get a nice expression for what our radar gun should be computing once it gets
+
+65
+00:04:37.420 --> 00:04:38.920
+all these quantities back, OK?
+
+66
+00:04:39.250 --> 00:04:43.780
+So we know that f prime would be f not plus the change, right?
+
+67
+00:04:43.780 --> 00:04:53.980
+Because the change, the change Delta F not or Delta F, this is no different than the final, which
+
+68
+00:04:53.980 --> 00:04:59.200
+would be f prime minus f not only make that more pronounced for you.
+
+69
+00:04:59.620 --> 00:05:04.570
+So when you add that to f, not the f not cancel on your left with the f prime original.
+
+70
+00:05:05.340 --> 00:05:09.490
+So we're going to substitute in that equation here.
+
+71
+00:05:09.970 --> 00:05:16.000
+So f not you can literally just isolated f prime is equal to Delta F plus f not.
+
+72
+00:05:16.480 --> 00:05:17.410
+And then when you divide by.
+
+73
+00:05:17.540 --> 00:05:19.100
+Sky on the left right here.
+
+74
+00:05:19.580 --> 00:05:24.140
+We do that, we end up with this expression and now all you need to do is isolate the relatives.
+
+75
+00:05:24.140 --> 00:05:27.740
+So what we're going to do is we're going to subtract this already here.
+
+76
+00:05:27.950 --> 00:05:30.830
+We're going to take to the Yellow Sea over here.
+
+77
+00:05:30.830 --> 00:05:36.560
+So we end up with a one minus this term here, which is showing up in our final form right there.
+
+78
+00:05:36.770 --> 00:05:39.200
+And then we have to be row over sea over here.
+
+79
+00:05:39.590 --> 00:05:42.320
+All we need to do is multiply by sea over two.
+
+80
+00:05:43.160 --> 00:05:44.320
+That's how we get that guy.
+
+81
+00:05:44.510 --> 00:05:47.360
+And this is our final expression.
+
+82
+00:05:47.450 --> 00:05:49.490
+OK, so we've got this nice expression here.
+
+83
+00:05:49.670 --> 00:05:52.250
+And what's going to happen when we set up a signal?
+
+84
+00:05:52.250 --> 00:05:53.150
+It's going to bounce off.
+
+85
+00:05:53.150 --> 00:05:54.140
+It's kind of come back.
+
+86
+00:05:54.500 --> 00:05:57.890
+We're going to measure, we're going to measure the change in the frequency.
+
+87
+00:05:58.100 --> 00:06:01.700
+And then it's going to do a competition like this and display the last.
+
+88
+00:06:01.720 --> 00:06:05.660
+That's how radar guns in police cars actually work.
+
+89
+00:06:05.900 --> 00:06:07.850
+This is what they're doing behind the scene.
+
+90
+00:06:07.880 --> 00:06:09.770
+All you see is just the velocity, OK?
+
+91
+00:06:10.070 --> 00:06:12.440
+So it's a bit more complicated than that.
+
+92
+00:06:12.440 --> 00:06:17.090
+You know, you can't just have one single beam going on usually sends out like a cone.
+
+93
+00:06:17.360 --> 00:06:22.460
+So we get this wide spread, so it's easier to get a red signal back.
+
+94
+00:06:23.510 --> 00:06:27.050
+And there are some other problems that we're going to go through in the second part of this problem.
+
+95
+00:06:27.350 --> 00:06:33.590
+But this is an equation we could get right here now just for fun and just to emphasize that this equation
+
+96
+00:06:33.590 --> 00:06:34.670
+still is valid.
+
+97
+00:06:35.450 --> 00:06:41.810
+What I want to do is I also want to derive the same exact equation using a relativistic Doppler shift,
+
+98
+00:06:42.080 --> 00:06:47.510
+and then we're going to plug in numbers and see if there's any difference if we gain any kind of accuracy
+
+99
+00:06:47.510 --> 00:06:51.320
+by using a more complex and intricate form.
+
+100
+00:06:51.390 --> 00:06:54.440
+OK, so we're going to use a relativistic Doppler shift.
+
+101
+00:06:54.830 --> 00:07:01.100
+We still have to use a two way Doppler shift, and we have to use the form for the object moving away
+
+102
+00:07:01.130 --> 00:07:01.880
+from the source.
+
+103
+00:07:02.360 --> 00:07:08.030
+So in our previous videos, what we found is that that form is as follows.
+
+104
+00:07:08.390 --> 00:07:12.020
+And we can use our intuition to make sure that it is of the correct form.
+
+105
+00:07:12.920 --> 00:07:18.320
+So what we know is that if it's traveling away, the frequency is going to drop because the wavelength
+
+106
+00:07:18.320 --> 00:07:19.460
+is going to increase right.
+
+107
+00:07:19.460 --> 00:07:20.720
+We're increasing that distance.
+
+108
+00:07:21.230 --> 00:07:28.070
+So the same number of crest not hit this vehicle if it was stationary.
+
+109
+00:07:28.370 --> 00:07:35.330
+So the equation we get the f prime should be smaller than the original frequency.
+
+110
+00:07:35.330 --> 00:07:41.150
+And we see that happening because one minus the fraction making it smaller over one plus a fraction.
+
+111
+00:07:41.330 --> 00:07:45.080
+If you divide by that, it's making it smaller even more.
+
+112
+00:07:45.200 --> 00:07:50.210
+So this is the correct form that we want to use and we want to do is we want to get rid of this f prime,
+
+113
+00:07:50.420 --> 00:07:51.740
+just as we did previously.
+
+114
+00:07:51.860 --> 00:07:57.410
+Using this equation here again, we isolate f prime the Delta F plus f not ban.
+
+115
+00:07:57.410 --> 00:08:00.860
+Plug that baby in and divide by this f not over here.
+
+116
+00:08:02.220 --> 00:08:08.280
+We can multiply that by the OnePlus virale over sea to get this guy, and all we need to do is try and
+
+117
+00:08:08.280 --> 00:08:08.750
+isolate.
+
+118
+00:08:09.240 --> 00:08:12.150
+So you can see, you know, as many more lines.
+
+119
+00:08:12.390 --> 00:08:18.120
+It's a little bit more convoluted to get the expression we want, and it becomes even more convoluted
+
+120
+00:08:18.300 --> 00:08:22.470
+if we're doing a one way Doppler shift where we have the square roots, they sort of cancel out because
+
+121
+00:08:22.470 --> 00:08:23.520
+we have to apply it twice.
+
+122
+00:08:24.210 --> 00:08:27.090
+But you can see it's a bit more complex complex already.
+
+123
+00:08:27.090 --> 00:08:33.570
+So is a trade off in terms of increasing the complexity in order to get some more accuracy, right?
+
+124
+00:08:33.570 --> 00:08:34.800
+So it requires some more work.
+
+125
+00:08:35.160 --> 00:08:36.790
+Let's just chug along.
+
+126
+00:08:36.810 --> 00:08:42.000
+So what we need to do is we need to isolate the relevancy, and what we could do is initially we can
+
+127
+00:08:42.000 --> 00:08:47.790
+just multiply by sea on both sides, which I'm going to do now.
+
+128
+00:08:49.470 --> 00:08:53.310
+We think that got rid of that, get rid of that.
+
+129
+00:08:53.910 --> 00:08:59.490
+And what happens is when you multiply by sea on both sides, see times one, we were all see the sea
+
+130
+00:08:59.490 --> 00:09:00.210
+disappears.
+
+131
+00:09:01.710 --> 00:09:03.720
+And you just get something like that.
+
+132
+00:09:04.280 --> 00:09:06.660
+That's what we want to do, is basically be relative.
+
+133
+00:09:07.110 --> 00:09:13.170
+So what we can do is we want to pull the V relatives onto one side, so we add this guy over, so we
+
+134
+00:09:13.170 --> 00:09:19.530
+get one plus B relative times this frequency fraction as follows.
+
+135
+00:09:19.650 --> 00:09:19.960
+OK.
+
+136
+00:09:20.820 --> 00:09:24.170
+And then we also want to isolate the CS on the right side.
+
+137
+00:09:24.180 --> 00:09:28.040
+We have one see you want to bring this C over, so it becomes a minus.
+
+138
+00:09:28.040 --> 00:09:34.650
+So we get C times one minus C times the frequency ratio, which is that's false.
+
+139
+00:09:34.980 --> 00:09:39.060
+And then all that's left really is to divide by this big hunk of junk.
+
+140
+00:09:39.450 --> 00:09:42.930
+And we get the following so you can see this guy compared to that guy.
+
+141
+00:09:43.620 --> 00:09:44.700
+It's not as elegant.
+
+142
+00:09:44.940 --> 00:09:46.620
+We don't get as quick of a solution.
+
+143
+00:09:46.620 --> 00:09:53.910
+And furthermore, I programmed some radar algorithms, which are much more complex than this.
+
+144
+00:09:53.910 --> 00:09:55.170
+But this is extremely support.
+
+145
+00:09:56.520 --> 00:10:01.860
+You know, when you start getting a lot of fractions and divisions and so on and so forth, that has
+
+146
+00:10:01.860 --> 00:10:07.860
+the potential of introducing bugs introduced, introducing errors when you're actually trying to program
+
+147
+00:10:07.860 --> 00:10:07.980
+it.
+
+148
+00:10:08.340 --> 00:10:10.860
+So that comes at a cost, right?
+
+149
+00:10:11.220 --> 00:10:16.860
+You usually what you do is you program an algorithm and then you do testing to verify that it's operating
+
+150
+00:10:17.070 --> 00:10:17.970
+as expected.
+
+151
+00:10:17.970 --> 00:10:18.810
+That's good engineering.
+
+152
+00:10:18.810 --> 00:10:21.240
+That's good systems engineering, if you will.
+
+153
+00:10:21.450 --> 00:10:24.840
+So you have like a testing department and they would test all this information.
+
+154
+00:10:25.590 --> 00:10:32.970
+And if you find errors and if you have to test more things with a more convoluted equation that increases
+
+155
+00:10:32.970 --> 00:10:37.690
+your cost, and it also increases the chance for putting out a bad product.
+
+156
+00:10:37.710 --> 00:10:38.780
+And also your timeline?
+
+157
+00:10:38.790 --> 00:10:39.080
+OK.
+
+158
+00:10:39.360 --> 00:10:40.230
+So that's a trade off.
+
+159
+00:10:40.230 --> 00:10:47.760
+So you're real trading time, cost and potential defects by going with this more convoluted route.
+
+160
+00:10:47.790 --> 00:10:48.060
+OK.
+
+161
+00:10:48.360 --> 00:10:53.190
+This would be ideal if we get the accuracy that's I'm going to show you shortly.
+
+162
+00:10:53.190 --> 00:10:55.290
+OK, so we've got these two approaches now.
+
+163
+00:10:55.290 --> 00:11:01.080
+All we need to do is plug and chug, put in our information and see what kind of result we get.
+
+164
+00:11:01.320 --> 00:11:06.990
+So if we take our givens, which is the source frequency of thirty six gigahertz that we shoot out and
+
+165
+00:11:06.990 --> 00:11:12.660
+a change of negative ten point three two kilohertz and again, that makes sense because what it's going
+
+166
+00:11:12.660 --> 00:11:18.870
+further away, we're increasing the distance to half travel as a result, the frequency so we should
+
+167
+00:11:18.870 --> 00:11:19.260
+drop.
+
+168
+00:11:19.410 --> 00:11:19.740
+OK.
+
+169
+00:11:19.950 --> 00:11:24.540
+So taking that information and taking our form here for the non relativistic equation.
+
+170
+00:11:25.760 --> 00:11:27.260
+All I need to do is plug in shock.
+
+171
+00:11:27.530 --> 00:11:33.560
+So one minus ethanol plus Delta F. That's one minus 36 times tend to the night.
+
+172
+00:11:34.310 --> 00:11:35.240
+That's four gigahertz.
+
+173
+00:11:36.210 --> 00:11:39.210
+Minus ten thousand three hundred and twenty Hertz, four kilohertz.
+
+174
+00:11:40.290 --> 00:11:46.950
+Ten point three, two kilohertz and any divide by the original frequency of wave form, which is thirty
+
+175
+00:11:46.950 --> 00:11:48.420
+six points 10 to the ninth hertz.
+
+176
+00:11:48.930 --> 00:11:53.190
+And I just multiply by our speed of light three times Terminator two.
+
+177
+00:11:53.940 --> 00:12:00.600
+And when you do that, it's your favorite program or your calculator to three, your preference.
+
+178
+00:12:00.810 --> 00:12:07.080
+You plug and chug and you end up with the relative is equal to 43 meters per second.
+
+179
+00:12:07.530 --> 00:12:10.380
+So that's how fast a slope is going.
+
+180
+00:12:10.590 --> 00:12:15.150
+And you can see Terry here has a little smirk on his face because he's noticing he can give him a ticket.
+
+181
+00:12:15.420 --> 00:12:22.050
+So he's excited because he he got revenge on Philip for making him do all those annoying experiments,
+
+182
+00:12:22.050 --> 00:12:22.260
+right?
+
+183
+00:12:22.650 --> 00:12:24.570
+OK, so we got that result here.
+
+184
+00:12:24.720 --> 00:12:26.730
+He's going forty three meters per second.
+
+185
+00:12:27.030 --> 00:12:29.790
+And this is a pretty viable design for a radar gun rights.
+
+186
+00:12:29.790 --> 00:12:31.890
+Very similar simple radar system.
+
+187
+00:12:31.890 --> 00:12:33.930
+So yes, be proud of yourself.
+
+188
+00:12:33.930 --> 00:12:36.360
+You have designed your first radar system.
+
+189
+00:12:38.010 --> 00:12:42.540
+It's probably the simplest radar system you can buy in a consumer marketplace.
+
+190
+00:12:42.610 --> 00:12:47.970
+OK, so let's repeat the exact same calculation using the relativistic result.
+
+191
+00:12:48.210 --> 00:12:51.870
+So when we do that, we see that, you know, it's not as nice.
+
+192
+00:12:51.870 --> 00:12:52.830
+It's much more convoluted.
+
+193
+00:12:52.830 --> 00:13:01.230
+We got a ton of frickin fractions going on here, but all we need to do is take one minus f not plus
+
+194
+00:13:01.230 --> 00:13:01.880
+Delta F.
+
+195
+00:13:01.890 --> 00:13:09.990
+We got those guys their one minus f not plus Delta F, so three six times telling the truth hurts minus
+
+196
+00:13:09.990 --> 00:13:13.950
+ten thousand three hundred twenty hertz divided by the original frequency.
+
+197
+00:13:13.950 --> 00:13:15.600
+Thirty six to deny Hertz.
+
+198
+00:13:16.050 --> 00:13:20.100
+Then you divide all that junk by one plus thirty six.
+
+199
+00:13:20.550 --> 00:13:26.460
+The original frequency thirty six times to the ninth hertz plus Delta F, minus ten thousand three hundred
+
+200
+00:13:26.460 --> 00:13:31.650
+twenty hertz divided by the original frequency as follows thirty six gigahertz thirty six on Saturday
+
+201
+00:13:31.650 --> 00:13:32.190
+night Hertz.
+
+202
+00:13:33.090 --> 00:13:37.380
+And then you multiply by the speed of light the C right there, which is three times ten to the meters
+
+203
+00:13:37.380 --> 00:13:37.890
+per second.
+
+204
+00:13:38.520 --> 00:13:42.790
+And when you do that, plug and chug, what you end up with is low and behold.
+
+205
+00:13:42.790 --> 00:13:43.920
+It looks very similar, right?
+
+206
+00:13:44.220 --> 00:13:51.180
+We get forty three point zero zero zero zero zero six meters per second, so you see the difference
+
+207
+00:13:51.180 --> 00:13:52.170
+here and.
+
+208
+00:13:53.350 --> 00:13:57.400
+You know, you see this and you got you say, OK, that's a minimal difference, right?
+
+209
+00:13:57.700 --> 00:13:59.410
+This is essentially identical to this.
+
+210
+00:13:59.800 --> 00:14:06.940
+We put in all this work to get this more complex expression and equation and then really bias anything
+
+211
+00:14:06.940 --> 00:14:07.150
+right?
+
+212
+00:14:07.330 --> 00:14:14.830
+It can increase our time, our cost and the deficiencies in our final product by giving us no more additional
+
+213
+00:14:14.830 --> 00:14:15.140
+apps.
+
+214
+00:14:15.160 --> 00:14:19.690
+We don't need this accuracy because this, in essence, is pretty close to 43 meters per second.
+
+215
+00:14:19.690 --> 00:14:25.540
+If something was going 43 miles per seven miles per hour, that's how we usually measure things in the
+
+216
+00:14:26.320 --> 00:14:27.580
+United States standards.
+
+217
+00:14:28.420 --> 00:14:32.830
+You know, if you saw someone 40 miles per hour, you don't care if they're going that.
+
+218
+00:14:34.020 --> 00:14:37.590
+If they had that fraction in there, right, that's that's negligible, we don't care about that.
+
+219
+00:14:37.860 --> 00:14:41.070
+So you throw it out and generally radar systems with manmade targets.
+
+220
+00:14:42.360 --> 00:14:43.530
+That's why we use this.
+
+221
+00:14:43.650 --> 00:14:45.120
+This not an altruistic form.
+
+222
+00:14:45.510 --> 00:14:46.980
+It's more elegant.
+
+223
+00:14:47.220 --> 00:14:52.770
+It's simpler, and it expedites our path to the solution next.
+
+224
+00:14:53.130 --> 00:14:59.370
+What I want to do is I want to question what would happen if, let's say, Terrence starts shooting
+
+225
+00:14:59.370 --> 00:14:59.670
+off his.
+
+226
+00:15:00.450 --> 00:15:02.640
+And for some reason, he misses fill up.
+
+227
+00:15:03.030 --> 00:15:09.030
+Maybe there's clutter preventing him from reading his exact signal.
+
+228
+00:15:09.240 --> 00:15:17.280
+And as a result, he has to hop in a car and chase him in a cruiser and try and measure this while traveling
+
+229
+00:15:17.280 --> 00:15:20.100
+at a speed that is not stationary.
+
+230
+00:15:20.130 --> 00:15:21.870
+OK, let's jump to that next.

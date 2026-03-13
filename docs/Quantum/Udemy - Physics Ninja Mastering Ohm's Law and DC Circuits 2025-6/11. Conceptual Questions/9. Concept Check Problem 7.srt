@@ -1,0 +1,253 @@
+WEBVTT
+
+00:00.320 --> 00:01.670
+It so here problem 7.
+
+00:01.770 --> 00:06.330
+I battery with five identical bulbs are shown.
+
+00:06.330 --> 00:11.040
+What happens when they switches close close up that switch.
+
+00:11.050 --> 00:12.180
+Here are some choices.
+
+00:12.180 --> 00:15.450
+All five bulbs turn on with equal brightness.
+
+00:15.570 --> 00:19.520
+All five bulbs turn on but they don't have equal brightness.
+
+00:19.850 --> 00:23.280
+One of the bulbs does not turn on the other four have equal brightness.
+
+00:23.320 --> 00:28.380
+Any other choice is to more the bulbs do not turn on one of the bulbs does not turn on the other for
+
+00:28.380 --> 00:32.830
+turn on but they dont have equal brightness or you have no idea.
+
+00:32.880 --> 00:34.310
+Hopefully you didn't choose that one.
+
+00:34.680 --> 00:35.030
+All right.
+
+00:35.040 --> 00:38.020
+So the key here is that they are identical.
+
+00:38.130 --> 00:46.650
+So if you want to label all of them are you can do that same resistance and we have one voltage here
+
+00:46.740 --> 00:49.450
+one battery connected to this.
+
+00:49.470 --> 00:54.430
+So first thing you would kind of consider is well there is going to be a current at least in this bridge.
+
+00:54.450 --> 00:57.460
+All right are going to have some current Let's call it current.
+
+00:58.130 --> 01:03.630
+So what we want to do now is try to argue what is going to be the current in each.
+
+01:03.760 --> 01:09.010
+For this I'm going to try to use symmetry I'm going to try really not to write down a lot of equations.
+
+01:09.720 --> 01:15.600
+So symmetry means you just compare the different sides and if they kind of look the same it's probably
+
+01:15.600 --> 01:18.480
+because things kind have to be the same.
+
+01:18.660 --> 01:20.150
+So let's go over here.
+
+01:20.190 --> 01:26.280
+Imagine here we have a junction so whatever current is flowing through this branch let's call it a and
+
+01:26.300 --> 01:29.860
+the current down in this branch and makes sense to call it IB.
+
+01:30.060 --> 01:35.190
+Right we know that from the junction rule that the total current flowing into the junction has to be
+
+01:35.190 --> 01:36.680
+the total flowing out.
+
+01:36.990 --> 01:39.320
+So you have to have this.
+
+01:39.390 --> 01:44.590
+I said I was going to write down any equations that look to me I'm writing down equations boy.
+
+01:45.090 --> 01:45.300
+All right.
+
+01:45.300 --> 01:47.620
+How about down over here at this end.
+
+01:48.330 --> 01:51.870
+Well again let's assume here again the current is going to flow down this resistance.
+
+01:51.870 --> 01:56.180
+This will be the current ID and is going to be a current over here.
+
+01:56.190 --> 01:58.350
+I e right.
+
+01:58.980 --> 02:04.920
+So on the other end I know that the total current I hear is still the same that has to be the same current
+
+02:04.950 --> 02:06.860
+everywhere in this branch.
+
+02:06.920 --> 02:14.960
+So you also have to have this ID plus IB they're both flowing into the junction.
+
+02:15.000 --> 02:21.240
+They have to be what's flowing out of the junction so the other argument you have to say now is well
+
+02:22.350 --> 02:23.850
+look at both of these resistors right.
+
+02:23.850 --> 02:25.540
+They're both the same.
+
+02:25.860 --> 02:33.300
+So why would the current you know if saw we previously talked quite a bit about simplifying networks
+
+02:33.300 --> 02:34.730
+of resistors.
+
+02:34.770 --> 02:41.640
+Actually if you try to simplify this case here you really can't simplify it in terms of series resistance
+
+02:41.700 --> 02:47.320
+only series and sorry parallel networks.
+
+02:47.430 --> 02:53.120
+This case doesn't work because of resistance see it complicates things over here.
+
+02:53.430 --> 02:55.620
+So you really can't do that for this problem.
+
+02:55.620 --> 02:57.280
+It really doesn't work.
+
+02:57.330 --> 03:00.240
+No that's why I say we're going to have to use symmetry here.
+
+03:00.300 --> 03:05.460
+So these guys don't work but more current.
+
+03:05.460 --> 03:12.510
+I say in IAB again since the resistors are kind of the same you should be able to argue that I must
+
+03:12.510 --> 03:17.120
+be equal to the current IB because they're all the same over here.
+
+03:17.400 --> 03:21.230
+So whatever current flows in has to be the current flowing out.
+
+03:21.800 --> 03:27.390
+And likewise I think you should be able to argue that the current ID also must be equal to the current
+
+03:27.450 --> 03:33.900
+i.e. the only time you're going to get different currents in different branches is if the resistances
+
+03:33.900 --> 03:40.020
+are going to be different if the resistances are the same you always get the same current flowing through
+
+03:40.020 --> 03:42.630
+those different branches.
+
+03:42.670 --> 03:46.500
+So now once you've kind of argued this case over here.
+
+03:46.750 --> 03:49.200
+Well now you consider the voltage across right.
+
+03:49.200 --> 03:51.360
+If you do start over here the voltage.
+
+03:51.410 --> 03:53.590
+So you at some particular voltage up here.
+
+03:53.670 --> 04:05.980
+Call it B and the voltage drop across the resistance are a voltage drop across that resistance.
+
+04:05.980 --> 04:12.370
+It's simply that all of the resistance multiplied by the current And that's going to be the same voltage
+
+04:12.370 --> 04:13.560
+drop.
+
+04:13.630 --> 04:20.520
+If I go crawl across a distance R B so that there must also be equal to this guy.
+
+04:20.830 --> 04:23.560
+That's the voltage drop across resistance.
+
+04:24.070 --> 04:32.920
+So that means at this point coin 1 and point 2 are at the exact same potential.
+
+04:33.850 --> 04:38.220
+And if they are at the exact same potential at the end you should be able to convince yourself that
+
+04:38.230 --> 04:45.040
+that is there is no voltage difference between Point 1 and point 2 voltage at point 1 is equal to the
+
+04:45.040 --> 04:47.140
+voltage at point 2.
+
+04:47.200 --> 04:53.200
+So if there's no voltage difference it means that the current flowing through the resistance C must
+
+04:53.200 --> 04:56.020
+be equal to zero.
+
+04:56.410 --> 04:57.820
+Because there is no voltage difference.
+
+04:57.820 --> 05:02.380
+The only time you get a current current through any point is if there is voltage difference between
+
+05:02.380 --> 05:04.240
+the two.
+
+05:04.240 --> 05:08.990
+All right so at the end of this the say that the current through this middle is this there if they're
+
+05:08.980 --> 05:12.970
+all the same now if one of them is different that's that's going to change the situation.
+
+05:13.120 --> 05:15.350
+But if they're all the same.
+
+05:15.370 --> 05:17.980
+This is a specific case of a bridge network.
+
+05:17.980 --> 05:20.300
+They call this a bridge network.
+
+05:21.040 --> 05:25.030
+And we're going to find that there is no current flowing through through the resistance down the middle
+
+05:25.360 --> 05:28.740
+and are going to be the same current flowing going every else.
+
+05:28.870 --> 05:35.860
+So that means that the brightness of the 4 A B D and E are going to be the same.
+
+05:36.490 --> 05:41.580
+So the correct answer has to be choice number three.
+
+05:41.590 --> 05:44.210
+I mean one of the bulbs does not turn on.
+
+05:44.350 --> 05:45.500
+That will be the see.
+
+05:45.580 --> 05:49.880
+And the other four have equal brightness because they have the same current flowing through it.

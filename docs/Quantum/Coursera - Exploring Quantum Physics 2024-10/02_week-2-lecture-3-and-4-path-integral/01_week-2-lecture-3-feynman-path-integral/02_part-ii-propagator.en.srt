@@ -1,0 +1,992 @@
+1
+00:00:00,220 --> 00:00:03,650
+Now we're going to proceed with
+a more technical discussion and
+
+2
+00:00:03,650 --> 00:00:08,020
+derivation of Feynman's ideas,
+the Feynman path integral.
+
+3
+00:00:08,020 --> 00:00:09,820
+And I should mention here from the outset,
+
+4
+00:00:09,820 --> 00:00:13,580
+that if you're not interested
+in these technical details or
+
+5
+00:00:13,580 --> 00:00:17,670
+if you feel that your mathematical
+background is not sufficient to
+
+6
+00:00:17,670 --> 00:00:22,900
+follow them very closely, you may simply
+skip this and the following segment.
+
+7
+00:00:22,900 --> 00:00:27,840
+Because the rest of the course
+is not going to be heavily
+
+8
+00:00:27,840 --> 00:00:30,400
+dependent on this particular derivation.
+
+9
+00:00:30,400 --> 00:00:34,450
+But otherwise I would encourage to
+actually go through this derivation, and
+
+10
+00:00:34,450 --> 00:00:37,740
+maybe even work it out on
+your own after the lecture.
+
+11
+00:00:37,740 --> 00:00:41,660
+Because understanding it would help you
+develop intuition not only about the path
+
+12
+00:00:41,660 --> 00:00:46,480
+integral itself but
+about quantum mechanics more general.
+
+13
+00:00:47,800 --> 00:00:50,290
+Now, the object that
+we're going to discuss
+
+14
+00:00:50,290 --> 00:00:54,506
+in this particular segment
+is so-called propagator.
+
+15
+00:00:54,506 --> 00:01:00,270
+Which actually plays an important role
+in various aspects of quantum theory.
+
+16
+00:01:00,270 --> 00:01:05,380
+But at this level,
+we can view it simply as an attempt
+
+17
+00:01:05,380 --> 00:01:09,760
+to make quantum mechanics
+as close as possible
+
+18
+00:01:09,760 --> 00:01:14,820
+to the concepts that we understand
+intuitively in classical physics.
+
+19
+00:01:14,820 --> 00:01:19,020
+And these concepts involve, for example,
+the notion of a particle localized at
+
+20
+00:01:19,020 --> 00:01:23,140
+a point in space and the notion of
+trajectory that the particle follows.
+
+21
+00:01:23,140 --> 00:01:28,440
+Now, at the operational level, what it is,
+it involves the following constructions.
+
+22
+00:01:28,440 --> 00:01:34,080
+So let's assume that at an initial
+moment of time equals zero,
+
+23
+00:01:34,080 --> 00:01:39,750
+our quantum particle was localized in the
+vicinity of the regional point R-sub-i.
+
+24
+00:01:39,750 --> 00:01:44,485
+So by localized, I mean that its
+initial wave function psi(0),
+
+25
+00:01:44,485 --> 00:01:49,885
+t equals 0, is equal to R-sub-i,
+this [INAUDIBLE] vector which represents
+
+26
+00:01:49,885 --> 00:01:55,610
+the eigenvector of the position operator
+in corresponding to this point.
+
+27
+00:01:55,610 --> 00:01:59,850
+Or in physical terms, it means that
+this wave function is a very narrow wave
+
+28
+00:01:59,850 --> 00:02:03,530
+packet, localized in
+the vicinity of this R-sub-i,
+
+29
+00:02:03,530 --> 00:02:08,260
+very similar to the wave packet that
+we saw in the very first lecture,
+
+30
+00:02:08,260 --> 00:02:09,930
+in the last segment of
+the very first lecture.
+
+31
+00:02:11,150 --> 00:02:14,870
+And so
+this initial state is going to evolve
+
+32
+00:02:14,870 --> 00:02:16,820
+under the action of
+the Schrodinger equation.
+
+33
+00:02:16,820 --> 00:02:19,640
+Which is the standard Schrodinger
+equation with some kinetic energy and
+
+34
+00:02:19,640 --> 00:02:21,060
+potential energy.
+
+35
+00:02:21,060 --> 00:02:24,840
+And as we know from the first lecture,
+so this quantum
+
+36
+00:02:24,840 --> 00:02:28,720
+evolution will involve spreading
+out of this wave packet with time.
+
+37
+00:02:28,720 --> 00:02:31,705
+So instead of a localized
+sort of particle like entity,
+
+38
+00:02:31,705 --> 00:02:35,453
+it's going to become like a cloud
+surrounding this R-sub-i and this is
+
+39
+00:02:35,453 --> 00:02:39,660
+spreading out occurs in a very nontrivial
+fashion the presence of potential.
+
+40
+00:02:41,700 --> 00:02:44,440
+Now the question that we're going to ask,
+and
+
+41
+00:02:44,440 --> 00:02:50,160
+which brings us to this notion
+of a propagator, is what
+
+42
+00:02:50,160 --> 00:02:55,320
+part of this particle will propagate
+to a certain final point R-sub-f.
+
+43
+00:02:55,320 --> 00:02:56,778
+Or in other words,
+
+44
+00:02:56,778 --> 00:03:02,347
+what part of this spread out wave
+packet will be located near this point?
+
+45
+00:03:02,347 --> 00:03:08,117
+And this mathematically implies
+calculating the overlap between the final
+
+46
+00:03:08,117 --> 00:03:14,250
+wave function psi(t), which again is
+governed by the Schrodinger equation,
+
+47
+00:03:14,250 --> 00:03:20,910
+and this R-sub-f which describes a wave
+packet near some other final point.
+
+48
+00:03:20,910 --> 00:03:24,750
+So of course I don't want to give you
+the impression that the particle literally
+
+49
+00:03:24,750 --> 00:03:28,280
+propagates from one localized
+state to another localized state.
+
+50
+00:03:28,280 --> 00:03:32,798
+It does not, it actually spreads out
+in the quantum mechanical language.
+
+51
+00:03:32,798 --> 00:03:38,192
+But a part of this wave packet will
+indeed be located near this point,
+
+52
+00:03:38,192 --> 00:03:41,580
+and this is what we want to calculate.
+
+53
+00:03:41,580 --> 00:03:47,130
+And this overlap is the propagator
+that we're going to focus on.
+
+54
+00:03:47,130 --> 00:03:52,030
+Now, another question we may ask is
+how will the particle get there?
+
+55
+00:03:52,030 --> 00:03:57,910
+How will the particle go from the initial
+point to this partially final point?
+
+56
+00:03:57,910 --> 00:04:02,229
+So this question, strictly speaking,
+doesn't really make sense in the context
+
+57
+00:04:02,229 --> 00:04:05,809
+of the standard quantum theory
+based on the Schrodinger equation.
+
+58
+00:04:05,809 --> 00:04:10,776
+Because there is really no notion of the
+trajectory which implies the ability to
+
+59
+00:04:10,776 --> 00:04:14,184
+manage your momentum and
+coordinate at the same time,
+
+60
+00:04:14,184 --> 00:04:17,020
+which is not possible
+in quantum mechanics.
+
+61
+00:04:17,020 --> 00:04:22,045
+But as we will see in this
+different formulation by Feynman,
+
+62
+00:04:22,045 --> 00:04:24,515
+so this question sort
+of acquires a meaning.
+
+63
+00:04:24,515 --> 00:04:29,705
+And going to get ahead of ourselves,
+let me reiterate or advertise again,
+
+64
+00:04:29,705 --> 00:04:36,235
+that what we are going to find is that
+this particle goes from this initial point
+
+65
+00:04:36,235 --> 00:04:41,305
+to the final point for the all possible
+trajectories that we can possibly imagine.
+
+66
+00:04:41,305 --> 00:04:45,527
+So here are a few of those
+trajectories that I plot.
+
+67
+00:04:45,527 --> 00:04:52,073
+Right, now, to move on to actually
+calculate this overlap to this propagator,
+
+68
+00:04:52,073 --> 00:04:58,940
+clearly what we need to find is, well,
+the final wave function of psi(t).
+
+69
+00:04:58,940 --> 00:05:03,820
+We know the initial condition, we know
+what the final state we want to get.
+
+70
+00:05:03,820 --> 00:05:07,010
+Now we need to, well actually,
+solve the Schrodinger equation,
+
+71
+00:05:07,010 --> 00:05:09,690
+which in general is very complicated, but
+
+72
+00:05:09,690 --> 00:05:15,080
+there is a formal solution we can write
+using the so-called evolution operator.
+
+73
+00:05:15,080 --> 00:05:21,236
+So we're interested in solving
+the general Schrodinger equation here,
+
+74
+00:05:21,236 --> 00:05:25,119
+with some initial
+condition at t equals zero.
+
+75
+00:05:25,119 --> 00:05:29,518
+So I assume that we know the wave
+function at the initial moment of time.
+
+76
+00:05:29,518 --> 00:05:34,109
+So this of course, is a completely
+general formulation which is not
+
+77
+00:05:34,109 --> 00:05:37,572
+specific to derivation of
+any path integrals, but
+
+78
+00:05:37,572 --> 00:05:40,631
+well, in our case of
+the initial condition,
+
+79
+00:05:40,631 --> 00:05:46,160
+we have chosen to be this localized wave
+bracket near a certain point R-sub-i.
+
+80
+00:05:46,160 --> 00:05:49,947
+So in any case, well,
+to solve the Schrodinger equation,
+
+81
+00:05:49,947 --> 00:05:52,982
+this time-dependent Schrodinger equation,
+
+82
+00:05:52,982 --> 00:05:57,858
+basically means to find the wave
+function as a function of time, psi(t).
+
+83
+00:05:57,858 --> 00:06:02,235
+And the evolution operator
+that I just mentioned,
+
+84
+00:06:02,235 --> 00:06:09,200
+is formally relates the initial condition
+to the final wave function psi(t).
+
+85
+00:06:09,200 --> 00:06:14,860
+So its action is exactly, in some sense,
+rotation from psi(0) to psi(t).
+
+86
+00:06:14,860 --> 00:06:21,671
+I use the word rotation, having in mind
+this geometric picture that we introduced
+
+87
+00:06:21,671 --> 00:06:27,805
+last week to motivate the direct
+notations of this calculated psi(t).
+
+88
+00:06:27,805 --> 00:06:32,920
+Which in sums,
+are meant to represent an abstract vector,
+
+89
+00:06:32,920 --> 00:06:39,382
+in a linear vector space, responding
+to the state of the physical system.
+
+90
+00:06:39,382 --> 00:06:46,488
+Now if we did have a garden variety
+linear vector space as our Hilbert space,
+
+91
+00:06:46,488 --> 00:06:53,610
+which normally is very multidimensional so
+we can't really draw the axis.
+
+92
+00:06:53,610 --> 00:06:59,366
+But if we imagine for
+a second that we have, let's say,
+
+93
+00:06:59,366 --> 00:07:03,777
+just three axis and there is a state psi0,
+
+94
+00:07:03,777 --> 00:07:07,709
+which represents out initial state.
+
+95
+00:07:07,709 --> 00:07:09,721
+So the norm of this vector, so
+
+96
+00:07:09,721 --> 00:07:14,713
+the absolute value squared of this
+vector sort of corresponds to the total
+
+97
+00:07:14,713 --> 00:07:19,180
+probability of finding our quantum
+particle in a certain state.
+
+98
+00:07:19,180 --> 00:07:21,590
+And well, from the Born interpretation,
+
+99
+00:07:21,590 --> 00:07:24,370
+we can say that this
+probability is equal to 1.
+
+100
+00:07:24,370 --> 00:07:27,520
+We will find the particle,
+if it's there, in some state.
+
+101
+00:07:27,520 --> 00:07:31,810
+So the norm of this vector
+should be preserved as we
+
+102
+00:07:31,810 --> 00:07:32,950
+perform a quantum evolution.
+
+103
+00:07:32,950 --> 00:07:37,940
+So in some sense, the only thing we can
+imagine this vector doing as a function of
+
+104
+00:07:37,940 --> 00:07:41,475
+time under the action of
+the Schrodinger equation,
+
+105
+00:07:41,475 --> 00:07:47,105
+is rotation by some angle to
+a certain new state psi(t).
+
+106
+00:07:48,440 --> 00:07:52,810
+And this rotation, the operator which
+sort of enforces this rotation,
+
+107
+00:07:52,810 --> 00:07:54,660
+is exactly this evolution operator.
+
+108
+00:07:54,660 --> 00:07:58,185
+Again, so here I'm just trying
+to represent this in an intuity.
+
+109
+00:07:58,185 --> 00:08:02,180
+If we, in general, are dealing with
+a generic quantum mechanical problem,
+
+110
+00:08:02,180 --> 00:08:06,860
+there is no way to draw it, because we
+have, well, an infinitely dimensional
+
+111
+00:08:06,860 --> 00:08:11,300
+Hilbert space, but still at some
+level this picture is preserved.
+
+112
+00:08:11,300 --> 00:08:16,090
+So this evolution operator
+rotates a normalized state,
+
+113
+00:08:16,090 --> 00:08:21,100
+which describes a particle two different
+states, we describe the same particle.
+
+114
+00:08:21,100 --> 00:08:23,000
+Now, it turns out that we can actually,
+
+115
+00:08:23,000 --> 00:08:27,210
+instead of writing the Schrodinger
+equation for the wave function, we can as
+
+116
+00:08:27,210 --> 00:08:31,080
+well just write the same Schrodinger
+equation for the evolution operator.
+
+117
+00:08:31,080 --> 00:08:34,970
+The only thing we have to
+do is just to plug in this
+
+118
+00:08:34,970 --> 00:08:36,872
+equation into the Schrodinger equation.
+
+119
+00:08:36,872 --> 00:08:41,920
+We're are going to see that we have
+essentially the identical equation for
+
+120
+00:08:41,920 --> 00:08:43,930
+the evolution operator.
+
+121
+00:08:43,930 --> 00:08:48,527
+So HU(t), and the initial condition for
+
+122
+00:08:48,527 --> 00:08:52,867
+this equation is U(0) is equal to 1,
+
+123
+00:08:52,867 --> 00:08:57,221
+where 1 is just the identity operator.
+
+124
+00:08:57,221 --> 00:08:58,221
+So why?
+
+125
+00:08:58,221 --> 00:09:02,701
+Well, it sort of follows in a very
+simple way from its definition.
+
+126
+00:09:02,701 --> 00:09:04,343
+So if we look at this equation,
+
+127
+00:09:04,343 --> 00:09:08,892
+we see that the evolution operator evolves
+our initial condition to final state, but
+
+128
+00:09:08,892 --> 00:09:12,890
+if t is equal to 0, there is nothing
+to evolve, we just stay where we were.
+
+129
+00:09:12,890 --> 00:09:16,516
+And so therefore,
+if psi(0) is equal to psi(0), so
+
+130
+00:09:16,516 --> 00:09:21,040
+U(t) is equal to 1, and this is
+the initial condition we can enforce.
+
+131
+00:09:21,040 --> 00:09:23,530
+And one can guess in some sense, or
+
+132
+00:09:23,530 --> 00:09:28,660
+just pick a general solution to
+this matrix or operator equation,
+
+133
+00:09:28,660 --> 00:09:35,128
+which satisfies both the Schrodinger
+equation itself and the initial condition.
+
+134
+00:09:35,128 --> 00:09:40,820
+By writing U(t) as an exponential
+
+135
+00:09:40,820 --> 00:09:45,388
+of minus i over h bar h times t.
+
+136
+00:09:45,388 --> 00:09:50,212
+So well, if t equals 0,
+e exponent of 0 is equal to 1,
+
+137
+00:09:50,212 --> 00:09:54,631
+so thus it is why the required
+initial condition and
+
+138
+00:09:54,631 --> 00:09:57,539
+if we plug it into this equation.
+
+139
+00:09:57,539 --> 00:10:03,079
+So if we differentiate
+this with respect to time,
+
+140
+00:10:07,824 --> 00:10:13,707
+So while differentiating the exponential
+pulls out this coefficient,
+
+141
+00:10:13,707 --> 00:10:15,835
+minus i over h bar times h.
+
+142
+00:10:15,835 --> 00:10:20,345
+So, minus i times i is equal to
+1h divided by h is equal to 1.
+
+143
+00:10:20,345 --> 00:10:23,675
+So we're just going to have HE to the bar,
+
+144
+00:10:23,675 --> 00:10:30,400
+minus ih bar, H times t which
+indeed is equal to H times U.
+
+145
+00:10:30,400 --> 00:10:36,400
+Therefore, indeed so we satisfy
+the required Schrodinger equation.
+
+146
+00:10:36,400 --> 00:10:41,959
+So an interesting and attractive feature
+of this evolution operator is that
+
+147
+00:10:41,959 --> 00:10:46,950
+it solves the Schrodinger equation with
+all possible initial conditions in one go.
+
+148
+00:10:46,950 --> 00:10:51,180
+Because the evolution operator
+itself does not actually depend on
+
+149
+00:10:51,180 --> 00:10:52,060
+the initial conditions.
+
+150
+00:10:52,060 --> 00:10:54,936
+So we see that it has
+a universal initial condition.
+
+151
+00:10:54,936 --> 00:10:58,060
+And t equals 0, U is equal to 1.
+
+152
+00:10:58,060 --> 00:11:03,716
+So for instance here in the geometrical
+interpretation if we have, let's say,
+
+153
+00:11:03,716 --> 00:11:08,974
+different psi(0), let's say this
+will be psi(0), well, prime.
+
+154
+00:11:08,974 --> 00:11:15,211
+So the evolution of this other initial
+condition in this sort of Hilbert space,
+
+155
+00:11:15,211 --> 00:11:19,865
+would be a rotation by the same
+angle around the same axis but
+
+156
+00:11:19,865 --> 00:11:21,930
+to a different psi(t).
+
+157
+00:11:21,930 --> 00:11:26,758
+Lets say, psi(t) prime here,
+but the evolution operator that
+
+158
+00:11:26,758 --> 00:11:31,590
+would enforce this rotation will
+be exactly the same as before.
+
+159
+00:11:31,590 --> 00:11:34,290
+So it'll be exactly the same U(t).
+
+160
+00:11:34,290 --> 00:11:39,500
+So in our case in particular, so
+we're interested in knowing how
+
+161
+00:11:39,500 --> 00:11:43,150
+this particular initial
+condition evolves with time.
+
+162
+00:11:43,150 --> 00:11:50,100
+And therefore the wave function would
+be equal to e to the power minus i
+
+163
+00:11:50,100 --> 00:11:55,230
+over H, Hamiltonian times time
+acting on this initial condition.
+
+164
+00:11:55,230 --> 00:11:57,960
+So this is a exact and
+
+165
+00:11:57,960 --> 00:12:01,770
+universal solution of the Schrodinger
+equation, whatever it is.
+
+166
+00:12:01,770 --> 00:12:02,597
+With this and
+
+167
+00:12:02,597 --> 00:12:07,480
+you show condition of a localized
+particle in a certain region in space.
+
+168
+00:12:07,480 --> 00:12:10,050
+Now let us go back to
+the main question that we
+
+169
+00:12:10,050 --> 00:12:12,160
+posed in the beginning of this segment.
+
+170
+00:12:12,160 --> 00:12:17,160
+Namely, the question about the overlap
+
+171
+00:12:17,160 --> 00:12:21,841
+between the wave function
+psi(t) propagated
+
+172
+00:12:21,841 --> 00:12:27,050
+from the vicinity of the point R-sub-i and
+
+173
+00:12:27,050 --> 00:12:30,845
+wave back it localized in
+the vicinity of the point R-sub-f.
+
+174
+00:12:31,930 --> 00:12:38,030
+So, what we found in the previous
+slide is a formal exact expression for
+
+175
+00:12:38,030 --> 00:12:38,873
+this sub psi(t).
+
+176
+00:12:38,873 --> 00:12:43,335
+Sub psi(t) is the action of
+the evolution operation on the initial
+
+177
+00:12:43,335 --> 00:12:46,858
+condition R-sub-i, and
+therefore if you put 2 and
+
+178
+00:12:46,858 --> 00:12:50,144
+2 together the expression,
+or the propagator,
+
+179
+00:12:50,144 --> 00:12:54,388
+is going to be the following matrix
+element, it's going to be Rf.
+
+180
+00:12:54,388 --> 00:13:01,720
+Here we're going to have this
+evolution operator, Ht R-sub-i.
+
+181
+00:13:01,720 --> 00:13:04,545
+So this guy is simply this Psi(t).
+
+182
+00:13:06,880 --> 00:13:10,507
+And so
+we get the expression that we're actually
+
+183
+00:13:10,507 --> 00:13:15,526
+going to use in the next segment to
+derive the Feynman path integral.
+
+184
+00:13:15,526 --> 00:13:20,107
+So Feynman path integral is another
+representation of this matrix
+
+185
+00:13:20,107 --> 00:13:23,800
+element between Rf and
+Ri with this operator U(t).
+
+186
+00:13:23,800 --> 00:13:29,010
+So at this stage you may ask me,
+why would we bother to look for
+
+187
+00:13:29,010 --> 00:13:33,570
+any other expression for the propagator
+apart from the one we just derived,
+
+188
+00:13:33,570 --> 00:13:36,060
+which looks pretty compact and simple?
+
+189
+00:13:36,060 --> 00:13:38,920
+So the answer to this
+is that the simplicity
+
+190
+00:13:38,920 --> 00:13:43,730
+is deceptive because the main object here,
+this evolution operator,
+
+191
+00:13:43,730 --> 00:13:48,950
+involves exponentiating an operator,
+the Hamiltonian.
+
+192
+00:13:48,950 --> 00:13:53,240
+And to actually calculate such
+an exponential of an operator,
+
+193
+00:13:53,240 --> 00:13:57,240
+exponential of a matrix,
+is a rather complicated exercise.
+
+194
+00:13:57,240 --> 00:13:58,060
+And in general,
+
+195
+00:13:58,060 --> 00:14:03,210
+even to define the exponential of
+an operator is a tricky business.
+
+196
+00:14:03,210 --> 00:14:07,830
+So as a side comment here, let me remind
+you that for an arbitrary operator,
+
+197
+00:14:07,830 --> 00:14:14,110
+a matrix X, in our case this
+X is minus i over h bar Ht.
+
+198
+00:14:14,110 --> 00:14:17,750
+So its exponential is
+defined by the Taylor series.
+
+199
+00:14:17,750 --> 00:14:22,184
+So it's 1 plus X, plus X squared over 2,
+
+200
+00:14:22,184 --> 00:14:26,630
+plus X cubed over 3 factorial plus, etc.
+
+201
+00:14:26,630 --> 00:14:32,339
+And so to calculate this series with
+matrices operator is rather complicated.
+
+202
+00:14:33,516 --> 00:14:38,850
+And so the Feynman approach is, as we will
+see, essentially circumvents the need to
+
+203
+00:14:38,850 --> 00:14:44,920
+calculate this complicated exponential and
+from case this series right here.
+
+204
+00:14:44,920 --> 00:14:48,070
+And basically the end result,
+as we will see,
+
+205
+00:14:48,070 --> 00:14:52,070
+will be an expression that doesn't
+have any operators whatsoever.
+
+206
+00:14:52,070 --> 00:14:56,990
+And not only that, the final result
+also will have a very clear, intuitive
+
+207
+00:14:56,990 --> 00:15:01,279
+interpretation that we already advertised
+in the beginning of this lecture.

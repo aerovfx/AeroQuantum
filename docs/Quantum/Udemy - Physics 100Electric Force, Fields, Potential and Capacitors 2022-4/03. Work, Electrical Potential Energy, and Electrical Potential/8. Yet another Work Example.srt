@@ -1,0 +1,130 @@
+WEBVTT
+
+00:00.240 --> 00:05.910
+The follow up question to this would be how can we now calculate how much work was done in order to
+
+00:05.910 --> 00:07.460
+build the system.
+
+00:07.620 --> 00:11.090
+Right so we brought the first charge here and then we went all the way really far.
+
+00:11.090 --> 00:16.580
+Then we brought this second four micro cool on charge and kept the first one fixed right.
+
+00:16.610 --> 00:24.340
+We put potential energy into the system so the way you calculate work by any conservative force.
+
+00:24.960 --> 00:26.480
+Let me just read it like this.
+
+00:26.760 --> 00:32.040
+And conservative force so this could apply to anything.
+
+00:32.040 --> 00:33.990
+Now remember the force is not constant.
+
+00:34.920 --> 00:39.600
+So we can't really use just the force multiplied by the displacement guy.
+
+00:40.050 --> 00:46.860
+However whenever there is a conservative force we always have a potential energy associated with it.
+
+00:46.890 --> 00:50.970
+And for the electric force this is the potential energy.
+
+00:50.970 --> 00:54.460
+So the way you calculate the work done by the conservative force.
+
+00:54.510 --> 00:56.980
+Let me not forget this right here.
+
+00:57.390 --> 01:00.210
+Right force down here.
+
+01:00.210 --> 01:02.100
+In this case it's the electrical force.
+
+01:02.280 --> 01:07.890
+It's always minus the change in the potential energy.
+
+01:07.920 --> 01:11.250
+So let me show you how you would apply to this system.
+
+01:11.250 --> 01:20.610
+So again if I do negative a change it's always a final value of potential energy minus an initial value.
+
+01:20.610 --> 01:26.070
+If you bring this negative side through you multiply through in this case it ends up being the initial
+
+01:26.070 --> 01:30.500
+potential energy minus the final potential energy.
+
+01:30.510 --> 01:30.710
+All right.
+
+01:30.720 --> 01:36.180
+This is what we calculated for our problem here this here is really the final potential energy of the
+
+01:36.180 --> 01:37.820
+system.
+
+01:37.980 --> 01:40.140
+What is the initial potential energy.
+
+01:40.140 --> 01:46.800
+Well initial is when this charger was really really far away when it was far away the initial is actually
+
+01:47.100 --> 01:52.740
+this guy right here because we had to go get it from somewhere and then place it here.
+
+01:52.800 --> 01:55.700
+So the initial potential energy for us is zero.
+
+01:55.710 --> 02:04.320
+And my final is this so I can calculate that the work done in this case by the electric force is going
+
+02:04.320 --> 02:09.180
+to be negative zero point zero to four joules.
+
+02:09.240 --> 02:10.870
+So why is it negative.
+
+02:10.930 --> 02:19.260
+OK it's important understand why it's negative again as you're bringing this charge closer.
+
+02:19.260 --> 02:25.560
+This guy here was fixed kind of glued it there as you're bringing the second one closer remember there
+
+02:25.560 --> 02:33.390
+is an electric force acting on it but as I brought it closer the displacement is actually in this direction
+
+02:35.380 --> 02:39.600
+now although I can't use the equation force times displacement to calculate it.
+
+02:39.750 --> 02:44.270
+I can still use it just to look at is the work going to be positive or negative.
+
+02:44.390 --> 02:50.970
+And in this case the force is this way the displacement is this way when those when those two vectors
+
+02:51.000 --> 02:57.030
+are opposite of each other you always get a 180 degrees between them that would always give you a negative
+
+02:57.030 --> 02:58.050
+work.
+
+02:58.440 --> 03:02.650
+So the electric field does negative work in this problem.
+
+03:02.650 --> 03:09.450
+That means that my applied force would do the opposite of that.
+
+03:10.230 --> 03:15.090
+And in this case this would be zero point zero to four joules OK.
+
+03:15.120 --> 03:19.330
+So I would end up doing positive work and this is how much work I did.
+
+03:19.380 --> 03:22.280
+This is how much energy I've stored in this system.

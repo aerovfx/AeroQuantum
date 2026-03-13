@@ -1,0 +1,1491 @@
+1
+00:00:18,080 --> 00:00:18,570
+All right.
+
+2
+00:00:18,620 --> 00:00:23,300
+In our last video, we are able to make great progress in our study, a special relativity.
+
+3
+00:00:23,630 --> 00:00:25,280
+What exactly did we accomplish?
+
+4
+00:00:25,670 --> 00:00:31,160
+We are able to take the ideas that we discovered and proved previously, such as time dilation and length
+
+5
+00:00:31,160 --> 00:00:38,750
+contraction, and use that as a supporting evidence, the foundational support that allowed us to bridge
+
+6
+00:00:38,750 --> 00:00:42,410
+the gap between an infinite set of perceptions of the universe.
+
+7
+00:00:42,440 --> 00:00:42,860
+OK.
+
+8
+00:00:43,190 --> 00:00:49,610
+So in essence, what we did is we derive this nice map, this nice translational tool known as the evil
+
+9
+00:00:49,610 --> 00:00:56,840
+wrench transformation that allows us to easily and effortlessly translate the experiences of any individual
+
+10
+00:00:56,840 --> 00:01:02,360
+with any perspective of the universe, such that the events that arise in these different perspectives
+
+11
+00:01:02,480 --> 00:01:05,330
+can be related and talked about intelligently.
+
+12
+00:01:05,660 --> 00:01:12,650
+Now what we're going to do in this video is we're going to try and unleash the unlimited power and potential
+
+13
+00:01:12,800 --> 00:01:14,480
+that is inherent within this tool.
+
+14
+00:01:14,840 --> 00:01:20,810
+Now, previously we saw the power this tool offer in resolving dilemmas and problems, right?
+
+15
+00:01:21,170 --> 00:01:28,070
+We used it to effortlessly resolve Einstein's famous twin paradox, or rather not the twin powers.
+
+16
+00:01:28,070 --> 00:01:29,630
+The train paradox, right?
+
+17
+00:01:29,870 --> 00:01:36,860
+Using this map, we were able to reconcile discrepancies and events that different perspective perceptive
+
+18
+00:01:36,950 --> 00:01:41,300
+perceptions disagreed about, and we resolve that pretty easily.
+
+19
+00:01:41,660 --> 00:01:42,800
+We're going to do the same thing.
+
+20
+00:01:42,800 --> 00:01:49,250
+We're going to show you how this map really simplifies your analysis and really allows you to get a
+
+21
+00:01:49,250 --> 00:01:53,630
+nice core understanding of what's going on in special relativity.
+
+22
+00:01:53,870 --> 00:01:55,700
+What exactly are we going to do?
+
+23
+00:01:55,910 --> 00:02:03,320
+We're going to tackle the last a topic in special relativity, at least for this course in which we
+
+24
+00:02:03,320 --> 00:02:09,530
+try to figure out how different perceptions of velocity give rise to different phenomena.
+
+25
+00:02:09,570 --> 00:02:09,920
+OK.
+
+26
+00:02:10,100 --> 00:02:13,490
+So, for example, this happens in everyday situations, right?
+
+27
+00:02:13,490 --> 00:02:18,800
+If you're in a car and somebody is standing on the land and you drive by, then you have another car
+
+28
+00:02:18,800 --> 00:02:19,460
+in front of you.
+
+29
+00:02:19,760 --> 00:02:24,710
+If that car is going faster, let's say you're going 50 and somebody else is going 60 miles per hour
+
+30
+00:02:25,070 --> 00:02:26,330
+to you in the car.
+
+31
+00:02:26,510 --> 00:02:32,660
+It may look like the dude in front of you is going at a speed of 10 miles per hour, but the individual
+
+32
+00:02:32,690 --> 00:02:38,120
+on the ground what he sees as the actual speed 60 miles per hour.
+
+33
+00:02:38,390 --> 00:02:46,640
+OK, so the Galilean transformation, the classical interpretation had this nice map for actually figuring
+
+34
+00:02:46,640 --> 00:02:49,520
+out what that is and relating those experiences.
+
+35
+00:02:49,820 --> 00:02:55,700
+This is known as the Galilean transformation, but we visited the same problem previously in the beginning
+
+36
+00:02:55,700 --> 00:02:56,180
+of the course.
+
+37
+00:02:56,180 --> 00:03:03,260
+Do you recall in the beginning of the course, I use this situation, this scenario, to spell out the
+
+38
+00:03:03,260 --> 00:03:06,050
+problems associated with the classical approach.
+
+39
+00:03:06,440 --> 00:03:11,960
+In essence, we worked with Terence to fill up in the experiment that's outlined here.
+
+40
+00:03:12,590 --> 00:03:14,690
+And what happened was Terence.
+
+41
+00:03:14,840 --> 00:03:19,910
+He was in a ship that was speeding to the right in the positive direction at a speed of zero point nine,
+
+42
+00:03:19,910 --> 00:03:21,710
+five times the speed of light, see?
+
+43
+00:03:22,340 --> 00:03:28,910
+And he shot a laser beam that shot, you know, photons and particles that went, obviously, as we
+
+44
+00:03:28,910 --> 00:03:32,900
+know from the second postulate, a special relativity, the speed of light, see?
+
+45
+00:03:33,410 --> 00:03:39,680
+Now, according to the Galilean transformation Philip, what he saw previously is he said, Oh, I've
+
+46
+00:03:39,680 --> 00:03:41,570
+got this relation in classical mechanics.
+
+47
+00:03:41,720 --> 00:03:49,250
+It says that my velocity, my perceived interpretation of the velocity p is just Terrence's perceive
+
+48
+00:03:49,250 --> 00:03:53,000
+velocity of prime, plus the relative velocity point, I see.
+
+49
+00:03:53,420 --> 00:03:59,030
+So if you take all those details together, that would lead fill up to say that, hey, to me, that
+
+50
+00:03:59,030 --> 00:04:06,770
+light is going to travel at a speed of 1.9 five times C, which obviously is wrong because in essence,
+
+51
+00:04:06,770 --> 00:04:11,990
+what he's going to see is and what we found in that video is he's going to see that this light travels
+
+52
+00:04:11,990 --> 00:04:15,290
+at well, it's not surprising the speed of light, right?
+
+53
+00:04:15,740 --> 00:04:21,470
+So what went wrong with this and how can we use this map to resolve that problem?
+
+54
+00:04:21,800 --> 00:04:26,060
+That's what we're going to do in this video, but you should be able to tell me what exactly went wrong
+
+55
+00:04:26,060 --> 00:04:26,480
+with this.
+
+56
+00:04:26,840 --> 00:04:33,050
+And the problem is, as you tell right here, this failed to account for the second postulate special
+
+57
+00:04:33,050 --> 00:04:33,860
+relativity, right?
+
+58
+00:04:34,130 --> 00:04:41,420
+When we derive the Galilean transformation, it was just a regular kinematic interpretation, and they
+
+59
+00:04:41,420 --> 00:04:41,930
+did not.
+
+60
+00:04:43,060 --> 00:04:49,420
+Mold the equations, they do not mold their interpretation, so they enforced the second postulate a
+
+61
+00:04:49,420 --> 00:04:50,350
+special relativity.
+
+62
+00:04:50,800 --> 00:04:55,900
+And as we know now, when you do that, it gives rise to special phenomena such as time dilation and
+
+63
+00:04:55,900 --> 00:04:56,980
+length contraction.
+
+64
+00:04:57,790 --> 00:05:04,930
+And with the Galilean transformation, we just assumed that the time T is equal to T prime that that
+
+65
+00:05:04,930 --> 00:05:06,910
+there was no difference between time.
+
+66
+00:05:06,910 --> 00:05:14,290
+That time flows at a constant rate, regardless of your reference frame, your perspective, your perception
+
+67
+00:05:14,290 --> 00:05:15,000
+of the universe.
+
+68
+00:05:15,060 --> 00:05:17,380
+OK, so that was fundamentally wrong.
+
+69
+00:05:17,380 --> 00:05:18,190
+That was flawed.
+
+70
+00:05:18,430 --> 00:05:21,670
+And when you observe things, close the speed of light.
+
+71
+00:05:23,010 --> 00:05:30,150
+That gets pushed out straight into the equation, and it starts to diverge away from what it actually
+
+72
+00:05:30,150 --> 00:05:35,430
+is, what actually happens in the universe, and that's why this guy was wrong.
+
+73
+00:05:35,850 --> 00:05:39,210
+Now to resolve this, what we can do, it's pretty straightforward.
+
+74
+00:05:39,600 --> 00:05:44,910
+And this is why I'm saying that it's really going to unleash the power that's inherent in the lunch
+
+75
+00:05:44,910 --> 00:05:45,690
+transformation.
+
+76
+00:05:45,990 --> 00:05:50,250
+All you have to do is take a look at the velocities and apply our map, right?
+
+77
+00:05:50,430 --> 00:05:52,140
+We can easily relate lengths.
+
+78
+00:05:52,710 --> 00:05:54,270
+We can easily relate times.
+
+79
+00:05:54,900 --> 00:05:56,140
+Let's do that right now.
+
+80
+00:05:56,160 --> 00:06:00,000
+OK, so we're going to revolve your lips and has this problem.
+
+81
+00:06:00,450 --> 00:06:01,680
+Fill up is freaking out.
+
+82
+00:06:02,670 --> 00:06:05,070
+Is, you know, he's pretty happy because he's shooting a laser beam.
+
+83
+00:06:05,070 --> 00:06:06,020
+And that's frickin awesome.
+
+84
+00:06:06,030 --> 00:06:12,060
+OK, so we put a line here to separate our Lorentz transformation and the work we're going to do.
+
+85
+00:06:12,570 --> 00:06:18,480
+What we can do is we could take a look at the definition of laxity, and that's going to be our blueprint.
+
+86
+00:06:18,480 --> 00:06:21,780
+That's going to be what drives us forward in this analysis.
+
+87
+00:06:21,780 --> 00:06:28,200
+So what we know is that the velocity in any reference frame, regardless of how you perceive it is your
+
+88
+00:06:28,200 --> 00:06:29,910
+velocity is no different.
+
+89
+00:06:29,910 --> 00:06:31,620
+Then you know, it's a derivative, right?
+
+90
+00:06:31,800 --> 00:06:43,260
+Basic physics one on one B, this is just d x d, or if you want to make this more complete in every
+
+91
+00:06:43,260 --> 00:06:50,760
+direction, you can use a position Vector R, which includes Dimensions X, Y and Z and the Cartesian
+
+92
+00:06:50,760 --> 00:06:51,510
+reference frame.
+
+93
+00:06:51,930 --> 00:06:59,790
+We say this velocity is nothing more than this, and this is just going to be valid where D.R. is the
+
+94
+00:06:59,790 --> 00:07:02,880
+distance, the change in distance between two points.
+
+95
+00:07:03,750 --> 00:07:04,050
+Right.
+
+96
+00:07:04,350 --> 00:07:05,460
+This is between.
+
+97
+00:07:06,780 --> 00:07:08,940
+Or rather, we can use an equal sign.
+
+98
+00:07:08,940 --> 00:07:14,190
+TR is no more than an hour to minus R one.
+
+99
+00:07:14,730 --> 00:07:15,020
+Right.
+
+100
+00:07:15,030 --> 00:07:19,020
+It's the difference between an event at point two and an event at zero point one.
+
+101
+00:07:19,290 --> 00:07:23,550
+Take the difference of their distance that gives you the change in your life.
+
+102
+00:07:23,580 --> 00:07:23,760
+Right.
+
+103
+00:07:23,760 --> 00:07:27,090
+So this is nothing more than a change in length of the change in time.
+
+104
+00:07:27,510 --> 00:07:31,080
+But what's interesting is I make some board space here.
+
+105
+00:07:31,560 --> 00:07:37,080
+We can relate V and V Prime pretty easily because, well, we can take these guys right here.
+
+106
+00:07:37,860 --> 00:07:42,330
+What's really cool is the Lorenz transformation is linear.
+
+107
+00:07:42,340 --> 00:07:43,580
+I'm going to see that again.
+
+108
+00:07:43,860 --> 00:07:48,090
+The Lorenz transformation is linear, right?
+
+109
+00:07:48,300 --> 00:07:55,130
+So what we find is that if you have an operator on one of these guys is going to get carried through.
+
+110
+00:07:55,140 --> 00:07:58,620
+So you know what, d x prime right?
+
+111
+00:07:58,630 --> 00:07:59,940
+This this is a constant.
+
+112
+00:07:59,940 --> 00:08:02,610
+It's linear, you know, if you take the derivative.
+
+113
+00:08:03,500 --> 00:08:06,370
+You're there to get Delta X Prize is equal to Ghana.
+
+114
+00:08:06,390 --> 00:08:08,800
+Delta X minus B Relative D.
+
+115
+00:08:09,060 --> 00:08:10,710
+That's because it's linear, right?
+
+116
+00:08:10,860 --> 00:08:16,110
+Linearity is something that occurs when you only have a constant multiply by your variable.
+
+117
+00:08:16,320 --> 00:08:21,450
+So we're going to take advantage of that right now to actually resolve this problem pretty quickly.
+
+118
+00:08:22,020 --> 00:08:25,620
+And we're going to let the math do this for us.
+
+119
+00:08:25,670 --> 00:08:33,300
+OK, so we could have this guy and we can relate these guys by saying, Oh, wait a second, the prime
+
+120
+00:08:33,300 --> 00:08:34,400
+is nothing more then.
+
+121
+00:08:35,240 --> 00:08:37,050
+Well, that's d.r prime.
+
+122
+00:08:38,430 --> 00:08:43,380
+The key problem and we're going to constrain what we look at for now on one dimension.
+
+123
+00:08:43,950 --> 00:08:49,140
+So we're going to assume that we have a situation where terrorism fill up are speeding along in one
+
+124
+00:08:49,140 --> 00:08:53,370
+direction, and we're going to take a look at Delta ex-Prime over that.
+
+125
+00:08:53,820 --> 00:08:55,950
+Well, what is Delta Prime?
+
+126
+00:08:57,150 --> 00:09:03,690
+Normally we would use this guy here, and this gave us problems because it didn't account for the second
+
+127
+00:09:03,690 --> 00:09:05,190
+possible special relativity.
+
+128
+00:09:05,550 --> 00:09:11,120
+The speed of light is always constant, but we have that embedded in this nice, powerful map that allows
+
+129
+00:09:11,130 --> 00:09:13,350
+the translate experiences, right?
+
+130
+00:09:13,350 --> 00:09:14,460
+So we don't have to think about it.
+
+131
+00:09:14,460 --> 00:09:16,610
+We just need a plug and chug in essence.
+
+132
+00:09:16,620 --> 00:09:20,040
+So what we could do is we can determine both of these parameters.
+
+133
+00:09:20,370 --> 00:09:25,440
+All we have to do is we just say, OK, the prime is, Oh, it's linear.
+
+134
+00:09:25,470 --> 00:09:26,910
+We write down this baby.
+
+135
+00:09:26,910 --> 00:09:28,660
+We get a delta account.
+
+136
+00:09:28,800 --> 00:09:30,390
+The whole wrench factor right there.
+
+137
+00:09:32,610 --> 00:09:42,380
+That's literally just Delta X minus B relative d c simple baby.
+
+138
+00:09:42,420 --> 00:09:46,260
+We can do the same thing with the prime data.
+
+139
+00:09:46,260 --> 00:09:47,910
+Manage linearity, right?
+
+140
+00:09:48,030 --> 00:09:51,620
+And if this does not sit well with you, you can literally just say yes.
+
+141
+00:09:51,810 --> 00:09:53,060
+Try it, try it and you can.
+
+142
+00:09:53,130 --> 00:09:55,080
+You can prove linearity yourself.
+
+143
+00:09:55,770 --> 00:09:56,580
+You can say yes.
+
+144
+00:09:56,580 --> 00:10:00,570
+Prime is no different than Oh, that's x to prime minus x one prime.
+
+145
+00:10:01,470 --> 00:10:07,710
+And you're going to find that if you take X to prime and subtract x one prime, you can group these
+
+146
+00:10:07,710 --> 00:10:09,400
+guys put that guy in.
+
+147
+00:10:09,720 --> 00:10:11,490
+You get the same exact result.
+
+148
+00:10:11,550 --> 00:10:11,910
+OK.
+
+149
+00:10:12,090 --> 00:10:17,220
+I'm sort of jumping ahead a bit, assuming you guys have done basic algebra and you understand this
+
+150
+00:10:17,220 --> 00:10:17,910
+interpretation.
+
+151
+00:10:17,910 --> 00:10:22,800
+But if you don't make sure you go through that exercise, convince yourself and be confident in the
+
+152
+00:10:22,800 --> 00:10:29,010
+math that your confidence and your mathematical ability puts the results forward and guide what you're
+
+153
+00:10:29,010 --> 00:10:29,340
+doing.
+
+154
+00:10:29,670 --> 00:10:37,290
+So this becomes nothing more than the T minus B relative over C squared times.
+
+155
+00:10:37,290 --> 00:10:38,040
+D Yes.
+
+156
+00:10:39,120 --> 00:10:39,670
+All right.
+
+157
+00:10:40,020 --> 00:10:44,190
+So we got these guys and literally all we need to do is just plug them into this relationship.
+
+158
+00:10:44,610 --> 00:10:50,070
+It was that easy, and we can resolve this paradox without any headaches, any kind of problems.
+
+159
+00:10:50,250 --> 00:10:52,570
+Let's do that right now.
+
+160
+00:10:52,590 --> 00:10:52,840
+OK.
+
+161
+00:10:52,880 --> 00:11:02,910
+So in the X direction v x prime just becomes nothing more than the X Prime or DC Prime.
+
+162
+00:11:03,930 --> 00:11:07,170
+And what we do is we just slap these guys straight on.
+
+163
+00:11:07,740 --> 00:11:13,830
+We get a gamma a d x minus the relative DC.
+
+164
+00:11:15,360 --> 00:11:17,670
+We divide by the prime.
+
+165
+00:11:19,160 --> 00:11:31,910
+Gamma times, the T minus the relative over C squared times the X and what we do is we can cancel all
+
+166
+00:11:31,910 --> 00:11:33,260
+these gamma factors.
+
+167
+00:11:33,860 --> 00:11:38,720
+And what we're going to say is we're going to divide by ADT on the top and bottom.
+
+168
+00:11:38,720 --> 00:11:40,520
+So in essence, we're just multiplying by one.
+
+169
+00:11:40,670 --> 00:11:45,230
+We take this guy multiply one over DC, over one over DC.
+
+170
+00:11:45,650 --> 00:11:48,200
+Bam, we distribute this guy.
+
+171
+00:11:48,500 --> 00:11:52,250
+What ends up equaling is, well, DC's over DC.
+
+172
+00:11:52,520 --> 00:11:53,840
+Or I'm going to slow down.
+
+173
+00:11:53,840 --> 00:11:55,790
+I'm going to write this off for you guys so you can see it.
+
+174
+00:11:56,180 --> 00:11:57,670
+So we get DST.
+
+175
+00:11:59,830 --> 00:12:12,070
+Minus the relative times, dirty over, Dirty Old West is one and only divide by D over T minus the
+
+176
+00:12:12,070 --> 00:12:16,750
+relative overseas squared times.
+
+177
+00:12:18,820 --> 00:12:25,540
+The Act's over 80 now, if you get rid of this erroneous approach with the galley and transformation
+
+178
+00:12:25,540 --> 00:12:31,360
+because it's useless, it gave us the wrong results and we make room for the new result, which is what
+
+179
+00:12:31,360 --> 00:12:32,830
+we want the correct result.
+
+180
+00:12:33,100 --> 00:12:39,340
+We end up with nothing more than, Oh, let's just V.X, these guys cancel out just one.
+
+181
+00:12:39,760 --> 00:12:41,800
+This guy cancels out just to be one.
+
+182
+00:12:41,980 --> 00:12:43,780
+You get a right there.
+
+183
+00:12:44,020 --> 00:12:50,800
+And what you end up with is the following the X minus the relative.
+
+184
+00:12:53,900 --> 00:13:06,140
+Divided by one minus the relative, the overseas squared times Vieques and is the point where I check
+
+185
+00:13:06,140 --> 00:13:13,010
+my notes to make sure we did the math correctly and we did at this point, we say That's awesome, we
+
+186
+00:13:13,010 --> 00:13:14,510
+have achieved victory.
+
+187
+00:13:14,720 --> 00:13:22,640
+That is the result we want and this is known as the relativistic velocity.
+
+188
+00:13:25,790 --> 00:13:27,740
+Audition, OK.
+
+189
+00:13:28,250 --> 00:13:31,820
+So what we see is pretty cool.
+
+190
+00:13:32,000 --> 00:13:32,870
+We see that.
+
+191
+00:13:33,230 --> 00:13:35,360
+Well, using this nap, we extended it a bit.
+
+192
+00:13:35,600 --> 00:13:37,730
+Now we have a map to relate velocities.
+
+193
+00:13:38,000 --> 00:13:40,110
+We can further translate experiences.
+
+194
+00:13:40,430 --> 00:13:48,350
+This extends the power and you can see there is unlimited untapped potential instilled in this derivation
+
+195
+00:13:48,350 --> 00:13:49,280
+that we put together.
+
+196
+00:13:49,850 --> 00:13:55,880
+OK, so at this point, we say, OK, we got the result in the X direction.
+
+197
+00:13:56,390 --> 00:13:57,200
+Let's call it a day.
+
+198
+00:13:57,500 --> 00:13:58,710
+No, we are not going to do that.
+
+199
+00:13:58,730 --> 00:13:59,210
+Why?
+
+200
+00:13:59,240 --> 00:14:06,670
+Well, as we found previously, relativistic effects have mostly been constrained to the axis of motion.
+
+201
+00:14:06,680 --> 00:14:07,850
+What am I talking about there?
+
+202
+00:14:09,200 --> 00:14:15,110
+If we have something traveling in the extraction close to the speed of light, we find that it's constrained
+
+203
+00:14:15,440 --> 00:14:18,530
+in that same x direction in the x axis.
+
+204
+00:14:18,890 --> 00:14:25,400
+And it also affects what I'm going to refer to as like a fourth dimension the time where I'm related
+
+205
+00:14:25,400 --> 00:14:26,120
+to space time.
+
+206
+00:14:26,450 --> 00:14:33,290
+So usually we would have the length contract and then the X direction and Y and Z would not be affected,
+
+207
+00:14:33,290 --> 00:14:33,590
+right?
+
+208
+00:14:34,820 --> 00:14:36,550
+That seemed to be the general convection.
+
+209
+00:14:36,830 --> 00:14:43,160
+But that does not necessarily dictate that it always will be constrained to the axis of motion.
+
+210
+00:14:43,490 --> 00:14:48,470
+So it's a worthwhile exercise to go through this and see what happens.
+
+211
+00:14:48,470 --> 00:14:51,590
+And perhaps v y ABC is by.
+
+212
+00:14:51,930 --> 00:14:55,580
+It's going to be v why is the Z Prime is going to be busy?
+
+213
+00:14:56,000 --> 00:14:58,310
+We don't necessarily know, and that's not assume that right?
+
+214
+00:14:58,670 --> 00:15:01,430
+Remember how tears of Philip fill their experiment.
+
+215
+00:15:01,440 --> 00:15:07,730
+They failed it because they tried to prescribe what would happen upon the universe, as opposed to taking
+
+216
+00:15:07,730 --> 00:15:13,010
+a step back, looking, observing, taking it in and then derived the results.
+
+217
+00:15:13,400 --> 00:15:14,840
+Let's see what nature dictates.
+
+218
+00:15:14,850 --> 00:15:17,490
+Let's see what the math pops up for us.
+
+219
+00:15:17,520 --> 00:15:25,370
+OK, so if we take v y prime o v y prime, we just do the same exact exercise.
+
+220
+00:15:25,640 --> 00:15:31,400
+This is nothing more than taking up d y prime.
+
+221
+00:15:33,180 --> 00:15:34,860
+Or Team Prime?
+
+222
+00:15:35,840 --> 00:15:41,180
+And what I want you to do is I want you to look at this relationship and you should tell me whether
+
+223
+00:15:41,180 --> 00:15:46,910
+it's going to have a very odd result, whether it's going to be different than what we see here, right?
+
+224
+00:15:47,060 --> 00:15:49,750
+We're not going to have by prime equal to be why right?
+
+225
+00:15:49,760 --> 00:15:50,660
+Can you see that?
+
+226
+00:15:51,110 --> 00:15:52,010
+If not, let's see.
+
+227
+00:15:52,040 --> 00:15:57,210
+Well, we know that there's no change in life because of the constraints of the x axis.
+
+228
+00:15:57,210 --> 00:16:01,490
+So DUI prime is nothing more than, you know, that's DUI.
+
+229
+00:16:02,030 --> 00:16:03,920
+Nothing really changed here.
+
+230
+00:16:04,310 --> 00:16:04,700
+OK.
+
+231
+00:16:06,020 --> 00:16:11,180
+But we know that time dilates right.
+
+232
+00:16:11,600 --> 00:16:13,850
+So deep prime, it's going to change.
+
+233
+00:16:14,120 --> 00:16:17,060
+But we have that spell out for us right here so we can make way.
+
+234
+00:16:17,070 --> 00:16:22,580
+So we see it is not going to be constrained to the x axis these relativistic effects.
+
+235
+00:16:22,790 --> 00:16:25,400
+Let's see what they are in the U, Y and z axis.
+
+236
+00:16:25,850 --> 00:16:28,280
+So all we have to do is we literally come here.
+
+237
+00:16:28,290 --> 00:16:30,980
+We use our map right up here.
+
+238
+00:16:31,290 --> 00:16:33,320
+DUI prime equals DUI.
+
+239
+00:16:33,920 --> 00:16:38,960
+We write that baby right up there and we divide by this guy right here.
+
+240
+00:16:38,960 --> 00:16:42,530
+That's nothing more than our, you know, we get our gamma factor.
+
+241
+00:16:44,850 --> 00:16:50,160
+Right in there and then we get this guy right up here.
+
+242
+00:16:53,270 --> 00:16:55,790
+Minus the relative or a C squared.
+
+243
+00:16:59,140 --> 00:17:03,820
+And that is multiplied by X the X.
+
+244
+00:17:04,450 --> 00:17:09,880
+All right, so the name of the game is we do the same exact thing we did up here for Vice Prime.
+
+245
+00:17:10,540 --> 00:17:14,800
+What we're going to do is we're going to multiply by 130 over a 180.
+
+246
+00:17:15,860 --> 00:17:21,470
+And I'm not going to write it out like it did here, because you can see you're going to get DUI disease
+
+247
+00:17:21,500 --> 00:17:23,060
+or, oh, what do we get?
+
+248
+00:17:23,900 --> 00:17:24,560
+We get?
+
+249
+00:17:25,920 --> 00:17:27,570
+We get the wine.
+
+250
+00:17:29,220 --> 00:17:30,550
+Is equal to you.
+
+251
+00:17:31,750 --> 00:17:34,570
+Here we get a gamma ray.
+
+252
+00:17:34,830 --> 00:17:36,180
+He gives you a one.
+
+253
+00:17:36,810 --> 00:17:45,600
+And then we subtract the relative overseas squared times the X.
+
+254
+00:17:47,460 --> 00:17:47,820
+Right.
+
+255
+00:17:49,130 --> 00:17:51,170
+OK, so that's the prime.
+
+256
+00:17:55,710 --> 00:17:57,060
+Bam, OK.
+
+257
+00:17:58,350 --> 00:18:01,880
+And we could do the same exercise with fizzy.
+
+258
+00:18:03,780 --> 00:18:09,180
+I'm going to skip that because it should be evident what's going to happen, right?
+
+259
+00:18:09,600 --> 00:18:16,020
+We get it easy prime up here over prime and in essence, all it happens is instead of a DUI, you get
+
+260
+00:18:16,020 --> 00:18:18,570
+a DC up here, so you're going to get a visa on the top.
+
+261
+00:18:19,050 --> 00:18:23,250
+On the bottom is unchanged and you get the same exact relation on the bottom.
+
+262
+00:18:23,490 --> 00:18:26,580
+We can write this off by a metaphor.
+
+263
+00:18:27,000 --> 00:18:28,230
+So this just becomes.
+
+264
+00:18:29,750 --> 00:18:30,410
+Visit.
+
+265
+00:18:31,960 --> 00:18:33,100
+Over Gamma.
+
+266
+00:18:34,630 --> 00:18:38,890
+One minus the relative.
+
+267
+00:18:40,700 --> 00:18:42,620
+Over C squared.
+
+268
+00:18:44,090 --> 00:18:45,560
+On the X.
+
+269
+00:18:46,640 --> 00:18:47,120
+Boom.
+
+270
+00:18:49,000 --> 00:18:50,140
+The end result.
+
+271
+00:18:50,710 --> 00:18:58,480
+So we find that relativistic effects are not constrained to the axis of motion, which is a little weird
+
+272
+00:18:59,020 --> 00:19:05,350
+and makes our calculations a bit more complicated, but we have this nice map which gives us additional
+
+273
+00:19:05,350 --> 00:19:08,860
+analytical power on top of the Lorentz transformation.
+
+274
+00:19:11,590 --> 00:19:16,780
+What we want to do now to wrap up this portion of the video is make some board space.
+
+275
+00:19:18,500 --> 00:19:19,910
+And make note that
+
+276
+00:19:22,730 --> 00:19:26,840
+for the relativistic lost the edition, just like we did up here.
+
+277
+00:19:27,870 --> 00:19:33,360
+For the civil rights transformation that these are, in essence, interchangeable maps, you can go
+
+278
+00:19:33,360 --> 00:19:34,020
+either way.
+
+279
+00:19:34,380 --> 00:19:38,400
+Yes, you can do the same thing down here for these guys.
+
+280
+00:19:39,950 --> 00:19:49,020
+These last edition formulas, in order to get, oh, I forgot a pry up there in order to get a relationship
+
+281
+00:19:49,040 --> 00:19:54,800
+or V.X for basically the terms and Philip's reference frame the stationary record's frame without the
+
+282
+00:19:54,800 --> 00:19:55,280
+prime.
+
+283
+00:19:56,090 --> 00:19:56,350
+Right?
+
+284
+00:19:56,480 --> 00:20:05,950
+All you need to do is switch out the signs of the V relative, switch the signs and let the prime.
+
+285
+00:20:05,960 --> 00:20:06,900
+What am I talking about here?
+
+286
+00:20:06,940 --> 00:20:07,790
+Let's get out of it.
+
+287
+00:20:08,000 --> 00:20:09,920
+Let's look at the Lorentz transformation we see here.
+
+288
+00:20:09,920 --> 00:20:16,430
+All we needed to do is we flip this guide here and these guys get primed and then you just change this,
+
+289
+00:20:16,430 --> 00:20:16,770
+right?
+
+290
+00:20:16,790 --> 00:20:25,040
+See, it's from one to two exploded over here, and then we change the sign and then ban same exact
+
+291
+00:20:25,040 --> 00:20:26,360
+convention for Prime.
+
+292
+00:20:27,970 --> 00:20:33,720
+You know, this guy gets thrown over here and here, that gesture to a positive bam.
+
+293
+00:20:34,240 --> 00:20:38,800
+Obviously, you want to work through this once before you do this, but the special relativity, this
+
+294
+00:20:38,800 --> 00:20:44,200
+is a convention that will be mentioned in many textbooks across up again and again, and the same exact
+
+295
+00:20:44,200 --> 00:20:45,250
+thing applies the the.
+
+296
+00:20:46,120 --> 00:20:48,490
+So yeah, you could do this.
+
+297
+00:20:48,490 --> 00:20:51,580
+You could just push through that guy over on the right side.
+
+298
+00:20:51,850 --> 00:20:53,350
+Change that to a positive sign.
+
+299
+00:20:53,890 --> 00:20:54,790
+You're in good shape.
+
+300
+00:20:54,940 --> 00:20:58,090
+You got the inverse of lost ED. formula.
+
+301
+00:20:58,570 --> 00:21:04,210
+Now, the last thing I want to do is take a look at the following.
+
+302
+00:21:04,540 --> 00:21:04,990
+So.
+
+303
+00:21:06,670 --> 00:21:12,850
+If this this relationship was true, then it should apply a very high velocities.
+
+304
+00:21:13,150 --> 00:21:19,570
+But at the same time, just as we saw at the Lawrence transformation, it should converge upon the classical
+
+305
+00:21:19,570 --> 00:21:20,080
+result.
+
+306
+00:21:20,560 --> 00:21:23,530
+Otherwise, there would be something wrong with this guy.
+
+307
+00:21:23,740 --> 00:21:30,550
+So let's show that in the way in which we share that if we take the limit as V is much less than C,
+
+308
+00:21:30,550 --> 00:21:38,500
+or let's see, we're going to stay the limit as V is much less than C.
+
+309
+00:21:40,140 --> 00:21:45,930
+And that means we over see is much less than one.
+
+310
+00:21:46,200 --> 00:21:49,260
+So we do that and I pop up my notes.
+
+311
+00:21:49,560 --> 00:21:50,880
+What happens is.
+
+312
+00:21:52,570 --> 00:21:55,960
+We know are the rent factor, the Ghana.
+
+313
+00:21:57,490 --> 00:22:00,850
+Approximately one, because again, that's one over square root.
+
+314
+00:22:04,050 --> 00:22:08,910
+Mine is B or C, the sky squared, the yes, that is right.
+
+315
+00:22:09,150 --> 00:22:15,050
+So when this guy is small, just becomes one because we ever see a small one might assume because nothing
+
+316
+00:22:15,060 --> 00:22:18,240
+more than one and then one by one is one.
+
+317
+00:22:18,540 --> 00:22:19,470
+OK, so.
+
+318
+00:22:20,600 --> 00:22:27,670
+We get this relationship and what happens to Vieques, Vieques, is because nothing more than a promise
+
+319
+00:22:27,670 --> 00:22:31,480
+equal to Vieques, minus the relative.
+
+320
+00:22:33,390 --> 00:22:38,970
+Over one minus the relative or a C squared times the X.
+
+321
+00:22:39,300 --> 00:22:45,780
+Well, all these parameters, the velocities are much less than C and supplies for, you know, the
+
+322
+00:22:45,780 --> 00:22:50,160
+relative acts, et cetera.
+
+323
+00:22:50,430 --> 00:22:50,710
+Right.
+
+324
+00:22:50,730 --> 00:22:54,930
+We're assuming we're going to operate in Newtonian fashion.
+
+325
+00:22:55,230 --> 00:23:01,410
+OK, so this guy is essentially zero because the relative is much smaller than C squared.
+
+326
+00:23:01,770 --> 00:23:05,280
+And it doesn't matter if you multiply by B X because that's small, too.
+
+327
+00:23:05,490 --> 00:23:08,160
+So this guy is small relative to this guy.
+
+328
+00:23:08,340 --> 00:23:12,780
+And what you end up with is not surprisingly, the classical result.
+
+329
+00:23:12,780 --> 00:23:14,280
+Exactly what we wanted, right?
+
+330
+00:23:16,080 --> 00:23:23,070
+This is the same relationship that we observed in getting the video down here, when Fill-Up screwed
+
+331
+00:23:23,070 --> 00:23:27,720
+up everything and thought that this was going to travel them faster than the speed of light, that's
+
+332
+00:23:27,720 --> 00:23:29,850
+an oxymoron that doesn't even make any sense.
+
+333
+00:23:30,900 --> 00:23:31,660
+It's contradicted.
+
+334
+00:23:31,670 --> 00:23:32,470
+Very that's not true.
+
+335
+00:23:32,490 --> 00:23:35,760
+So yes, that jisoo of our intuition.
+
+336
+00:23:36,870 --> 00:23:37,620
+That's good.
+
+337
+00:23:38,110 --> 00:23:40,650
+The next thing we want to check is the why.
+
+338
+00:23:40,980 --> 00:23:42,100
+How does that behave?
+
+339
+00:23:42,120 --> 00:23:42,990
+How does it behave?
+
+340
+00:23:43,320 --> 00:23:48,300
+So if we take the why and do the same exact trick me why?
+
+341
+00:23:49,300 --> 00:23:50,350
+And let me back up a bit.
+
+342
+00:23:50,740 --> 00:23:55,000
+The gamma is gone here because actually there is no gamma.
+
+343
+00:23:55,000 --> 00:23:55,750
+Sorry about that.
+
+344
+00:23:57,400 --> 00:24:00,140
+There was a gamut up here, but don't worry about that.
+
+345
+00:24:00,420 --> 00:24:02,150
+So and that's what we have is.
+
+346
+00:24:03,340 --> 00:24:17,020
+VI Prime is equal to the one over gamaa times, one minus the relative or C squared times the X, and
+
+347
+00:24:17,020 --> 00:24:19,930
+we know that this guy is very small compared to one.
+
+348
+00:24:20,260 --> 00:24:21,430
+So this becomes zero.
+
+349
+00:24:21,820 --> 00:24:24,370
+This guy is approximately equal to one.
+
+350
+00:24:27,140 --> 00:24:29,780
+And what we find is Bam.
+
+351
+00:24:30,290 --> 00:24:32,360
+No, no relativistic effects.
+
+352
+00:24:34,250 --> 00:24:38,780
+We find out it doesn't change if it's going up, regardless of your mention, it's going to go up at
+
+353
+00:24:38,780 --> 00:24:39,710
+the same rate.
+
+354
+00:24:40,010 --> 00:24:41,510
+That is the last school result.
+
+355
+00:24:41,780 --> 00:24:45,500
+We would have gotten the same exact thing for Visa also, because this becomes one.
+
+356
+00:24:45,950 --> 00:24:51,020
+This guy is essentially zero B.C. prime equals visa ban.
+
+357
+00:24:51,320 --> 00:24:54,740
+It converges upon the classical result at a low velocity.
+
+358
+00:24:54,980 --> 00:24:58,070
+This must be the correct result.
+
+359
+00:24:58,160 --> 00:25:01,660
+OK, so what have we done in this video?
+
+360
+00:25:01,670 --> 00:25:08,870
+We really want to tap the magic, the inherent power that's instilled in the Lorentz transformation
+
+361
+00:25:08,870 --> 00:25:14,510
+right when we run into problems, dilemmas such as that observed with Phillip and Terence.
+
+362
+00:25:15,530 --> 00:25:22,160
+We can hearken back to this nice map, this nice translational tool, and it can resolve those paradoxes
+
+363
+00:25:22,160 --> 00:25:28,700
+or discrepancies very easily and effortlessly, and in doing so, we came up with a new map, a map
+
+364
+00:25:28,700 --> 00:25:36,170
+that can allow us to relate the losses, as seen by different perspectives and the experiences that
+
+365
+00:25:36,170 --> 00:25:38,960
+arise in those reference frames can be related.
+
+366
+00:25:38,970 --> 00:25:40,640
+They can talk about it intelligently.
+
+367
+00:25:41,360 --> 00:25:44,600
+We have a universal conception of the universe.
+
+368
+00:25:44,870 --> 00:25:50,360
+Next, what we're going to do is we're going to run through a quick example to show you how not only
+
+369
+00:25:50,480 --> 00:25:57,720
+this resolves the paradox with parents and fill up, and also that it conforms to the second possible
+
+370
+00:25:57,740 --> 00:25:58,730
+special relativity.
+
+371
+00:25:59,090 --> 00:26:04,850
+Well, we'll take a look at another interesting example to demonstrate the power of this and get you
+
+372
+00:26:04,850 --> 00:26:10,220
+used to actually doing computations with the Velocity Edition formulas.
+
+373
+00:26:10,910 --> 00:26:11,570
+Stay tuned.

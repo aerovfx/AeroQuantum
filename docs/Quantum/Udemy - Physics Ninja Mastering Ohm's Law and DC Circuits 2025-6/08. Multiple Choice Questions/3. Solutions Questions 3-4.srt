@@ -1,0 +1,127 @@
+WEBVTT
+
+00:00.210 --> 00:01.660
+All right here's problem three.
+
+00:01.680 --> 00:08.040
+We have a copper wire of length L and cross-sectional area A and then a second copper wire has the length
+
+00:08.040 --> 00:16.320
+to L and cross-sectional area for a what is the ratio of the resistivity of the second wire to the resistivity
+
+00:16.320 --> 00:18.420
+of the first wire.
+
+00:18.470 --> 00:21.140
+Now couple of things about this problem here.
+
+00:21.220 --> 00:25.750
+And remember what they're asking us here they're asking us for the resistivity.
+
+00:25.870 --> 00:27.550
+Now this is kind of a trick question.
+
+00:27.660 --> 00:33.780
+If you remember here the resistance of any wire can be written as the resistivity multiplied by the
+
+00:33.780 --> 00:38.590
+length of that wire Al and divided by the cross section.
+
+00:38.760 --> 00:41.160
+So there's two terms here.
+
+00:41.170 --> 00:44.600
+There's a term that is material dependent that's the resistivity.
+
+00:44.700 --> 00:47.790
+And in this case both wires here are made of copper.
+
+00:47.810 --> 00:48.120
+All right.
+
+00:48.120 --> 00:51.090
+We have one copper wire and we have another copper wire.
+
+00:51.090 --> 00:57.540
+So although we're changing the length in the cross-section between both wires we are certainly not changing
+
+00:57.540 --> 01:03.030
+the resistivity so we might change the resistance but we're not changing the resistivity.
+
+01:03.180 --> 01:09.980
+And if we're not changing the resists devotee that means that the correct answer must be e right you
+
+01:10.050 --> 01:17.760
+right the resistance of the first water as the resistivity of copper the length of the wires to 2L divided
+
+01:17.760 --> 01:19.040
+by 0.
+
+01:19.050 --> 01:23.140
+So it's only l divided by the cross-sectional area.
+
+01:23.400 --> 01:28.230
+Then you'd write the resistance of the second wire the same resistivity of the length.
+
+01:28.230 --> 01:31.710
+Now as to L and the cross-section is for a.
+
+01:31.770 --> 01:36.630
+So you could tell we've changed the resistance but we don't change the resistivity row because in both
+
+01:36.630 --> 01:38.150
+cases we have copper.
+
+01:38.490 --> 01:38.980
+All right.
+
+01:38.980 --> 01:40.580
+That was a trick question.
+
+01:41.010 --> 01:47.460
+Problem for if either the electric field strength in J is the electric current density What's the ratio
+
+01:47.460 --> 01:48.660
+of either J.
+
+01:48.950 --> 01:58.110
+OK well this is basically asking you about Ohm's Law remember electric field and the current density
+
+01:58.110 --> 02:04.500
+are related to each other and wrote this down as written to the conductivity multiplied by the electric
+
+02:04.500 --> 02:06.150
+field.
+
+02:06.150 --> 02:11.400
+Now if you look at all the choices here none of these involve the conductivity but they do involve both
+
+02:11.400 --> 02:12.000
+of my letters.
+
+02:12.000 --> 02:15.230
+The current density and the electric field strength.
+
+02:15.420 --> 02:23.130
+However if you do remember the conductivity was simply one divided by the resistivity of that material.
+
+02:23.400 --> 02:26.130
+And now we have to do is we simply have to rearrange this.
+
+02:26.160 --> 02:32.460
+So you bring row on one side you keep the electric field where it is and you divide through by the current
+
+02:32.460 --> 02:36.160
+density and you get the resistivity.
+
+02:36.360 --> 02:39.440
+So right away you're going right because the correct answer.
+
+02:39.470 --> 02:42.060
+So for this one you really had to kind of remember this.
+
+02:42.050 --> 02:44.790
+This was another form of Ohm's law.
+
+02:44.970 --> 02:47.340
+The more conventional form of Ohm's law is this one.

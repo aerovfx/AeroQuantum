@@ -1,0 +1,127 @@
+WEBVTT
+
+00:00.130 --> 00:03.360
+OK so our universe is made up of atoms.
+
+00:03.390 --> 00:03.620
+OK.
+
+00:03.660 --> 00:04.520
+So let's have a look at.
+
+00:04.530 --> 00:08.770
+So all atoms are made up of kind of three different kind of parts.
+
+00:08.870 --> 00:14.100
+We have positive charges and the positive charges are usually in the nucleus.
+
+00:14.130 --> 00:16.350
+That's kind of the center of the atoms.
+
+00:16.380 --> 00:16.590
+OK.
+
+00:16.600 --> 00:22.580
+And they're surrounded by these tiny little electrons and you can think of it as a cloud of electrons
+
+00:22.730 --> 00:23.290
+OK.
+
+00:23.370 --> 00:29.160
+If you want to consider as a point particle kind of circulating in some orbit that's also OK for now
+
+00:29.820 --> 00:31.040
+but it's more of a cloud.
+
+00:31.040 --> 00:36.860
+There's a kind of a probability distribution that electrons are somewhere in space.
+
+00:36.920 --> 00:37.170
+OK.
+
+00:37.200 --> 00:42.020
+So we have electrons protons and we also have neutrons.
+
+00:42.140 --> 00:42.390
+OK.
+
+00:42.420 --> 00:48.720
+So one thing that we're going to see a lot here is that the charge OK the charge of these tiny little
+
+00:48.720 --> 00:52.910
+guys Well for now we're just going to say that the protons are going to be positive.
+
+00:52.950 --> 00:55.970
+We'll see a little bit later what they're charged charges it's actually written down here.
+
+00:55.980 --> 00:59.790
+But in the charge of electrons are negative.
+
+00:59.850 --> 01:00.610
+OK.
+
+01:00.660 --> 01:05.120
+And neutrons have zero charge OK.
+
+01:05.390 --> 01:09.220
+So these are the basic constituents of atoms.
+
+01:09.230 --> 01:15.440
+Actually if you have a look at the size of atoms if this kind of black line here represents a 1 Angstrom.
+
+01:15.490 --> 01:15.670
+OK.
+
+01:15.680 --> 01:21.420
+If you remember what an angstrom is is ten to the negative 10 meters.
+
+01:21.430 --> 01:21.680
+OK.
+
+01:21.680 --> 01:29.480
+That is one Angstrom it's a way way smaller right the center of a helium atom is kind of this little
+
+01:29.480 --> 01:32.450
+pink and purple dot down over here.
+
+01:32.450 --> 01:36.860
+And this is actually to the size you're going to right a size down.
+
+01:36.950 --> 01:39.490
+It would be at the Fermi meter.
+
+01:39.500 --> 01:47.300
+OK Fermi meter effect is actually a fem dough meter I'm sorry a phantom meter is ten to the negative
+
+01:47.300 --> 01:49.050
+15 meters.
+
+01:49.070 --> 01:49.470
+OK.
+
+01:49.580 --> 01:51.890
+So they are really really small.
+
+01:51.950 --> 01:52.150
+OK.
+
+01:52.220 --> 01:54.620
+So you could see kind of zooming in here that the nucleus.
+
+01:54.620 --> 01:57.110
+This is an example of a helium atom.
+
+01:57.170 --> 02:03.020
+So we actually would have two protons This is more of the pink center over here and the black kind of
+
+02:03.020 --> 02:04.300
+cloud around it.
+
+02:04.340 --> 02:12.450
+These would represent it's two electrons so they are very very far away from the center right relative
+
+02:12.450 --> 02:14.500
+to the size of the nucleus right.
+
+02:14.520 --> 02:16.650
+They could actually be very very far away.

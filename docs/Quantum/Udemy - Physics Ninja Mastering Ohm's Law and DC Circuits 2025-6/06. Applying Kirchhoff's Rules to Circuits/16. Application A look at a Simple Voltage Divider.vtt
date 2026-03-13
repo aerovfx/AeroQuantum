@@ -1,0 +1,222 @@
+WEBVTT
+
+WEBVTT
+
+00:00.570 --> 00:05.730
+OK what I want to do now is look at the simple case here and this is an application sometimes referred
+
+00:05.730 --> 00:10.820
+to as a voltage divider and all we have here are two resistors that are in series with each other.
+
+00:10.980 --> 00:13.810
+Very very simple circuit to solve for.
+
+00:13.900 --> 00:14.200
+Right.
+
+00:14.220 --> 00:21.120
+If you have an M.F. of 10 volts you'd have to have a voltage drop across both of those equal to 10 volts.
+
+00:21.120 --> 00:24.990
+That's what the Kirchhoff's loop rule would tell us.
+
+00:25.020 --> 00:31.590
+However what if we had another piece of circuitry we had another circuit down over here somewhere but
+
+00:31.590 --> 00:37.800
+we weren't able to use 10 volts in order to drive it because that would be supplying too much power.
+
+00:38.070 --> 00:40.800
+What you can do actually is you can use a voltage divider.
+
+00:40.800 --> 00:44.850
+Let me show you what the principle is so let's first begin by solving this.
+
+00:44.880 --> 00:46.740
+Now this circuit over here.
+
+00:47.440 --> 00:47.750
+OK.
+
+00:47.760 --> 00:50.820
+So first thing we need to do is find how much current Do we have.
+
+00:50.820 --> 00:55.280
+So the amount of current that we have again the total resistance.
+
+00:55.620 --> 00:59.640
+Our equivalent for this case is simply 10 ohms.
+
+00:59.720 --> 01:06.050
+So if the voltage of the battery is given by 10 volts you know that the current that you're going to
+
+01:06.050 --> 01:12.250
+get has to be very straightforward.
+
+01:12.290 --> 01:24.020
+Now what if you go ahead and let's set some points over here point a point B and point C.
+
+01:24.260 --> 01:31.120
+Now the voltage difference between points and point B is not going to be the same as the voltage difference
+
+01:31.120 --> 01:39.940
+between Point B and point see if you wanted to find the voltage difference across any resistance.
+
+01:39.940 --> 01:42.260
+Well it's very easy you just apply Ohm's law.
+
+01:42.910 --> 01:50.710
+So the voltage difference across the resistance are one is given by the resistance are one multiplied
+
+01:50.710 --> 01:52.290
+by the current going through it.
+
+01:52.390 --> 01:57.310
+We just call it the current I mean rather than substituting this right away elegies I'm going to get
+
+01:57.310 --> 02:03.540
+a general formula here for the voltage divider equations and then we'll have a look at it.
+
+02:04.080 --> 02:12.130
+Now the next thing I can do is the voltage across the resistance are two is the resistance are two multiplied
+
+02:12.130 --> 02:14.230
+by the current.
+
+02:14.230 --> 02:22.280
+Now remember where the current comes from the current basically came from our DMF divided by the equivalent
+
+02:22.280 --> 02:30.180
+resistance and for this case the equivalent resistance was simply our one plus our two actually you
+
+02:30.180 --> 02:36.690
+could see that you can multiply or you can substitute in the current directly into these voltage differences
+
+02:36.780 --> 02:38.160
+across each resistor.
+
+02:38.260 --> 02:39.760
+And let's see what we get.
+
+02:40.320 --> 02:44.920
+So the voltage difference across the resistance are one.
+
+02:45.210 --> 02:53.730
+Again it's going to be R1 divided by the total resistance of that circuit are one plus R2 and that gets
+
+02:53.730 --> 03:01.500
+multiplied by the IMF of the battery and the voltage difference across the resistance are two ends up
+
+03:01.500 --> 03:05.820
+being are two multiplied by the current and the current.
+
+03:05.820 --> 03:09.980
+I'm just going to use this expression here rather than the one amp for these numerical values it's 1
+
+03:09.990 --> 03:12.810
+amp but let's just get a general expression.
+
+03:13.140 --> 03:22.850
+Again you get something like this are one plus are two and this gets multiplied by again the EMI.
+
+03:23.030 --> 03:29.930
+So the nice thing about this is you see that the voltage difference across the resistance are one.
+
+03:30.050 --> 03:35.960
+Right both of them end up being less and you could see that if you add them up plus the voltage difference
+
+03:35.960 --> 03:39.350
+across R2 you have to get BMF of the battery.
+
+03:39.350 --> 03:44.000
+Right and that's what you would get because you would get R1 R1 plus R2
+
+03:46.810 --> 03:57.340
+multiplied by the IMF Plus the resistance are to divided by our one plus are two multiplied by the EMAC
+
+03:57.370 --> 04:03.790
+again combined both of those terms you get are one plus or two in the numerator and that ends up canceling
+
+04:03.790 --> 04:10.060
+out our one plus or two in the denominator and multiplied by the EMR.
+
+04:11.090 --> 04:12.060
+You can cancel those out.
+
+04:12.060 --> 04:14.300
+Those are simply equal to 1.
+
+04:14.320 --> 04:19.080
+So you see that the voltage drop across both of those has to be equal to the voltage gain across the
+
+04:19.080 --> 04:21.330
+MF for any numbers that you choose.
+
+04:23.880 --> 04:24.110
+All right.
+
+04:24.120 --> 04:25.980
+So let's go back to our example over here.
+
+04:26.010 --> 04:31.770
+So looking at these expressions you can see there that the voltage drop across the forum resistance
+
+04:32.340 --> 04:34.250
+is simply going to be four volts.
+
+04:34.380 --> 04:34.820
+Right.
+
+04:34.920 --> 04:38.710
+So that means actually if you kind of branch this out.
+
+04:39.360 --> 04:45.520
+What if I decided to use the voltage difference to drive another circuit.
+
+04:45.620 --> 04:50.950
+This might be another circuit altogether that's just represented by this black box over here.
+
+04:51.180 --> 04:54.010
+A white box.
+
+04:54.450 --> 04:59.670
+So this voltage difference across here is four volts although you didn't have a four volt battery.
+
+04:59.670 --> 05:04.950
+You can still use combinations of resistors like this to generate you know if you had a whole different
+
+05:05.220 --> 05:12.150
+series of values of resistance at your disposal you can set up a circuit and then you effectively use
+
+05:12.150 --> 05:15.510
+a lower voltage to drive a different part of a circuit.
+
+05:15.690 --> 05:21.360
+If I wanted to drive a circuit with a 6 volt battery but I didn't have one again I could set something
+
+05:21.360 --> 05:23.360
+up like this.
+
+05:23.580 --> 05:29.040
+The voltage difference across the six ohm resistance is six volts and you can test that out for yourself.
+
+05:29.090 --> 05:35.080
+Right we get a resistance that is 6 ohms and we get a current That's one end.
+
+05:35.100 --> 05:39.000
+So we get six volts across this guy over here.
+
+05:39.000 --> 05:48.530
+So again you could branch this off and I know that I can now use this to maybe run another circuit or
+
+05:48.530 --> 05:53.980
+drive current through motor Magin the motor doesn't want you to have 10 volts.
+
+05:54.020 --> 05:55.600
+Power supply would be too much.
+
+05:55.730 --> 05:58.400
+It would produce too much current in that motor.
+
+05:58.730 --> 06:02.750
+You might want to reduce it and you can do it using a voltage divider application like this.

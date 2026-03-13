@@ -1,0 +1,261 @@
+WEBVTT
+
+WEBVTT
+
+00:00.630 --> 00:06.240
+OK and I want to spend some time looking at multi loops circuits Here's an example of a simple multi
+
+00:06.240 --> 00:12.330
+loop circuit and the question is Well how would you solve a circuit like this.
+
+00:12.330 --> 00:15.560
+And the question is what I mean what exactly would you try to solve for.
+
+00:15.780 --> 00:20.160
+Typically what you're asked to solve for at the beginning is find the current find the current flowing
+
+00:20.160 --> 00:24.880
+through the battery and find the current flowing in each branch of this particular circuit.
+
+00:25.260 --> 00:30.510
+So the main key at the beginning is to before we apply any of the rules what you want to do at the beginning
+
+00:30.510 --> 00:32.930
+is just identify the current in each branch.
+
+00:32.940 --> 00:34.100
+Take a guess.
+
+00:34.110 --> 00:38.470
+So you pick pick a current direction
+
+00:44.810 --> 00:51.020
+for each branch.
+
+00:51.040 --> 00:55.900
+So for example for this one here again if there's only one power supply it's kind of the easy to guess
+
+00:55.900 --> 00:58.000
+the correct direction.
+
+00:58.000 --> 01:00.860
+So in this case here let's just pick a different color here.
+
+01:00.880 --> 01:05.080
+I'm going to assume that there's a current eye flowing in this branch over here.
+
+01:05.080 --> 01:10.570
+So that means as a current I'm over here right there's a current I everywhere and this branch on the
+
+01:10.570 --> 01:12.300
+left hand side.
+
+01:12.460 --> 01:14.010
+Now I'm going to label a current.
+
+01:14.020 --> 01:16.210
+Now here's a junction over here.
+
+01:16.480 --> 01:18.150
+When I call this junction a.
+
+01:18.610 --> 01:23.170
+Now there's going to be part of that current that's going to flow down and flow through this two ohm
+
+01:23.170 --> 01:25.310
+resistor.
+
+01:25.350 --> 01:27.370
+To call this the current one.
+
+01:27.880 --> 01:34.380
+And now there's also some of that current Now that's going to flow down through this outer branch when
+
+01:34.390 --> 01:36.500
+we call this current Aitu.
+
+01:36.500 --> 01:36.910
+OK.
+
+01:37.060 --> 01:42.910
+So that's what I mean by picking a direction for each branch and give it a different label because there's
+
+01:42.940 --> 01:46.960
+no guarantee that these currents could be the same if they are the same the map will come out at the
+
+01:46.960 --> 01:47.610
+end.
+
+01:47.690 --> 01:49.190
+It'll work itself out.
+
+01:49.210 --> 01:53.080
+But pick a direction give it a different label.
+
+01:53.080 --> 01:53.380
+All right.
+
+01:53.380 --> 02:00.890
+Number two what I would suggest is if you can try to use an equivalent resistor OK.
+
+02:01.180 --> 02:09.100
+If you can simplify the circuit and represent it as a circuit that looks like this all right a 10 volt
+
+02:09.130 --> 02:12.220
+MF with one resistor.
+
+02:12.280 --> 02:21.790
+Well if you're able to do that and by all means please do that because if I'm able to simplify the circuit
+
+02:21.850 --> 02:23.050
+and make it look like this
+
+02:26.670 --> 02:30.920
+or my blue resistance here is an equivalent resistance.
+
+02:31.410 --> 02:36.750
+And in this case I'd be able to do that because I have 8 ohm resistor that is in parallel with a forum
+
+02:36.750 --> 02:37.680
+resistor.
+
+02:37.860 --> 02:42.600
+I can combine both of those at the beginning and whatever result I get for that I can then combine it
+
+02:42.600 --> 02:47.060
+with a 3 ohm resistor that is in series with it.
+
+02:47.070 --> 02:54.090
+So in this case I'd be able to simplify this three resistor network in terms of one equivalent resistance.
+
+02:54.090 --> 03:01.110
+And if I'm able to do that while the current that I labeled I appear is actually the same current flowing
+
+03:01.110 --> 03:10.020
+over here because all I've done is I've basically taken this point and this point in everything on the
+
+03:10.020 --> 03:14.870
+right hand side of both of those points and represented them by an equivalent resistance.
+
+03:14.910 --> 03:18.450
+So I haven't changed the current over here flowing through the battery.
+
+03:18.510 --> 03:19.810
+It's the same current.
+
+03:19.890 --> 03:22.610
+And now I have a current flowing through the equivalent resistance.
+
+03:22.740 --> 03:27.810
+But this would give me an immediate way of finding what the current is.
+
+03:28.050 --> 03:33.720
+And once you know the current I then you're one step closer to finding the currents I wanted it to because
+
+03:33.720 --> 03:39.630
+as it stands when I first kind of label these currents I really have three unknown that I have to solve
+
+03:39.630 --> 03:40.380
+for.
+
+03:40.740 --> 03:47.610
+And one way of solving for one of those unknown's is by using an equivalent resistance and then solve
+
+03:50.050 --> 03:51.040
+to find current
+
+03:54.260 --> 04:06.010
+through the battery.
+
+04:06.440 --> 04:09.770
+So those are kind of the first two tips I think I would give you.
+
+04:09.770 --> 04:20.480
+The next thing is you use Kirchhoff's rules you can use my mind you can see these Kirchoff's voltage
+
+04:20.480 --> 04:25.540
+law and that was our age I was our Leupp rule
+
+04:28.610 --> 04:31.710
+and we can use the junction rule
+
+04:37.930 --> 04:43.080
+for in this case here we have one junction up here we also have another junction up here down here.
+
+04:43.300 --> 04:45.280
+They're going to give us the same information.
+
+04:45.520 --> 04:48.670
+So the junction rule for this case pretty straightforward.
+
+04:48.670 --> 04:48.870
+All right.
+
+04:48.870 --> 04:53.040
+The junction rule simply says whatever current flows in has to be what current flows out.
+
+04:53.410 --> 04:58.150
+So in this case you simply have whatever current flows into the junction has to be the current flowing
+
+04:58.210 --> 05:02.560
+out of the junction which is one plus Aitu.
+
+05:03.040 --> 05:05.440
+Actually this is an important equation.
+
+05:05.440 --> 05:12.460
+This is allowing me to connect some of those unknown's and the general rule is if you have three unknown's
+
+05:18.510 --> 05:26.550
+the minimum you need are three equations in order to solve for those.
+
+05:26.560 --> 05:29.020
+So this could be used as one of those equations.
+
+05:29.050 --> 05:34.160
+The junction rule can be one equation.
+
+05:34.290 --> 05:37.170
+What I could do now is I can use my loop rules.
+
+05:37.420 --> 05:42.570
+There's different loop rules here I can set up in the circuit I can think of three of them I can think
+
+05:42.570 --> 05:49.170
+of this inner loop here I can think of the outer loop here or I can think of just doing the loop over
+
+05:49.170 --> 05:52.890
+on this right hand side of the circuit.
+
+05:53.240 --> 05:53.390
+Right.
+
+05:53.390 --> 06:00.300
+I could really set up three different loops to get other equations but I or I can use a junction rule
+
+06:00.300 --> 06:04.870
+to use one of those equations so you can use a different combination.
+
+06:04.950 --> 06:10.710
+Generally what I do is I use one equation from the junction rule and then I use the loop rule to get
+
+06:10.710 --> 06:14.080
+the two remaining equations and then I solve for the unknowns.
+
+06:15.240 --> 06:15.540
+OK.
+
+06:15.560 --> 06:18.720
+And that's kind of a good method to do it.
+
+06:18.760 --> 06:23.330
+So let's go ahead and solve now for this particular problem.
+
+06:23.470 --> 06:26.570
+We'll set up all the equations and show you how you solve it.
+
+06:26.650 --> 06:32.890
+Again I'll first start by using the equivalent resistance and then we're going to use some loop rules
+
+06:33.820 --> 06:36.600
+in combination with the junction rule to solve for the unknowns.

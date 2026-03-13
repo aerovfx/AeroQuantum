@@ -1,0 +1,124 @@
+WEBVTT
+
+00:00.150 --> 00:00.420
+All right.
+
+00:00.450 --> 00:06.780
+So here I've got a table with some different materials in their dielectric Constance again.
+
+00:06.810 --> 00:10.710
+Let's assume we have just parallel plates.
+
+00:10.770 --> 00:12.690
+I mean draw em over here.
+
+00:12.950 --> 00:13.390
+OK.
+
+00:13.400 --> 00:19.450
+And again the value in air is going to be Epsilon 0.
+
+00:19.460 --> 00:23.730
+The area divided by the distance between them.
+
+00:23.870 --> 00:30.290
+Now when there is a capacitor or sorry when there is a dielectric inside we know that the capacitance
+
+00:31.300 --> 00:37.250
+let's call it C with a little subscript K is going to be k multiplied by c 0.
+
+00:37.570 --> 00:43.330
+And it becomes K Epsilon 0 the area divided by the distance.
+
+00:43.390 --> 00:46.670
+Let's look at these different materials over here.
+
+00:47.290 --> 00:51.510
+So air the value is like 1 point 0 0 0 5 9.
+
+00:51.520 --> 01:00.490
+So basically 1 actually if you look down here vacuum vacuums also on the list there is vacuum the value
+
+01:00.490 --> 01:01.680
+is 1 for vacuum.
+
+01:01.690 --> 01:07.780
+So you can see if I put nothing if I take the air out or if I keep the air in the dielectric constant
+
+01:07.780 --> 01:10.660
+is basically the same value.
+
+01:10.660 --> 01:16.420
+Have a look at some other kind of common materials a rubber rubber has a dielectric constant of six
+
+01:16.420 --> 01:17.860
+point seven.
+
+01:17.880 --> 01:18.030
+Right.
+
+01:18.040 --> 01:25.950
+So if I filled if I fill that space with rubber colored in red here.
+
+01:25.950 --> 01:27.430
+So if this here was rubber
+
+01:30.220 --> 01:32.690
+again let me kind of draw it out.
+
+01:32.860 --> 01:40.570
+Rubber the way I would calculate the capacitance of this object here would be.
+
+01:40.770 --> 01:47.340
+Well again I would use the dielectric constant for rubber so I would use six point seven and then multiplied
+
+01:47.340 --> 01:53.010
+by the capacitance when there is nothing between the plates Epsilon 0 a divided by D so you could see
+
+01:53.010 --> 02:00.240
+I've increased the capacitance now here's some other materials paper three point seven is the value
+
+02:00.750 --> 02:06.180
+let's highlight that one this one you can kind of do labs sometimes in school you end up doing a lab
+
+02:06.180 --> 02:12.720
+like this with paper between because it's very easy to insert paper between the plates what else.
+
+02:12.810 --> 02:17.610
+Look at some of the larger values right I don't know what this strontium Titan 8 that's a really big
+
+02:17.610 --> 02:19.030
+value right.
+
+02:19.070 --> 02:20.330
+Two hundred and thirty three.
+
+02:20.330 --> 02:22.290
+That's incredible.
+
+02:22.290 --> 02:26.750
+That's a very very large increase in the capacitance all right.
+
+02:26.770 --> 02:34.030
+So the capacitance really always goes up when I increase a dielectric between the plates and what does
+
+02:34.030 --> 02:38.110
+that mean actually in terms of our equations that we saw.
+
+02:38.180 --> 02:45.310
+Well number one thing that it means is if I connect this to a battery what's going to happen if the
+
+02:45.310 --> 02:52.480
+voltage of the battery is V and I've increased the capacitance now it means I'm going to store more
+
+02:52.480 --> 02:53.260
+charge
+
+02:58.800 --> 03:00.480
+so that's what it really allows us to do.
+
+03:00.480 --> 03:07.170
+So for rubber I'd really be allowed to store almost seven times more charge on the plates than if I
+
+03:07.170 --> 03:09.600
+didn't have a dielectric between them.

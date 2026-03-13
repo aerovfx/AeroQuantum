@@ -1,0 +1,837 @@
+WEBVTT
+
+WEBVTT
+
+00:00.180 --> 00:02.790
+Hi everybody today we're going to look at a multi loop circuit.
+
+00:02.790 --> 00:08.250
+I've got a great surrogate here for he has got three branches got three batteries and three resistors
+
+00:08.520 --> 00:14.010
+and a goal today is to calculate what the current is through each branch.
+
+00:14.310 --> 00:19.110
+So in order to do that we're going to use Kirchhoff's rules the loop rule and the junction rule in order
+
+00:19.110 --> 00:21.990
+to set up a equation then solve for what the currents are.
+
+00:21.990 --> 00:27.240
+So this is all we've got we've got three batteries this is a 20 volt battery 10 and a 30 volt battery
+
+00:27.530 --> 00:32.520
+and we got these three resistors here just kind of random numbers here two four and five ohms and what
+
+00:32.520 --> 00:37.170
+we want to do we want to find the current in each of the three resistors.
+
+00:37.200 --> 00:42.560
+The first thing to keep in mind here is although you've probably learned about what an equivalent resistance
+
+00:42.560 --> 00:48.550
+is for this problem here you can't really combine these in series or parallel.
+
+00:48.560 --> 00:52.860
+Right you might say well both of these are in parallel however you can't because there are also batteries
+
+00:52.860 --> 00:53.470
+here.
+
+00:53.640 --> 00:55.500
+So that actually will not work.
+
+00:55.500 --> 01:01.050
+So you've got to be a little bit careful with this not not all circuits can be simplified using equivalent
+
+01:01.050 --> 01:07.290
+resistors like this at least not in the traditional sense of using combinations of resistors in series
+
+01:07.290 --> 01:08.370
+and directly in parallel.
+
+01:08.370 --> 01:10.410
+So be careful not in this problem.
+
+01:10.410 --> 01:13.580
+However we can still solve it using Kirchhoff's rules.
+
+01:13.860 --> 01:18.840
+So in order to do that when I'm going to do is I'm going to start by labeling all these points and I
+
+01:18.840 --> 01:28.200
+just kind of arbitrarily going to call them A B C D E and F and I'm going to do this because what I'm
+
+01:28.200 --> 01:31.130
+going to start doing loops I just want to identify which loops I'm doing.
+
+01:31.140 --> 01:35.910
+So we're very clear now two of these points here are actually even more specific I can actually make
+
+01:35.910 --> 01:39.790
+these blue a point a blue and I'm also going to make point the blue.
+
+01:40.050 --> 01:45.590
+And at these points I could apply what is called a junction roll.
+
+01:45.930 --> 01:49.230
+So how would you apply Kirchhoff's junction rule to these points.
+
+01:49.510 --> 01:54.390
+Well Kirchhoff's junction junction rule tells you that whatever current flows into the junction has
+
+01:54.390 --> 01:56.620
+that be the current that flows out of that junction.
+
+01:56.910 --> 02:01.350
+Well as it stands right now there is nothing labeled on this diagram so you can't even really write
+
+02:01.350 --> 02:02.530
+a junction rule.
+
+02:02.580 --> 02:07.390
+So step number one is you have to pick a direction for the current.
+
+02:07.440 --> 02:09.990
+Now you might say well how do I do that.
+
+02:09.990 --> 02:14.810
+Actually it doesn't matter which direction you pick for the junction roll.
+
+02:14.840 --> 02:16.720
+I've solved tons of these problems.
+
+02:16.830 --> 02:21.600
+So I think I got a pretty good idea what's going to happen especially here look it as a 20 volt battery.
+
+02:21.630 --> 02:24.750
+And again this side here's the positive side the negative side.
+
+02:24.900 --> 02:27.780
+And this one is stronger than the 10 mile battery.
+
+02:27.840 --> 02:32.340
+So I'm probably going to guess that the current is going to flow through here and I'm going to call
+
+02:32.340 --> 02:34.020
+this one.
+
+02:34.470 --> 02:38.060
+Now over here there's only one battery in this outer branch here.
+
+02:38.480 --> 02:40.610
+I'm going to guess that the current here is going to flow over here.
+
+02:40.620 --> 02:41.910
+I'm going to call it something different.
+
+02:41.910 --> 02:43.870
+It's not going to be the same current.
+
+02:43.890 --> 02:47.870
+This is going to be current I three in this outer branch and the one down the middle.
+
+02:47.880 --> 02:52.350
+I don't know I'm going to guess that it's going to go down and it doesn't matter if I was wrong or if
+
+02:52.350 --> 02:59.560
+I'm completely right at the end the solution will tell us whether or not our guest was correct or incorrect.
+
+02:59.580 --> 03:03.270
+So this is what I've got so I've got three different branches to the circuit.
+
+03:03.390 --> 03:09.030
+Therefore I need three different currents and that's what I'm going to try to solve for what are I one
+
+03:09.130 --> 03:10.770
+2 and three.
+
+03:10.800 --> 03:13.330
+So the first thing we're to do is we're going to write a junction rule.
+
+03:13.560 --> 03:16.120
+We're going to write a junction rule at junction a.
+
+03:16.590 --> 03:19.200
+So a junction of the junction rule says whatever follows.
+
+03:19.230 --> 03:20.760
+And let's see what goes in.
+
+03:20.820 --> 03:27.570
+Well I was going this way I was going down here and it's looking at its I three that goes into the junction.
+
+03:27.920 --> 03:33.240
+I3 that has to be equal to whatever current flows out of the junction.
+
+03:33.660 --> 03:36.440
+So look we have we've got one that's flowing this way.
+
+03:36.450 --> 03:40.440
+I've got I to flowing down in the center branch the way I've got it labeled here.
+
+03:40.440 --> 03:46.930
+So that means i3 must be equal to the current flowing out which is one plus two.
+
+03:47.400 --> 03:49.060
+That is the junction rule.
+
+03:49.080 --> 03:52.230
+Now you can go ahead and say well what about this junction down over here.
+
+03:52.500 --> 03:57.690
+If I write the same expression my junction rule for the junction down here a point D What am I going
+
+03:57.690 --> 03:58.100
+to find.
+
+03:58.100 --> 03:59.730
+What's flowing into the junction.
+
+03:59.970 --> 04:05.670
+I have I one flowing into the junction and I also have two flowing into the junction which is this term
+
+04:05.670 --> 04:09.120
+over here the second term on the right hand side of my first equation.
+
+04:09.660 --> 04:10.080
+And what else.
+
+04:10.080 --> 04:12.480
+What's flowing out of the junction here a point.
+
+04:12.550 --> 04:18.420
+That's the current I three I three is flowing down this lower section over here and that is the current
+
+04:18.490 --> 04:22.590
+i3 which is the same everywhere in this kind of outer branch over here.
+
+04:22.800 --> 04:26.940
+So actually you get the same expression whether you choose this point or that point to right.
+
+04:26.940 --> 04:33.090
+The junction will are the next thing we want to do now is we want to write the loop rule Kirchoff's
+
+04:33.090 --> 04:35.050
+loop rule knowm.
+
+04:35.190 --> 04:37.440
+So the loop rule is pretty simple.
+
+04:37.440 --> 04:38.910
+You simply have to pick loops.
+
+04:39.000 --> 04:43.380
+In this case there are three loops they can actually choose for this circuit and we'll write it down
+
+04:43.380 --> 04:44.840
+for all three.
+
+04:44.880 --> 04:52.950
+So I'm going to start with a loop that starts at point A B C D and then goes back to A A B C D and then
+
+04:52.950 --> 05:00.840
+I'm going to go back to a if I choose that loop and I sum all the voltages across the cories and across
+
+05:00.840 --> 05:07.200
+the resistors and I come back to the same point the loop rule says you sum all of those potential differences
+
+05:07.200 --> 05:08.830
+across every single element.
+
+05:08.880 --> 05:11.570
+You come back to where you start at the end.
+
+05:11.670 --> 05:14.940
+There should be no change in electrical potential.
+
+05:14.940 --> 05:20.130
+So let's start over here at Point A and I'm going across a battery when you cross a battery when I go
+
+05:20.130 --> 05:21.660
+from the negative to the positive.
+
+05:21.750 --> 05:26.510
+I get a voltage gain equal to the voltage of the battery.
+
+05:26.520 --> 05:32.220
+Now I'm going to cross a 2 ohm resistor and I'm going to cross it in the direction of the current that
+
+05:32.220 --> 05:33.610
+I've picked.
+
+05:33.660 --> 05:38.010
+So that means that the current flowing from the top to the bottom that means this side here is at a
+
+05:38.010 --> 05:39.630
+higher potential than a low on.
+
+05:39.810 --> 05:44.350
+So that means there's a potential drop across that resistor and that's given by Ohm's law.
+
+05:44.590 --> 05:51.060
+That's simply the resistance times the current the current is flowing through there right now and right
+
+05:51.060 --> 05:56.220
+over here at Point C I'm going across a battery now going across a battery from the high potential to
+
+05:56.220 --> 05:57.360
+the low potential.
+
+05:57.390 --> 06:04.000
+So I get a voltage drop whenever you get a voltage drop you put a negative sign minus 10 volts.
+
+06:04.260 --> 06:06.860
+Now I'm at the same potential all the way till I get over here.
+
+06:06.860 --> 06:07.110
+All right.
+
+06:07.110 --> 06:11.040
+Now look what happens over here in the center Branch I'm going from point to point A.
+
+06:11.310 --> 06:14.080
+I am crossing a resistor.
+
+06:14.100 --> 06:15.700
+However look what's going on here.
+
+06:15.720 --> 06:21.570
+If the current is flowing the positive current is flowing from the top to the bottom here and I'm doing
+
+06:21.570 --> 06:25.270
+my loop rule in a way that I'm going from point to point A.
+
+06:25.290 --> 06:29.100
+That means I'm going from a low potential to a higher potential.
+
+06:29.100 --> 06:33.630
+When you do that you have to have a positive sign here and the positive voltage gain that you're going
+
+06:33.630 --> 06:39.120
+to get here when I'm doing my loop rule given by Ohm's law the value of the resistance multiplied by
+
+06:39.120 --> 06:40.950
+the current flowing through it.
+
+06:41.490 --> 06:41.820
+That's it.
+
+06:41.820 --> 06:45.110
+I go back to Point A.
+
+06:45.120 --> 06:46.080
+There we go.
+
+06:46.530 --> 06:50.830
+So let's call the junction will acquire and one I'm going to call this equation too.
+
+06:51.690 --> 06:56.490
+Now let's go ahead and maybe do another loop rule another loop rule I can do now is using the loop A
+
+06:56.490 --> 06:59.510
+D E F and then go back to A.
+
+06:59.790 --> 07:04.810
+So let's do that one a D E F and then go back to A.
+
+07:04.830 --> 07:07.680
+What does that loop will look like.
+
+07:07.680 --> 07:11.630
+Again so here I'm actually going around counterclockwise around this loop.
+
+07:11.730 --> 07:15.860
+So when I start from and I go down to look what happens now in this case.
+
+07:16.710 --> 07:18.740
+I'm crossing this four ohm resistor.
+
+07:18.840 --> 07:22.460
+However I'm crossing it and I'm going in the same direction as the current.
+
+07:22.460 --> 07:25.450
+That means I'm going from a high potential to a lower potential.
+
+07:25.590 --> 07:34.420
+I mean I got I had a voltage drop given by four times Aitu to that's ohms law written for this resistor.
+
+07:34.470 --> 07:38.610
+Then I go all the way to the battery I'm going across a battery now from the low potential to the high
+
+07:38.610 --> 07:39.460
+potential.
+
+07:39.600 --> 07:42.780
+And there's a potential difference equal to 30 volts.
+
+07:42.920 --> 07:45.550
+Again 30 volts when I crossed that battery.
+
+07:45.870 --> 07:52.380
+And then at the end here I'm going to cross this 5 ohm resistor across a 5 ohm resistor going in the
+
+07:52.380 --> 07:58.080
+same direction as the current which means there's a voltage drop given by ohms law which is five times
+
+07:58.830 --> 08:01.860
+the value of the resistance multiplied by the current flowing through it.
+
+08:01.860 --> 08:02.460
+Be careful here.
+
+08:02.460 --> 08:05.030
+This is i3 that flowing through that resistor.
+
+08:05.280 --> 08:07.770
+I go back to point a that has to be zero.
+
+08:08.130 --> 08:09.900
+This is equation 3.
+
+08:09.930 --> 08:15.030
+Now I could have done another loop I could have done this big exterior loop here what will we call that
+
+08:15.030 --> 08:21.360
+when we call that a b c d e f back to A.
+
+08:21.600 --> 08:27.660
+We've gone through every single point here going around this exterior loop while the first three terms
+
+08:27.930 --> 08:30.920
+are going to look exactly like they do in equation 2.
+
+08:31.050 --> 08:33.240
+So here you have to have plus 20.
+
+08:33.240 --> 08:38.400
+You have to have minus two times I 1 you have to have minus 10.
+
+08:38.400 --> 08:45.240
+All right those are the first three terms and then what do I do and then I go over the 30 volt battery
+
+08:45.690 --> 08:49.050
+plus 30 and then I go through this five.
+
+08:49.060 --> 08:51.930
+This is similar to what I did for Equation 3.
+
+08:51.960 --> 09:00.500
+I have to have a voltage drop here equal to 5 3 equal to zero and that is the equation for now.
+
+09:00.510 --> 09:02.870
+There are only three unknowns in this problem.
+
+09:02.970 --> 09:09.670
+The three unknowns in this problem are either 1 2 and 3.
+
+09:10.170 --> 09:14.940
+If you did a little bit of algebra you should know that if you have three unknowns all you need are
+
+09:14.940 --> 09:18.630
+three equations in order to solve this.
+
+09:18.990 --> 09:20.480
+We have four equations.
+
+09:20.490 --> 09:23.130
+We actually have too much information.
+
+09:23.130 --> 09:30.060
+Actually it turns out that equation for you would get equation for if you actually simply added equation
+
+09:30.060 --> 09:34.360
+2 to Equation 3 and you can check that out for yourself.
+
+09:34.410 --> 09:37.040
+This is simply equation 2 plus equation 3.
+
+09:37.100 --> 09:43.440
+So equation 4 basically doesnt give us any additional information because its simply the sum of two
+
+09:43.440 --> 09:44.550
+other equations.
+
+09:44.550 --> 09:49.230
+You see if I sum both of those equations what's going to happen in this equation here you have four
+
+09:49.280 --> 09:55.410
+Aitu in this equation you have minus four i.e. two if I sum both of those up those two terms are going
+
+09:55.410 --> 09:58.770
+to vanish and then I'll be left with equation for.
+
+09:58.770 --> 10:05.730
+So in order to solve this now all we're going to do is we're going to use equation 1 equation 2 and
+
+10:05.730 --> 10:06.840
+Equation 3.
+
+10:07.080 --> 10:09.770
+And at this point the problem is all algebra.
+
+10:09.870 --> 10:15.720
+I've taken care of all the physics simply by writing down the junction rule by labeling the currents
+
+10:15.720 --> 10:22.380
+in each branch and by using the loop rule in order to obtain these algebraic expressions.
+
+10:22.410 --> 10:26.300
+So let's set them up now and solve for the unknowns and see what the currents are.
+
+10:26.750 --> 10:26.970
+OK.
+
+10:27.000 --> 10:28.010
+In order to solve for this.
+
+10:28.010 --> 10:33.510
+Now here I've rewritten my three equations so my junction rule and then my two Kirchhoff's loop rules
+
+10:33.510 --> 10:34.050
+here.
+
+10:34.350 --> 10:38.050
+Let me work with equation 2 and 3 and kind of simplify those a little bit.
+
+10:39.450 --> 10:42.270
+Basically what I'm going to try to do is I'm going to try to eliminate.
+
+10:42.300 --> 10:49.280
+I too and I three from the top equation and I can do that simply by eliminating Aitu from equation too.
+
+10:49.420 --> 10:52.720
+And that you can do simply by isolating the current Aitu here.
+
+10:52.740 --> 10:53.980
+So how would that look like.
+
+10:54.150 --> 10:55.920
+You'd have for Aitu.
+
+10:56.640 --> 11:00.680
+And now if I bring everything else on the other on the other side what are you going to end up with
+
+11:00.690 --> 11:04.200
+you're going to end up with two times I won.
+
+11:06.680 --> 11:10.700
+What else are you going to have 20 minus 10 gives me 10 if I bring that on the other side it's going
+
+11:10.700 --> 11:16.080
+to be minus 10 which means that at the end of the day if I divide through by four I'm going to get that.
+
+11:16.160 --> 11:22.700
+The current Aitu is simply going to be one divided by two minus.
+
+11:22.910 --> 11:28.620
+If I can simplify that 10 over 4 5 over to 2.5.
+
+11:28.630 --> 11:32.890
+Are there is an expression now for the current Aitu only in terms of I 1.
+
+11:33.470 --> 11:37.810
+Now let's go ahead and simplify the current i3 do something similar over here.
+
+11:37.910 --> 11:48.320
+If I bring the 5 I 3 on the other side I get 5 i3 equals to 30 minus four times I had to route 3.
+
+11:48.330 --> 11:50.320
+I meant to say 4.
+
+11:51.260 --> 11:56.150
+Ok now we could do a little bit more algebra here in order to simplify this.
+
+11:56.150 --> 11:58.650
+This here is simply equal to 30 minus.
+
+11:58.880 --> 12:03.860
+Let's get rid of Aitu altogether I can get rid of Aitu by substituting the expression I just got up
+
+12:03.860 --> 12:04.650
+here.
+
+12:04.800 --> 12:09.760
+This is I want over to minus five over five over two.
+
+12:10.550 --> 12:10.940
+All right.
+
+12:10.970 --> 12:13.330
+So we're almost done here just do a little bit more algebra here.
+
+12:13.360 --> 12:14.620
+This is 30.
+
+12:15.320 --> 12:17.480
+And this here if I multiply through what am I going to get.
+
+12:17.480 --> 12:25.680
+I'm going to get minus two I won over here I'm going to get what's going to be left with plus 10.
+
+12:26.730 --> 12:27.010
+OK.
+
+12:27.020 --> 12:31.330
+So at the end my expression for I three member here I had five i 3.
+
+12:31.340 --> 12:34.300
+So really at the end I got to divide through by five.
+
+12:34.760 --> 12:38.240
+So what are we left with we're going to get 30 plus 10.
+
+12:38.240 --> 12:42.090
+Gives me 40 minus two I won.
+
+12:42.390 --> 12:44.500
+And I can't forget to divide by five.
+
+12:44.510 --> 12:49.270
+So this here simplifies nicely to eight minus two over five.
+
+12:49.790 --> 12:51.840
+I won.
+
+12:51.890 --> 12:52.270
+All right.
+
+12:52.280 --> 12:58.700
+So we have two important expressions here we have two simply in terms of Iowa 1 and I have I three here
+
+12:58.700 --> 13:01.100
+in terms of I won.
+
+13:01.130 --> 13:06.350
+Now what we're going to do is we're going to go back to our junction rule and we're going to substitute
+
+13:06.350 --> 13:11.840
+in the expressions for Aitu then i3 and then we're only going to be left with an equation for I won
+
+13:11.840 --> 13:13.800
+and I'll be able to solve that current.
+
+13:14.320 --> 13:16.180
+So let's go ahead and do that.
+
+13:16.190 --> 13:23.090
+So that means we're going to have one plus instead of two here let's substitute our expression.
+
+13:23.360 --> 13:35.090
+This is I won over to minus five over to that there has to be equal to I three I three is eight minus
+
+13:35.600 --> 13:43.340
+two fifths multiplied by 1 All right look at this expression over here there's only I one is the only
+
+13:43.340 --> 13:45.530
+unknown in this expression so let's go back.
+
+13:45.530 --> 13:47.870
+Let's group all the Iowan terms together.
+
+13:47.960 --> 13:49.050
+This is what it looks like.
+
+13:49.170 --> 13:55.100
+You have I won plus I went over to bring this term on the other side.
+
+13:55.100 --> 13:58.430
+What are you going to get you getting a plus two fifths.
+
+13:58.470 --> 14:02.140
+I won that there must be equal to eight.
+
+14:02.510 --> 14:10.070
+Plus there is this term over here five over two I buried in bring it to the other side right at the
+
+14:10.070 --> 14:13.020
+end we have to put everything on a common denominator.
+
+14:13.040 --> 14:14.370
+It kind of helps.
+
+14:14.700 --> 14:15.480
+I could choose 10.
+
+14:15.500 --> 14:17.800
+Here is a common denominator for this side.
+
+14:18.080 --> 14:27.130
+That here means I'm left with 10 plus five plus for all of this gets multiplied by I won.
+
+14:27.950 --> 14:36.550
+And here if I put things on a common denominator you're going to get 16 plus five divided by two.
+
+14:36.560 --> 14:36.860
+All right.
+
+14:36.860 --> 14:41.170
+So we're nearing the end over here this side.
+
+14:41.240 --> 14:43.050
+What do we get right to get 19 over 10
+
+14:45.830 --> 14:47.310
+multiplied by I.
+
+14:47.430 --> 14:51.400
+And this site here gives me 21 over two.
+
+14:51.560 --> 14:55.130
+So you can factor out a two on each side.
+
+14:55.370 --> 15:02.160
+We're going to be left with five so the final expression now for I one you have to bring the five over
+
+15:02.160 --> 15:05.080
+on this side and you have to divide through by 19.
+
+15:05.370 --> 15:06.210
+It's a little bit long.
+
+15:06.210 --> 15:07.390
+You got to be careful here.
+
+15:07.500 --> 15:20.040
+So five times 21 gives me 105 and divided by 19 years the current for the bridge I won which I had labeled
+
+15:20.040 --> 15:20.940
+as this one over here.
+
+15:20.940 --> 15:27.070
+This was the current I won here 105 divided by 19.
+
+15:28.410 --> 15:33.990
+All right I've solved now for I won let me just kind of make some room here so you don't really need
+
+15:33.990 --> 15:35.250
+all this algebra here anymore.
+
+15:35.250 --> 15:37.500
+We know what the value of i won his.
+
+15:37.770 --> 15:39.920
+Now what I want to do is I want to solve for what I.
+
+15:39.920 --> 15:44.720
+Two and Three are given the value of 1.
+
+15:44.730 --> 15:47.830
+Now you could just substitute stuff in your calculator.
+
+15:47.970 --> 15:49.460
+If you do that you should get that.
+
+15:49.470 --> 15:57.610
+I won here 5.5 to 6 amps approximately.
+
+15:57.660 --> 15:59.460
+All right so now let's go ahead and find Aitu.
+
+15:59.460 --> 16:04.500
+So I to all you have to do is simply substitute the value of i won here.
+
+16:04.500 --> 16:07.430
+Now the fractions get a little bit messy but it's kind of good.
+
+16:07.440 --> 16:08.650
+Just play around with those things.
+
+16:08.640 --> 16:11.910
+You get 105 divided by 19.
+
+16:12.060 --> 16:13.840
+And that they don't forget is divided by two.
+
+16:13.860 --> 16:17.650
+So you still need at two there and minus five over two.
+
+16:18.340 --> 16:18.720
+OK.
+
+16:18.720 --> 16:21.110
+So what can I do to simplify this a little bit.
+
+16:21.120 --> 16:26.900
+That's 105 19 times to 38.
+
+16:27.350 --> 16:29.430
+That when I could do my head.
+
+16:30.060 --> 16:33.830
+And how do I put this on a factor of 30.
+
+16:33.830 --> 16:37.240
+You multiply both sides by 19.
+
+16:37.320 --> 16:44.700
+I will put this on 38 if I do the top Times 19 should get 95 said deal at the end you're left with 10
+
+16:45.090 --> 16:50.860
+over 38 which is also 5 over 19.
+
+16:50.880 --> 16:52.930
+All right that's the current Aitu.
+
+16:53.000 --> 16:53.990
+How about i3.
+
+16:54.050 --> 17:06.760
+Well I 3 now simply eight minus two fifths and I won again is 105 over 19 five.
+
+17:06.870 --> 17:11.620
+I can get rid of and I can factor out should be 21.
+
+17:11.620 --> 17:15.480
+So what are you left with now you're going to be left with eight minus two times.
+
+17:15.480 --> 17:18.900
+21 is 42 over 19.
+
+17:18.900 --> 17:25.130
+This gets really messy but actually eight times 19 Well eight times 20 is very very easy.
+
+17:25.150 --> 17:26.420
+It's 160.
+
+17:26.670 --> 17:32.360
+So this here should be 152 minus 42 and all of that is over 19.
+
+17:32.370 --> 17:36.120
+So here at the end you're going to be left with 110 over 19.
+
+17:36.420 --> 17:40.230
+Actually you could have probably guessed that one because you could have automatically just use the
+
+17:40.230 --> 17:47.070
+equation 1 over here to obtain that because you know you have one two or five hundred five over 19 here
+
+17:47.400 --> 17:53.460
+and you have two which we just found was five over 19 therefore I 3.
+
+17:53.460 --> 17:56.010
+Here has to be 110 over 19.
+
+17:56.120 --> 17:58.370
+I substitute numbers for this one.
+
+17:58.560 --> 18:03.930
+Five over 19 gives you zero point two six three amps.
+
+18:04.170 --> 18:09.300
+And the last one won 10 over 19 doing everything approximately here.
+
+18:09.300 --> 18:20.120
+Five point five five point seven eight nine I'm sorry it's correct that seventy nine amps.
+
+18:20.120 --> 18:23.450
+So there you have it folks this is just kind of algebra at this point.
+
+18:23.450 --> 18:28.880
+Once you have your three equations you pick any method you want in order to solve that and kind of do
+
+18:28.880 --> 18:31.370
+it my way I kind of like to leave things in fractions.
+
+18:31.370 --> 18:36.670
+It's kind of easy for me to check the answer actually after once I have everything on the common denominator.

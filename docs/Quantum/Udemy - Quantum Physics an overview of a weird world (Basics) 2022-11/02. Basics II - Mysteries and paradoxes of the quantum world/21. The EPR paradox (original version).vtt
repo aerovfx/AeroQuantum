@@ -1,0 +1,354 @@
+WEBVTT
+
+WEBVTT
+
+00:00.540 --> 00:09.700
+It was the year 1935 Einstein's debate with Barr saw the letter emerge as the winner.
+
+00:11.100 --> 00:19.320
+Yet Einstein did not give up in a famous paper entitled Can Quantum Mechanical Description of Physical
+
+00:19.320 --> 00:21.240
+Reality Be Considered Complete?
+
+00:22.020 --> 00:32.370
+Albert Einstein, Boris Podolsky and Nathan Rosen, they're from the acronym EPSA, proposed an interesting
+
+00:32.550 --> 00:39.200
+thought experiment which was supposed to show why quantum mechanics cannot be complete after all.
+
+00:39.900 --> 00:48.420
+As so, at least their argument to end it inherently contains a statement which denies physical reality.
+
+00:49.260 --> 00:56.490
+If by physical reality we mean any physical quantity that can in principle be determined with certainty.
+
+00:57.550 --> 01:04.620
+To show what they felt was inconsistent with the present formulation of quantum mechanics, Epper Cho's
+
+01:04.630 --> 01:11.020
+position, momentum complimentarity, we know that if we precisely measure the position of a particle,
+
+01:11.020 --> 01:14.580
+we will lose information about its momentum and vice versa.
+
+01:14.770 --> 01:20.920
+If we measure its momentum, we can no longer say something precise about its position, not because
+
+01:20.920 --> 01:28.060
+of an interaction between the measurement device and the particle, but because of a fundamental inherent
+
+01:28.060 --> 01:32.770
+indefiniteness of these quantities intrinsically in themselves.
+
+01:34.090 --> 01:41.530
+That's Heisenberg's uncertainty principle that I hope you know, and now by now, you grasp this important
+
+01:41.530 --> 01:42.160
+distinction.
+
+01:42.940 --> 01:51.460
+So what was the EPRI argument, which so they believed shows that there is a possibility of overcoming
+
+01:51.460 --> 01:52.630
+this limitation?
+
+01:53.710 --> 01:58.210
+If you understand the real meaning of the complementarity between position and momentum expressed by
+
+01:58.210 --> 02:06.640
+the commutation relation, it is easy to understand what they had in mind by using the following measuring
+
+02:06.640 --> 02:10.480
+scheme applied to a system of entangled particles.
+
+02:11.350 --> 02:19.000
+Suppose we have a source which we assume to be addressed relative to our laboratory that produces by
+
+02:19.240 --> 02:27.730
+a nuclear nuclear decay process, for example, two entangled particles which fly apart into two different
+
+02:27.730 --> 02:31.840
+and opposite directions, like the figure here.
+
+02:33.560 --> 02:40.730
+Then, according to our standard, an intuitive understanding of Newtonian dynamics, which, as everyone
+
+02:40.730 --> 02:47.690
+knows, implies the conservation of energy and momentum, we should think of each particle as having
+
+02:47.690 --> 02:50.240
+the same, but contrary momentum.
+
+02:51.740 --> 02:57.950
+That is P for particle A and minus P for particle B.
+
+02:59.670 --> 03:10.620
+Now measure the position of position X of one particle, say particle A, for example, by inserting
+
+03:10.620 --> 03:17.850
+a tiny pinhole in its path or whatever, but without making any attempt to gain information about its
+
+03:17.850 --> 03:18.330
+momentum.
+
+03:18.350 --> 03:24.150
+P Because we know according to quantum mechanics we have, we are not allowed to know the position and
+
+03:24.150 --> 03:30.270
+momentum at the same time, because otherwise once we measure the momentum, we will destroy the information
+
+03:30.270 --> 03:31.530
+over its position again.
+
+03:32.460 --> 03:38.850
+So we perform only one position measurement on Particle A and get the measurement result X.
+
+03:40.050 --> 03:46.200
+With this information, we should have also established the position of particle B, at least according
+
+03:46.200 --> 03:52.910
+to our common sense, as it was ejected from the source at the same time and with the same momentum
+
+03:53.190 --> 03:56.640
+that means the same velocity in the opposite direction.
+
+03:57.760 --> 04:05.890
+Therefore, at the time of the measurement, the position of particle B must have been minus X, we
+
+04:05.890 --> 04:12.670
+can deduce this without any measurement, simply by an inference which relies only on the assumption
+
+04:12.790 --> 04:15.860
+that the conservation of energy and momentum holds.
+
+04:16.420 --> 04:24.430
+The interesting point is that because so far no measurement on Particle B has been made, quantum mechanics
+
+04:24.430 --> 04:26.890
+allows us to make a second measurement.
+
+04:27.550 --> 04:31.090
+The measurement of the momentum of the second particle.
+
+04:31.090 --> 04:31.360
+B.
+
+04:32.610 --> 04:38.640
+Measuring momenta is somewhat more complicated from a practical point of view, but not not impossible
+
+04:38.640 --> 04:45.330
+in principle, as long as we make the second measurement on the second particle B, quantum mechanics
+
+04:45.330 --> 04:47.800
+has no objections now.
+
+04:49.290 --> 04:53.820
+By doing that, we have the momentum minus P of particle B.
+
+04:54.960 --> 05:01.500
+And again, for the conservation laws, we deduce from that without any measurement that the momentum
+
+05:01.500 --> 05:04.400
+of a particle A must have been P.
+
+05:05.530 --> 05:11.860
+Therefore, by this thought experiment, we can, at least in principle, retrieve the position X and
+
+05:11.860 --> 05:21.760
+momentum P of Particle A and also the position minus X and momentum minus P of particle B without having
+
+05:21.760 --> 05:25.870
+to measure both position and momentum on the same particle.
+
+05:27.110 --> 05:35.180
+And this apparently having deceived nature, so to speak, which imposes the connotation relation on
+
+05:35.180 --> 05:41.180
+these observables, stating the impossibility of knowing them both, not even in principle.
+
+05:42.160 --> 05:49.930
+Note that because the position of A and the momentum of B have been inferred mentally by deduction,
+
+05:50.320 --> 05:58.570
+not from a measurement, the implication is that if nature nevertheless maintains Heisenberg's principle
+
+05:58.600 --> 06:06.760
+as valid, the uncertainty cannot arise due to the perturbation or disturbance of the system for the
+
+06:06.760 --> 06:14.380
+simple reason that no measurement of P on A minus X on B has occurred in the first place.
+
+06:15.790 --> 06:23.110
+This also means that if the particles, positions and momentum are really definite, as Epper argue,
+
+06:24.010 --> 06:31.300
+then the wave function and all the other Jabri construct describing a quantum system, lack of the complete
+
+06:31.300 --> 06:38.740
+information since it allows only for one or the other dynamic variable to be to be determined according
+
+06:38.740 --> 06:42.340
+to Heisenberg's uncertainty principle and the commutation relations.
+
+06:43.630 --> 06:54.550
+So by this simple reasoning, EPR concluded as follows, if without any way disturbing a system, we
+
+06:54.550 --> 07:02.560
+can predict with certainty that is with probability equal to unity, the value of a of a physical quantity,
+
+07:03.130 --> 07:08.740
+then there exists an element of physical reality corresponding to this physical quantity.
+
+07:10.500 --> 07:18.360
+Later on, they also write, while we have thus shown that the wavefunction does not provide a complete
+
+07:18.360 --> 07:24.960
+description of the physical reality, we left open the question of whether or not such a description
+
+07:24.960 --> 07:25.710
+exists.
+
+07:26.310 --> 07:30.800
+We believe, however, that such a theory is possible.
+
+07:32.640 --> 07:42.120
+We can sum this up by stating also the following is the condition for the reality of a physical quantity
+
+07:42.120 --> 07:48.020
+is the possibility of predicting it with certainty without disturbing the system.
+
+07:49.050 --> 07:56.400
+Then first, the description of reality given, by the way, function in quantum mechanics is not complete.
+
+07:57.920 --> 08:06.860
+Or second, second possibility, these two quantities, X and P, cannot have simultaneous reality.
+
+08:08.410 --> 08:17.350
+This is known as the EPR paradox, the paradox is not in the logic or the math, but in what this logic
+
+08:17.800 --> 08:18.600
+suggests.
+
+08:18.610 --> 08:26.440
+In contrast to our physical, macroscopic, everyday experience, nature seems to opt for the second
+
+08:26.440 --> 08:34.240
+possibility, with quantum mechanics complete, contrary to any form of realism to which we are accustomed.
+
+08:35.500 --> 08:43.240
+Moreover, Epper argued that if quantum mechanics is a complete theory, this must imply a causality
+
+08:43.240 --> 08:50.650
+violation in the relativistic sense, there can be causes and effects which arise apparently due to
+
+08:50.650 --> 08:53.290
+an interaction faster than the speed of light.
+
+08:54.330 --> 09:03.030
+This is because if one measures the position of a particle A and by doing so discovers that this instantly
+
+09:03.030 --> 09:10.740
+causes an uncertainty over the momentum of Particle B as Heisenberg's Uncertainty Principle requests.
+
+09:12.180 --> 09:20.040
+Even if it is light years away, then this looks like an interaction at a distance that is aluminum
+
+09:20.550 --> 09:25.560
+in the same manner we already saw in the previous section with quantum entanglement.
+
+09:28.750 --> 09:36.940
+Because relativity was already an experimental test in accepted theory, in EPA's view, therefore,
+
+09:36.940 --> 09:39.850
+quantum mechanics had to be modified.
+
+09:40.930 --> 09:45.940
+It could at best be considered only a provisional theory and not a complete theory.
+
+09:46.980 --> 09:54.060
+This because if quantum mechanics imposes the noncommitted ability of operators as a fundamental principle,
+
+09:54.990 --> 10:02.040
+a thought experiment like that which are proposed should not be allowed to circumvent it.
+
+10:03.590 --> 10:11.570
+What Epper were looking for was a local theory that is a theory that does not need apparently instant
+
+10:11.590 --> 10:19.730
+super luminal correlations over long distances and that does not deal with intrinsically undetermined
+
+10:19.850 --> 10:20.530
+states.
+
+10:21.440 --> 10:28.070
+They were looking for a theory which would reveal how quantum mechanics in its present form must be
+
+10:28.070 --> 10:34.880
+incomplete and which ultimately explained facts in terms of predetermined and well-defined states,
+
+10:35.120 --> 10:42.710
+as in Newtonian mechanics or relativity, and which rested on the assumption that hidden variables exists
+
+10:43.010 --> 10:47.770
+that rule the phenomenon, even if they have yet to be found.
+
+10:49.180 --> 10:55.510
+In this thought experiment, the predetermination they were seeking was some mechanism, some still
+
+10:55.510 --> 11:03.000
+unknown process, which poses the two particles into an opposite spin state at the time of their creation
+
+11:03.520 --> 11:04.840
+already at the source.
+
+11:05.710 --> 11:11.860
+And that could dispense with the requirement of any annoying faster than light correlation.
+
+11:13.390 --> 11:19.780
+EPA were apparently able to show that the principle of complementarity expressed by computational relations
+
+11:19.780 --> 11:27.010
+seems to be a form of mathematical abstraction, but cannot describe how things are really objectively
+
+11:27.040 --> 11:28.650
+out there, so to speak.
+
+11:30.070 --> 11:37.810
+Physical objects must ultimately have intrinsically definite properties, even if, for whatever reason,
+
+11:37.810 --> 11:39.610
+we can't measure them directly.
+
+11:40.370 --> 11:50.440
+That is, EPR tried hard to reintroduce counterfactual definiteness into the physical picture in the
+
+11:50.670 --> 11:52.570
+EPR thought experiment.
+
+11:52.720 --> 12:00.400
+One deduces properties such as the position of particle B in the momentum of particle A, not measuring
+
+12:00.400 --> 12:09.160
+it by a retroactive reasoning that assumes more or less implicitly, that particles inherently have
+
+12:09.160 --> 12:13.090
+a position and momentum even if we are not able to know them.
+
+12:14.520 --> 12:18.790
+Quantum mechanics, however, seems to shed serious doubt on that.
+
+12:19.110 --> 12:23.900
+The question at this point is where Epper really right?
+
+12:25.370 --> 12:28.720
+Is quantum mechanics an incomplete theory, after all?
+
+12:29.680 --> 12:36.250
+Where are they finally successful in finding a loophole in quantum mechanics that shows its incompleteness?
+
+12:37.350 --> 12:45.360
+We will answer these questions, however, before let us also review the EPR thought experiment itself
+
+12:45.360 --> 12:52.440
+in its modern version, since this is the experimental setup that nowadays physicists work with.

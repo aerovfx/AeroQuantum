@@ -1,0 +1,1322 @@
+WEBVTT
+
+1
+00:00:01.510 --> 00:00:05.410
+Until now, we have been studying
+mostly quantum theories and
+
+2
+00:00:05.410 --> 00:00:09.770
+physical phenomena, which were
+discovered a relatively long time ago.
+
+3
+00:00:09.770 --> 00:00:13.390
+So I think maybe the latest theoretical
+development we talked about,
+
+4
+00:00:13.390 --> 00:00:17.470
+the path integral itself,
+goes back to the 40s, 1940s.
+
+5
+00:00:18.900 --> 00:00:21.990
+Today in this video,
+towards the end of the video,
+
+6
+00:00:21.990 --> 00:00:26.555
+I'm going to tell you about a more
+recent theoretical development,
+
+7
+00:00:26.555 --> 00:00:32.040
+so-called theory of quantum localization,
+or more precisely, weak localization.
+
+8
+00:00:32.040 --> 00:00:38.080
+And I will do so using the main
+ideas of the Feynman path integral.
+
+9
+00:00:38.080 --> 00:00:42.620
+So I should mention that the full theory
+of quantum localization is an extremely
+
+10
+00:00:42.620 --> 00:00:47.520
+complicated mathematical theory, and it
+could be a subject of a separate course.
+
+11
+00:00:47.520 --> 00:00:49.611
+So I don't have time for
+that, and obviously,
+
+12
+00:00:49.611 --> 00:00:52.660
+we don't have the mathematical sort
+of background to talk about it.
+
+13
+00:00:52.660 --> 00:00:57.842
+But it turns out that some basic
+ideas behind this phenomenon
+
+14
+00:00:57.842 --> 00:01:02.111
+can be understood using
+the basic concepts behind
+
+15
+00:01:02.111 --> 00:01:06.696
+the Feynman path integral,
+which comes handy here.
+
+16
+00:01:06.696 --> 00:01:11.590
+So just in a few words, what I'm going to
+be talking about here is the following.
+
+17
+00:01:11.590 --> 00:01:15.010
+So we know that in solid state physics,
+materials
+
+18
+00:01:15.010 --> 00:01:19.350
+sort of can be divided into roughly
+two categories, insulators and metals.
+
+19
+00:01:20.570 --> 00:01:22.970
+There are also semi conductors,
+but from this perspective,
+
+20
+00:01:22.970 --> 00:01:25.940
+they are much like insulators.
+
+21
+00:01:25.940 --> 00:01:29.546
+What insulators are, if you apply
+with electric field, the electrons,
+
+22
+00:01:29.546 --> 00:01:32.000
+which is just inside the material,
+don't move.
+
+23
+00:01:32.000 --> 00:01:35.350
+And so, there's no current really in
+response to electric field, so if you
+
+24
+00:01:35.350 --> 00:01:39.960
+think about a piece of wood or something
+like that, so we obviously understand it's
+
+25
+00:01:39.960 --> 00:01:42.910
+an insulator, it's not going to be
+a very useful electric component.
+
+26
+00:01:42.910 --> 00:01:47.264
+On the other hand, if you have a metallic
+system, let's say a piece of copper, and
+
+27
+00:01:47.264 --> 00:01:52.070
+if we apply electric field, or a voltage,
+there will be current in response to
+
+28
+00:01:52.070 --> 00:01:57.270
+this electric field, and so
+this characterizes a metal.
+
+29
+00:01:57.270 --> 00:02:00.629
+So and then in your real material,
+whether it's an insulator, a metal,
+
+30
+00:02:00.629 --> 00:02:02.390
+there is some imperfections.
+
+31
+00:02:02.390 --> 00:02:07.280
+Disorder, impurities, dislocations,
+all kinds of things, and this,
+
+32
+00:02:07.280 --> 00:02:10.490
+in metals, these impurities and
+dislocations, etc, so
+
+33
+00:02:10.490 --> 00:02:15.610
+these imperfections,
+they lead to a finite resistance, okay?
+
+34
+00:02:15.610 --> 00:02:17.490
+And so, first in the next slide,
+
+35
+00:02:17.490 --> 00:02:21.440
+I will tell you about how this
+resistance comes about, but later on,
+
+36
+00:02:21.440 --> 00:02:26.590
+we will see how the essentially classical
+theory of transport that applies to
+
+37
+00:02:26.590 --> 00:02:31.770
+most metals at high temperature get more
+defied as you go to lower temperatures.
+
+38
+00:02:31.770 --> 00:02:34.590
+And at low temperatures,
+quantum effects come into play.
+
+39
+00:02:34.590 --> 00:02:37.140
+The way of nature, for
+instance, comes into play.
+
+40
+00:02:37.140 --> 00:02:38.460
+And this is very interesting.
+
+41
+00:02:38.460 --> 00:02:41.590
+And it turns out that under
+certain circumstances,
+
+42
+00:02:41.590 --> 00:02:45.560
+you can get completely different
+heat at low temperatures.
+
+43
+00:02:45.560 --> 00:02:48.300
+The nipples, actually,
+would become insulators.
+
+44
+00:02:48.300 --> 00:02:52.508
+And this process of trapping the electrons
+due to quantum mechanical effects is
+
+45
+00:02:52.508 --> 00:02:53.776
+called localization.
+
+46
+00:02:53.776 --> 00:02:57.531
+So of course, it's a very mathematical
+theory as I told you, but
+
+47
+00:02:57.531 --> 00:03:00.850
+we will try to get some idea
+about where it comes from.
+
+48
+00:03:00.850 --> 00:03:04.689
+But before discussing
+a complicated quantum theory,
+
+49
+00:03:04.689 --> 00:03:09.612
+let me first talk about a basic classical,
+very simple theory of how we
+
+50
+00:03:09.612 --> 00:03:13.298
+can understand electrical
+transferred in a metal.
+
+51
+00:03:13.298 --> 00:03:16.308
+So here,
+this black dot labels an electron,
+
+52
+00:03:16.308 --> 00:03:21.695
+which can move around in a piece of metal,
+and these red dots here, larger dots,
+
+53
+00:03:21.695 --> 00:03:27.240
+they represent some impurities,
+of which the electron gets scattered.
+
+54
+00:03:27.240 --> 00:03:29.900
+And that's exactly what it
+does is it moves it around, so
+
+55
+00:03:29.900 --> 00:03:33.478
+it gets scattered by these red impurities,
+and
+
+56
+00:03:33.478 --> 00:03:36.860
+so the trajectory of this electron
+is this diffuser trajectory.
+
+57
+00:03:36.860 --> 00:03:37.820
+So, the random walk.
+
+58
+00:03:37.820 --> 00:03:39.770
+Of course, it's not just one.
+
+59
+00:03:39.770 --> 00:03:42.700
+There are many, many electrons in
+the metal, and they all experience
+
+60
+00:03:42.700 --> 00:03:47.620
+this random walk, which in the absence of
+an electric field just averages out to 0.
+
+61
+00:03:47.620 --> 00:03:50.290
+There is no net current,
+there is no preferential direction.
+
+62
+00:03:50.290 --> 00:03:52.370
+There is nothing which
+breaks the symmetry.
+
+63
+00:03:52.370 --> 00:03:56.590
+But now if we, let's say, apply electric
+field in this direction, the electrons,
+
+64
+00:03:56.590 --> 00:03:57.980
+which have a negative charge,
+
+65
+00:03:57.980 --> 00:04:00.470
+are going to move in the opposite
+direction preferentially.
+
+66
+00:04:00.470 --> 00:04:03.430
+They are still going to move around in
+all directions, but there will be sort of
+
+67
+00:04:03.430 --> 00:04:10.060
+a drift in one particular direction,
+and this will give rise to a current.
+
+68
+00:04:10.060 --> 00:04:13.700
+Now it turns out that
+the first theory of this
+
+69
+00:04:13.700 --> 00:04:18.830
+conductivity of this current in
+the metal was put together back in 1900.
+
+70
+00:04:18.830 --> 00:04:21.044
+And this theory is
+the so-called Drude theory,
+
+71
+00:04:21.044 --> 00:04:24.720
+which is a very simplistic theory
+that I'm going to explain now.
+
+72
+00:04:24.720 --> 00:04:25.420
+So basically,
+
+73
+00:04:25.420 --> 00:04:30.620
+the Drude model assumed that we can just
+view the electron as a classical particle,
+
+74
+00:04:30.620 --> 00:04:36.490
+which therefore satisfies the classical
+equations of motion that Newton equation.
+
+75
+00:04:36.490 --> 00:04:40.770
+And in the presence of electric fields,
+so let's say the charge is q, so
+
+76
+00:04:40.770 --> 00:04:44.430
+it experiences this force
+due to the electric field.
+
+77
+00:04:44.430 --> 00:04:46.380
+And these impurities,
+all these imperfections,
+
+78
+00:04:46.380 --> 00:04:48.630
+he just replaced with the friction force.
+
+79
+00:04:49.920 --> 00:04:54.030
+And this friction force was assumed
+to be proportional to the velocity.
+
+80
+00:04:54.030 --> 00:04:57.350
+Let's say, it sort of make sense if you
+have a viscous fluid for instance, and
+
+81
+00:04:57.350 --> 00:05:00.280
+if you put an object that's
+going to move in this fluid.
+
+82
+00:05:00.280 --> 00:05:05.190
+So it's going to experience some force,
+friction, which is proportional
+
+83
+00:05:05.190 --> 00:05:09.050
+to the velocity and with a minus sign of
+course, and there is some coefficient.
+
+84
+00:05:09.050 --> 00:05:13.490
+So the velocity is momentum divided by the
+mass, so we can write, instead of writing
+
+85
+00:05:13.490 --> 00:05:17.230
+the frictional force this way, we can
+write it as minus p over t over some tau,
+
+86
+00:05:17.230 --> 00:05:24.520
+which is a time scale which describes
+momentum relaxation in this process.
+
+87
+00:05:24.520 --> 00:05:27.940
+So in some sense,
+you may think about this tau as
+
+88
+00:05:29.450 --> 00:05:33.510
+the typical time between collisions for
+the electron.
+
+89
+00:05:33.510 --> 00:05:38.040
+But in the Drude model, it was just
+a sort of phenomenological parameter
+
+90
+00:05:38.040 --> 00:05:42.400
+that described friction or
+momentum relaxation of this electron.
+
+91
+00:05:42.400 --> 00:05:48.910
+And now, what he did, he simply wrote
+down this model, and so of course,
+
+92
+00:05:48.910 --> 00:05:54.588
+we can write the left hand side
+of the Newton equation as dp/dt.
+
+93
+00:05:54.588 --> 00:05:58.685
+And so the right hand side is putting
+this together is going to be the electric
+
+94
+00:05:58.685 --> 00:06:01.661
+force and
+this friction force ,and in equilibrium,
+
+95
+00:06:01.661 --> 00:06:04.786
+we demand that there's no
+acceleration of electrons.
+
+96
+00:06:04.786 --> 00:06:08.822
+So if we take, let's say, a piece of
+metal, apply some electric field,
+
+97
+00:06:08.822 --> 00:06:12.420
+eventually it's going to come to
+some sort of steady equilibrium.
+
+98
+00:06:12.420 --> 00:06:13.370
+There is going to be a current,
+
+99
+00:06:13.370 --> 00:06:17.070
+but there's not going to be
+indefinite acceleration of electrons.
+
+100
+00:06:17.070 --> 00:06:21.279
+So they're going to come to
+a certain sort of steady state, and
+
+101
+00:06:21.279 --> 00:06:25.490
+this steady state will
+determine the current.
+
+102
+00:06:25.490 --> 00:06:30.250
+Now from here, what we can do,
+we can just solve for the velocity.
+
+103
+00:06:30.250 --> 00:06:39.460
+So momentum from this equation is
+going to be equal q times E times tau.
+
+104
+00:06:39.460 --> 00:06:43.789
+And velocity therefore is going to be
+just momentum divided by the mass.
+
+105
+00:06:45.010 --> 00:06:48.480
+And at this stage, what we can
+do is we can write the current.
+
+106
+00:06:48.480 --> 00:06:53.820
+So the current is simply the charge of
+the carriers, in this case, the electrons,
+
+107
+00:06:53.820 --> 00:06:58.210
+times the density of these carriers, how
+many of those participate in transport.
+
+108
+00:06:58.210 --> 00:07:01.070
+And v is the velocity,
+which we just determined.
+
+109
+00:07:01.070 --> 00:07:04.145
+And so if we put everything together,
+we're going to get this expression, so
+
+110
+00:07:04.145 --> 00:07:06.979
+it's going to be this coefficient,
+which is called conductivity, and
+
+111
+00:07:06.979 --> 00:07:08.200
+times the electric field.
+
+112
+00:07:08.200 --> 00:07:12.150
+So by definition actually,
+the conductivity is the coefficient of
+
+113
+00:07:12.150 --> 00:07:15.240
+proportionality between the current and
+the electric field.
+
+114
+00:07:15.240 --> 00:07:18.990
+And so this expression,
+this n q squared tau over m is the so
+
+115
+00:07:18.990 --> 00:07:21.550
+called Drude conductivity,
+which as you can see,
+
+116
+00:07:21.550 --> 00:07:27.680
+the purely classical entity, so there is
+no quantum mechanics here whatsoever.
+
+117
+00:07:27.680 --> 00:07:32.640
+Now embarrassing thing that I have
+to admit at this stage is that
+
+118
+00:07:32.640 --> 00:07:37.600
+almost all sort of useful theories
+of metals, of transporting metals,
+
+119
+00:07:37.600 --> 00:07:40.000
+rely on this Drude
+equation up to this date.
+
+120
+00:07:40.000 --> 00:07:43.490
+So since, for more than 100 years,
+we've been using this equation and
+
+121
+00:07:43.490 --> 00:07:44.950
+in most cases, it actually works fine.
+
+122
+00:07:46.010 --> 00:07:48.300
+But fortunately, well for us scientists,
+
+123
+00:07:48.300 --> 00:07:50.120
+otherwise it would have
+been really boring.
+
+124
+00:07:50.120 --> 00:07:55.240
+So if you go to lower temperatures, the
+situation becomes a little more tricky.
+
+125
+00:07:55.240 --> 00:07:58.620
+And this is because quantum
+mechanics becomes important.
+
+126
+00:07:58.620 --> 00:08:01.010
+So quantum mechanics come into play.
+
+127
+00:08:01.010 --> 00:08:05.110
+And what it means is that in this picture,
+for instance, with how we can envision
+
+128
+00:08:05.110 --> 00:08:09.650
+the appearance of quantum is that instead
+of just straight trajectories of classical
+
+129
+00:08:09.650 --> 00:08:15.820
+particles, we're going to have waves
+bouncing around of these impurities.
+
+130
+00:08:15.820 --> 00:08:20.190
+And so these waves are going to
+interfere with each other in some sense.
+
+131
+00:08:20.190 --> 00:08:23.520
+So it's going to be the particle
+is going to interfere with itself.
+
+132
+00:08:23.520 --> 00:08:27.060
+And these quantum interference
+effects are going to modify
+
+133
+00:08:27.060 --> 00:08:29.540
+this picture very significantly.
+
+134
+00:08:29.540 --> 00:08:32.292
+So now let us look at
+the electron motion in a metal,
+
+135
+00:08:32.292 --> 00:08:35.692
+in a disordered metal from
+a slightly different perspective.
+
+136
+00:08:35.692 --> 00:08:38.769
+Actually, from a completely
+different perspective,
+
+137
+00:08:38.769 --> 00:08:42.180
+because now we want to explicitly
+turn on quantum mechanics.
+
+138
+00:08:42.180 --> 00:08:46.921
+And we will use quantum mechanics and
+partition quantum mechanics due to Feynman
+
+139
+00:08:46.921 --> 00:08:50.545
+and ask the question what is
+the probability for an electron to
+
+140
+00:08:50.545 --> 00:08:56.220
+diffuse from an initial point to final
+point through this forest of impurities.
+
+141
+00:08:56.220 --> 00:09:00.310
+And according to the Feynman, this
+probability can be written as the absolute
+
+142
+00:09:00.310 --> 00:09:05.100
+value squared of a sum of
+quantum mechanical amplitudes,
+
+143
+00:09:05.100 --> 00:09:08.230
+associated with all
+possible classical paths.
+
+144
+00:09:08.230 --> 00:09:09.420
+This diffuse the trajectory in here.
+
+145
+00:09:09.420 --> 00:09:13.270
+I'm just showing two such
+possible trajectories.
+
+146
+00:09:13.270 --> 00:09:16.490
+This blue one and the black one and
+
+147
+00:09:16.490 --> 00:09:18.850
+these guys are going to
+interfere with one another.
+
+148
+00:09:18.850 --> 00:09:22.500
+And this interference, so for
+instance, if I pulled this trajectory,
+
+149
+00:09:23.630 --> 00:09:25.928
+trajectory one and
+this is going to be trajectory two.
+
+150
+00:09:25.928 --> 00:09:32.700
+So the interference term, which is
+going to appear from this expression,
+
+151
+00:09:32.700 --> 00:09:38.540
+is going to involve a product
+of this black exponential,
+
+152
+00:09:38.540 --> 00:09:43.910
+e to the par i s1 h bar,
+times the blue exponential,
+
+153
+00:09:43.910 --> 00:09:48.510
+which is complex conjugate,
+i s2 divided by h bar.
+
+154
+00:09:48.510 --> 00:09:52.910
+Plus its complex conjugate, so all in all,
+the interference term, coming from
+
+155
+00:09:52.910 --> 00:09:56.280
+these two particular trajectories,
+again, this is just two examples.
+
+156
+00:09:56.280 --> 00:09:59.408
+There are infinitely many
+such trajectories and
+
+157
+00:09:59.408 --> 00:10:04.133
+infinitely many such terms, but in any
+case, each of these terms is going to
+
+158
+00:10:04.133 --> 00:10:07.738
+produce a sort of cosine of s1- s2 and
+divided by h1.
+
+159
+00:10:07.738 --> 00:10:10.710
+So this is basically
+the quantum interference terms.
+
+160
+00:10:10.710 --> 00:10:13.610
+And the terms, which don't involve
+the cross product of different
+
+161
+00:10:13.610 --> 00:10:15.220
+trajectory site, classical terms.
+
+162
+00:10:15.220 --> 00:10:18.640
+So in some sense, these are the terms,
+which are responsible for
+
+163
+00:10:18.640 --> 00:10:19.594
+the Drude conductivity,
+
+164
+00:10:19.594 --> 00:10:25.870
+the classical Drude conductivity that we
+obtained in the previous discussion, okay?
+
+165
+00:10:25.870 --> 00:10:29.980
+And so now, the question of what
+is quantum mechanics doing,
+
+166
+00:10:29.980 --> 00:10:31.385
+what are the quantum corrections,
+
+167
+00:10:31.385 --> 00:10:34.377
+boils down to figuring out
+what these terms are actually.
+
+168
+00:10:35.720 --> 00:10:40.250
+Now, in the beginning of this video,
+I mentioned something about temperatures.
+
+169
+00:10:40.250 --> 00:10:43.551
+I said, well, at high temperature,
+these terms don't really matter,
+
+170
+00:10:43.551 --> 00:10:45.588
+at low temperatures, they start to matter.
+
+171
+00:10:45.588 --> 00:10:49.496
+And the reason this is the case, because
+at high temperatures, what the temperature
+
+172
+00:10:49.496 --> 00:10:53.131
+really is, it involves a lot of motion,
+which occurs around these electrons,
+
+173
+00:10:53.131 --> 00:10:56.870
+which are sort of doing their thing,
+moving around, diffusing around.
+
+174
+00:10:56.870 --> 00:11:00.930
+But there is also, let's say, lattice
+vibrations, all kinds of things, and
+
+175
+00:11:00.930 --> 00:11:04.070
+this sort of shaking of
+the electron disturbs the phases.
+
+176
+00:11:04.070 --> 00:11:06.291
+So in some sense,
+this is what is called sometimes,
+
+177
+00:11:06.291 --> 00:11:09.430
+in quantum mechanical literature,
+this is called dephasing.
+
+178
+00:11:09.430 --> 00:11:13.890
+So basically here in this expression,
+whatever theory we're going to be doing,
+
+179
+00:11:13.890 --> 00:11:15.552
+we're going to determine those actions.
+
+180
+00:11:15.552 --> 00:11:18.730
+We're going to assume that phase
+1 mechanical phase is going to
+
+181
+00:11:18.730 --> 00:11:22.640
+remain constant, during or
+uninterrupted method,
+
+182
+00:11:22.640 --> 00:11:26.350
+say during the motion of
+electron along these projections.
+
+183
+00:11:26.350 --> 00:11:30.820
+But it turns out that even if we assume
+that there's no disturbance of the phases
+
+184
+00:11:30.820 --> 00:11:36.550
+and no dephasing, so classical
+physics in some sense protects itself
+
+185
+00:11:36.550 --> 00:11:41.410
+in that these quantum interference
+theorems tend to cancel each other out and
+
+186
+00:11:41.410 --> 00:11:43.400
+completely disappear from the picture.
+
+187
+00:11:43.400 --> 00:11:47.179
+And we'll actually have to search
+really hard in order to find
+
+188
+00:11:47.179 --> 00:11:51.000
+the situation where they
+start being essential.
+
+189
+00:11:51.000 --> 00:11:52.330
+And in order to see all of this,
+
+190
+00:11:52.330 --> 00:11:56.736
+let me estimate the typical action
+that appears in this equation.
+
+191
+00:11:56.736 --> 00:11:59.310
+So remember that well, at this stage,
+
+192
+00:11:59.310 --> 00:12:04.280
+we are just talking about particles
+bouncing around from these impurities, but
+
+193
+00:12:04.280 --> 00:12:09.040
+otherwise, in between this sketching,
+they are free particles.
+
+194
+00:12:09.040 --> 00:12:12.050
+So their energy is essentially
+just mv squared over 2,
+
+195
+00:12:12.050 --> 00:12:14.450
+the kinetic energy of a free particle.
+
+196
+00:12:14.450 --> 00:12:19.010
+And therefore, in order to estimate
+the action, we can just say that well,
+
+197
+00:12:19.010 --> 00:12:23.780
+by the order of estimates
+is going to be mv,
+
+198
+00:12:23.780 --> 00:12:28.190
+which is momentum, times another
+velocity times dt, which is sort of.
+
+199
+00:12:28.190 --> 00:12:30.260
+So this is going to be the double
+length of the trajectory, and
+
+200
+00:12:30.260 --> 00:12:31.760
+this is going to be the typical momentum.
+
+201
+00:12:31.760 --> 00:12:36.750
+So we can estimate our
+action on each path as
+
+202
+00:12:36.750 --> 00:12:42.480
+the typical momentum of an electron times
+the typical length of the trajectory.
+
+203
+00:12:42.480 --> 00:12:47.460
+So, now using this estimate,
+we can also estimate the typical quantum
+
+204
+00:12:47.460 --> 00:12:52.260
+interference terms,
+which I described by the sum
+
+205
+00:12:52.260 --> 00:12:57.610
+of overall pairs of non equivalent
+different trajectories, L1 and L2.
+
+206
+00:12:57.610 --> 00:13:01.400
+And now instead of the action, S, we
+write explicitly at the typical momentum,
+
+207
+00:13:01.400 --> 00:13:04.490
+which by the way is called
+Feynman momentum divided by h
+
+208
+00:13:04.490 --> 00:13:10.240
+bar times the difference in length between
+the two trajectories under consideration.
+
+209
+00:13:10.240 --> 00:13:18.160
+Or we can write it equivalently as the
+cosine sum over all L1, not equal to L2,
+
+210
+00:13:18.160 --> 00:13:24.910
+cosine of typical momentum
+times delta L divided by h bar.
+
+211
+00:13:26.100 --> 00:13:30.430
+So it turns out that this argument of
+the cosine in the typical metal is
+
+212
+00:13:30.430 --> 00:13:31.540
+actually very large.
+
+213
+00:13:31.540 --> 00:13:35.465
+And this is because the typical velocity
+of electron in a metal is less than
+
+214
+00:13:35.465 --> 00:13:38.376
+the percent of the speed of light,
+which is 100, so
+
+215
+00:13:38.376 --> 00:13:40.996
+the speed of light,
+which still is pretty fast.
+
+216
+00:13:40.996 --> 00:13:45.783
+And therefore,
+the typical wavelength turns out to be
+
+217
+00:13:45.783 --> 00:13:50.257
+less than an anemometer,
+10 to the -9 meters,
+
+218
+00:13:50.257 --> 00:13:56.740
+which is usually much more than
+the distance between these red dots here.
+
+219
+00:13:56.740 --> 00:13:58.340
+So I'm just giving you facts.
+
+220
+00:13:58.340 --> 00:14:01.350
+If something is obvious, it doesn't
+follow along the previous discussion,
+
+221
+00:14:01.350 --> 00:14:03.850
+I'm just giving you certain information.
+
+222
+00:14:03.850 --> 00:14:07.704
+And the bottom line here is that
+the typical wavelength, in some sense,
+
+223
+00:14:07.704 --> 00:14:10.798
+you may think about the electrons
+really being a wave, and
+
+224
+00:14:10.798 --> 00:14:15.186
+this wavelength is much, much smaller
+than the distance between these red guys.
+
+225
+00:14:15.186 --> 00:14:17.578
+And so the interference terms
+are not very important.
+
+226
+00:14:17.578 --> 00:14:19.613
+And how it plays out here is that so
+
+227
+00:14:19.613 --> 00:14:25.020
+this typical ratio of delta L divided by
+essentially this lambda is very large.
+
+228
+00:14:25.020 --> 00:14:28.699
+And so you have different trajectories
+contributing to this sum, and so
+
+229
+00:14:28.699 --> 00:14:32.630
+you have cosines of different phases,
+completely random phases.
+
+230
+00:14:32.630 --> 00:14:37.150
+And cosine, as we know,
+is the function which can be a positive or
+
+231
+00:14:37.150 --> 00:14:41.150
+it can be negative, depending so if this
+our cosine of phi and this is phi, so
+
+232
+00:14:41.150 --> 00:14:42.460
+it can be positive or negative.
+
+233
+00:14:42.460 --> 00:14:46.290
+And so if we completely pick,
+if this phase is completely random, so
+
+234
+00:14:46.290 --> 00:14:50.090
+the average value of
+the cosine is going to be 0.
+
+235
+00:14:50.090 --> 00:14:54.740
+So the terms with different signs of
+cosine basically cancel each other out,
+
+236
+00:14:54.740 --> 00:14:58.365
+and this is exactly what happens
+with quantum interference terms.
+
+237
+00:14:58.365 --> 00:15:01.535
+And so, seemingly,
+classical physics survives, and
+
+238
+00:15:01.535 --> 00:15:05.928
+we can just completely forget about
+this quantum interference phenomenon.
+
+239
+00:15:05.928 --> 00:15:08.090
+So fortunately, it's not quite the case.
+
+240
+00:15:08.090 --> 00:15:09.870
+It's almost the case, actually.
+
+241
+00:15:09.870 --> 00:15:13.070
+In an ordinary disorder,
+the main pulse is in three dimensions, but
+
+242
+00:15:13.070 --> 00:15:15.060
+it's not always the case.
+
+243
+00:15:15.060 --> 00:15:19.997
+And how the quantum interference
+terms sort of appear we can see
+
+244
+00:15:19.997 --> 00:15:25.030
+by noticing that there is a very
+special class of trajectories,
+
+245
+00:15:25.030 --> 00:15:30.360
+where this organization and
+this consolidation doesn't happen.
+
+246
+00:15:30.360 --> 00:15:33.803
+And these are so-called self crossing
+trajectories, which actually,
+
+247
+00:15:33.803 --> 00:15:36.450
+one of those trajectories
+is sort of presented here.
+
+248
+00:15:36.450 --> 00:15:41.688
+So you see there is a loop here when
+an electron can actually travel
+
+249
+00:15:41.688 --> 00:15:47.320
+in the clockwise direction, and
+this is going to be our path number one.
+
+250
+00:15:47.320 --> 00:15:51.613
+Or it can decide to travel in the opposite
+direction, counterclockwise direction,
+
+251
+00:15:51.613 --> 00:15:53.970
+in which case it's going to
+be a path number two.
+
+252
+00:15:53.970 --> 00:15:57.260
+And the two paths,
+they're going to be different paths, but
+
+253
+00:15:57.260 --> 00:15:59.110
+they're going to have
+exactly the same length.
+
+254
+00:16:00.500 --> 00:16:04.570
+And therefore the quantum interference
+curves responding to these paths
+
+255
+00:16:04.570 --> 00:16:06.340
+are going to survive.
+
+256
+00:16:06.340 --> 00:16:08.448
+Phase difference is going to be 0, and
+
+257
+00:16:08.448 --> 00:16:11.840
+these terms are going to
+play out very significantly.
+
+258
+00:16:11.840 --> 00:16:15.260
+And so this is where we're going to
+discuss in the second part of this video.
+
+259
+00:16:16.770 --> 00:16:20.280
+Now going back a little bit
+to physics in order just to
+
+260
+00:16:20.280 --> 00:16:24.510
+give you an intuition about what
+it has to do with conductivity.
+
+261
+00:16:24.510 --> 00:16:29.370
+So we can sort of intuitively
+understand that the easier it is for
+
+262
+00:16:29.370 --> 00:16:32.900
+an electron to move from an initial
+point to some distant final point,
+
+263
+00:16:32.900 --> 00:16:35.195
+the better this material conducts.
+
+264
+00:16:35.195 --> 00:16:38.270
+Okay, the battery diffuses,
+the battery conducts.
+
+265
+00:16:38.270 --> 00:16:42.036
+And the classical level, it is just
+determined by the true conductivity.
+
+266
+00:16:42.036 --> 00:16:46.475
+On the other hand, the easier for
+the electron to return to the same form,
+
+267
+00:16:46.475 --> 00:16:49.944
+the more often it just sort
+of goes back and back.
+
+268
+00:16:49.944 --> 00:16:54.785
+So the worse conductor it is, so in some
+sense, the probability to have these
+
+269
+00:16:54.785 --> 00:16:58.740
+self-crossing trajectories should
+in general, by general arguments,
+
+270
+00:16:58.740 --> 00:17:02.275
+reduce the conductivity, and this is
+exactly what happens in most cases.
+
+271
+00:17:02.275 --> 00:17:05.440
+And therefore,
+it is called so-called weak localization,
+
+272
+00:17:05.440 --> 00:17:08.690
+basically tries to bring collection
+back to where it came from.

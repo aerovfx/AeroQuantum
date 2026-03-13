@@ -1,0 +1,117 @@
+WEBVTT
+
+WEBVTT
+
+00:00.330 --> 00:04.150
+All right here's another example of using the current law.
+
+00:04.650 --> 00:12.540
+So we're given this network over here with three resistors and we're asked to find the current the current
+
+00:12.600 --> 00:17.460
+i3 in this particular case which is the current in this outermost branch of the circuit.
+
+00:17.460 --> 00:20.790
+We're told that the current flowing through the battery is seven amps.
+
+00:20.790 --> 00:27.210
+We're told that the current in each of these branches first two branches anyway is 2.5 and 1.5 amps.
+
+00:27.210 --> 00:28.810
+So what's left over here.
+
+00:29.310 --> 00:34.220
+Well again you can start by identifying what the junctions are.
+
+00:34.380 --> 00:39.510
+Here's a junction Here's a junction You can also define these ones if you want it to.
+
+00:39.540 --> 00:41.320
+We're going to see that these are really are needed.
+
+00:41.340 --> 00:44.160
+You can solve the problem simply by looking at A and B.
+
+00:44.580 --> 00:46.050
+Ok so what do we have it.
+
+00:46.060 --> 00:52.400
+A We have seven amps going in and you have 2.5 amps flowing down here.
+
+00:52.470 --> 00:58.500
+So if I have 2.5 amps flowing out well there has to be more flowing out this way.
+
+00:58.500 --> 01:09.540
+And we've labeled this the current IB so this current over here IAB must be 7 minus 2.5 and 7 minus
+
+01:09.540 --> 01:14.150
+2.5 is me 4.5 amps.
+
+01:14.350 --> 01:21.100
+And now look at this current IAB there's 4.5 amps Coombe's per second flowing down here into this junction
+
+01:22.240 --> 01:26.860
+and out of that 4.5 you've got 1.5 flowing down.
+
+01:27.730 --> 01:35.440
+So what's left well you have the current I 3 over here I 3 is flowing down this way and it has to go
+
+01:35.440 --> 01:38.580
+through this resistor then go back.
+
+01:38.620 --> 01:42.040
+So again 4.5 going in 1.5.
+
+01:42.070 --> 01:48.990
+Going down the current i3 must then be equal to 4.5 minus 1.5.
+
+01:49.060 --> 01:50.450
+Pretty straightforward.
+
+01:50.470 --> 01:57.750
+So the current i3 equals to 3 amps Okay.
+
+01:58.180 --> 02:01.440
+So this guy here is 3 amps and that works nicely.
+
+02:01.450 --> 02:03.320
+Now you can also apply a backwards right.
+
+02:03.320 --> 02:07.900
+Imagine you then applied the junction rule to junction d down here.
+
+02:07.900 --> 02:09.160
+What would you have.
+
+02:09.160 --> 02:12.240
+Well you'd have 1.5 going into the junction.
+
+02:12.400 --> 02:15.130
+You'd have three amps going into the junction.
+
+02:15.340 --> 02:23.260
+That means that the current over here in this section would have to be equal to 4.5 amps if you apply
+
+02:23.260 --> 02:27.460
+the junction rule down over here while look at whatever current flows in.
+
+02:27.630 --> 02:35.080
+There's two currents flowing in there's ice one from the top that's 2.5 amps and you have 4.5 amps coming
+
+02:35.080 --> 02:36.260
+in from the side.
+
+02:36.610 --> 02:40.090
+So again that has to be equal to the total current flowing out.
+
+02:40.360 --> 02:45.070
+So the current flowing out in this case would have to be 7 amps.
+
+02:45.070 --> 02:47.980
+So there's seven amps everywhere in this branch.
+
+02:47.980 --> 02:54.250
+There are seven amps flowing through the battery and seven amps up here.
+
+02:54.280 --> 02:59.310
+All right so we know the currents now everywhere in this network using the junk will.

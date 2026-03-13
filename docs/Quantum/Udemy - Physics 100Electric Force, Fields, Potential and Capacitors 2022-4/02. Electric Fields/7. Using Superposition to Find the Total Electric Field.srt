@@ -1,0 +1,415 @@
+WEBVTT
+
+00:00.240 --> 00:00.490
+All right.
+
+00:00.510 --> 00:05.010
+So here's our two point charges here we have a positive and a negative.
+
+00:05.050 --> 00:09.930
+What I'm gonna do here is I'm actually going to trace it along over here.
+
+00:09.930 --> 00:12.360
+So this is going to be a positive x axis.
+
+00:12.360 --> 00:19.890
+I'll place a positive charge over here right here and I'll place a negative charge a certain distance
+
+00:19.890 --> 00:20.170
+away.
+
+00:20.280 --> 00:21.930
+Let's try to keep it roughly the same.
+
+00:22.080 --> 00:27.420
+Again both of these the charges down here you could see there are each one of them is one nano Coolum
+
+00:27.840 --> 00:29.980
+one positive and one is negative.
+
+00:30.210 --> 00:35.430
+So let's first look at the area in between and it doesn't matter which point I take.
+
+00:35.430 --> 00:41.350
+Let's imagine I take a point that is right on the center line over here between the two charges.
+
+00:41.370 --> 00:43.710
+So let me draw another set of axes.
+
+00:43.960 --> 00:50.060
+Another axis the y axis and then you place a point right here at the center.
+
+00:50.090 --> 00:50.640
+OK.
+
+00:50.760 --> 00:55.900
+Now I want to do is remember the field produced by each one of those is given by our equation because
+
+00:55.900 --> 00:57.900
+they are both point charges.
+
+00:57.900 --> 01:00.480
+It's k q over R squared.
+
+01:00.700 --> 01:07.680
+Yeah one thing you should see from this line over here if this is the y axis and this is exactly at
+
+01:07.680 --> 01:10.010
+the midpoint between the two.
+
+01:10.530 --> 01:13.220
+I imagine you call this distance x.
+
+01:13.770 --> 01:19.830
+You also call this distance x you could see right away that the distance between the two charges in
+
+01:19.830 --> 01:23.060
+this point is going to be the same distance.
+
+01:23.100 --> 01:27.000
+I don't know what you want to call it let's call it R and call it r right.
+
+01:27.000 --> 01:32.460
+And this is the point P where I want to evaluate the field you can see it's going to be the same.
+
+01:32.740 --> 01:33.020
+OK.
+
+01:33.030 --> 01:34.110
+So now what would you do.
+
+01:34.110 --> 01:37.620
+Well if I wanted to plot what does the total field look like right here.
+
+01:37.770 --> 01:43.710
+Again maybe start with the positive point charge the positive point charge produces an electric field
+
+01:44.580 --> 01:45.880
+that looks like this.
+
+01:45.990 --> 01:51.890
+The magnitude of that field is going to be k q over our squared.
+
+01:52.020 --> 01:52.260
+All right.
+
+01:52.260 --> 01:57.780
+How about the field produced by the negative point charge the field produced by the negative point charge
+
+01:57.780 --> 02:04.170
+is going to be a vector that points toward the negative charge and its magnitude is going to be the
+
+02:04.170 --> 02:04.750
+same.
+
+02:04.890 --> 02:08.940
+All right let me just go ahead and I'm got to save some room over here.
+
+02:08.970 --> 02:16.170
+I'm going to drag it all the way down here k q over our squared notice that the magnitude of each one
+
+02:16.170 --> 02:16.830
+is the same.
+
+02:16.830 --> 02:18.850
+Let me write that down.
+
+02:19.380 --> 02:20.100
+Magnitude
+
+02:23.520 --> 02:25.630
+is the same.
+
+02:26.030 --> 02:26.310
+All right.
+
+02:26.310 --> 02:30.810
+So now what we have to do is we really want to find what the total electric field looks like.
+
+02:30.810 --> 02:34.100
+So what you have to do is you have to add those up as vectors.
+
+02:34.680 --> 02:40.460
+So at the end what we're really interested in is the total field as a vector.
+
+02:40.590 --> 02:48.300
+So this here has to be equal to the field number one is a vector plus the field produced by the negative
+
+02:48.300 --> 02:51.070
+charge as a vector.
+
+02:51.070 --> 02:51.320
+OK.
+
+02:51.330 --> 02:53.340
+Call this E two.
+
+02:53.370 --> 02:53.550
+All right.
+
+02:53.550 --> 02:58.500
+So how would we add these as vector as well again I could just take the first vector and then I have
+
+02:58.500 --> 03:02.030
+to add the second one to it the second one is this guy right here.
+
+03:02.130 --> 03:07.980
+All you do is you simply take this vector and you translate it and now the resulting vector is going
+
+03:07.980 --> 03:09.890
+to be this one.
+
+03:10.380 --> 03:12.840
+This is the total electric field.
+
+03:13.170 --> 03:18.660
+At least the direction the magnitude we'd have to do a little bit of math in order to find that and
+
+03:18.660 --> 03:21.280
+I'll do that in just a few minutes.
+
+03:21.320 --> 03:21.650
+OK.
+
+03:21.900 --> 03:27.250
+But this is how you would find the direction so you could go back now and look at my diagram here which
+
+03:27.300 --> 03:31.830
+shows you the direction the electric feel that every point you could see that at any point here along
+
+03:32.670 --> 03:38.900
+the center the field is always pointing toward the right.
+
+03:38.910 --> 03:43.950
+It doesn't matter which point you take because it doesn't matter if I move my point p up above over
+
+03:43.950 --> 03:44.360
+here.
+
+03:44.430 --> 03:47.870
+These vectors are always going to have the same length.
+
+03:47.910 --> 03:51.440
+All right let's try a different point let's try a point like right over here.
+
+03:51.660 --> 03:55.920
+So over here we're gonna have two electric fields right there is the field produced by the positive
+
+03:55.920 --> 04:00.210
+one and the field produced by the negative on the field from the positive one points away.
+
+04:00.240 --> 04:01.430
+So let me go ahead and draw.
+
+04:02.220 --> 04:03.380
+Let me try to straighten that out.
+
+04:03.390 --> 04:05.820
+Draw a vector over here that looks like this.
+
+04:06.270 --> 04:11.980
+This would be the vector produced by the or the fourth the field produced by this positive charge.
+
+04:12.000 --> 04:12.360
+All right.
+
+04:12.360 --> 04:17.880
+In the distance I would use in this case and go ahead and kind of just delete this for now.
+
+04:17.880 --> 04:18.770
+Clean it up.
+
+04:19.050 --> 04:21.880
+The distance that I would be interested in here would be this one.
+
+04:23.700 --> 04:27.150
+This would be the distance that I would use here for this particular position.
+
+04:27.150 --> 04:31.920
+So this would be my AR and I'm going to call it our positive because now they're not going to be the
+
+04:31.920 --> 04:37.740
+same because you could see the distance from the negative charge all the way to this point p is pretty
+
+04:37.740 --> 04:39.870
+far all right.
+
+04:39.870 --> 04:45.670
+So how would I go ahead now and draw the vector produced by the negative charge at this point.
+
+04:45.690 --> 04:47.490
+Again I would probably draw like this.
+
+04:47.490 --> 04:49.920
+And now look what I'm doing over here right.
+
+04:49.920 --> 04:54.470
+This is the vector the electric field vector produced by the negative charge.
+
+04:54.510 --> 04:56.310
+What do you see what I did over here.
+
+04:56.340 --> 05:03.030
+Notice how short that vector is and that vector is going to be shorter because well think about the
+
+05:03.060 --> 05:08.520
+distance we're gonna have now the distance we're going to be using for this particular case is going
+
+05:08.520 --> 05:10.360
+to be this distance right here.
+
+05:10.450 --> 05:14.250
+It's going to go from here all the way to here.
+
+05:14.250 --> 05:16.950
+This will be the distance are minus.
+
+05:16.980 --> 05:21.290
+So again the total field is still the vector sum however.
+
+05:21.310 --> 05:21.930
+Okay.
+
+05:22.020 --> 05:27.300
+Since the blue vector is shorter than the red one the total electric field at the end should look something
+
+05:27.300 --> 05:29.850
+like this.
+
+05:30.630 --> 05:34.590
+You notice it is still a vector that points away from the positive.
+
+05:34.590 --> 05:41.100
+So if I go back to my diagram you could see on this side the vector still points away from the positive.
+
+05:41.520 --> 05:43.910
+But it's going to be small.
+
+05:44.040 --> 05:50.710
+All right then if you go on the other side for example the other side I could place a point P over here.
+
+05:50.730 --> 05:52.410
+Here you're going to have the exact opposite.
+
+05:52.440 --> 05:52.640
+Right.
+
+05:52.650 --> 05:59.160
+We have the field produced by the negative charge which is going to be a larger vector because it's
+
+05:59.160 --> 06:01.420
+closer to the negative charge.
+
+06:01.710 --> 06:05.100
+And then we also have the field produced by the positive charge in this case.
+
+06:05.100 --> 06:07.710
+This is gonna be the shortest one.
+
+06:08.010 --> 06:11.010
+So I've got the ones in twos mixed up over here.
+
+06:11.010 --> 06:16.560
+Let me just write it like this and this is the field produced by the positive charge.
+
+06:16.560 --> 06:22.170
+So again when you add both of these vectors up what you end up doing here is you're going to get a total
+
+06:22.170 --> 06:23.580
+vector like this.
+
+06:23.610 --> 06:28.610
+This is gonna be the total vector at least the direction you can see that from the diagram.
+
+06:28.620 --> 06:34.860
+When I'm on the right of this negative charge I have all the vectors pointing toward it.
+
+06:34.890 --> 06:37.020
+Now if you want to take any other direction you can.
+
+06:37.020 --> 06:42.170
+You could take this one for example ohm or you could take out of this one for example.
+
+06:42.180 --> 06:45.350
+Let's take this one since I have less things on my diagram over here.
+
+06:45.470 --> 06:49.980
+So I want to clean up some some things over here give myself some space.
+
+06:49.980 --> 06:53.090
+So how would it look like at any general point down here.
+
+06:53.760 --> 06:56.280
+Well let me take this one for example.
+
+06:56.370 --> 07:01.680
+So I have a positive charge that produces an electric field that points away from it.
+
+07:01.680 --> 07:06.670
+Notice I'm pretty close to this positive charge so I'm going to draw kind of a long vector.
+
+07:07.250 --> 07:08.680
+And then what else do I have.
+
+07:08.700 --> 07:11.060
+I have a negative charge which produces a vector.
+
+07:11.060 --> 07:14.930
+Now you've got an imaginary line that joins the negative charge to the point.
+
+07:15.720 --> 07:18.690
+And I'm gonna make that vector shorter.
+
+07:18.690 --> 07:20.920
+So it's going to look something like this.
+
+07:21.240 --> 07:23.890
+So I and what you have to do is you have to add those up as.
+
+07:23.910 --> 07:30.150
+So you do e one or the red vector plus the blue vector.
+
+07:30.240 --> 07:34.200
+So what I'm going to do is I'm just going to move the blue vector down over here because I want to add
+
+07:34.200 --> 07:39.970
+them up and the total electric field at this point.
+
+07:40.120 --> 07:45.750
+Now if I didn't do it to right should look something like this it's a little bit on an angle over here
+
+07:45.760 --> 07:50.580
+again I'm just kind of guessing the magnitudes but if I guess wrong you could see I get it right.
+
+07:50.580 --> 07:54.990
+But over in general it's kind of pointing down and the angle will kind of depend here.
+
+07:54.990 --> 07:55.240
+Right.
+
+07:55.240 --> 07:58.360
+It kind of depends on how you've drawn those vectors.
+
+07:58.440 --> 08:03.930
+See if I'm just far enough it's going to point a little bit that side if I'm just closer on this side
+
+08:03.930 --> 08:05.230
+it points a little bit here.
+
+08:05.260 --> 08:05.580
+OK.
+
+08:06.420 --> 08:10.520
+But in this case the way I drew them this would be my total electric field.
+
+08:11.200 --> 08:11.810
+OK.
+
+08:12.090 --> 08:14.360
+We're going to take a numerical example in just a minute.
+
+08:14.370 --> 08:18.280
+But just getting in a general idea of why you get this field map.
+
+08:18.480 --> 08:24.420
+You just have to use the superposition adding the vectors the electric fields produced by each charge.

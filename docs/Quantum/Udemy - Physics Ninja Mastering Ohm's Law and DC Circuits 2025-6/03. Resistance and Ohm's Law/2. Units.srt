@@ -1,0 +1,226 @@
+WEBVTT
+
+00:00.150 --> 00:04.260
+All right let's kind of look at the units of everything involved here just to kind of start making sense
+
+00:04.260 --> 00:05.240
+of everything.
+
+00:05.700 --> 00:16.700
+So we had I k Iowas simply current and that was measured in amps and one amp was one cool on per second.
+
+00:17.160 --> 00:18.180
+All right what else.
+
+00:18.300 --> 00:21.630
+We had a current density.
+
+00:21.770 --> 00:26.850
+This was a simple formula was total current divided by total area.
+
+00:27.380 --> 00:32.110
+So this was measured in amps per meter squared.
+
+00:33.770 --> 00:39.240
+Put a square bracket whenever I'm kind of discussing the units about about a quantity.
+
+00:39.600 --> 00:41.020
+Well what else do we have.
+
+00:41.060 --> 00:44.390
+We have electric field field.
+
+00:44.400 --> 00:51.200
+The electric field is measured in units of volts per meter.
+
+00:54.640 --> 00:57.280
+What else I introduce that quantity called
+
+01:00.460 --> 01:03.710
+resistivity resistivity.
+
+01:03.760 --> 01:11.170
+Well what is the simple equation for a resistivity its was the constant of proportionality between the
+
+01:11.170 --> 01:15.280
+electric field strength and our current density.
+
+01:15.760 --> 01:24.070
+So that means that our equation for Roe must be equal the E divided by the current density.
+
+01:24.820 --> 01:26.670
+All right so now let's simplify this.
+
+01:26.800 --> 01:29.230
+So the units for e are volt meter
+
+01:33.090 --> 01:43.060
+and the units of J were current which was amps per meter squared.
+
+01:43.080 --> 01:46.010
+All right we can cross out one of these meters here.
+
+01:46.110 --> 01:55.020
+So we're left with this guy here in the square bracket of volt per amp multiplied by a meter.
+
+01:55.080 --> 02:01.710
+Actually this guy here can simplify and let's go to the definition of resistance resistance the equation
+
+02:01.710 --> 02:09.750
+that we had was that the voltage or the difference of potential was equal to the resistance multiplied
+
+02:09.750 --> 02:10.440
+by the current.
+
+02:10.440 --> 02:10.660
+Right.
+
+02:10.660 --> 02:13.210
+These were two forms of Ohms law.
+
+02:13.770 --> 02:16.610
+So if I isolate for resistance.
+
+02:16.950 --> 02:20.560
+So I say equal but I really mean a little arrow there.
+
+02:20.610 --> 02:27.830
+So the value of the resistance can be written as V divided by.
+
+02:28.070 --> 02:30.990
+So if you look at this guy now looks pretty similar to one of those terms.
+
+02:30.990 --> 02:42.660
+This is voltage divided by amperes by amps group actually we define this as being an olm.
+
+02:42.660 --> 02:46.700
+We call this an ohm and the symbol we use for that.
+
+02:46.710 --> 02:54.390
+You've probably seen this kind of this symbol over here than upper case omega that's the symbol we give
+
+02:54.390 --> 02:56.070
+for resistance.
+
+02:56.100 --> 02:59.360
+So now if I go back to my resistivity.
+
+02:59.610 --> 03:06.110
+So that's what you call one ohm is 1 volt per ampere So you see both of those are kind of linked together.
+
+03:06.270 --> 03:14.860
+So actually the more common unit we see for resistivity is then simply written as an old.
+
+03:15.150 --> 03:18.820
+That's the volt per ampere multiplied by a meter.
+
+03:19.410 --> 03:27.390
+So resistivity is often written only in terms of 0 meters like this which are the quantities that we
+
+03:27.390 --> 03:28.180
+have.
+
+03:28.200 --> 03:30.580
+I think we've pretty much have everything here.
+
+03:30.600 --> 03:34.350
+Now let me just also mention something so I said everything here.
+
+03:34.410 --> 03:41.420
+Both of these equations were versions of Ohm's law the value Roe.
+
+03:41.610 --> 03:45.570
+This is a material property.
+
+03:45.800 --> 03:52.140
+So you can look it up different materials will have different values of resistivity.
+
+03:52.400 --> 03:56.310
+Now you might have heard of something called the conductivity.
+
+03:56.310 --> 03:56.570
+Right.
+
+03:56.630 --> 04:00.290
+Let me just right ro here is just reminding you this is resistivity
+
+04:05.740 --> 04:10.240
+you might have heard about something called the conductivity.
+
+04:10.510 --> 04:15.940
+When you're talking about conductors you'd expect the resistivity to be pretty small because conductors
+
+04:16.690 --> 04:20.710
+tend to be pretty good at conducting electrons.
+
+04:20.710 --> 04:23.260
+But there's something called conductivity.
+
+04:23.650 --> 04:30.700
+And usually they use the letters Sigma for that last letter over here actually and it's pretty straightforward.
+
+04:30.700 --> 04:36.540
+It's related to the resistivity and it's just the reciprocal of the resists devotee.
+
+04:37.120 --> 04:43.260
+So that means if you know the reason civets you automatically know the kind activity.
+
+04:43.790 --> 04:49.340
+And there is I just want to mention this is because sometimes Ohm's law here is written kind of like
+
+04:49.340 --> 04:50.530
+this.
+
+04:51.020 --> 04:54.590
+Most of the time as we are going to apply it like this.
+
+04:54.980 --> 05:00.350
+But if you use the definition of the conductivity every now and then instead of writing it like the
+
+05:00.350 --> 05:09.190
+first form what we're going to do is you're going to replace the resistivity by one divided by the conductivity.
+
+05:09.190 --> 05:15.770
+And some people like to write it like this and then just to get rid of the term in the denominator here.
+
+05:15.790 --> 05:21.810
+You're right that the current density is equal to the conductivity multiplied by the electric field.
+
+05:22.180 --> 05:27.550
+The Joe equation I like to call it.
+
+05:27.660 --> 05:28.160
+All right.
+
+05:28.200 --> 05:31.830
+So we have pretty much everything here I think.
+
+05:31.830 --> 05:32.310
+All right.
+
+05:32.430 --> 05:36.870
+Other quantities Well there was also the was the voltage right.
+
+05:37.110 --> 05:44.830
+You can break down a Volt and two more fundamental units if you want it to one volt is a jewel per Coolum
+
+05:46.710 --> 05:52.980
+was a definition of a volt if you go back to electrostatics and you can break the jewel down into more
+
+05:52.980 --> 05:55.060
+fundamental units as well.
+
+05:55.560 --> 06:02.840
+At the end of the day everything can be broken down into kilograms meters seconds coulombs.
+
+06:03.450 --> 06:07.990
+So these are just some of the important relations that kind of link all of these things together.
+
+06:08.040 --> 06:12.750
+So ohms law there's really three different ways to write it for the rest of this course we're really
+
+06:12.750 --> 06:15.720
+going to mainly focus on this guy right here.
+
+06:16.200 --> 06:18.680
+But just be aware that other things exist out there.

@@ -1,0 +1,994 @@
+WEBVTT
+
+00:00.180 --> 00:00.420
+All right.
+
+00:00.420 --> 00:03.660
+So here's our quiz on electric fields here's the first problem.
+
+00:03.690 --> 00:03.900
+All right.
+
+00:03.900 --> 00:05.790
+We have an electron Opes.
+
+00:05.910 --> 00:07.470
+Let's try that one again.
+
+00:07.770 --> 00:08.610
+Way too big.
+
+00:08.610 --> 00:08.840
+All right.
+
+00:08.850 --> 00:11.800
+So we have an electron that's moving to the right.
+
+00:11.850 --> 00:16.920
+So that's important it enters a uniform electric field directed upward.
+
+00:16.950 --> 00:17.190
+OK.
+
+00:17.190 --> 00:19.110
+And that's kind of shown over here.
+
+00:19.200 --> 00:22.020
+Which trajectory so we're given different dashed lines.
+
+00:22.020 --> 00:25.770
+X Y Z or W will the electron follow.
+
+00:26.040 --> 00:26.340
+Okay.
+
+00:26.370 --> 00:27.960
+So what do you think's going to happen.
+
+00:27.960 --> 00:32.970
+Well first of all electron do we know about electrons right.
+
+00:33.000 --> 00:37.260
+They are a negative charge.
+
+00:37.770 --> 00:43.560
+So if something's going to follow one of these trajectories you should just look at the forces acting
+
+00:43.560 --> 00:47.660
+on the electrons so let's do a free body diagram on the electron.
+
+00:47.790 --> 00:48.610
+What is the force.
+
+00:48.610 --> 00:50.690
+So the electric field points up.
+
+00:50.880 --> 00:57.510
+If you remember the fourth equation force is equal to the charge multiplied by the electric field.
+
+00:57.690 --> 01:02.060
+But since our charge here is negative what does that mean.
+
+01:02.070 --> 01:10.050
+It means that if the electric field is pointing up it means that our force acting on the electron should
+
+01:10.050 --> 01:11.190
+be down.
+
+01:11.200 --> 01:11.530
+Okay.
+
+01:11.550 --> 01:13.380
+The force is always down.
+
+01:13.380 --> 01:18.810
+So imagine now we have an electron kind of going in this direction over here what do you think's going
+
+01:18.810 --> 01:24.750
+to happen while as a force acting down so it's probably going to get deflected like this all the other
+
+01:24.750 --> 01:27.340
+ones it's not going to continue straight.
+
+01:27.390 --> 01:31.920
+So w is not the correct answer because there's a force acting on it and it's not going to be any of
+
+01:31.920 --> 01:38.330
+these two choices because again there's a force acting down so the best choice here is trajectory z
+
+01:38.730 --> 01:41.980
+so D is really our best choice for this problem.
+
+01:42.030 --> 01:42.320
+All right.
+
+01:42.330 --> 01:43.130
+Kind of a good problem.
+
+01:43.130 --> 01:44.260
+Next one.
+
+01:44.570 --> 01:46.480
+Scroll down over here.
+
+01:46.570 --> 01:49.490
+What do we have two tiny charged particles.
+
+01:49.560 --> 01:55.390
+Oh four sorry four tiny charged particles two of them have positive charge.
+
+01:55.790 --> 01:56.310
+OK.
+
+01:56.340 --> 02:01.700
+Q And two have negative charges and their place like this in this arrangement.
+
+02:01.740 --> 02:02.020
+OK.
+
+02:02.020 --> 02:08.340
+Each charges the same distance away from the origin which is right here at the center in which direction
+
+02:08.340 --> 02:12.450
+is the net electric field at point P on the y axis.
+
+02:12.480 --> 02:14.190
+OK so point p is up here.
+
+02:14.190 --> 02:17.490
+So what would be the net direction of the electric field.
+
+02:17.490 --> 02:18.990
+Well let's first draw them.
+
+02:19.020 --> 02:19.250
+OK.
+
+02:19.260 --> 02:23.850
+Actually what I'm going to do here is I'm gonna use some different colors because it's gonna make it
+
+02:23.880 --> 02:25.660
+easier to draw the vectors.
+
+02:25.660 --> 02:28.080
+OK so let's draw this first charge.
+
+02:28.500 --> 02:33.080
+So at point p this guy here I'm going to actually put point P right over here.
+
+02:33.570 --> 02:34.290
+So let's have a look.
+
+02:34.290 --> 02:40.260
+So this first positive charge the blue one produces an electric field over here that points away from
+
+02:40.260 --> 02:40.790
+it.
+
+02:40.830 --> 02:42.930
+So I'm gonna call this the field e.
+
+02:43.160 --> 02:44.400
+OK.
+
+02:44.730 --> 02:45.210
+What else.
+
+02:45.210 --> 02:46.350
+Let's choose a different color.
+
+02:46.350 --> 02:52.320
+What about the negative one the negative one over here produces an electric field over here point P
+
+02:53.310 --> 02:56.580
+and that electric field should point toward negative charges.
+
+02:56.580 --> 03:02.090
+However it should be a little bit smaller than this one so it should point like this.
+
+03:02.520 --> 03:02.750
+All right.
+
+03:02.760 --> 03:03.600
+What's next.
+
+03:03.990 --> 03:06.180
+Well now we have to deal with both of those two charges.
+
+03:06.210 --> 03:12.210
+So let's deal with this positive charge over here at Point P it produces an electric field that points
+
+03:12.210 --> 03:12.960
+away from it.
+
+03:12.960 --> 03:13.170
+Right.
+
+03:13.170 --> 03:16.850
+You imagine a little line connected it should be a vector that points like that.
+
+03:16.860 --> 03:20.400
+So that should be a vector that looks something like this.
+
+03:20.430 --> 03:23.540
+That's the field produced by this green charge.
+
+03:23.700 --> 03:26.540
+And our last one over here is choose purple it's a negative one.
+
+03:26.660 --> 03:27.320
+OK.
+
+03:27.540 --> 03:32.730
+The negative one at point p again if you imagine a line that joins the charge to point p.
+
+03:32.910 --> 03:39.180
+It should be a vector that points toward that charge because it's negative so that there should look
+
+03:39.180 --> 03:41.230
+like this.
+
+03:41.340 --> 03:41.580
+OK.
+
+03:41.580 --> 03:44.150
+So we have all of these vectors over here.
+
+03:44.160 --> 03:50.330
+What do you think's going to happen since they're all the charges have the same magnitude.
+
+03:50.430 --> 03:56.860
+You should be able to convince yourself that this one and this one are the exact same magnitude.
+
+03:56.910 --> 03:57.430
+Right.
+
+03:57.450 --> 03:59.810
+So if you were going to add both of those vectors.
+
+03:59.830 --> 03:59.970
+Right.
+
+04:00.000 --> 04:05.580
+If all I did was consider both of those I should get a purple and a green.
+
+04:05.610 --> 04:09.930
+That sum up to some vector that looks like this.
+
+04:10.700 --> 04:10.940
+All right.
+
+04:10.940 --> 04:11.810
+What else do we have.
+
+04:11.820 --> 04:16.470
+Now we're left with the blue and the red while the blue line is a little bit bigger than that one right.
+
+04:16.560 --> 04:22.560
+So at the end really if I add just the blue and the red I should be having an electric field that looks
+
+04:22.560 --> 04:25.080
+something like this.
+
+04:25.080 --> 04:25.400
+All right.
+
+04:25.430 --> 04:27.770
+So let's go ahead now and look at both components.
+
+04:27.770 --> 04:30.720
+Let's get rid of this guy and this guy and this is what we're left with.
+
+04:30.720 --> 04:36.300
+We have two vectors that are perpendicular and at the end if I would add them up I'll just do it in
+
+04:36.300 --> 04:37.310
+pink over here.
+
+04:37.380 --> 04:42.390
+I probably should get a total electric field that should point something like this.
+
+04:42.390 --> 04:48.670
+OK so it should be upward first of all it's not directly up it's not directly to the left.
+
+04:48.750 --> 04:49.980
+It should be upward.
+
+04:50.130 --> 04:51.970
+It's not zero that's for sure.
+
+04:52.200 --> 04:55.170
+And it should be toward the left hand side.
+
+04:55.230 --> 04:55.430
+OK.
+
+04:55.440 --> 04:58.500
+So I think C is the best answer for this one.
+
+04:58.500 --> 04:58.730
+OK.
+
+04:58.740 --> 05:02.750
+So a little bit tricky because you have four different point charges but again where you're going to
+
+05:02.750 --> 05:08.030
+use superposition in order to add them all as vectors I think the only thing to remember here is that
+
+05:08.630 --> 05:15.800
+this guy here is bigger the blue one is bigger than the red one so that's why it tilt a little bit upward.
+
+05:15.800 --> 05:16.030
+All right.
+
+05:16.040 --> 05:17.270
+Hopefully you understand that one.
+
+05:17.270 --> 05:19.210
+Let's go on to the next problem.
+
+05:19.370 --> 05:20.750
+So here's problem three.
+
+05:20.800 --> 05:23.720
+What we have are the figure over here.
+
+05:23.720 --> 05:25.730
+We have two unequal charges.
+
+05:25.940 --> 05:26.150
+OK.
+
+05:26.180 --> 05:32.690
+So that's kind of important over here so it's kind of highlight that they're unequal positive Q and
+
+05:32.690 --> 05:39.470
+A NEGATIVE Q And they also tell us that negative Q here has a greater magnitude than this one.
+
+05:39.790 --> 05:40.010
+OK.
+
+05:40.040 --> 05:44.960
+The point X is midway between the charges and now they want to know they've identified different sections
+
+05:44.960 --> 05:49.220
+whereas the electric field going to be zero in this configuration.
+
+05:49.220 --> 05:54.290
+All right is it going to be zero somewhere along this section or along me somewhere in the middle or
+
+05:54.290 --> 05:55.730
+somewhere over here.
+
+05:56.440 --> 05:56.750
+OK.
+
+05:56.780 --> 06:01.430
+So we have to kind of look at the electric field what I'm going to do here is we're going to try try
+
+06:01.430 --> 06:07.820
+drawing the vectors so let's take that one to be red and the other one to be green.
+
+06:07.820 --> 06:10.370
+Now let's draw some lines.
+
+06:10.370 --> 06:10.730
+OK.
+
+06:10.760 --> 06:16.820
+So let's first consider the section anywhere between both of those charges.
+
+06:16.850 --> 06:20.810
+So that would be a W x or x y.
+
+06:21.020 --> 06:21.250
+Okay.
+
+06:21.260 --> 06:23.280
+Both of these it doesn't really matter which one you choose.
+
+06:23.480 --> 06:28.430
+If you choose a point anywhere between both of those charges let's draw an arbitrary point here.
+
+06:28.430 --> 06:29.710
+Imagine it's right here.
+
+06:29.710 --> 06:30.700
+OK.
+
+06:30.830 --> 06:32.690
+Imagine you're going to use superposition now.
+
+06:32.720 --> 06:36.920
+So what would be the electric field produced by this positive one at this point.
+
+06:37.370 --> 06:40.340
+Well it would be a vector that should point like this right.
+
+06:40.340 --> 06:44.030
+That would be my electric field from the positive one at this point.
+
+06:44.870 --> 06:49.070
+What about the negative one or the negative one would produce an electric feel at this point.
+
+06:49.070 --> 06:54.170
+You would also choose an electric field that is going to point in the same direction.
+
+06:54.230 --> 06:54.810
+Right.
+
+06:54.830 --> 06:58.620
+You see that both of those vectors are in the same direction.
+
+06:58.640 --> 07:01.090
+So here that's going to be same.
+
+07:01.130 --> 07:02.630
+You make the marker a little bit smaller.
+
+07:02.630 --> 07:04.500
+Same direction.
+
+07:05.030 --> 07:10.610
+So definitely can't be anywhere between both of these two charges because always you're going to have
+
+07:10.610 --> 07:16.100
+this addition these vectors might be bigger or smaller depending on where you choose your point but
+
+07:16.100 --> 07:18.380
+they're always going to be in the same direction.
+
+07:18.470 --> 07:25.640
+So you definitely can't have W X and you definitely can't have X Y because of this reasoning.
+
+07:25.640 --> 07:29.900
+All right let's now look at it doesn't matter which one you choose.
+
+07:29.900 --> 07:31.950
+Let's choose this segment over here.
+
+07:31.950 --> 07:32.740
+Y Z.
+
+07:32.900 --> 07:36.960
+So imagine we choose a arbitrary point anywhere over here.
+
+07:36.990 --> 07:37.320
+OK.
+
+07:37.410 --> 07:38.920
+And this is our point p.
+
+07:38.960 --> 07:43.410
+Let me draw point P down here just to give us a little bit more space.
+
+07:43.490 --> 07:43.700
+All right.
+
+07:43.700 --> 07:50.570
+Now we have to draw the vectors produced by the electric field produced by both of our point charges.
+
+07:50.600 --> 07:56.390
+So we have a positive point charge that produces an electric field over here at Point P and it would
+
+07:56.390 --> 07:58.640
+produce a feel that points like this.
+
+07:58.640 --> 08:00.830
+This would be the red vector.
+
+08:01.220 --> 08:02.230
+How about the green one.
+
+08:02.230 --> 08:06.590
+Now the green one now also produces an electric field that point p.
+
+08:06.740 --> 08:09.050
+In this case what would we get.
+
+08:09.050 --> 08:10.720
+Watch what I do with this vector.
+
+08:10.760 --> 08:19.490
+Notice here that I've made this vector bigger right the length of E has to be bigger than the length
+
+08:19.490 --> 08:21.300
+of the red one.
+
+08:21.440 --> 08:23.240
+So why is that.
+
+08:23.300 --> 08:25.240
+Why do you think that is.
+
+08:25.640 --> 08:31.170
+So you're always going to have that the green vector is bigger than this one anywhere in this section.
+
+08:31.340 --> 08:33.290
+And that's because look at this one.
+
+08:33.470 --> 08:36.860
+This charge here is bigger charge greater magnitude.
+
+08:37.460 --> 08:39.530
+And you're also closer to it.
+
+08:39.560 --> 08:46.820
+Right point p is always going to be closer to this charge than it is to the smaller charge down there.
+
+08:46.820 --> 08:50.300
+So that means that this vector here is always bigger than that one.
+
+08:50.330 --> 08:53.680
+So you'll never have zero electric field over here.
+
+08:53.720 --> 08:54.020
+All right.
+
+08:54.050 --> 08:56.060
+How about the other section over here.
+
+08:56.150 --> 09:00.990
+Let's draw an arbitrary point over here make it orange and let me draw it down here.
+
+09:01.120 --> 09:05.810
+So again now if you draw the electric field due to both of those you're going to have a vector produced
+
+09:05.810 --> 09:10.370
+by an electric field produced by this positive charge.
+
+09:10.370 --> 09:11.840
+And it points away from it.
+
+09:11.990 --> 09:18.170
+And you also have an electric field produced by the negative charge and that one points toward the negative
+
+09:18.170 --> 09:19.580
+charge.
+
+09:19.580 --> 09:25.180
+Now if you have a look at the distances in this case right the distance over here is small.
+
+09:25.230 --> 09:25.870
+Right.
+
+09:25.910 --> 09:32.480
+So that vector could be pretty big although the charge is small there's always two things that affect
+
+09:32.480 --> 09:34.910
+the electric field right.
+
+09:34.910 --> 09:40.100
+It's the charge and also the distance if you make the charge bigger you're gonna have bigger electric
+
+09:40.100 --> 09:40.710
+field.
+
+09:40.850 --> 09:45.140
+But if you make the distance smaller you can also have a big electric field.
+
+09:45.170 --> 09:48.050
+Have a look for this negative charge.
+
+09:48.050 --> 09:53.760
+Look at how big the distance is now this should be the distance that I would use to calculate the field
+
+09:54.420 --> 09:58.470
+and this distance is much bigger than the first distance.
+
+09:58.480 --> 10:00.630
+If this is our one and this is our two.
+
+10:00.720 --> 10:05.760
+So that means actually that there could be the case even though you have more charge since you're dividing
+
+10:05.760 --> 10:07.560
+by a larger distance over here.
+
+10:07.680 --> 10:11.480
+You could get the case where both of those fields are equal to each other.
+
+10:11.550 --> 10:18.150
+So at the end really this is not the one we just argued and it really has to be only in this section
+
+10:18.150 --> 10:19.130
+over here.
+
+10:19.230 --> 10:23.930
+Will there be the possibility that both of those electric fields are going to cancel.
+
+10:23.970 --> 10:28.550
+Okay all right let's go to the next one.
+
+10:28.740 --> 10:29.030
+All right.
+
+10:29.030 --> 10:34.060
+Problem for a problem for here we have three equal positive charges.
+
+10:34.160 --> 10:34.360
+All right.
+
+10:34.370 --> 10:35.450
+So that's kind of important.
+
+10:35.450 --> 10:42.940
+Equal they're all positive Q there at the corners over here of a square in the side is D.
+
+10:43.820 --> 10:49.770
+Which one arrow represents the direction of the net electric field at the center of the square.
+
+10:49.940 --> 10:50.180
+All right.
+
+10:50.210 --> 10:55.190
+So all we really have to do now is just draw all the vectors so let's start with the red one over here
+
+10:56.180 --> 11:01.970
+and the red one will produce an electric field at the center which is going to be like this that the
+
+11:01.970 --> 11:05.300
+electric field produced by the red point charge over here.
+
+11:05.300 --> 11:06.320
+All right how about the blue one.
+
+11:06.320 --> 11:11.000
+Let's go the blue here in this corner over here again since it's a positive point charge.
+
+11:11.000 --> 11:16.210
+It will produce an electric field at the center of the square here which will be like this.
+
+11:16.430 --> 11:16.630
+All right.
+
+11:16.640 --> 11:19.890
+So we have both of those vectors so far that we have to add.
+
+11:19.920 --> 11:23.020
+We have one more that we need to do.
+
+11:23.300 --> 11:25.950
+Let's do this one in the upper corner in green.
+
+11:26.030 --> 11:26.300
+Okay.
+
+11:26.330 --> 11:33.410
+So that means now that the electric field right here at the center produced by the green charge is going
+
+11:33.410 --> 11:35.480
+to point away from it.
+
+11:35.480 --> 11:35.740
+All right.
+
+11:35.750 --> 11:42.110
+Two of these vectors here are going to cancel out this vector over here and this one they're equal and
+
+11:42.170 --> 11:43.760
+opposite to each other.
+
+11:43.760 --> 11:45.530
+So those vectors cancel out.
+
+11:45.680 --> 11:50.480
+And actually what you're left with at the end is that the total electric field is simply going to be
+
+11:50.480 --> 11:53.970
+equal to this because the other two will cancel out.
+
+11:53.990 --> 11:57.680
+This is the total E field
+
+12:00.500 --> 12:02.450
+OK so that's really choice.
+
+12:02.470 --> 12:04.470
+Azar it's kind of buried underneath there.
+
+12:04.570 --> 12:08.760
+Choice is really the correct answer for this problem.
+
+12:08.760 --> 12:10.020
+All right let's go to our next problem.
+
+12:12.390 --> 12:12.720
+All right.
+
+12:12.750 --> 12:20.040
+We have a figure over here that shows electric field lines arising from two small charge particles P
+
+12:20.040 --> 12:21.210
+and Q All right.
+
+12:21.210 --> 12:23.100
+Here they are.
+
+12:23.100 --> 12:30.150
+Consider the following two statements the charge P is smaller than the charged Q All right.
+
+12:30.180 --> 12:31.050
+Well what do we think.
+
+12:31.050 --> 12:35.650
+So let's make say this one here is purple and let's make this one here in red.
+
+12:35.670 --> 12:38.630
+So is p smaller than Q.
+
+12:39.210 --> 12:41.010
+And how about the second statement.
+
+12:41.010 --> 12:46.890
+The electrostatic force P is smaller than the force on Q All right.
+
+12:47.280 --> 12:53.450
+Well electrostatic forces one thing we should know is this here is false.
+
+12:53.520 --> 12:55.110
+Right.
+
+12:55.170 --> 13:00.330
+This here is false because we know that cool Ohm's Law that the force acting on them are going to be
+
+13:00.330 --> 13:01.360
+the same.
+
+13:02.100 --> 13:06.030
+The other thing we know is that they should be two positive charges right.
+
+13:06.060 --> 13:08.000
+There are two positive charges.
+
+13:08.160 --> 13:11.080
+And how do I know they are positive charges.
+
+13:11.130 --> 13:19.330
+That's because the electric field lines point away from positive charges how do I know about the magnitude
+
+13:19.330 --> 13:23.320
+now of each charge which one has more charge.
+
+13:23.320 --> 13:31.310
+Well again you would have to argue that Q the charge on Q has to be bigger than the charge on P.
+
+13:31.330 --> 13:36.070
+And how do I know that there's simply more field lines right.
+
+13:36.160 --> 13:41.410
+More field lines and where you have more field lines.
+
+13:41.410 --> 13:47.470
+For example if I choose an area here versus an area here you could see here there is more field lines
+
+13:47.470 --> 13:50.790
+crossing that area then close to the charge P.
+
+13:51.250 --> 13:55.250
+So that means that this charge has to be bigger in magnitude than this charge.
+
+13:56.020 --> 13:59.020
+Okay so this guy is definitely true.
+
+13:59.020 --> 13:59.520
+Okay.
+
+13:59.740 --> 14:01.380
+So now we just go read the choices.
+
+14:01.420 --> 14:03.540
+Only one is true.
+
+14:03.550 --> 14:05.140
+Two is not true.
+
+14:05.170 --> 14:06.350
+Both of them are neither.
+
+14:06.480 --> 14:06.760
+Okay.
+
+14:06.790 --> 14:08.570
+Well we know that a is true.
+
+14:08.680 --> 14:09.490
+So that's OK.
+
+14:09.490 --> 14:13.060
+So for question 5 is the correct answer.
+
+14:13.260 --> 14:13.570
+All right.
+
+14:13.570 --> 14:15.070
+And our last one over here.
+
+14:15.070 --> 14:23.830
+Let's go to a problem six problem six says we have a small Styrofoam ball which has a mass equal to
+
+14:23.830 --> 14:26.590
+point 1 2 grams.
+
+14:26.740 --> 14:33.860
+It's placed in an electric field of six thousand newtons per Coolum pointing downward.
+
+14:33.890 --> 14:35.850
+OK so let's go have a look.
+
+14:35.860 --> 14:42.320
+What excess charge must be placed on the ball for it to remain suspended in the field.
+
+14:42.490 --> 14:42.690
+All right.
+
+14:42.700 --> 14:45.640
+So let's kind of draw what's going on over here.
+
+14:45.640 --> 14:48.260
+Let's draw a small ball.
+
+14:48.400 --> 14:53.260
+It has a mass equal now going to convert this to go from grams to KG.
+
+14:53.260 --> 14:55.290
+Right you need to divide by a thousand.
+
+14:55.300 --> 14:55.600
+Right.
+
+14:55.610 --> 14:59.590
+So zero point one two times 10 to the negative three.
+
+14:59.590 --> 15:02.260
+That is the mass in kilograms.
+
+15:02.350 --> 15:02.670
+All right.
+
+15:03.010 --> 15:08.130
+Now we place this in electric field which is 6000 pointing down.
+
+15:08.370 --> 15:08.590
+OK.
+
+15:08.620 --> 15:10.660
+So this is the electric field.
+
+15:11.170 --> 15:15.550
+And this is six thousand Newtons Pakula.
+
+15:16.750 --> 15:17.080
+All right.
+
+15:17.560 --> 15:22.720
+Now let's look at all the forces now acting on this Styrofoam ball.
+
+15:22.720 --> 15:25.490
+First of all there is going to be the force of gravity right.
+
+15:25.510 --> 15:29.370
+Which is the weight and the weight is m times little G.
+
+15:29.650 --> 15:36.260
+The mass we know over here and little g is nine point eight meters per second squared.
+
+15:37.610 --> 15:38.070
+OK.
+
+15:38.080 --> 15:43.510
+Now if we don't want this or sorry if we wanted to remain suspended in the field we know that the net
+
+15:43.510 --> 15:45.520
+force has to be zero.
+
+15:45.550 --> 15:46.210
+So guess what.
+
+15:46.210 --> 15:49.050
+There better be some other force acting on this ball.
+
+15:49.630 --> 15:53.590
+Well we're going to want now is a an electric force.
+
+15:53.590 --> 15:55.480
+Call it FC acting up.
+
+15:55.830 --> 15:56.720
+OK.
+
+15:57.070 --> 16:03.350
+First of all if the electric field is pointing down the charge on here better be negatively charged.
+
+16:03.370 --> 16:04.060
+Right.
+
+16:04.060 --> 16:05.770
+We want negative charge on here.
+
+16:07.750 --> 16:10.360
+So first of all all of these choices here are negative.
+
+16:10.360 --> 16:12.070
+So we can't really cancel any of them.
+
+16:12.970 --> 16:14.050
+So what do we get now.
+
+16:14.050 --> 16:15.150
+Well so what.
+
+16:15.160 --> 16:24.290
+All we could do is we find that we want these forces the balance so QE better be equal to M.G..
+
+16:24.430 --> 16:27.090
+And again here it's only the magnitude of the charge.
+
+16:27.100 --> 16:30.280
+Clearly I know that the force is in the opposite direction.
+
+16:30.760 --> 16:37.520
+So the magnitude of the charge at the end is energy divided by the electric field.
+
+16:37.530 --> 16:37.750
+OK.
+
+16:37.780 --> 16:44.410
+So now we have to substitute everything in so our masses zero point one two times tend to the negative
+
+16:44.410 --> 16:48.370
+three kilograms multiplied by nine point eight.
+
+16:48.370 --> 16:53.710
+That's the acceleration due to gravity and now divided by the magnitude of the electric field which
+
+16:53.710 --> 16:56.020
+is six thousand.
+
+16:56.410 --> 16:59.200
+At the end the magnitude of the charge.
+
+16:59.710 --> 17:01.740
+Again it has to be negative charge.
+
+17:01.840 --> 17:08.680
+So we get here should be minus one ninety six nano Coolum.
+
+17:08.950 --> 17:17.080
+Actually you should get times 10 to the negative nine columns and that's negative one ninety six a nano
+
+17:17.190 --> 17:20.500
+Coolum if you substituted all our numbers over here.
+
+17:20.560 --> 17:20.800
+OK.
+
+17:20.830 --> 17:25.730
+So the correct answer actually at the end of the day should be choice e over here.
+
+17:25.730 --> 17:25.980
+OK.
+
+17:26.500 --> 17:32.560
+So again I'm only looking at the you know that the charge has to be negative because the force has to
+
+17:32.560 --> 17:35.560
+be like this over here all our choices are negative.
+
+17:35.560 --> 17:38.260
+So it's kind of clear that it has to be negative.
+
+17:38.860 --> 17:43.570
+And we really just want to balance the forces because we want it to remain suspended.
+
+17:43.570 --> 17:48.640
+So the net force must be equal to zero for this problem.
+
+17:49.330 --> 17:50.030
+OK.
+
+17:50.080 --> 17:50.320
+All right.
+
+17:50.320 --> 17:51.580
+Hopefully you got those ones.

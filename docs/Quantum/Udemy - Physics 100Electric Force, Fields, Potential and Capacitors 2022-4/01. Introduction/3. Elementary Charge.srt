@@ -1,0 +1,190 @@
+WEBVTT
+
+00:00.150 --> 00:02.950
+So we've seen we have two kinds of charges.
+
+00:03.040 --> 00:05.610
+We now want to talk about how big that charges.
+
+00:05.640 --> 00:05.860
+OK.
+
+00:05.880 --> 00:11.460
+So now we're going to talk about the magnitude of the charge and let's focus on the proton and on the
+
+00:11.460 --> 00:12.570
+electron.
+
+00:12.570 --> 00:17.920
+So again we've discussed that the difference between the two is that one of them is positive.
+
+00:18.120 --> 00:21.500
+And the other one here we say is negatively charged.
+
+00:21.510 --> 00:22.390
+All right.
+
+00:22.620 --> 00:27.390
+This brings us to something called the elementary charge of the elementary charge the symbol for the
+
+00:27.390 --> 00:29.750
+elementary charges the little letter E..
+
+00:29.850 --> 00:30.530
+OK.
+
+00:30.600 --> 00:38.350
+And its value is one point six multiplied by ten to the negative 19.
+
+00:38.360 --> 00:42.380
+Let me clear that up here tend to the negative 19 columns.
+
+00:42.420 --> 00:42.720
+OK.
+
+00:42.720 --> 00:55.690
+The symbol here this refers to cool homes and this is the S.I. unit for charge a unit for charge.
+
+00:55.700 --> 00:55.910
+All right.
+
+00:55.940 --> 00:57.420
+So this is super important.
+
+00:57.420 --> 01:05.340
+So that means if I have a one proton if I draw one proton over here it would have a charge of I can
+
+01:05.340 --> 01:13.950
+write it as positive E that would be the charge of the proton positive one point six times ten to the
+
+01:13.950 --> 01:16.120
+negative 19 columns.
+
+01:16.260 --> 01:20.680
+If I have one electron draw an electron down over here.
+
+01:20.790 --> 01:22.820
+All right I put a little negative sign.
+
+01:22.890 --> 01:28.980
+I would write its charge as being well I would go over here and I would write as negative E OK.
+
+01:29.010 --> 01:35.200
+And that would be negative one point six times ten to the negative 19 columns.
+
+01:35.610 --> 01:44.240
+If I go back and look at my helium for example my helium atom and let's just look at the helium nucleus.
+
+01:44.430 --> 01:46.850
+So forget about the electrons only the protons.
+
+01:46.850 --> 01:52.600
+So what you would have would be two positive charges that are close to each other.
+
+01:52.710 --> 01:55.170
+And if I just kind of just circle around here.
+
+01:55.200 --> 01:55.780
+OK.
+
+01:55.950 --> 02:00.170
+I would say that the total charge for this helium atom would be well.
+
+02:00.270 --> 02:01.590
+So total charge
+
+02:04.660 --> 02:07.240
+is simply going to be two multiplied by each.
+
+02:07.270 --> 02:10.790
+So it would be three point two loops.
+
+02:10.910 --> 02:15.970
+That's three point two and I wrote three point six three point two times 10 to the negative 19.
+
+02:15.970 --> 02:17.070
+Cool.
+
+02:17.140 --> 02:17.690
+OK.
+
+02:17.740 --> 02:20.650
+If you take any object it doesn't matter what it is.
+
+02:20.680 --> 02:20.980
+OK.
+
+02:21.030 --> 02:25.300
+If I take any object and imagine it's positively charged.
+
+02:25.320 --> 02:30.900
+So it has a whole bunch of protons and no electrons so I've stripped away all the electrons that I know
+
+02:30.900 --> 02:32.190
+how many we have here.
+
+02:32.680 --> 02:39.190
+But the total charge of any object I can write it as q q is usually the letter we use for charge.
+
+02:39.730 --> 02:42.610
+And if I write it as Q total.
+
+02:42.610 --> 02:49.660
+The important thing is that it's always going to be some number N multiplied by the elementary charge.
+
+02:49.660 --> 02:57.340
+Again this is really really important because charge we say is quantized it comes in these packets over
+
+02:57.340 --> 03:04.260
+here that are all one point six times ten of the negative 19 and over here should be just a number.
+
+03:04.570 --> 03:06.330
+Okay.
+
+03:06.610 --> 03:11.370
+Example it could be 15 it could be ten thousand.
+
+03:11.400 --> 03:17.480
+Okay it could be whatever two million times tend to the six.
+
+03:17.620 --> 03:22.360
+It's simply a number which refers to the number of charges that we have got.
+
+03:22.630 --> 03:27.370
+So in this case if you're going to count them all we'd have one two three four five six seven eight
+
+03:27.370 --> 03:29.570
+nine ten eleven twelve thirteen.
+
+03:29.590 --> 03:38.350
+So in this case little Ed would be 13 and the total charge would simply be 13 multiplied by one point
+
+03:38.350 --> 03:42.940
+six times ten to the negative 19 columns.
+
+03:42.940 --> 03:44.340
+So at the end the total charge.
+
+03:44.340 --> 03:45.730
+Let me use my calculator here.
+
+03:45.730 --> 03:49.480
+So 13 times one point six.
+
+03:49.480 --> 03:51.010
+Now this gives me 20.
+
+03:53.110 --> 03:57.370
+And again point eight times 10 to the negative 19 columns.
+
+03:57.370 --> 04:01.060
+That would be the total charge for this object here in green.
+
+04:01.060 --> 04:01.520
+All right.
+
+04:01.630 --> 04:07.360
+So a couple of important concepts elementary charge and the total charge is always some number multiplied
+
+04:07.360 --> 04:08.800
+by that elementary charge.

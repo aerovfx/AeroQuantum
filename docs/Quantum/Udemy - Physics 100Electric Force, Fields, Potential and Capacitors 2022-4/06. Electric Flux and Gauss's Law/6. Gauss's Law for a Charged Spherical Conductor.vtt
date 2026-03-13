@@ -1,0 +1,252 @@
+WEBVTT
+
+WEBVTT
+
+00:00.230 --> 00:05.940
+All right let's do an example here where we're going to apply Gauss as law and I have a spherical conductor
+
+00:06.460 --> 00:11.860
+this physical conductor has a radius of 10 centimeters or point 1 meters as shown in the figure.
+
+00:11.970 --> 00:18.330
+And imagine I wanted to now apply Gauss his law to find the electric field at a distance away from the
+
+00:18.330 --> 00:22.630
+surface equal to 10 centimeters away from the surface of the conductor.
+
+00:22.650 --> 00:27.100
+How would I use Gauss his law in order to solve this problem.
+
+00:27.170 --> 00:28.500
+Okay so let's think about it.
+
+00:28.500 --> 00:32.940
+We got to evaluate the left hand side of Gauss is law in the right hand side.
+
+00:33.000 --> 00:38.790
+We have to place a surface around the object that I want to evaluate it and the surface should have
+
+00:38.790 --> 00:40.680
+the same symmetry as the object.
+
+00:41.010 --> 00:44.600
+Okay let me show you how to do this problem.
+
+00:44.760 --> 00:49.620
+All right step number one for Gauss this law is we need to place a Goshen surface somewhere.
+
+00:49.650 --> 00:51.600
+This is a spherical object.
+
+00:51.600 --> 00:58.730
+So what I'm going to do is I'm going to trace out a Goshen surface that is also a spherical object.
+
+00:58.740 --> 01:01.830
+Now this Goshen surface has a different radius all right.
+
+01:01.830 --> 01:08.640
+It's going to have a radius Little R which in this case is going to be equal to zero point two meters.
+
+01:08.640 --> 01:10.530
+All right I have a close surface.
+
+01:10.530 --> 01:17.750
+Now I can right away think about evaluating both sides of Gauss as law.
+
+01:17.760 --> 01:18.000
+All right.
+
+01:18.000 --> 01:23.820
+First of all we have this charge here and I've placed five micro Coolum on it.
+
+01:23.910 --> 01:27.400
+Now the keyword here is that this is a conductor.
+
+01:27.480 --> 01:29.760
+So what do you know about conductors.
+
+01:29.760 --> 01:36.630
+First of all you should remember that for conductors the electric field inside a conductor must be equal
+
+01:36.630 --> 01:38.280
+to zero.
+
+01:38.430 --> 01:49.090
+So that means that this charge over here has to be all on the surface of the conductor.
+
+01:49.100 --> 01:54.830
+Let me just keep on drawing a couple more charges so all of the charges for conductor is the net charge
+
+01:54.860 --> 01:57.360
+ends up being on the surface.
+
+01:57.440 --> 02:01.330
+So let's go now and evaluate are GAUSS LAW.
+
+02:01.380 --> 02:03.470
+Let's start here with the right hand side.
+
+02:03.470 --> 02:06.470
+How much charge is enclosed by this green surface.
+
+02:07.310 --> 02:09.670
+Well again cue total.
+
+02:09.960 --> 02:10.940
+It's this guy.
+
+02:10.940 --> 02:15.850
+This is five micro Coolum it's going to be spread out on the surface of this conductor.
+
+02:15.920 --> 02:18.540
+So this guy over here is simply five micro COOL.
+
+02:18.590 --> 02:24.620
+THAT'S FIVE TIMES 10 TO THE NEGATIVE six columns divided by my Epsilon zero.
+
+02:24.890 --> 02:26.850
+That's it.
+
+02:26.900 --> 02:27.160
+All right.
+
+02:27.160 --> 02:29.720
+Now we have to work on this side of GAUSS LAW.
+
+02:29.750 --> 02:33.640
+WELL THIS IS MY FIELD multiplied by the area.
+
+02:33.650 --> 02:36.840
+What is the area for this green surface over here.
+
+02:36.860 --> 02:44.210
+It's going to be for Pi the radius is Little R R squared and that's it.
+
+02:44.210 --> 02:44.420
+Right.
+
+02:44.420 --> 02:47.960
+This is because we have a spherical surface
+
+02:52.980 --> 02:55.920
+all right at the end all we have to do is bring that term in the bracket here.
+
+02:55.920 --> 03:01.650
+Down at the bottom and you get that the electric field really again it looks like the same expression
+
+03:01.650 --> 03:01.830
+now.
+
+03:01.860 --> 03:04.590
+We've always had a four point charges.
+
+03:04.590 --> 03:06.890
+This is just cue the total charge.
+
+03:07.080 --> 03:15.540
+Let's just call it upper Q. I'm sorry our five micro Coolum divided by r squared is a little R squared.
+
+03:15.540 --> 03:15.900
+That's it.
+
+03:15.930 --> 03:19.890
+Now you substitute in all the values and you can actually get what the magnitude is.
+
+03:19.980 --> 03:27.480
+So you get five times tend to the negative six you get four pi you get Epsilon zero and then you get
+
+03:27.600 --> 03:31.770
+actually instead of four pi Epsilon zero it's actually a little bit easier just to write it in terms
+
+03:31.770 --> 03:37.710
+of my k constant k constant was nine times tend to the nine.
+
+03:37.830 --> 03:38.460
+All right.
+
+03:38.460 --> 03:44.130
+And then divided by our squared in this case it's going to be zero point two meters squared.
+
+03:44.150 --> 03:48.310
+So let me go ahead and evaluate that using my calculator.
+
+03:48.640 --> 03:51.380
+So just bear with me for one second.
+
+03:51.450 --> 03:57.780
+So this time's nine each of the nine times five E to the negative six.
+
+03:57.810 --> 03:58.020
+All right.
+
+03:58.020 --> 04:07.850
+At the end of the day I get an electric field that equals a one point one two five times ten to one
+
+04:07.850 --> 04:11.440
+two three four five six tend to the six.
+
+04:11.640 --> 04:17.250
+And that should be in units of again as different units for electric field but I like Newton's cool.
+
+04:17.640 --> 04:17.990
+OK.
+
+04:18.120 --> 04:22.740
+So that's the magnitude of the electric field anywhere on this green surface.
+
+04:22.740 --> 04:22.980
+OK.
+
+04:23.010 --> 04:26.440
+This is how you would apply cool Ohm's Law.
+
+04:26.580 --> 04:27.800
+Sorry.
+
+04:27.960 --> 04:31.260
+That you would apply Gauss as law in order to solve this problem.
+
+04:31.290 --> 04:31.710
+OK.
+
+04:31.860 --> 04:36.420
+So remember when you're reading problems and you read the word conductor automatically you should know
+
+04:36.420 --> 04:41.110
+that the field inside the conductor is zero.
+
+04:41.560 --> 04:46.200
+That means that all of the surface ends up being on the surfaces of conductors.
+
+04:46.200 --> 04:50.740
+And this is how you would apply Gauss is a lot of this problem.
+
+04:50.790 --> 04:57.690
+You notice that the value that we get over here first physically symmetric objects even know this object
+
+04:57.690 --> 04:59.950
+here has a finite size it's a ball.
+
+04:59.950 --> 05:01.230
+Right.
+
+05:01.380 --> 05:09.300
+It behaves as though it's a point charge right behaves the same way behaves like a point charge
+
+05:13.120 --> 05:16.470
+where all of the charge would be concentrated right here at the center.
+
+05:16.480 --> 05:18.790
+And you're simply evaluating the distance.
+
+05:18.880 --> 05:25.360
+So that's true if you're outside if you're evaluating it on the outside of this spherical object.
+
+05:25.360 --> 05:31.120
+If I was evaluating the field on the inside I would have to get zero because it's a conductor.
+
+05:31.120 --> 05:31.540
+All right.
+
+05:31.600 --> 05:32.080
+Good job.

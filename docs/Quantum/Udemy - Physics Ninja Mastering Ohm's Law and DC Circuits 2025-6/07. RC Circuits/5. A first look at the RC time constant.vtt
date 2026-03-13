@@ -1,0 +1,279 @@
+WEBVTT
+
+WEBVTT
+
+00:00.210 --> 00:04.980
+OK there are a few important things I want to highlight about our equation here for the charge on the
+
+00:04.980 --> 00:06.910
+plates as a function of time.
+
+00:06.960 --> 00:08.130
+This is what we have.
+
+00:08.130 --> 00:14.460
+First of all in our limits in the limit that time equals to zero which you see if you substitute zero
+
+00:14.460 --> 00:15.860
+in here.
+
+00:15.920 --> 00:16.610
+What do you get.
+
+00:16.690 --> 00:22.360
+Well you get zero over here and you get one minus exponential of zero is one.
+
+00:22.590 --> 00:25.670
+Therefore you're going to get one minus one so you're going to get zero.
+
+00:25.740 --> 00:26.350
+And that's what we had.
+
+00:26.360 --> 00:29.660
+Right we initially had an uncharged capacitor at the other limit.
+
+00:29.670 --> 00:30.600
+You can do is when.
+
+00:30.600 --> 00:33.990
+Time tends toward infinity.
+
+00:34.030 --> 00:37.890
+Now we know what that case when we analyzed it we got towards some final charge and that's what you're
+
+00:37.890 --> 00:43.410
+going to get here in the second term here if you substitute time to be a very big number since it's
+
+00:43.410 --> 00:44.370
+negative over here.
+
+00:44.370 --> 00:46.700
+This term ends up tending towards zero.
+
+00:46.950 --> 00:51.580
+And then you're left with the charge when time is very very big.
+
+00:52.050 --> 00:54.130
+It tends toward this value here.
+
+00:54.180 --> 00:59.360
+See a capacitance multiplied by the MF of the battery.
+
+00:59.580 --> 01:02.670
+So we're OK in those two limits.
+
+01:02.670 --> 01:08.760
+At any other time now the benefit of having an equation like this is you are able to calculate for any
+
+01:08.760 --> 01:16.710
+now any time if you're given a MF a capacitance any the value of the resistance.
+
+01:16.850 --> 01:21.050
+You can actually go ahead and calculate the exact charge.
+
+01:21.420 --> 01:26.400
+For example at time t one you can go ahead and calculate how many Coombe's would you have on these plates
+
+01:26.400 --> 01:28.190
+as a function of time.
+
+01:28.950 --> 01:33.080
+So a couple other important things about this equation.
+
+01:33.120 --> 01:38.460
+Number one if we know the charge on the plates remember our capacitor equation right there is our fundamental
+
+01:38.460 --> 01:43.740
+kind of capacitor equation that says the charge on the plates is always proportional to the voltage
+
+01:43.740 --> 01:45.500
+on the plates.
+
+01:45.510 --> 01:47.650
+So imagine you substituted that over here.
+
+01:47.730 --> 01:48.610
+Right.
+
+01:48.690 --> 01:54.600
+This is the charge as a function of time must be equal to the capacitance as a function of time multiplied
+
+01:54.600 --> 01:56.430
+by the voltage is a function of time.
+
+01:56.430 --> 02:02.460
+The same equation we just substitute our expression for charge and it's always proportional to the voltage.
+
+02:02.640 --> 02:06.770
+So that automatically tells me that the voltage on the plates now is a function of time.
+
+02:07.260 --> 02:10.610
+Also has the exact same shape as the charge.
+
+02:10.860 --> 02:11.120
+Right.
+
+02:11.130 --> 02:16.180
+It just has to have a different unit at the end of the day so you can see on both sides here and cancel
+
+02:16.200 --> 02:21.250
+allow the capacitance and I'm left with an expression for voltage as a function of time.
+
+02:21.280 --> 02:23.300
+Let me just kind of just erase that.
+
+02:23.300 --> 02:24.000
+There you go.
+
+02:24.310 --> 02:26.350
+So there's the expression for voltage as a function of time.
+
+02:26.350 --> 02:28.470
+It also looks exactly like this.
+
+02:28.480 --> 02:31.070
+So the voltage starts at zero when the charge is zero.
+
+02:31.270 --> 02:37.630
+And then it tends toward the MFA the battery at time when time is very very long.
+
+02:37.630 --> 02:43.480
+Another important fact about this equation here is you notice that this guy here in the denominator
+
+02:43.480 --> 02:50.440
+of the exponential function first of all if you look at the units of it you have time in the numerator
+
+02:51.190 --> 02:58.120
+that means that the denominator term must also be in units of time because the argument for an exponent
+
+02:58.210 --> 03:00.720
+can't have any units.
+
+03:00.760 --> 03:05.540
+So actually this value is what you call the RC time constant.
+
+03:06.160 --> 03:07.780
+So the RC time constant
+
+03:12.970 --> 03:21.760
+sometimes you define it as the letter tau and that's defined simply by the resistance multiplied by
+
+03:21.760 --> 03:24.070
+the capacitance.
+
+03:24.070 --> 03:28.020
+So what does that mean in terms of kind of this picture over here.
+
+03:28.630 --> 03:34.240
+So this shape here would have a particular time constant and it would be equal to the resistance multiplied
+
+03:34.240 --> 03:35.710
+by the capacitance.
+
+03:35.800 --> 03:42.660
+It kind of tells you how long does it take for you to reach saturation.
+
+03:42.730 --> 03:47.890
+I imagine I had a different set up here with a different resistor and a different capacitor.
+
+03:47.890 --> 03:50.060
+So I may have a different time constant.
+
+03:50.290 --> 03:54.290
+Well you may have a shape that looks like this.
+
+03:54.450 --> 04:01.680
+Again you would reach the same saturation value because it's the same potential in the battery but this
+
+04:01.680 --> 04:08.540
+one here might have a slightly different time constant let's call it our two C-2 it could also maybe
+
+04:08.540 --> 04:14.610
+have a different case something that takes a lot longer to reach saturation.
+
+04:14.610 --> 04:19.520
+And this guy here might have a different time constant call it Tao 3 so he'd be a completely different
+
+04:19.520 --> 04:24.320
+circuit with a different value of the resistance and a different value of the capacitance.
+
+04:24.410 --> 04:29.080
+So this time constant is really a measure of how quickly let's write this down.
+
+04:29.090 --> 04:36.080
+So how quickly a capacitor will either charge or discharge quickly see charges.
+
+04:36.080 --> 04:39.750
+Let's just do it like this.
+
+04:39.760 --> 04:47.860
+So in this case if I have three different time constants tau to be the purple one which would have a
+
+04:47.860 --> 04:52.800
+resistance R to in C you see this one here charges pretty fast.
+
+04:52.840 --> 04:55.340
+Where is the green one charges a little bit slower.
+
+04:55.350 --> 04:58.520
+Any orange one takes the longest amount of time to charge.
+
+04:58.960 --> 05:06.630
+So if you were going to rank these time constants you would say that Tau 2 would be the smallest one.
+
+05:06.650 --> 05:16.940
+Let's call this one here Tau one or just simply Tau given the given by R C and the last one the biggest
+
+05:16.940 --> 05:21.420
+time constant here would be my time constant Tau 3.
+
+05:21.440 --> 05:28.760
+So the question is since it's simply just the resistance multiplied by the capacitance you can see there's
+
+05:28.820 --> 05:30.820
+only two ways you can make the time constant.
+
+05:30.820 --> 05:31.900
+Big or small.
+
+05:32.090 --> 05:32.710
+Right.
+
+05:32.930 --> 05:36.070
+If I want to make the time constant as small as possible.
+
+05:36.470 --> 05:38.920
+Well I either make the resistance very small.
+
+05:39.110 --> 05:44.270
+So if you make the resistance very small this is going to charge up really fast if you also make the
+
+05:44.270 --> 05:45.880
+capacitance very small.
+
+05:45.890 --> 05:48.400
+It's also going to charge up really fast.
+
+05:49.100 --> 05:55.790
+If I make the resistance very very big again that initial current ends up being so small that it takes
+
+05:55.790 --> 06:01.160
+a longer time for the charge to settle on those plates.
+
+06:01.160 --> 06:07.230
+So the next question is how do we actually calculate the current again.
+
+06:07.270 --> 06:12.440
+Our equation up here is the equation for the charge as a function of time is very important.
+
+06:12.940 --> 06:18.670
+If you take the derivative of this equation with respect to time we can obtain an expression for the
+
+06:18.670 --> 06:19.570
+current.
+
+06:20.020 --> 06:24.130
+So let's go ahead on the next slide and do that and look at the properties of the current as a function
+
+06:24.130 --> 06:25.650
+of time.

@@ -1,0 +1,753 @@
+WEBVTT
+
+WEBVTT
+
+00:00.120 --> 00:00.330
+All right.
+
+00:00.360 --> 00:03.120
+So what I first do is consider this arrangement.
+
+00:03.120 --> 00:10.290
+Our first question here says Let's try to find the speed when there are very very far away of each one.
+
+00:10.290 --> 00:12.150
+So let's imagine what's going to happen over.
+
+00:12.150 --> 00:13.930
+So three positive spheres.
+
+00:14.070 --> 00:19.830
+Imagine we were just looking at this one so there'd be a force here between Q2 and Q3.
+
+00:19.830 --> 00:23.550
+There's also be a force between Q1 and Q3.
+
+00:23.580 --> 00:23.820
+Right.
+
+00:23.820 --> 00:27.220
+So cue 3 is going to move to the right.
+
+00:27.240 --> 00:31.930
+So after a long period of time this is going to be Q3 here.
+
+00:31.940 --> 00:34.210
+It's going to be really really far away.
+
+00:34.230 --> 00:35.460
+What about on Q1.
+
+00:35.460 --> 00:37.170
+Q1 is kind of the exact opposite.
+
+00:37.170 --> 00:40.580
+There is a repulsive force between Q1 and Q3.
+
+00:40.780 --> 00:42.760
+So maybe draw a vector like this.
+
+00:42.900 --> 00:46.880
+And there's also a repulsive force between Q3 and Q1.
+
+00:46.900 --> 00:47.970
+I would move that way.
+
+00:48.000 --> 00:53.340
+So after a long period of time I don't know how long but it would kind of be really really far away.
+
+00:53.340 --> 00:54.940
+This would be Q1.
+
+00:55.350 --> 00:56.900
+Ah what about the middle one what happens.
+
+00:56.920 --> 01:02.590
+Well there's an interaction between Q2 and Q3 just draw like this.
+
+01:02.730 --> 01:05.900
+And then there's also an interaction like this.
+
+01:05.910 --> 01:08.190
+So what's going to happen to Q2.
+
+01:08.190 --> 01:10.290
+All the charges are 10 nano Coolum.
+
+01:10.290 --> 01:13.320
+So these forces are the same.
+
+01:13.350 --> 01:15.410
+So what's going to happen to that charge.
+
+01:15.450 --> 01:17.490
+This is the really key to this problem.
+
+01:17.490 --> 01:19.690
+This one will remain stationary.
+
+01:19.750 --> 01:20.500
+OK.
+
+01:20.610 --> 01:30.390
+Because again these move out at the same rate Q1 and Q3 but Q2 will remain at the same position.
+
+01:30.450 --> 01:30.810
+All right.
+
+01:30.810 --> 01:36.350
+Now a little tip if they're asking you to solve for this speed right here.
+
+01:36.360 --> 01:36.630
+OK.
+
+01:36.630 --> 01:44.110
+The speed is a scalar quantity it's usually best to try to use energy in order to solve that.
+
+01:44.190 --> 01:44.580
+OK.
+
+01:44.580 --> 01:46.990
+So when you read a question they say speed.
+
+01:47.250 --> 01:54.450
+The first thing that comes to mind is a scalar Maybe I use an energy method or conservation of energy
+
+01:54.450 --> 01:57.200
+to solve this problem.
+
+01:57.270 --> 01:59.850
+So what type of energy is involved.
+
+01:59.850 --> 02:04.440
+Well again let's not worry about the forces for now we kind of argued what's going to happen to each
+
+02:04.440 --> 02:07.890
+one but this is how I would kind of do it right.
+
+02:07.890 --> 02:13.830
+Initially what we have is some potential energy we have some potential energy here let's call it you
+
+02:13.830 --> 02:20.160
+want to we have some potential energy here between both of those this would be say two and three and
+
+02:20.160 --> 02:26.010
+then we also have some potential energy between Q1 and Q3.
+
+02:26.010 --> 02:29.530
+So there's really three terms to the potential energy.
+
+02:30.060 --> 02:32.940
+So and initially they're stationary.
+
+02:33.060 --> 02:40.340
+So initially the kinetic energy of the total system initially has to be equal to zero.
+
+02:40.340 --> 02:42.390
+Nothing is moving.
+
+02:42.390 --> 02:44.670
+So what happens when they're far away.
+
+02:44.790 --> 02:48.270
+Again this guy here is moving like this at some speed.
+
+02:48.270 --> 02:51.210
+This guy here is gonna be moving like this at some speed.
+
+02:51.330 --> 02:52.810
+And this guy's gonna be zero.
+
+02:53.460 --> 02:58.200
+So my final condition here is that you're going to have a whole bunch of
+
+03:00.970 --> 03:04.690
+kinetic energy and you're gonna have very little potential energy.
+
+03:04.690 --> 03:12.190
+So we're gonna set this up using conservation of energy and then we're gonna solve for the speeds.
+
+03:12.510 --> 03:13.000
+Okay.
+
+03:13.600 --> 03:19.620
+So let's kind of go to a fresh page and write down our expressions for the total potential energy the
+
+03:19.630 --> 03:21.120
+total kinetic energy.
+
+03:21.190 --> 03:25.330
+All right and see how it changes from potential to kinetic in the system.
+
+03:28.440 --> 03:28.710
+All right.
+
+03:28.720 --> 03:30.340
+So this is kind of what it looks like.
+
+03:30.340 --> 03:31.360
+This is how I would write it.
+
+03:31.390 --> 03:34.980
+So I'll do kind of initial over here.
+
+03:35.410 --> 03:37.030
+What is the total energy initial.
+
+03:37.030 --> 03:40.300
+So again we have all of these different potential energy terms
+
+03:45.380 --> 03:47.390
+and initially I'll just write it like this.
+
+03:47.570 --> 03:49.090
+Initial of the system.
+
+03:49.220 --> 03:52.460
+But again I'm an across that out because this here has to be equal to zero.
+
+03:52.470 --> 03:54.340
+Nothing's moving.
+
+03:54.470 --> 03:54.700
+All right.
+
+03:54.700 --> 03:56.580
+That has to be equal to.
+
+03:56.750 --> 04:00.020
+Again what is the energy when it's out here.
+
+04:00.020 --> 04:05.480
+Well so you have to kind of think about is there any potential energy when these charges are very very
+
+04:05.660 --> 04:06.770
+far apart.
+
+04:06.770 --> 04:11.150
+For that you have to remember what the formula for potential energy between two charges it's always
+
+04:11.150 --> 04:16.640
+going to be the charge a charge B and divided by the distance.
+
+04:16.640 --> 04:21.240
+This is the equation for the potential energy between two charges a and b.
+
+04:21.710 --> 04:22.470
+OK.
+
+04:22.490 --> 04:27.460
+Again if the distance is very very far away there's not going to be any potential energy.
+
+04:27.560 --> 04:30.020
+So kind of you final of the system.
+
+04:30.050 --> 04:31.160
+I'll just write it like this
+
+04:35.660 --> 04:39.870
+this guy here has to be equal to zero because they're very very far away.
+
+04:39.890 --> 04:43.780
+So at the end all we're left with is the final kinetic energy.
+
+04:44.000 --> 04:46.210
+So how did we write the final kinetic energy.
+
+04:46.220 --> 04:53.710
+Well we have this charge that's moving so it's going to have one half mass m they're all the same mass
+
+04:53.720 --> 04:59.210
+I could just write it as M and V squared plus one half.
+
+04:59.210 --> 05:06.320
+Again this term for charged Q3 V squared notice I have the same speed here and again I'm going to have
+
+05:06.320 --> 05:12.170
+the same speed because they're identical charges they were released from ress and I have the same forces
+
+05:12.200 --> 05:16.100
+acting on each one but the forces are in the different direction.
+
+05:16.100 --> 05:22.820
+So at the end this final energy right here on this side of the equation is simply C add one half to
+
+05:22.820 --> 05:23.300
+one half.
+
+05:23.300 --> 05:25.700
+You're going to get M V squared and that's it.
+
+05:26.810 --> 05:27.110
+All right.
+
+05:27.140 --> 05:32.020
+So now we have to work over here on these three terms.
+
+05:32.120 --> 05:34.750
+Let's work on these three terms right here.
+
+05:34.790 --> 05:36.770
+Let's kind of write them out separately.
+
+05:36.890 --> 05:37.180
+OK.
+
+05:37.250 --> 05:43.730
+What you can do is this is the initial POTENTIAL ENERGY OF so let's do this one first one too what does
+
+05:43.730 --> 05:44.680
+that term look like.
+
+05:44.690 --> 05:46.860
+What's going to be my constant k.
+
+05:47.000 --> 05:49.080
+It's going to be the charge Q1.
+
+05:49.130 --> 05:54.770
+The charge Q2 and divided by what is the distance I'm going to call one centimeter the distance are
+
+05:54.840 --> 05:58.700
+again I'll convert that into meters when I substituted over here.
+
+05:58.700 --> 05:58.870
+All right.
+
+05:58.870 --> 06:00.170
+What other term do I have.
+
+06:00.170 --> 06:04.250
+I've got the interaction between 2 and 3.
+
+06:04.250 --> 06:08.810
+Notice that one's going to be the same because I have the same charges as 1 and 2.
+
+06:08.990 --> 06:11.500
+And I also have the same separation.
+
+06:11.510 --> 06:14.180
+So really those two terms are going to be the same.
+
+06:15.350 --> 06:16.370
+And what about the last one.
+
+06:16.370 --> 06:22.730
+Now I have at the interaction between 1 and 3 between 1 and 3 this is what I have I'm going to have
+
+06:22.730 --> 06:28.190
+k q one Q three this time and divided by what's the distance.
+
+06:28.190 --> 06:34.300
+Now if r is 1 centimeters of the initial distance here is going to be 2 centimeters.
+
+06:34.310 --> 06:34.490
+All right.
+
+06:34.490 --> 06:38.070
+Let me just kind of get rid of this two centimeters.
+
+06:38.090 --> 06:43.040
+So that's actually two are because I've called R is equal to one centimeter.
+
+06:43.200 --> 06:43.460
+All right.
+
+06:43.460 --> 06:46.620
+So now we've got to put it all together this is pretty straightforward.
+
+06:46.700 --> 06:50.390
+The total term here that I've highlighted in the blue simply looks like this.
+
+06:50.390 --> 06:52.250
+So there's two of those terms.
+
+06:52.340 --> 07:01.640
+So two of these terms I would write it as two K Q1 Q2 divided by R and then plus this potential energy
+
+07:02.570 --> 07:11.330
+k q one Q three divided by two are in all of this has to be equal to the final kinetic energy of the
+
+07:11.330 --> 07:12.450
+system.
+
+07:12.830 --> 07:17.000
+Again the two halves ended up can't adding up to give me one in the front.
+
+07:17.000 --> 07:18.110
+So let's scroll down here.
+
+07:18.110 --> 07:20.390
+Let's keep moving.
+
+07:20.390 --> 07:20.840
+All right.
+
+07:20.870 --> 07:25.820
+So this is simply a fraction over here I could kind of combine some of the terms remember all the charges
+
+07:25.820 --> 07:26.800
+are the same.
+
+07:27.020 --> 07:29.870
+So I can really factor that out.
+
+07:29.980 --> 07:35.420
+So you simply have K Q squared because Q1 Q2 and Q3 are all the same.
+
+07:35.810 --> 07:37.450
+Then they open up a bracket.
+
+07:39.230 --> 07:42.310
+I would be left with two over par for the first term.
+
+07:42.400 --> 07:42.610
+Right.
+
+07:42.620 --> 07:43.830
+This and this.
+
+07:44.090 --> 07:48.690
+And plus one over two are in this case.
+
+07:48.800 --> 07:55.250
+Again I kind of prefer to do the problem algebraic Lee again if I want to put things on a common denominator
+
+07:55.250 --> 07:56.830
+the common denominator is two are.
+
+07:56.830 --> 08:01.540
+So I would do this is to this you would turn into a four.
+
+08:01.660 --> 08:04.650
+All right now you could see I can add those pretty straightforward.
+
+08:04.770 --> 08:08.080
+It becomes five over two are guy.
+
+08:08.100 --> 08:16.760
+So we have five K Q squared over to r equals M B squared.
+
+08:16.800 --> 08:18.570
+All right let's go over here.
+
+08:18.660 --> 08:23.620
+I'll write down the expression for V squared and then I'm going to substitute in all the values.
+
+08:23.800 --> 08:30.890
+So I have five over to K Q squared and divided by now.
+
+08:31.140 --> 08:37.410
+Again I'm gonna have the M HERE I HAVE TO BRING THE M at the bottom are m all right so let's substitute
+
+08:37.410 --> 08:46.800
+in all our values I made that kind of large so 5 and 2 that stays the same our constant K is nine times
+
+08:47.370 --> 08:48.530
+10 to the nine.
+
+08:48.600 --> 08:50.560
+Now the charges were 10 nano Coolum.
+
+08:50.580 --> 08:54.750
+That's 10 times ten to the negative nine and you have to square every.
+
+08:54.750 --> 08:56.430
+Don't forget.
+
+08:56.430 --> 09:03.250
+Now make sure everything is in the proper units so the distance are was we define it as one centimeter.
+
+09:03.390 --> 09:08.730
+So this is going to be zero point zero one meters and then the mass.
+
+09:08.820 --> 09:11.150
+We kind of go back up to the question here.
+
+09:11.310 --> 09:13.500
+The mass here was one gram.
+
+09:13.660 --> 09:20.080
+All right so one gram would be zero point zero zero one kg.
+
+09:20.190 --> 09:20.390
+All right.
+
+09:20.400 --> 09:26.490
+So now you've got a plug in this whole thing into the calculator so let me go ahead and do that nine.
+
+09:26.520 --> 09:27.350
+Let's go.
+
+09:27.360 --> 09:30.500
+5 1/2 is 2.5 times 9.
+
+09:30.510 --> 09:42.200
+Each of the nine times ten either than negative nine squared and now divided by all those terms and
+
+09:42.210 --> 09:45.870
+I have to also divide by the mass at the end.
+
+09:45.870 --> 09:49.560
+Don't forget to take the square root of all of those terms.
+
+09:49.610 --> 09:49.970
+All right.
+
+09:50.010 --> 09:57.650
+And I do that and I get a number that is approximately zero point for seven meters per second.
+
+09:57.680 --> 09:57.920
+OK.
+
+09:57.930 --> 10:00.150
+So that is the first part of this problem.
+
+10:00.240 --> 10:02.670
+That would be the speed of each one of those again.
+
+10:02.670 --> 10:11.830
+This is only four charges 1 and 3 the charge 2 is speed of 2 would have to be 0 meters per second.
+
+10:11.990 --> 10:12.250
+OK.
+
+10:12.260 --> 10:15.520
+Because we said the force's balance for that one.
+
+10:15.590 --> 10:15.800
+All right.
+
+10:15.800 --> 10:23.560
+Part B says fine the acceleration of this charge after it moved a distance of 30 centimetres.
+
+10:23.660 --> 10:24.020
+OK.
+
+10:24.040 --> 10:27.770
+So and it's only the charge Q1 and again acceleration.
+
+10:27.770 --> 10:33.740
+So again this word is a vector accelerations of vector so it would probably use forces probably the
+
+10:33.740 --> 10:35.030
+easiest way to find it.
+
+10:35.050 --> 10:35.300
+OK.
+
+10:35.320 --> 10:41.750
+And I've sketched it out here so it started over here Q1 and then it moved 30 centimeters.
+
+10:41.780 --> 10:46.310
+But again at the same time Q3 moved 30 centimeters.
+
+10:46.340 --> 10:50.010
+So if you were going to do a free body diagram on Q1.
+
+10:50.240 --> 10:50.510
+All right.
+
+10:50.690 --> 10:54.130
+This is Q1 there's gonna be an interaction with Q2.
+
+10:54.140 --> 10:54.300
+Right.
+
+10:54.830 --> 10:56.560
+So there's gonna be a force acting on it.
+
+10:56.570 --> 11:01.670
+This will be the force of Q2 on Q1.
+
+11:01.670 --> 11:02.820
+What else.
+
+11:02.930 --> 11:07.090
+There should be another force there should be an interaction between Q3 and Q1.
+
+11:07.100 --> 11:11.600
+Now this force is going to be a little bit smaller because it's far away.
+
+11:11.600 --> 11:12.770
+This is Q3.
+
+11:12.770 --> 11:15.420
+I'll just call it three on one like this.
+
+11:15.470 --> 11:18.710
+So we have two forces there in the same direction.
+
+11:18.800 --> 11:21.340
+So they're going to add as vectors.
+
+11:21.830 --> 11:27.500
+So what I want to do is I really want to find the net force acting on Q1.
+
+11:27.800 --> 11:31.190
+For that I have to add both of those and I'm going to add them both as vectors.
+
+11:31.200 --> 11:38.840
+So at the end my net force has to be a vector like this.
+
+11:39.020 --> 11:41.100
+So let's add them both up.
+
+11:41.150 --> 11:49.700
+So this would simply be f of two on one plus F of three on one.
+
+11:49.730 --> 11:55.680
+Again this one's expected to be smaller but let's calculate it anyway just because the distance is going
+
+11:55.680 --> 11:56.690
+to be so much bigger.
+
+11:57.140 --> 11:57.390
+All right.
+
+11:57.710 --> 11:59.540
+So how would we substitute this.
+
+11:59.540 --> 12:03.050
+So this would be again using cool Ohm's law for this one.
+
+12:03.050 --> 12:08.700
+Again all of these terms are the same so Q2 Q1 this is the same charge.
+
+12:08.720 --> 12:11.980
+Now what is the distance now between Q2 and Q1.
+
+12:11.990 --> 12:14.540
+I said Q1 move 30 centimeters.
+
+12:14.540 --> 12:18.190
+That means it's going to be a distance of 31 centimeters.
+
+12:18.230 --> 12:22.610
+So right here right away I'm just going to substitute this 31 squared.
+
+12:22.610 --> 12:30.490
+I wrote it in meters right here plus K. Q3 Q1 now what is this distance.
+
+12:30.850 --> 12:33.990
+Well it's simply going to be double that distance right.
+
+12:34.770 --> 12:40.380
+If you have a look at it if this is 31 that means this other one is going to be 31.
+
+12:40.380 --> 12:47.670
+So this is simply going to be all right 62 centimeters away and you have to square that term.
+
+12:47.670 --> 12:47.910
+All right.
+
+12:47.940 --> 12:51.960
+So at the end we got a substitute in all our numbers and get one final answer.
+
+12:52.380 --> 12:52.580
+All right.
+
+12:52.620 --> 12:54.690
+So let's go ahead and keep chugging along.
+
+12:54.690 --> 12:59.700
+Here let me substitute in all the values I'm going to factor out the top term because it's the same
+
+12:59.700 --> 13:08.310
+so K Q squared and then this term here simply becomes thirty one plus one over zero point sixty two
+
+13:08.310 --> 13:09.600
+squared.
+
+13:09.600 --> 13:11.450
+All right and then I got to substitute the values.
+
+13:11.480 --> 13:20.670
+So this is nine times 10 of the nine for my k constant Q again was 10 nano Coolum ten times ten of the
+
+13:20.670 --> 13:21.520
+negative nine.
+
+13:21.540 --> 13:27.510
+Oh don't forget to square that term and then multiply by this whole term here zero point thirty one
+
+13:27.510 --> 13:32.990
+squared plus one over zero point sixty two squared.
+
+13:33.000 --> 13:38.880
+All right the last thing we have to do then define the total force and again once you know the net force
+
+13:38.910 --> 13:46.350
+you should be able to find the acceleration because it's the mass of that charge multiplied by the acceleration.
+
+13:46.370 --> 13:48.800
+All right and the mass I know is one gram.
+
+13:48.870 --> 13:53.220
+So again we're going to have one last step at the end to get the acceleration really all I have to do
+
+13:53.220 --> 13:56.300
+is divide this whole thing by the mass.
+
+13:56.310 --> 13:56.520
+All right.
+
+13:56.550 --> 13:59.540
+So let's go ahead and write down my final expression.
+
+13:59.880 --> 14:08.550
+So nine times ten to the nine 10 nano columns time to tend to the negative nine squared term in the
+
+14:08.550 --> 14:09.480
+bracket.
+
+14:09.480 --> 14:15.560
+Zero point thirty one kind of lengthy isn't it but it's lengthy but it's doable.
+
+14:15.560 --> 14:20.220
+And now don't forget I have to divide by the mass if what I'm looking for is the acceleration and the
+
+14:20.220 --> 14:24.330
+mass of that charge was 1 grams I would write it like this.
+
+14:24.330 --> 14:24.560
+All right.
+
+14:24.570 --> 14:28.090
+So now you gotta plug everything in the calculator.
+
+14:28.690 --> 14:29.640
+I'll let you do that.
+
+14:29.670 --> 14:33.160
+And at the end this is what you should get.
+
+14:33.210 --> 14:37.820
+All right assuming I did things correctly I get that this term here in the brackets should be approximately
+
+14:37.860 --> 14:39.350
+13.
+
+14:39.360 --> 14:43.430
+So then I want to multiply that by nine either the nine.
+
+14:44.610 --> 14:56.760
+Multiply that by my ten nano columns ten either the negative nine squared equals and last term is divided
+
+14:56.760 --> 14:59.340
+by zero point zero zero one.
+
+14:59.520 --> 14:59.940
+Ha.
+
+14:59.940 --> 15:07.200
+My final answer I promise is the final answer is zero point zero kind of 1 2 and this would be in meters
+
+15:07.200 --> 15:08.210
+per second squared.
+
+15:08.210 --> 15:12.400
+All right so that would be the acceleration of that one charge.
+
+15:12.900 --> 15:13.620
+Yeah not bad.

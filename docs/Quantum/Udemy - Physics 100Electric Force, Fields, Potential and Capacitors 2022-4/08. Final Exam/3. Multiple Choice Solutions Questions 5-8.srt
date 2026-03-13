@@ -1,0 +1,418 @@
+WEBVTT
+
+00:00.360 --> 00:05.250
+All right here we have an electron is initially moving to the right when it enters a uniform field directed
+
+00:05.340 --> 00:06.410
+upward as shown.
+
+00:07.260 --> 00:10.540
+Which trajectory will the electron follow in the field.
+
+00:10.600 --> 00:11.010
+Okay.
+
+00:11.040 --> 00:13.880
+Well again let's consider this electric field.
+
+00:13.930 --> 00:18.690
+What I like to do when somebody presents me with an electric field like this if it's going up I know
+
+00:18.690 --> 00:24.170
+that electric field goes from positive toward negative right.
+
+00:24.240 --> 00:30.840
+So then I have an electron while the electron is going to be repelled by all of these negative charges
+
+00:31.230 --> 00:34.290
+and it's going to be attracted by each one of those.
+
+00:34.290 --> 00:38.700
+So guess what it's going to do it's certainly not going to go up here and it's not going to go straight
+
+00:38.700 --> 00:40.190
+it has to go down right.
+
+00:40.200 --> 00:43.410
+So Z really has to be the correct answer.
+
+00:43.920 --> 00:46.440
+The other way to answer this would be just to consider this right.
+
+00:46.440 --> 00:53.290
+Remember the Force is the charge multiplied by the field if since the charge is negative right.
+
+00:53.330 --> 00:56.430
+We've got to remember this is an electron here.
+
+00:56.660 --> 01:03.700
+If we have an electron with a negative charge it means that the force is always in the opposite direction
+
+01:03.710 --> 01:03.970
+right.
+
+01:04.010 --> 01:11.470
+So this guy here is up if the charge is negative it means that the force is going to be down.
+
+01:11.550 --> 01:11.840
+Okay.
+
+01:11.850 --> 01:16.800
+And if you have a downward force going to follow this one it's the only trajectory that's pointing down.
+
+01:16.800 --> 01:17.010
+All right.
+
+01:17.010 --> 01:18.720
+So these are the correct answer.
+
+01:18.720 --> 01:20.240
+Nice and easy one.
+
+01:20.250 --> 01:20.460
+All right.
+
+01:20.460 --> 01:22.060
+Here we have number six.
+
+01:22.050 --> 01:24.450
+The figure shows two unequal charges.
+
+01:24.450 --> 01:24.680
+OK.
+
+01:24.690 --> 01:29.090
+We have positive and we have a negative over here.
+
+01:29.550 --> 01:34.470
+The charge this guy here is greater magnitude than the positive charge.
+
+01:34.530 --> 01:36.120
+That's why it's kind of bigger here.
+
+01:36.240 --> 01:43.140
+Point X is midway between the charges in what section will there be a point where the resulting electric
+
+01:43.140 --> 01:47.680
+field in this case the left field e is going to be zero.
+
+01:47.790 --> 01:48.120
+Okay.
+
+01:48.150 --> 01:50.850
+Well let's consider each one separately.
+
+01:50.850 --> 01:54.990
+All right let's make this one red and make this one blue in the total electric field is you have to
+
+01:54.990 --> 02:00.780
+add them as vectors so let's draw the field everywhere so let's draw the first the electric field produced
+
+02:00.780 --> 02:04.080
+by this positive charge it should point away from it.
+
+02:04.110 --> 02:04.410
+Right.
+
+02:04.410 --> 02:11.280
+So in all of these different sections over here as I get farther away the fields should be getting smaller.
+
+02:11.850 --> 02:18.870
+The field is closest when the field is bigger when I am close to the charge here it's getting smaller
+
+02:18.870 --> 02:20.130
+and here it's getting smaller.
+
+02:20.160 --> 02:22.920
+That's the field produced by the positive charge.
+
+02:22.920 --> 02:26.490
+What about the negative one the field produced by the negative should point toward it.
+
+02:26.760 --> 02:27.150
+OK.
+
+02:27.180 --> 02:31.710
+So here it should be pretty big should be pretty big when I'm close to it.
+
+02:31.710 --> 02:36.900
+And then as I get farther away should start getting smaller OK.
+
+02:36.900 --> 02:37.750
+Something like this.
+
+02:37.750 --> 02:41.070
+This is the field produced by this negative charge.
+
+02:41.070 --> 02:47.620
+So one thing we notice here is that between both of them we have both electric fields that add up in
+
+02:47.620 --> 02:49.360
+the same direction.
+
+02:49.690 --> 02:49.900
+Right.
+
+02:49.900 --> 02:53.970
+So you're always going to have a net electric field here for both of those choices.
+
+02:53.970 --> 02:59.310
+So we definitely can't be w x or x y can't be w x or x y.
+
+02:59.340 --> 03:05.630
+So we're left with kind of two places it's either going to be somewhere along this section y z or a
+
+03:05.630 --> 03:06.670
+long VW.
+
+03:07.090 --> 03:07.350
+All right.
+
+03:07.570 --> 03:10.690
+So now what you have to do is you have to look at the magnitude.
+
+03:10.960 --> 03:16.210
+The key to this problem is that this one is always going to be a bigger electric field especially in
+
+03:16.210 --> 03:24.460
+this section over here right in this section the blue line is always going to be bigger because guess
+
+03:24.460 --> 03:24.760
+what.
+
+03:24.760 --> 03:26.130
+It's closer.
+
+03:26.200 --> 03:26.890
+All right.
+
+03:26.890 --> 03:31.600
+So you're always going to have this one that the field produced by the negative Q is always going to
+
+03:31.600 --> 03:32.980
+be bigger than not one.
+
+03:33.010 --> 03:38.050
+So the net in this section although it's going to be smaller it's always going to be pointing to the
+
+03:38.050 --> 03:40.870
+left toward the negative charge.
+
+03:40.870 --> 03:45.690
+It's really only in this section over here where you could have cancellation.
+
+03:45.690 --> 03:53.280
+All right fields are going to cancel out here because again you're closer to the small positive charge.
+
+03:53.290 --> 03:58.210
+So that produces a field and you end up being farther from the negative.
+
+03:58.210 --> 04:00.180
+However that charge is bigger.
+
+04:00.180 --> 04:00.340
+Right.
+
+04:00.340 --> 04:06.760
+If you remember the field produced by this guy here again just the magnitude would be k uppercase Q
+
+04:07.120 --> 04:09.390
+divided by our squared.
+
+04:09.430 --> 04:16.180
+So although this is bigger this guy here is also bigger.
+
+04:16.180 --> 04:19.870
+So there is the possibility that you could cancel out the electric field.
+
+04:19.870 --> 04:23.200
+It'll be somewhere in this space right here right.
+
+04:24.190 --> 04:28.890
+So they're really the only correct answer has to be this VW segment.
+
+04:30.290 --> 04:30.540
+All right.
+
+04:30.710 --> 04:36.540
+So hopefully you understand that all right problem seven looks like this the figure here shows electric
+
+04:36.540 --> 04:43.860
+field lines produced by two small charges p and q consider the following statements The first statement
+
+04:43.860 --> 04:51.630
+says the charge on P is smaller than the charge on Q and the second statement says the electrostatic
+
+04:51.630 --> 04:58.980
+force on P is smaller than the electrostatic force on Q All right which of the above statements are
+
+04:58.980 --> 04:59.880
+true.
+
+05:00.650 --> 05:01.130
+OK.
+
+05:01.170 --> 05:06.110
+So is the first one true and how would we argue it is the charge on P smaller.
+
+05:06.120 --> 05:12.600
+So first of all they're both positive right they're both positive and how do I know that I know that
+
+05:12.630 --> 05:17.190
+because the field lines point away from both of those charges.
+
+05:17.220 --> 05:20.440
+So that is really how I know they're both positive.
+
+05:20.550 --> 05:27.150
+Let me write that down field lines point away all right.
+
+05:27.840 --> 05:33.900
+So the next scene how do I know which one is bigger and which one is smaller is p smaller.
+
+05:33.930 --> 05:34.550
+Yes.
+
+05:34.580 --> 05:43.560
+So the charge on P I mean just charge and call it Kewpie has to be smaller than the charge on Q and
+
+05:43.560 --> 05:52.680
+how do I know that there are fewer field lines fewer field lines indicate that the charge is going to
+
+05:52.680 --> 05:54.790
+be smaller on that one.
+
+05:54.790 --> 06:00.270
+OK if I have a lot of field lines it tells me that the magnitude of the electric field in this region
+
+06:00.300 --> 06:06.510
+is big compared to the electric field in this region because I have more field lines going through it.
+
+06:06.510 --> 06:09.950
+So definitely the first one is true.
+
+06:10.080 --> 06:11.690
+All right how about the second statement.
+
+06:11.790 --> 06:15.390
+The electrostatic force on P is smaller.
+
+06:15.440 --> 06:16.650
+Well what do we know about the force.
+
+06:16.650 --> 06:19.480
+The force is given by cool arms law.
+
+06:19.530 --> 06:24.840
+We know there's going to be a force acting like this and there's going to be an equal and opposite force
+
+06:24.870 --> 06:25.100
+right.
+
+06:25.110 --> 06:32.730
+When you write the force it's only one right it'll be the charge on P it be the charge on Q and divided
+
+06:32.730 --> 06:35.580
+by the distance squared but that's it.
+
+06:35.580 --> 06:38.010
+That means on this guy there is a force acting like this.
+
+06:38.010 --> 06:40.220
+And on this guy there's a force acting like this.
+
+06:40.290 --> 06:42.970
+These forces are equal and opposite.
+
+06:43.020 --> 06:48.240
+Okay so this one here is actually false.
+
+06:48.690 --> 06:51.480
+So really it's only the first statement that is true.
+
+06:51.480 --> 06:54.110
+So for this one A is the correct answer.
+
+06:56.220 --> 07:02.580
+Problem 8 we say a solid aluminum cube rests on a wooden table in a region where there is a uniform
+
+07:02.580 --> 07:05.520
+electric feel and it's directed straight upward.
+
+07:05.520 --> 07:05.880
+All right.
+
+07:06.090 --> 07:09.420
+What can we say concerning the charges on the top surface of the Cube.
+
+07:09.590 --> 07:09.870
+Okay.
+
+07:09.900 --> 07:11.420
+Kind of a good problem.
+
+07:11.520 --> 07:13.110
+Here we go here's our table.
+
+07:13.230 --> 07:15.480
+Let me draw this cube over here.
+
+07:15.750 --> 07:16.470
+Let's draw.
+
+07:16.500 --> 07:20.490
+Maybe this color okay.
+
+07:20.530 --> 07:21.820
+And it's a conductor right.
+
+07:21.840 --> 07:23.610
+Because we know it's aluminum.
+
+07:25.290 --> 07:26.190
+What else.
+
+07:26.190 --> 07:28.790
+Oh there's an electric field that's directed straight up.
+
+07:28.800 --> 07:31.830
+So the electric field is produced by something else.
+
+07:31.830 --> 07:37.720
+Let me just draw it straight up that's the electric field.
+
+07:37.720 --> 07:41.710
+Now again they're asking what's going on with the top surface here.
+
+07:41.740 --> 07:43.900
+So what's gonna happen here to the top surface.
+
+07:44.830 --> 07:51.010
+Well what happens to the free electrons of this cube where are they going to go again you what you could
+
+07:51.010 --> 07:55.840
+do is you could picture what produces this kind of electric field it's something that would be positively
+
+07:55.840 --> 08:04.700
+charged down here and maybe some negative charges somewhere up here so the electrons that are on this
+
+08:04.700 --> 08:10.830
+piece of aluminum the free ones any way they want to go toward the positive ones right.
+
+08:10.850 --> 08:18.320
+So that will leave that the top surface has to be positively charged because the electrons of this aluminum
+
+08:18.320 --> 08:20.280
+are gonna go in the down on the bottom surface.
+
+08:20.300 --> 08:24.080
+So the top surface at the end has to be positively charged.
+
+08:24.370 --> 08:24.660
+Okay.
+
+08:24.710 --> 08:29.450
+So for number eight really the top surfaces positively charge.
+
+08:29.450 --> 08:30.530
+That's choice a.

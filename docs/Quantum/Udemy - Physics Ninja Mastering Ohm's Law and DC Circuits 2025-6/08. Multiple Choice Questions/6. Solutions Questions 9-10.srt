@@ -1,0 +1,175 @@
+WEBVTT
+
+00:00.130 --> 00:06.600
+Eye problems and problem nine and 10 here for nine we have a wire contains a steady state current of
+
+00:06.630 --> 00:13.340
+two amps the number of electrons that pass a cross-section in two seconds is what.
+
+00:13.350 --> 00:16.640
+So again you imagine you have just a segment of the wire here.
+
+00:18.780 --> 00:24.870
+And if you kind of just slice it and you would count all the electrons so again if we have a current
+
+00:24.870 --> 00:30.120
+kind of going through it current I go on like this Well you know electrons are going in the opposite
+
+00:30.120 --> 00:35.640
+direction to draw some of those and they're moving in this direction by how many electrons What is the
+
+00:35.640 --> 00:37.150
+number that you would get.
+
+00:37.620 --> 00:40.980
+Well so again we're going to start with our definition of the current.
+
+00:41.220 --> 00:50.460
+We know that equals to two and we know that this current is by definition it's the charge divided by
+
+00:50.460 --> 00:52.450
+the time.
+
+00:52.860 --> 00:58.440
+So the amount of charge now that's going to go by in two seconds it's going to be two which is the current
+
+00:58.880 --> 01:01.580
+multiplied by the amount of time which is two.
+
+01:01.630 --> 01:06.410
+So we're actually going to get four cool ohms of charge that's the total charge that's going to go by.
+
+01:06.630 --> 01:12.840
+Well that's a lot of charge because if you remember each electron has a charge of 1.6 times tend to
+
+01:12.840 --> 01:19.930
+the negative 19 Coolum that's really per electron.
+
+01:20.250 --> 01:25.250
+Or let me just write it like this per electron.
+
+01:25.300 --> 01:25.570
+All right.
+
+01:25.570 --> 01:28.560
+So the way now you get the total number of electrons.
+
+01:28.690 --> 01:36.730
+Well again this here has to be this for Coolum must be equal to a number and multiplied by the charge
+
+01:36.730 --> 01:39.710
+of each electron.
+
+01:39.850 --> 01:44.590
+So all we have to do then to get our number and the number of electrons that goes take are four and
+
+01:44.590 --> 01:53.120
+divide it by 1.6 times tend to the negative 19 and at the end what we're going be left with is you should
+
+01:53.120 --> 01:56.070
+get 2.5 times 10 of the 19.
+
+01:56.090 --> 01:57.590
+So it should be a big number actually.
+
+01:57.650 --> 01:58.480
+Get rid of those.
+
+01:58.600 --> 02:00.380
+Those don't make any sense.
+
+02:00.740 --> 02:02.610
+And then they get the right answer.
+
+02:02.630 --> 02:04.620
+Use the calculator in order to get that.
+
+02:05.080 --> 02:05.780
+OK.
+
+02:05.990 --> 02:12.710
+For problem 10 now is a certain resistor dissipates 0.5 Watts when it's connected to the 3PL potential
+
+02:12.710 --> 02:16.370
+difference one connected to a 1 volt potential difference.
+
+02:16.370 --> 02:21.080
+The resistor is going to dissipate what let's just draw a little circuit here just for this kind of
+
+02:21.080 --> 02:21.790
+a simple problem.
+
+02:21.800 --> 02:27.200
+But you know sometimes if you're stuck just drawing a little bit of a diagram some times will help.
+
+02:27.320 --> 02:34.370
+So we have a resistance and we have our three volt in case one in case two we're going to use the same
+
+02:34.370 --> 02:35.650
+resistance.
+
+02:35.660 --> 02:36.130
+All right.
+
+02:37.330 --> 02:39.020
+Except we're swapping out the battery.
+
+02:39.020 --> 02:43.920
+We're going to use a 1 volt battery this time but the resistance is going to be the same.
+
+02:43.940 --> 02:49.600
+So automatically you should know that the current is going to be the different in each case.
+
+02:50.120 --> 02:54.710
+And if you want to know the power dissipated again we had three ways to calculate the power since the
+
+02:54.710 --> 02:56.550
+resistance is not changing.
+
+02:56.570 --> 03:02.870
+I would probably suggest just writing a power Beezus form for the power dissipated through this resistor
+
+03:02.870 --> 03:04.850
+is going to be something like this.
+
+03:04.900 --> 03:11.630
+So for Case Number one what you can do here is you could calculate what the value of the resistance
+
+03:11.630 --> 03:15.270
+is right away because you know the power dissipated.
+
+03:15.440 --> 03:18.530
+You know it's a 3 volt potential difference.
+
+03:18.590 --> 03:24.560
+So the resistance simply going to be v squared divided by P..
+
+03:25.040 --> 03:32.020
+So for this guy here the value of the resistance V squared gives me nine and divided by 0.5.
+
+03:32.030 --> 03:34.400
+That should give me 18 ohms.
+
+03:35.330 --> 03:36.620
+OK so now what do I have to do.
+
+03:36.630 --> 03:40.600
+Now I just basically just work backwards right.
+
+03:40.700 --> 03:44.390
+Because we want to know how much power is going to be dissipated in this case.
+
+03:44.390 --> 03:51.050
+Now we know the value of the resistance is the same equation V squared over our V in this case is 1
+
+03:51.440 --> 03:55.560
+squared it's still 1 and divided by 18.
+
+03:55.560 --> 03:57.460
+And this will give you a number in Watts.
+
+03:57.480 --> 04:04.410
+I put that in the calculator you should get choice D has the correct answer for that OK.
+
+04:04.940 --> 04:05.990
+So that's how you solve that one.

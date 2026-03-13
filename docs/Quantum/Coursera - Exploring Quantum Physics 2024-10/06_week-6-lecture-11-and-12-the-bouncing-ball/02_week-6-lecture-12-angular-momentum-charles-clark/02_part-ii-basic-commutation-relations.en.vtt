@@ -1,0 +1,448 @@
+WEBVTT
+
+1
+00:00:02.130 --> 00:00:02.790
+Hello, everyone.
+
+2
+00:00:02.790 --> 00:00:05.090
+Welcome back to Exploring Quantum Physics.
+
+3
+00:00:05.090 --> 00:00:06.630
+I'm Charles Clark, and
+
+4
+00:00:06.630 --> 00:00:11.500
+we'll now start using some of the tools
+that we developed in the previous session
+
+5
+00:00:11.500 --> 00:00:15.140
+to get the basic commutation relations for
+the angular momentum operators.
+
+6
+00:00:19.210 --> 00:00:25.360
+Now once again I have to emphasize, and
+I've been there myself, the only way
+
+7
+00:00:25.360 --> 00:00:31.590
+to develop facility with these
+techniques is to actually practice them.
+
+8
+00:00:31.590 --> 00:00:36.970
+So, in the interest of time,
+I'm going to outline a number of the key
+
+9
+00:00:38.490 --> 00:00:43.250
+things that have to be done to develop
+a working set of angular momentum tools.
+
+10
+00:00:43.250 --> 00:00:45.310
+But really,
+
+11
+00:00:45.310 --> 00:00:49.310
+if you want to understand it it's not
+going to do you good just to look at that.
+
+12
+00:00:49.310 --> 00:00:52.960
+You will have to do some
+of the computations.
+
+13
+00:00:52.960 --> 00:00:58.360
+And, for some people, those sorts of
+calculations turn out to be enjoyable.
+
+14
+00:00:58.360 --> 00:01:02.760
+Others can't stand them, so
+
+15
+00:01:02.760 --> 00:01:07.380
+you'll get a sense of what it's like and
+some of you, I think, will not only
+
+16
+00:01:07.380 --> 00:01:11.360
+benefit from this but come to enjoy it and
+value it, at least hope so.
+
+17
+00:01:15.190 --> 00:01:20.372
+Okay so, once again, here's the definition
+of the angular momentum operator.
+
+18
+00:01:20.372 --> 00:01:21.900
+Now I break it down, and
+
+19
+00:01:21.900 --> 00:01:25.650
+so here's what we started with at
+the beginning of the first part.
+
+20
+00:01:25.650 --> 00:01:27.820
+Here's the Einstein summation condition.
+
+21
+00:01:27.820 --> 00:01:32.000
+Here's the Einstein summation
+condition with the levi-cicita symbol.
+
+22
+00:01:32.000 --> 00:01:36.940
+By the way, I, here,
+is the square root of minus one, and
+
+23
+00:01:36.940 --> 00:01:40.800
+I try to avoid using
+
+24
+00:01:40.800 --> 00:01:44.910
+I as a running index when we have
+a square root of minus one present.
+
+25
+00:01:44.910 --> 00:01:48.000
+So just keep your eyes out for that.
+
+26
+00:01:48.000 --> 00:01:52.380
+But there's no significance as
+to whether the symbol's u, v,
+
+27
+00:01:52.380 --> 00:01:56.470
+w, a, b, c, d, e, f,
+
+28
+00:01:56.470 --> 00:02:02.550
+anything that appears here as
+a running index, and the particular
+
+29
+00:02:02.550 --> 00:02:05.959
+choice of symbol that's used to represent
+it is just something arbitrary.
+
+30
+00:02:07.280 --> 00:02:12.600
+Now, in fact, everything that's going
+to be done in this part is based on
+
+31
+00:02:12.600 --> 00:02:20.400
+the commutation relationship
+between position momentum.
+
+32
+00:02:20.400 --> 00:02:25.760
+But, as you can see,
+when you have products, then there's a bit
+
+33
+00:02:25.760 --> 00:02:30.860
+of bookkeeping that's required to make
+sure that everything turns out right.
+
+34
+00:02:30.860 --> 00:02:35.502
+So, just to start with
+something very basic,
+
+35
+00:02:35.502 --> 00:02:43.740
+let's try a simple application of this
+commutation relationship in Video Quiz.
+
+36
+00:02:43.740 --> 00:02:49.708
+Okay, so I hope you're able
+to derive this expression
+
+37
+00:02:49.708 --> 00:02:55.290
+from the uncertainty principle.
+
+38
+00:02:55.290 --> 00:02:58.259
+We'll see many examples
+like this later on.
+
+39
+00:03:02.838 --> 00:03:04.951
+Here's our basic definition again,
+
+40
+00:03:04.951 --> 00:03:08.060
+just to keep everything clear
+before you on the screen.
+
+41
+00:03:10.160 --> 00:03:12.840
+Here is the fundamental
+commutation relation,
+
+42
+00:03:12.840 --> 00:03:15.300
+that which everything else is based.
+
+43
+00:03:15.300 --> 00:03:22.250
+Yes, now here is this identity
+that you just derived.
+
+44
+00:03:23.380 --> 00:03:29.861
+So now, here's a very important
+expression, what's the commutation
+
+45
+00:03:29.861 --> 00:03:34.610
+relation of the angular momentum with,
+let's say, the position operator?
+
+46
+00:03:36.080 --> 00:03:41.480
+Well all right, here's computated LaXb,
+
+47
+00:03:41.480 --> 00:03:44.440
+that's just very simple
+expressing what that means.
+
+48
+00:03:46.910 --> 00:03:51.809
+We now decompose the angular
+
+49
+00:03:51.809 --> 00:03:56.506
+momentum operator into its
+
+50
+00:03:56.506 --> 00:04:01.421
+basic parts, its r cross p.
+
+51
+00:04:01.421 --> 00:04:04.671
+Then we apply this,
+
+52
+00:04:04.671 --> 00:04:09.643
+from this expression up here,
+
+53
+00:04:09.643 --> 00:04:16.143
+we applied contraction and we get this,
+
+54
+00:04:16.143 --> 00:04:22.262
+this is a very significant identity,
+
+55
+00:04:22.262 --> 00:04:27.247
+which you will see is generic.
+
+56
+00:04:27.247 --> 00:04:34.190
+In other words, if we have any
+vector valued operator in here,
+
+57
+00:04:34.190 --> 00:04:39.037
+we have the same identity for
+the momentum,
+
+58
+00:04:39.037 --> 00:04:44.800
+we get this congregate LaXb
+is h bar epsilon a b cXc.
+
+59
+00:04:44.800 --> 00:04:48.780
+I rather like expressing
+that in this way because
+
+60
+00:04:48.780 --> 00:04:53.040
+it emphasizes the difference between
+classical mechanics and quantum mechanics.
+
+61
+00:04:53.040 --> 00:04:57.063
+Do you see that, in classical mechanics,
+
+62
+00:04:57.063 --> 00:05:02.888
+this expression would vanish
+identically because A cross B,
+
+63
+00:05:05.518 --> 00:05:11.410
+is equal to minus B cross A,
+for classical operators.
+
+64
+00:05:11.410 --> 00:05:15.810
+So, here we have these two,
+real observable operators,
+
+65
+00:05:15.810 --> 00:05:22.400
+the sum of these two cross products,
+is an imaginary number times the vector.
+
+66
+00:05:22.400 --> 00:05:25.850
+So, this really is about
+as quantum as it gets.
+
+67
+00:05:25.850 --> 00:05:31.360
+And indeed, note that the limit,
+H bar goes to zero,
+
+68
+00:05:31.360 --> 00:05:33.070
+this produces the right answer,
+
+69
+00:05:33.070 --> 00:05:37.850
+in that you get back the same
+classical cross product.
+
+70
+00:05:37.850 --> 00:05:41.883
+So, there are a number of identities
+that you'll see that look like this,
+
+71
+00:05:41.883 --> 00:05:43.173
+in quantum mechanics.
+
+72
+00:05:47.318 --> 00:05:48.860
+So once again, where are we?
+
+73
+00:05:48.860 --> 00:05:55.500
+Okay, we have the basic relations,
+the one that you derived.
+
+74
+00:05:56.560 --> 00:06:00.460
+So, we're about to conclude here.
+
+75
+00:06:00.460 --> 00:06:04.460
+Strongly recommend that you
+verify the following things.
+
+76
+00:06:04.460 --> 00:06:13.630
+So, for example, here's the analog, the
+identity we proved on the previous slide,
+
+77
+00:06:13.630 --> 00:06:18.750
+with X we get the same type of thing for
+P.
+
+78
+00:06:18.750 --> 00:06:22.280
+Now here's, sort of,
+the most important one, the commutator of
+
+79
+00:06:22.280 --> 00:06:27.277
+the different components of
+angular momentum with themselves,
+
+80
+00:06:27.277 --> 00:06:31.880
+again, is really of the same form,
+because L is a vector.
+
+81
+00:06:31.880 --> 00:06:37.650
+So this allows us to write another,
+amusingly, quantum expression.
+
+82
+00:06:37.650 --> 00:06:43.020
+The cross product of something with itself
+is an imaginary number, times that thing.
+
+83
+00:06:43.020 --> 00:06:45.188
+So this is truly a quantum identity.
+
+84
+00:06:45.188 --> 00:06:50.780
+And then finally,
+
+85
+00:06:50.780 --> 00:06:55.220
+so I'd say these two are more or
+less the same thing.
+
+86
+00:06:55.220 --> 00:07:00.130
+But this is of central importance.
+
+87
+00:07:00.130 --> 00:07:04.590
+So any two components of
+the angular momentum operator,
+
+88
+00:07:04.590 --> 00:07:08.970
+in general, they don't commute, but,
+
+89
+00:07:08.970 --> 00:07:15.560
+any component of the square of the angular
+momentum operator, so L squared.
+
+90
+00:07:15.560 --> 00:07:20.883
+I should have written this as LkLk just so
+
+91
+00:07:20.883 --> 00:07:25.120
+as not to confuse you, or LaLa.
+
+92
+00:07:28.520 --> 00:07:33.800
+So let me just write this,
+La LbLb equals 0,
+
+93
+00:07:33.800 --> 00:07:40.860
+is the identity that you're
+being asked to verify.
+
+94
+00:07:42.370 --> 00:07:46.463
+In other words, that any component
+of the angular momentum operator
+
+95
+00:07:46.463 --> 00:07:51.710
+commutes with the square magnitude
+of the angular momentum operator.
+
+96
+00:07:53.600 --> 00:07:59.680
+Okay do take some time to work on those,
+I think you'll find it rewarding.

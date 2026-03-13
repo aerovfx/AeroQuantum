@@ -1,0 +1,1525 @@
+WEBVTT
+
+1
+00:00:18.320 --> 00:00:18.740
+All right.
+
+2
+00:00:18.950 --> 00:00:23.240
+In the beginning of this course, we've been trying to put together this nice universal conception of
+
+3
+00:00:23.240 --> 00:00:29.300
+reality, one which bridges the gap between different perspectives of reality.
+
+4
+00:00:29.570 --> 00:00:35.840
+And in doing so, what we were able to do, we're able to erect that bridge such that people have different
+
+5
+00:00:35.840 --> 00:00:41.150
+information coming in with different perspectives, if you will, can communicate with each other and
+
+6
+00:00:41.150 --> 00:00:43.550
+sync up on the events that they observe.
+
+7
+00:00:44.000 --> 00:00:50.900
+Now what I want to do is strengthen and fortify that bridge so that it's more solidified and more applicable
+
+8
+00:00:50.900 --> 00:00:54.620
+to the phenomena that is occurring and arising within reality.
+
+9
+00:00:54.800 --> 00:00:59.630
+What we're going to do is we're going to take a look at another phenomenon that crops up again and again
+
+10
+00:00:59.630 --> 00:01:00.440
+and relativity.
+
+11
+00:01:00.710 --> 00:01:03.410
+This is known as the Doppler shift.
+
+12
+00:01:03.560 --> 00:01:08.780
+Initially, we're going to take a look at the non relativistic Doppler shift to review what goes on
+
+13
+00:01:08.780 --> 00:01:12.950
+in that just in case you have not observed it before, you have not encountered this in physics.
+
+14
+00:01:13.160 --> 00:01:19.610
+And then we're going to build off of that, that nice foundation to account for relativity and see how
+
+15
+00:01:19.610 --> 00:01:24.110
+relativistic effects are going to change the observed Doppler shift.
+
+16
+00:01:24.560 --> 00:01:25.100
+OK.
+
+17
+00:01:25.190 --> 00:01:30.920
+But in the beginning of the course, when I started talking about this, I said I was initially interested
+
+18
+00:01:30.920 --> 00:01:37.340
+in started studying relativity again because I was looking at a lot of radar stuff, which actually
+
+19
+00:01:37.340 --> 00:01:44.090
+makes a lot of use of Doppler shifts in order to observe the velocity and measure the velocity of different
+
+20
+00:01:44.090 --> 00:01:49.430
+targets that we're trying to detect and observe in reality, whether that be with a missile defense
+
+21
+00:01:49.430 --> 00:01:56.000
+system or whether that be with cops trying to figure out the speed of a driver, or if your own car
+
+22
+00:01:56.000 --> 00:02:01.580
+is trying to measure the velocity of a car in front of you, how it's slowly dwindling and using that
+
+23
+00:02:01.580 --> 00:02:02.600
+for cruise control.
+
+24
+00:02:02.640 --> 00:02:09.740
+OK, so what we're going to do first before we actually delve into the actual physics is I want to take
+
+25
+00:02:09.740 --> 00:02:14.990
+a step back and review some key characteristics that are going to crop up again and again throughout
+
+26
+00:02:14.990 --> 00:02:15.680
+this analysis.
+
+27
+00:02:15.690 --> 00:02:17.360
+In this video, what am I talking about?
+
+28
+00:02:17.690 --> 00:02:22.480
+We must understand the physics and the under pinning of waves.
+
+29
+00:02:22.500 --> 00:02:29.300
+OK, because Doppler shifts as we're going to find out, it's a shift in frequency of apparent waves,
+
+30
+00:02:29.480 --> 00:02:31.940
+whether that be sound light.
+
+31
+00:02:32.180 --> 00:02:39.380
+It can occur in ocean waves if you have, you know, a surfer moving with waves, his apparent conception
+
+32
+00:02:39.770 --> 00:02:41.780
+of the occurrence of those waves.
+
+33
+00:02:42.410 --> 00:02:46.760
+The intervals between them is going to change best based upon its relative motion.
+
+34
+00:02:46.940 --> 00:02:49.850
+His alternate perspective, if you will.
+
+35
+00:02:50.030 --> 00:02:51.650
+So it's important to understand ways.
+
+36
+00:02:51.650 --> 00:02:56.250
+It's important to understand how we describe him and the different parameters that are used to do so.
+
+37
+00:02:56.270 --> 00:02:58.760
+So let's just provide a brief overview of that.
+
+38
+00:02:58.760 --> 00:03:03.560
+I know if you've seen this before, feel free to skip ahead, but I greatly encourage going through
+
+39
+00:03:03.560 --> 00:03:08.300
+this overview because I'm going to make reference to these terms and some equations in the duration
+
+40
+00:03:08.300 --> 00:03:10.370
+of the non relativistic Doppler shift.
+
+41
+00:03:10.430 --> 00:03:10.850
+OK.
+
+42
+00:03:11.150 --> 00:03:15.950
+So what I have here is a very simple picture of a sine wave.
+
+43
+00:03:16.410 --> 00:03:17.210
+All right, it goes up.
+
+44
+00:03:17.510 --> 00:03:18.890
+It's second nature.
+
+45
+00:03:19.040 --> 00:03:24.830
+We have crests at the maximum points and we have trowels at the minimum.
+
+46
+00:03:25.110 --> 00:03:28.190
+These are the extreme of the wave, if you will.
+
+47
+00:03:28.970 --> 00:03:33.560
+OK, so it operates in a sequential fashion because up to a positive value, a negative value, so on
+
+48
+00:03:33.560 --> 00:03:36.980
+and so forth indefinitely until it gets to the end.
+
+49
+00:03:37.760 --> 00:03:42.290
+Now, one important parameter that we're going to observe in Doppler, yes, is something known as a
+
+50
+00:03:42.440 --> 00:03:43.820
+wave length.
+
+51
+00:03:44.150 --> 00:03:48.470
+As the name implies, we break it down, it's the length of the wave.
+
+52
+00:03:48.800 --> 00:03:56.060
+So this is the total distance, the exact distance, the length it takes to complete one cycle of a
+
+53
+00:03:56.060 --> 00:03:56.360
+wave.
+
+54
+00:03:56.360 --> 00:04:01.490
+So as we show here depicted in the picture, the wavelength, which usually has a symbol of a lambda,
+
+55
+00:04:01.730 --> 00:04:04.130
+is from the beginning here over to the end.
+
+56
+00:04:04.130 --> 00:04:07.820
+There you see as one complete cycle and it continually repeats.
+
+57
+00:04:08.070 --> 00:04:12.110
+So this is the two wavelengths that will be three wavelength in total.
+
+58
+00:04:12.450 --> 00:04:17.750
+Now, if you any any kind of wave and we're dealing with radar, what you're going to see is we're going
+
+59
+00:04:17.750 --> 00:04:22.190
+to emit the wave and then it's going to be received at a target at an end.
+
+60
+00:04:22.640 --> 00:04:26.780
+Or maybe it could be an antenna if we're talking about some kind of communication system.
+
+61
+00:04:27.110 --> 00:04:32.330
+In that case, you can signify the total length of your wave train, if you will.
+
+62
+00:04:32.540 --> 00:04:35.060
+In essence, that's just the beginning to the end.
+
+63
+00:04:35.240 --> 00:04:41.780
+The total length so I have here the length of light wave train and I define it as and the number of
+
+64
+00:04:41.780 --> 00:04:49.680
+waves emitted or number of wavelength times the speed of light see times the total time transmits.
+
+65
+00:04:49.970 --> 00:04:56.150
+So if we take a look at this in terms of the units, we can see the speed which is meters per second
+
+66
+00:04:56.420 --> 00:04:58.220
+times, time seconds.
+
+67
+00:04:58.370 --> 00:05:00.050
+That gives us the light that gives us meters.
+
+68
+00:05:00.050 --> 00:05:03.860
+So in essence, all I'm doing is I'm doing basic kinematics, right?
+
+69
+00:05:05.480 --> 00:05:10.280
+We have Delta X is equal to the Delta T.
+
+70
+00:05:11.090 --> 00:05:17.610
+OK, so that can give us the total length from the beginning, the trends.
+
+71
+00:05:17.710 --> 00:05:21.120
+Additions to the receival receive all of our weight.
+
+72
+00:05:21.180 --> 00:05:25.320
+OK, so I've pure and total no human waste or as A..
+
+73
+00:05:26.600 --> 00:05:31.490
+We're going to have capital see that's going to represent the elapsed time of serve from this source
+
+74
+00:05:32.120 --> 00:05:32.930
+to the receiver.
+
+75
+00:05:33.890 --> 00:05:39.290
+And we also have another parameter which is going to be changing in the Doppler shift.
+
+76
+00:05:39.710 --> 00:05:46.250
+This is known as the frequency F, and this is how frequent we complete one cycle.
+
+77
+00:05:46.550 --> 00:05:50.000
+So the basic definition is how many cycles per second.
+
+78
+00:05:50.000 --> 00:05:55.100
+So that's going to be how many of these wavelengths can you fit in a second?
+
+79
+00:05:55.400 --> 00:05:55.790
+OK.
+
+80
+00:05:56.000 --> 00:06:02.130
+So you can also relate this to the wavelength by taking the speed of light divided by lambda.
+
+81
+00:06:02.480 --> 00:06:10.040
+And if you just take units again, it's meters per second for speed, divided by meters for the wavelength.
+
+82
+00:06:10.490 --> 00:06:13.040
+That gives you one of our second a cycle per second.
+
+83
+00:06:13.220 --> 00:06:13.490
+Right?
+
+84
+00:06:13.670 --> 00:06:14.480
+Because the cycle.
+
+85
+00:06:15.660 --> 00:06:16.650
+Is for one wavelength.
+
+86
+00:06:17.260 --> 00:06:17.580
+Right?
+
+87
+00:06:17.850 --> 00:06:23.280
+So we have those important parameters, and I'm going to make use of them quite extensively in our derivation,
+
+88
+00:06:23.580 --> 00:06:27.060
+both with the physical intuition based portion of this.
+
+89
+00:06:27.060 --> 00:06:33.090
+And I'm also going to report repeat the derivation using electromagnetic waves to show you how it just
+
+90
+00:06:33.090 --> 00:06:34.890
+literally drops out of the mathematics.
+
+91
+00:06:36.090 --> 00:06:41.460
+But I want you to keep in the back of your mind this definition of frequency and wavelength.
+
+92
+00:06:42.060 --> 00:06:43.710
+And one more thing.
+
+93
+00:06:43.830 --> 00:06:44.100
+All right.
+
+94
+00:06:44.120 --> 00:06:47.640
+I told you and can be related to the time the period.
+
+95
+00:06:48.720 --> 00:06:51.780
+We can also specified in terms of the frequency.
+
+96
+00:06:52.560 --> 00:06:55.860
+So a frequency specifies how many cycles per second.
+
+97
+00:06:56.400 --> 00:07:01.890
+If you multiply that by time, you get the number of cycles, which would be the number of one wavelength,
+
+98
+00:07:02.040 --> 00:07:03.640
+the total number of emitted waves.
+
+99
+00:07:03.660 --> 00:07:03.990
+OK.
+
+100
+00:07:04.200 --> 00:07:09.180
+So you can have these different definitions here, and we're going to make use of them in our derivation
+
+101
+00:07:09.780 --> 00:07:10.590
+heading forward.
+
+102
+00:07:11.130 --> 00:07:11.460
+All right.
+
+103
+00:07:11.640 --> 00:07:18.030
+Next, what I want to do is I want to take some time not doing any computations, not doing any calculations,
+
+104
+00:07:18.030 --> 00:07:22.190
+but trying to make you feel comfortable with the physical understanding.
+
+105
+00:07:22.200 --> 00:07:28.350
+I want to build physical intuition in terms of what is this Doppler shift before we actually delve into
+
+106
+00:07:28.350 --> 00:07:33.570
+what's going on, because if you understand it physically, you can write down the math and physics
+
+107
+00:07:33.870 --> 00:07:35.970
+pretty quickly and pretty effortlessly.
+
+108
+00:07:36.060 --> 00:07:40.200
+OK, so let's try to get a grip on what's going on in a Doppler shift.
+
+109
+00:07:40.470 --> 00:07:43.300
+To do that, I'm going to talk about the formal definition fresh.
+
+110
+00:07:43.320 --> 00:07:47.090
+So formally, in terms of words, what a Doppler shift is.
+
+111
+00:07:47.100 --> 00:07:52.200
+It's the apparent apparent change in the frequency EF.
+
+112
+00:07:52.560 --> 00:07:57.660
+Look at that length of a wave caused by relative motion.
+
+113
+00:07:57.930 --> 00:08:03.150
+This is where relativity pops them between the source of a wave and the observer.
+
+114
+00:08:03.360 --> 00:08:08.670
+So in other words, it means that you can have some source that's either moving or stationary.
+
+115
+00:08:09.030 --> 00:08:13.900
+In the case of radar, we have a stationary source that's shooting our beams, shooting out waves.
+
+116
+00:08:14.490 --> 00:08:19.260
+You have relative motion of some kind of guy coming in, so you send out the waves.
+
+117
+00:08:19.980 --> 00:08:25.080
+Initially, if you send out the wave and your receiver was still, you would get the same frequency,
+
+118
+00:08:25.080 --> 00:08:25.350
+right?
+
+119
+00:08:26.280 --> 00:08:28.170
+Basically, nothing is changing in the wave.
+
+120
+00:08:28.380 --> 00:08:32.790
+You get the same exact wavelength every second that would give you the same frequency.
+
+121
+00:08:33.090 --> 00:08:40.740
+But if the observer is moving, what's going to happen is he's going to see as the wave front comes
+
+122
+00:08:40.740 --> 00:08:46.860
+towards him and he's moving, he's going to see more waves encountered as he flies through it.
+
+123
+00:08:47.280 --> 00:08:47.760
+OK.
+
+124
+00:08:48.150 --> 00:08:53.580
+So talking about that, that's exactly what's going on, but it's easier to understand it if we take
+
+125
+00:08:53.580 --> 00:08:56.310
+a look at it graphically and to do so, what we're going to do.
+
+126
+00:08:56.460 --> 00:08:58.680
+We're going to take Terrance and Phillip again.
+
+127
+00:08:58.680 --> 00:08:59.670
+They're going to do an experiment.
+
+128
+00:08:59.670 --> 00:09:04.380
+They're going to say, Hey, guys, we discovered this awesome idea of our time dilation.
+
+129
+00:09:05.430 --> 00:09:09.150
+We've done all these experiments and we bridged the gap between relativity.
+
+130
+00:09:09.170 --> 00:09:11.640
+Let's see if any other interesting phenomena pops up.
+
+131
+00:09:12.180 --> 00:09:13.200
+So we're going to have Terence.
+
+132
+00:09:13.440 --> 00:09:16.050
+He's going to be operating at a radar station at time.
+
+133
+00:09:16.050 --> 00:09:16.980
+T equals zero.
+
+134
+00:09:17.130 --> 00:09:20.460
+And he's going to hit a button that's going to transmit some waves.
+
+135
+00:09:21.330 --> 00:09:25.950
+We're going to have Philip, who's on this plane, is going to say, I'm going to look at it initially,
+
+136
+00:09:26.250 --> 00:09:32.100
+measure that frequency and then I start wines playing towards the radar and see what happens.
+
+137
+00:09:32.100 --> 00:09:36.750
+So when he sits stationary at time, T equals zero.
+
+138
+00:09:38.550 --> 00:09:41.670
+You know, he's going to see the apparent wave that was transmitted by Terence.
+
+139
+00:09:41.670 --> 00:09:42.780
+So that happens.
+
+140
+00:09:42.780 --> 00:09:43.260
+He calls out.
+
+141
+00:09:43.260 --> 00:09:45.960
+He's like, Yo bro, I got the same frequency.
+
+142
+00:09:46.890 --> 00:09:48.300
+This is exactly what we expected.
+
+143
+00:09:48.330 --> 00:09:48.990
+We're awesome.
+
+144
+00:09:49.290 --> 00:09:51.180
+So he gets that that no.
+
+145
+00:09:51.180 --> 00:09:52.890
+And then he wants to do another experiment.
+
+146
+00:09:53.160 --> 00:09:57.660
+OK, so next, what's going to happen is going to continue transmitting these waves and it's going to
+
+147
+00:09:57.660 --> 00:09:59.760
+fly towards the radar station.
+
+148
+00:10:00.210 --> 00:10:05.220
+And what I have depicted here shows the essence of the Doppler shift.
+
+149
+00:10:05.430 --> 00:10:11.430
+So what's going to happen is that if we take a time interval, Delta T between two equals zero and T
+
+150
+00:10:11.430 --> 00:10:12.360
+equal Delta T.
+
+151
+00:10:13.140 --> 00:10:15.840
+What you're going to find happening is the waves.
+
+152
+00:10:16.080 --> 00:10:18.900
+If you have light, we're going to travel at this speed.
+
+153
+00:10:18.900 --> 00:10:24.060
+See right, 3.8 times, three times 10 to the eight meters per second, right?
+
+154
+00:10:24.600 --> 00:10:26.130
+That's just the speed of light.
+
+155
+00:10:26.460 --> 00:10:28.260
+So that's how long it's going to take a fly out.
+
+156
+00:10:28.500 --> 00:10:31.030
+That's the speed it's going to be transmitted.
+
+157
+00:10:31.030 --> 00:10:35.940
+That's now when Philip flies towards the radar with a velocity of V.
+
+158
+00:10:36.240 --> 00:10:40.200
+What you're going to find is that after time, Delta T the wave traveled.
+
+159
+00:10:40.350 --> 00:10:41.550
+Seek out the T.
+
+160
+00:10:42.840 --> 00:10:48.230
+A fill up decrease, the distance between the wave and his plane by B Delta T.
+
+161
+00:10:48.660 --> 00:10:54.060
+OK, so he's going to fly in and that decreases the distance the wave has to travel.
+
+162
+00:10:54.420 --> 00:11:00.060
+So what that means is instead of having to travel this distance, the wave now has to travel that smaller
+
+163
+00:11:00.060 --> 00:11:00.630
+distance.
+
+164
+00:11:00.810 --> 00:11:02.100
+At the same velocity.
+
+165
+00:11:02.430 --> 00:11:02.790
+Right.
+
+166
+00:11:03.810 --> 00:11:08.820
+So if we have Delta X is equal to u v Delta T.
+
+167
+00:11:10.150 --> 00:11:13.660
+And the is smaller and the B is constant.
+
+168
+00:11:15.050 --> 00:11:22.700
+Delta TSB smaller, so that means that if it takes a smaller Delta T to hit the plane, that means you're
+
+169
+00:11:22.700 --> 00:11:28.880
+going to see more ways hitting it, which would mean you think the frequency or the cycles per second
+
+170
+00:11:28.970 --> 00:11:31.580
+would increase for that different reference frame.
+
+171
+00:11:31.790 --> 00:11:39.560
+So it's going to observe a different phenomenon than what the stationary observer Terence actually observes.
+
+172
+00:11:40.130 --> 00:11:42.770
+OK, so Theresa Philip, they do that.
+
+173
+00:11:43.770 --> 00:11:49.650
+And Philip, is why he's freaking out here on the plane is like, Oh my God, man, I observe different
+
+174
+00:11:49.650 --> 00:11:50.310
+frequency.
+
+175
+00:11:51.330 --> 00:11:52.980
+So this is one way to observe it.
+
+176
+00:11:53.490 --> 00:11:57.980
+Another way to observe it is to take a look at what happens with sound waves.
+
+177
+00:11:57.990 --> 00:12:04.140
+Now, I think the most classic example of Doppler shifts that you experience on a day to day basis is
+
+178
+00:12:04.140 --> 00:12:10.980
+I want you to recall back to a time when you saw an ambulance like charging down the street.
+
+179
+00:12:11.880 --> 00:12:18.090
+So if you're standing on a street and it whizzes by you initially when it comes, you hear a pitch change,
+
+180
+00:12:18.090 --> 00:12:18.230
+right?
+
+181
+00:12:18.240 --> 00:12:19.950
+It goes you.
+
+182
+00:12:21.870 --> 00:12:26.040
+That change in pitch is exactly the Doppler shift.
+
+183
+00:12:26.340 --> 00:12:28.530
+Same exact phenomenon that's going on here.
+
+184
+00:12:28.740 --> 00:12:38.190
+So what's happening is when it's flying toward you with that speed V. It's emitting a wave every x seconds.
+
+185
+00:12:39.150 --> 00:12:41.910
+But initially, if it were still standing still, if you like to.
+
+186
+00:12:43.790 --> 00:12:50.600
+Now what's going on here is what they do and the the distance between those waves is decreased by fidelity,
+
+187
+00:12:50.600 --> 00:12:53.180
+just like what happened with Terrance and Phillip.
+
+188
+00:12:53.600 --> 00:13:00.890
+So as a result of that decreased distance, that the distance between the amount of weight changes now
+
+189
+00:13:00.890 --> 00:13:05.780
+when it whizzes by the pitch also changes because it's coming back.
+
+190
+00:13:05.780 --> 00:13:09.920
+So every time it emits a wave, it has traveled bwt.
+
+191
+00:13:10.370 --> 00:13:17.690
+So it has to go see the ability plus fidelity, which is an extra distance which lengthens this wavelength
+
+192
+00:13:17.700 --> 00:13:17.980
+right?
+
+193
+00:13:18.410 --> 00:13:22.790
+So these little red lines here signify the crest.
+
+194
+00:13:23.120 --> 00:13:26.570
+And if you increase that distance, you're just increasing the wavelength.
+
+195
+00:13:27.530 --> 00:13:33.110
+So you can see here, if you increase the wavelength, the frequency decreases.
+
+196
+00:13:33.500 --> 00:13:37.640
+But if you decrease the wavelength when it's coming towards you, when you're emitting out more as it
+
+197
+00:13:37.640 --> 00:13:40.970
+flies towards you or you're observing more as you fly towards it.
+
+198
+00:13:42.100 --> 00:13:44.410
+This wavelength is going to decrease, right?
+
+199
+00:13:44.680 --> 00:13:46.300
+It decreased by fidelity.
+
+200
+00:13:46.840 --> 00:13:49.780
+So as a result, your frequency increases.
+
+201
+00:13:50.200 --> 00:13:54.370
+OK, so this is sort of a graphical representation of a Doppler shift.
+
+202
+00:13:54.880 --> 00:14:02.590
+I want to beat this horse dead, so I'm going to give you a literally a digital representation of this
+
+203
+00:14:02.890 --> 00:14:03.390
+right now.
+
+204
+00:14:03.400 --> 00:14:04.720
+Let's jump straight into that.
+
+205
+00:14:05.530 --> 00:14:05.980
+OK.
+
+206
+00:14:06.130 --> 00:14:11.620
+So as I said previously, one of the best ways to experience a Doppler shift is to actually experience
+
+207
+00:14:11.620 --> 00:14:16.030
+it when an ambulance is blaring its alarms and flies right by you.
+
+208
+00:14:16.420 --> 00:14:22.900
+What happens in that situation is the ambulance as it's flying towards you, the pitch or the frequency
+
+209
+00:14:23.110 --> 00:14:23.860
+is higher.
+
+210
+00:14:24.040 --> 00:14:28.450
+But when it goes by, it suddenly shifts such that it's lower.
+
+211
+00:14:28.630 --> 00:14:32.950
+Now I want you to experience this firsthand if you have not experienced that situation.
+
+212
+00:14:33.190 --> 00:14:37.030
+And I want you to take a look at what it looks like on a frequency diagram.
+
+213
+00:14:37.030 --> 00:14:38.410
+OK, so we're going to you first.
+
+214
+00:14:38.410 --> 00:14:43.240
+I'm going to show you multiple animations to help bang this concept through into your head.
+
+215
+00:14:43.450 --> 00:14:48.070
+Make it very simple to understand is first we're going to take a look at the phenomenon.
+
+216
+00:14:48.070 --> 00:14:49.780
+You're going to hear what it sounds like.
+
+217
+00:14:50.080 --> 00:14:54.670
+And then I'm going to show you what it looks like, the frequency response and show how that frequency
+
+218
+00:14:54.880 --> 00:14:55.780
+is shifted, OK?
+
+219
+00:14:56.020 --> 00:15:00.490
+What we're going to have here is we're going to have a guy who's going to be the source of a sound,
+
+220
+00:15:01.150 --> 00:15:07.090
+attach a device to his bike and he's going to fly by another individual who is the observer who's recording
+
+221
+00:15:07.090 --> 00:15:07.180
+it.
+
+222
+00:15:07.180 --> 00:15:11.110
+Now, as you're going to notice, initially, it's could be an annoying, loud blaring noise.
+
+223
+00:15:11.380 --> 00:15:16.810
+But as he flies towards you, when he gets really close, you hear the frequency pitch get high and
+
+224
+00:15:16.810 --> 00:15:18.400
+then when he flies by you, you're going to hear it.
+
+225
+00:15:18.400 --> 00:15:23.810
+It's going to see your own fly right by and the frequency is going to drop.
+
+226
+00:15:23.830 --> 00:15:24.160
+OK.
+
+227
+00:15:24.460 --> 00:15:25.570
+This is the Doppler shift.
+
+228
+00:15:25.570 --> 00:15:26.650
+I want you to experience it.
+
+229
+00:15:26.890 --> 00:15:31.350
+So let's play the animation, and then let's take a look at the different frequencies that are observed.
+
+230
+00:15:31.360 --> 00:15:31.690
+OK?
+
+231
+00:15:31.870 --> 00:15:34.060
+So let's actually go through the animation.
+
+232
+00:15:34.120 --> 00:15:36.700
+OK, so here we are the guy who turns on the alarm.
+
+233
+00:15:36.700 --> 00:15:37.750
+That's what it sounds like.
+
+234
+00:15:38.110 --> 00:15:40.960
+Now let's go to the reference frame of the observer.
+
+235
+00:15:41.890 --> 00:15:42.670
+And now, listen,
+
+236
+00:15:45.910 --> 00:15:51.130
+did you hear that shift in frequency that was recorded by the observer?
+
+237
+00:15:51.400 --> 00:15:57.760
+So what happened is when he was going by, and this is due to the relative motion of that source frame
+
+238
+00:15:57.760 --> 00:16:03.310
+the biker when observed by the actual individual who's recording this?
+
+239
+00:16:03.580 --> 00:16:09.040
+What happens is that that that I've been talking about the distance he travels every time that wavelength
+
+240
+00:16:09.040 --> 00:16:15.940
+is emitted, that tends to reduce the wavelength between each successive crest.
+
+241
+00:16:16.150 --> 00:16:20.680
+And as a result of that reduction, the frequency jumps up and you get a higher pitch.
+
+242
+00:16:21.490 --> 00:16:26.800
+OK, so what we have here on the bottom is the actual response that we saw initially up here.
+
+243
+00:16:27.580 --> 00:16:27.800
+Right.
+
+244
+00:16:27.830 --> 00:16:30.070
+It's a nice sunny sort of wave.
+
+245
+00:16:30.610 --> 00:16:34.510
+And what we're measuring is the time in which this is emitted.
+
+246
+00:16:34.520 --> 00:16:40.570
+So in the time which we actually watched the video, there were 25 cycles, 25 wavelengths.
+
+247
+00:16:40.930 --> 00:16:47.170
+Now, if we take a look at the same wavelengths in the observed reference frame, not moving one.
+
+248
+00:16:47.890 --> 00:16:52.690
+What happens is when it's flying towards you, which is this guy right here, we see that those same
+
+249
+00:16:52.690 --> 00:16:55.720
+25 cycles occur in a shorter amount of time.
+
+250
+00:16:55.720 --> 00:16:59.470
+In essence, that t shrink the distance each.
+
+251
+00:16:59.470 --> 00:17:03.490
+We've had to travel before it got to the observed reference frame.
+
+252
+00:17:03.490 --> 00:17:10.600
+So as a result, we can have more wavelengths in that same amount of time, the frequency jumps up.
+
+253
+00:17:10.750 --> 00:17:12.370
+And that's why you have that high pitch.
+
+254
+00:17:12.370 --> 00:17:16.870
+Initially when I was going towards you, when it passes you and you get past that.
+
+255
+00:17:17.110 --> 00:17:20.380
+What happens is that VTi adds an extra distance.
+
+256
+00:17:20.380 --> 00:17:22.930
+Each wave has to go before it reaches you.
+
+257
+00:17:23.080 --> 00:17:28.480
+And as a result, those same twenty 25 cycles, it requires an additional amount of time to actually
+
+258
+00:17:28.480 --> 00:17:29.140
+reach the zebra.
+
+259
+00:17:29.140 --> 00:17:36.610
+So what happens is that length of the 25 cycles is beyond the original length and the frequency decreases
+
+260
+00:17:36.610 --> 00:17:38.320
+by this Doppler shift V.
+
+261
+00:17:38.680 --> 00:17:40.660
+So that's exactly what's going on.
+
+262
+00:17:40.670 --> 00:17:41.530
+You've observed it.
+
+263
+00:17:41.710 --> 00:17:47.320
+You've heard it and you actually see what's going on here and how that changes the frequency that viti
+
+264
+00:17:47.320 --> 00:17:49.250
+that relative motion is the key.
+
+265
+00:17:49.270 --> 00:17:52.270
+I want you to remember that Doppler shift well to motion.
+
+266
+00:17:52.630 --> 00:17:53.380
+Well combined.
+
+267
+00:17:53.560 --> 00:17:55.530
+You get this change in frequency.
+
+268
+00:17:55.540 --> 00:17:57.940
+OK, so we get served exactly what happened.
+
+269
+00:17:58.180 --> 00:18:03.100
+Let's actually look at an animation that portrays this directly next.
+
+270
+00:18:04.700 --> 00:18:10.400
+OK, so now that you've actually heard and experienced the authorship firsthand and I give you a brief
+
+271
+00:18:10.400 --> 00:18:15.650
+explanation, we're going to take a more in-depth look into that situation by looking at a sort of awfulness
+
+272
+00:18:15.650 --> 00:18:16.040
+situation.
+
+273
+00:18:16.040 --> 00:18:19.790
+We're going to take exactly what we used with a bike and a sound source.
+
+274
+00:18:19.790 --> 00:18:21.830
+But in this this case, we're going to a fixed source.
+
+275
+00:18:22.040 --> 00:18:23.750
+It's going to emit beams.
+
+276
+00:18:23.960 --> 00:18:27.500
+I'm going to see what those beams look like in the animation and then we're going to take a look at
+
+277
+00:18:27.500 --> 00:18:28.280
+two scenarios.
+
+278
+00:18:28.550 --> 00:18:30.980
+Initially, you're going to see the bike riding towards it.
+
+279
+00:18:31.230 --> 00:18:31.540
+OK.
+
+280
+00:18:31.840 --> 00:18:34.460
+In that case, we know the frequency should increase.
+
+281
+00:18:34.700 --> 00:18:39.140
+Then we're going to see the bike running past it, going away for the waves.
+
+282
+00:18:39.350 --> 00:18:43.220
+We're going to see the frequency decrease once it hits the source.
+
+283
+00:18:44.060 --> 00:18:49.070
+What's going to happen is I'm going to parallel initially what was happening when it was coming towards
+
+284
+00:18:49.070 --> 00:18:55.400
+the source and we're going to take a look at both both situations and see how many waves or crests each
+
+285
+00:18:55.400 --> 00:18:57.170
+bike actually observes.
+
+286
+00:18:57.170 --> 00:19:02.420
+And what you're going to see is that because of that, we see the bike that's heading towards the source
+
+287
+00:19:02.630 --> 00:19:09.440
+is going to see more waves, more crests in a given amount of time, as opposed to the individual who's
+
+288
+00:19:09.440 --> 00:19:14.420
+driving away from the waves, who sees less crests, less waves in a given time.
+
+289
+00:19:14.630 --> 00:19:18.680
+Let's actually look at what that looks like and see it digitally in the animation.
+
+290
+00:19:18.890 --> 00:19:19.640
+Let's play it.
+
+291
+00:19:19.880 --> 00:19:23.420
+So as I mentioned previously, here's the source it's fixed right in the middle.
+
+292
+00:19:23.540 --> 00:19:24.920
+It's emitting these blue waves.
+
+293
+00:19:25.280 --> 00:19:31.550
+These described the crest, and in total, when the guy is running towards the fake source, the source
+
+294
+00:19:31.670 --> 00:19:37.490
+has generated or emitted about, let's see about 20 waves.
+
+295
+00:19:37.940 --> 00:19:42.530
+So here we see the bike going towards and we're counting how many crests it actually hits.
+
+296
+00:19:42.860 --> 00:19:47.900
+You can see the guy going towards count way more than the guy heading away because of that relative
+
+297
+00:19:47.900 --> 00:19:48.440
+motion.
+
+298
+00:19:48.680 --> 00:19:52.460
+So let's compare the counts at the end close to the end, right one.
+
+299
+00:19:52.460 --> 00:19:53.420
+It's about to hit the end.
+
+300
+00:19:54.530 --> 00:19:57.110
+We have generated about 17 in this time period.
+
+301
+00:19:57.500 --> 00:20:04.310
+The guy that's heading towards the source has observed about twenty four of those waves, and the guy
+
+302
+00:20:04.340 --> 00:20:10.400
+heading away has observed nine again, as he's just seen in those plots, as I've just described multiple
+
+303
+00:20:10.400 --> 00:20:10.850
+times.
+
+304
+00:20:11.090 --> 00:20:15.200
+I hope this bang that you had, I hope you guys understand this concept now when you're moving towards
+
+305
+00:20:15.200 --> 00:20:20.750
+that source, when the distance between them is closing that bit, that relative motion minimizes the
+
+306
+00:20:20.750 --> 00:20:24.710
+distance that wave has to travel these blue waves that are coming out.
+
+307
+00:20:24.950 --> 00:20:26.840
+And as a result, you see more crests.
+
+308
+00:20:27.050 --> 00:20:33.950
+That's why this guy saw twenty four as opposed to the generated seventeen that we as well as he sees
+
+309
+00:20:33.950 --> 00:20:40.160
+in that given time period right now, this guy, when he's moving away, that vti, that wave has to
+
+310
+00:20:40.160 --> 00:20:42.860
+travel that extra distance every time it's generated.
+
+311
+00:20:43.100 --> 00:20:44.540
+So he doesn't see as many.
+
+312
+00:20:44.720 --> 00:20:51.170
+That's why he only saw nine of these actual waves as opposed to twenty four with a guy who's moving
+
+313
+00:20:51.170 --> 00:20:51.680
+towards us.
+
+314
+00:20:52.010 --> 00:20:53.510
+That's a visual representation.
+
+315
+00:20:53.660 --> 00:20:57.110
+I hope that drives the point home to make it a bit more simpler.
+
+316
+00:20:57.290 --> 00:21:01.700
+I'm going to look at one more animation to make sure you guys definitely understand this.
+
+317
+00:21:01.850 --> 00:21:06.140
+And then we'll jump into a derivation of the actual Doppler shift that is observed.
+
+318
+00:21:07.000 --> 00:21:07.370
+OK.
+
+319
+00:21:07.540 --> 00:21:12.760
+So to wrap up these digital animations and conclude our look into the concept of the Doppler shift,
+
+320
+00:21:13.030 --> 00:21:18.550
+what I want to do is take a source that's moving to the right and take a look at what the waves actually
+
+321
+00:21:18.550 --> 00:21:22.150
+look like in front of the source and behind the source.
+
+322
+00:21:22.180 --> 00:21:28.930
+Now, as explained previously, that relative motion helps to change the wavelength of the waves that
+
+323
+00:21:28.930 --> 00:21:29.380
+are emitted.
+
+324
+00:21:29.410 --> 00:21:32.350
+OK, so if the distance between that, the wavelength?
+
+325
+00:21:32.560 --> 00:21:38.020
+OK, so in front of it, that relative motion, if you emit one wave and you move towards the wave,
+
+326
+00:21:38.380 --> 00:21:44.470
+the distance between the way that was emitted and the next wave that was emitted or the crests has to
+
+327
+00:21:44.470 --> 00:21:44.950
+decrease.
+
+328
+00:21:44.950 --> 00:21:48.580
+But that viti right, that relative motion helps to increase the frequency.
+
+329
+00:21:48.580 --> 00:21:52.360
+So you'd expect the waves to be more congregated in front of the source.
+
+330
+00:21:52.630 --> 00:21:57.070
+Now behind the source, what happens is you would mean a wave and moves to the left.
+
+331
+00:21:57.520 --> 00:21:58.570
+C times T.
+
+332
+00:21:59.050 --> 00:22:01.710
+And then the source moves to the right vti.
+
+333
+00:22:01.780 --> 00:22:07.120
+So that extra vti increases the distance between the emitted waves that increase the wavelengths you'd
+
+334
+00:22:07.120 --> 00:22:07.630
+expect.
+
+335
+00:22:07.840 --> 00:22:12.820
+The density of the waves to be less dense and you have a lower frequency, OK?
+
+336
+00:22:13.000 --> 00:22:18.490
+So we just saw what it looks like in terms of the blue wave, the group crest blue crest that we observed
+
+337
+00:22:18.880 --> 00:22:19.900
+in the previous animation.
+
+338
+00:22:20.080 --> 00:22:23.590
+We're going to see how that is transformed in the front of and the back of.
+
+339
+00:22:23.740 --> 00:22:29.380
+Now if you're over here and something's moving towards you, more dense waves, more frequency are a
+
+340
+00:22:29.380 --> 00:22:33.430
+higher frequency response that's going to increase your observed frequency.
+
+341
+00:22:33.610 --> 00:22:37.240
+If you're behind here and it's moving away from you, you're going to have less dense waves that's going
+
+342
+00:22:37.240 --> 00:22:40.030
+to decrease the frequency you observe.
+
+343
+00:22:40.060 --> 00:22:41.200
+So let's take a look at this.
+
+344
+00:22:41.410 --> 00:22:45.310
+This guy is going to move to the right and we're going to see the waves actually look like instead of
+
+345
+00:22:45.310 --> 00:22:49.570
+having circular ways that are equidistant from one another as you go out.
+
+346
+00:22:49.750 --> 00:22:51.160
+We're going to see it's going to change.
+
+347
+00:22:51.520 --> 00:22:57.970
+So as it moves to the right that we see, you can see right here, the density of the crest is much
+
+348
+00:22:57.970 --> 00:22:59.350
+higher, the frequency is higher.
+
+349
+00:22:59.590 --> 00:23:01.690
+So that helps to increase this.
+
+350
+00:23:01.690 --> 00:23:06.040
+So what I have here is the velocity of the light of the wave.
+
+351
+00:23:06.310 --> 00:23:09.580
+And down here is the velocity of the source of the wave.
+
+352
+00:23:10.060 --> 00:23:10.960
+No, the source.
+
+353
+00:23:11.380 --> 00:23:12.670
+So let's back up a bit.
+
+354
+00:23:12.850 --> 00:23:15.850
+Voice is the velocity, the source traveling to the right.
+
+355
+00:23:16.180 --> 00:23:23.200
+So what I have here is we're keeping track of the distance that that was traveled of the first wave
+
+356
+00:23:23.380 --> 00:23:25.240
+and the distance of the source has traveled.
+
+357
+00:23:25.240 --> 00:23:30.340
+And what we find here is that in total, the waves may travel vti.
+
+358
+00:23:30.490 --> 00:23:35.110
+But because of the source, the distance between where it went, the actual length of the wave stream,
+
+359
+00:23:35.110 --> 00:23:39.790
+which we talked about on the kickoff risks was changed by a distance.
+
+360
+00:23:39.790 --> 00:23:40.750
+Vesti.
+
+361
+00:23:40.960 --> 00:23:46.240
+So as a result, these waves have to travel a smaller distance and you have the same amount of waves
+
+362
+00:23:46.240 --> 00:23:46.930
+that are emitted.
+
+363
+00:23:47.230 --> 00:23:52.120
+So as a result, the more congregated, the density increases and you could see it right here, right?
+
+364
+00:23:52.150 --> 00:23:59.290
+I could talk all day about how the relative motion changed the frequency, but here you can see it real
+
+365
+00:23:59.290 --> 00:24:00.490
+time in the animations.
+
+366
+00:24:00.640 --> 00:24:01.900
+This drive the point home.
+
+367
+00:24:02.200 --> 00:24:06.040
+I want you to keep this picture in mind when we run through the derivation, right?
+
+368
+00:24:06.340 --> 00:24:12.760
+So in the derivation, I'm going to reference the actual length of the wave train, which I'm going
+
+369
+00:24:12.760 --> 00:24:15.130
+to use, s.t the speed of light here we have.
+
+370
+00:24:15.130 --> 00:24:22.330
+They used the generic V and I'm going to use the source distance v s t, and we're going to take the
+
+371
+00:24:22.330 --> 00:24:29.680
+difference of that and use that to derive an apparent or observed wavelength and frequency.
+
+372
+00:24:29.830 --> 00:24:34.420
+And we're going to find because of this relative motion, it's going to decrease the distance between
+
+373
+00:24:34.690 --> 00:24:37.570
+the source and the actual observer.
+
+374
+00:24:37.720 --> 00:24:43.510
+And because of that, we're going to decrease the wavelength and increase the frequency.
+
+375
+00:24:43.510 --> 00:24:48.760
+I'm going to see that again, decrease the wavelength so the distance between each crest.
+
+376
+00:24:49.090 --> 00:24:51.520
+And as a result, increase the frequency.
+
+377
+00:24:51.730 --> 00:24:57.970
+So I hope these digital animations give you another perspective of the phenomenal we're talking about
+
+378
+00:24:58.720 --> 00:24:59.440
+the phenomenon.
+
+379
+00:24:59.440 --> 00:24:59.860
+Sorry.
+
+380
+00:25:00.130 --> 00:25:05.710
+And let's jump into the duration and start digging into the math now that you know what exactly is going
+
+381
+00:25:05.710 --> 00:25:09.220
+on and you have some physical intuition with the Doppler shift.

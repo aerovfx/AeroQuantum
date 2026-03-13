@@ -1,0 +1,124 @@
+WEBVTT
+
+00:00.340 --> 00:10.140
+OK so until now what we've done is well all our circuits included earmuffs resistors
+
+00:12.950 --> 00:15.660
+and well those were constants.
+
+00:17.980 --> 00:24.470
+And when you analyze kind of circuits with only constant amps and resistances it leads to currents it
+
+00:24.470 --> 00:31.930
+leads to voltages and it leads to kind of power that are also constant which means they're independent
+
+00:31.930 --> 00:39.360
+of time.
+
+00:39.430 --> 00:40.270
+So what follows.
+
+00:40.270 --> 00:43.420
+Now we're going to include new components in our circuits.
+
+00:43.420 --> 00:45.370
+We're going to include capacitors
+
+00:47.950 --> 00:55.310
+and capacitors are going to lead to currents voltages to charges to power that depend on time.
+
+00:55.740 --> 00:56.380
+OK.
+
+00:56.380 --> 00:58.210
+So that's going to be the major difference.
+
+00:58.270 --> 01:03.490
+We're going to look in a lot of detail in the section on what is the difference between a charging versus
+
+01:03.490 --> 01:05.770
+discharging a capacitor.
+
+01:06.140 --> 01:11.920
+The symbol for a capacitor in our circuits are going to be represented by simply just parallel plates
+
+01:11.920 --> 01:14.750
+like this.
+
+01:14.950 --> 01:23.140
+You remember the units for a capacitor are measured in Feraud And typically you just use the letter
+
+01:23.140 --> 01:30.850
+C and again we can have we use prefixes to denote kind of micro Feraud Pico Feraud different values
+
+01:30.850 --> 01:32.750
+of the capacitance.
+
+01:32.860 --> 01:40.990
+So here's a simple kind of sketch here of a charge capacitor or the capacitor here is initially charged
+
+01:40.990 --> 01:43.270
+with some charge q zero on it.
+
+01:43.270 --> 01:48.070
+When you define the charge of a capacitor you typically defining that one plate has a positive charge
+
+01:48.400 --> 01:51.610
+and the other plate has equal but opposite charge.
+
+01:52.060 --> 01:56.940
+However you typically only define it with one letter either Q zero as an initial charge or sometimes
+
+01:56.960 --> 02:01.450
+you just use the letter Q And that value now is going to change.
+
+02:01.450 --> 02:08.490
+It's going to be a function that depends on time the relationship that's important for capacitors is
+
+02:08.490 --> 02:13.980
+that the charge on the plates is proportional to the potential difference between the plates and that's
+
+02:13.980 --> 02:16.860
+going to be an important formula for us going forward.
+
+02:16.860 --> 02:24.350
+So even at any specific time the charge on the plates again it's proportional to the voltage between
+
+02:24.350 --> 02:25.100
+the plates.
+
+02:25.110 --> 02:27.750
+Again one of them would be at a higher electrical potential.
+
+02:27.800 --> 02:32.660
+The other plate might be at a lower electrical potential and the constant that links them together is
+
+02:32.660 --> 02:35.290
+the value of the capacitance.
+
+02:35.790 --> 02:40.880
+In case you don't remember this is an important equation for us for capacitors and it doesn't matter
+
+02:40.880 --> 02:42.880
+what type of shape the capacitor is.
+
+02:42.890 --> 02:48.650
+This formula holds whether you're dealing with parallel plates or concentric tubes or spheres.
+
+02:48.650 --> 02:50.810
+It's still the same formula.
+
+02:50.840 --> 02:51.110
+All right.
+
+02:51.110 --> 02:52.010
+So let's get started.
+
+02:52.010 --> 02:56.090
+We're going to learn all about capacitors and how to analyze circuits dealing with capacitors.
+
+02:56.090 --> 03:01.460
+The other thing we're going to see a lot of now are switches in our circuits because we're going to
+
+03:01.640 --> 03:04.450
+close the switch and see what happens as a function of time.

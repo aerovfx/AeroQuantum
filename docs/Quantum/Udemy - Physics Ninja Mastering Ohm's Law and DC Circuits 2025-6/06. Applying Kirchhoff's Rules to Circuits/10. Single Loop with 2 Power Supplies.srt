@@ -1,0 +1,214 @@
+WEBVTT
+
+00:00.510 --> 00:02.490
+OK so here's another a single loop circuit.
+
+00:02.490 --> 00:06.170
+However this time I've included a second MF source.
+
+00:06.240 --> 00:10.100
+However if you look at it so it's same as the first and we are a tenable battery here.
+
+00:10.110 --> 00:13.530
+Now I have a five year old battery however look at the polarity.
+
+00:13.650 --> 00:16.610
+It's kind of opposite of the first one.
+
+00:16.860 --> 00:20.800
+So I now want to go ahead and I have two questions.
+
+00:20.820 --> 00:26.100
+First one find the current standard question and next one let's have a look at the energy in this circuit
+
+00:26.100 --> 00:29.910
+and are the power being supplied and dissipated.
+
+00:29.910 --> 00:34.960
+So let's start with the first one again we can apply the loop rule starting at point A.
+
+00:35.260 --> 00:38.280
+I always start here it doesn't matter you can start wherever you want.
+
+00:38.280 --> 00:39.810
+It makes no difference.
+
+00:39.810 --> 00:46.070
+OK so the first thing I encounter Now again the loop rule always implies a direction of the current.
+
+00:46.080 --> 00:49.190
+So what we're going to do is we're going to pick a direction of the current.
+
+00:49.380 --> 00:53.460
+Since this battery is stronger than now on I'm going to assume that the current is going to go like
+
+00:53.460 --> 00:56.760
+this.
+
+00:56.960 --> 01:04.100
+So first thing I cross now is the battery and I go from the lower to the higher electrical potential.
+
+01:04.460 --> 01:07.580
+Therefore I get plus 10.
+
+01:07.870 --> 01:11.450
+Now I cross your resistance in the direction of the current.
+
+01:11.450 --> 01:17.030
+I get a voltage drop given by ohms law which is three times I.
+
+01:17.080 --> 01:18.300
+That's the same.
+
+01:18.400 --> 01:21.040
+Next thing I get another voltage drop.
+
+01:21.490 --> 01:26.740
+And now what happens now when I cross a battery going from the positive terminal toward the negative
+
+01:26.740 --> 01:29.650
+terminal I get a voltage drop also.
+
+01:29.700 --> 01:30.220
+Right.
+
+01:30.310 --> 01:38.160
+I go toward a lower electrical potential and that mine is the IMF or the battery or minus 5 volts and
+
+01:38.220 --> 01:39.810
+that they I go back to where I start.
+
+01:39.840 --> 01:42.190
+That equals to zero.
+
+01:42.190 --> 01:48.700
+So you see in this case now you get ten minus five which gives me five minus five I.
+
+01:49.370 --> 01:55.890
+So re-arranges equation you're going to get that the current now simply egal to 1 amp OK.
+
+01:56.600 --> 02:05.170
+That's the current It's going to be the same through all the various components that I have over here
+
+02:05.770 --> 02:07.060
+and it's 1.0.
+
+02:07.230 --> 02:07.880
+Okay.
+
+02:08.200 --> 02:13.960
+Same over here same going through their same flow in a peer single loop circuit.
+
+02:13.990 --> 02:17.250
+All right next let's find the power being supplied.
+
+02:17.650 --> 02:19.650
+Well there's 10 volt battery.
+
+02:19.810 --> 02:30.170
+If I look at the power from the MF One again it's the value of the IMF multiplied by the amount of current
+
+02:30.170 --> 02:31.970
+flowing through it.
+
+02:31.970 --> 02:34.630
+So in this case it's 10 volts.
+
+02:34.670 --> 02:35.430
+It is less current.
+
+02:35.430 --> 02:42.560
+There's only one at this time so this one is providing 10 watts 10 jewel per second.
+
+02:43.310 --> 02:45.800
+How about this other MF.
+
+02:45.990 --> 02:53.730
+Number two again if the value of the IMF multiplied by the current this is five times the one that's
+
+02:54.690 --> 03:01.150
+5 watts OK now we can look at the power being dissipated in the resistors.
+
+03:01.180 --> 03:02.390
+You know the formula now.
+
+03:02.520 --> 03:11.230
+So the power being dissipated by the 3 ohm resistor the value of the resistance are one multiplied by
+
+03:11.230 --> 03:17.050
+the current squared three multiplied by one squared is me three watts
+
+03:20.480 --> 03:28.460
+and the last one the power being dissipated by the two resistor the value of the resistance multiplied
+
+03:28.460 --> 03:34.550
+by the current squared again two and one squared is me 2 watts
+
+03:37.140 --> 03:37.470
+OK.
+
+03:37.470 --> 03:43.650
+Now if you look at the total power being dissipated Well you have to sum both of those.
+
+03:43.720 --> 03:44.610
+Right.
+
+03:44.720 --> 03:46.540
+That's simply 5 watts.
+
+03:48.020 --> 03:52.860
+Five watts is basically energy being dissipated as heat most likely.
+
+03:52.870 --> 03:57.470
+And However look at how much energy energy is being supplied.
+
+03:57.470 --> 03:58.720
+What happens over here actually.
+
+03:58.730 --> 04:00.360
+Both of these terms.
+
+04:01.130 --> 04:05.200
+Well actually what happens is you look at this battery over here.
+
+04:05.510 --> 04:07.190
+This is our dominant battery over here.
+
+04:07.190 --> 04:09.640
+It is supplying 10 watts of power.
+
+04:11.280 --> 04:16.370
+Five watts is being dissipated in heat.
+
+04:16.650 --> 04:25.130
+The other 5 watts that's being delivered by the strong battery here is being absorbed.
+
+04:25.260 --> 04:33.600
+This is being absorbed which means you're basically charging this battery you're increasing its energy
+
+04:33.600 --> 04:34.960
+at this particular rate.
+
+04:36.610 --> 04:38.920
+Charging want to try that again.
+
+04:41.270 --> 04:45.920
+Charging the battery.
+
+04:46.170 --> 04:51.470
+OK so whenever you have kind of two power supplies like this in one of them is reverse polarity from
+
+04:51.470 --> 04:52.410
+the other one.
+
+04:52.490 --> 04:57.940
+It is basically you know if you kind of do this energy balance you're going to find an imbalance here.
+
+04:59.380 --> 05:05.460
+And the reason for that is that the second the weaker battery tends to be in a charging phase.
+
+05:05.630 --> 05:12.620
+OK it's absorbing energy at a particular rate whereas the dominant one is supplying energy to the entire
+
+05:12.620 --> 05:14.380
+circuit.

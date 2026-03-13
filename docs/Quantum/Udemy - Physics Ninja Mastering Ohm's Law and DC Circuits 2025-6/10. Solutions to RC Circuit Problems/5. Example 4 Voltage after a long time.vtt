@@ -1,0 +1,153 @@
+WEBVTT
+
+WEBVTT
+
+00:00.150 --> 00:04.900
+Here's example for untitled the voltage after a long time and it says I'm like.
+
+00:04.900 --> 00:10.410
+So after a long time current exists only in one branch of the circuit at this long time if the battery
+
+00:10.410 --> 00:15.700
+voltage is 10 volts What's the voltage across the 50 micro ferrite capacitor.
+
+00:15.720 --> 00:17.590
+So let's go ahead and look at that.
+
+00:17.670 --> 00:20.140
+Here's my 50 micro farit capacitor.
+
+00:20.490 --> 00:26.560
+And we know that the voltage of this battery right here this guy here equals the 10 volts.
+
+00:26.700 --> 00:26.970
+All right.
+
+00:26.970 --> 00:28.110
+So how do you solve a problem like this.
+
+00:28.110 --> 00:30.320
+I mean this looks like a very complicated circuit.
+
+00:30.510 --> 00:36.450
+However we know what's going on here we know the voltage between the point a here and the top portion.
+
+00:36.510 --> 00:38.430
+We know that 10.
+
+00:38.490 --> 00:43.790
+We also want to know the voltage across this 50 micro ferrett capacitor.
+
+00:43.920 --> 00:47.820
+If you want to know the voltage across something well maybe we could just do like a little Bruel and
+
+00:47.820 --> 00:52.790
+include that 50 micro ferrite capacitor.
+
+00:52.800 --> 00:58.190
+Now let's just label some current over here and call the current here I call it.
+
+00:58.200 --> 00:59.370
+I won.
+
+00:59.370 --> 00:59.850
+All right.
+
+00:59.940 --> 01:05.080
+Let's start at a point and let's do this counter-clockwise loop and apply Kirchhoff's loop rule.
+
+01:05.400 --> 01:10.440
+So the first thing we encounter is a battery we go from the low potential to the high potential therefore
+
+01:10.440 --> 01:13.500
+we get a potential increase.
+
+01:13.500 --> 01:19.020
+Next thing we do is we're going across this 100 ohm resistor so you get a voltage drop of minus 100
+
+01:19.460 --> 01:25.650
+multiplied by 1 and next thing I want to do is I'm going across the plates of this capacitor so we get
+
+01:25.650 --> 01:31.440
+a voltage drop or a voltage across this capacitor and micro ferrite capacitor and then I go back to
+
+01:31.440 --> 01:33.830
+where I started that must be equal to zero.
+
+01:34.440 --> 01:38.110
+OK so really this is what we're looking for we know this is 10.
+
+01:38.510 --> 01:39.030
+What are we.
+
+01:39.030 --> 01:40.590
+What can we do about this term over here.
+
+01:40.590 --> 01:43.470
+The voltage drop across that resistor.
+
+01:43.590 --> 01:48.090
+Well the key to this problem now is just to kind of read it a little bit more carefully.
+
+01:48.240 --> 01:54.600
+And the first thing you realize here is that they're really asking you for what is a long time after
+
+01:54.600 --> 01:58.890
+a long time what happens after a long time.
+
+01:58.990 --> 02:05.250
+You have to remember that these capacitors they get fully charged and once they get fully charged it
+
+02:05.280 --> 02:12.280
+automatically means that any branch with a capacitor is going to have zero current.
+
+02:12.900 --> 02:18.180
+So this guy over here I one has to be equal to zero after a long time.
+
+02:18.210 --> 02:24.680
+So if I want equals to zero after a long time that means there is no voltage drop across that resistor.
+
+02:24.780 --> 02:30.300
+So automatically you can write that if I bring the voltage of the 50 micro Feraud capacitor on the other
+
+02:30.300 --> 02:33.900
+side so I'll turn it into a positive.
+
+02:34.050 --> 02:39.540
+That is simply equal to the AMFA the battery which in this case they told us was 10 volts.
+
+02:39.600 --> 02:41.200
+So that's pretty simple.
+
+02:41.250 --> 02:44.970
+So in this case here the correct answer has to be Choice C.
+
+02:45.210 --> 02:50.300
+So that would also mean that the for this branch over here.
+
+02:50.700 --> 02:57.450
+Go ahead and look at this for this branch over here after a long time there would also be no current
+
+02:57.450 --> 03:01.050
+flowing through this branch over here after a long time.
+
+03:01.080 --> 03:03.960
+So after a long time there is still a closed loop.
+
+03:04.110 --> 03:04.870
+Right.
+
+03:04.890 --> 03:06.750
+There's still a loop that includes the battery.
+
+03:06.760 --> 03:13.350
+There's this outside path and the current can still flow around there's just no more current flowing
+
+03:14.070 --> 03:17.280
+where there's a capacitor OK.
+
+03:17.700 --> 03:21.510
+Kind of a nice little problem it looks like a complicated circuit but it actually turned out to be quite
+
+03:21.510 --> 03:23.030
+an easy problem.

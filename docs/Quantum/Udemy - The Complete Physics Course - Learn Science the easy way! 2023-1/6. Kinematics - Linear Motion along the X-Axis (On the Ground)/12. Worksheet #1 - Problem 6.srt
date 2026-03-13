@@ -1,0 +1,275 @@
+1
+00:00:00,210 --> 00:00:02,260
+For this next one, we have a bus.
+
+2
+00:00:02,520 --> 00:00:09,540
+It's traveling at 20 meters per second, which is equivalent to 45 miles an hour, and it speeds up
+
+3
+00:00:09,540 --> 00:00:12,810
+at a constant rate of two meters per second squared.
+
+4
+00:00:13,140 --> 00:00:14,580
+What velocity does it reach?
+
+5
+00:00:14,700 --> 00:00:16,020
+Five seconds later.
+
+6
+00:00:16,230 --> 00:00:18,150
+OK, so what do we have here?
+
+7
+00:00:18,180 --> 00:00:26,730
+We have a bus and it's traveling at this speed and it's speeding up at two meters per second squared.
+
+8
+00:00:27,360 --> 00:00:28,620
+What velocity doesn't reach?
+
+9
+00:00:28,650 --> 00:00:31,410
+OK, so describe to me what the bus is doing.
+
+10
+00:00:31,620 --> 00:00:34,380
+It's going fast and it's going faster.
+
+11
+00:00:34,470 --> 00:00:34,860
+Right.
+
+12
+00:00:35,310 --> 00:00:39,570
+So once again, what do you think that the initial position is that of the bus?
+
+13
+00:00:39,710 --> 00:00:45,690
+What are we going to say it is if it's not told to us or does it always going to say it's equal to zero
+
+14
+00:00:45,690 --> 00:00:46,250
+meters?
+
+15
+00:00:47,670 --> 00:00:48,700
+What else do we have here?
+
+16
+00:00:48,720 --> 00:00:49,350
+What is this?
+
+17
+00:00:50,190 --> 00:00:56,790
+So a bus is traveling at this, what does that 20 meters per second telling us?
+
+18
+00:00:56,970 --> 00:00:57,960
+What's the velocity?
+
+19
+00:00:57,960 --> 00:00:58,320
+Right.
+
+20
+00:00:58,800 --> 00:01:01,140
+And it's traveling at that currently.
+
+21
+00:01:01,800 --> 00:01:04,650
+Oh, so that must be our initial velocity.
+
+22
+00:01:06,140 --> 00:01:11,840
+You might be saying to yourself, well, doesn't a bus always start from rest and then it gets up to
+
+23
+00:01:11,840 --> 00:01:13,790
+a certain speed and then it goes faster?
+
+24
+00:01:13,940 --> 00:01:21,950
+Well, OK, but if we're looking at this as a system right now and we're basically just initially observing
+
+25
+00:01:21,950 --> 00:01:27,500
+the bus to be moving at this speed, that's what we're going to say, is the initial velocity.
+
+26
+00:01:29,350 --> 00:01:33,190
+And what is this, two meters per second squared telling us, what is that?
+
+27
+00:01:33,460 --> 00:01:38,830
+Well, if it's meters per second squared, that's a good indicator that that's the acceleration.
+
+28
+00:01:40,650 --> 00:01:41,160
+OK.
+
+29
+00:01:42,240 --> 00:01:43,690
+Oh, we have five seconds here.
+
+30
+00:01:44,070 --> 00:01:45,570
+Simple enough, what does that tell us?
+
+31
+00:01:45,600 --> 00:01:47,250
+That's the time the time elapsed.
+
+32
+00:01:50,020 --> 00:01:50,340
+Oh.
+
+33
+00:01:54,600 --> 00:01:59,880
+And what is it that we're trying to find here, what velocity does it reach?
+
+34
+00:02:00,120 --> 00:02:02,580
+It sounds like we're trying to find out what the final velocity is.
+
+35
+00:02:03,270 --> 00:02:09,020
+Does it say anything about the final position or are we trying to solve for the final position at all?
+
+36
+00:02:09,510 --> 00:02:09,780
+No.
+
+37
+00:02:09,780 --> 00:02:10,140
+Right.
+
+38
+00:02:10,360 --> 00:02:13,560
+OK, so that's going to be the variable that we don't care about.
+
+39
+00:02:15,050 --> 00:02:20,460
+So what we're going to do here is, first of all, are we dealing with a average velocity?
+
+40
+00:02:20,600 --> 00:02:21,370
+No, right.
+
+41
+00:02:21,380 --> 00:02:23,510
+It doesn't say anything about average velocity.
+
+42
+00:02:24,020 --> 00:02:26,410
+As a matter of fact, we know that the velocity is changing.
+
+43
+00:02:26,420 --> 00:02:28,490
+We know that we're accelerating over here.
+
+44
+00:02:28,610 --> 00:02:30,480
+We're not dealing with an average velocity at all.
+
+45
+00:02:31,490 --> 00:02:33,590
+Let's look at this right now.
+
+46
+00:02:33,590 --> 00:02:39,740
+We are trying to find the foremost that have the final position in it and we're going to say we don't
+
+47
+00:02:39,740 --> 00:02:40,240
+care about it.
+
+48
+00:02:40,250 --> 00:02:41,860
+Does this one have final position in it?
+
+49
+00:02:42,230 --> 00:02:42,740
+No.
+
+50
+00:02:43,060 --> 00:02:44,180
+Oh, OK.
+
+51
+00:02:44,780 --> 00:02:46,100
+What about this one yet?
+
+52
+00:02:46,110 --> 00:02:47,030
+Not right off the bat.
+
+53
+00:02:47,030 --> 00:02:48,280
+We got final position right there.
+
+54
+00:02:48,470 --> 00:02:51,250
+We don't care about this formula or about this formula.
+
+55
+00:02:51,410 --> 00:02:51,860
+Oh, yeah.
+
+56
+00:02:51,860 --> 00:02:52,190
+Yep.
+
+57
+00:02:52,490 --> 00:02:53,060
+Right there.
+
+58
+00:02:53,210 --> 00:02:53,810
+I see it.
+
+59
+00:02:55,290 --> 00:02:56,640
+And what about this one?
+
+60
+00:02:59,130 --> 00:03:02,550
+Oh, yeah, we got final position right there and we don't care about that one.
+
+61
+00:03:03,150 --> 00:03:08,040
+The very first formula that we actually were considering using, that's the formula that that we will
+
+62
+00:03:08,040 --> 00:03:08,430
+use.
+
+63
+00:03:08,970 --> 00:03:18,030
+So we have our Veth is equal to our V.I. Plus our acceleration times the Delta T now the de'ath that's
+
+64
+00:03:18,030 --> 00:03:26,760
+the variable that we're trying to find is equal to the V.I. plus acceleration of two times five.
+
+65
+00:03:26,790 --> 00:03:27,090
+OK.
+
+66
+00:03:27,120 --> 00:03:28,370
+Oh this is simple enough.
+
+67
+00:03:28,380 --> 00:03:29,070
+Look at this.
+
+68
+00:03:29,910 --> 00:03:31,410
+We could probably just do this in our heads.
+
+69
+00:03:40,250 --> 00:03:44,390
+And looking at that, we correctly solved this problem.

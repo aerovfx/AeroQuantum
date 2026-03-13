@@ -1,0 +1,171 @@
+WEBVTT
+
+WEBVTT
+
+00:00.150 --> 00:04.140
+Another important topic now is something called electrical potential.
+
+00:04.180 --> 00:05.890
+Notice it's missing the word energy.
+
+00:05.900 --> 00:08.160
+There's not what we just saw it's similar.
+
+00:08.160 --> 00:11.240
+And it'll be related to it but it's a little bit different.
+
+00:11.250 --> 00:11.470
+All right.
+
+00:11.490 --> 00:14.340
+But before we do that let's first look at what we had.
+
+00:14.370 --> 00:17.290
+So we had electrical force right.
+
+00:17.310 --> 00:19.680
+Force was a vector.
+
+00:20.190 --> 00:29.760
+If we had point charges for example we could write down that the force was K Q1 Q2 over our squared.
+
+00:29.760 --> 00:37.640
+Let me just write point charges just to remind ourselves here.
+
+00:37.660 --> 00:37.870
+All right.
+
+00:37.870 --> 00:44.980
+The other thing we had were that electric charge produce a field around them and that was something
+
+00:44.980 --> 00:48.040
+we had called an electric field we called it e..
+
+00:48.330 --> 00:49.410
+OK.
+
+00:49.460 --> 00:54.700
+And again let me just write it down k q 1 for example divided by our squared.
+
+00:54.700 --> 00:57.400
+And this was also four point charges.
+
+00:57.420 --> 01:01.710
+We just put an arrow up here those quantities.
+
+01:01.710 --> 01:08.880
+Now if I place they another charge inside that electric field produced by Q1 I could have a force acting
+
+01:08.880 --> 01:09.990
+between them.
+
+01:10.040 --> 01:10.310
+All right.
+
+01:10.340 --> 01:17.700
+So we could actually also write the force as being the charge Q2 that I place inside that electric field
+
+01:18.540 --> 01:19.130
+e.
+
+01:19.500 --> 01:20.170
+Okay.
+
+01:20.190 --> 01:25.680
+And actually this is true whether we're talking about point charges or whether I'm talking about a point
+
+01:25.680 --> 01:29.390
+charge inside the field produced by a parallel plate capacitor.
+
+01:29.430 --> 01:29.610
+Right.
+
+01:29.610 --> 01:32.340
+This equation down here is actually quite general.
+
+01:32.340 --> 01:34.240
+So let me kind of highlight this one.
+
+01:34.470 --> 01:37.320
+It's kind of the general case.
+
+01:37.320 --> 01:41.670
+Now all of these quantities here are vector quantities.
+
+01:41.850 --> 01:45.690
+So they have a magnitude and a direction associated with it.
+
+01:47.070 --> 01:51.680
+Well we just focused on now was having electrical potential energy.
+
+01:52.500 --> 01:55.560
+And the formula we had for the electrical potential energy.
+
+01:55.650 --> 02:05.130
+It looked similar to the magnitude of the force except it was only divided by R instead of our squared.
+
+02:05.160 --> 02:05.660
+All right.
+
+02:05.700 --> 02:12.540
+So in order for there to be a force you need at least two charges in order for there to be electrical
+
+02:12.540 --> 02:16.420
+potential energy you need at least two charges.
+
+02:16.460 --> 02:17.000
+All right.
+
+02:17.000 --> 02:23.480
+Further to be an electric field there only needs to be one charge that produces the electric field around
+
+02:23.480 --> 02:24.640
+it.
+
+02:24.650 --> 02:29.210
+Well we're going to say now is we're going to introduce this new concept called electrical potential
+
+02:29.570 --> 02:32.510
+and we're gonna use the letter V to describe it.
+
+02:32.510 --> 02:37.380
+So it's kind of like the same principle like what happens if we only have one charge.
+
+02:37.560 --> 02:41.270
+There's not electrical potential energy because there's only one charge.
+
+02:41.440 --> 02:47.160
+But what we're gonna say is that this charge is going to produce a field around it.
+
+02:47.330 --> 02:49.470
+In this case here this is.
+
+02:49.490 --> 02:56.000
+Let me just define you here this is what we call the potential and this is going to be an example of
+
+02:56.000 --> 03:01.100
+a scalar field.
+
+03:01.220 --> 03:05.410
+It's not like electric field electric field is a vector field.
+
+03:05.450 --> 03:12.110
+It has a magnitude any direction at every point in space for the electrical potential.
+
+03:12.110 --> 03:18.370
+What we're going to have is only a number the number could be positive or negative it could be zero.
+
+03:18.460 --> 03:26.650
+We're going to find that and we're going to look at the cases for point charges for parallel plates.
+
+03:26.740 --> 03:27.220
+OK.
+
+03:27.260 --> 03:33.430
+And we're going to see how it's can actually be used to calculate the electric field.
+
+03:33.770 --> 03:39.500
+So let's go ahead and start with point charges that's the easiest case and then we'll add to this picture
+
+03:39.500 --> 03:43.250
+right here of the connection now between these four things.

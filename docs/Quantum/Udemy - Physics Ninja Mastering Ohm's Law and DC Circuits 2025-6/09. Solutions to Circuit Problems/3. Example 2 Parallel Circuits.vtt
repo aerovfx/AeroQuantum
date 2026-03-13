@@ -1,0 +1,315 @@
+WEBVTT
+
+WEBVTT
+
+00:00.590 --> 00:03.670
+Are an example to we have a parallel circuit.
+
+00:03.670 --> 00:09.720
+We have an ideal 12 volt battery applies a potential difference across this parallel combination of
+
+00:09.720 --> 00:14.760
+a four and a six ohm resistor as shown you know we have a series of questions really into this.
+
+00:14.760 --> 00:19.790
+Number one find the equivalent resistance so basically if you combine both of those.
+
+00:20.640 --> 00:24.410
+How can I combine them to form one equivalent resistance.
+
+00:24.410 --> 00:28.650
+Now I'm here you simply use the equation one over our equivalent.
+
+00:29.310 --> 00:30.510
+If there's only two.
+
+00:30.720 --> 00:34.380
+It's simply one over our one plus one over our two.
+
+00:34.380 --> 00:38.940
+That's the equivalent resistance of this network.
+
+00:38.970 --> 00:45.170
+Follow that up one over four plus one over six is one over our equivalent.
+
+00:45.270 --> 00:50.820
+Can put that on a common denominator maybe choose only 12.
+
+00:50.820 --> 00:55.030
+So this is three over 12 plus two over 12.
+
+00:55.210 --> 00:57.320
+That gives me 5 over 12.
+
+00:58.010 --> 00:58.520
+OK.
+
+00:58.710 --> 01:01.110
+So the total are equivalent now.
+
+01:01.110 --> 01:03.080
+Careful now you still have to flip that over.
+
+01:03.090 --> 01:09.630
+So it should be 12 over 5 12 over 5 ohms and get 12 over 5.
+
+01:09.630 --> 01:13.220
+Gives me 2.4.
+
+01:13.470 --> 01:13.770
+All right.
+
+01:13.770 --> 01:17.190
+So that's the equivalent resistance what's the total current now.
+
+01:17.190 --> 01:21.330
+So again you're going to have some amount of current That's again I'm not showing you the battery a
+
+01:21.330 --> 01:26.100
+lot of times they don't show you the battery or but the battery might look something like this 12 volts
+
+01:26.220 --> 01:27.880
+and you can connect it like that.
+
+01:28.260 --> 01:33.270
+So what you're going to have is you're going to have some current over here and this left most branch.
+
+01:33.480 --> 01:35.770
+That's what they're referring to the total current.
+
+01:35.910 --> 01:40.080
+After that some of their current is going to split and go through this forum resistor.
+
+01:40.140 --> 01:45.900
+Some of that current is going to continue along this and go through the six ohm resistor then recombined
+
+01:45.900 --> 01:47.910
+to give you the total current again.
+
+01:47.910 --> 01:51.160
+So what they're really asking you for is what is the total current here.
+
+01:51.540 --> 01:57.330
+But remember when we simplify this circuit using this equivalent resistance we basically have a very
+
+01:57.330 --> 01:58.340
+very simple circuit.
+
+01:58.350 --> 02:05.720
+We have a 12 volt battery and we have one equivalent resistance of 2.4 ohms.
+
+02:05.730 --> 02:06.930
+It's very easy to solve.
+
+02:06.960 --> 02:07.240
+Right.
+
+02:07.260 --> 02:11.160
+This is 2.4 this is 12 volts.
+
+02:11.370 --> 02:14.400
+The total current in this case given by ohms law.
+
+02:14.610 --> 02:19.730
+V divided by our V over r r equivalent.
+
+02:20.160 --> 02:29.940
+So at the end you get I which is 12 over 2.4 now 12 over 2.4 gives me 5 amps.
+
+02:30.950 --> 02:31.400
+OK.
+
+02:31.570 --> 02:36.450
+So that means you have 5 amps here you have five amps going through the battery you have five amps that
+
+02:36.450 --> 02:38.770
+goes all the way to this junction.
+
+02:39.000 --> 02:41.710
+That's the total current five amps.
+
+02:41.730 --> 02:44.800
+Now what's the current through each resistor.
+
+02:44.800 --> 02:45.030
+All right.
+
+02:45.030 --> 02:53.400
+The important thing now about parallel circuits is that the potential difference across every branch
+
+02:53.400 --> 02:55.920
+of the circuit must be the same.
+
+02:56.310 --> 03:01.090
+And we know what the potential differences across this branch is it's 12 volts.
+
+03:01.440 --> 03:07.450
+So that means you have to have a 12 volt potential drop across each branch of the circuit.
+
+03:07.560 --> 03:12.410
+So that means that the voltage of the battery V has to be equal to.
+
+03:12.600 --> 03:17.910
+Well if you go across this first branch across this resistor over here you have to have a voltage drop
+
+03:17.910 --> 03:19.560
+equal to the 12 volts.
+
+03:19.620 --> 03:21.580
+That's our voltage drop at 12.
+
+03:21.630 --> 03:24.750
+That must be equal to four multiplied by the current.
+
+03:24.750 --> 03:30.300
+Call it Aitu flowing then branch will be the current to maybe call this other one.
+
+03:30.300 --> 03:32.640
+I3 all right.
+
+03:32.640 --> 03:41.050
+So automatically you can write that Aitu simply 12 over 4 which gives me 3 amps.
+
+03:41.190 --> 03:41.580
+That's good.
+
+03:41.580 --> 03:45.380
+You have to have a number less than five you got five going into the junction.
+
+03:45.390 --> 03:47.930
+And now I'm going to have three that goes down here.
+
+03:47.970 --> 03:52.230
+Now we've got to find how much is going to go through the six ohm resistor again if the same thing the
+
+03:52.230 --> 03:55.890
+voltage of the battery the voltage across every branch must be the same.
+
+03:55.940 --> 03:57.390
+And that's 12.
+
+03:57.800 --> 04:01.740
+It must be six multiplied by three.
+
+04:02.070 --> 04:11.340
+In this case you automatically see that the current i3 simply 12 over 6 when you get to Imp's Hey look
+
+04:11.340 --> 04:11.580
+at that.
+
+04:11.580 --> 04:15.390
+So we get three going down here we have two going down here we have five going in.
+
+04:15.390 --> 04:16.980
+Everything works out perfectly.
+
+04:17.190 --> 04:19.720
+If you add both of those you should get five amps.
+
+04:20.300 --> 04:21.120
+OK.
+
+04:21.210 --> 04:24.030
+Next the power delivered to each resistor.
+
+04:24.030 --> 04:25.100
+So for part D.
+
+04:25.410 --> 04:30.920
+This was part C the power delivered to the four ohm resistor.
+
+04:30.930 --> 04:32.000
+Same as before.
+
+04:32.020 --> 04:35.760
+That's the value of the resistance multiplied by the current.
+
+04:35.760 --> 04:37.080
+Now which current would you choose.
+
+04:37.080 --> 04:41.400
+Now in this case you have three different values to be a little bit careful you have to choose the current
+
+04:42.030 --> 04:45.450
+flowing through that resistor we're looking at the former is this.
+
+04:45.570 --> 04:49.950
+So in this case you really have to use the three amps.
+
+04:50.030 --> 04:56.730
+Don't forget the square at the end you get nine multiplied by four you get 36 watts.
+
+04:56.930 --> 05:01.340
+That's the energy dissipated or the rate at which energy is being dissipated in this forum resistor
+
+05:01.700 --> 05:02.810
+for the 6 ohm resistor.
+
+05:02.810 --> 05:07.030
+Now power dissipated is simply 6.
+
+05:07.190 --> 05:09.480
+What is the current flowing through the 6 ohm resistor.
+
+05:09.510 --> 05:12.870
+I 3 i3 we calculate is two amps.
+
+05:12.890 --> 05:16.750
+Don't forget to square it you get four multiplied by six.
+
+05:16.760 --> 05:18.330
+Is it 24 Watts.
+
+05:19.840 --> 05:21.820
+What if you we're going to go now and add them up.
+
+05:21.820 --> 05:24.070
+What is the power supplied by the battery.
+
+05:24.070 --> 05:28.700
+Well the power supplied by the battery actually let me just do that case over here first.
+
+05:29.410 --> 05:35.530
+That's part of the power supplied by the battery by this 12 volt battery is given by the voltage of
+
+05:35.530 --> 05:37.960
+the battery multiplied by the current flowing through.
+
+05:37.960 --> 05:40.180
+In this case it's the total current.
+
+05:40.180 --> 05:42.750
+This five amps flowing through there.
+
+05:43.270 --> 05:52.880
+So that gives you 12 multiplied by five gives me 60 watts that's the total power being delivered by
+
+05:52.880 --> 05:53.750
+the battery.
+
+05:53.990 --> 05:59.780
+And notice here if you actually add the power being dissipated by both resistors what you are going
+
+05:59.780 --> 06:02.190
+to end up getting is also 60 watts.
+
+06:02.330 --> 06:08.510
+So whatever energy you're putting in per unit time is the energy being dissipated per unit time because
+
+06:08.780 --> 06:10.830
+you're not storing any energy anywhere.
+
+06:11.890 --> 06:16.000
+OK kind of a standard parallel circuit problem.
+
+06:16.000 --> 06:19.350
+Make sure you understand all the steps here and it's pretty straightforward.
+
+06:19.360 --> 06:25.290
+It's kind of easier when those only a single battery and kind of not a lot going on in this branch or
+
+06:25.300 --> 06:29.440
+you can right away right down that the voltage across each branch has to be the same and it's pretty
+
+06:29.440 --> 06:30.600
+straightforward to calculate.

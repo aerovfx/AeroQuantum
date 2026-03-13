@@ -1,0 +1,844 @@
+WEBVTT
+
+00:00.090 --> 00:02.660
+Here's some of the key information for this problem here.
+
+00:02.670 --> 00:07.800
+So we have a charged particle in this case it's going to be a proton if it's a proton.
+
+00:07.800 --> 00:13.980
+We know the charge here is given by one point six times tend to the negative 19 columns and it's a proton.
+
+00:13.980 --> 00:19.260
+Just look up this number we also know the mass of that charge which is one point six seven times tend
+
+00:19.260 --> 00:21.930
+to the negative 27 kilograms.
+
+00:21.930 --> 00:27.810
+Now I've got parallel plates that I've previously charged by connecting it to a battery and the separation
+
+00:27.810 --> 00:33.090
+between the plates is one centimeter and I have a certain amount of charge here positive charge on one
+
+00:33.090 --> 00:38.820
+plate negative charge on the other plate such that the electric field produced by these charges over
+
+00:38.820 --> 00:41.620
+here is ten thousand Nunes per Coolum.
+
+00:41.700 --> 00:41.910
+All right.
+
+00:41.910 --> 00:47.400
+The first thing to consider is what happens when this charge particles moving upward over here and it's
+
+00:47.400 --> 00:52.650
+going to enter the field region over here at some point the charge particle will enter this region over
+
+00:52.650 --> 00:53.310
+here.
+
+00:53.310 --> 00:57.070
+Now what happens when this charged particle is in the field region.
+
+00:57.150 --> 01:00.400
+The first thing you have to do is let's do a free body diagram.
+
+01:00.400 --> 01:07.050
+OK just see what are all the forces acting on this charge when it's in this electric field.
+
+01:07.070 --> 01:10.850
+OK so the free body diagram for this proton here is pretty straightforward.
+
+01:10.860 --> 01:13.050
+Let's just draw the proton over here.
+
+01:13.110 --> 01:16.100
+If you look at it first of all this is a positive charge right.
+
+01:16.110 --> 01:22.080
+It's a small positive charge little Q and when it's in that field first thing you have to realize is
+
+01:22.080 --> 01:26.290
+there's going to be an electric force acting on this charge.
+
+01:26.400 --> 01:31.680
+Electric force is a vector and that vector is going to point downward because it is being repelled by
+
+01:31.680 --> 01:36.740
+the positive charge over here and it's being attracted by the negatively charged plate.
+
+01:36.780 --> 01:41.210
+So the magnitude of this electric force is given by QE.
+
+01:41.310 --> 01:41.550
+All right.
+
+01:41.550 --> 01:42.470
+And that's really important.
+
+01:42.470 --> 01:47.940
+And the force is in the same direction as the electric field in this case because this guy here is a
+
+01:47.940 --> 01:49.080
+positive charge.
+
+01:49.080 --> 01:49.280
+Right.
+
+01:49.280 --> 01:52.440
+So we have two vectors that are in the same direction.
+
+01:52.530 --> 01:57.690
+The next thing you do now is you apply new second lot of this problem a new second law says you add
+
+01:57.690 --> 02:00.120
+up all the forces acting on that charge.
+
+02:00.180 --> 02:04.810
+In this case all the forces are in that vertical direction here and there's only one force.
+
+02:04.830 --> 02:11.230
+So when that atom all up it's simply the electric force and you add them all up that has to be equal
+
+02:11.230 --> 02:13.960
+to the mass times the acceleration.
+
+02:13.960 --> 02:19.420
+And that means that while hey the acceleration is going to be in the same direction as the electric
+
+02:19.420 --> 02:20.610
+force.
+
+02:20.710 --> 02:26.130
+So the electric saw the acceleration in this case we can get the magnitude of it.
+
+02:26.140 --> 02:31.480
+You simply have to divide through by the mass and let's substitute our value for the electric force.
+
+02:32.290 --> 02:36.100
+So at the end of the day what we end up getting is this fairly important equation over here is that
+
+02:36.100 --> 02:42.760
+the acceleration which is Q times the magnitude of the electric field and I end up dividing through
+
+02:42.760 --> 02:45.630
+by the mass over here to isolate the acceleration.
+
+02:45.820 --> 02:47.080
+And this is what I'm left with.
+
+02:48.930 --> 02:54.700
+Now we can actually get a number for acceleration here in the key point about this guy here is going
+
+02:54.700 --> 03:00.400
+to be in the same direction as the electric field because the charge is positive and mass is always
+
+03:00.400 --> 03:01.320
+positive.
+
+03:01.330 --> 03:06.070
+So really the direction of the acceleration here this is in the down direction.
+
+03:06.160 --> 03:06.680
+All right.
+
+03:06.700 --> 03:11.150
+The other important thing to consider about this problem is this guy over here right.
+
+03:11.170 --> 03:14.370
+The electric field for this problem is constant.
+
+03:14.390 --> 03:14.560
+Right.
+
+03:14.560 --> 03:17.950
+This is a constant which means it's uniform.
+
+03:17.950 --> 03:18.160
+Right.
+
+03:18.160 --> 03:22.060
+And if we're between these parallel plates the electric field is pretty much uniform.
+
+03:22.270 --> 03:26.110
+So that means that this acceleration here is also constant.
+
+03:26.110 --> 03:28.630
+It is also constant.
+
+03:28.740 --> 03:33.630
+And the reason that this is a really really important for this problem is that if the acceleration is
+
+03:33.630 --> 03:36.470
+constant we can now do simple Kitimat.
+
+03:36.500 --> 03:41.790
+So let's go ahead and set up some kid thematics for this problem to analyze the motion of the charged
+
+03:41.790 --> 03:44.870
+particle between the two parallel plates.
+
+03:44.910 --> 03:49.220
+We're gonna have two important kinetic equations here again our acceleration is constant.
+
+03:49.230 --> 03:52.430
+Here's the magnitude the direction we know is down.
+
+03:52.620 --> 03:56.590
+So the kinetic equations are going to be a number one and number two here.
+
+03:56.610 --> 04:00.980
+Number one let's just look at the vertical displacement of this charge particle.
+
+04:01.020 --> 04:05.550
+That's the Y position y position is going to be equal to y 0.
+
+04:05.850 --> 04:08.880
+Plus the initial velocity multiplied by time.
+
+04:09.120 --> 04:14.040
+And I'm just gonna stick a negative front in this in the front of the acceleration turn because it's
+
+04:14.040 --> 04:17.480
+slowing down and the acceleration is down.
+
+04:17.530 --> 04:22.700
+It's in the down direction and I'm defining that down direction to be the negative direction.
+
+04:22.740 --> 04:22.950
+All right.
+
+04:22.950 --> 04:26.600
+This is my coordinate system here for this particular problem.
+
+04:26.610 --> 04:30.300
+Everything pointing up is positive everything pointing down is negative.
+
+04:30.300 --> 04:32.850
+So I've just taken that out of the equation.
+
+04:32.880 --> 04:37.340
+The other thing we need to know for this problem is what is the velocity of the charge particle.
+
+04:37.350 --> 04:43.470
+Right when it enters this field region its velocity was initially going up but since the acceleration
+
+04:43.470 --> 04:47.350
+is down that means that the charge will slow down.
+
+04:47.360 --> 04:48.040
+OK.
+
+04:48.150 --> 04:53.690
+It's going to slow down and the expression for the velocity is simply going to be like this.
+
+04:53.700 --> 04:59.790
+The initial velocity and again I'll just take the negative sign out multiplied by acceleration times
+
+04:59.790 --> 05:04.980
+time and now you could see that having this negative sign here is really going to make the velocity
+
+05:05.010 --> 05:08.910
+kind of slow down as time increases.
+
+05:08.910 --> 05:09.170
+All right.
+
+05:09.210 --> 05:15.900
+So we have our two equations and now what we want here is we want our maximum displacement in the y
+
+05:15.900 --> 05:22.260
+velocity we actually want the charge particle to actually come and just touch the plate and then come
+
+05:22.260 --> 05:23.970
+back down like this.
+
+05:24.360 --> 05:31.960
+So what we want here really is that our y displacement for this problem is what we want.
+
+05:32.080 --> 05:41.320
+We want delta y which is my final minus the initial we want this to be the spacing between the plates.
+
+05:42.010 --> 05:42.880
+That's really important.
+
+05:42.880 --> 05:47.950
+And the other important thing to do is if we want the charge particle to reach this point there is also
+
+05:47.950 --> 05:49.570
+something else that's going to happen here.
+
+05:49.570 --> 05:53.760
+So what happens is is going really fast it starts the slow down slow down slow down.
+
+05:53.950 --> 06:02.050
+Up until it reaches this point at this maximum y displacement we want the vertical velocity here to
+
+06:02.050 --> 06:03.690
+be equal to zero.
+
+06:03.730 --> 06:05.770
+Right right at the turnaround point.
+
+06:05.770 --> 06:10.660
+And then after it's going to start speeding up it's speeding up in the down direction.
+
+06:10.660 --> 06:15.970
+So right at this point here this is really important expression here is that our vertical velocity has
+
+06:15.970 --> 06:17.960
+to be equal to zero.
+
+06:17.980 --> 06:24.090
+So now if we go back here and consider our equation to Well if you substitute now v y is equal to zero
+
+06:24.100 --> 06:29.080
+what you can do is you can find how much time it takes for this charge particle to slow down and to
+
+06:29.080 --> 06:32.170
+reach this point over here.
+
+06:32.170 --> 06:34.610
+So let's go ahead and do that we can calculate that.
+
+06:34.630 --> 06:35.740
+And what you're going to find here.
+
+06:35.740 --> 06:43.180
+So go and substitute it into equation 2 We want zero equal to my initial velocity and minus the acceleration
+
+06:43.180 --> 06:49.900
+times time and now what I do is simply substitute the expression for the acceleration that expression
+
+06:49.900 --> 06:55.810
+for acceleration was the magnitude of the charge magnitude of the field divided by the mass and multiplied
+
+06:55.810 --> 06:57.040
+by the time.
+
+06:57.130 --> 07:00.300
+So at the end the time for the velocity to reach zero.
+
+07:00.300 --> 07:01.920
+You simply have to do a little bit of algebra.
+
+07:01.930 --> 07:08.310
+Now bring this on the other side and divide through by this term here in the bracket.
+
+07:08.410 --> 07:15.150
+I'm going to rearrange things a little bit and my expression is going to look like this so this is how
+
+07:15.150 --> 07:19.590
+much time it takes for the velocity to be equal to zero.
+
+07:20.600 --> 07:20.810
+All right.
+
+07:20.810 --> 07:25.610
+The next thing we want to do now is well we know what our vertical displacement is.
+
+07:25.700 --> 07:28.750
+All we have to do now is go back to equation 1.
+
+07:28.810 --> 07:32.000
+Now we have the time now that we could substitute in here.
+
+07:32.150 --> 07:37.190
+And my goal now will be simply to solve what is that initial velocity so that it makes it all the way
+
+07:37.190 --> 07:38.240
+to the other plate.
+
+07:38.270 --> 07:42.030
+So let's go ahead on the other page and do this math all right.
+
+07:42.030 --> 07:47.460
+The next thing we want and now is we wanted our vertical displacement rewrite equation one over here.
+
+07:47.470 --> 07:53.190
+This tells me my y position equals the initial position plus initial velocity times.
+
+07:53.190 --> 07:57.480
+Time and again minus one half 80 squared.
+
+07:57.480 --> 08:06.590
+And really what we want in this case we want our delta y to be equal to the spacing between the plates.
+
+08:06.590 --> 08:07.810
+So let's go ahead and do that.
+
+08:07.880 --> 08:11.710
+If we do that is bring this guy on the other side and that becomes delta y.
+
+08:11.710 --> 08:15.450
+All right delta y is always a Y minus some initial value.
+
+08:15.860 --> 08:20.870
+So let's simplify equation 1 so we get that the distance between the plates and this is really what
+
+08:20.870 --> 08:28.510
+we want time minus one half a T squared now the next thing we have remember is how much time it takes
+
+08:28.510 --> 08:30.400
+for when the velocity equals to zero.
+
+08:30.400 --> 08:30.580
+Right.
+
+08:30.580 --> 08:33.920
+And we just want that charge particle to reach the other plate.
+
+08:33.940 --> 08:38.330
+So all you have to do now is simply substitute the time for our expression up above.
+
+08:38.330 --> 08:38.900
+Okay.
+
+08:38.980 --> 08:41.230
+And you could also substitute acceleration for now.
+
+08:41.230 --> 08:43.450
+Let me just kind of do it this way.
+
+08:43.570 --> 08:48.820
+Let's go over here so we have the distance between the plates.
+
+08:48.880 --> 08:55.210
+I'll just keep the v y over here and for my expression for time now rather than doing the second expression
+
+08:55.210 --> 09:00.700
+let's just start off with just this one v zero divided by the acceleration that'll make the math a little
+
+09:00.700 --> 09:01.560
+bit easier.
+
+09:01.630 --> 09:04.860
+We won't have so many variables to tackle over here.
+
+09:04.960 --> 09:07.070
+Let's keep acceleration like this.
+
+09:07.240 --> 09:13.270
+And now we have this T squared and T again is initial velocity divided by acceleration and we square
+
+09:13.270 --> 09:14.640
+that term.
+
+09:14.680 --> 09:21.970
+Now you do a little bit of algebra what you end up getting is you get v 0 squared divided by a and then
+
+09:21.970 --> 09:23.250
+minus one half.
+
+09:23.260 --> 09:28.540
+And if you look at this other term here this becomes a and this becomes v zero squared and this becomes
+
+09:28.660 --> 09:30.100
+a squared.
+
+09:30.270 --> 09:33.880
+I have a look at this term you have an a here and you have two of them over here so you can get rid
+
+09:33.880 --> 09:39.800
+of one and these two terms are exactly the same except the second one has a coefficient of 1 1/2 in
+
+09:39.790 --> 09:40.960
+the front of it.
+
+09:41.050 --> 09:51.340
+So at the end this is our expression for our displacement is 1 1/2 v 0 squared divided by acceleration.
+
+09:51.340 --> 09:51.550
+All right.
+
+09:51.550 --> 09:56.620
+And remember our problem right the acceleration for this problem we know what it was the acceleration
+
+09:56.620 --> 10:03.220
+was pretty straightforward It was the charge multiplied by the electric field and divided by the mass
+
+10:03.220 --> 10:05.790
+and rather than putting the mass kind of down below.
+
+10:05.950 --> 10:10.480
+If I'm dividing I could just bring it to the top over here and this is my final expression over here
+
+10:10.480 --> 10:15.250
+for the distance between the plates which I know.
+
+10:15.460 --> 10:19.380
+So the only unknown now in this problem is what is v zero.
+
+10:19.390 --> 10:23.530
+So we have to do a little bit of math over here just isolate the V zero you bring a couple terms over
+
+10:23.530 --> 10:25.090
+to the other side.
+
+10:25.090 --> 10:30.980
+Divide by the mass and then take the square root of everything and this is what we end up getting.
+
+10:31.010 --> 10:35.770
+So v zero end up the square root of a whole bunch of different terms here.
+
+10:35.840 --> 10:43.550
+So we get to Q The distance between the plates multiplied by the electric field and all of this gets
+
+10:43.550 --> 10:47.210
+divided by by the mass all right here.
+
+10:47.210 --> 10:48.430
+Here we have it folks.
+
+10:48.460 --> 10:55.090
+So this would be the velocity such that if you give that charged particle that proton this velocity
+
+10:55.090 --> 11:01.380
+over here you're gonna end up that the charge particle is just going to make it to the other side.
+
+11:01.410 --> 11:04.650
+Okay so all you have to do now is simply substitute in the numbers.
+
+11:04.780 --> 11:05.790
+Let's go ahead and do that.
+
+11:06.810 --> 11:10.030
+You substitute the numbers over here we get kind of a big expression.
+
+11:10.270 --> 11:19.460
+We'll get to one point six times ten to the negative 19 the distance between the plates was 1 centimeter.
+
+11:19.550 --> 11:22.520
+So this is zero point zero one meter.
+
+11:22.520 --> 11:23.420
+What else.
+
+11:23.420 --> 11:28.070
+The electric field was 10000 10000 Newtons per cool.
+
+11:28.120 --> 11:31.660
+That's already an S.I. units we don't have to convert anything in the last part.
+
+11:31.660 --> 11:38.490
+Here was the mass the mass is one point six seven times ten to the negative twenty seven kilograms.
+
+11:38.500 --> 11:41.110
+Put that all put all of that in the calculator.
+
+11:41.230 --> 11:45.690
+You should get something like this one point three eight times tend to the five.
+
+11:45.910 --> 11:48.880
+And again that will be in meters per second.
+
+11:48.880 --> 11:49.300
+All right.
+
+11:49.300 --> 11:51.470
+I have everything here in S.I. units.
+
+11:51.550 --> 11:55.690
+So if that charge particle has this particular velocity here which is just a number here at the end
+
+11:55.690 --> 12:00.490
+of the day it's actually going to just make it to the other plate and then turn around and then come
+
+12:00.490 --> 12:01.570
+back.
+
+12:01.600 --> 12:04.080
+Let's go ahead and see how we can set this problem up.
+
+12:04.090 --> 12:11.240
+Now using conservation of energy right to solve this problem using conservation of energy let's consider
+
+12:11.240 --> 12:16.970
+that this bottom plate position is going to be my initial position and this top plate here is my final
+
+12:16.970 --> 12:18.080
+position.
+
+12:18.080 --> 12:22.980
+And what we have here is that the total energy at this point has to be equal to the total energy at
+
+12:22.980 --> 12:24.680
+my final position.
+
+12:24.680 --> 12:29.990
+So initially what we have is a lot of kinetic energy and we're going to be moving in a region where
+
+12:29.990 --> 12:31.560
+there's an electric field.
+
+12:31.610 --> 12:34.980
+Guess what we're also going to have some electrical potential energy.
+
+12:35.030 --> 12:43.060
+When I first enter this field region and as I move now toward the other plate and once my I reached
+
+12:43.070 --> 12:49.850
+the other side and if I just kind of turn around over here that means that my velocity or my speed is
+
+12:49.850 --> 12:52.040
+zero once I'm at the other plate.
+
+12:52.040 --> 12:54.610
+So my final kinetic energy over here at the top.
+
+12:54.610 --> 12:59.470
+K. final Allen's easy that has to be equal to zero.
+
+12:59.780 --> 13:01.940
+And that energy had to go somewhere.
+
+13:01.940 --> 13:08.170
+So actually it's going to be converted into electrical potential energy which I'm going to call you
+
+13:08.170 --> 13:09.760
+final.
+
+13:09.760 --> 13:13.150
+So the initial kinetic energy is really straightforward.
+
+13:13.150 --> 13:19.450
+I simply have a charge particle a proton it's moving so that guy always the same thing one half mass
+
+13:19.450 --> 13:23.040
+of that charge multiplied by that initial velocity.
+
+13:23.300 --> 13:26.830
+And let's just rewrite all of these other terms and you final.
+
+13:26.860 --> 13:29.330
+So there's no final kinetic energy for this problem.
+
+13:29.350 --> 13:34.530
+So all we really have to do is evaluate what is this potential energy over here.
+
+13:34.600 --> 13:34.810
+All right.
+
+13:34.810 --> 13:40.990
+Potential energy if you remember now from your class you probably saw that the potential energy of a
+
+13:40.990 --> 13:47.290
+charged particle in this case the charges Q or remember this little guy over here had a charge q and
+
+13:47.290 --> 13:52.660
+I'm placing it now in a region where there's an electric field the amount of energy that a charge has
+
+13:52.660 --> 14:00.250
+when it's in a region of electric field can be written as this it's the charge multiplied by the value
+
+14:00.250 --> 14:01.940
+of the electrical potential.
+
+14:01.990 --> 14:02.350
+Right.
+
+14:02.830 --> 14:04.660
+So this guy here is electrical potential
+
+14:09.860 --> 14:15.770
+This is the value of the charge and this is how much energy you have at least potential energy.
+
+14:15.900 --> 14:19.220
+So our goal now is what we need to calculate.
+
+14:19.230 --> 14:21.020
+What is this value.
+
+14:21.090 --> 14:23.340
+What is the value of V.
+
+14:23.340 --> 14:24.940
+When I am close to this plate.
+
+14:24.960 --> 14:29.590
+So what is the value of V initial over here and what is the value of V final.
+
+14:29.610 --> 14:35.280
+If I know that I can calculate both of these potential energy terms and then simply solve for that initial
+
+14:35.280 --> 14:35.900
+velocity.
+
+14:36.630 --> 14:42.900
+So carefully I am using an uppercase V to note the electrical potential versus the initial velocity
+
+14:42.900 --> 14:45.380
+here which is lowercase v zero.
+
+14:45.480 --> 14:45.770
+All right.
+
+14:45.780 --> 14:47.690
+So how do we relate that.
+
+14:47.700 --> 14:50.380
+And this is pretty simple for parallel plates.
+
+14:50.400 --> 14:50.600
+OK.
+
+14:50.610 --> 14:57.210
+So you're to write this down the expression that I'm writing down here is only valid for parallel plates.
+
+14:57.210 --> 14:59.120
+So don't try to use it for point charges.
+
+14:59.130 --> 15:04.670
+Don't try to use it for cylinders and for this case it's pretty simple it simply says that.
+
+15:04.870 --> 15:09.040
+Again remember how would we actually obtain the system we would plug it into a battery.
+
+15:09.090 --> 15:09.660
+Right.
+
+15:09.870 --> 15:15.570
+You'd plug it into a battery and the voltage difference between the battery I can write as V file minus
+
+15:15.570 --> 15:16.860
+V initial.
+
+15:16.920 --> 15:24.140
+This is the potential difference of that of the terminals of this battery that there simply equals two
+
+15:24.150 --> 15:29.760
+and I'm just writing it as the magnitude here as I call this Ed's formula because it's simply e the
+
+15:29.760 --> 15:34.810
+magnitude of the electric field multiplied by the distance between the plates.
+
+15:34.830 --> 15:40.800
+So in this case here if I have ten thousand a nuance per column and the distance between the plates
+
+15:41.140 --> 15:45.080
+I had previously said that the distance between the plates we call it D.
+
+15:45.540 --> 15:52.310
+And that was one centimeter so if I go ahead here and multiply this by convert it to meters which you
+
+15:52.310 --> 15:57.140
+end up getting here is one hundred volts.
+
+15:57.370 --> 15:59.110
+That's the difference of potential.
+
+15:59.500 --> 16:04.300
+So that might mean here that the difference has to be one hundred so he might have this one here at
+
+16:04.300 --> 16:10.030
+plus fifty volts and you might have this one here at negative fifty volts right so that would mean that
+
+16:10.030 --> 16:16.810
+the difference v final minus V initial over here 50 minus minus fifty would give me one hundred volts.
+
+16:16.810 --> 16:19.980
+So now let's go ahead and do that just substitute our values over here.
+
+16:20.080 --> 16:25.900
+Let's go back to the expression for conservation of energy and all we really want to do now is substitute
+
+16:25.900 --> 16:28.820
+our expressions for the electrical potential energy.
+
+16:28.990 --> 16:33.700
+So we have our kinetic energy one half and the initial squared.
+
+16:33.700 --> 16:39.790
+Now the initial potential energy as I enter the field region is the charge q multiplied by the value
+
+16:39.790 --> 16:41.290
+of that potential.
+
+16:42.340 --> 16:48.520
+And that there has to be equal to the final potential energy so it's the charge q minus V.
+
+16:48.520 --> 16:50.510
+Final.
+
+16:50.530 --> 16:53.640
+Now you have to do a little bit of algebra too because our goal was the final.
+
+16:53.650 --> 16:57.390
+How fast do I have to put this charge in the field region.
+
+16:57.430 --> 16:59.380
+So let's go ahead and do that.
+
+16:59.830 --> 17:07.180
+So I'm going to bring this term on the other side so this becomes Q This is v final minus V initial
+
+17:07.680 --> 17:07.880
+right.
+
+17:07.900 --> 17:13.990
+This is the difference of potential between both of those plates which we just said was 100 volts and
+
+17:13.990 --> 17:18.690
+all of this here has to be equal to my initial kinetic energy.
+
+17:18.910 --> 17:23.040
+And now again you do a little bit of algebra because my goal was to find v zero.
+
+17:23.470 --> 17:26.280
+So there's gonna be a square root term over here.
+
+17:26.400 --> 17:29.210
+S we're gonna have the square root.
+
+17:29.210 --> 17:36.490
+I bring the two over next door I get to Q The difference of potential which is call that delta v and
+
+17:36.510 --> 17:39.330
+again divided by the mass m.
+
+17:39.390 --> 17:44.010
+Now this expression might look a little bit different from the previous one because the previous one
+
+17:44.010 --> 17:47.810
+remember I had it in terms of the electric field and the distance D.
+
+17:47.820 --> 17:51.130
+However that's what this guy is right here.
+
+17:51.210 --> 17:55.860
+So if you go back and you substitute that you're gonna get the exact same expression as we previously
+
+17:55.860 --> 18:00.390
+had in that when I know the value you substitute all these values here you're going to get one point
+
+18:00.390 --> 18:02.730
+three eight times 10 to the five.
+
+18:02.730 --> 18:08.370
+And again that is going to be in meters per second I'm working in s units over here and that's it.
+
+18:08.400 --> 18:11.610
+That's how you would do this problem now using conservation of energy.
+
+18:11.700 --> 18:17.160
+I think the key is really just finding what this difference of voltages between the plates and you can
+
+18:17.160 --> 18:17.610
+do that.
+
+18:17.610 --> 18:23.550
+Using this Ed's formula what I call and again the key to remember here is that this formula here is
+
+18:23.550 --> 18:31.650
+only valid for parallel plates if you have different systems of charge for example charged cylinders
+
+18:31.860 --> 18:35.520
+the expression is going to look a little bit different than the simple expression.
+
+18:35.520 --> 18:41.410
+The reason it looks so simple for parallel plates is because the electric field is uniform here.
+
+18:41.460 --> 18:46.200
+So that means that the voltage varies linearly with distance between the plates.

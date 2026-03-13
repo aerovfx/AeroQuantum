@@ -1,0 +1,126 @@
+WEBVTT
+
+WEBVTT
+
+00:00.120 --> 00:05.790
+A writer's concept check for the same circuit as before but the question is a little bit different says
+
+00:05.790 --> 00:08.660
+consider the circuit here which statement is correct.
+
+00:08.910 --> 00:15.690
+So there's three statements that says that the current in the segment A B is equal to the current in
+
+00:15.690 --> 00:17.660
+B and B c.
+
+00:17.670 --> 00:21.900
+So here's the segment ab so we can call this current over here.
+
+00:22.410 --> 00:30.640
+Let's call it I A B and then we're going to call this current down over here in this branch.
+
+00:30.690 --> 00:37.390
+Here's the current IBD and here's the current and this branch through the thousand ohm resistor.
+
+00:37.470 --> 00:41.800
+This here's the current b c OK and we know here we have a junction rule.
+
+00:42.140 --> 00:46.730
+And the other two statements simply tell you that they compare the currents that compare the current
+
+00:46.730 --> 00:51.250
+through the 10 home and then compare it to the current in 1000 ohm resistor.
+
+00:51.290 --> 00:52.460
+So which statement is correct.
+
+00:52.460 --> 00:57.890
+Well again you would probably start by writing the junction rule and you could see that statement 1.
+
+00:57.980 --> 00:59.640
+It really is the junction.
+
+00:59.640 --> 01:02.710
+All right that's Kirchoff's current law right.
+
+01:02.720 --> 01:09.120
+The junction will whatever curve flows into the junction has to be the current flowing out of the junction.
+
+01:09.140 --> 01:10.380
+So definitely one.
+
+01:10.380 --> 01:15.230
+All right so we can actually eliminate some choices right to only Knobe three only.
+
+01:15.230 --> 01:17.090
+So one has to be in there.
+
+01:17.090 --> 01:22.070
+So it's either one by itself or it's one in one of these other two choices.
+
+01:22.070 --> 01:28.010
+So let's compare these other two choices compare the current through the 10 ohm and the current through
+
+01:28.010 --> 01:30.010
+the thousand ohm.
+
+01:30.050 --> 01:37.460
+Now the one thing we should know is that the voltage between points again voltage between points Biondi
+
+01:38.090 --> 01:44.720
+must be equal to the voltage between Point B and C and that is because they are in parallel with each
+
+01:44.720 --> 01:45.580
+other.
+
+01:46.180 --> 01:52.030
+If you have two resistors in parallel the voltage across each one must be the same.
+
+01:52.040 --> 01:53.700
+So now let's just carry this out.
+
+01:53.690 --> 02:01.300
+The voltage across the resistor simply 10 multiplied by the current going through it.
+
+02:01.330 --> 02:08.560
+BD and this here must be equal to the voltage across the thousand ohm resistor Well that's the value
+
+02:08.560 --> 02:12.510
+of the resistance multiplied by the current flowing through it.
+
+02:12.550 --> 02:16.990
+B C So automatically you see that the current.
+
+02:16.990 --> 02:20.380
+Now if you look at the statements over here they say one is bigger than the other.
+
+02:20.590 --> 02:25.120
+Well think about it if you're current over here there's going to be way more current flowing through
+
+02:25.120 --> 02:28.180
+the 10 ohm resistor than the thousand ohm resistor.
+
+02:28.180 --> 02:30.950
+There's a little less resistance over here right.
+
+02:31.060 --> 02:35.710
+And that's what this equation tells us it tells us that the current B-D if you bring the 10 on the other
+
+02:35.710 --> 02:40.990
+side it's going to be a hundred times the current through B C.
+
+02:40.990 --> 02:47.970
+So the real statement here is the current here must be bigger than the current b c.
+
+02:48.820 --> 02:51.480
+So there are two statements that are correct.
+
+02:51.520 --> 02:57.480
+The first one in question to you over here or sorry statement number two over here is also correct.
+
+02:57.490 --> 03:00.380
+So one and two are correct.
+
+03:00.760 --> 03:02.370
+Three is incorrect.

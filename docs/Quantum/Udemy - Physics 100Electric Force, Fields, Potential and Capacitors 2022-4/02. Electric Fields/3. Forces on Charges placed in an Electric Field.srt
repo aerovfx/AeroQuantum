@@ -1,0 +1,220 @@
+WEBVTT
+
+00:00.260 --> 00:05.960
+So we saw the field produced by a single point charged Q1 has a magnitude like this.
+
+00:06.120 --> 00:13.260
+The direction is away from positive point charge and toward negative charges.
+
+00:13.260 --> 00:13.920
+All right.
+
+00:13.940 --> 00:15.990
+Now what else do we know.
+
+00:16.080 --> 00:21.000
+This is really the key this is the most important equation you're going to see in this class here is
+
+00:21.000 --> 00:31.680
+that the force on any charge q is write it out like this F as a vector is equal to.
+
+00:31.680 --> 00:34.440
+Again it's the charge that I'm looking at.
+
+00:34.440 --> 00:36.220
+I want to find the force on this charge.
+
+00:36.220 --> 00:41.220
+Q multiplied by the electric field at that position.
+
+00:41.580 --> 00:46.080
+If I know again this here is I might just make some notes.
+
+00:46.080 --> 00:47.880
+He is the electric field
+
+00:53.670 --> 00:55.040
+at position
+
+00:58.120 --> 00:58.870
+of the charge.
+
+00:58.880 --> 00:59.290
+Q
+
+01:04.730 --> 01:06.280
+All right let's look at a couple of cases here.
+
+01:06.280 --> 01:07.360
+Let's look at.
+
+01:07.360 --> 01:12.100
+Imagine we have is somebody told you there was a an electric field somewhere in space.
+
+01:12.100 --> 01:14.100
+Let's take this case right here.
+
+01:14.570 --> 01:21.310
+I'm going to assume here that somehow there is something that is producing an electric field that is
+
+01:21.310 --> 01:22.580
+like this.
+
+01:23.290 --> 01:27.160
+Now what happens if I place a positive charge right here.
+
+01:27.160 --> 01:32.960
+How would you draw the direction of the force acting on this particular charge.
+
+01:33.340 --> 01:40.390
+For now I'm going to assume that the magnitude here is one hundred newtons per Coolum and that the field
+
+01:40.390 --> 01:41.820
+is uniform.
+
+01:41.830 --> 01:48.250
+We have a constant field all right everywhere in space.
+
+01:48.250 --> 01:54.820
+The charge here that I'm going to consider is going to be a positive three Coolum charge.
+
+01:54.820 --> 01:59.710
+How would I calculate the force in which direction with the force being.
+
+01:59.970 --> 02:05.620
+Well to calculate the force I'm just going to use my equation right here right the force acting on cue
+
+02:06.930 --> 02:14.050
+let's do it in green and blue over here is simply the charge which is three multiplied by the electric
+
+02:14.050 --> 02:18.510
+field right here at this position the electric field is 100.
+
+02:18.670 --> 02:22.990
+In this case I would have a force of 300 Newtons.
+
+02:23.170 --> 02:29.170
+So what would be the direction here of the force if I look at my equation right here see the force here
+
+02:29.170 --> 02:35.320
+is a vector and it multiplies a scalar which is the charge multiplied by another vector.
+
+02:35.320 --> 02:38.350
+Remember this guy here is a vector.
+
+02:38.650 --> 02:40.930
+And again I've given you the direction of that vector.
+
+02:41.380 --> 02:48.070
+So if the charge is positive it means that the force is going to be in the same direction as the field
+
+02:48.520 --> 02:52.740
+because all I'm doing is I'm multiplying it by a positive number right here.
+
+02:52.780 --> 02:58.160
+I have a vector E which is pointing like this and I'm multiplying it by some positive number.
+
+02:58.180 --> 02:59.700
+In this case it's three.
+
+02:59.710 --> 03:03.280
+So here I would have a force that would be like this.
+
+03:03.280 --> 03:07.300
+And the magnitude of that force would be three hundred Newtons.
+
+03:07.300 --> 03:13.250
+So that way I would write this would be three hundred Newtons and maybe in the x direction.
+
+03:13.360 --> 03:15.810
+That's how I would write it as a vector.
+
+03:15.820 --> 03:22.660
+All right what if instead if I had a negative charge over here a negative charge and I place that negative
+
+03:22.660 --> 03:25.050
+charge in the same electric field.
+
+03:25.190 --> 03:29.080
+Now let's imagine that this guy here is negative five Coolum.
+
+03:29.080 --> 03:32.410
+That's the value of the charge q in this case.
+
+03:32.560 --> 03:35.000
+So how would I calculate the force.
+
+03:35.050 --> 03:38.990
+Well again if I'm only interested in the magnitude of the force.
+
+03:39.260 --> 03:43.110
+So a lot of times when I use this equation I really just put the magnitude in.
+
+03:43.120 --> 03:45.630
+So here I would just put the magnitude which is five.
+
+03:45.640 --> 03:54.220
+That's the charge and the feel that it's the feel that at this position right here is simply it's the
+
+03:54.220 --> 03:57.110
+same feel it's 100 newtons per column.
+
+03:57.130 --> 04:02.150
+So this here would be a magnitude of 500 Newtons would be the magnitude of the force.
+
+04:02.350 --> 04:06.220
+Which direction now would you actually draw that force.
+
+04:06.220 --> 04:12.210
+Well again it would have to be in this direction right here.
+
+04:12.220 --> 04:17.990
+This here would be the direction of the force the magnitude here would be 500.
+
+04:18.550 --> 04:22.890
+If you decide to put the negative sine you're going to get negative five hundred.
+
+04:23.290 --> 04:23.910
+And that's OK.
+
+04:23.920 --> 04:29.650
+That's because you assume that the positive direction is everything pointing here to the right which
+
+04:29.650 --> 04:32.350
+is why you had a little positive over here.
+
+04:32.910 --> 04:35.170
+Negative simply tells me the direction.
+
+04:35.170 --> 04:41.420
+So this means that four negative charges the force is always opposite of the electric field.
+
+04:41.650 --> 04:42.990
+So that's really really important.
+
+04:43.920 --> 04:44.450
+OK.
+
+04:44.470 --> 04:45.820
+So let's go see over here.
+
+04:45.820 --> 04:57.800
+So four positive charges four positive cues the f is parallel to the electric field.
+
+04:58.040 --> 05:08.790
+Let's write it down for negative charges for negative charges for negative cues the f is a..
+
+05:08.790 --> 05:14.280
+Parallel to electric field actually let me just right opposite.
+
+05:14.280 --> 05:17.100
+I think that's kind of clear is
+
+05:20.090 --> 05:20.750
+opposite.
+
+05:20.870 --> 05:26.540
+Exactly 180 degrees of the electric field at that position.
+
+05:26.900 --> 05:29.080
+That's kind of what this illustrates right here.

@@ -1,0 +1,174 @@
+WEBVTT
+
+WEBVTT
+
+00:00.150 --> 00:01.930
+All right here's problem 23.
+
+00:02.100 --> 00:06.300
+It's the same surgery as before so rather than kind of redoing everything.
+
+00:06.300 --> 00:11.680
+I'm just going to remember that I have two amps kind of flowing over here two amps.
+
+00:11.900 --> 00:12.420
+OK.
+
+00:12.840 --> 00:17.780
+So now they want to know what is the potential difference across the tool resistor.
+
+00:18.270 --> 00:25.190
+Well let's imagine now if you connected a volt meter right across here what would be the measurement
+
+00:26.930 --> 00:32.880
+that's simply given by Ohm's law you know the value of the resistance is to voltage across any resistor
+
+00:32.910 --> 00:37.830
+is the value of the resistance multiplied by how much current is flowing through it.
+
+00:37.880 --> 00:41.300
+In this case it's 2 ohms multiplied by two amps.
+
+00:41.310 --> 00:43.580
+You should measure four volts.
+
+00:43.590 --> 00:51.440
+Correct answer is C doesn't it any easier than that our problem 24.
+
+00:51.600 --> 00:56.310
+What is the power dissipated appear through this resistor much power is dissipated.
+
+00:56.460 --> 01:01.110
+So power dissipated that you need to know the voltage across that resistor and you need to know how
+
+01:01.110 --> 01:01.740
+much current.
+
+01:01.740 --> 01:03.540
+We don't know any of those.
+
+01:03.840 --> 01:04.860
+Right.
+
+01:04.920 --> 01:08.350
+What else we can rewrite this equation is our eyes squared.
+
+01:08.400 --> 01:09.980
+Well that's pretty good.
+
+01:09.980 --> 01:14.670
+If we knew the current flowing through this resistor we know the value of r is 6 we can calculate how
+
+01:14.670 --> 01:16.830
+much power is being dissipated.
+
+01:16.830 --> 01:18.000
+So how do we get the current.
+
+01:18.010 --> 01:20.220
+Well a lot of different ways to do that.
+
+01:20.260 --> 01:25.710
+Again it's the same circuit as the previous two problems so we've already found that we have two amps
+
+01:26.460 --> 01:30.900
+kind of going into the junction and that's not necessarily to going up here right cause some of that
+
+01:30.900 --> 01:32.880
+current is going to be split.
+
+01:32.880 --> 01:37.500
+So what we're going to do here is I'm going to call the current over here I want and I'm going to call
+
+01:37.500 --> 01:40.440
+the current in the bottom branch too.
+
+01:41.610 --> 01:48.000
+And we know there's two amps going in that's going to be the current is two going in.
+
+01:48.400 --> 01:48.910
+OK.
+
+01:49.110 --> 01:59.160
+So the junction rule up there simply says that two must be equal to I one plus i'd two.
+
+01:59.190 --> 02:00.410
+All right I need something else.
+
+02:00.420 --> 02:02.110
+I don't have enough information yet.
+
+02:02.270 --> 02:06.900
+Now the other thing I know is that whatever the voltage is across this branch has to be the same voltage
+
+02:06.900 --> 02:10.270
+across that branch because they are in parallel with each other.
+
+02:10.410 --> 02:16.330
+So the voltage across the six ohm resistor is six multiplied by one.
+
+02:16.490 --> 02:20.980
+That must be equal to 12 multiplied by two.
+
+02:21.900 --> 02:22.160
+All right.
+
+02:22.160 --> 02:25.020
+Now we have two equations in two unknowns.
+
+02:25.020 --> 02:27.060
+What we can do here is simplify.
+
+02:27.060 --> 02:34.980
+You can write that to simply going to be one half of one.
+
+02:35.000 --> 02:38.420
+Now go ahead and substitute that into this equation.
+
+02:38.420 --> 02:45.490
+When you're left with two equals to I one plus one half of 1.
+
+02:46.170 --> 02:50.230
+You can sum both of those three halfs.
+
+02:50.700 --> 02:50.900
+All right.
+
+02:50.910 --> 02:55.980
+It's at the end we're left with the current I want that's the current flowing through the 6 ohm resistor.
+
+02:56.070 --> 03:04.050
+Bring the two over here of the four divided by three four thirds.
+
+03:04.110 --> 03:06.250
+Now what I've done we want to know the power.
+
+03:06.690 --> 03:08.570
+So let's go back to our power equation.
+
+03:08.810 --> 03:10.310
+Just kind of do it over here.
+
+03:10.470 --> 03:16.710
+So the power dissipated in there is this there is the value of the resistance which is six multiplied
+
+03:16.710 --> 03:22.880
+by the current flowing through it which is four thirds.
+
+03:22.950 --> 03:23.300
+All right.
+
+03:23.310 --> 03:27.320
+So at the end we're left with six multiplied by 16 divided by nine.
+
+03:27.330 --> 03:29.550
+I'm not going to try to do that in my head.
+
+03:29.550 --> 03:35.490
+You substitute that in your calculator you should get ten point seven watts correct answer for this
+
+03:35.490 --> 03:36.530
+one choice.
+
+03:36.540 --> 03:43.650
+A few extra steps here because we needed to find what the current was flowing through the 6 ohm resistor.

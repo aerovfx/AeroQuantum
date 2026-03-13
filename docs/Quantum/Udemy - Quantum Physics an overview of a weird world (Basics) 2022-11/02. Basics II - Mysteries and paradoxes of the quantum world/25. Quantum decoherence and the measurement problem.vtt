@@ -1,0 +1,867 @@
+WEBVTT
+
+WEBVTT
+
+00:00.960 --> 00:07.230
+This is a somewhat more advanced lecture on decoherence and quantum decoherence and the measurement
+
+00:07.230 --> 00:15.180
+problem where we will make a bit more use of a formal mathematical description, if you feel uncomfortable
+
+00:15.180 --> 00:18.940
+with this, you can eventually also skip this single lecture.
+
+00:19.530 --> 00:25.280
+It is not so necessary for the understanding of the content or content of the following lectures.
+
+00:26.100 --> 00:32.880
+However, it is important for those who will eventually continue to research further in the quantum
+
+00:32.880 --> 00:38.900
+philosophical domain, so to speak, especially that concerned with the measurement measurement problem.
+
+00:39.810 --> 00:45.630
+It is also interesting in the sense that it represents still an unsolved problem of quantum physics,
+
+00:45.780 --> 00:54.060
+at least from the more philosophical foundational point of view, and might be useful if you intend
+
+00:54.060 --> 01:02.730
+to go deeper and dig further later on in dealing with these typical modern issues that philosophers
+
+01:02.730 --> 01:05.400
+of science are busy, busy with.
+
+01:06.840 --> 01:13.330
+In a in a previous lecture, we saw how the Schrodinger's cat paradox shows a paradoxical aspect of
+
+01:13.330 --> 01:14.240
+quantum mechanics.
+
+01:14.260 --> 01:20.590
+There is no reason to believe that quantum superposition, as every quantum law should hold only in
+
+01:20.590 --> 01:23.590
+the macroscopic area of particle physics.
+
+01:24.280 --> 01:30.210
+Quantum mechanics should hold equally well also at the scales of humans, cats or coins.
+
+01:30.850 --> 01:38.890
+Therefore, it is somehow a mystery why we can't set cats or any other living beings or objects into
+
+01:38.890 --> 01:46.690
+a life and death quantum superposition or coin in their heads and tails superposition at the same time,
+
+01:47.050 --> 01:50.930
+just as we can do with the particles spin.
+
+01:51.220 --> 02:00.220
+For example, we advance the hypothesis that somehow this could be explained away with the mutual interaction
+
+02:00.220 --> 02:08.140
+of particles of the cat's body scattering with the particles of the cat's body itself and all those
+
+02:08.140 --> 02:14.740
+of the environment that could cause the immediate collapse of the wavefunction and which is called also
+
+02:14.740 --> 02:16.720
+the decoherence process.
+
+02:17.710 --> 02:24.660
+Let us look at this somewhat further, in fact, that this state of affairs cannot be taken so, so
+
+02:24.840 --> 02:32.260
+lightly in quantum mechanics is illustrated through an application of Dirac's notation to a system that
+
+02:32.260 --> 02:38.650
+transitions from a superposition to a definite state that is to one of its agan states.
+
+02:39.630 --> 02:47.490
+Consider first an isolated system in a generic superposition state, and that does not interact with
+
+02:47.490 --> 02:49.140
+the with the environment.
+
+02:50.150 --> 02:52.670
+With, as usual, that.
+
+02:54.060 --> 03:04.770
+State vector BPCI given as some of the two igan states, A and B over a square two, which is of course,
+
+03:04.770 --> 03:08.880
+as usual, as you should know by now, that probability coefficient.
+
+03:10.830 --> 03:20.280
+And a and being, for example, spin up or down or kept alive and dead or generally two mutually exclusive
+
+03:20.280 --> 03:28.260
+igan states that is orthogonal physical states, when you describe it with the vectors you in a three
+
+03:28.260 --> 03:35.910
+dimensional vector space, you can recall that we describe it as two orthogonal vectors.
+
+03:37.140 --> 03:44.130
+If we want to calculate the probability that the Squantum system will change from a state BPCI to one
+
+03:45.210 --> 03:53.610
+of the two possible states say kept a record a we must work with the transition amplitude we introduced
+
+03:53.610 --> 04:00.390
+in the lecture on the state vector and Schrodinger's equation, namely that the probability of a transition
+
+04:00.390 --> 04:08.460
+from an initial state bracket BPCI to a final final state of A is given by this little formula that
+
+04:08.460 --> 04:17.880
+we discussed in that occasion, and which is the square models of the inner product of C and A.
+
+04:18.900 --> 04:25.740
+Now to proceed, you should know how to calculate a model squared, often in a product, if you are
+
+04:25.740 --> 04:33.300
+not acquainted, acquainted with this, please see also in the appendix where we dealt with this, it
+
+04:33.300 --> 04:41.400
+is the part which deals with the addition of two complex Wavves which added together and squared deliver
+
+04:41.430 --> 04:53.820
+the intensity of a beam with an associated interference term that are also how we calculated the interference
+
+04:53.820 --> 04:56.840
+fringes with a double slit experiment.
+
+04:57.210 --> 05:04.150
+Go back there and you will recall and we'll see how we are substantially doing the same thing.
+
+05:04.470 --> 05:09.830
+So let us do this here with the coherent state side.
+
+05:11.010 --> 05:20.820
+And if we take this expression for BPCI and take the model square with the Cat Agan state, we obtain
+
+05:20.850 --> 05:21.810
+this expression.
+
+05:22.830 --> 05:30.480
+That is, we simply insert the superposition state in this model square.
+
+05:31.140 --> 05:39.750
+In a further step, we calculate using the distributive law or the distributive rule.
+
+05:40.860 --> 05:47.590
+And we have the model square of a bracket, A plus a mixed term.
+
+05:49.800 --> 05:54.150
+Brought a cat B over of, of course, square to.
+
+05:55.080 --> 06:05.070
+Square it this, again, is equal to one half, obviously, because one of the square, two square is
+
+06:05.070 --> 06:15.210
+one 1/2 times the model, the square of the numerator here, which, if expanded, becomes this expression
+
+06:15.210 --> 06:20.710
+here, because recall that the Model Square is nothing as of quantity.
+
+06:20.730 --> 06:26.910
+The model square of a quantity is nothing else than the product of this quantity times its own complex
+
+06:26.910 --> 06:27.540
+conjugate.
+
+06:27.930 --> 06:33.890
+Therefore, we have here at the start the complex times the same value.
+
+06:35.070 --> 06:36.680
+This again is equal.
+
+06:36.720 --> 06:40.370
+We calculate now again with a distributive law.
+
+06:40.560 --> 06:42.780
+We take this to brackets.
+
+06:42.780 --> 06:52.350
+Here you have the complex conjugate times itself of the bracket A, which means that we have on one
+
+06:52.350 --> 07:04.920
+side we collect the terms and we obtain one half times the model square of bracket A plus one half model
+
+07:04.920 --> 07:15.750
+square of bread bracket A, B, the mixed terms and a more complicated term expression here, which
+
+07:15.750 --> 07:22.950
+is in fact complicated, but it is not so important to understand what its real meaning is term by term.
+
+07:23.160 --> 07:33.360
+We just sum this up and have a more compact term, obtaining again one half of the square of bracket
+
+07:33.390 --> 07:44.370
+A plus and term that we will call the interference term, because here this term expresses the interference
+
+07:44.370 --> 07:48.420
+between A and B, the two possible igan states.
+
+07:48.990 --> 07:59.820
+It contains the combined inner products products of Coté and can be it can be called an interference
+
+07:59.820 --> 08:05.700
+term because it is the same type of inter interference term we encountered in the double slit experiment
+
+08:05.700 --> 08:06.450
+in the electron.
+
+08:06.450 --> 08:09.060
+The double slit experiment we only.
+
+08:10.040 --> 08:18.000
+Exchanged, we only replaced the two light beams, side one and side two with here, in our case with
+
+08:18.000 --> 08:25.310
+a two Igan States, A and B. However, here, this has been set to zero in the last passage for the
+
+08:25.310 --> 08:34.850
+simple reason that the inner product of bracket A B equals bracket pay is zero because the inner product
+
+08:34.850 --> 08:37.850
+of orthogonal state vectors is zero.
+
+08:38.660 --> 08:46.670
+Recall how we encountered our orthogonality for spin states in the electoral lecture on Spinous and
+
+08:46.670 --> 08:52.910
+what remains is just what we already know, namely that there is a 50 percent chance of getting state
+
+08:52.910 --> 08:53.630
+bracket eight.
+
+08:54.890 --> 08:55.880
+This is fortunate.
+
+08:56.660 --> 09:06.230
+Otherwise those remaining terms would not make much sense if the inner product of bracket baby AI were
+
+09:06.230 --> 09:12.950
+not equal to zero, it would mean that there is still a non-zero probability that we could measure the
+
+09:12.950 --> 09:20.240
+system still being in two states in the same sentence at the same time against anything our worldly
+
+09:20.240 --> 09:22.070
+experience suggests.
+
+09:23.730 --> 09:32.580
+The disappearance of this interference term is a formal mathematical representation of the quantum decoherence
+
+09:32.580 --> 09:33.270
+process.
+
+09:34.260 --> 09:41.940
+It is this decoherence process people invoke to explain why microscopic bodies never show up with quantum
+
+09:41.940 --> 09:42.690
+properties.
+
+09:44.560 --> 09:48.310
+However, this is true only for a system in isolation.
+
+09:49.360 --> 09:59.290
+The fact is these conditions are very rarely met, any system that is not in a perfect vacuum will quickly
+
+09:59.290 --> 10:02.890
+somehow interact with its surrounding environment.
+
+10:04.150 --> 10:10.750
+Moreover, if we perform a measurement with some microscopic device, we must also take into account
+
+10:10.750 --> 10:12.460
+all the interactions with it.
+
+10:13.820 --> 10:21.580
+This means all the quantum states of the system to be measured will be will become entangled with a
+
+10:21.800 --> 10:29.780
+virtually infinite number of particles of all the environment, plus the measurement apparatus.
+
+10:31.610 --> 10:42.920
+Formally, this implies that the igan basis of the quantum system in our case get A and B, but its
+
+10:42.920 --> 10:52.100
+interaction with the external macroscopic world will become entangled with the environment and the apparatus
+
+10:52.100 --> 10:53.560
+as a whole as well.
+
+10:54.670 --> 11:02.470
+Let us therefore level the igan basis of all the possible quantum states of the environment, together
+
+11:02.630 --> 11:13.480
+with the measurement apparatus as Khaddafi, I wear the index, I runs over the virtually infinite number
+
+11:13.510 --> 11:14.620
+of igan states.
+
+11:15.730 --> 11:22.110
+Then the general environment and apparatus quantum state could be represented as a product over all
+
+11:22.120 --> 11:25.090
+of these all of all these igan states.
+
+11:25.090 --> 11:36.520
+As a Khaddafi, a level with Aetate, which stands for Environment A for the apparatus equals the product
+
+11:36.520 --> 11:40.090
+of one timeously to two, three and so on.
+
+11:41.720 --> 11:49.240
+Then the quantum state of the system entangled with the macroscopic world could be written as follows,
+
+11:49.700 --> 12:02.030
+that is now we have a new state side of the whole system and is represented by the capsid EPA, which
+
+12:02.030 --> 12:11.810
+is nothing else than the product of Capsid, the site that we had in the previous case in the isolated
+
+12:12.170 --> 12:12.530
+case.
+
+12:12.530 --> 12:14.600
+But this time it is not isolated.
+
+12:14.630 --> 12:24.680
+Therefore, we must take the product Khaddafi, E.A., and which if we calculate it explicitly, we
+
+12:24.680 --> 12:28.660
+obtain this expression here and which is nothing else.
+
+12:28.670 --> 12:34.790
+And the product of the previous superposition state times the Khaddafi E.A..
+
+12:36.550 --> 12:44.080
+Repeating then the calculation above all over again with this last term, which is quite cumbersome
+
+12:44.080 --> 12:51.820
+because it entails a multiplication of brackets running on the index eye and which we omit here, one
+
+12:51.820 --> 12:59.890
+obtains an analogous result as a previous equation, but extended to the environment and apparatus as
+
+12:59.890 --> 13:00.220
+well.
+
+13:01.600 --> 13:09.430
+So what we obtain here is a system driven amplitude between the state side of the system.
+
+13:10.720 --> 13:18.850
+To, uh, from a superposition state outside of the system to its igan state, A. under the condition
+
+13:19.300 --> 13:29.160
+that it is entangled also with the environment and the measurement apparatus formally, this goes as
+
+13:29.170 --> 13:40.900
+a model, the square of that bracket, a sigh of a and which is equal, again, as previously one half
+
+13:41.380 --> 13:45.170
+of the model square of the bracket A..
+
+13:45.820 --> 13:54.700
+This time, however, over a that means with entangled with environment plus an interference term.
+
+13:56.120 --> 13:56.630
+Of.
+
+13:57.600 --> 13:59.550
+Bracket B a.
+
+14:01.050 --> 14:13.290
+And where we use the shorthand that get a E.A. is equal, cut eight times the product of kaffiyeh and
+
+14:13.290 --> 14:25.160
+analogously Cat B is equal, B times FITA and with the interference term.
+
+14:25.350 --> 14:34.230
+But this time we cannot sweep under the carpet so easily by setting it to a zero value, because this
+
+14:34.230 --> 14:44.490
+mix term here, the bracket B A over the environment is the inner product of interacting igan basis
+
+14:44.880 --> 14:49.150
+that is non also non orthogonal basis.
+
+14:50.460 --> 14:58.770
+What this seems to suggest to us is that at least for a short time, the Kwanten system must be in the
+
+14:58.860 --> 15:05.190
+in its superposition state, which is truly entangled with the external world.
+
+15:07.210 --> 15:14.770
+So the upshot is that there is effectively a quantum interference between the object and its surroundings.
+
+15:15.970 --> 15:22.990
+This is another way of seeing quantum coherence extended to quantum systems, quantum systems that we
+
+15:22.990 --> 15:25.530
+imagine are made of many particles.
+
+15:26.080 --> 15:34.390
+In other words, we should truly observe the cat alive and dead at the same time, because now, since
+
+15:34.390 --> 15:42.730
+we have no longer orthogonal and orthogonal basis, the inner product baby does not disappear.
+
+15:43.060 --> 15:44.020
+It's still there.
+
+15:45.560 --> 15:54.440
+The fact that the decoherence interference term does not vanish, that is still some coherence seems
+
+15:54.440 --> 16:01.820
+to be present also after the measurement is contrary to whatever we know in quantum as in classical
+
+16:01.820 --> 16:02.480
+mechanics.
+
+16:04.540 --> 16:10.150
+However, the question is, how short is that short time of coherence?
+
+16:12.310 --> 16:20.830
+One can show that this loss of coherence, the so-called quantum decoherence or course on timescales
+
+16:21.310 --> 16:28.510
+that are inversely proportional to the number of particles involved and decreases exponentially with
+
+16:28.510 --> 16:28.900
+time.
+
+16:30.330 --> 16:37.860
+The number of molecules which make up the air, the cat's body and the surrounding objects and the measurement
+
+16:38.040 --> 16:41.510
+apparatus is of the order of Avogadro's number.
+
+16:41.820 --> 16:49.450
+And we already discussed in the lecture on the Schrodinger's cat paradox how huge this number is.
+
+16:49.470 --> 16:59.310
+It's something about the order of 10 to the power 23, and that because of this huge number of particles,
+
+16:59.310 --> 17:02.350
+the interference term had to disappear.
+
+17:02.610 --> 17:08.110
+And here we are discussing how fast does it disappear.
+
+17:08.850 --> 17:16.020
+And so according to this understanding of what is going on is that the macroscopic objects could also,
+
+17:16.500 --> 17:20.760
+in principle be in superposition or in an entangled state.
+
+17:21.240 --> 17:33.330
+But due to the Brownian motion, this thermal decoherence is extremely fast because the number of particles
+
+17:33.330 --> 17:41.430
+involved in this Brownian motion, in this thermal decoherence is so huge that the time interval of
+
+17:41.910 --> 17:51.090
+being in superposition is so ultra short that it can be considered, for all practical purposes, as
+
+17:51.090 --> 17:52.140
+instantaneous.
+
+17:53.710 --> 18:01.750
+Quantum decoherence sets in extremely quickly, and we won't notice anything strange that might suggest
+
+18:01.750 --> 18:10.990
+anything other than our good old classical world where cats live or dead or alive, but not both, but
+
+18:10.990 --> 18:13.750
+for an extremely short time interval.
+
+18:14.080 --> 18:22.480
+According to quantum physics, it is indeed possible to have cats in a superposition dead and alive.
+
+18:23.670 --> 18:30.270
+In principle, to avoid decoherence, we must be able to perfectly maintain the coherence of all the
+
+18:30.270 --> 18:36.750
+particles of the environment and every measurement device by eliminating the thermal agitation.
+
+18:37.770 --> 18:43.950
+This, in turn, would practically mean that any measurement device could not function in the first
+
+18:43.950 --> 18:51.780
+place and that the poor cat must be frozen to an absolute zero temperature, which, by the way, would
+
+18:51.780 --> 18:55.980
+at least solve that dead or alive dilemma from the outset.
+
+18:57.570 --> 19:04.890
+So when we consider a huge macroscopic systems which are not cooled down to absolute zero temperature
+
+19:04.980 --> 19:12.630
+and are not placed into very special physical conditions, we will never, ever observe quantum coherence.
+
+19:12.990 --> 19:18.140
+That is anything in quantum entanglement or in quantum superposition state.
+
+19:18.870 --> 19:24.130
+It is not that the laws of quantum physics no longer hold the hold at all levels.
+
+19:24.810 --> 19:30.270
+However, for large objects or the quantum effects disappear almost instantly.
+
+19:32.220 --> 19:40.440
+Nowadays, exceptions to this can nevertheless be realized with the so-called Bose Einstein condensate
+
+19:40.890 --> 19:51.870
+by complicated procedures placing a gas of helium in a container at fractions of degrees Kelvin avoiding
+
+19:51.870 --> 19:54.450
+its contact with the chamber walls.
+
+19:55.320 --> 20:02.520
+The realization of the Einstein condensate is in fact show that it is possible to create a relatively
+
+20:02.520 --> 20:11.400
+macroscopic systems less than a millimeter in diameter that are in a coherent state.
+
+20:12.180 --> 20:13.820
+So this is possible.
+
+20:14.770 --> 20:22.030
+And finally, the so-called Schrodinger's cat paradox is not a paradox at all, it can be explained
+
+20:22.030 --> 20:28.750
+with quantum decoherence taking place in very short times because of the interaction between the huge
+
+20:28.750 --> 20:35.230
+number of particles of which a macroscopic system is made and the particles of the rest of the environment.
+
+20:36.370 --> 20:40.330
+This is at present the most acceptable explanation.
+
+20:41.020 --> 20:46.060
+Showing us contribution was to point out that there is no reason to believe that, at least in principle,
+
+20:46.060 --> 20:52.090
+quantum superposition is a scale dependent, universal future of physical reality.
+
+20:52.930 --> 20:56.090
+However, the story still does not end here.
+
+20:56.680 --> 21:04.120
+One also hears professional physicists not particularly informed in the foundations of quantum physics,
+
+21:04.510 --> 21:10.840
+say that decoherence decoherence process solves the measurement problem.
+
+21:11.830 --> 21:13.330
+This is not completely correct.
+
+21:13.930 --> 21:20.950
+The quantum decoherence provides an explanation of why Schrodinger's cat paradox is not a paradox,
+
+21:21.400 --> 21:24.390
+but it does not entirely solve the measurement problem.
+
+21:25.090 --> 21:31.990
+Decoherence explains why we perceive objects as being classical, together with Borse corespondents
+
+21:31.990 --> 21:32.530
+principle.
+
+21:33.590 --> 21:39.560
+According to this principal, classical physics is a limiting case of quantum mechanics, quantum mechanics,
+
+21:39.560 --> 21:45.070
+that is quantum mechanics who produces quantum physics in the statistical limit of large quantum numbers.
+
+21:46.290 --> 21:53.520
+For example, recall how the the increase in energy quantum numbers behaves in the limit as a large
+
+21:53.670 --> 22:03.990
+or as large orbit's or large energy as we saw in Bors atomic model or how quantum numbers determine
+
+22:03.990 --> 22:08.040
+the orbitals, as we discussed in the lecture on atomic orbitals.
+
+22:09.860 --> 22:16.580
+However, note that decoherence is, strictly speaking, not the usual way function collapse, rather
+
+22:16.580 --> 22:20.030
+it is, so to speak, a quick interference suppression.
+
+22:21.350 --> 22:29.720
+The Schrodinger cat paradox cannot be explained with the coherence alone, the coherence souls, the
+
+22:29.720 --> 22:39.410
+measurement problem only partially as it still leaves open an anomaly that is intrinsic in the formalism
+
+22:39.410 --> 22:47.330
+of quantum mechanics as fast as it might be, decoherence should be described by an evolution in time
+
+22:47.960 --> 22:53.690
+described with the evolution operator, the unitary operator we discussed, and that, as you might
+
+22:53.690 --> 23:00.290
+recall again in the lecture on the Schrodinger equation in which I display here again for your convenience.
+
+23:01.900 --> 23:07.720
+In general, we spoke of the evolution, quantum evolution of a system, of a quantum system from a
+
+23:07.720 --> 23:20.560
+time zero to a time T. And we displayed this with a quantum state vector BPCI at time zero, which goes
+
+23:20.560 --> 23:31.990
+into BPCI at time T. This was described with a unitary operator, unitary because it's complex conjugate
+
+23:31.990 --> 23:40.180
+times itself gives identity or one if you prefer, and is described also with exponential function.
+
+23:40.180 --> 23:42.430
+And the Hamiltonian Hamiltonian.
+
+23:42.430 --> 23:49.510
+If you don't remember this, go back to the lecture we where we discussed this, at which this unitary
+
+23:49.510 --> 23:57.610
+operator transports, so to speak, evolves the state vector at time zero zero.
+
+23:58.550 --> 24:07.910
+To state better at a time to step back to apply so the application of this unitary operator describes
+
+24:07.910 --> 24:10.280
+the quantum evolution of the system.
+
+24:12.940 --> 24:20.440
+If so, in our case, the same unitary operator must describe the time evolution from the quantum state
+
+24:20.440 --> 24:26.650
+of the system entangled with the macroscopic world, that is a state entangled with the environment,
+
+24:26.650 --> 24:35.140
+plus the measurement apparatus, and that we can label as cat, BPCI, E.A. to one of the two possible
+
+24:35.140 --> 24:37.360
+macroscopic state outcomes.
+
+24:37.690 --> 24:45.910
+And that we describe this time also analogously CAT, a E.A. as also.
+
+24:46.880 --> 24:52.550
+Get BGA, because these are two different possible outcomes of the same initial state.
+
+24:53.740 --> 25:06.880
+Informal language, this implies that Keat, a E.A., is the result of a time evolution of capsid.
+
+25:07.880 --> 25:11.420
+Entangled with the environment and the apparatus.
+
+25:13.070 --> 25:23.330
+Under the application of the unitary operator, that is, you times the cat CETA and at for the same
+
+25:23.330 --> 25:27.390
+reason, this one that can't be E.A. is equal.
+
+25:27.390 --> 25:35.900
+If you applied on to the state vector capsid, E.A. then recall also from the lecture on the direct
+
+25:35.900 --> 25:45.650
+notation, that indirect notation, the model is squared off the in a product of BPCI with itself.
+
+25:46.700 --> 25:54.980
+Is equal one just because it is the sum of all the probability coefficients and which obviously must
+
+25:55.100 --> 26:03.680
+be certainty, then applying, putting this together, we can right that the transition probability
+
+26:04.430 --> 26:14.240
+from a state A to a state B of a system microscopic system, which is, however, entangled with the
+
+26:14.240 --> 26:17.840
+environment and eventually a measurement apparatus.
+
+26:18.380 --> 26:22.490
+And with that we can describe with this bracket A B.
+
+26:23.510 --> 26:36.860
+With level E.A. is equal to the same bracket where we replace the A and B states by their description
+
+26:36.860 --> 26:46.460
+with the evolution operator as as the outcome of an evolved state from side to a or from side to B,
+
+26:47.330 --> 26:49.310
+then we obtain this expression here.
+
+26:50.430 --> 27:00.600
+But you start you is per definition of unitary operator one, therefore, we obtain, we reduce this
+
+27:00.600 --> 27:02.700
+expression reduces to this expression.
+
+27:04.290 --> 27:10.640
+With the identity operator in between and since this is an identity operator, it can be left out,
+
+27:10.640 --> 27:12.870
+just is just the multiplication by unity.
+
+27:13.470 --> 27:20.460
+So we arrive at this expression here, the inner product of PSI.
+
+27:21.060 --> 27:21.380
+Right.
+
+27:21.690 --> 27:24.630
+And as we said, this must be equal one.
+
+27:26.270 --> 27:33.440
+This, however, is a strange result because this means that indeed we have certainty to observe the
+
+27:33.440 --> 27:35.240
+two states and superposition.
+
+27:36.300 --> 27:41.910
+Also at the microscopic environmental scale of the measurement apparatus or the cat.
+
+27:43.160 --> 27:51.020
+This is contrary to the previous statement that due to decoherence, the interference term is rapidly
+
+27:51.020 --> 27:51.710
+suppressed.
+
+27:52.370 --> 28:00.630
+That is previously we had that the bracket A B of A with the environment is equal zero.
+
+28:01.640 --> 28:08.960
+So this has led us to a contradiction that this contradiction is somehow intrinsic to the mathematical
+
+28:08.960 --> 28:18.080
+description of quantum mechanics and emerges when we resort to decoherence only as a solution to the
+
+28:18.080 --> 28:18.980
+measurement problem.
+
+28:19.960 --> 28:22.840
+But with that, we have proven that it isn't.
+
+28:24.200 --> 28:31.340
+Here, the main discrepancy with the known rules of quantum mechanics is that besides the violation
+
+28:31.340 --> 28:37.970
+of the linearity of Schrodinger's equation and the measurement postulate also unitary t seems to be
+
+28:37.970 --> 28:38.740
+violated.
+
+28:38.870 --> 28:40.400
+That is this expression here.
+
+28:43.550 --> 28:54.530
+This is one of the most fundamental pillars of the rules of quantum mechanics, as we have discussed
+
+28:54.530 --> 28:59.420
+in the lecture on training on the training equation.
+
+28:59.780 --> 29:10.280
+It guarantees that the theory is time reversal invariant, which means that if a operator, you evolve
+
+29:10.420 --> 29:19.040
+the system forward in time, the complex conjugate of it that is used to evolve it backwards in time,
+
+29:19.610 --> 29:29.150
+implying that the product you start, you must keep that identity necessarily because so it means that
+
+29:29.150 --> 29:36.020
+you go back and forth in time and you get the same system as in the initial conditions.
+
+29:37.040 --> 29:38.500
+If that would be incorrect.
+
+29:38.510 --> 29:44.920
+Everything what quantum mechanics tells us the theory of quantum mechanics tells us would be wrong.
+
+29:45.890 --> 29:49.700
+And yet we know it works another way.
+
+29:49.730 --> 29:55.760
+Another way to state what the measurement problem is all about is to recognize how the physical state
+
+29:55.760 --> 30:04.190
+of a large object like a detector is not deducible from the properties of the quantum state of the small
+
+30:04.190 --> 30:08.450
+objects, it is made up of the measurement postulate.
+
+30:08.540 --> 30:14.610
+The linearity of Schrödinger's equation and unique clarity are at odds with reductionism.
+
+30:15.740 --> 30:21.950
+The issue is still debated among physicists and perhaps even more among philosophers, because it does
+
+30:21.950 --> 30:28.880
+not really prevent, uh, physicists from carrying out their calculations and make precise predictions
+
+30:29.270 --> 30:32.240
+on the macroscopic scale with elementary particles.
+
+30:33.210 --> 30:40.640
+Uh, some of the interpretations of quantum mechanics, such as the many world interpretations, the
+
+30:40.640 --> 30:49.190
+Bali bomb pilot wave or the object of collapse interpretation, these are very different interpretations
+
+30:49.190 --> 30:54.240
+that we eventually will discuss, could in principle resolve this contradiction.
+
+30:55.160 --> 31:02.030
+However, these interpretations why they reproduce the predictions of quantum physics and are empirically
+
+31:02.030 --> 31:10.460
+indistinguishable from the orthodox theory, and which is why they are called interpretations, also
+
+31:10.460 --> 31:14.470
+suggests mutually exclusive ontologies.
+
+31:14.930 --> 31:22.170
+Nobody knows which must be preferred and whether any of it at all has something to do with reality.
+
+31:23.450 --> 31:27.350
+Maybe this shows us that Einstein was not so wrong.
+
+31:27.350 --> 31:32.530
+After all, quantum mechanics might not be so complete them.
+
+31:32.960 --> 31:35.380
+Some seems to be still something missing.
+
+31:35.840 --> 31:43.070
+However, whatever resolution the measurement problem might find inside an alternative complete description
+
+31:43.070 --> 31:50.420
+of reality, it's certainly it certainly will not be that for which Einstein had hoped for.
+
+31:51.200 --> 31:59.000
+Moreover, also, what all this tells us is that we still have not a clear understanding what at bottom
+
+31:59.540 --> 32:00.650
+a measurement is.
+
+32:01.860 --> 32:12.450
+It is something somehow unclear, it remains an overall intuitive concept and this concept of measurement
+
+32:12.540 --> 32:20.700
+and that everyone speaks about, but it escapes a precise and clear definition that does not lead to
+
+32:20.700 --> 32:23.100
+contradictions or paradoxes.
+
+32:24.140 --> 32:33.650
+So finally, the measurement problem is still not solved, and this shows us that we still do not understand
+
+32:33.650 --> 32:42.740
+completely why there is this divide between the classical world as we experience it and the quantum
+
+32:42.740 --> 32:43.100
+world.

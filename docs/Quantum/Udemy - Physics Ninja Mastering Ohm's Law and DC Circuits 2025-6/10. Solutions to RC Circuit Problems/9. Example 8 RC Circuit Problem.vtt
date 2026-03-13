@@ -1,0 +1,276 @@
+WEBVTT
+
+WEBVTT
+
+00:00.240 --> 00:01.270
+All right here's an example.
+
+00:01.290 --> 00:07.290
+We have an RC circuit problem says the capacitor in the circuit shown is initially charged as the six
+
+00:07.290 --> 00:13.650
+micro ferrett capacitor find the current through the four ohm resistor and through the 8 ohm resistor
+
+00:14.040 --> 00:15.270
+in these different time limits.
+
+00:15.270 --> 00:20.580
+So immediately after you close the switch and then after a long time when the switch has been closed
+
+00:21.120 --> 00:28.010
+and then also find the charge on the capacitor after a long time after you've closed the switch.
+
+00:28.350 --> 00:32.760
+OK so let's first look at kind of right after T goes to zero.
+
+00:32.760 --> 00:35.080
+Let me just call it the zero here.
+
+00:35.520 --> 00:39.490
+Remember what happens that goes to zero and you first close the switch.
+
+00:39.510 --> 00:42.250
+The trick now is you can redraw the circuit.
+
+00:42.320 --> 00:44.670
+It basically behaves.
+
+00:44.820 --> 00:46.850
+This forum is still going to be there.
+
+00:46.890 --> 00:48.620
+The switch is closed.
+
+00:48.830 --> 00:53.750
+The Forum lets also draw the aid on that one still there.
+
+00:55.430 --> 00:57.900
+We close this branch.
+
+00:58.290 --> 00:59.460
+Here's the 8 ohm.
+
+00:59.990 --> 01:08.450
+And remember immediately after you close the switch the capacitor behaves as though it's shorted.
+
+01:08.660 --> 01:14.340
+So that basically means like you have this additional branch here where there's nothing there.
+
+01:14.660 --> 01:20.330
+It basically means that the resistance of this branch here is effectively zero.
+
+01:20.990 --> 01:26.640
+So if it's zero it means that if you go from point B all the way to point B.
+
+01:27.080 --> 01:33.920
+Well if you go through this outer branch there is no voltage drop across this outer branch because the
+
+01:33.920 --> 01:35.340
+resistance is zero.
+
+01:35.990 --> 01:41.750
+And that means if this 8 ohm branch is in parallel with this one there is no voltage drop across this
+
+01:41.840 --> 01:43.470
+8 ohm resistor.
+
+01:43.910 --> 01:49.700
+So that automatically tells you that the current through this middle section through that 8 ohm at least
+
+01:49.700 --> 01:55.430
+in the short time limit this current here has to be equal to zero because all the current is basically
+
+01:55.520 --> 02:01.520
+going to just go in the outside of whatever current flowing through this 4 ohm resistor is basically
+
+02:01.520 --> 02:05.720
+going to continue along this branch and no current is going to go through the center.
+
+02:05.750 --> 02:11.710
+So this problem becomes very very simple with just a single branch and the resistance is four ohms.
+
+02:11.780 --> 02:16.760
+The total resistance of that single branch in the short time limit the voltage of the battery is 12
+
+02:16.760 --> 02:18.260
+volts.
+
+02:18.260 --> 02:24.080
+You automatically know then that the current initially has to be three amps and you get that from the
+
+02:24.080 --> 02:29.690
+12 divided by for 12 volts divided by forums gives you three amps.
+
+02:29.690 --> 02:30.980
+OK so we know that one.
+
+02:30.980 --> 02:35.230
+And also Well we know that was the current through the four ohm resistor.
+
+02:35.330 --> 02:38.180
+The current through the 8 ohm resistor is zero.
+
+02:39.510 --> 02:39.990
+All right.
+
+02:40.140 --> 02:46.950
+What about now in the limit where time is long Let's just call it infinity and it's really long with
+
+02:46.950 --> 02:51.630
+respect to the time constant of this particular circuit.
+
+02:51.630 --> 02:52.100
+All right.
+
+02:52.260 --> 02:54.140
+So in that long time limit.
+
+02:54.150 --> 02:55.600
+Remember what happens now.
+
+02:55.740 --> 03:06.120
+Well you get a voltage across this capacitor and after a long time there is no current flowing through
+
+03:06.450 --> 03:08.970
+a branch where there is a capacitor.
+
+03:08.970 --> 03:14.600
+So that means if there's no current basically it's basically an open circuit over there.
+
+03:14.820 --> 03:17.440
+So you still have this forum resistor.
+
+03:17.460 --> 03:19.620
+The switch is closed now.
+
+03:19.730 --> 03:21.670
+We still have our 8 ohm resistor.
+
+03:22.960 --> 03:31.340
+Let's finish off this branch and now you basically have an open circuit over here so there is no current
+
+03:31.340 --> 03:36.040
+flowing through this outer branch.
+
+03:36.130 --> 03:37.650
+I must be equal to zero.
+
+03:37.690 --> 03:41.330
+If it's open the resistance basically is infinite.
+
+03:41.620 --> 03:45.260
+So here you still have the 8 ohm here you still have the forum.
+
+03:45.670 --> 03:47.670
+And here we still have a 12 volt battery.
+
+03:47.680 --> 03:52.450
+So now you could see that the branch that we're interested in it's really again just a single loop circuit
+
+03:52.840 --> 03:56.110
+the total equivalent resistance is 12 ohms.
+
+03:56.110 --> 03:58.230
+The voltage of the battery is 12.
+
+03:58.420 --> 04:04.600
+You automatically can right that the current through the forum resistor has to be equal to the current
+
+04:04.600 --> 04:11.270
+through the 8 ohm resistor and must be equal to 12 divided by 12 which gives me 1 amp.
+
+04:11.530 --> 04:13.820
+So that's the current After a long time.
+
+04:13.840 --> 04:15.100
+Now find the charge.
+
+04:15.100 --> 04:20.410
+So he said you're going to eventually charge up this capacitor and there's going to be no current.
+
+04:20.410 --> 04:25.330
+So what is the actual voltage now across from point C to point B.
+
+04:25.510 --> 04:30.370
+So in order to answer that one I'm going to do now is I'm simply going to choose a loop and when to
+
+04:30.370 --> 04:34.440
+choose a loop that kind of goes around here remember that switch is closed.
+
+04:34.480 --> 04:40.120
+I want to introduce what I want to introduce the voltage across that capacitor so I'm going to choose
+
+04:40.120 --> 04:44.390
+this exterior loop here and let's use Kirchhoff's loop rule here.
+
+04:44.470 --> 04:51.040
+So if I start at point f the first thing I encounter is a 12 volt battery so I get plus 12.
+
+04:51.040 --> 04:57.170
+Now I'm going across the four ohm resistor and I know there's a current of one amp so I get minus four
+
+04:57.220 --> 04:59.020
+volts across this resistor.
+
+04:59.020 --> 05:00.480
+Four times one.
+
+05:00.730 --> 05:03.780
+And then I go all the way to point seen on going across the capacitors.
+
+05:03.800 --> 05:09.560
+I'm going to get a voltage across the capacitor and go back to point f I get zero.
+
+05:09.990 --> 05:12.920
+So automatically burn VC on the other side.
+
+05:13.090 --> 05:16.660
+You left that the voltage across the capacitor gives me 8 volts.
+
+05:16.660 --> 05:21.940
+Right it's not equal to 12 volts in this case because there's also a voltage drop across this forum
+
+05:21.970 --> 05:29.590
+resistor and you also know that the voltage drop across this capacitor has to be the voltage drop across
+
+05:29.590 --> 05:30.520
+the 8 ohm resistor.
+
+05:30.520 --> 05:32.880
+Both of those branches are in parallel.
+
+05:33.150 --> 05:38.110
+I could have done that the voltage drop across the 8 ohm resistor is simply eight times the current
+
+05:38.740 --> 05:41.160
+which gives me 8 volts.
+
+05:41.270 --> 05:41.620
+All right.
+
+05:41.620 --> 05:45.050
+Now I'm asking for what is the charge after a long time.
+
+05:45.190 --> 05:50.980
+If you know the voltage you know the value of the capacitance you automatically know that the charge
+
+05:51.940 --> 05:56.260
+is simply a capacitance multiplied by the voltage.
+
+05:56.260 --> 06:03.160
+In this case it's six times ten to the minus six multiplied by eight.
+
+06:03.220 --> 06:14.500
+This gives me 48 charges 48 times ten to the minus six which gives me 48 micro Koolau so that the final
+
+06:14.500 --> 06:16.590
+charge on this capacitor.
+
+06:16.620 --> 06:16.920
+OK.
+
+06:16.930 --> 06:21.730
+Kind of a simple problem but it's important to understand these two time limits and how to calculate
+
+06:21.730 --> 06:23.590
+things.

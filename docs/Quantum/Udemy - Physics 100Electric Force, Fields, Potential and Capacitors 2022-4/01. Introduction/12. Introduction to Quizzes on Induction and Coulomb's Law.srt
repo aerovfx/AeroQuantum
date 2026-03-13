@@ -1,0 +1,40 @@
+WEBVTT
+
+00:00.290 --> 00:05.580
+All right guys it's now time for you to practice a couple problems so I have two quizzes.
+
+00:05.580 --> 00:10.950
+The first is on charging by induction and the second one is on cool Ohm's Law.
+
+00:10.950 --> 00:14.880
+They are more conceptual questions or short questions.
+
+00:14.880 --> 00:17.370
+All right they're not very long they're multiple choice.
+
+00:17.370 --> 00:19.920
+Some of them involve some small calculations.
+
+00:19.920 --> 00:20.290
+OK.
+
+00:20.370 --> 00:21.170
+So go ahead.
+
+00:21.180 --> 00:25.470
+There are two PDA F's that are attached to this video here.
+
+00:25.650 --> 00:26.520
+Have a look at them.
+
+00:26.520 --> 00:27.780
+Try them out for yourself.
+
+00:27.790 --> 00:30.550
+Then look at the video solutions and the explanations.
+
+00:30.600 --> 00:35.010
+Make sure you understand these two concepts because they're going to be really important moving forward.
+
+00:35.010 --> 00:35.970
+All right let's get started.

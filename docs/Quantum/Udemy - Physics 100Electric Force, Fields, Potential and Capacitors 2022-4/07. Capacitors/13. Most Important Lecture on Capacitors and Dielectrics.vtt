@@ -1,0 +1,315 @@
+WEBVTT
+
+WEBVTT
+
+00:00.180 --> 00:04.270
+All right I've got two really important setups here for you to understand.
+
+00:04.460 --> 00:09.630
+And if you can really grasp this video here in the different concepts then you've understood kind of
+
+00:09.630 --> 00:15.670
+the physics behind inserting capacitors inside parallel plates.
+
+00:15.780 --> 00:16.050
+OK.
+
+00:16.080 --> 00:21.900
+So Case Number One is I have two parallel plates and it's connected to a battery.
+
+00:21.900 --> 00:26.670
+I'm going to get a voltage between those plates POSITIVE AND NEGATIVE CHARGE.
+
+00:26.670 --> 00:29.900
+Same thing for the beginning of Case number two.
+
+00:29.910 --> 00:35.190
+Now for case number one over here what I'm going to do is I'm first going to disconnect the battery.
+
+00:35.190 --> 00:43.670
+Step 1 after their battery is disconnected I am going to insert a dielectric BETWEEN THE PLATES AND
+
+00:43.670 --> 00:49.220
+THEN I want us to look at what happens to these various quantities what happens to the capacitance.
+
+00:49.400 --> 00:51.420
+What happens to the charge.
+
+00:51.530 --> 00:58.100
+What happens to the voltage between the plates the electric field and the potential energy stored in
+
+00:58.100 --> 01:00.200
+this capacitor.
+
+01:00.200 --> 01:00.400
+All right.
+
+01:00.400 --> 01:04.640
+For case number two is going to be a little bit different so you charge up the plates.
+
+01:04.640 --> 01:11.920
+And now I'm going to keep the battery connected and while it's connected I'm going to insert a dielectric.
+
+01:12.110 --> 01:18.320
+Again let's look through all of these five different variables and see what happens to each one.
+
+01:18.320 --> 01:24.970
+Again the dielectric that I'm inserting here is going to be characterized with a little bit too wide.
+
+01:25.010 --> 01:30.100
+It's going to be characterized with a dielectric constant K which is bigger than one.
+
+01:30.290 --> 01:30.680
+OK.
+
+01:31.430 --> 01:37.670
+So let's see what happens to all these five variables for these two different ways of inserting a dielectric
+
+01:37.670 --> 01:39.920
+inside a capacitor.
+
+01:39.980 --> 01:43.470
+Let's look at Case Number One first just right.
+
+01:43.470 --> 01:44.870
+Number one here.
+
+01:44.870 --> 01:46.970
+So what happens to the capacitance.
+
+01:47.300 --> 01:54.260
+So imagine here we have a capacitance which is equal to c 0 for the first one.
+
+01:54.260 --> 01:56.060
+So what happened to the capacitance.
+
+01:56.060 --> 02:02.120
+Well the new capacitance would be equal to whatever the dielectric constant is.
+
+02:02.160 --> 02:04.590
+So it would be k multiplied by c 0.
+
+02:04.590 --> 02:07.260
+So it would increase by a factor of K.
+
+02:07.800 --> 02:08.190
+OK.
+
+02:08.220 --> 02:14.560
+So this guy he would go up and let me just write it by K by a factor of k.
+
+02:14.640 --> 02:17.630
+All right what happens to the charge on the plates.
+
+02:17.700 --> 02:22.570
+Again I've disconnected the battery and before that I had a certain amount of charge on the plates.
+
+02:22.590 --> 02:24.800
+So what happens now.
+
+02:24.960 --> 02:27.020
+A insert a dielectric do I change.
+
+02:27.020 --> 02:33.600
+Dutch charge on the plates while the charge is stuck and this here is an insulating material.
+
+02:33.690 --> 02:36.620
+So there is really nowhere for the charge to go.
+
+02:36.660 --> 02:39.930
+So really the charge has to remain the same.
+
+02:39.930 --> 02:40.180
+OK.
+
+02:40.200 --> 02:43.700
+You have no choice but the capacitance always increases.
+
+02:43.700 --> 02:45.600
+Remember we said that.
+
+02:45.600 --> 02:47.250
+So what about the voltage.
+
+02:47.250 --> 02:50.510
+Well now what I suggest you do is you go back to our equations.
+
+02:50.520 --> 02:54.650
+We had an equation for relating charged a voltage right.
+
+02:54.660 --> 02:56.800
+It looked like this.
+
+02:56.920 --> 03:01.410
+That was our famous capacitor equation except now what do we have.
+
+03:01.530 --> 03:06.700
+We have that the dielectric constant is equal to C subscript k.
+
+03:06.990 --> 03:13.320
+So think about rewriting this in terms of the voltage it's the charge divided by the capacitance.
+
+03:13.320 --> 03:16.710
+So what do we have now for case number one.
+
+03:16.810 --> 03:21.760
+We have that the charge stayed the same but the capacitance went up.
+
+03:21.820 --> 03:26.360
+So if I divide by a bigger number guess what's going to happen to the voltage.
+
+03:26.560 --> 03:32.140
+The voltage here is going to go down by a factor of k.
+
+03:32.510 --> 03:38.990
+Now if we think about our relationship now between voltage and electric field that's the next equation.
+
+03:38.990 --> 03:44.810
+The electric field was defined again just the magnitude as the change of voltage divided by the change
+
+03:44.810 --> 03:49.320
+in distance and what just happened I haven't changed the distance right.
+
+03:49.490 --> 03:54.590
+The distance between the plates is going to be the same but my overall voltage went down.
+
+03:54.710 --> 03:55.420
+So guess what.
+
+03:55.430 --> 04:03.340
+The electric field has to go down by K and the last one again I would suggest using one of our equations
+
+04:03.340 --> 04:04.880
+for potential energy.
+
+04:04.990 --> 04:11.730
+One equation was Q V What did we just say we said the charge stayed the same because it had nowhere
+
+04:11.730 --> 04:16.120
+to go and the voltage went down by a factor of k.
+
+04:16.140 --> 04:22.490
+So what happens to the potential energy the potential energy must also go down by a factor of K.
+
+04:23.510 --> 04:32.910
+OK so make sure we understand this first step by inserting a dielectric inside parallel plates.
+
+04:33.770 --> 04:34.090
+OK.
+
+04:34.110 --> 04:40.470
+So what happens in case number two again you keep the battery connected and then you insert the dielectric
+
+04:40.470 --> 04:41.410
+inside.
+
+04:41.430 --> 04:42.860
+So here is case number two.
+
+04:42.960 --> 04:47.550
+The first thing is the capacitance while capacitance always goes up.
+
+04:47.550 --> 04:49.870
+It doesn't matter when you put it in.
+
+04:49.920 --> 04:58.770
+So if this is a no K the dielectric constant the new capacitance is going to be a k times the original
+
+04:58.770 --> 05:02.130
+one when there was airfields on both of these cases.
+
+05:02.280 --> 05:06.740
+It's going to go up by a factor of k all right.
+
+05:06.750 --> 05:11.050
+What else happens over here what about the charge in the voltage.
+
+05:11.160 --> 05:18.640
+Again it's connected to a battery and if the battery voltage is v guess what the voltage here has the
+
+05:18.650 --> 05:22.430
+stay the same the voltage V
+
+05:25.590 --> 05:30.060
+again it must remain the same because it's connected to a battery with the voltage V.
+
+05:30.570 --> 05:35.160
+So that's kind of the difference over here between this case in that case.
+
+05:35.160 --> 05:36.840
+So again let me go to the center line here.
+
+05:36.850 --> 05:43.650
+Let's just write same All right what about the charge.
+
+05:43.900 --> 05:46.000
+Again think about our equation now.
+
+05:46.210 --> 05:52.400
+We have that the charge is the capacitance multiplied by the voltage.
+
+05:52.540 --> 06:01.090
+So if voltage stays the same and the capacitance goes up well what happens to the charge the charge
+
+06:01.090 --> 06:04.630
+has to also increase by a factor of K
+
+06:08.300 --> 06:10.900
+so kind of different over here.
+
+06:11.020 --> 06:16.510
+Again you're gonna have more charge because you have a bigger capacitance capacitance is the ability
+
+06:16.510 --> 06:18.250
+of an object a whole charge.
+
+06:18.370 --> 06:25.670
+If that goes up and I have a power supply that could keep doing work it's going to keep increasing it.
+
+06:25.750 --> 06:28.310
+All right what about the electric field.
+
+06:28.570 --> 06:28.810
+All right.
+
+06:28.810 --> 06:31.880
+So the electric field you've got to think about it here for a minute.
+
+06:31.960 --> 06:37.990
+Our electric field again if I go back to my equation describing the magnitude the voltage divided by
+
+06:37.990 --> 06:44.170
+the distance again I mean just read it as V divided by the distance between the plates.
+
+06:44.680 --> 06:48.370
+What happens to the voltage we just said the voltage stays the same.
+
+06:48.370 --> 06:52.820
+I haven't changed the distance between the plates so I guess what's going to happen right here.
+
+06:52.820 --> 06:55.910
+Same.
+
+06:56.060 --> 06:56.360
+All right.
+
+06:56.360 --> 07:03.560
+And the last one is the electrical potential energy again use one of my equations I'll use this one.
+
+07:04.070 --> 07:07.330
+We said that the charge goes up by a factor of k.
+
+07:07.340 --> 07:08.690
+This guy goes up.
+
+07:08.690 --> 07:11.400
+This guy here stays the same.
+
+07:11.540 --> 07:18.080
+So what's going to happen to the potential energy potential energy in this case here has to go up by
+
+07:18.080 --> 07:21.090
+a factor of K okay.
+
+07:21.160 --> 07:26.200
+So we have different scenarios depending on when you insert that dielectric inside.

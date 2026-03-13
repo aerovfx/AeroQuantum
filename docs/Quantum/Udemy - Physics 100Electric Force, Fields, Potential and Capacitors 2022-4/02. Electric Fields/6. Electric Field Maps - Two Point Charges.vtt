@@ -1,0 +1,177 @@
+WEBVTT
+
+WEBVTT
+
+00:00.300 --> 00:00.560
+All right.
+
+00:00.560 --> 00:05.210
+I now want to look at what happens if there is more than one point charge in life.
+
+00:05.220 --> 00:08.210
+We're going to have situations where there is more than one point charge.
+
+00:08.220 --> 00:12.080
+So how would we calculate the electric field somewhere in space.
+
+00:12.120 --> 00:14.270
+So here's a nice kind of simple example.
+
+00:14.280 --> 00:16.070
+I only have two charges.
+
+00:16.080 --> 00:18.800
+They're both one nano Coolum.
+
+00:18.960 --> 00:22.520
+The red one is positive and the blue one is negative.
+
+00:22.530 --> 00:23.910
+OK so let's have a look.
+
+00:23.910 --> 00:27.250
+This is what the electric field looks like in space.
+
+00:27.270 --> 00:32.370
+First of all as I'm close to the point charges see how bright the arrows are.
+
+00:32.370 --> 00:36.240
+Brightness in these pictures represent the magnitude.
+
+00:36.240 --> 00:41.850
+That means that when I'm close to the negative charge or I'm close to the positive charge the electric
+
+00:41.850 --> 00:45.710
+field is pretty big and that makes sense because I'm close to the charge.
+
+00:45.990 --> 00:50.330
+Let's get rid of that as I go farther away you could see over here you could barely see the arrow.
+
+00:50.370 --> 00:55.310
+That means as you go far away the field is getting smaller and that makes sense.
+
+00:55.320 --> 00:55.950
+All right.
+
+00:56.100 --> 01:01.590
+Now have a look at just all of the different orientations though of these different arrows.
+
+01:01.620 --> 01:01.980
+Right.
+
+01:02.340 --> 01:03.540
+Let me show you a couple of them.
+
+01:03.570 --> 01:04.910
+So let's look at this guy right.
+
+01:04.920 --> 01:06.570
+This guy here is pointing.
+
+01:06.570 --> 01:10.610
+It's pointing actually directly to the right which is kind of weird.
+
+01:10.650 --> 01:14.680
+It's actually the same everywhere here on this line right.
+
+01:14.730 --> 01:18.110
+Right at the center between both of those point charges.
+
+01:18.120 --> 01:22.570
+Look what I get I get an electric feel that points like this.
+
+01:22.620 --> 01:24.550
+It's a little bit strange.
+
+01:24.600 --> 01:26.760
+What else as I'm on this side.
+
+01:26.790 --> 01:31.680
+Let's use a different color maybe use an orange when I'm to the left of the positive charge.
+
+01:31.680 --> 01:32.330
+Look what I get.
+
+01:32.340 --> 01:38.860
+I get a feel that points away from it everywhere along here and as I'm anywhere.
+
+01:38.870 --> 01:42.050
+To the right of the negative charge.
+
+01:42.060 --> 01:42.720
+Look what I get.
+
+01:42.720 --> 01:48.000
+I get a vector that is pointing toward the negative charge.
+
+01:48.000 --> 01:48.210
+All right.
+
+01:48.210 --> 01:50.310
+That's also kind of unique.
+
+01:50.310 --> 01:59.960
+So let me just write this down so toward negative here I would be away from positive.
+
+02:00.030 --> 02:04.320
+And over here the yellow one would be again toward the negative.
+
+02:04.350 --> 02:08.500
+Right toward negative.
+
+02:08.890 --> 02:09.190
+All right.
+
+02:09.220 --> 02:13.790
+So what we want to do now is we're gonna use something called superposition.
+
+02:13.840 --> 02:19.630
+That means that you're gonna be adding vectors from more than one charge adding different electric fields
+
+02:19.870 --> 02:25.060
+because different objects are producing electric fields and we're gonna be able to understand this picture
+
+02:25.090 --> 02:26.590
+in a lot more detail.
+
+02:26.630 --> 02:31.400
+OK so let's look at some of the math behind generating a picture like this.
+
+02:31.420 --> 02:35.770
+I'm going to consider points that are again in the three different positions.
+
+02:35.800 --> 02:36.000
+OK.
+
+02:36.010 --> 02:40.440
+Somewhere over here somewhere in the middle and somewhere on the side.
+
+02:40.630 --> 02:41.180
+OK.
+
+02:41.350 --> 02:43.860
+So let's consider a kind of different points.
+
+02:43.870 --> 02:45.660
+Let's consider them along the axis.
+
+02:45.670 --> 02:48.080
+Just to keep the math a little bit easier.
+
+02:48.250 --> 02:53.620
+If I start going up here in space then you're gonna have vectors that are in different directions.
+
+02:53.680 --> 02:59.140
+And it's straightforward it just takes a little bit more time because you have to add vectors with different
+
+02:59.140 --> 03:00.300
+components.
+
+03:00.310 --> 03:06.610
+All right let's at least start with understanding what's going on here along this line that joins both
+
+03:06.610 --> 03:07.760
+of those charges.
+
+03:07.900 --> 03:11.970
+And then later on we'll do other examples where we're going to be further out in space.

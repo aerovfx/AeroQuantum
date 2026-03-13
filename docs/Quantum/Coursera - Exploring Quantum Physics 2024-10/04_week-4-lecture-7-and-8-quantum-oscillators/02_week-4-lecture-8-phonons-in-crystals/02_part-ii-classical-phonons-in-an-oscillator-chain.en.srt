@@ -1,0 +1,1369 @@
+1
+00:00:00,830 --> 00:00:05,660
+In this video, I will solve the problem 
+of classical crystal, or an infinite 
+
+2
+00:00:05,660 --> 00:00:11,490
+chain of classical oscillators. 
+And I will determine the normal modes in 
+
+3
+00:00:11,490 --> 00:00:15,375
+this system. 
+and as I mentioned, I'll do it actually 
+
+4
+00:00:15,375 --> 00:00:20,100
+in the chain, which means it's in 1D. 
+And I should mention that actually I 
+
+5
+00:00:20,100 --> 00:00:23,450
+could have done in two-dimensions or 
+three-dimensions. 
+
+6
+00:00:23,450 --> 00:00:26,254
+It would have been a little bit more 
+complicated. 
+
+7
+00:00:26,254 --> 00:00:29,959
+But otherwise, actually the difference, 
+the key features of the solution are 
+
+8
+00:00:29,959 --> 00:00:34,888
+pretty much the same in one-dimension. 
+And higher dimensions, apart from some 
+
+9
+00:00:34,888 --> 00:00:39,526
+polarization effects. 
+and for this reason, I will just 
+
+10
+00:00:39,526 --> 00:00:43,275
+concentrate on the simpler case of 1D. 
+But, you could have done it in any 
+
+11
+00:00:43,275 --> 00:00:46,149
+dimension. 
+So, the specific model I'm going to 
+
+12
+00:00:46,149 --> 00:00:50,784
+consider is presented here. So, 
+we will consider one dimensional chain.
+
+13
+00:00:50,784 --> 00:00:54,030
+So, we should imagine that this infinite 
+
+14
+00:00:54,030 --> 00:00:57,070
+chain, actually more specifically, I will 
+consider the so-called Periodic Boundary 
+
+15
+00:00:57,070 --> 00:01:00,275
+Conditions for simplicity. 
+But in an infinite system, it doesn't 
+
+16
+00:01:00,275 --> 00:01:03,781
+really matter. 
+And so, in this chain, as you can see, 
+
+17
+00:01:03,781 --> 00:01:08,553
+there are two types of atoms. 
+Well, these guys, the brown and red 
+
+18
+00:01:08,553 --> 00:01:14,159
+circles, they correspond, well in my 
+model to an atom of such 1D crystal. 
+
+19
+00:01:14,159 --> 00:01:22,767
+And the positions of atoms will be 
+labelled by x_n for lighter atoms and 
+
+20
+00:01:22,767 --> 00:01:29,086
+Y_n for heavier atoms. 
+And the index n here corresponds to, in 
+
+21
+00:01:29,086 --> 00:01:33,970
+some sense, to an elementary cell. 
+So here, at this elementary cell would be 
+
+22
+00:01:33,970 --> 00:01:38,617
+you know, one lighter atom and one 
+heavier atom. 
+
+23
+00:01:38,617 --> 00:01:44,139
+And, let's say the size of this 
+elementary cell will be two times the 
+
+24
+00:01:44,139 --> 00:01:50,391
+distance between the atoms. 
+And so n can be, you know, 1, 2, 3, 4, so 
+
+25
+00:01:50,391 --> 00:01:54,890
+have an infinite series of these 
+elementary cells. 
+
+26
+00:01:54,890 --> 00:01:59,050
+And also for the sake of simplicity I 
+will be measuring the distances in the 
+
+27
+00:01:59,050 --> 00:02:04,960
+beginning of my solution in the units of 
+this elementary cell size. 
+
+28
+00:02:04,960 --> 00:02:08,720
+So, I will essentially set 2a=1.
+
+29
+00:02:08,720 --> 00:02:15,410
+So, a is basically the equilibrium length 
+of a spring. 
+
+30
+00:02:15,410 --> 00:02:22,306
+So, 2a is essentially represents symmetry 
+of my, discrete symmetry in my 
+
+31
+00:02:22,306 --> 00:02:24,212
+problems. 
+So, if I translate everything by 2a, I 
+
+32
+00:02:24,212 --> 00:02:28,926
+get my crystal. 
+What I'm saying here is I'm going to be 
+
+33
+00:02:28,926 --> 00:02:33,423
+using the units where 2a is set to 1. 
+But basically, this is my problem. 
+
+34
+00:02:33,423 --> 00:02:37,230
+And so, let me write down first the 
+energy of this system.
+
+35
+00:02:37,230 --> 00:02:40,210
+And so, the energy is actually very 
+simple to write down. 
+
+36
+00:02:40,210 --> 00:02:43,576
+So the energy, as usual, will contain
+ the kinetic energy part
+
+37
+00:02:43,576 --> 00:02:47,976
+ and the potential energy part. 
+And so, the kinetic energy part includes 
+
+38
+00:02:47,976 --> 00:02:54,379
+the kinetic energy of all light atoms. 
+So this lower case p_n squared 
+
+39
+00:02:54,379 --> 00:02:58,268
+over 2m. 
+And the kinetic energy of the heavy 
+
+40
+00:02:58,268 --> 00:03:02,300
+atoms, so which actually have a color 
+code here, 
+
+41
+00:03:02,300 --> 00:03:07,134
+The sort of brownish font corresponds to 
+terms that are associated with lighter 
+
+42
+00:03:07,134 --> 00:03:12,644
+atoms, and the red font naturally 
+corresponds to terms which are associated 
+
+43
+00:03:12,644 --> 00:03:15,022
+with heavy atoms. 
+And then, there will be potential energy, 
+
+44
+00:03:15,022 --> 00:03:17,500
+which is just the usual Hook's Law if you 
+want. 
+
+45
+00:03:17,500 --> 00:03:23,735
+But I now have Hook's Law for every 
+single spring in this oscillator chain. 
+
+46
+00:03:23,735 --> 00:03:28,775
+So for example, in this nth elementary 
+cell, I'm going to have a term here 
+
+47
+00:03:28,775 --> 00:03:36,680
+associated with the spring between this 
+lighter atom and this heavier atom, M. 
+
+48
+00:03:36,680 --> 00:03:41,040
+And so this term essentially as is 
+corresponds to this this spring. 
+
+49
+00:03:41,040 --> 00:03:44,379
+But also, there will be an interaction 
+let's say, of this heavy atom with the 
+
+50
+00:03:44,379 --> 00:03:48,506
+lighter atom from the next elementary 
+cell, the nth+1 
+
+51
+00:03:48,506 --> 00:03:54,937
+elementary cell. 
+And so there is a term also here in this 
+
+52
+00:03:54,937 --> 00:03:59,244
+Hamiltonian, this classical Hamiltonian, 
+associated with this, nearest neighbor 
+
+53
+00:03:59,244 --> 00:04:01,770
+interaction. 
+Now, and of course, I have to sum over 
+
+54
+00:04:01,770 --> 00:04:07,210
+all these n's, and this will be will give 
+me the total energy of my classical 
+
+55
+00:04:07,210 --> 00:04:12,262
+crystal. 
+Now, the next step is  to actually
+
+56
+00:04:12,262 --> 00:04:18,672
+solve this problem is to write down the 
+equations of motion for all the particles 
+
+57
+00:04:18,672 --> 00:04:20,248
+involved. 
+And there's an infinite number of such 
+
+58
+00:04:20,248 --> 00:04:23,264
+particles. 
+And in our case, these equations have 
+
+59
+00:04:23,264 --> 00:04:25,995
+motion are nothing but Newton's 
+equations. 
+
+60
+00:04:25,995 --> 00:04:29,780
+well, associated with each of these 
+particles. 
+
+61
+00:04:29,780 --> 00:04:37,132
+And, as usual, while the Newton equation 
+is m times a, my mass times 
+
+62
+00:04:37,132 --> 00:04:39,510
+acceleration is equal to the sum of all 
+the forces. 
+
+63
+00:04:39,510 --> 00:04:44,540
+And the force can be found by, as a 
+derivative or gradient, in this case it's 
+
+64
+00:04:44,540 --> 00:04:49,377
+just one-dimensional gradient of the 
+corresponding potential energy. 
+
+65
+00:04:50,377 --> 00:04:55,270
+With the respect to the coordinate of a 
+particle where we're investigating. 
+
+66
+00:04:55,270 --> 00:04:59,033
+And so, for instance for the lighter
+ atoms, for the nth lighter atom,
+
+67
+00:04:59,033 --> 00:05:03,806
+ this will be the Newton law. 
+And for the nth heavy atom, this will be 
+
+68
+00:05:03,806 --> 00:05:07,512
+the Newton Law. 
+And so, if we just formally differentiate 
+
+69
+00:05:07,512 --> 00:05:14,248
+our potential energy, we get these 
+equations of motion for the lighter atoms 
+
+70
+00:05:14,248 --> 00:05:19,401
+and the heavy atoms. 
+And it's very natural that, there are 
+
+71
+00:05:19,401 --> 00:05:24,360
+two terms in each of these equations. 
+Because this essentially corresponds to 
+
+72
+00:05:24,360 --> 00:05:27,920
+having two springs attached to each of 
+the atoms. 
+
+73
+00:05:27,920 --> 00:05:34,249
+So, for example, here in this equation, 
+we can understand the first term as being 
+
+74
+00:05:34,249 --> 00:05:39,554
+associated with the force exerted on this 
+heavy atom by this spring. 
+
+75
+00:05:39,554 --> 00:05:45,702
+And the second term is going to be the 
+force exerted on the same atom by this 
+
+76
+00:05:45,702 --> 00:05:50,352
+other spring to the right. 
+So and the goal now is to solve these 
+
+77
+00:05:50,352 --> 00:05:53,170
+equations. 
+Of course, it's an infinite chain of 
+
+78
+00:05:53,170 --> 00:05:56,460
+equations because n goes from minus 
+infinity to plus infinity. 
+
+79
+00:05:56,460 --> 00:06:02,540
+So, this is an integer index which labels 
+our pairs of heavy and the light atoms. 
+
+80
+00:06:02,540 --> 00:06:06,017
+So here, I'm showing the same Newton's 
+Law that we derived in the previous 
+
+81
+00:06:06,017 --> 00:06:09,290
+slide, but now just slightly 
+reconstructed. 
+
+82
+00:06:09,290 --> 00:06:13,510
+So, I just grouped together this 2x_n 
+and 2Y_n. 
+
+83
+00:06:13,510 --> 00:06:18,020
+So, of course it's a very complicated 
+looking system of equations. 
+
+84
+00:06:18,020 --> 00:06:24,640
+We actually have an infinite system of 
+coupled differential equations and well 
+
+85
+00:06:24,640 --> 00:06:27,790
+naively, we would you could just say that 
+it's hopeless. 
+
+86
+00:06:27,790 --> 00:06:30,820
+You know, there's no way we could solve 
+such a complicated model. 
+
+87
+00:06:30,820 --> 00:06:37,064
+But it turns out that using combination 
+of a powerful mathematical method which 
+
+88
+00:06:37,064 --> 00:06:42,760
+we already used actually the fourier transform 
+and a reasonable physical guess. 
+
+89
+00:06:42,760 --> 00:06:48,200
+We can solve the problem in a few 
+relatively straight-forward steps. 
+
+90
+00:06:48,200 --> 00:06:53,761
+So, the method involved essentially a 
+fourier transform where we represent our 
+
+91
+00:06:53,761 --> 00:07:01,751
+time dependent coordinates of the light 
+and heavy atoms as linear combination. 
+
+92
+00:07:01,751 --> 00:07:07,130
+Or an integral over a wave vector of a 
+wave like excitation. 
+
+93
+00:07:07,130 --> 00:07:10,350
+So here, I have essentially a plain wave 
+in one dimension. 
+
+94
+00:07:10,350 --> 00:07:15,634
+And so, remember that I introduced  
+these units of 2a = 1. 
+
+95
+00:07:15,634 --> 00:07:21,255
+Therefore, this wave vector multiplies 
+just an integer label n, which labels my 
+
+96
+00:07:21,255 --> 00:07:29,475
+coordinates of my light atoms. 
+And, I represent the heavy atoms as a 
+
+97
+00:07:29,475 --> 00:07:34,380
+linear combination of their own wave is 
+some new amplitudes Y sub q. 
+
+98
+00:07:34,380 --> 00:07:42,165
+And here I use q*(n+1/2)
+because this guy is shifted by 1/2 in 
+
+99
+00:07:42,165 --> 00:07:46,597
+my units of length relative
+ to the light atom. 
+
+100
+00:07:46,597 --> 00:07:52,952
+And importantly, here I have the time 
+dependence again which is consistent with 
+
+101
+00:07:52,952 --> 00:07:55,650
+the wave like behavior. 
+So, I assume essentially that whatever 
+
+102
+00:07:55,650 --> 00:07:59,990
+solutions there are, this solution 
+represent waves running through this 
+
+103
+00:07:59,990 --> 00:08:05,065
+crystal. 
+And now, the next step in the solution is 
+
+104
+00:08:05,065 --> 00:08:11,082
+to plug in this trial functions into the 
+Newton equations. 
+
+105
+00:08:11,082 --> 00:08:16,632
+And to see if we can make, if we can find 
+a self consistent solution, which is 
+
+106
+00:08:16,632 --> 00:08:21,283
+consistent both with the Newton 
+equations, and with this representation. 
+
+107
+00:08:21,283 --> 00:08:25,731
+I'm going a bit ahead myself. 
+I would say that, of course, the reason 
+
+108
+00:08:25,731 --> 00:08:29,147
+I'm presenting the solution is because we 
+will indeed find that it's self-consistent.
+
+109
+00:08:29,147 --> 00:08:32,165
+But the self consistency will include in 
+
+110
+00:08:32,165 --> 00:08:40,140
+a very essential way a relation between 
+Omega and q, between the frequency of the wave.
+
+111
+00:08:40,140 --> 00:08:43,300
+And the wave vector. 
+
+112
+00:08:43,300 --> 00:08:48,347
+So and this is going to be 
+the dispersion of the waves, the possible 
+
+113
+00:08:48,347 --> 00:08:52,500
+dispersion of the waves. 
+And basically, to solve the problem in 
+
+114
+00:08:52,500 --> 00:08:58,170
+this context means to find this 
+dispersion basically to find Omega as a 
+
+115
+00:08:58,170 --> 00:09:01,590
+function of q.
+So now, let me consider every single 
+
+116
+00:09:01,590 --> 00:09:07,616
+term, let's say in the first Newton 
+equation, corresponding to the light atoms. 
+
+117
+00:09:07,616 --> 00:09:10,112
+So, the first term on the left-hand side 
+
+118
+00:09:10,112 --> 00:09:14,789
+the second derivative of the coordinate 
+with respect to the time. 
+
+119
+00:09:14,789 --> 00:09:20,128
+The acceleration here is going to involve 
+the integral over all wave vectors. 
+
+120
+00:09:20,128 --> 00:09:24,344
+and I will just label this integral as 
+as integral sub q, not to write the 
+
+121
+00:09:24,344 --> 00:09:30,136
+differentials. 
+and here I'm going to have x sub q. 
+
+122
+00:09:30,136 --> 00:09:34,076
+And the derivative of the exponential 
+with respect to time is going to produce 
+
+123
+00:09:34,076 --> 00:09:41,220
+minus i Omega squared exponential of iqn 
+minus i Omega t. 
+
+124
+00:09:41,220 --> 00:09:46,658
+So, this is just minus Omega squared. 
+Now, I also have here this term of
+
+125
+00:09:46,658 --> 00:09:53,584
+ Y_n + Y_(n+1), which essentially 
+corresponds here in this picture. 
+
+126
+00:09:53,584 --> 00:09:59,354
+to having this red atom to the left and 
+the red atom to the right. 
+
+127
+00:09:59,354 --> 00:10:06,026
+And so, if I now calculate this term,
+Y_n+Y_(n-1), I simply can 
+
+128
+00:10:06,026 --> 00:10:10,980
+write this expression. 
+So I have an integral sub q, Y sub q. 
+
+129
+00:10:10,980 --> 00:10:18,217
+And here I have a sum of two terms, e to 
+the power iq n plus 1 half plus e to the 
+
+130
+00:10:18,217 --> 00:10:25,135
+power iqn minus 1 half. 
+Because now this corresponds to n minus 
+
+131
+00:10:25,135 --> 00:10:31,261
+1, e to the power minus i Omega t. 
+Or I can factor out this e to the bar 
+
+132
+00:10:31,261 --> 00:10:35,805
+iqn, and here I will have e to the power iq 
+over 2, plus e to the power minus iq over 
+
+133
+00:10:35,805 --> 00:10:39,516
+2. 
+And this is equal to the cosine, 
+
+134
+00:10:39,516 --> 00:10:44,616
+proportional to the cosine. 
+So, I can write it identically as an 
+
+135
+00:10:44,616 --> 00:10:55,284
+integral over q, Y sub q, twice cosine of 
+q over 2 multiplying the same exponential 
+
+136
+00:10:55,284 --> 00:11:01,090
+as in this term here. 
+And if I put everything together. 
+
+137
+00:11:01,090 --> 00:11:06,446
+So what I'm going to get is and basically 
+if I focus only on the coefficients, 
+
+138
+00:11:06,446 --> 00:11:13,066
+which multiply the same plane waves in 
+each of these integrals, I can write 
+
+139
+00:11:13,066 --> 00:11:17,597
+essentially the same Newton's Law. 
+But now, in the Fourier space as minus 
+
+140
+00:11:17,597 --> 00:11:31,450
+m Omega squared x sub q from this guy is 
+equal to k twice Y sub q cosine q over 2. 
+
+141
+00:11:31,450 --> 00:11:37,190
+This term, which we just derived minus 2x 
+sub q. 
+
+142
+00:11:37,190 --> 00:11:45,190
+And this is essentially the Newton Law 
+corresponding to the light atoms written 
+
+143
+00:11:45,190 --> 00:11:49,490
+in the Fourier space. 
+Of course, we can repeat the same kind of 
+
+144
+00:11:49,490 --> 00:11:52,850
+procedure for the second Newton Law for 
+the heavy atoms. 
+
+145
+00:11:52,850 --> 00:11:57,475
+And if we do so we are going to get the 
+following system of equations. 
+
+146
+00:11:57,475 --> 00:12:00,895
+So, the first one we just derived, and 
+the second one I didn't explicitly 
+
+147
+00:12:00,895 --> 00:12:05,850
+derive, but it's derived in a very 
+similar fashion. 
+
+148
+00:12:05,850 --> 00:12:12,778
+So and well the good thing about these 
+equations first of all that instead of an 
+
+149
+00:12:12,778 --> 00:12:16,676
+infinite chain of coupled equations. 
+Actually just have two coupled equations, 
+
+150
+00:12:16,676 --> 00:12:19,039
+okay? 
+You see that of course, I have all 
+
+151
+00:12:19,039 --> 00:12:22,478
+different q's involved. 
+So, I can change my q, but there is no 
+
+152
+00:12:22,478 --> 00:12:26,360
+coupling between different q's. 
+Unlike in real space where we need to 
+
+153
+00:12:26,360 --> 00:12:32,304
+have coupling between neighboring size n, 
+and another thing which is good is that 
+
+154
+00:12:32,304 --> 00:12:38,390
+its no longer a differential equation. 
+Instead of the derivative, I now have just 
+
+155
+00:12:38,390 --> 00:12:42,780
+omega squared here. 
+So, it's much easier now to deal with 
+
+156
+00:12:42,780 --> 00:12:48,070
+this essentially linear 2 by 2 
+system of equations. 
+
+157
+00:12:49,090 --> 00:12:54,930
+And to solve the remaining part, let me 
+just rewrite the same equation in a 
+
+158
+00:12:54,930 --> 00:12:57,140
+slightly different form. 
+I will write it as a matrix. 
+
+159
+00:12:57,140 --> 00:13:00,426
+Well, it's the same equation I just had 
+before, but now I wrote in a slightly 
+
+160
+00:13:00,426 --> 00:13:05,280
+different way. 
+I wrote it as a matrix, 2x2 matrix acting 
+
+161
+00:13:05,280 --> 00:13:10,568
+on a vector if you want, which contains 
+the Fourier component of the coordinates 
+
+162
+00:13:10,568 --> 00:13:14,344
+of the light atoms and the Fourier 
+components of the coordinates of the 
+
+163
+00:13:14,344 --> 00:13:17,820
+heavy atoms. 
+And the, the right-hand side is zero. 
+
+164
+00:13:17,820 --> 00:13:21,084
+Because if we go back, we see that all 
+the terms here are proportional to one or 
+
+165
+00:13:21,084 --> 00:13:25,810
+the other coordinate, there is no free 
+terms here which is just constants. 
+
+166
+00:13:25,810 --> 00:13:29,008
+So I can write it like that and it's 
+equal to zero. 
+
+167
+00:13:29,008 --> 00:13:32,846
+And maybe most of your, or some of, you 
+know, from linear algebra. 
+
+168
+00:13:32,846 --> 00:13:36,674
+That in order for me to be able to have a 
+non-trivial solution to this equation, 
+
+169
+00:13:36,674 --> 00:13:41,956
+which is not identically equal to zero. 
+Basically, a solution where x and q are 
+
+170
+00:13:41,956 --> 00:13:47,174
+not identically equal to zero. 
+I have to ensure that the determinant of 
+
+171
+00:13:47,174 --> 00:13:51,840
+this matrix, so the determinant of this 
+matrix vanishes. 
+
+172
+00:13:51,840 --> 00:13:56,600
+And well this is determinant of a 2x2 
+matrix, which I can calculate. 
+
+173
+00:13:56,600 --> 00:14:02,496
+And well, if you do so, you will get the 
+following equation, which is the 
+
+174
+00:14:02,496 --> 00:14:06,034
+algebraic equation. 
+And essentially, it reduces to a 
+
+175
+00:14:06,034 --> 00:14:08,850
+quadratic equation. 
+Well, it's, formally, it's an equation of 
+
+176
+00:14:08,850 --> 00:14:10,795
+the 4th order. 
+But there is only Omega squared involved. 
+
+177
+00:14:11,980 --> 00:14:16,228
+So all, all in all, it's just a quadratic 
+equation that I hope most of you know how 
+
+178
+00:14:16,228 --> 00:14:23,020
+to deal with. 
+And well, what is this equation for? 
+
+179
+00:14:23,020 --> 00:14:26,260
+Okay, this is again, an equation for the 
+frequency. 
+
+180
+00:14:26,260 --> 00:14:31,151
+Or more precisely, for the dependence of 
+the frequency on the wave vector, which 
+
+181
+00:14:31,151 --> 00:14:36,528
+is known as a dispersion relation. 
+Well, we have seen actually many 
+
+182
+00:14:36,528 --> 00:14:40,752
+dispersion relations already in this 
+course in the context of Quantum Physics 
+
+183
+00:14:40,752 --> 00:14:45,594
+and also classical Physics. 
+For instance, when we talk about the 
+
+184
+00:14:45,594 --> 00:14:52,683
+energy of a particle, the free particle 
+being proportional to p squared. 
+
+185
+00:14:52,683 --> 00:14:55,715
+So, this is essentially dispersional 
+relation, say of an electron or any other 
+
+186
+00:14:55,715 --> 00:14:58,900
+free particle. 
+When we talk about the dispersion
+
+187
+00:14:58,900 --> 00:15:04,131
+relation of a photon where Omega scales 
+linearly with the wave vector. 
+
+188
+00:15:04,131 --> 00:15:08,870
+This is well the dispersion relation of 
+electromagnetic waves. 
+
+189
+00:15:08,870 --> 00:15:14,030
+So now, we have here an equation which 
+determines the dispersion relation of 
+
+190
+00:15:14,230 --> 00:15:18,596
+elastic waves, otherwise 
+known as phonons. 
+
+191
+00:15:18,596 --> 00:15:26,500
+Which can exist in this sort of simple 
+model of a one-dimensional crystal. 
+
+192
+00:15:26,500 --> 00:15:32,910
+So, now before solving this equation, let 
+me go back to the sort of physical, 
+
+193
+00:15:32,910 --> 00:15:37,090
+original physical units where the 
+dimension of length is restored. 
+
+194
+00:15:37,090 --> 00:15:42,493
+So, here we have this q, the wave vector 
+which is measured in 1 over distance. 
+
+195
+00:15:42,493 --> 00:15:48,317
+And remember that the convention 
+was that 2a, a being basically the size 
+
+196
+00:15:48,317 --> 00:15:53,334
+of the length of a spring was equal to 1. 
+So, if we want to restore the right 
+
+197
+00:15:53,334 --> 00:15:59,618
+physical dimension, I should multiply 
+this q here by 2a and also of course,
+
+198
+00:15:59,618 --> 00:16:02,589
+ 1 minus cosine squared is equal to sine 
+squared. 
+
+199
+00:16:02,589 --> 00:16:08,029
+So, I can just rewrite in the usual 
+physical units, I can write this 
+
+200
+00:16:08,029 --> 00:16:15,182
+term as sine squared q times a. 
+And now well again, this is just a 
+
+201
+00:16:15,182 --> 00:16:22,100
+quadratic equation for Omega. 
+So, if I solve it I will get two branches 
+
+202
+00:16:22,100 --> 00:16:27,780
+with a plus and minus sign. 
+And well, I get there actually 
+
+203
+00:16:27,780 --> 00:16:32,680
+a rather non-linear and non-trivial relation 
+between omega and q. 
+
+204
+00:16:32,680 --> 00:16:36,145
+There are two relations as a matter, two 
+types of excitations, two types of 
+
+205
+00:16:36,145 --> 00:16:39,350
+waves or normal modes
+ that I get out of this 
+
+206
+00:16:39,350 --> 00:16:44,306
+solution. 
+So, and if I plug in this dispersion
+
+207
+00:16:44,306 --> 00:16:51,520
+relations, so this would be my Omega of 
+q, and q here is defined. 
+
+208
+00:16:51,520 --> 00:16:59,430
+I should have mentioned it before between 
+minus pi over a up to pi over a. 
+
+209
+00:16:59,430 --> 00:17:06,248
+So, we'll get two terms. 
+There will be a branch corresponding to 
+
+210
+00:17:06,248 --> 00:17:09,483
+plus sign, the plus branch which will look 
+like this. 
+
+211
+00:17:09,483 --> 00:17:14,385
+And there will be a branch corresponding 
+to minus sign which will look 
+
+212
+00:17:14,385 --> 00:17:20,917
+approximately as so. So, this is 
+Omega minus and this is Omega plus.
+
+213
+00:17:20,917 --> 00:17:23,798
+And the Omega minus is called Acoustic 
+
+214
+00:17:23,798 --> 00:17:30,170
+Phonons, and the Omega plus is called 
+Optical Phonons. 
+
+215
+00:17:30,170 --> 00:17:37,785
+So as you can see, there is a gap separating
+ this optical phonons from zero energy. 
+
+216
+00:17:37,785 --> 00:17:38,921
+So, if we hit our oscillator 
+
+217
+00:17:38,921 --> 00:17:46,696
+chain with a hammer and it's going to be 
+a non-linear perturbation. 
+
+218
+00:17:46,696 --> 00:17:49,368
+We're going to excite all kinds of modes. 
+But if we just touch it very slightly, 
+
+219
+00:17:49,368 --> 00:17:53,848
+very gently and apply just a weak 
+perturbation, there is no way we can 
+
+220
+00:17:53,848 --> 00:17:58,820
+excite an optical phonon. 
+We're only going to excite these energy 
+
+221
+00:17:58,820 --> 00:18:02,870
+excitations in the vicinity of zero 
+energy. 
+
+222
+00:18:02,870 --> 00:18:07,710
+So, this is basically the energy 
+associated energy that we would need to 
+
+223
+00:18:07,710 --> 00:18:11,032
+spend in order to excite in this case 
+acoustic modes. 
+
+224
+00:18:11,032 --> 00:18:16,256
+And the dispersion of the acoustic modes 
+as q goes to zero, we'll also discuss it 
+
+225
+00:18:16,256 --> 00:18:22,087
+in the next slide is a linear dispersion. 
+And this type of linear dispersion is 
+
+226
+00:18:22,087 --> 00:18:28,235
+called sound, sound-like dispersion. 
+And the coefficient of proportionality, 
+
+227
+00:18:28,235 --> 00:18:32,424
+basically Omega as a function of q, in 
+the q to 0 limit, for this acoustic 
+
+228
+00:18:32,424 --> 00:18:36,805
+phonons. 
+And this coefficient of proportionality 
+
+229
+00:18:36,805 --> 00:18:39,989
+is the speed of sound. 
+I actually forgot to mention a couple of 
+
+230
+00:18:39,989 --> 00:18:42,958
+things here. 
+So in this equation, there appears this 
+
+231
+00:18:42,958 --> 00:18:46,197
+variable mu. 
+So, mu here is simply the reduced mass 
+
+232
+00:18:46,197 --> 00:18:50,240
+which, we actually have seen before, quite a 
+few times. 
+
+233
+00:18:50,240 --> 00:18:57,965
+Which is, in this case, the product of 
+the mass of light atoms and heavy atoms 
+
+234
+00:18:57,965 --> 00:19:01,038
+ divided by their sum. 
+And the last thing I'm going to mention 
+
+235
+00:19:01,038 --> 00:19:06,040
+on this slide is something about the 
+optical phonons. 
+
+236
+00:19:06,040 --> 00:19:10,330
+Namely that the existence of this optical 
+branch is related to the fact that we 
+
+237
+00:19:10,330 --> 00:19:15,840
+have two types of atoms 
+present in our crystal. 
+
+238
+00:19:15,840 --> 00:19:21,683
+So, if we had just one type of atom, 
+let's say these blue atoms were the only 
+
+239
+00:19:21,683 --> 00:19:23,603
+type of atoms. 
+Then, we would not have had the optical 
+
+240
+00:19:23,603 --> 00:19:28,440
+branch and we only would've had the 
+acoustic branch. 
+
+241
+00:19:28,440 --> 00:19:33,960
+Which by the way, the acoustic branch 
+corresponds to what I was discussing in the 
+
+242
+00:19:33,960 --> 00:19:37,370
+end of the previous lecture to the 
+presence of this sort of broken symmetry 
+
+243
+00:19:37,370 --> 00:19:42,288
+in the crystal. 
+So finally, let me calculate the speed of 
+
+244
+00:19:42,288 --> 00:19:46,293
+sound, that is the coefficient of 
+proportionality in this dispersion of 
+
+245
+00:19:46,293 --> 00:19:55,056
+the acoustic wave as q goes to zero. 
+So as we can see here so if we just focus 
+
+246
+00:19:55,056 --> 00:20:07,008
+on the minus sign in this equation, okay? 
+So and if we consider the limit of q very 
+
+247
+00:20:07,008 --> 00:20:13,652
+small, then this guy can be expanded in 
+Taylor series just up to first order. 
+
+248
+00:20:13,652 --> 00:20:17,300
+So, we're just going to have qa squared 
+instead of the sine. 
+
+249
+00:20:17,300 --> 00:20:21,986
+And also well, this whole thing, the 
+square root of 1 minus this 4 mu squared 
+
+250
+00:20:21,986 --> 00:20:30,048
+over m M qa squared in the limit of small 
+q. 
+
+251
+00:20:30,048 --> 00:20:35,022
+It can be written again using the Taylor 
+series if we have 1 minus epsilon. 
+
+252
+00:20:35,022 --> 00:20:39,048
+And the epsilon is small, we can 
+approximately write it as 1 minus epsilon 
+
+253
+00:20:39,048 --> 00:20:41,440
+over 2. So, in this case,
+ epsilon is this whole thing.
+
+254
+00:20:41,440 --> 00:20:42,424
+And this thing is small because we are 
+
+255
+00:20:42,424 --> 00:20:47,596
+near the zero momentum and zero energy. 
+So, we can write that approximately as
+
+256
+00:20:47,596 --> 00:20:57,556
+1 minus 2 mu squared mM qa squared. 
+So, if we plug it back in here, so we're 
+
+257
+00:20:57,556 --> 00:21:01,174
+going to see that 1 minus 1 gives us 
+zero, and we have just this guy in here.
+
+258
+00:21:01,174 --> 00:21:07,082
+So, the spectrum of the acoustic phonons 
+
+259
+00:21:07,082 --> 00:21:22,804
+in the q to zero limit is approximately 
+equal to k over mu 2 mu squared and mM qa squared. 
+
+260
+00:21:22,804 --> 00:21:26,505
+Or we can cancel these guys and we're 
+
+261
+00:21:26,505 --> 00:21:30,227
+going to have simply recalling the 
+definition of the reduced mass
+
+262
+00:21:30,227 --> 00:21:41,304
+ two times the stiffness divided by the 
+sum of two masses, times qa squared. 
+
+263
+00:21:41,304 --> 00:21:47,444
+Or, if we take finally the square root of 
+this expression, we're going to get Omega 
+
+264
+00:21:47,444 --> 00:21:53,849
+minus, in the q to zero limit, is 
+approximately equal to the square root of 
+
+265
+00:21:53,849 --> 00:22:03,270
+2k a squared, m plus M times q. 
+And this is our speed of sound. 
+
+266
+00:22:05,620 --> 00:22:09,520
+So in the next video, I'm going to redo 
+the problem. 
+
+267
+00:22:09,520 --> 00:22:13,845
+Actually, in the quantum limit. 
+And surprisingly, we're going to 
+
+268
+00:22:13,845 --> 00:22:18,170
+see that the solution is not more 
+complicated than in the classical limit. 
+
+269
+00:22:18,170 --> 00:22:22,010
+Well, I actually find the quantum 
+solution actually easier than the 
+
+270
+00:22:22,010 --> 00:22:26,452
+classical solution. But in any 
+case however you classify the 
+
+271
+00:22:26,452 --> 00:22:31,209
+solution, easier or more complicated, the 
+solution is actually going to be quite 
+
+272
+00:22:31,209 --> 00:22:38,233
+similar to what we found here. 
+And the spectrum of the quantum phonons 
+
+273
+00:22:38,233 --> 00:22:42,907
+will turn out to be exactly equal to the 
+spectrum of the classical formulas. 
+
+274
+00:22:42,907 --> 00:22:50,329
+So which is another sort of striking 
+manifestation of quantum to classical 
+
+275
+00:22:50,329 --> 00:22:52,070
+correspondence, in actually a rather 
+complicated system. 
+
+276
+00:22:52,070 --> 00:22:55,200
+In this case, this system models a 
+crystal. 

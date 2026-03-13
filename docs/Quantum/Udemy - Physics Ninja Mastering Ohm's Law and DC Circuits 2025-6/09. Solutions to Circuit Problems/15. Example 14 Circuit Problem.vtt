@@ -1,0 +1,405 @@
+WEBVTT
+
+WEBVTT
+
+00:00.340 --> 00:06.360
+Are 14 again similar to the other one if you more resistors looks a little bit harder find the equivalent
+
+00:06.360 --> 00:13.180
+resistance between points A and B do the exact same thing as what I previously did at the bottom here
+
+00:13.180 --> 00:17.210
+is pretty simple this is for what else.
+
+00:17.210 --> 00:25.270
+9 8 9 8 if you combine both of those you multiply them divided by the sum you'll also get four.
+
+00:25.380 --> 00:26.390
+So that one's easy.
+
+00:26.390 --> 00:29.520
+It's a bottom branch of the top branch.
+
+00:29.520 --> 00:32.200
+I'm going to leave this 6 over here for now.
+
+00:32.200 --> 00:33.690
+Now let's simplify all of these two.
+
+00:33.690 --> 00:40.160
+So first of all this two and the four can be combined in series with each other so that 6 ohms.
+
+00:40.490 --> 00:43.160
+And then you have a four and a six.
+
+00:43.170 --> 00:46.930
+How do you combine both of those four and six.
+
+00:47.040 --> 00:52.190
+Again remember what you have here you know for here you're going to have six.
+
+00:52.200 --> 00:57.900
+How can I simplify both of those on both of those you can multiply them divided by the sum you multiply
+
+00:57.900 --> 01:02.420
+them you get 24 divided by 10 that gives me 2.4.
+
+01:03.240 --> 01:03.470
+All right.
+
+01:03.480 --> 01:14.110
+So this whole thing this whole bit over here could be simplified into a 2.4 ohm equivalent resistor.
+
+01:14.220 --> 01:17.370
+So you go back to my diagram over here.
+
+01:17.700 --> 01:22.180
+So I have 2.4 something like this.
+
+01:22.230 --> 01:22.740
+OK.
+
+01:22.890 --> 01:25.790
+Now it's still on done but we're getting there.
+
+01:26.070 --> 01:31.690
+So the bottom over here again these I can group together that's very easy.
+
+01:31.860 --> 01:37.680
+That's an 8 ohm equivalent resistor and up here I have a six and a 2.4.
+
+01:37.980 --> 01:41.610
+Well that's an eight point four ohm equivalent resistor.
+
+01:42.270 --> 01:45.200
+So at the end we're left with an eight point four and an eight.
+
+01:45.240 --> 01:47.430
+And those are in parallel with each other.
+
+01:47.850 --> 01:57.590
+So the equivalent resistor of the entire thing I can multiply those and divide by the sum
+
+02:01.040 --> 02:04.450
+at the end thing I got 4.1.
+
+02:05.620 --> 02:07.690
+So that was pretty straightforward.
+
+02:07.690 --> 02:08.020
+All right.
+
+02:08.020 --> 02:11.820
+Now gets a little bit complicated because the numbers are not very kind.
+
+02:11.830 --> 02:15.720
+So for this we're going to have to do it just numerically using the calculator.
+
+02:15.820 --> 02:16.370
+OK.
+
+02:16.660 --> 02:22.380
+So let's first find how much current is actually flowing into this first junction over here.
+
+02:22.430 --> 02:22.850
+Right.
+
+02:23.230 --> 02:29.010
+Because we've simplified this entire network so we can find how much current is out here in these branches.
+
+02:29.560 --> 02:30.690
+Let's do that.
+
+02:31.000 --> 02:38.640
+So again the current simply going to be the voltage which is 12 divided by point 4.1.
+
+02:38.980 --> 02:43.090
+So that gave me 2.9 three.
+
+02:43.630 --> 02:48.720
+So that was the current I flowing into the junction.
+
+02:48.760 --> 02:49.050
+All right.
+
+02:49.060 --> 02:50.760
+So is the junction.
+
+02:50.800 --> 02:57.550
+Now what I'm going to do is I'm going to call the current one flowing upstairs and the current two flowing
+
+02:57.550 --> 03:00.400
+downstairs like this.
+
+03:00.490 --> 03:06.110
+So we have to have that 2.9 three must be equal to one plus two.
+
+03:06.190 --> 03:09.950
+That's the junction rule.
+
+03:10.140 --> 03:11.950
+We can call this equation 1.
+
+03:12.010 --> 03:16.390
+Now the other thing we can do now is we can also write down either a loop rule or you can automatically
+
+03:16.390 --> 03:21.340
+write it down that the voltage across the top branch has to be equal to the voltage across the bottom
+
+03:21.340 --> 03:31.420
+range the voltage across the top branch is eight point four multiplied by one must be equal to the voltage
+
+03:31.420 --> 03:34.970
+across the bottom branch because they are in parallel with each other.
+
+03:35.020 --> 03:40.490
+So this is eight multiplied by two.
+
+03:40.840 --> 03:46.240
+So while it's kind of simplify that using an equation one now equation one let's just call it equation
+
+03:46.240 --> 03:49.150
+one prime becomes this 2.9 3.
+
+03:49.630 --> 03:52.650
+That must be equal to.
+
+03:53.860 --> 03:54.080
+Right.
+
+03:54.080 --> 03:55.750
+This is one.
+
+03:56.040 --> 04:04.040
+Now eliminate eye to high to simply be eight point four divided by eight multiplied by 1.
+
+04:04.060 --> 04:09.760
+So at the end the value of Iowa and you get from this equation over here after substituting everything
+
+04:09.760 --> 04:15.430
+in I think I got one point for three.
+
+04:16.570 --> 04:17.160
+OK.
+
+04:17.320 --> 04:21.980
+Now I go back to my Dzogchen rule equation 1 I know I was 1.4 3.
+
+04:22.060 --> 04:24.710
+This here was 2.9 3.
+
+04:25.060 --> 04:30.860
+Well you can automatically find what the current too is right.
+
+04:30.910 --> 04:36.130
+Aitu should be approximately 1.5.
+
+04:36.520 --> 04:39.280
+Now all of these are going to be within kind of one one hundredth three.
+
+04:39.280 --> 04:40.450
+There might be some rounding error.
+
+04:40.450 --> 04:42.080
+So be a little bit careful.
+
+04:42.640 --> 04:42.880
+All right.
+
+04:42.880 --> 04:44.950
+The next thing that's kind of easy is.
+
+04:45.200 --> 04:47.650
+Well let's look at the bottom branch.
+
+04:47.920 --> 04:52.300
+This is the bottom branch I found I just found that I too was going down here.
+
+04:52.300 --> 04:55.860
+That means that the current through this guy has to be Aitu.
+
+04:56.610 --> 05:00.020
+Now I two approaches this junction over here.
+
+05:00.460 --> 05:04.350
+Now look what happens there's an 8 ohm resistance up here so it's going to be split.
+
+05:04.510 --> 05:06.460
+Part of that curve is going to go up here.
+
+05:06.580 --> 05:09.830
+Part of it's going to be going over in that direction.
+
+05:10.270 --> 05:12.510
+Let's call this current i3.
+
+05:12.760 --> 05:21.790
+This one must also be equal to i3 because the resistances are both 8 ohms and that's the only way that
+
+05:21.790 --> 05:24.450
+the voltage is going to be the same.
+
+05:25.660 --> 05:32.290
+So does that automatically tell us tells us that that current three must be exactly half so must be
+
+05:32.440 --> 05:37.850
+0.75 because you have 1.5 coming in.
+
+05:37.930 --> 05:39.600
+Point 7 5 is going to go up.
+
+05:39.590 --> 05:41.380
+Point seven five is going to go down.
+
+05:41.650 --> 05:41.860
+OK.
+
+05:41.860 --> 05:45.150
+So we've solved everything over here.
+
+05:45.220 --> 05:46.860
+Let's go back to the top.
+
+05:47.140 --> 05:52.350
+So we had obtain i 1 is going here that means I won is flowing through that 6 ohm resistor.
+
+05:52.900 --> 05:53.980
+And now what happens.
+
+05:53.980 --> 05:56.830
+Well now it's me kind of draw on this one.
+
+05:57.220 --> 06:00.290
+So you have I won going into that junction.
+
+06:00.730 --> 06:05.380
+Now some of the currents going to go up here and some of the current is going to go through the six
+
+06:05.380 --> 06:09.960
+ohm resistor or the two and the four if you want.
+
+06:10.360 --> 06:18.760
+So let me call this I-5 Let's call this one here I 6 so we can write a junction rule here that says
+
+06:18.760 --> 06:28.680
+that I one must be equal to I five plus six.
+
+06:28.850 --> 06:34.130
+So we have an equation here for high five and six but we only have one.
+
+06:34.130 --> 06:36.390
+So we need at least one other equation.
+
+06:37.080 --> 06:43.910
+But the only thing you have to remember is that the voltage drop across across the forum resists there
+
+06:44.240 --> 06:50.120
+must be equal to the voltage drop across the six ohm resistor because they are in parallel with each
+
+06:50.120 --> 06:51.100
+other.
+
+06:51.830 --> 06:57.800
+So again it's kind of similar to what we did before so the voltage drop across the forum resistor is
+
+06:57.800 --> 07:05.510
+four times five and the voltage drop across the six ohm or which is an equivalent one but it's six times
+
+07:05.690 --> 07:07.890
+six.
+
+07:08.320 --> 07:14.950
+So that automatically means that I-5 has to be 1.5 times six.
+
+07:15.390 --> 07:17.300
+You can go ahead and substitute that in here.
+
+07:17.480 --> 07:23.120
+And then you're going to get one equation for I-5.
+
+07:23.660 --> 07:26.960
+So at the end what you end up getting you could solve this.
+
+07:26.960 --> 07:33.830
+You get one point for three has to be equal to five plus
+
+07:36.730 --> 07:38.940
+know soil's do it the other way around.
+
+07:39.380 --> 07:40.740
+I just realized what I did here.
+
+07:40.940 --> 07:49.910
+I said I five was 1.5 times six so this is 1.5 6 Plus I 6.
+
+07:49.980 --> 07:52.600
+Solve this for six.
+
+07:52.870 --> 07:57.660
+I will give you approximately 0.5 7 amps.
+
+07:58.250 --> 08:03.770
+Once you get I 6 is 5.7 5 7 amps.
+
+08:03.800 --> 08:10.220
+We can then go back and automatically solve for what 5 is because you know its 1.5 times six.
+
+08:10.370 --> 08:15.970
+This guy here gives you a 0.6.
+
+08:16.020 --> 08:17.760
+All right so let's go back to the diagram.
+
+08:17.820 --> 08:19.080
+That means so we had.
+
+08:19.080 --> 08:21.170
+Remember let's go back to this original figure.
+
+08:21.390 --> 08:24.660
+So I won the current I won.
+
+08:24.750 --> 08:29.100
+Where was it 1.4 3.
+
+08:29.160 --> 08:32.980
+Think about it you're going to have more current flowing through the top.
+
+08:33.360 --> 08:38.930
+So I-5 is at zero point eighty six.
+
+08:38.940 --> 08:43.310
+You have less current flowing through this bottom branch because there's more resistance.
+
+08:43.310 --> 08:51.320
+The current flowing through that bottom branch here is 0.5 7 amps and kind of boxed this up here so
+
+08:51.330 --> 08:54.920
+you can find the solution quickly.
+
+08:55.200 --> 08:58.040
+But it's always using the same kind of steps.
+
+08:58.040 --> 08:58.630
+OK.
+
+08:58.740 --> 09:01.520
+Hopefully you kind of start seeing that now.
+
+09:02.220 --> 09:08.070
+It's kind of simplified in terms of equivalent resistances at the beginning and applied junction rules
+
+09:08.070 --> 09:14.400
+and then you end up getting all these kind of these parallel branches in most of these cases.
+
+09:14.760 --> 09:19.760
+And for that you also have to write down that the voltage across each branch has to be the same.
+
+09:19.830 --> 09:22.970
+So you end up ex-British having expressions like this one.
+
+09:23.130 --> 09:26.950
+You end up having an expression like this one over here.
+
+09:27.570 --> 09:32.200
+And then you can use that in our junction rules in order to simplify and solve for the unknowns.

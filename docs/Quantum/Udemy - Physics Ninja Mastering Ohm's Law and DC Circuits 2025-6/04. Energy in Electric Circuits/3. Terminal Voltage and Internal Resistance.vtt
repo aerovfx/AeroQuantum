@@ -1,0 +1,159 @@
+WEBVTT
+
+WEBVTT
+
+00:00.860 --> 00:03.530
+All right we're getting closer now to real circuits here.
+
+00:03.540 --> 00:11.070
+So let's consider this one here we have a battery which has an e-mail equal to E and it's connected
+
+00:11.070 --> 00:12.000
+to a resistor.
+
+00:12.000 --> 00:14.650
+There are now the wire itself.
+
+00:14.680 --> 00:19.890
+Here we're going to neglect any of the resistance of the wire because it's so much smaller than the
+
+00:19.890 --> 00:22.590
+resistance here that have connected to it.
+
+00:22.740 --> 00:24.180
+Now in the ideal case
+
+00:27.180 --> 00:33.290
+the one I have in that diagram if you wanted to calculate the current well is say we have an MF here
+
+00:33.300 --> 00:39.390
+so the terminal voltage here if you label the points the positive terminal is a the negative terminal
+
+00:39.390 --> 00:44.520
+is B the voltage between points and B V-A mine is.
+
+00:44.520 --> 00:48.010
+VB is given by that ESF.
+
+00:48.270 --> 00:56.010
+And now if you apply Ohm's law to this Ohm's law says that voltage must be equal to the current multiplied
+
+00:56.010 --> 00:57.790
+by the resistance.
+
+00:57.870 --> 01:04.260
+So the current that you're going to get is going to be equal to the IMF or the battery divided by the
+
+01:04.260 --> 01:07.720
+resistance a resistor that I connect to it.
+
+01:08.010 --> 01:11.420
+So the smaller I make the resistance the more current I'm going to get.
+
+01:11.420 --> 01:14.980
+The bigger I make the resistance the less current I get.
+
+01:15.090 --> 01:17.460
+Now how does that compare to real life
+
+01:21.360 --> 01:26.590
+in real life actually if you go ahead and look at what this terminal voltages.
+
+01:26.790 --> 01:27.690
+That's what this is right.
+
+01:27.690 --> 01:29.800
+The voltage between the two ends of the battery
+
+01:33.980 --> 01:38.780
+the terminal voltage is actually a little bit smaller than that and it's a little bit smaller than that
+
+01:38.810 --> 01:43.390
+because inside the battery there is also some internal resistance
+
+01:46.660 --> 01:49.080
+my batteries get hot.
+
+01:49.450 --> 01:50.580
+Or am I going with this.
+
+01:50.590 --> 01:52.180
+Let's try this again.
+
+01:52.810 --> 01:59.050
+Internal resistance.
+
+01:59.220 --> 02:03.780
+And when you have internal resistance if you go ahead and look at the terminal voltage.
+
+02:03.780 --> 02:10.950
+Now again if I would go through and I measure the voltage across the battery actually you get something
+
+02:10.950 --> 02:14.480
+that is a little bit smaller.
+
+02:14.520 --> 02:21.240
+First you get my ideal MF source but you'd get something that's a little bit smaller and the amount
+
+02:21.240 --> 02:25.490
+that it's smaller will depend on how much current is actually flowing in the circuit.
+
+02:25.770 --> 02:29.370
+And it also depends on the internal resistance so little are.
+
+02:29.370 --> 02:33.880
+Here is what I'm going to call this internal resistance.
+
+02:34.560 --> 02:38.450
+Actually I'm just connect that to what I've already written down.
+
+02:39.180 --> 02:42.720
+So this here is the internal resistance of the battery.
+
+02:42.750 --> 02:48.240
+So now if you really wanted to apply ohms law to this circuit what you would have to do now is well
+
+02:48.240 --> 02:53.590
+this is the voltage the terminal voltage between the two ends of the battery.
+
+02:53.820 --> 03:02.070
+So you'd write that down e minus the current I are and that there has to be equal to the resistance
+
+03:02.610 --> 03:07.630
+multiplied by the current.
+
+03:07.650 --> 03:10.020
+All right and now I can go ahead and calculate what the current is.
+
+03:10.020 --> 03:12.840
+So you have to bring this term on the other side.
+
+03:13.170 --> 03:16.920
+If I do that and then a group terms together this is the current that I get.
+
+03:22.660 --> 03:29.310
+So we see that for a real battery which has some internal resistance to it.
+
+03:29.420 --> 03:33.000
+The amount of current that you're going to get is going to be a little bit smaller.
+
+03:33.290 --> 03:42.260
+It's a little bit smaller than the ideal case because you get a bigger resistance you get whatever resistance
+
+03:42.260 --> 03:44.530
+you have that you've connected to it.
+
+03:44.540 --> 03:50.210
+You also have an additional internal resistance of the battery and that tends to make the voltage difference
+
+03:50.210 --> 03:51.710
+smaller.
+
+03:51.710 --> 03:56.940
+And if the voltage difference is smaller that's going to lead to less current.
+
+03:57.610 --> 03:57.990
+OK.
+
+03:58.040 --> 03:59.680
+So just a few words about that.

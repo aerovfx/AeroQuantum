@@ -1,0 +1,476 @@
+1
+00:00:03,518 --> 00:00:04,530
+Hello everyone.
+
+2
+00:00:04,530 --> 00:00:06,560
+Welcome back to exploring quantum physics.
+
+3
+00:00:06,560 --> 00:00:08,200
+I'm Charles Clark.
+
+4
+00:00:08,200 --> 00:00:11,350
+And we're now going to look at
+the angular momentum operator
+
+5
+00:00:11,350 --> 00:00:13,350
+in its role as an effective potential.
+
+6
+00:00:14,370 --> 00:00:19,790
+This is going to proceed from applying
+some of the commutator identities
+
+7
+00:00:19,790 --> 00:00:21,460
+that you derived in the previous part.
+
+8
+00:00:24,730 --> 00:00:29,158
+So again, what we're doing
+
+9
+00:00:29,158 --> 00:00:34,920
+here involves a fundamental derivation and
+
+10
+00:00:34,920 --> 00:00:39,679
+I just have to emphasis, if you really
+want to benefit from this course
+
+11
+00:00:40,940 --> 00:00:45,670
+and learn something practical,
+both about quantum physics and
+
+12
+00:00:45,670 --> 00:00:48,680
+with a lot of applications
+to other types of analysis.
+
+13
+00:00:48,680 --> 00:00:50,140
+You have to work it out.
+
+14
+00:00:50,140 --> 00:00:51,400
+I mean, I can't force you to.
+
+15
+00:00:51,400 --> 00:00:58,840
+But it's time to decide whether
+it's worth your while or not.
+
+16
+00:00:58,840 --> 00:01:03,930
+I'll have to say that I think
+that when you complete this
+
+17
+00:01:03,930 --> 00:01:09,410
+derivation you will have done
+something foundational and
+
+18
+00:01:09,410 --> 00:01:12,390
+you should see that it
+has implications for
+
+19
+00:01:12,390 --> 00:01:18,320
+a lot of other physics problems that you
+may have been working with in your career.
+
+20
+00:01:18,320 --> 00:01:23,477
+Electromagnetism, acoustics,
+wave motion and the like.
+
+21
+00:01:23,477 --> 00:01:29,643
+I'm just going to keep before
+you the various identities
+
+22
+00:01:29,643 --> 00:01:34,782
+of fundamental things
+which we started with and
+
+23
+00:01:34,782 --> 00:01:40,960
+things that we proved together,
+or you proved offline.
+
+24
+00:01:40,960 --> 00:01:44,334
+Just try to keep these visible and
+in mind so
+
+25
+00:01:44,334 --> 00:01:48,381
+that you can get the results
+from them that we need.
+
+26
+00:01:53,705 --> 00:01:57,961
+The most important thing that we're
+going to do in this part is to show
+
+27
+00:01:57,961 --> 00:02:02,445
+the relationship of the angular
+momentum operators, the L squared,
+
+28
+00:02:02,445 --> 00:02:04,580
+to the kinetic energy operator.
+
+29
+00:02:04,580 --> 00:02:07,130
+Now you might anticipate that
+
+30
+00:02:08,420 --> 00:02:13,270
+there is such a thing because after
+all L squared looks like this and
+
+31
+00:02:13,270 --> 00:02:18,720
+this is r cross p so there's a p
+squared lurking in there somewhere.
+
+32
+00:02:18,720 --> 00:02:20,700
+Just how does that work out?
+
+33
+00:02:22,770 --> 00:02:25,133
+Well, once again we have.
+
+34
+00:02:30,474 --> 00:02:32,150
+Here's the first.
+
+35
+00:02:33,420 --> 00:02:36,613
+Well here are the two components of the.
+
+36
+00:02:39,829 --> 00:02:42,430
+Of the scale or product.
+
+37
+00:02:42,430 --> 00:02:46,843
+And I have taken the minus sign of
+the h bar squared outside just so
+
+38
+00:02:46,843 --> 00:02:51,770
+that were dealing with something that
+just has the x's and the p's in.
+
+39
+00:02:51,770 --> 00:02:56,984
+Okay, and dq is.
+
+40
+00:02:59,607 --> 00:03:03,300
+The expression for just in case that.
+
+41
+00:03:03,300 --> 00:03:04,820
+So unfamiliar to you.
+
+42
+00:03:05,960 --> 00:03:08,600
+Just helps simplify the notation.
+
+43
+00:03:09,830 --> 00:03:15,289
+Okay so
+now we can pass through the levy chevita.
+
+44
+00:03:15,289 --> 00:03:20,064
+And we're now back, then now we have
+
+45
+00:03:20,064 --> 00:03:24,534
+the contraction identity because
+
+46
+00:03:24,534 --> 00:03:29,928
+we're summing over these common indices
+
+47
+00:03:29,928 --> 00:03:34,858
+i that came from the scalar product and
+
+48
+00:03:34,858 --> 00:03:40,730
+now we apply the contraction
+identities to.
+
+49
+00:03:42,575 --> 00:03:43,558
+To these here.
+
+50
+00:03:43,558 --> 00:03:50,090
+So in other words, this is just a straight
+forward compression math symbol.
+
+51
+00:03:51,390 --> 00:03:56,980
+And then we're going to reduce this
+further by using this identity
+
+52
+00:04:02,530 --> 00:04:06,470
+to move the x out from behind
+
+53
+00:04:08,350 --> 00:04:12,426
+out from in front of the derivative.
+
+54
+00:04:12,426 --> 00:04:13,578
+Okay.
+
+55
+00:04:13,578 --> 00:04:19,359
+So, yeah,
+there's very little point in trying
+
+56
+00:04:19,359 --> 00:04:24,300
+to follow a fast paced derivation there.
+
+57
+00:04:24,300 --> 00:04:31,910
+But starting from this, you should
+be able to derive this identity.
+
+58
+00:04:34,630 --> 00:04:42,000
+Which shows that the angular
+momentum is linked up
+
+59
+00:04:43,180 --> 00:04:48,730
+to the kinetic energy in
+a rather profound way.
+
+60
+00:04:52,960 --> 00:04:56,020
+So, just to express that
+in a more familiar form,
+
+61
+00:04:56,020 --> 00:04:59,710
+let's take the Hamiltonian for the motion
+of a particle in a fixed potential.
+
+62
+00:04:59,710 --> 00:05:04,840
+And now we see the kinetic energy
+
+63
+00:05:04,840 --> 00:05:09,970
+can be written in this form where
+
+64
+00:05:09,970 --> 00:05:15,102
+R in our notation is like xa xxa.
+
+65
+00:05:21,185 --> 00:05:24,440
+X a square root of x a.
+
+66
+00:05:24,440 --> 00:05:25,570
+The usual radius.
+
+67
+00:05:26,820 --> 00:05:34,460
+So, we get, we didn't actually
+transform to spherical coordinates, but
+
+68
+00:05:34,460 --> 00:05:40,260
+there's a very natural development of the
+expression of the square of the kinetic
+
+69
+00:05:40,260 --> 00:05:44,500
+energy the square of the angle momentum
+operator brings us to this form where
+
+70
+00:05:47,950 --> 00:05:52,310
+the kinetic energy is now expressed
+naturally in spherical polar
+
+71
+00:05:52,310 --> 00:05:56,300
+coordinates with L being an operator
+of the max of those coordinates.
+
+72
+00:05:56,300 --> 00:06:00,020
+So that's how angular momentum
+enters the Hamiltonian.
+
+73
+00:06:02,310 --> 00:06:05,210
+Thus if you think about
+where this came from,
+
+74
+00:06:05,210 --> 00:06:09,380
+any time you have an equation with a
+LaPlacian, you have something that's very
+
+75
+00:06:09,380 --> 00:06:15,090
+much like an angular momentum though
+it may not be described in those terms.
+
+76
+00:06:15,090 --> 00:06:19,921
+So the various multiple
+moments with electromagnetic
+
+77
+00:06:19,921 --> 00:06:25,067
+field correspond to angular momentum,
+the same things,
+
+78
+00:06:25,067 --> 00:06:30,318
+acoustics and fluid mechanics,
+and a lot of the analytical
+
+79
+00:06:30,318 --> 00:06:35,840
+techniques that we'll develop for
+understanding.
+
+80
+00:06:35,840 --> 00:06:39,950
+L squared,
+have applications in those areas as well.
+
+81
+00:06:39,950 --> 00:06:43,600
+The other very important point about this,
+
+82
+00:06:43,600 --> 00:06:46,550
+I said angular is more
+powerful than gravity.
+
+83
+00:06:46,550 --> 00:06:51,907
+Well, gravity's pretty powerful but,
+this basically we get
+
+84
+00:06:51,907 --> 00:06:58,480
+a V effective which is proportional
+to the L square over r squared.
+
+85
+00:06:58,480 --> 00:07:04,190
+So, this is one of these,
+this is this inverse, this is
+
+86
+00:07:04,190 --> 00:07:10,840
+a part of the kinetic energy operator and
+in the variational methods
+
+87
+00:07:10,840 --> 00:07:16,410
+section we saw that short distances
+correspond to high kinetic energy.
+
+88
+00:07:16,410 --> 00:07:23,600
+So basically the angular momentum presents
+a sort of an effective potential for to
+
+89
+00:07:25,270 --> 00:07:30,090
+particle motion that is
+repulsive inverse square law.
+
+90
+00:07:31,950 --> 00:07:36,490
+And I'll just note that there's
+a further generalization of this type of
+
+91
+00:07:36,490 --> 00:07:40,730
+approach can be made to
+an n dimensional system.
+
+92
+00:07:40,730 --> 00:07:42,800
+And we're not going to do that here, but
+
+93
+00:07:42,800 --> 00:07:47,420
+it is something that is used in
+practice for nuclear physics,
+
+94
+00:07:49,440 --> 00:07:54,880
+molecular collisions, and
+sometimes atomic physics.
+
+95
+00:07:57,860 --> 00:08:01,660
+It is sometimes advantages
+to have a fully symmetrized
+
+96
+00:08:02,690 --> 00:08:05,450
+system of coordinates
+includes all particles.
+
+97
+00:08:05,450 --> 00:08:09,740
+And then one gets some implications
+
+98
+00:08:09,740 --> 00:08:14,920
+about short range behavior of
+those systems from looking at the,
+
+99
+00:08:14,920 --> 00:08:18,530
+thinking of the Generalized angular
+momentum has an effective potential.
+
+100
+00:08:20,900 --> 00:08:25,540
+Okay, so now we're going to conclude
+this lecture with the description of
+
+101
+00:08:25,540 --> 00:08:29,630
+the relationship between the angular
+momentum and the lens vector that was
+
+102
+00:08:31,450 --> 00:08:34,930
+discussed in the earlier
+lectures on the hydrogen atom.
+
+103
+00:08:36,040 --> 00:08:36,650
+Hope to see you then.

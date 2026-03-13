@@ -1,0 +1,49 @@
+WEBVTT
+
+00:00.300 --> 00:07.610
+Hi everyone and welcome to the problem set on DC circuits but only relating to resist theories and batteries.
+
+00:07.800 --> 00:12.480
+So I've put together 16 different problems here ranging in difficulty I think the easier ones are at
+
+00:12.480 --> 00:15.780
+the beginning and the harder ones kind of fall toward the end.
+
+00:16.050 --> 00:20.010
+But there's really a mix of different problems where you're going to end up practicing Kirchhoff's rules
+
+00:20.200 --> 00:25.800
+are going to calculate the currents in single branch and multi loop circuits you know calculate power
+
+00:25.830 --> 00:30.790
+dissipated and power delivered to the circuit from the power supplies.
+
+00:30.990 --> 00:32.010
+So good luck with the problems.
+
+00:32.010 --> 00:34.520
+I really suggest you kind of do one problem at a time.
+
+00:34.530 --> 00:35.610
+Try it on your own.
+
+00:35.700 --> 00:39.210
+Come watch the solution at the beginning it's not a big concern if you don't quite understand all the
+
+00:39.210 --> 00:39.830
+steps.
+
+00:39.840 --> 00:43.350
+I think after you start watching some of the solutions you're going to build on that and then you'll
+
+00:43.350 --> 00:45.520
+be able to apply it to harder problems.
+
+00:45.750 --> 00:46.850
+So good luck everybody.
+
+00:46.920 --> 00:50.730
+Again if you ever have any questions just shoot me an email I'll get back to you.
+
+00:50.760 --> 00:51.360
+Happy learning.

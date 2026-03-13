@@ -1,0 +1,162 @@
+WEBVTT
+
+WEBVTT
+
+00:00.090 --> 00:00.260
+All right.
+
+00:00.270 --> 00:01.560
+Let's do an example.
+
+00:01.570 --> 00:05.190
+OK first of all you don't want to be drawing something like this all the time especially when we're
+
+00:05.190 --> 00:06.930
+gonna be dealing with circuits.
+
+00:06.990 --> 00:12.430
+So whenever you're dealing with circuits the symbol for capacitors.
+
+00:12.490 --> 00:12.730
+OK
+
+00:16.840 --> 00:17.900
+they're represented like this.
+
+00:17.900 --> 00:19.090
+So here's a wire.
+
+00:19.310 --> 00:23.450
+And again you actually do make parallel plates you just make them smaller and then you continue with
+
+00:23.450 --> 00:24.450
+your wire.
+
+00:24.480 --> 00:24.680
+All right.
+
+00:24.680 --> 00:28.490
+And then you would call this the capacitance.
+
+00:28.590 --> 00:36.870
+Imagine you have a power supply or a battery a battery has a symbol again some wires and usually there
+
+00:36.870 --> 00:40.090
+is a long line and a short line.
+
+00:40.250 --> 00:45.580
+And typically what you say is there is a voltage between both of those positive and negative.
+
+00:45.590 --> 00:50.270
+The positive is usually the longer line the negative is the shortest one and usually you say there is
+
+00:50.270 --> 00:52.790
+a voltage between those plates.
+
+00:52.820 --> 00:57.310
+For example if we use just the standard battery it's one point five volts.
+
+00:57.320 --> 00:59.450
+That's the voltage between the plates.
+
+00:59.450 --> 01:01.690
+And again they really mean a delta V.
+
+01:01.700 --> 01:03.930
+But sometimes they just leave out the Delta.
+
+01:04.550 --> 01:06.650
+It's the difference of voltage between both of those.
+
+01:06.650 --> 01:10.400
+So we can draw a simple circuit with one capacitor.
+
+01:10.400 --> 01:11.690
+Let's go ahead and do that.
+
+01:11.720 --> 01:16.550
+Here's some wire and here I'm going to draw one value of a capacitor.
+
+01:16.550 --> 01:19.850
+Here's a simple circuit with a capacitor.
+
+01:19.850 --> 01:25.950
+So again we're going to take these equal to one point five volts from my battery and we're going to
+
+01:26.090 --> 01:35.870
+assume that this capacitor here as a value equal to let's say to micro Feride again sometimes they leave
+
+01:35.870 --> 01:37.550
+out the A it's just micro f.
+
+01:37.790 --> 01:38.050
+OK.
+
+01:38.750 --> 01:42.200
+So the question is how much charge would there be on the plates.
+
+01:42.230 --> 01:46.520
+If I connect this capacitor to this battery OK.
+
+01:46.640 --> 01:51.800
+And again the amount of charge you just go back to my equation over here the charge is simply the capacitance
+
+01:52.220 --> 01:55.220
+multiplied by the voltage in the voltage that you're going to get.
+
+01:55.220 --> 01:59.110
+Again this is a wire a wire is an equity potential right.
+
+01:59.120 --> 02:00.500
+It's a conductor.
+
+02:00.500 --> 02:04.180
+So that means that this plate here is at plus in this place.
+
+02:04.220 --> 02:07.400
+This other plate is at negative right.
+
+02:07.410 --> 02:12.710
+So if I would kind of do like this and the voltage between those plates would be equal to the voltage
+
+02:12.710 --> 02:19.910
+across the battery whatever voltage I have here is going to be the same voltage everywhere here because
+
+02:19.910 --> 02:21.820
+this is a wire connected to a plate.
+
+02:21.830 --> 02:23.920
+So it has to be the same.
+
+02:23.960 --> 02:24.200
+All right.
+
+02:24.260 --> 02:29.510
+So if I wanted to calculate how much charge we have again you take the value of the capacitance it's
+
+02:29.510 --> 02:37.190
+two times 10 to the negative six and multiplied by the voltage the voltage in this case is one point
+
+02:37.190 --> 02:38.440
+five.
+
+02:39.080 --> 02:44.750
+So we multiply two and one point five you're gonna get three times ten to the negative six.
+
+02:44.930 --> 02:45.890
+And that's the charge.
+
+02:45.890 --> 02:48.760
+So this bill would be measured in columns.
+
+02:49.180 --> 02:49.430
+Okay.
+
+02:49.460 --> 02:55.610
+So again if you would zoom in that means one plate would be have plus three micro columns the other
+
+02:55.610 --> 02:59.120
+plate would have negative three micro columns.
+
+02:59.330 --> 03:05.990
+But this is kind of a quick little example on how to deal with calculating the charge on capacitors.

@@ -1,0 +1,249 @@
+WEBVTT
+
+WEBVTT
+
+00:00.770 --> 00:02.650
+All right here's our next example.
+
+00:02.780 --> 00:03.650
+Example five.
+
+00:03.650 --> 00:07.750
+Again it's kind of the same same circuit as the previous example.
+
+00:07.790 --> 00:12.620
+It's also in the same time limit so really after a long time Curtis exists in only one branch of the
+
+00:12.620 --> 00:20.240
+circuit at this long time if the battery here is 10 volts What's the voltage now across the 100 micro
+
+00:20.250 --> 00:23.060
+Feraud capacitor across this one over here.
+
+00:23.630 --> 00:26.600
+Well we're going to proceed using a similar approach.
+
+00:26.600 --> 00:28.970
+Now you've got to be careful you might be tempted to say 10.
+
+00:28.970 --> 00:31.120
+Remember it is 10 across this branch.
+
+00:31.120 --> 00:33.220
+It was also 10 across this capacitor.
+
+00:33.320 --> 00:35.330
+But you've got to be a little bit more careful here.
+
+00:35.330 --> 00:41.240
+So let's first start by we want to know the voltage across this capacitor Well we should probably do
+
+00:41.240 --> 00:49.100
+maybe a loop that includes this capacitor so we can do a loop around this red and let's go around in
+
+00:49.100 --> 00:50.980
+the clockwise fashion.
+
+00:51.110 --> 00:52.770
+We're going to start down here.
+
+00:53.130 --> 00:53.870
+Always doing that.
+
+00:53.870 --> 00:55.220
+I apologize.
+
+00:55.220 --> 00:59.870
+We're going to start down here at the bottom point A and again go in the clockwise direction.
+
+00:59.870 --> 01:05.660
+So the first thing I encounter is a voltage of this battery which is 10 in this case and it's right
+
+01:05.660 --> 01:07.850
+away going to rate plus 10.
+
+01:07.850 --> 01:12.630
+Now the next thing I'm going to do is I'm going to encounter this twenty five ohm resistor.
+
+01:12.860 --> 01:16.410
+And for now I'm going to say that there's a current flowing through here.
+
+01:16.520 --> 01:21.680
+Now part of that current is going to continue along this branch and call this two part of the current
+
+01:21.860 --> 01:23.870
+might flow down here.
+
+01:24.250 --> 01:25.180
+One.
+
+01:25.730 --> 01:26.040
+All right.
+
+01:26.040 --> 01:34.230
+So let's go ahead and so now we get minus 525 multiplied by the current.
+
+01:34.640 --> 01:35.240
+All right.
+
+01:35.240 --> 01:40.850
+Next thing we have now is the voltage across this capacitor minus the voltage across that capacitor
+
+01:42.050 --> 01:48.200
+minus the 300 ohms multiply by the current and that branch will simplify this in a minute.
+
+01:48.230 --> 01:50.210
+It might be one step ahead of me.
+
+01:50.570 --> 01:57.470
+And then the last step over here is the voltage drop across the 100 ohm resistor and that is also has
+
+01:57.470 --> 01:58.470
+to be the current.
+
+01:58.490 --> 02:03.140
+Even though we've split it up here because of the junction here at the top it's going to then recombine
+
+02:03.140 --> 02:08.540
+at the bottom junction and you have to have the current flowing through that 100 ohm resistor.
+
+02:08.540 --> 02:15.440
+All right you go back to where I start you some all the potential differences you have to have zero.
+
+02:15.440 --> 02:18.280
+Now again the simplification comes from the long time.
+
+02:18.410 --> 02:22.340
+And if it's a long time you know that the current one must be equal to zero.
+
+02:22.370 --> 02:26.390
+So that means you could simplify this term.
+
+02:26.480 --> 02:26.780
+All right.
+
+02:26.780 --> 02:28.100
+You can combine both of those.
+
+02:28.100 --> 02:34.670
+They both have the current i basically the 5:25 and the 100 are in series with each other.
+
+02:34.760 --> 02:41.510
+So this equation over here simply gets 10 minus 625 multiplied by the current.
+
+02:41.600 --> 02:45.160
+And let me bring the voltage across that capacitor VC over here.
+
+02:45.350 --> 02:47.890
+On the other side.
+
+02:48.140 --> 02:50.490
+All right so here's our expression.
+
+02:50.720 --> 02:56.180
+So you see it's different from the previous case because now we also have a voltage drop across both
+
+02:56.180 --> 02:58.890
+of these resistors that we have to worry about.
+
+02:59.660 --> 03:06.230
+So in order to kind of solve for this what is the voltage across that capacitor you need to know what
+
+03:06.230 --> 03:08.960
+the current AI is in order to do that.
+
+03:08.960 --> 03:13.160
+Well we're going to do now is we're going to do another loop except this time we're going to go around
+
+03:13.160 --> 03:22.220
+this outside bend because basically if there is no current flowing down the center branch here that
+
+03:22.220 --> 03:25.540
+means that the current Aitu must be equal to the current.
+
+03:25.580 --> 03:31.610
+I think that is basically our junction rule applied to this junction because after a long time there
+
+03:31.610 --> 03:33.660
+is no current flowing through that branch.
+
+03:33.830 --> 03:35.610
+So you have to have this requirement.
+
+03:35.660 --> 03:42.680
+So basically all we have out here is a one big loop and it's one circuit where all the three resistors
+
+03:42.680 --> 03:45.280
+are essentially in series with each other.
+
+03:45.800 --> 03:46.450
+OK.
+
+03:46.610 --> 03:52.910
+So all you have to do now is just do another loop and calculate what that current is.
+
+03:52.910 --> 03:56.410
+So let me do that one over here the first thing I encounter is that battery.
+
+03:56.900 --> 04:04.560
+Next thing I encounter again I'm going to have this minus 525 multiplied by the current I minus the
+
+04:04.800 --> 04:13.070
+1500 ohm resistor multiplied by the current of the voltage drop across here and then minus 100 times
+
+04:13.070 --> 04:13.550
+the current.
+
+04:13.550 --> 04:19.940
+I said that if I eventually go back to point A that there must be equal to zero.
+
+04:20.370 --> 04:20.850
+OK.
+
+04:21.080 --> 04:30.200
+So the current I can calculate now simply 10 divided by 525 basically the equivalent resistance of these
+
+04:30.200 --> 04:32.750
+three in series with each other.
+
+04:33.010 --> 04:41.570
+If the 100 plus 100 or so substitute that in the calculator are what you should get is 4.7 times tend
+
+04:41.570 --> 04:45.140
+of the negative 3 amps.
+
+04:45.140 --> 04:52.940
+Now you go back and you substitute that into this equation over here so you get 10 minus 625 multiplied
+
+04:52.940 --> 04:53.540
+by the current.
+
+04:53.540 --> 04:58.130
+Now which I know 4.7 times ten to the minus three.
+
+04:58.340 --> 05:01.030
+That gives me the voltage across my capacitor.
+
+05:01.220 --> 05:05.620
+So it has to be less than 10 and we could really got rid of that choice right away.
+
+05:05.850 --> 05:10.970
+So the voltage across the capacitor is just substituting in the calculator now and he should get something
+
+05:10.970 --> 05:18.080
+like 7.0 or six volts go so a correct answer for this one here is choice D.
+
+05:18.190 --> 05:22.520
+And now when you get from a little bit of circuit analysis again and using the fact that we know in
+
+05:22.530 --> 05:29.090
+the long time limit that the outside branch and this middle branch here can't have any current flowing
+
+05:29.090 --> 05:32.020
+through it can have a good problem.
+
+05:32.020 --> 05:36.330
+Hopefully you've got that one start kind of understanding how to deal with these types of problems.
+
+05:36.340 --> 05:36.520
+Now.

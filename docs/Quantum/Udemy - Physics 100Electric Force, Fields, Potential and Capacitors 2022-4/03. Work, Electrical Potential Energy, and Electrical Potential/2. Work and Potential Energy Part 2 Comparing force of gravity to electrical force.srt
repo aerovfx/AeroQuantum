@@ -1,0 +1,358 @@
+WEBVTT
+
+00:00.180 --> 00:00.420
+All right.
+
+00:00.540 --> 00:03.860
+I want to do now is just compare two different cases.
+
+00:03.870 --> 00:11.160
+So the case here on the left hand side is I have a 10 kilogram box and what I want to do is pretty straightforward
+
+00:11.190 --> 00:15.320
+I just want to lifted a certain height and I want to place it on the table.
+
+00:15.330 --> 00:20.620
+So at the end we're going to have a 10 kilogram box up here.
+
+00:20.790 --> 00:25.420
+Let's look at the work being done when I raise this box over here.
+
+00:25.470 --> 00:30.960
+So first thing you can do is let's think about what the free body diagram looks like for this problem.
+
+00:30.960 --> 00:37.680
+So here's my box I just represented by a single point there is a force of gravity or a weight acting
+
+00:37.680 --> 00:38.340
+down.
+
+00:38.340 --> 00:40.740
+This here has a value M.G..
+
+00:40.920 --> 00:43.820
+All right M is 10 and Little G is nine point eight.
+
+00:43.830 --> 00:47.280
+But for this case let's just use little g for this problem.
+
+00:47.280 --> 00:50.200
+The acceleration due to gravity just to make the math simpler.
+
+00:50.340 --> 00:52.620
+Just set it equal to 10.
+
+00:52.740 --> 00:53.040
+All right.
+
+00:53.040 --> 00:57.630
+Now if there is a force lifting it this guy has to apply a force right.
+
+00:57.630 --> 00:59.910
+He has to apply a force acting up.
+
+01:00.060 --> 01:03.120
+And this is my applied force like this.
+
+01:03.270 --> 01:03.510
+All right.
+
+01:03.510 --> 01:06.420
+And if he lifts this at constant velocity.
+
+01:06.570 --> 01:06.870
+All right.
+
+01:06.870 --> 01:11.150
+That means these forces are going to balance and they're going to be equal to each other.
+
+01:11.430 --> 01:13.350
+So we can calculate what the weight is.
+
+01:13.350 --> 01:21.090
+That's pretty easy it's 10 is the mass and cagey multiplied by 10 the acceleration due to gravity.
+
+01:21.090 --> 01:24.360
+This gives me a force of 100 Newtons.
+
+01:24.660 --> 01:33.270
+That means if my applied force is one hundred Newtons I'll be able to raise this box at constant velocity.
+
+01:33.310 --> 01:33.580
+All right.
+
+01:34.000 --> 01:38.030
+Now how much energy does it take for me to lift this box.
+
+01:38.050 --> 01:45.490
+So for that case what I'm really asking for is how much work did I have to do in order to lift the box.
+
+01:45.490 --> 01:48.000
+That's how much energy it takes.
+
+01:48.100 --> 01:48.910
+So let's have a look.
+
+01:48.910 --> 01:50.430
+These forces are constant.
+
+01:50.440 --> 01:50.650
+Right.
+
+01:50.650 --> 01:53.470
+The weight is constant down here it's 100.
+
+01:53.500 --> 01:56.400
+So I can calculate how much work is done by gravity.
+
+01:56.440 --> 01:58.990
+So let's kind of look at that one first.
+
+01:59.110 --> 02:05.740
+So work done by the by the weight or by the force of gravity work done by gravity.
+
+02:06.340 --> 02:12.590
+Let's apply our equation since it's a constant force I'll call it the work done by a little g force
+
+02:12.650 --> 02:17.910
+the work done by gravity it's equal to the force the force is one hundred.
+
+02:18.070 --> 02:25.150
+All right we call that M.G. what is the displacement in this case the displacement is this is the displacement
+
+02:25.150 --> 02:30.940
+right in this case it's going to be the height one point five meters again the displacement is really
+
+02:30.940 --> 02:34.900
+a vector quantity but the magnitude is one point five.
+
+02:35.060 --> 02:38.880
+So I'm going to colleges here Delta why and what else.
+
+02:38.880 --> 02:39.970
+There is another term right.
+
+02:39.960 --> 02:41.910
+There's Kosta angle.
+
+02:42.100 --> 02:46.750
+What is the angle now between the displacement and the force.
+
+02:46.750 --> 02:48.080
+Think about it for a minute.
+
+02:48.250 --> 02:49.110
+What do we have here.
+
+02:49.110 --> 02:56.030
+We're going to have a displacement delta y which is acting up and we have our force acting down.
+
+02:56.470 --> 03:06.610
+So that means we actually have 180 degrees between the displacement and the force coast of 180 degrees.
+
+03:06.610 --> 03:09.330
+Now when if you don't know is the negative one.
+
+03:10.450 --> 03:16.140
+So at the end look what we get for an answer for the work done by gravity the work done by gravity again.
+
+03:16.150 --> 03:21.490
+This is the force that's 100 delta y is one point five.
+
+03:21.490 --> 03:24.700
+That's the magnitude and multiplied by negative 1.
+
+03:24.700 --> 03:33.720
+So we're gonna get minus one hundred and fifty joules so the reason that it's negative why is this work
+
+03:33.760 --> 03:34.330
+negative.
+
+03:34.360 --> 03:35.980
+Does that bother you at all.
+
+03:35.980 --> 03:43.180
+It's negative because the force and the displacement are in opposite directions are gonna make a little
+
+03:43.180 --> 03:46.000
+space you're going to get rid of this guy for a second.
+
+03:46.000 --> 03:48.310
+What about the work done by the supplied force.
+
+03:48.310 --> 03:50.570
+That's the other force.
+
+03:50.650 --> 03:52.240
+So in this case the work done
+
+03:55.870 --> 04:01.420
+by FAA my applied force I can calculate that one as well.
+
+04:01.630 --> 04:02.980
+So it's the work done by.
+
+04:02.980 --> 04:03.820
+Call it FAA.
+
+04:03.820 --> 04:09.360
+Down here it's the magnitude of the force which is also one hundred Newtons.
+
+04:09.910 --> 04:15.970
+It's the magnitude of the displacement which is one point five man multiplied by coast of the angle
+
+04:15.970 --> 04:18.940
+between the displacement and the applied force.
+
+04:18.940 --> 04:20.940
+In this case it's zero degrees.
+
+04:21.010 --> 04:23.210
+So I don't even have to worry about that term.
+
+04:23.350 --> 04:33.990
+So the work done by my applied force is one hundred fifty joules notice here that it is a positive number.
+
+04:34.750 --> 04:41.890
+It's positive because what we have up here in the figure where we have a force and a displacement that
+
+04:41.890 --> 04:44.900
+are along in the same direction.
+
+04:44.960 --> 04:45.340
+All right.
+
+04:45.340 --> 04:49.630
+So this here is going to be positive work being done by this force
+
+04:51.930 --> 04:53.370
+positive work.
+
+04:55.630 --> 04:56.000
+All right.
+
+04:56.030 --> 04:57.690
+So that's kind of an important example.
+
+04:57.690 --> 05:01.560
+So for me to lift this box it takes me 150 jewels of energy.
+
+05:01.560 --> 05:03.840
+That's how much work I did.
+
+05:03.870 --> 05:07.580
+All right let's take the analogous situation now for a charge.
+
+05:07.650 --> 05:13.980
+So what I have here is a plus to cool on charge just resting on a negatively charged plate.
+
+05:14.130 --> 05:19.760
+The plate is separated from another positively charged plate by five centimeters.
+
+05:19.870 --> 05:20.280
+All right.
+
+05:20.770 --> 05:26.620
+And what I want to do now is I want to move this I want to bring this charge and I want to move it up
+
+05:26.620 --> 05:34.900
+here notice it doesn't want to do that you have to apply a force on this charge in order to move it.
+
+05:35.000 --> 05:39.860
+So let's imagine we have a free body diagram lets you draw when it's halfway here.
+
+05:40.160 --> 05:41.150
+So what are we gonna have.
+
+05:41.180 --> 05:50.290
+It's placed inside an electric field so there will be an electric force acting on this charge well if
+
+05:50.290 --> 05:52.210
+it's moving to the top guess what.
+
+05:52.210 --> 05:55.230
+There better be another force acting on it in this case.
+
+05:55.230 --> 06:01.540
+This is going to be some applied for somebody has to move it all right.
+
+06:01.570 --> 06:07.570
+So we can calculate the work done by the electric force and we can also calculate the work done by the
+
+06:07.570 --> 06:08.820
+applied force.
+
+06:08.830 --> 06:11.950
+Again the difference between the two are one of them is going to be positive.
+
+06:11.950 --> 06:18.840
+The other one's going to be negative so what is the direction of the displacement for this problem.
+
+06:18.840 --> 06:22.680
+Again I start from here and I finish over here.
+
+06:22.740 --> 06:25.630
+So the displacement is delta y.
+
+06:25.650 --> 06:30.760
+That is the vector the magnitude is five centimeters.
+
+06:30.830 --> 06:31.090
+All right.
+
+06:31.120 --> 06:34.390
+So let me look at the work done by the electric field.
+
+06:34.400 --> 06:38.530
+We would say so it's gonna be the magnitude of the force.
+
+06:38.540 --> 06:46.130
+That's the charge multiplied by the field multiplied by the magnitude of the displacement which in this
+
+06:46.130 --> 06:56.160
+case is simply going to be d right the distance between the plates and multiplied by coasts of 180 degrees.
+
+06:56.380 --> 07:01.640
+So at the end we end up getting that the work done by this electric field is going to be there's gonna
+
+07:01.660 --> 07:11.080
+be a negative sign from this the charges to cool homes the electric field we said was two hundred and
+
+07:11.080 --> 07:15.510
+the distance now is five centimeters zero point zero five.
+
+07:16.390 --> 07:18.190
+All right let me put that in the calculator.
+
+07:18.190 --> 07:27.910
+So I get two times two hundred times zero point zero five at the end I get negative 20 joules that's
+
+07:27.910 --> 07:35.470
+how much work was done by the electric field the negative sign here is because the force and the displacement
+
+07:35.470 --> 07:37.130
+are in opposite directions.
+
+07:37.280 --> 07:47.560
+Force opposite of displacement.
+
+07:47.670 --> 07:54.610
+All right let's look at the work now done by my applied force the work done by the applied force in
+
+07:54.610 --> 08:00.370
+this case it's the magnitude of my applied force it's the magnitude of the displacement multiplied by
+
+08:00.370 --> 08:09.160
+cost of zero degrees so this is what we get we get our applied force again if I'm moving this at constant
+
+08:09.850 --> 08:15.910
+velocity my applied force is equal to the electric force just in a different direction so we still get
+
+08:15.910 --> 08:24.430
+QE we still get D and codes of 0 is 1 So you see at the end the work done is simply going to be plus
+
+08:25.210 --> 08:31.360
+twenty joules again negative the positive sign here is because the force and the displacement are all
+
+08:31.600 --> 08:35.050
+along the same direction very very important.

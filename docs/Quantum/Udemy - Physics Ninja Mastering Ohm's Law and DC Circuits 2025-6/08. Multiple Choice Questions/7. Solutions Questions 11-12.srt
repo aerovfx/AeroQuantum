@@ -1,0 +1,103 @@
+WEBVTT
+
+00:00.390 --> 00:01.730
+All right here's Question 11.
+
+00:01.740 --> 00:08.310
+We have five electric circuits are connected to the same battery with negligible resistance which current
+
+00:08.310 --> 00:11.390
+has the least current through the battery.
+
+00:11.400 --> 00:14.630
+All right so the one that's going to have the least amount of current.
+
+00:14.710 --> 00:20.550
+Again if the batteries are all the same it means that the voltage across each resistance or equivalent
+
+00:20.550 --> 00:23.210
+resistance has to be the same.
+
+00:23.220 --> 00:28.380
+So now if we think about this equation for a minute in which one is going to have the current that's
+
+00:28.380 --> 00:35.930
+going to be small as if the voltage is the same it's whichever one has the biggest equivalent resistance.
+
+00:35.970 --> 00:38.840
+So what's the equivalent resistance for each case.
+
+00:38.850 --> 00:44.220
+Well for both of those you multiply the million divided by the sum you're going to get for here if you
+
+00:44.220 --> 00:47.220
+multiply them divided by the sum you're going to get three.
+
+00:47.290 --> 00:49.000
+36 divided by 12.
+
+00:49.080 --> 00:50.580
+Here you simply add them up.
+
+00:50.610 --> 00:54.180
+You're going to get six here you automatically get nine.
+
+00:54.180 --> 01:00.440
+And here you're going to get four is the equivalent resistance for the two tuum resistors in series.
+
+01:00.450 --> 01:06.670
+So what do we have the least amount of current is going to be the one with the highest equivalent resistance.
+
+01:06.900 --> 01:11.820
+That's 9 ohms so is the correct answer for question 11.
+
+01:11.860 --> 01:18.340
+All right for a question 12 are asked five different electric circuits are connected to the same battery
+
+01:18.520 --> 01:20.110
+with negligible resistance.
+
+01:20.110 --> 01:23.660
+Which circuit produces the greatest power dissipated.
+
+01:24.010 --> 01:30.280
+Well now if we think about our power equations we kind of had three we had Vi you can write this as
+
+01:30.280 --> 01:31.840
+our eyes squared.
+
+01:32.230 --> 01:37.930
+And the third form was v squared over are you know why I like about the third form for this problem
+
+01:37.930 --> 01:41.790
+is because we know the batteries the same right.
+
+01:41.800 --> 01:43.530
+It's the same battery for each case.
+
+01:43.530 --> 01:47.460
+That means that the voltage across these networks are going to be the same.
+
+01:47.500 --> 01:52.420
+So if we want to know now the greatest power the going to be the one with the smallest resistance because
+
+01:52.580 --> 01:55.360
+you're going to be dividing by that small number.
+
+01:55.360 --> 01:57.940
+So which one has the smallest resistance.
+
+01:57.940 --> 02:04.210
+We just did these three these five different cases and we found at this one here had three homes was
+
+02:04.210 --> 02:08.500
+the equivalent resistance and that's the smallest out of all of these.
+
+02:08.590 --> 02:10.630
+Same problem that we just solved.
+
+02:10.990 --> 02:13.960
+OK so it definitely has to be choice B is the correct answer.
+
+02:13.960 --> 02:17.950
+It has the smallest resistance the voltage across all the networks are the same.

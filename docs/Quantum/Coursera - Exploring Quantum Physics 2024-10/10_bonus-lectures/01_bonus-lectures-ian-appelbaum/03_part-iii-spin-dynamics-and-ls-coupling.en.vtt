@@ -1,0 +1,605 @@
+WEBVTT
+
+1
+00:00:00.770 --> 00:00:03.560
+Hi everyone. 
+Today we'll resolve the paradox posed by 
+
+2
+00:00:03.560 --> 00:00:06.910
+the so called anomalous Zeeman effect in 
+atomic spectroscopy, by looking at the 
+
+3
+00:00:06.910 --> 00:00:10.110
+consequences of having both orbital and 
+spin angular momentum at play in the 
+
+4
+00:00:10.110 --> 00:00:15.222
+atomic electron Hamiltonian. 
+But first I want to tell you a little bit 
+
+5
+00:00:15.222 --> 00:00:19.342
+more about spin and its interaction with 
+magnetic fields. 
+
+6
+00:00:19.342 --> 00:00:24.205
+First, let's review the elements of our 
+theory of electron spin. 
+
+7
+00:00:24.205 --> 00:00:27.743
+The spin vector components are 
+represented as operators by the two by 
+
+8
+00:00:27.743 --> 00:00:32.511
+two Pauli matrices. 
+In direct analogy to orbital angular 
+
+9
+00:00:32.511 --> 00:00:37.339
+momentum, the square of the total spin is 
+h bar squared times the half integer spin 
+
+10
+00:00:37.339 --> 00:00:43.780
+quantum number, little s, times s plus 1. 
+Eigenvalues of the individual components 
+
+11
+00:00:43.780 --> 00:00:47.390
+are simply the spin magnetic quantum 
+number, m sub s. 
+
+12
+00:00:47.390 --> 00:00:52.020
+Times the quantum of action h bar. 
+In a magnetic field along z, we have a 
+
+13
+00:00:52.020 --> 00:00:55.501
+trivial 2 by 2 Hamiltonian whose 
+eigenvalues are given by the diagonal 
+
+14
+00:00:55.501 --> 00:00:59.284
+elements. 
+With corresponding eigenvectors which are 
+
+15
+00:00:59.284 --> 00:01:03.019
+purely one spin component or the other. 
+We see that the first moves up in energy 
+
+16
+00:01:03.019 --> 00:01:06.724
+which we expect from a magnetic moment 
+pointed anti-parallel to the magnetic 
+
+17
+00:01:06.724 --> 00:01:10.445
+field. 
+Because of spin angular momentum and its 
+
+18
+00:01:10.445 --> 00:01:14.705
+magnetic moment or antiparallel, however, 
+this corresponds to spin parallel to the 
+
+19
+00:01:14.705 --> 00:01:17.500
+field. 
+And so we call it spin up. 
+
+20
+00:01:20.350 --> 00:01:23.430
+The other moves down in energy, 
+consistent with a magnetic moment 
+
+21
+00:01:23.430 --> 00:01:28.920
+parallel to the field, which has angular 
+momentum opposite to the field. 
+
+22
+00:01:28.920 --> 00:01:34.110
+It can be called spin down. 
+Note that we can compactly represent the 
+
+23
+00:01:34.110 --> 00:01:37.510
+eigen energies by this simple function of 
+the spin magnetic quantum number, m sub 
+
+24
+00:01:37.510 --> 00:01:43.440
+s. 
+We can use the stationary states of the 
+
+25
+00:01:43.440 --> 00:01:46.455
+simple spin Hamiltonian to calculate the 
+state evolution of a spin in a magnetic 
+
+26
+00:01:46.455 --> 00:01:52.417
+field in which it is not in eigenstate. 
+For example, let's say we prepare a spin 
+
+27
+00:01:52.417 --> 00:01:56.273
+as an eigenstate of Sx. 
+For example, by placing it in a magnetic 
+
+28
+00:01:56.273 --> 00:01:59.384
+field long x and waiting for slow 
+relaxation processes that we ignored in 
+
+29
+00:01:59.384 --> 00:02:03.740
+our Hamiltonian, to take the system to 
+its lowest energy state. 
+
+30
+00:02:05.440 --> 00:02:09.094
+For a magnetic field along the negative x 
+direction, that's the state with a 
+
+31
+00:02:09.094 --> 00:02:14.800
+positive eigen value of S X. 
+The ket labeled plus. 
+
+32
+00:02:14.800 --> 00:02:18.300
+Now, let's suddenly rotate the magnetic 
+field along Z. 
+
+33
+00:02:18.300 --> 00:02:21.784
+The state is not a eigen state of the new 
+Hamiltonian, but we can decompose it into 
+
+34
+00:02:21.784 --> 00:02:26.490
+a super position of eigen states that 
+diagonalize the Hamiltonian. 
+
+35
+00:02:26.490 --> 00:02:29.703
+And which each evolve in time with a 
+different complex exponential given by 
+
+36
+00:02:29.703 --> 00:02:33.672
+its energy. 
+We can now use this to determine how the 
+
+37
+00:02:33.672 --> 00:02:37.530
+expectation value of spin along x changes 
+with time. 
+
+38
+00:02:37.530 --> 00:02:39.900
+We simply sandwich the operator by the 
+state. 
+
+39
+00:02:39.900 --> 00:02:43.995
+Remembering to not only transpose but 
+also complex conjugate the bra on the 
+
+40
+00:02:43.995 --> 00:02:48.600
+left converting it from a column vector 
+to a row vector. 
+
+41
+00:02:49.630 --> 00:02:52.050
+The result is a quantity which oscillates 
+in time. 
+
+42
+00:02:53.850 --> 00:02:58.931
+But how is spin conserved then? 
+If s x is changing, where does the spin 
+
+43
+00:02:58.931 --> 00:03:03.694
+go? 
+By calculating the expectation value of 
+
+44
+00:03:03.694 --> 00:03:08.406
+spin along the y direction, s y we see 
+that it too is oscillating in time, 90Â° 
+
+45
+00:03:08.406 --> 00:03:15.540
+out of phase with spin along x. 
+This is simply the quantum mechanical 
+
+46
+00:03:15.540 --> 00:03:19.560
+version of a process we are all familiar 
+with, the Larmor precession of an object 
+
+47
+00:03:19.560 --> 00:03:24.650
+with angular momentum subject to a 
+torque, such as a gyroscope. 
+
+48
+00:03:25.860 --> 00:03:30.180
+In this classical example, it's a 
+mechanical torque due to gravity. 
+
+49
+00:03:30.180 --> 00:03:34.156
+Whereas the spin undergoes procession due 
+to a mechanic, magnetic torque, caused by 
+
+50
+00:03:34.156 --> 00:03:40.080
+a magnetic moment in a magnetic field. 
+Note that the procession frequency is 
+
+51
+00:03:40.080 --> 00:03:45.110
+controlled by the Zeeman splitting from 
+magnetic field magnitude. 
+
+52
+00:03:45.110 --> 00:03:48.782
+This field control over spin procession 
+Larmor frequency is precisely how we can 
+
+53
+00:03:48.782 --> 00:03:52.140
+spacially image using magnetic resonance 
+imaging. 
+
+54
+00:03:53.200 --> 00:03:56.450
+Powerful electromagnets are used to 
+create strong magnetic fields and field 
+
+55
+00:03:56.450 --> 00:03:59.537
+gradients. 
+So that only a small volume will the 
+
+56
+00:03:59.537 --> 00:04:03.194
+Zeeman splitting that corresponds to a 
+resonant exotation from narrow band radio 
+
+57
+00:04:03.194 --> 00:04:08.009
+frequency electromagnetic waves. 
+This selective auscultation is then 
+
+58
+00:04:08.009 --> 00:04:11.370
+sensed by inductive detectors. 
+Pickup coils. 
+
+59
+00:04:12.560 --> 00:04:15.416
+By scanning the resonance slice around in 
+space by changing the electromagnetic 
+
+60
+00:04:15.416 --> 00:04:18.250
+coil currents. 
+Images of deeply buried structures are 
+
+61
+00:04:18.250 --> 00:04:21.365
+created. 
+MRI works by acting on the spin of the 
+
+62
+00:04:21.365 --> 00:04:25.790
+nuclei, not electrons. 
+Which is enabled by the much smaller 
+
+63
+00:04:25.790 --> 00:04:30.130
+nuclear magneton due to much larger mass 
+of the nuclei. 
+
+64
+00:04:30.130 --> 00:04:36.850
+And correspondingly small zamon energies 
+and radio frequencies for excitation. 
+
+65
+00:04:36.850 --> 00:04:40.546
+Although impractical for imaging human 
+biology, electrons spin resonance at 
+
+66
+00:04:40.546 --> 00:04:44.520
+around 20 gigahertz per tesla for the 
+free electron. 
+
+67
+00:04:44.520 --> 00:04:47.875
+Is, however, very useful for study of 
+inanimate samples, such as organic 
+
+68
+00:04:47.875 --> 00:04:52.514
+molecules and solid state materials. 
+Now we can get back to the issue of 
+
+69
+00:04:52.514 --> 00:04:58.430
+anomalous Zeeman effect of atomic spectra 
+in a magnetic field. 
+
+70
+00:04:58.430 --> 00:05:01.236
+Both the orbital and spin angular 
+momentum of the electron have magnetic 
+
+71
+00:05:01.236 --> 00:05:04.580
+moments which couple to the magnetic 
+field. 
+
+72
+00:05:04.580 --> 00:05:08.399
+But as we saw, the relativistic nature of 
+the spin makes inclusion of a non-unity 
+
+73
+00:05:08.399 --> 00:05:12.200
+Thomas G factor necessary. 
+We can of course, diagonalize the 
+
+74
+00:05:12.200 --> 00:05:16.880
+Hamiltonian, and determine the Zeeman 
+splitting for each term separately. 
+
+75
+00:05:16.880 --> 00:05:19.935
+But how do we go about diagonalizing this 
+expression with vectors l and s, that 
+
+76
+00:05:19.935 --> 00:05:24.768
+are, in general, not parallel? 
+The key is to notice that the total 
+
+77
+00:05:24.768 --> 00:05:30.754
+angular momentum, l plus s, is conserved. 
+We expect that the energetic splitting 
+
+78
+00:05:30.754 --> 00:05:35.040
+will be on the same form as before, but 
+with an effective g factor. 
+
+79
+00:05:35.040 --> 00:05:39.161
+Let's see how this works out. 
+First we project both vectors onto the 
+
+80
+00:05:39.161 --> 00:05:43.717
+conserved angular momentum axes by taking 
+the inner product with the unit vector 
+
+81
+00:05:43.717 --> 00:05:49.430
+along j l plus s. 
+For a magnetic field along z, this then 
+
+82
+00:05:49.430 --> 00:05:53.720
+picks out the z component of j, which has 
+eigenvalues h bar times total magnetic 
+
+83
+00:05:53.720 --> 00:05:59.666
+quantum number, m sub j. 
+Carrying out the dot product yields an 
+
+84
+00:05:59.666 --> 00:06:02.498
+expression that is mostly known 
+quantities in terms of the individual 
+
+85
+00:06:02.498 --> 00:06:06.472
+quantum numbers. 
+But what's the dot product between the 
+
+86
+00:06:06.472 --> 00:06:11.237
+spin and the orbital angular momentum? 
+This can be seen by once again looking at 
+
+87
+00:06:11.237 --> 00:06:20.799
+the conserve quantity, j squared. 
+Substituting this quantity into our 
+
+88
+00:06:20.799 --> 00:06:24.920
+Hamiltonian entirely converts it into a 
+scalar energy quantity. 
+
+89
+00:06:24.920 --> 00:06:28.214
+Which is proportional to the magnaton 
+times the magnetic field times the 
+
+90
+00:06:28.214 --> 00:06:32.570
+magnetic quantum number, m sub j. 
+With the coefficient out front, it 
+
+91
+00:06:32.570 --> 00:06:37.160
+depends on little l, s and j. 
+This is the so called Lande G-factor. 
+
+92
+00:06:37.160 --> 00:06:45.150
+Here's a few useful examples. 
+When the orbital quantum number is zero. 
+
+93
+00:06:45.150 --> 00:06:47.810
+We just have the magnetic field 
+interacting with the spin. 
+
+94
+00:06:47.810 --> 00:06:53.410
+Which we know has a g factor of two. 
+Lande correctly predicts this. 
+
+95
+00:06:53.410 --> 00:06:57.354
+For l equals one, the total angular 
+momentum j can be one plus one half, 
+
+96
+00:06:57.354 --> 00:07:01.781
+three halves. 
+Or minus one half, yielding one half. 
+
+97
+00:07:03.230 --> 00:07:05.880
+In the first case, the Lande G-factor is 
+four thirds. 
+
+98
+00:07:05.880 --> 00:07:09.830
+And in the second, two thirds. 
+So from the six l equals one states, 
+
+99
+00:07:09.830 --> 00:07:14.630
+that's three orbital projections times 
+two spin projections. 
+
+100
+00:07:14.630 --> 00:07:18.164
+Four of the j equal to three halves 
+states, where m sub j is minus three 
+
+101
+00:07:18.164 --> 00:07:22.194
+halves minus one half plus one half and 
+plus three halves, have one G factor and 
+
+102
+00:07:22.194 --> 00:07:25.914
+the two remaining, j is equal one half 
+states with m sub j equal to plus and 
+
+103
+00:07:25.914 --> 00:07:32.680
+minus one half have another G factor of 
+half its value. 
+
+104
+00:07:32.680 --> 00:07:38.430
+In a magnetic field, the six split like 
+this. 
+
+105
+00:07:38.430 --> 00:07:42.160
+Now, let's look at transitions to the l = 
+0 derived states. 
+
+106
+00:07:42.160 --> 00:07:44.844
+The selection rules with Landau Spin 
+Orbit Coupling are analogous to the 
+
+107
+00:07:44.844 --> 00:07:49.922
+orbital selection rules. 
+Changes in quantum number j, are plus or 
+
+108
+00:07:49.922 --> 00:07:54.794
+minus 1, and changes in the total 
+magnetic quantum number, m sub j are 0 
+
+109
+00:07:54.794 --> 00:08:00.540
+and plus 1 or minus 1. 
+This means that only the four j equal 
+
+110
+00:08:00.540 --> 00:08:04.260
+three halves states can radiatively 
+transition to the j equals one half 
+
+111
+00:08:04.260 --> 00:08:08.608
+states. 
+And only the m sub j equal to plus or 
+
+112
+00:08:08.608 --> 00:08:16.420
+minus one half states can transition to 
+both l equals zero states. 
+
+113
+00:08:16.420 --> 00:08:22.578
+This leaves six distinct transitions. 
+The energy of the spectroscopic shifts 
+
+114
+00:08:22.578 --> 00:08:26.274
+that we observe by, by dispersing the 
+emitted photos through the spectrometer 
+
+115
+00:08:26.274 --> 00:08:29.970
+are proportional to the difference in the 
+products of lambda g factor times the 
+
+116
+00:08:29.970 --> 00:08:36.380
+total magnetic quantum number m sub j for 
+initial and final states. 
+
+117
+00:08:36.380 --> 00:08:40.400
+We can now see how multiplates more than 
+the Lorenz triplet are created. 
+
+118
+00:08:40.400 --> 00:08:46.250
+In this example, spectral, spectroscopic 
+line splits into six in a magnetic field. 
+
+119
+00:08:46.250 --> 00:08:49.598
+Each separated by two thirds of the 
+[UNKNOWN] splitting, an all line shift 
+
+120
+00:08:49.598 --> 00:08:53.400
+with magnetic field. 
+It is this spin orbit coupling, that 
+
+121
+00:08:53.400 --> 00:08:55.470
+explains the Anomalous Zeeman effect. 

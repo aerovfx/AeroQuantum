@@ -1,0 +1,226 @@
+WEBVTT
+
+00:00.270 --> 00:02.360
+All right I want to look at this example now.
+
+00:02.760 --> 00:08.490
+Both of these examples here are combinations of combinations and what we want to find now is what is
+
+00:08.490 --> 00:12.660
+the equivalent resistance between points and B for each case.
+
+00:12.660 --> 00:18.390
+And we're going to assume that every resistor here in this network each one has a value equal to Ohmes.
+
+00:18.720 --> 00:20.420
+So how would we solve this problem here.
+
+00:20.580 --> 00:23.020
+Let's start with case number one.
+
+00:23.040 --> 00:29.160
+Now the case number one here the key to this problem here and the mistake that students often make is
+
+00:29.160 --> 00:33.410
+they first try to simplify it using resistors in series.
+
+00:33.720 --> 00:40.230
+But really the goal here is to notify or to notice that I would group them together like this.
+
+00:40.260 --> 00:42.310
+I would first simplify this one.
+
+00:42.510 --> 00:47.380
+These three resistors and these three resistors are all in parallel with each other.
+
+00:47.940 --> 00:54.900
+And then I would simplify both of these resistors these two resistors here are also in parallel with
+
+00:54.900 --> 00:55.980
+each other.
+
+00:56.280 --> 01:02.100
+And then once I have both of those simplified then I would simply add the two of them in series with
+
+01:02.100 --> 01:03.160
+one another.
+
+01:03.180 --> 01:04.900
+So let's go ahead and do that.
+
+01:05.460 --> 01:11.010
+So for the first three over here what I'm going to do is I'm simply going to apply the equation for
+
+01:11.010 --> 01:19.110
+equivalent resistors and I know that one over our equivalent is simply one over our again here it's
+
+01:19.110 --> 01:23.770
+going to be a plus one over our plus one over our.
+
+01:23.820 --> 01:26.290
+So in this case it's simply three over our.
+
+01:26.820 --> 01:29.890
+And I know the resistance here is two for each one of those.
+
+01:29.910 --> 01:31.600
+So it's simply three over two.
+
+01:31.860 --> 01:41.460
+So at the end the equivalent resistance for those three combinations is two over three ohms.
+
+01:41.820 --> 01:47.700
+I can use the same argument now to find what the second combination is what you're going to find now
+
+01:47.700 --> 01:52.320
+is our equivalent of is simply going to be one.
+
+01:52.460 --> 01:57.950
+And here I have to say I can use the trick I can multiply them divided by the sum you multiply two times
+
+01:57.950 --> 02:00.790
+two you get four divided by the sum which is also 4.
+
+02:01.010 --> 02:03.550
+You get one on.
+
+02:03.630 --> 02:03.990
+All right.
+
+02:04.020 --> 02:06.090
+So now look at what we have.
+
+02:06.090 --> 02:10.450
+If you go ahead and redraw this picture this is what we now have we have a point here.
+
+02:11.010 --> 02:12.070
+I have a wire.
+
+02:12.330 --> 02:19.540
+I have it connecting an R equivalent equal to two thirds.
+
+02:19.760 --> 02:27.780
+And now I have another wire that is connecting a equivalent resistance equal to 1 ohm.
+
+02:28.170 --> 02:31.720
+So this becomes pretty straight for then I go all the way to point B.
+
+02:32.430 --> 02:36.270
+So all I have to do now is to combine both of those.
+
+02:36.300 --> 02:38.490
+You simply apply the same trick now.
+
+02:38.820 --> 02:45.200
+Except now we simply have two resistors that are in series with one another and if resistors are in
+
+02:45.200 --> 02:50.660
+series with one another all you have to do is simply add them up.
+
+02:50.840 --> 02:55.420
+So we have two equivalent resistors that are now in series.
+
+02:56.330 --> 02:59.690
+So the total are equivalent.
+
+02:59.900 --> 03:07.710
+The blue combination over here is simply going to be two thirds plus one.
+
+03:07.770 --> 03:16.210
+So that is simply two thirds plus three thirds is MI 5 third's.
+
+03:16.420 --> 03:22.000
+So the total equivalent resistance if I want to represent this whole network by 1 It simply has to be
+
+03:22.000 --> 03:25.130
+equal to 5 thirds and that's it.
+
+03:26.460 --> 03:28.700
+All right how about the second combination here.
+
+03:28.770 --> 03:31.350
+The second combination is slightly different.
+
+03:31.380 --> 03:34.350
+It looks like I have two branches here.
+
+03:34.890 --> 03:35.930
+Here's a branch number one
+
+03:39.440 --> 03:41.790
+that is in parallel with branch number two.
+
+03:44.760 --> 03:50.420
+Now the way you would simplify this one is I would first simplify each branch for example and branch
+
+03:50.430 --> 03:52.110
+number one the top branch.
+
+03:52.380 --> 03:56.880
+I have two resistors that are in series with each other.
+
+03:56.990 --> 04:02.820
+So the equivalent resistance of everything here in the blue highlighted region.
+
+04:03.380 --> 04:05.210
+Again there's two resistors here.
+
+04:05.420 --> 04:13.120
+So our equivalent for this guy is simply two plus two is me four ohms.
+
+04:13.290 --> 04:19.950
+Now for the orange case over here I have three of them that are in series with each other.
+
+04:20.360 --> 04:27.240
+So the equivalent resistance for this branch simply equals the 6 ohms.
+
+04:27.290 --> 04:38.580
+So now what you've done is you have a point here we have an equivalent resistance which is our blue.
+
+04:38.870 --> 04:41.120
+And now that goes all the way to point B.
+
+04:43.710 --> 04:52.070
+And I have that now that is in parallel with an equivalent resistance given by the orange case.
+
+04:53.910 --> 04:56.440
+Now just simplify the circuit again.
+
+04:57.000 --> 04:58.370
+This is what you have.
+
+04:58.770 --> 05:01.100
+Let's fill in our values.
+
+05:01.260 --> 05:08.900
+We have our equivalent here which equals to forums and the orange one I found that our equivalent was
+
+05:08.900 --> 05:11.120
+equal to 6 ohms.
+
+05:11.120 --> 05:15.170
+So now I simply have two resistors that are in parallel with each other.
+
+05:15.350 --> 05:18.440
+The way I simplify that is that my are equivalent.
+
+05:18.470 --> 05:23.300
+Let's just call it the total are equivalent since there's two of them I can simply multiply them and
+
+05:23.300 --> 05:31.490
+divided by the sum you multiply them you get four times six divided by the sum six plus four gives me
+
+05:31.490 --> 05:32.320
+10.
+
+05:32.870 --> 05:40.540
+So you get 24 divided by 10 which gives me 2.4 ohms.
+
+05:40.820 --> 05:47.000
+So the equivalent resistance of this entire network is equivalent to a 2.4 ohm resistor.
+
+05:47.090 --> 05:51.530
+So this is how you got to be a little bit careful when you're dealing with combinations of combinations.
+
+05:52.390 --> 05:54.790
+Hopefully this example highlights the different cases.

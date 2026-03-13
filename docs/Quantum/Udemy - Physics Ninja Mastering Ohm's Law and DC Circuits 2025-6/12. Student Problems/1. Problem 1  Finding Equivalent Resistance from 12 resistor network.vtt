@@ -1,0 +1,321 @@
+WEBVTT
+
+WEBVTT
+
+00:01.660 --> 00:05.440
+Hi everyone today I want to look at a an equivalent resistance problem.
+
+00:05.440 --> 00:10.630
+So here's the problem here I have those two points A and B denoted here and in between those two points
+
+00:10.670 --> 00:17.530
+and b I have a network of twelve resistors now the resistors are combinations of resistors in parallel
+
+00:17.560 --> 00:18.670
+and in series.
+
+00:18.790 --> 00:25.330
+So we're gonna apply the tools in order to simplify these 12 resistors into one equivalent resistor.
+
+00:25.330 --> 00:27.540
+All right let's go see how we set this problem up.
+
+00:27.580 --> 00:31.750
+Again I'm going to assume that all the resistance values are going to be the same thing and they're
+
+00:31.750 --> 00:37.480
+all going to be just the value are and I'll be able to simplify this network into one equivalent resistor.
+
+00:37.480 --> 00:38.570
+All right let's set it up.
+
+00:38.590 --> 00:43.030
+All right I want to first look at this problem here look at the overall symmetry of this problem because
+
+00:43.420 --> 00:48.190
+if you look at what I've highlighted here in this dashed box you're going to notice that this pattern
+
+00:48.190 --> 00:50.760
+over here kind of repeats itself.
+
+00:50.800 --> 00:56.350
+I mean it's kind of rotated a little bit but really whatever whatever is in this dash box is kind of
+
+00:56.350 --> 00:59.340
+the same thing is as this part over here.
+
+00:59.450 --> 01:03.030
+And it's also the same part as what's down over here.
+
+01:03.340 --> 01:07.200
+It's just rotated but it's the same overall component.
+
+01:07.340 --> 01:07.590
+Right.
+
+01:07.630 --> 01:13.240
+So if we're able to simplify what's in that dash box we can also simplify what's in those other circled
+
+01:13.360 --> 01:14.240
+areas.
+
+01:14.320 --> 01:20.920
+So let's go and just look at this area over here which I've represented here on the right hand side.
+
+01:21.010 --> 01:21.250
+OK.
+
+01:21.280 --> 01:25.290
+So this is what we have down over here we have a point over here and a point over here.
+
+01:25.370 --> 01:28.440
+I want you to first look at this top branch over here.
+
+01:28.450 --> 01:34.120
+Imagine there is a current here flowing in this direction that current I would have to flow through
+
+01:34.120 --> 01:35.470
+this resistor.
+
+01:35.470 --> 01:41.040
+And then once it reaches the top it really is going to continue and flow through the second resistor.
+
+01:41.050 --> 01:46.330
+So that means that we have over here is that both of these resistors here have to be in series with
+
+01:46.330 --> 01:48.010
+each other.
+
+01:48.160 --> 01:50.740
+So I can simply Simplify both of those.
+
+01:50.740 --> 01:58.300
+That means that the equivalent resistance of this upper branch over here has to be simply R plus R because
+
+01:58.300 --> 01:59.980
+they are in series with each other.
+
+02:00.070 --> 02:05.940
+Therefore you left with two are now if you go back and we redraw this picture over here.
+
+02:05.950 --> 02:11.000
+This is what we have we now have a resistance and I'm going to plot the two our resistance.
+
+02:11.350 --> 02:12.690
+Let me just plot it over here.
+
+02:12.700 --> 02:16.780
+Something like this little sloppy but that's OK.
+
+02:16.780 --> 02:22.750
+And then here I'm going to have this other point which is all the way down over here and I still have
+
+02:22.750 --> 02:28.340
+my blue resistance which is kind of on this diagonal over here so let's go ahead and redraw this one
+
+02:29.840 --> 02:30.710
+OK.
+
+02:30.750 --> 02:35.700
+So I've done quite a lot of work already and I know that this one here is to are I've simplified this
+
+02:35.700 --> 02:39.870
+bit and the first one I haven't changed this is still an equivalent resistance.
+
+02:40.920 --> 02:47.100
+So now if you look at this what you have now are two resistors that are in parallel with each other.
+
+02:47.130 --> 02:52.790
+Right these resistance says to R and R are simply in parallel with one another.
+
+02:52.830 --> 02:59.940
+So in order to simplify this into one equivalent resistance between these points all you simply have
+
+02:59.940 --> 03:05.880
+to do is apply the formula which simply says that one divided by my equivalent resistance let's call
+
+03:05.880 --> 03:13.460
+this equivalent resistance one is going to be one divided by two R plus one divided by R.
+
+03:14.070 --> 03:19.710
+So this is pretty simple to simplify you simply have to put things on a common denominator which we
+
+03:19.710 --> 03:26.280
+could choose as one over two are in order to do this I simply have to multiply by two for each side.
+
+03:26.280 --> 03:32.210
+And what you're left with is three over to r except that's one divided by the equivalent resistance.
+
+03:32.280 --> 03:35.520
+So at the end of the day you simply have to take the reciprocal of this.
+
+03:35.640 --> 03:42.000
+So you get that are equivalent one is simply equals the two are divided by three.
+
+03:42.030 --> 03:42.290
+All right.
+
+03:42.300 --> 03:48.330
+So that means that everything here in this dash box can be simply represented by two are divided by
+
+03:48.330 --> 03:49.730
+three.
+
+03:49.740 --> 03:54.600
+So now we're going to use this in order to simplify the rest of the network because that means everything
+
+03:54.600 --> 04:00.990
+over here can be simplified with a resistance which is equivalent to a two hour over three resistor.
+
+04:00.990 --> 04:06.630
+Everything down here in this lower triangle and in this other triangle can also be replaced by this
+
+04:06.630 --> 04:11.280
+value of equivalent resistance so let's keep this value in mind to are over three and let's go to the
+
+04:11.280 --> 04:14.970
+next page and see how we further simplify this network.
+
+04:15.000 --> 04:20.520
+So this is what we first found we found that everything here in this dash box was equivalent to a resistor
+
+04:20.520 --> 04:24.950
+which was equal to two are divided by the value three.
+
+04:24.980 --> 04:27.470
+That also means that while this is the same thing right.
+
+04:27.480 --> 04:32.990
+It's a combination of series that is then in parallel with this one resistor are.
+
+04:33.000 --> 04:39.480
+So if we redid the same type of analysis we would get to our over three for this one we would get two
+
+04:39.480 --> 04:44.490
+are over three for this one and we would get two are over three for this one.
+
+04:44.490 --> 04:50.460
+So now we simply have to combine all of these new resistance values which are all to our over three
+
+04:50.730 --> 04:52.590
+into one equivalent network.
+
+04:52.590 --> 04:58.890
+So I've redrawn my original circuit now and instead of drawing all of those triangles with those each
+
+04:58.890 --> 05:05.160
+one having three resistance values I'm simply now replacing those values with their equivalent resistance
+
+05:05.160 --> 05:12.210
+values and now all we have to do is simply look at this simplified network what we have here are two
+
+05:12.210 --> 05:12.900
+resistors.
+
+05:12.900 --> 05:15.080
+Let's look at this top portion over here.
+
+05:15.240 --> 05:17.970
+Both of these are simply in series with each other.
+
+05:17.970 --> 05:18.440
+All right.
+
+05:18.870 --> 05:21.290
+So this is pretty simple to simplify.
+
+05:21.390 --> 05:27.450
+That means the equivalent resistance inside my red box over here I simply have to add those values together
+
+05:27.930 --> 05:36.110
+so you get to are over three plus two are over three which gives me four are over three.
+
+05:36.160 --> 05:36.960
+Well guess what.
+
+05:37.000 --> 05:43.870
+I'm gonna have the exact same value down over here I'm going to get an hour equivalent for that lower
+
+05:43.870 --> 05:48.770
+segment which is also equal to for our over 3 All right.
+
+05:48.780 --> 05:50.100
+We're down to one last step.
+
+05:50.110 --> 05:54.680
+Now all we have to do is simply combine both of these guys.
+
+05:54.810 --> 06:01.590
+Remember both of these resistance values are now in parallel with each other so since they're in parallel
+
+06:01.590 --> 06:07.710
+we should simply apply our formula for parallel resistors and get one total equivalent Resistance for
+
+06:07.710 --> 06:13.470
+this problem last step in our problem now is simply to combine both of these equivalent resistors for
+
+06:13.470 --> 06:19.110
+the complete upper branch here which was for our over three and the lower branch which was ended up
+
+06:19.110 --> 06:21.780
+being the same just from the symmetry of the problem.
+
+06:21.780 --> 06:28.130
+And now all we have is one over our equivalent and really total now right.
+
+06:28.140 --> 06:34.680
+This is the last step is going to be one over let's just write it out first one over our equivalent
+
+06:34.680 --> 06:41.640
+for this top branch and again plus one over our equivalent from the bottom branch.
+
+06:42.300 --> 06:45.240
+But keep in mind these are the exact same values right.
+
+06:45.270 --> 06:50.780
+So therefore it's really simply two times whatever are equivalent from one of those branches.
+
+06:50.790 --> 06:51.000
+Right.
+
+06:51.000 --> 06:52.830
+Since they're the exact same value.
+
+06:53.010 --> 06:59.250
+So we simply going to get two divided by four are instead of dividing by three I'm just going to multiply
+
+06:59.250 --> 07:06.090
+by three and this is one over our equivalent just right total like this okay.
+
+07:06.100 --> 07:09.100
+So the last step now you could simplify this a little bit.
+
+07:09.100 --> 07:11.630
+I can factor out too when I'm left with a two.
+
+07:11.680 --> 07:14.780
+So the last step here is simply take the inverse of this.
+
+07:14.950 --> 07:22.030
+So we get that my equivalent our equivalent called our equivalent total at the end of the day simply
+
+07:22.030 --> 07:25.090
+going to be two are divided by three.
+
+07:26.030 --> 07:26.580
+Okay.
+
+07:26.650 --> 07:32.650
+So that was kind of a nice problem that you have to combine resistors in series and parallel and at
+
+07:32.650 --> 07:34.690
+the end we should get to our divided by three.
+
+07:34.840 --> 07:37.600
+If the value of the resistance was example 10.
+
+07:37.810 --> 07:40.630
+Well we can easily calculate that it would be twenty over three.
+
+07:40.630 --> 07:41.980
+All right very very straightforward.

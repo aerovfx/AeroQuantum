@@ -1,0 +1,277 @@
+WEBVTT
+
+00:00.190 --> 00:05.910
+Right I now want to do is just look at the mathematical relationship between the electric field and
+
+00:05.910 --> 00:07.440
+the electrical potential.
+
+00:07.620 --> 00:14.430
+We saw the connection four point charges electric fuel's point out radiantly away from the point charge
+
+00:14.760 --> 00:20.160
+and the equip potential services were perpendicular to those field lines.
+
+00:20.160 --> 00:26.000
+And I also show you for the dipole the same thing happens the field is more complicated but the equip
+
+00:26.000 --> 00:28.940
+potentials were always perpendicular to those.
+
+00:29.040 --> 00:35.560
+So remember the field lines always go from high potential toward low potential.
+
+00:35.730 --> 00:40.590
+So you need the electrical potential to change for there to be an electric field.
+
+00:40.590 --> 00:40.830
+All right.
+
+00:40.830 --> 00:45.870
+So let's look at that and then we're going to apply our equation to look at parallel plates.
+
+00:45.870 --> 00:49.680
+That was the other configuration where we looked at the electric field.
+
+00:49.830 --> 00:56.190
+That case is a mathematically a little bit simpler because we said if we have parallel PLATES THE ELECTRIC
+
+00:56.190 --> 00:57.970
+FIELD IS CONSTANT.
+
+00:58.110 --> 00:58.290
+Right.
+
+00:58.290 --> 01:01.050
+It goes from the positive plate toward the negative plate.
+
+01:01.050 --> 01:08.190
+Let's see what that means in terms of the electrical potential in terms of the voltage All right.
+
+01:08.220 --> 01:14.070
+So here is the expression over here and I'm just gonna write it down as the magnitude and let's consider
+
+01:14.070 --> 01:18.320
+a place where the voltage varies linearly in space.
+
+01:18.360 --> 01:26.030
+The way you would write this here is minus the change of voltage over a change in spatial coordinate.
+
+01:26.310 --> 01:29.160
+So here's the situation I'm describing.
+
+01:29.160 --> 01:31.200
+Let's see something like this.
+
+01:31.200 --> 01:39.620
+This is my x axis and for now let's just take these are we potential surfaces and let's assume that
+
+01:39.620 --> 01:50.360
+they kind of look like this and take this here to be kind of 50 volts maybe twenty five volts 0 volts
+
+01:50.420 --> 01:52.550
+and negative twenty five volts.
+
+01:52.600 --> 01:53.520
+Okay.
+
+01:53.620 --> 02:01.090
+The spacing here could be kind of 0 meters one meter two meter three meters and so forth.
+
+02:01.760 --> 02:08.450
+If I wanted to evaluate the electric field again there's only gonna be an electric field in this direction
+
+02:08.780 --> 02:11.860
+because that is where the voltage is changing.
+
+02:11.990 --> 02:17.030
+There is no component of the electric field that has to be up and down.
+
+02:17.030 --> 02:22.770
+Right you can't have this because the voltage doesn't change along that direction right here.
+
+02:22.820 --> 02:23.060
+All right.
+
+02:23.060 --> 02:24.350
+So let me just get rid of that.
+
+02:26.510 --> 02:26.780
+All right.
+
+02:26.810 --> 02:30.500
+So we will have an electric field that goes like this.
+
+02:30.650 --> 02:37.310
+And if it varies linearly with distance again I could choose kind of this point and this point.
+
+02:37.340 --> 02:41.890
+So there are different voltages and they're separated by a certain distance.
+
+02:41.930 --> 02:48.320
+So if I wanted to find the electric field in this case again the Deltas are always a final value minus
+
+02:48.410 --> 02:50.480
+an initial value.
+
+02:50.480 --> 02:57.580
+And again this is going to be my final position minus my initial position.
+
+02:57.690 --> 02:59.530
+So let's go ahead and do that so we get minus.
+
+02:59.530 --> 03:06.450
+So the final voltage let's take this point over here so we get minus 25 and minus the initial voltage
+
+03:06.460 --> 03:08.840
+This is 50.
+
+03:08.930 --> 03:09.450
+Okay.
+
+03:09.460 --> 03:14.620
+And all of this divided by the change of space here.
+
+03:14.620 --> 03:18.940
+This is at three meters that's the final and minus zero meters like this.
+
+03:19.830 --> 03:20.230
+OK.
+
+03:20.260 --> 03:29.590
+So if you look at this term is 75 or negative 75 multiplied by that one becomes 75 over three.
+
+03:29.590 --> 03:35.610
+In this case we get 25 and this is measured in volts per meter.
+
+03:35.650 --> 03:41.710
+OK so the electric field would be 25 volts per meter OK.
+
+03:41.770 --> 03:43.760
+Notice we get a positive number.
+
+03:43.930 --> 03:50.020
+Positive number is indicative of some that point toward the positive x direction right here.
+
+03:50.750 --> 03:51.930
+OK.
+
+03:52.090 --> 03:58.000
+So that here is the electric field magnitude for that direction.
+
+03:58.030 --> 04:03.370
+All right what I said was kind of an approximation in reality really what you want to do is if you want
+
+04:03.370 --> 04:07.870
+to find the electric field this is kind of how it's represented here.
+
+04:07.870 --> 04:09.860
+Now this looks rather complicated.
+
+04:09.880 --> 04:12.270
+This here is called a gradient.
+
+04:12.770 --> 04:21.640
+And I'll define it what it is in just a second so I can write this a gradient here as a partial derivative.
+
+04:21.790 --> 04:29.860
+So it's only along one direction here of the voltage and that gives me the component of the field along
+
+04:29.860 --> 04:32.030
+the x direction.
+
+04:32.070 --> 04:32.300
+Okay.
+
+04:32.320 --> 04:37.540
+But I could have in general the voltage that varies in other directions.
+
+04:37.540 --> 04:43.050
+So actually the gradient right here actually has three components if I write it in Cartesian coordinates.
+
+04:43.240 --> 04:50.460
+If the voltage varies in the y direction again I'm going to have a y component of the electric field.
+
+04:50.500 --> 04:58.120
+This is what I would call E Y and the last term you can also have spatial variation of the voltage again
+
+04:58.120 --> 04:59.710
+along the z direction.
+
+04:59.780 --> 05:04.420
+And this is what would be called the Z component of the electric field
+
+05:09.470 --> 05:15.500
+for the case that I considered earlier this is if I'm working in Cartesian coordinates for the point
+
+05:15.500 --> 05:23.680
+charge that I considered earlier we know that the magnitude of the voltage from a certain point away
+
+05:23.680 --> 05:30.850
+the voltage I can write out as k q over are okay.
+
+05:31.330 --> 05:37.510
+The way that you would write down the electric field for this case again I would have to write out this
+
+05:37.510 --> 05:41.340
+gradient here in spherical coordinates.
+
+05:41.380 --> 05:48.160
+Again this is kind of mathematical but the only component that I'm going to get here is how does the
+
+05:48.160 --> 05:54.250
+voltage change as a function of distance away from the charge.
+
+05:54.280 --> 05:54.570
+All right.
+
+05:54.580 --> 06:00.400
+And while I'm gonna write this as k q and I'll bring the R to the top and I can do that as long as I
+
+06:00.400 --> 06:03.320
+just change the exponent to a negative.
+
+06:03.520 --> 06:05.860
+And how do you take a derivative of this function.
+
+06:05.860 --> 06:07.480
+This is pretty straightforward.
+
+06:07.480 --> 06:10.600
+You get minus one from the exponent.
+
+06:10.600 --> 06:16.160
+This is K Q and it becomes R to the minus two.
+
+06:16.190 --> 06:21.190
+Now can't forget the other negative sine I have there so that actually converts that one into a positive
+
+06:22.790 --> 06:27.470
+right and now the direction of this is always kind of pointing away in this case.
+
+06:27.510 --> 06:31.580
+Okay so that is how you would evaluate it for this point charge.
+
+06:31.580 --> 06:36.920
+So at the end the expression that I get at least for the full vector right here would be k q I'll bring
+
+06:36.920 --> 06:43.500
+the r square at the bottom and again it's pointing away from that point charge.
+
+06:43.670 --> 06:49.520
+So at any point again my electric field kind of looks like this.
+
+06:49.870 --> 06:53.700
+So this expression here is sort more like this one here.
+
+06:53.830 --> 06:56.430
+This is more for spherical.
+
+06:57.100 --> 07:01.680
+And this here is more for Cartesian coordinates.
+
+07:01.920 --> 07:07.240
+All right your class might not be going into this level of detail here but the key is that as long as
+
+07:07.240 --> 07:11.740
+you have voltage that changes in space you're going to have an electric field.

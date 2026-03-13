@@ -1,0 +1,525 @@
+WEBVTT
+
+WEBVTT
+
+00:00.200 --> 00:04.950
+And now I want to look at what happens in circuits where there's more than one capacitor.
+
+00:04.950 --> 00:12.510
+So again we have our basic equation that q equals to the capacitance multiplied by the voltage and that's
+
+00:12.510 --> 00:16.530
+fine if there is only one capacitor one voltage.
+
+00:16.530 --> 00:16.740
+Right.
+
+00:16.740 --> 00:20.700
+We want to find the charge on it but what happens now if there's two and they're connected one after
+
+00:20.700 --> 00:21.740
+another.
+
+00:22.050 --> 00:26.820
+We say that when they're connected in this way as shown in the figure that they are in series with one
+
+00:26.820 --> 00:27.750
+another.
+
+00:27.750 --> 00:28.000
+OK.
+
+00:28.020 --> 00:36.360
+So we'd like to be able to answer how much charge is there on each capacitor and also what is the voltage
+
+00:36.360 --> 00:37.770
+between the plates.
+
+00:37.770 --> 00:39.060
+Is the voltage the same.
+
+00:39.090 --> 00:39.360
+OK.
+
+00:39.380 --> 00:41.280
+Again let's assume that they're different.
+
+00:41.400 --> 00:45.900
+They could be the same capacitance that'll be a limiting case but let's just assume that they're different.
+
+00:45.900 --> 00:47.220
+We'll give them some values.
+
+00:47.280 --> 00:51.390
+Let's give a battery a voltage and let's do the calculation.
+
+00:52.380 --> 00:58.050
+Ideally what we want to be able to do is simplify complicated circuits that have more than one capacitor
+
+00:58.380 --> 01:00.580
+into something that's simpler.
+
+01:00.580 --> 01:07.110
+So I'm also going to show you how you can write this circuit here how you can represent it using a one
+
+01:07.110 --> 01:14.760
+battery the same battery that's connected up here and instead of having two what we can do is just represent
+
+01:14.760 --> 01:18.740
+this more complicated circuit by a simplified circuit.
+
+01:18.980 --> 01:26.130
+And what I'm doing here is I'm going to produce an equivalent capacitance that is going to be equivalent
+
+01:26.130 --> 01:28.310
+to both values like this.
+
+01:28.320 --> 01:36.090
+So the value over here is not C1 or C2 but it's going to be some equivalent value of both combinations.
+
+01:36.090 --> 01:40.860
+So let me show you how to do that and how to solve this problem once we have the problem boiled down
+
+01:40.860 --> 01:42.660
+to a simple circuit like this.
+
+01:42.660 --> 01:45.630
+Applying my capacitor equation is super easy right.
+
+01:45.690 --> 01:51.250
+Says that the charge is equal to C equivalent multiplied by the voltage.
+
+01:51.420 --> 01:55.410
+All right so let's go ahead set up the problem and let's see what's going on.
+
+01:55.410 --> 01:55.620
+All right.
+
+01:55.650 --> 01:59.040
+So here's the simple circuit I have a two capacitors.
+
+01:59.040 --> 02:00.800
+These are the values I'm going to take.
+
+02:00.800 --> 02:06.900
+C One is 10 micro Feride and C two is 40 micro Feride and the voltage is 10.
+
+02:06.910 --> 02:11.590
+Again this is an example of capacitors in series.
+
+02:11.760 --> 02:14.580
+So we have two questions What's the voltage across each plate.
+
+02:14.610 --> 02:21.900
+So if I was going to kind of measure the voltage here across the first one this would be v 1 and if
+
+02:21.900 --> 02:28.260
+I measure the voltage across the second one just do it a different color this here would be the voltage
+
+02:28.260 --> 02:30.180
+V to.
+
+02:30.630 --> 02:35.760
+If I measure the voltage across the battery I would get 10 volts I'm going to label these points over
+
+02:35.760 --> 02:45.540
+here so let's call this point a maybe point B C and D.
+
+02:45.920 --> 02:52.120
+OK so the voltage v 1 may just write this down v 1 is really the difference between A and B.
+
+02:52.130 --> 03:00.360
+So it's kind of V A mine is VB the voltage across the second capacitor is really V C minus V.
+
+03:00.370 --> 03:01.180
+D.
+
+03:01.590 --> 03:02.680
+OK.
+
+03:02.930 --> 03:05.180
+What else can we say.
+
+03:05.240 --> 03:07.670
+Again this is just a wire a wires a piece of metal.
+
+03:07.670 --> 03:13.970
+So actually we could say to the voltage across A B and C has to be the same right VB must be equal to
+
+03:13.970 --> 03:14.550
+V see.
+
+03:14.600 --> 03:17.450
+This is a wire it's an equity potential
+
+03:20.820 --> 03:22.740
+same potential the wires.
+
+03:22.740 --> 03:28.890
+So that means that whatever voltage I have at this positive terminal the battery has to be the same
+
+03:28.890 --> 03:30.300
+voltage everywhere here.
+
+03:30.300 --> 03:36.510
+So this is also positive whatever voltage I have at this negative has to be the same voltage everywhere
+
+03:36.510 --> 03:40.800
+here because it's a piece of metal so it's that plate is negative.
+
+03:40.800 --> 03:45.810
+Again if you imagine you're an electron anywhere here what you want to do when you see a positive terminal
+
+03:46.140 --> 03:50.910
+the electrons want to go this way so that's going to leave this positive again.
+
+03:50.910 --> 03:56.220
+Now imagine if this now becomes positive what is that going to do to any of the charges in the middle
+
+03:56.220 --> 03:57.630
+section over there.
+
+03:57.750 --> 04:03.540
+It's going to attract all the negative charges and it's gonna be the same amount of charge.
+
+04:03.640 --> 04:05.040
+Now where are those charges come from.
+
+04:05.040 --> 04:06.880
+They came from the other plate.
+
+04:06.930 --> 04:09.300
+So again all the electrons left.
+
+04:09.300 --> 04:14.640
+So this one's positive and again this side is going to be negative because it's the electrons are getting
+
+04:14.640 --> 04:18.240
+repelled by this negative side of the battery all right.
+
+04:18.240 --> 04:24.360
+So what we have here actually which is really really important which is a property for capacitors and
+
+04:24.360 --> 04:30.660
+series only write it down it's really only four series for series we have to have that the charge on
+
+04:30.660 --> 04:37.830
+capacitor Q One has to be equal to the charge on capacitor Q2 what we're gonna do here is really at
+
+04:37.830 --> 04:43.240
+the end we're just gonna call this just give it one number since through the same just call it Q All
+
+04:43.270 --> 04:51.340
+right so let's write down our expression than we have q 1 the charge on the first capacitor is the capacitance
+
+04:51.540 --> 04:58.180
+C1 multiplied by the voltage V1 that's an equation what else we're gonna have.
+
+04:58.200 --> 05:06.610
+Q Two is equal to C to multiply by v 2 We're just applying our capacitor equation here for each capacitor
+
+05:06.970 --> 05:12.970
+that I could do this is kind of true for any capacitor but now there's this simplification because these
+
+05:12.970 --> 05:19.330
+charges are all the same so actually we could just get rid of that and again that is only four series
+
+05:19.330 --> 05:23.990
+that I'm able to do this all right what else can we do.
+
+05:24.060 --> 05:29.550
+So we really have a couple unknowns over here all we know right now is the capacitance we don't know
+
+05:29.550 --> 05:36.150
+the charge q we just know it's the same but we don't know the voltage across each one but there is something
+
+05:36.150 --> 05:42.570
+that we do know we knew do know the voltage across this battery which means that actually the voltage
+
+05:42.570 --> 05:48.510
+across the battery has to be the voltage across this one plus the voltage across that one because if
+
+05:48.510 --> 05:53.760
+I'm over here and I want to go right across to the other side or I can either go through the battery
+
+05:54.360 --> 05:56.940
+so I'd have a voltage difference of 10 volts.
+
+05:56.940 --> 06:00.620
+In this case or I could go across both capacitors.
+
+06:00.870 --> 06:04.760
+So actually you should be able to write this expression also so this is another equation.
+
+06:04.770 --> 06:08.940
+This is v 1 plus the voltage across the v 2.
+
+06:09.060 --> 06:11.850
+This here has to be equal to the voltage of the battery.
+
+06:11.850 --> 06:12.630
+Let me just call it.
+
+06:13.060 --> 06:16.230
+Let's just keep it as V that's fine.
+
+06:16.290 --> 06:16.460
+All right.
+
+06:16.470 --> 06:19.590
+So this is really the second equation.
+
+06:19.770 --> 06:25.740
+So again we want to go back and what is the voltage across each capacitor again this is equation 2.
+
+06:25.950 --> 06:28.680
+And these ones here are kind of equation 1.
+
+06:29.940 --> 06:33.590
+All right so we have to combine both of these in order to get to a final expression.
+
+06:34.620 --> 06:39.960
+So the way I'm gonna do that here is I'm going to eliminate V1 and V2 here and just have the charge.
+
+06:40.800 --> 06:50.520
+So how would you get rid of V1 V1 you can write it as Q divided by C 1 and that's using this top equation
+
+06:51.180 --> 06:58.600
+plus q divided by C 2 and that there has to be equal to V all right.
+
+06:58.600 --> 07:05.410
+Now you can see we only have one unknown in this equation right here so I could factor out the Q we
+
+07:05.430 --> 07:07.860
+do that it's going to look something like this.
+
+07:07.860 --> 07:09.510
+Let's give myself a bit of space here.
+
+07:09.510 --> 07:17.070
+I factor out the Q I'll open up kind of a big bracket and here I have one over C one plus one over C2
+
+07:18.640 --> 07:22.670
+and this here equals to V the voltage across the battery.
+
+07:22.720 --> 07:27.300
+All right the last thing all you have to do now is simply bring this curly bracket term on the other
+
+07:27.300 --> 07:27.820
+side.
+
+07:28.360 --> 07:34.140
+OK so the final expression that you get is that the charge q is equal to some number that looks like
+
+07:34.140 --> 07:39.640
+this one over see one plus one over C2.
+
+07:40.410 --> 07:45.840
+And this is to the negative one because I have to bring it to the denominator and multiplied by the
+
+07:45.840 --> 07:48.000
+voltage.
+
+07:48.210 --> 07:50.690
+You see this form of the equation here.
+
+07:50.790 --> 07:58.320
+It looks very very similar to this one that the charged Q is proportional to the voltage across the
+
+07:58.320 --> 08:06.140
+capacitor except the value over here this guy here is more complicated the more complicated because
+
+08:06.140 --> 08:08.660
+there is more than one.
+
+08:09.340 --> 08:17.150
+So actually it turns out that you're able to rewrite this circuit here and express it as a simple equivalence
+
+08:17.150 --> 08:23.220
+circuit and the equivalent circuit looks like this it's still the same battery again.
+
+08:23.390 --> 08:26.090
+And now we're going to have an equivalent capacitor
+
+08:28.740 --> 08:33.540
+in the equivalent capacitance is represented by this Terminator over here.
+
+08:33.540 --> 08:42.150
+So C equivalent is actually if there's two of them it's one over C one plus one over C two to the negative
+
+08:42.150 --> 08:43.100
+one.
+
+08:43.680 --> 08:49.680
+That is the equivalent capacitance and you see if I do that now I can rewrite the equation here as the
+
+08:49.680 --> 08:56.640
+charged q equals to my equivalent capacitance multiplied by the voltage V
+
+08:59.380 --> 09:02.470
+so if I have two capacitors in series with each other.
+
+09:02.470 --> 09:08.420
+This is what the equation looks like all right we should be able to calculate all our values.
+
+09:08.430 --> 09:10.340
+Now let's go ahead and do that.
+
+09:10.430 --> 09:15.820
+So again I'm just going to make myself a little bit of space over here and let's go ahead and do that
+
+09:16.070 --> 09:22.940
+so we can calculate what this equivalent capacitance is and then all I have to do is multiply that by
+
+09:22.940 --> 09:27.100
+the voltage in order to get the charge Q Okay.
+
+09:27.130 --> 09:29.220
+So let's do that over here so the charge q
+
+09:33.700 --> 09:34.890
+is going to be equal.
+
+09:34.900 --> 09:35.140
+I'll.
+
+09:35.160 --> 09:39.660
+What is my equivalent capacitance that down over here.
+
+09:39.670 --> 09:43.200
+So this is going to be one over 10 micro Farad.
+
+09:43.370 --> 09:48.320
+I'll just keep it in micro Feride plus one over 40 micro Feride.
+
+09:48.490 --> 09:51.430
+Again you could put the ten to the negative six terms if you want.
+
+09:51.430 --> 09:55.690
+At the end it's just going to give me a value of micro fare.
+
+09:56.560 --> 09:57.330
+And OK.
+
+09:57.340 --> 10:03.190
+So how would you calculate this you have to put this on a common denominator this would be for over
+
+10:03.190 --> 10:04.300
+40.
+
+10:04.600 --> 10:13.180
+So at the end this term here would be five over 40 and so see equivalent at the end should be.
+
+10:13.180 --> 10:18.720
+And I have to take the reciprocal of that should give me eight micro Farid.
+
+10:19.400 --> 10:27.680
+So what you end up getting here is eight micro Feride eight times 10 to the negative six and multiplied
+
+10:27.680 --> 10:37.180
+by the voltage multiplied by 10 so this simply becomes becomes 80 micro Coolum is the charge on each
+
+10:37.180 --> 10:37.600
+plate
+
+10:41.030 --> 10:42.360
+it's pretty straightforward.
+
+10:42.360 --> 10:48.720
+So I mean is a charge on each one of these plates is 80 microcosms positive 80 on the first plate negative
+
+10:48.750 --> 10:55.770
+80 on the second positive 80 over here negative Haiti micro cool homes on the last one.
+
+10:55.770 --> 10:55.980
+All right.
+
+10:55.980 --> 11:02.960
+How do you calculate the voltage now between each plate or their voltage across each plate I should
+
+11:02.960 --> 11:04.100
+say.
+
+11:04.400 --> 11:10.460
+Again all we have to do now is go back and examine both of those because we know the charge now on each
+
+11:10.460 --> 11:11.720
+plate.
+
+11:11.750 --> 11:17.920
+So really all we're doing now is just using our capacitor equation for each one individually.
+
+11:17.960 --> 11:21.340
+Let me do that at the top.
+
+11:21.610 --> 11:22.610
+This over a little bit.
+
+11:24.340 --> 11:24.650
+OK.
+
+11:24.680 --> 11:34.090
+So let's use the first equation define what is the voltage V1 V1 is equal to the charge q divided by
+
+11:34.180 --> 11:37.970
+C1 it's 80 micro columns
+
+11:43.160 --> 11:55.270
+80 times 10 to the negative 6 and divided by 10 times ten to the negative six gives me eight volts.
+
+11:55.920 --> 12:03.210
+So V1 over here should be equal to eight volts the voltage across the second one again I know that I
+
+12:03.210 --> 12:09.600
+have to have ten across here and if I've already gone down two volts when I cross over here it means
+
+12:09.600 --> 12:12.300
+there's only two volts left over here.
+
+12:12.660 --> 12:19.130
+This guy here better be equal to two volts you see that from equation to right.
+
+12:19.150 --> 12:21.480
+If this is eight and this is ten.
+
+12:21.490 --> 12:23.850
+This here has to be two volts.
+
+12:23.950 --> 12:25.650
+Well we could also use the equation right.
+
+12:25.690 --> 12:33.190
+The second equation right here if we apply it to that capacitor is v 2 equals the charge across the
+
+12:33.190 --> 12:37.590
+plate and the charge on the plates divided by the capacitance okay.
+
+12:37.590 --> 12:48.850
+Here we have 80 micro Feride micro cool on having trouble today and the capacitance C2 was 40 micro
+
+12:48.850 --> 12:56.370
+Feride at the end you could see this gives me 2 volts if I use this equation or if I use equation 2
+
+12:56.370 --> 12:58.990
+Over here I'm also gonna get two volts.
+
+12:58.990 --> 13:02.490
+OK so a couple of important things.
+
+13:02.510 --> 13:08.030
+Let's look at the equivalent capacitance if I have more than two let's get a general expression.
+
+13:08.520 --> 13:08.830
+Okay.
+
+13:08.850 --> 13:15.510
+And just highlight again the key things to capacitors in series.
+
+13:15.510 --> 13:24.960
+Notice that we get a bigger voltage drop across the one with the smallest capacitance you get the smaller
+
+13:24.960 --> 13:29.010
+voltage drop across the object with the largest capacitance.
+
+13:29.560 --> 13:33.390
+Okay so let's highlight some of those properties for capacitors in series.

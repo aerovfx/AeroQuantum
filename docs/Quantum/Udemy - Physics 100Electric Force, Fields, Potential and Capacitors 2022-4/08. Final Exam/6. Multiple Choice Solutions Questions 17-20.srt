@@ -1,0 +1,358 @@
+WEBVTT
+
+00:00.270 --> 00:05.970
+We have two three micro cooling charges they lie on the x axis ones at the origin the others at the
+
+00:05.970 --> 00:07.260
+2 meter mark.
+
+00:07.350 --> 00:12.420
+What is the potential due to these charges at a point six meters from the axis.
+
+00:12.420 --> 00:15.570
+Well I suggest we kind of draw something here going on.
+
+00:15.570 --> 00:20.760
+So let me draw the origin right here and we have another one that is two meters away.
+
+00:21.390 --> 00:25.320
+Let me draw those charges so too so they both have the same charge.
+
+00:25.320 --> 00:25.490
+Right.
+
+00:25.500 --> 00:27.840
+So one of them is here.
+
+00:27.840 --> 00:30.240
+That's three micro cooling.
+
+00:30.510 --> 00:34.080
+And the other one is here and it's also three micro Coolum.
+
+00:34.140 --> 00:36.990
+And now we want to go six meters away.
+
+00:37.290 --> 00:40.800
+So the point is really somewhere down over here.
+
+00:40.800 --> 00:41.070
+Right.
+
+00:41.250 --> 00:42.330
+So the point is here.
+
+00:42.330 --> 00:49.270
+So it's it's four meters away from this guy and it's going to be six meters away from this guy.
+
+00:49.990 --> 00:51.110
+OK.
+
+00:51.140 --> 00:54.390
+And what we're looking for here is what is the potential.
+
+00:54.430 --> 01:00.520
+So we have two point charges which you have to do is find the total potential.
+
+01:00.520 --> 01:07.410
+So it's going to be the potential due to let's call this Q one charge number one to call this one Q2
+
+01:07.420 --> 01:10.360
+again of the same magnitude but they're different distances.
+
+01:10.360 --> 01:14.140
+So it's the potential due to one plus the potential due to the other.
+
+01:14.140 --> 01:16.480
+Now we just use our equation for point charges.
+
+01:16.480 --> 01:27.850
+So it's K again Q And now divided by the distance for Q1 I'm going to call this R one plus K Q2 divided
+
+01:27.850 --> 01:28.750
+by R2.
+
+01:28.830 --> 01:32.470
+Let's go ahead and substitute everything in here first and foremost.
+
+01:32.470 --> 01:37.160
+This numerator is going to be the same for both because we have the same charge right.
+
+01:37.230 --> 01:38.750
+So really you could factor that out.
+
+01:38.770 --> 01:46.890
+You could write k q and now just have the distances here are one plus one over R2.
+
+01:46.940 --> 01:50.350
+All right now I'm in a better position to substitute the numbers.
+
+01:50.350 --> 01:54.930
+So the total potential now would be k is nine times 10 to the nine.
+
+01:56.170 --> 02:01.290
+Let's fix that the charges three micro times 10 to the negative six.
+
+02:01.290 --> 02:01.920
+OK.
+
+02:02.080 --> 02:03.460
+And then we have this term here.
+
+02:03.460 --> 02:09.440
+So it's one over six meters plus one over four meters.
+
+02:09.440 --> 02:09.690
+OK.
+
+02:09.700 --> 02:13.270
+I think if you put everything on the calculator be a little bit careful when you do that you should
+
+02:13.270 --> 02:17.180
+get eleven thousand volts.
+
+02:17.200 --> 02:22.420
+All right so choice a is the right answer again just using superposition if you have more than one point
+
+02:22.420 --> 02:28.960
+charge you add the potential due to each one the problem 18 in a region where the electric field is
+
+02:28.960 --> 02:37.420
+uniform and points in the positive x direction the electrical potential is negative two thousand volts
+
+02:37.420 --> 02:43.480
+at X equals the eight and plus 400 volts at X equals to two meters.
+
+02:43.480 --> 02:45.330
+What's the magnitude of the field.
+
+02:45.490 --> 02:47.810
+Again I would kind of like to draw this one.
+
+02:47.870 --> 02:59.080
+So let's just kind of make a line here at X equals to 2 and the voltage over here is 400 volts and then
+
+02:59.080 --> 03:03.130
+we have a line at X equals to eight meters.
+
+03:04.060 --> 03:11.890
+X equals the eight meters and the voltage over here is negative two thousand volts.
+
+03:12.570 --> 03:13.030
+Okay.
+
+03:13.150 --> 03:18.610
+So the electric field is uniform and points in the positive x direction where you would plot the electric
+
+03:18.610 --> 03:21.360
+field here would be something like this
+
+03:25.550 --> 03:29.750
+all right it's kind of like a parallel plate capacitor right where this plate is positive.
+
+03:29.750 --> 03:30.920
+This plate here is negative.
+
+03:30.950 --> 03:33.440
+Then we have an electric field like this.
+
+03:33.440 --> 03:41.090
+So what is just the magnitude of e again the equation that we have over here is that the change in voltage
+
+03:41.510 --> 03:49.610
+is equal to negative e multiplied by Delta X that the voltage varies linearly from one plate to the
+
+03:49.610 --> 03:59.100
+other see the voltage is getting smaller as I go in the positive x displacement here over six meters.
+
+03:59.330 --> 03:59.540
+All right.
+
+03:59.870 --> 04:07.100
+So again this is a final value minus an initial value equals to minus E..
+
+04:07.100 --> 04:10.050
+And again this is X final minus X initial.
+
+04:10.670 --> 04:17.110
+So imagine here this is my initial and this is my final.
+
+04:17.310 --> 04:19.150
+Again we're just worried about the magnitude here.
+
+04:19.160 --> 04:20.200
+But let's look at this side.
+
+04:20.200 --> 04:20.860
+What we get.
+
+04:23.090 --> 04:23.270
+All right.
+
+04:23.270 --> 04:31.670
+The final voltage here is negative two thousand minus the initial voltage which is 400 equals to negative
+
+04:31.700 --> 04:36.150
+e and the final position is eight and minus two.
+
+04:37.440 --> 04:37.700
+OK.
+
+04:37.730 --> 04:44.630
+So we get minus twenty four hundred is the difference in the voltage and you get minus E multiplied
+
+04:44.630 --> 04:46.670
+by six.
+
+04:46.810 --> 04:47.170
+OK.
+
+04:47.180 --> 04:52.680
+So we could do one last step that the voltage here can get rid of those negative signs.
+
+04:52.880 --> 04:58.100
+It's going to be equal to twenty four hundred divided by six.
+
+04:58.200 --> 04:58.450
+OK.
+
+04:58.480 --> 05:03.820
+So the final answer here at the end should be equal to 400 volts per meter.
+
+05:04.010 --> 05:08.370
+The fact that it's positive means that it's pointing in this direction over here.
+
+05:08.420 --> 05:13.100
+Again if we're just worried about the magnitude it could have done this a little bit quicker but just
+
+05:13.130 --> 05:14.980
+show you how to use that equation right there.
+
+05:14.980 --> 05:17.230
+So C is the correct answer for this one
+
+05:20.130 --> 05:28.800
+problem 19 now the equal potential surfaces of two point charges are shown find the value of the potential
+
+05:28.800 --> 05:32.770
+market on the line for each surface.
+
+05:33.040 --> 05:35.760
+Oh the values are listed over here for each surface.
+
+05:35.760 --> 05:39.150
+What is the potential difference V G minus VDI.
+
+05:40.020 --> 05:40.350
+All right.
+
+05:40.380 --> 05:42.060
+So let's go look where we are.
+
+05:42.090 --> 05:46.070
+So G is over here and D is right here.
+
+05:46.140 --> 05:49.650
+This is easy all you have to do is just simply substitute the values.
+
+05:49.650 --> 05:50.410
+Right.
+
+05:50.460 --> 05:56.470
+So V G minus V D is the potential on this equity potential.
+
+05:56.490 --> 06:00.350
+So I just read it could be anywhere on this point right here.
+
+06:00.570 --> 06:06.840
+This is negative 160 and minus well v DVD is zero.
+
+06:06.930 --> 06:12.270
+So I get negative 160 volts OK.
+
+06:12.450 --> 06:13.360
+Pretty straightforward.
+
+06:13.440 --> 06:15.810
+You just reading the values off the chart right there.
+
+06:15.840 --> 06:19.940
+So A's the correct answer.
+
+06:20.020 --> 06:20.290
+All right.
+
+06:20.320 --> 06:23.350
+So here is our final multiple choice problem.
+
+06:23.350 --> 06:28.600
+We have a potential difference between plates in an airfield parallel plate capacitor.
+
+06:28.810 --> 06:33.490
+The separation is six and the voltage difference is 60 volts.
+
+06:33.520 --> 06:37.860
+What's the strength of the magnitude of the electric field between those plates.
+
+06:37.870 --> 06:38.110
+All right.
+
+06:38.140 --> 06:39.400
+Well this is kind of straightforward.
+
+06:39.400 --> 06:42.250
+I think you just draw some parallel plates.
+
+06:42.250 --> 06:48.870
+Again we know the separation is six centimeters so just be careful and are right that in meters 0 6
+
+06:48.880 --> 06:54.190
+meters and the voltage here between those plates is 60 volts.
+
+06:54.220 --> 06:54.510
+All right.
+
+06:54.520 --> 06:55.630
+So that's it.
+
+06:55.630 --> 07:00.010
+All we have to do is find what is the electric field here between these plates.
+
+07:00.010 --> 07:06.540
+Again the electric field is the change of the potential with distance.
+
+07:06.590 --> 07:07.210
+OK.
+
+07:07.270 --> 07:11.060
+And we're going over a distance of zero point zero six.
+
+07:11.080 --> 07:14.610
+Again I don't have to worry about this negative side I'm not worried about the direction here.
+
+07:14.620 --> 07:16.390
+I just want to know the magnitude.
+
+07:16.420 --> 07:20.580
+So this here is 60 volts divided by zero point zero six.
+
+07:20.660 --> 07:22.270
+Well I can even do that math in my head.
+
+07:22.270 --> 07:24.720
+This is six over a hundred.
+
+07:24.750 --> 07:31.210
+Me bring one hundred over here left with one ten times 100 is a thousand.
+
+07:31.210 --> 07:33.160
+A thousand volts per meter.
+
+07:33.240 --> 07:33.460
+OK.
+
+07:33.460 --> 07:35.850
+That is the strength of the electric field.
+
+07:35.890 --> 07:39.550
+So for this one the correct answer is C hopefully you got that one.

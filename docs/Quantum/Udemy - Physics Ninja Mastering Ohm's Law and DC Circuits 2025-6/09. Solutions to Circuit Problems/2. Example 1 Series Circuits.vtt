@@ -1,0 +1,288 @@
+WEBVTT
+
+WEBVTT
+
+00:00.270 --> 00:04.830
+All right here's a problem one from a series package.
+
+00:04.830 --> 00:07.470
+We have two resistors here are connected in series.
+
+00:07.470 --> 00:09.200
+You see it as a four almost six ohm.
+
+00:09.300 --> 00:12.820
+They're connected in series to a 12 volt volt battery.
+
+00:13.140 --> 00:18.630
+And what they're asking for now a whole bunch of questions related to this problem is battery here is
+
+00:18.630 --> 00:22.330
+an ideal battery so there is no internal resistance.
+
+00:22.620 --> 00:27.570
+And the first thing I ask you is to find the equivalent resistance of the two resistors.
+
+00:27.570 --> 00:34.490
+Well again if both of these are in series over here that means that the equivalent resistor are equivalent
+
+00:34.850 --> 00:37.970
+is you simply add them up.
+
+00:38.080 --> 00:40.570
+They have the same current flowing through them.
+
+00:40.600 --> 00:45.000
+So let's just call this one let's call these are two.
+
+00:45.310 --> 00:49.760
+So at the end you simply have four plus six you should simply get 10 ohms.
+
+00:50.140 --> 00:51.400
+Pretty straightforward.
+
+00:51.790 --> 00:57.550
+Now once you have done this basically what we've done now is we've replaced both of those by a single
+
+00:57.550 --> 00:59.000
+10 ohm resistor.
+
+01:00.290 --> 01:05.510
+So we still have the same 12 volt battery except now we have our equivalent resistor which is equal
+
+01:05.510 --> 01:13.220
+to 10 ohms so applying ohms law to this very simple circuit is really straightforward and that allows
+
+01:13.220 --> 01:16.610
+you right away to find what the current in the circuit is.
+
+01:16.610 --> 01:22.940
+So if you apply Ohm's law of the circuit you have v equals the R I accept Rs are equivalent in this
+
+01:22.940 --> 01:28.580
+case and I is the current everywhere in this branch a single branch.
+
+01:28.850 --> 01:33.540
+So the current I now simply going to be equal to V divided by my are equivalent.
+
+01:35.370 --> 01:39.400
+V is 12 divided by 10.
+
+01:39.510 --> 01:44.990
+So you get 6 over 5 which is equal to 1.2 amps.
+
+01:45.690 --> 01:47.350
+So there is problem b.
+
+01:47.880 --> 01:48.090
+All right.
+
+01:48.090 --> 01:53.120
+Problem see now we're asking you what is the voltage now across each resistor.
+
+01:53.160 --> 01:54.550
+So Imagineer I have a point.
+
+01:54.570 --> 01:57.860
+A I have a point B and I have a point.
+
+01:57.860 --> 02:02.380
+See what they're asking for basically is what is V.A mine is VB.
+
+02:02.390 --> 02:07.500
+That will be the voltage across the four ohm resistor and then they're asking what is VB minus mine
+
+02:07.520 --> 02:08.140
+VC.
+
+02:08.150 --> 02:10.030
+That's the voltage difference.
+
+02:10.170 --> 02:13.100
+The potential difference across the six ohm resistor.
+
+02:13.620 --> 02:16.520
+So for the first one let's start at point A.
+
+02:16.710 --> 02:21.750
+So if you start at point A You're going to be at some potential let's call it vitÃ¦.
+
+02:22.020 --> 02:24.680
+And now I'm going to go all the way to point B.
+
+02:24.870 --> 02:27.790
+The first thing I'd do is I'm crossing a forum.
+
+02:27.810 --> 02:31.020
+They're in the same direction as the current.
+
+02:31.170 --> 02:36.690
+If you do that you get a voltage drop and the voltage drop is given by Ohm's law is given by the value
+
+02:36.690 --> 02:41.160
+of the resistance multiplied by the current flowing through it.
+
+02:41.400 --> 02:46.320
+And now you end up going all the way to point B so that there must be equal to the potential at point
+
+02:46.320 --> 02:47.280
+B.
+
+02:47.930 --> 02:49.650
+This is not like doing a complete loop.
+
+02:49.650 --> 02:54.420
+I'm not doing a complete loop I'm starting at point a terminating at point B.
+
+02:54.420 --> 02:57.590
+So in this case here we get V.A.
+
+02:57.600 --> 02:58.770
+Mine is VB.
+
+02:58.920 --> 03:04.010
+That's basically what I'm looking for that is the voltage difference across my form resists.
+
+03:04.020 --> 03:07.170
+There is simply four times the current.
+
+03:07.390 --> 03:10.580
+In this case it's four times 1.2.
+
+03:11.170 --> 03:16.480
+And that gives me a voltage difference of 4.8 volts.
+
+03:16.590 --> 03:16.900
+All right.
+
+03:16.900 --> 03:21.880
+How about the next one while we proceed using the same arguments you start now at point B so I'm at
+
+03:21.880 --> 03:23.960
+a potential VB.
+
+03:24.160 --> 03:26.220
+Now I'm going across a 6 ohm resistor.
+
+03:26.260 --> 03:29.020
+It's the same thing minus six multiplied.
+
+03:29.200 --> 03:35.530
+I said six and I wrote for a try that again six multiplied by the current.
+
+03:35.600 --> 03:42.400
+I then that there has to be equal to the voltage at Point C again and rearranging this expression over
+
+03:42.400 --> 03:42.620
+here.
+
+03:42.640 --> 03:50.620
+What you end up getting is the B minus VC is simply six times the current AI.
+
+03:51.130 --> 03:59.270
+So six times a 1.2 is the current at the end you should get 7.2 volts one thing we should notice also
+
+03:59.270 --> 04:08.210
+in addition is if you add both of those 4.8 plus 7.2 So you add them all you end up getting my 12 volts
+
+04:09.020 --> 04:14.120
+because it doesn't matter if I started over here a point and I went all the way to point see if I went
+
+04:14.120 --> 04:17.060
+across both resistors I should get 12 volts.
+
+04:17.060 --> 04:23.480
+If I go this way through the battery and go to point C I should also get 12 volts.
+
+04:23.630 --> 04:23.900
+All right.
+
+04:23.900 --> 04:25.570
+So that takes care of this one.
+
+04:25.980 --> 04:31.190
+I've got the other two taking care of what is now the power delivered to each resistor or in other words
+
+04:31.220 --> 04:35.060
+what is the power dissipated in each resistor.
+
+04:35.060 --> 04:38.630
+So in order to get the power dissipated let me just split the SEPA a little bit.
+
+04:39.910 --> 04:46.690
+OK so for Pardhi the power delivered to each resistor Well we've got the power delivered to the four
+
+04:46.690 --> 04:48.160
+ohm resistor.
+
+04:48.250 --> 04:53.720
+This is simply the value of the resistance multiplied by the current flowing through it squared.
+
+04:55.030 --> 05:00.560
+So in this case here the resistance is forums and the current is the same everywhere it's 1.2.
+
+05:00.560 --> 05:09.630
+And don't forget the square that so the power our final expression now the power delivered to the four
+
+05:09.640 --> 05:14.430
+ohm resistor ends up being five point seventy six watts.
+
+05:16.620 --> 05:21.350
+Same thing for the six same formula except we have a different value of the resistance.
+
+05:21.480 --> 05:28.050
+The power dissipated or the power delivered to the six ohm resistor there is six multiplied by the current
+
+05:28.050 --> 05:28.910
+flowing through it.
+
+05:28.920 --> 05:30.920
+That's one point too.
+
+05:30.930 --> 05:36.450
+Don't forget the square of that and the total power dissipated in this resistor here ends up being eight
+
+05:36.450 --> 05:39.800
+point six for Watts.
+
+05:39.950 --> 05:46.680
+Actually if you add those up you're going to get the total power that's dissipated the total power dissipated.
+
+05:46.700 --> 05:52.030
+So five point six plus 8.6 for you add both of those up.
+
+05:52.040 --> 05:54.650
+You get fourteen point four watts.
+
+05:55.190 --> 05:59.350
+That is the total power dissipated by both of those resistors.
+
+05:59.530 --> 06:03.730
+Actually you can check that if you look at it now the power being supplied by the battery
+
+06:06.520 --> 06:10.990
+that's simply given by the voltage of the battery multiplied by the current flowing through it.
+
+06:12.440 --> 06:13.550
+We get 12.
+
+06:13.650 --> 06:16.060
+The currents the same everywhere in this circuit.
+
+06:16.400 --> 06:18.240
+That's 1.2.
+
+06:18.260 --> 06:23.840
+You multiply those out you're going to get a little behold fourteen point four watts.
+
+06:24.080 --> 06:31.750
+So the power being delivered to the circuit by the battery is being dissipated in these resistors.
+
+06:31.770 --> 06:32.130
+All right.
+
+06:32.140 --> 06:35.520
+Hope you've got that one folks kind of a good warm up problem.
+
+06:35.560 --> 06:36.560
+See the next one.

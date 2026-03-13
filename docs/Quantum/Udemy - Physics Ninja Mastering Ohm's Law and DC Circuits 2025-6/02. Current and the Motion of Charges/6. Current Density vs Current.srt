@@ -1,0 +1,124 @@
+WEBVTT
+
+00:00.660 --> 00:00.960
+All right.
+
+00:00.960 --> 00:05.630
+So remember we had we had our electrons here that were in this copper wire.
+
+00:06.150 --> 00:11.850
+So I want to see a few things about another term that I think comes up here is current density.
+
+00:11.850 --> 00:13.960
+So again these were kind of drifting along.
+
+00:14.190 --> 00:19.490
+And that means if I have electrons flowing from the left to the right I have a positive current flowing
+
+00:19.530 --> 00:22.150
+in the opposite direction that was the convention.
+
+00:22.180 --> 00:26.130
+I often define a term called the current density.
+
+00:26.130 --> 00:28.760
+The letter used for current density is J.
+
+00:29.040 --> 00:31.820
+So it's called this the current density.
+
+00:33.610 --> 00:37.650
+And for the purposes of this class we are just going to consider kind of simple cases where we have
+
+00:37.650 --> 00:40.230
+a constant density Throughout the same.
+
+00:40.230 --> 00:46.630
+So there's the same number of charges kind of going from or crossing near the top of the wires the bottom.
+
+00:46.740 --> 00:47.160
+OK.
+
+00:47.310 --> 00:52.420
+And the definition of the current density if this density is constant is simply the total current
+
+00:56.900 --> 00:58.580
+divided by the total area.
+
+01:03.150 --> 01:05.340
+So that's the definition of the current density.
+
+01:05.400 --> 01:09.640
+So for this particular case again total current is usually just written as I.
+
+01:09.690 --> 01:14.250
+The total area here we're looking at the cross-sectional area that we're looking at the charges moving
+
+01:14.250 --> 01:14.940
+through.
+
+01:14.940 --> 01:16.910
+So in this case it was simply a.
+
+01:17.220 --> 01:23.700
+So for our case here the current density for this particular case you just bring on the other side what
+
+01:23.700 --> 01:33.570
+you're left with is this charge density the charge of each electron multiplied by the philosophy.
+
+01:33.630 --> 01:34.360
+Right.
+
+01:34.380 --> 01:39.390
+That is simply the current divided by the units now of current density.
+
+01:39.390 --> 01:46.320
+Pretty straightforward have to be measured in units of amps per the units of the area or meters squared
+
+01:46.320 --> 01:49.080
+if you want to work in Esai units.
+
+01:49.920 --> 01:55.140
+And conversely if somebody gives you the current density J and you want it to find what the total current
+
+01:55.140 --> 01:55.790
+is.
+
+01:56.010 --> 02:02.220
+Well again if you know a as you can find the total current simply by multiplying the current density
+
+02:02.220 --> 02:03.880
+multiplied by the area.
+
+02:04.270 --> 02:04.780
+OK.
+
+02:04.860 --> 02:09.150
+Now I think we get a little bit more complicated if the current density is not constant.
+
+02:09.150 --> 02:15.270
+This is true if it's constant and the area is kind of perpendicular to the flow of the current density
+
+02:16.020 --> 02:18.540
+it could get more complicated more advanced books.
+
+02:18.720 --> 02:23.340
+Sometimes you might see that the current density you'd have to if the current density wasn't constant
+
+02:23.340 --> 02:25.730
+you'd actually have to integrate over something like this.
+
+02:25.740 --> 02:27.950
+But this is more advanced topic.
+
+02:27.960 --> 02:28.520
+OK.
+
+02:28.680 --> 02:33.660
+We basically just consider cases where there's the same number of same current density everywhere throughout
+
+02:33.660 --> 02:40.840
+this cross-section here and also the cross-sections always kind of perpendicular to our current density.
+
+02:41.040 --> 02:44.320
+OK so let's keep things simple and just takes a very simple definition.

@@ -1,0 +1,283 @@
+1
+00:00:00,060 --> 00:00:03,780
+Before going into any sort of practice problems, I do want to cover this right now.
+
+2
+00:00:03,810 --> 00:00:05,290
+Don't skip over this video.
+
+3
+00:00:05,340 --> 00:00:07,770
+Watch his explanation if need be.
+
+4
+00:00:07,800 --> 00:00:08,760
+Watch it twice.
+
+5
+00:00:09,090 --> 00:00:14,450
+OK, so see if we have a scenario where Iraq is being dropped off of a 85 metre high cliff.
+
+6
+00:00:14,490 --> 00:00:18,580
+I'm going to call this perspective one and perspective two of this happening.
+
+7
+00:00:18,600 --> 00:00:19,560
+So let's say this.
+
+8
+00:00:19,560 --> 00:00:23,910
+Let's say that your buddy over here, he's on a cliff and he's saying to you, hey, check me out,
+
+9
+00:00:23,910 --> 00:00:25,920
+I'm up on a cliff, I'm going to drop this rock.
+
+10
+00:00:25,920 --> 00:00:28,560
+And you're all the way down here and you're observing this.
+
+11
+00:00:28,560 --> 00:00:30,890
+You're saying, hey, look, that's a really high cliff right there.
+
+12
+00:00:31,920 --> 00:00:36,090
+So what would you say is the initial height of the object?
+
+13
+00:00:37,220 --> 00:00:44,060
+OK, it's 85 meters high and all the way down here when it hits the ground, what would you say is the
+
+14
+00:00:44,060 --> 00:00:45,860
+final height of the object?
+
+15
+00:00:46,010 --> 00:00:50,300
+Well, if it's hitting the ground where it makes sense that it's zero meters high.
+
+16
+00:00:51,000 --> 00:00:53,240
+OK, so that's perspective number one.
+
+17
+00:00:53,660 --> 00:00:55,210
+What about perspective number two?
+
+18
+00:00:55,940 --> 00:00:59,010
+How could I change this right now?
+
+19
+00:00:59,630 --> 00:01:04,760
+Well, say, if your buddy over here, he's saying, hey, check me out, I'm about to drop this rock
+
+20
+00:01:04,760 --> 00:01:08,150
+off of a cliff and instead you're now.
+
+21
+00:01:10,860 --> 00:01:14,530
+On a little red boat sand yourself.
+
+22
+00:01:14,550 --> 00:01:15,720
+Oh, that's pretty cool.
+
+23
+00:01:15,750 --> 00:01:16,600
+Well, check me out.
+
+24
+00:01:16,620 --> 00:01:21,090
+I'm on a boat and your buddies like, hey, check me out once again.
+
+25
+00:01:21,100 --> 00:01:22,860
+I'm going to drop this rock off this cliff.
+
+26
+00:01:23,730 --> 00:01:25,800
+And what we could call even a whole.
+
+27
+00:01:27,320 --> 00:01:36,080
+So what would you say is the initial height of the object now keeping in mind that this is ground level?
+
+28
+00:01:37,770 --> 00:01:38,370
+OK.
+
+29
+00:01:39,830 --> 00:01:41,570
+This is now zero meters high.
+
+30
+00:01:42,580 --> 00:01:49,150
+And what would you say the final height of the object is as it hits the bottom of this hole or the bottom
+
+31
+00:01:49,150 --> 00:01:50,080
+of this cliff?
+
+32
+00:01:51,730 --> 00:01:54,840
+Negative 85 meters.
+
+33
+00:01:55,330 --> 00:02:00,520
+OK, so I'm just going to take this away.
+
+34
+00:02:02,250 --> 00:02:07,750
+Now, what is the benefit of this in a lot of cases when you're given the initial hype?
+
+35
+00:02:07,900 --> 00:02:12,310
+I would actually just prefer to look at it in this perspective rather than this perspective over here.
+
+36
+00:02:12,360 --> 00:02:12,780
+Same here.
+
+37
+00:02:12,780 --> 00:02:17,430
+Actually dropping an object out of a window or you are on top of a building.
+
+38
+00:02:17,430 --> 00:02:22,680
+You know, the height of the the window that you're dropping the object out of or the height of the
+
+39
+00:02:22,680 --> 00:02:24,590
+building that you're dropping something off of.
+
+40
+00:02:24,600 --> 00:02:29,700
+And when you're given that, I would actually just look at perspective one over here, I suppose, perspective,
+
+41
+00:02:29,700 --> 00:02:34,740
+too, because I don't like the idea that you might forget this negative sign here.
+
+42
+00:02:34,860 --> 00:02:36,750
+And I'll actually put you into a lot of trouble.
+
+43
+00:02:36,750 --> 00:02:37,620
+I don't like that.
+
+44
+00:02:39,300 --> 00:02:43,320
+OK, well, how about this, say, if we weren't given.
+
+45
+00:02:44,960 --> 00:02:46,120
+The initial high.
+
+46
+00:02:47,380 --> 00:02:50,320
+And this is what we're trying to find.
+
+47
+00:02:52,130 --> 00:02:56,960
+OK, well, that's fine for this situation because we actually do have the idea that it's going to be
+
+48
+00:02:56,960 --> 00:03:02,930
+hitting the ground and we actually do have a given piece of information that it's zero meters but say
+
+49
+00:03:02,930 --> 00:03:08,360
+if safe over here and want once again, let's say this.
+
+50
+00:03:08,720 --> 00:03:11,120
+Let's say that the object.
+
+51
+00:03:12,370 --> 00:03:12,970
+Is up here.
+
+52
+00:03:14,650 --> 00:03:17,500
+And we're trying to find the final right now.
+
+53
+00:03:19,230 --> 00:03:24,150
+Well, we don't have the initial height, we don't have the initial height and we don't have the final
+
+54
+00:03:24,150 --> 00:03:26,040
+height, so this is no good.
+
+55
+00:03:26,550 --> 00:03:33,540
+Whereas if we do look at it like this in this perspective and we're trying to find out the final height,
+
+56
+00:03:33,690 --> 00:03:40,410
+maybe after it drops for a certain amount of seconds, at least when we're looking at it like this,
+
+57
+00:03:40,460 --> 00:03:47,640
+where we don't have the height, we at least have a given piece of information that the initial height
+
+58
+00:03:47,640 --> 00:03:48,690
+will be zero.
+
+59
+00:03:49,750 --> 00:03:55,060
+In this situation, hey, what if you're actually saying, hey, this building is a certain not a meters
+
+60
+00:03:55,060 --> 00:03:57,940
+off the ground, I don't know what that number is.
+
+61
+00:03:58,210 --> 00:04:02,890
+Well, so this is a known piece of information and this is an unknown piece of information.
+
+62
+00:04:02,890 --> 00:04:07,180
+And if we actually aren't given a another piece of information on the problem, we won't be able to
+
+63
+00:04:07,180 --> 00:04:07,620
+solve it.
+
+64
+00:04:07,720 --> 00:04:13,450
+But with this perspective in mind, if you're not given height, you can at least say that the initial
+
+65
+00:04:13,450 --> 00:04:19,120
+height of the object is zero and it's going to drop down a certain amount in a lot of situations.
+
+66
+00:04:19,120 --> 00:04:25,030
+You will calculate this out and you will get a negative height for how much it actually does drop.
+
+67
+00:04:25,180 --> 00:04:29,620
+So those are the two different perspectives whenever you're actually given a certain height.
+
+68
+00:04:32,040 --> 00:04:40,270
+I would actually just say, hey, I want this initial height is 85 meters if you're not giving in height.
+
+69
+00:04:40,320 --> 00:04:45,370
+I would actually just say that zero meters and it's just going to drop down a certain amount.
+
+70
+00:04:45,480 --> 00:04:48,710
+So given a certain height, say it's that's the initial height.
+
+71
+00:04:48,750 --> 00:04:52,220
+If you're not having an initial height, say that the initial height is zero.

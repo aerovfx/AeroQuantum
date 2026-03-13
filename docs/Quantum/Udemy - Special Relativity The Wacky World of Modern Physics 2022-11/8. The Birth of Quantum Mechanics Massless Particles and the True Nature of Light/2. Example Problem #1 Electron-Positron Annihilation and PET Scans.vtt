@@ -1,0 +1,641 @@
+WEBVTT
+
+1
+00:00:18.310 --> 00:00:24.520
+All right, now that we know that at least in a relativistic setting, massless particles can indeed
+
+2
+00:00:24.520 --> 00:00:29.950
+exist and that they are most likely some kind of light or radiation or something of that matter.
+
+3
+00:00:30.250 --> 00:00:34.270
+What I want to do is run through a quick example, assuming that we know what it is.
+
+4
+00:00:34.480 --> 00:00:40.150
+So I can show you how this can be used in calculations and how can be used in different applications,
+
+5
+00:00:40.390 --> 00:00:48.550
+because this forms a very core core basis for some different technologies we use in this day and age
+
+6
+00:00:48.550 --> 00:00:53.140
+in modern medicine and other technologies.
+
+7
+00:00:53.890 --> 00:00:57.820
+But in essence, I want to give you some background before we actually charge ahead and try to figure
+
+8
+00:00:57.820 --> 00:01:00.700
+out what in the world this massive particle could be.
+
+9
+00:01:00.970 --> 00:01:03.820
+So the example we're going to run through is the following.
+
+10
+00:01:03.820 --> 00:01:10.330
+As I talked about previously and a lot of different lectures and example problems, we can have particles
+
+11
+00:01:10.330 --> 00:01:16.120
+that annihilate and release the rest energy completely, but we have not actually observed that happen.
+
+12
+00:01:16.410 --> 00:01:17.980
+We're going to do that in this example.
+
+13
+00:01:17.990 --> 00:01:22.840
+So the problem these that consider the annihilation of an electron with a positron.
+
+14
+00:01:22.840 --> 00:01:28.450
+If you have not heard of a positron before, that's basically an electron has the same kind of mass
+
+15
+00:01:28.450 --> 00:01:32.630
+as an electron, but it has a positive charge as opposed to a negative charge.
+
+16
+00:01:32.650 --> 00:01:37.450
+So you can imagine positive charge because the negative charge they annihilate, you have no charge
+
+17
+00:01:37.450 --> 00:01:37.840
+left.
+
+18
+00:01:38.380 --> 00:01:41.080
+And in this case, they both transform.
+
+19
+00:01:41.080 --> 00:01:47.440
+They get transmuted into a form of radiation or a form of light, if you will.
+
+20
+00:01:47.890 --> 00:01:49.870
+OK, so they're both at rest.
+
+21
+00:01:50.110 --> 00:01:51.100
+They're going to annihilate.
+
+22
+00:01:51.100 --> 00:01:52.450
+They create that radiation.
+
+23
+00:01:52.720 --> 00:01:58.620
+We want to do is you want to answer the following question What is the energy of the resulting radiation?
+
+24
+00:01:58.630 --> 00:02:02.140
+OK, sounds like a very, very simple question, right?
+
+25
+00:02:02.140 --> 00:02:08.050
+But if you didn't know what we derive previously that the energy of that radiation or that light would
+
+26
+00:02:08.050 --> 00:02:13.210
+be the momentum p times the speed of light, see, you want to know how to proceed.
+
+27
+00:02:13.510 --> 00:02:17.960
+So what's going to happen is we're going to have something that looks like the following we're having
+
+28
+00:02:17.960 --> 00:02:22.750
+an electron negative in green positron e positive in red.
+
+29
+00:02:22.930 --> 00:02:23.880
+And what happens?
+
+30
+00:02:23.890 --> 00:02:25.150
+They're going to get attracted to each other.
+
+31
+00:02:25.390 --> 00:02:26.350
+They're going to annihilate.
+
+32
+00:02:26.860 --> 00:02:32.800
+And what we find is that the light which I'm going to will the step of light.
+
+33
+00:02:32.800 --> 00:02:36.580
+For now, I don't want to divulge the true essence of what we're going to find in the next few videos,
+
+34
+00:02:36.580 --> 00:02:41.050
+but the light or any light or radiation emitting on the left and the right.
+
+35
+00:02:41.920 --> 00:02:45.440
+And we know that if it's light, it must have this new quantity.
+
+36
+00:02:45.460 --> 00:02:47.470
+We and therefore we don't fully understand yet.
+
+37
+00:02:47.950 --> 00:02:50.920
+The energy must be p times c.
+
+38
+00:02:51.160 --> 00:02:56.560
+So we have a radiation wave going on on the right radiation wave, going out on the left, and I prove
+
+39
+00:02:56.560 --> 00:03:02.590
+how this energy p c and that's respective to the momentum of each wave.
+
+40
+00:03:02.930 --> 00:03:06.090
+So the one on the left, we're going to label with a one.
+
+41
+00:03:06.490 --> 00:03:11.110
+That's why it has p one time C and the one on the right is going to be labeled with two.
+
+42
+00:03:11.290 --> 00:03:17.140
+Now what we do know is that initially, if these guys are at rest, they only have what kind of energy,
+
+43
+00:03:17.590 --> 00:03:18.670
+rest energy, right?
+
+44
+00:03:18.670 --> 00:03:21.010
+So we have to run the energies.
+
+45
+00:03:21.460 --> 00:03:25.630
+They both have the mass of an electron that's two times MFC squared, OK?
+
+46
+00:03:25.960 --> 00:03:31.360
+What we want to do on this problem and what you do in every problem and special relativity, you look
+
+47
+00:03:31.360 --> 00:03:36.950
+at the energy and you look at the momentum and you pull out, you extract the information that you need
+
+48
+00:03:36.950 --> 00:03:40.840
+is the first thing we're going to consider is the momentum that's going on here.
+
+49
+00:03:41.080 --> 00:03:44.140
+So in order to do that, we use obviously conservation.
+
+50
+00:03:44.140 --> 00:03:44.920
+Well, that's him, right?
+
+51
+00:03:45.340 --> 00:03:51.310
+So we know that the initial medicine. let's equal the final momentum and we can just plug in our quantities
+
+52
+00:03:51.310 --> 00:03:52.420
+and chug along, right?
+
+53
+00:03:52.600 --> 00:03:56.080
+So initially, these guys are at rest, they have no velocity.
+
+54
+00:03:56.290 --> 00:03:58.870
+That would mean they have no momentum, right?
+
+55
+00:03:58.870 --> 00:04:03.070
+So initially pinot on the left side, that is equal to zero right here.
+
+56
+00:04:03.460 --> 00:04:09.940
+And on the right side, we know we get momentum from the left radiation and momentum from the right
+
+57
+00:04:09.940 --> 00:04:11.620
+ready P1 and P2.
+
+58
+00:04:12.040 --> 00:04:18.070
+So if you add them together, what's interesting from conservation of momentum is that when this annihilation
+
+59
+00:04:18.070 --> 00:04:27.130
+takes place, we know that the momentum of these cores or these radiation waves must be equal and opposite.
+
+60
+00:04:27.130 --> 00:04:34.390
+The radiation has equal and opposite momentum, so P1 must equal the negative a pizza and vice versa.
+
+61
+00:04:34.690 --> 00:04:40.960
+So when we know this, this kid, I wrote some interesting facts that we can utilize when we consider
+
+62
+00:04:40.960 --> 00:04:43.090
+conservation of energy, which we're going to do next.
+
+63
+00:04:43.130 --> 00:04:49.450
+OK, so when we do that, we know that the initial energy at state one must equal the final energy right.
+
+64
+00:04:49.450 --> 00:04:52.180
+We cannot create, not destroy energy, right?
+
+65
+00:04:53.050 --> 00:04:54.250
+So initially, we know that.
+
+66
+00:04:55.520 --> 00:04:59.780
+These guys are oppressed so completely that rest energy is completely.
+
+67
+00:05:00.020 --> 00:05:03.980
+You hear it initially, so that's just two times the mass of the electron.
+
+68
+00:05:03.980 --> 00:05:06.590
+These both have that asked for an electron positron.
+
+69
+00:05:07.190 --> 00:05:08.120
+Times Square.
+
+70
+00:05:08.390 --> 00:05:09.800
+This is our energy on the left.
+
+71
+00:05:10.010 --> 00:05:10.790
+One on the right.
+
+72
+00:05:12.530 --> 00:05:18.080
+The rest of energy has transformed into this radiation energy, so it must be equal to E1 and E2.
+
+73
+00:05:18.530 --> 00:05:24.140
+Now if we didn't have the previous lecture of the energy of a mass loss particle of light, if you will?
+
+74
+00:05:24.480 --> 00:05:26.240
+Well, you wouldn't really know what to do.
+
+75
+00:05:27.310 --> 00:05:31.720
+Heading for it, but what we do know is that the magnitude of the momentum.
+
+76
+00:05:32.720 --> 00:05:36.650
+Are equal and maybe in opposite directions, but the magnitude is equal.
+
+77
+00:05:36.890 --> 00:05:42.020
+So therefore, what we can say is that all this energy is P1 times PC.
+
+78
+00:05:42.350 --> 00:05:43.490
+And this is P2 time.
+
+79
+00:05:43.500 --> 00:05:46.850
+See at the moment to have the same name that's used.
+
+80
+00:05:47.210 --> 00:05:52.460
+That means that each one is equal to E2, and we're going to assert that both of these guys are just
+
+81
+00:05:52.850 --> 00:05:55.190
+an energy, the energy of the radiation.
+
+82
+00:05:55.490 --> 00:05:55.850
+OK.
+
+83
+00:05:57.490 --> 00:06:04.600
+So what we do is we could just simplify this, that a same variable and we get to eat here and we can
+
+84
+00:06:04.600 --> 00:06:07.870
+just do what they cancel out those twos.
+
+85
+00:06:08.500 --> 00:06:15.580
+And we find that the energy of the radiation, each radiation wave is equal to the rest energy of its
+
+86
+00:06:15.580 --> 00:06:16.870
+respective particle.
+
+87
+00:06:17.800 --> 00:06:18.940
+Think about that, right?
+
+88
+00:06:19.360 --> 00:06:25.510
+We've calculated the energy of electrons before, that's 0.5 one, one mega electron volts.
+
+89
+00:06:26.080 --> 00:06:28.650
+But this is stating something pretty interesting, right?
+
+90
+00:06:28.670 --> 00:06:37.230
+So we talked previously about mass energy equivalence and how mass is sort of a manifestation of energy.
+
+91
+00:06:37.240 --> 00:06:38.500
+It's a different form of it.
+
+92
+00:06:39.190 --> 00:06:45.460
+Well, this is telling us that remarkably, the first time, for example, in this course, that all
+
+93
+00:06:45.460 --> 00:06:50.350
+the rest of energy can be utilized and converted into radiation or light.
+
+94
+00:06:50.350 --> 00:06:51.990
+And that's exactly what it's doing, right?
+
+95
+00:06:52.000 --> 00:06:58.630
+So all that energy or all that mass, which stores energy can be unleashed fully?
+
+96
+00:06:59.380 --> 00:06:59.740
+Right?
+
+97
+00:06:59.980 --> 00:07:06.490
+We can only to fully we get all this energy out and radiation is fully converted into a form of light
+
+98
+00:07:06.490 --> 00:07:08.530
+or form of radiation wave.
+
+99
+00:07:08.920 --> 00:07:10.540
+OK, so that's pretty remarkable.
+
+100
+00:07:11.660 --> 00:07:12.530
+Nowadays.
+
+101
+00:07:14.400 --> 00:07:20.010
+This exact phenomenon is routinely observed in particle physics laboratories where you can do experiments.
+
+102
+00:07:20.930 --> 00:07:23.930
+And you see a positron whenever you create one.
+
+103
+00:07:24.320 --> 00:07:28.430
+It pairs up with election annihilates and you can measure exactly this quantity.
+
+104
+00:07:28.430 --> 00:07:35.330
+So we have experimentally, experimentally verified this idea that you can take the mass of this particle
+
+105
+00:07:35.330 --> 00:07:39.650
+and convert it completely into a different form, which is pretty cool, right?
+
+106
+00:07:39.950 --> 00:07:46.400
+Furthermore, we've also seen this occur naturally in the atmosphere of the Earth of a planet, right?
+
+107
+00:07:47.240 --> 00:07:49.370
+We know of cosmic ray radiation.
+
+108
+00:07:50.060 --> 00:07:53.210
+Positrons can annihilate electrons in our atmosphere.
+
+109
+00:07:53.570 --> 00:07:58.460
+And this was discovered by Karl Anderson, which gives more weight to the existence of this idea.
+
+110
+00:07:58.850 --> 00:08:05.390
+And to follow up with this, another thing which we've observed this phenomenon is our own galaxy because
+
+111
+00:08:06.410 --> 00:08:09.740
+we've measured light waves.
+
+112
+00:08:10.700 --> 00:08:13.760
+That actually had the same exact energy.
+
+113
+00:08:14.960 --> 00:08:15.920
+Multiple times.
+
+114
+00:08:16.190 --> 00:08:22.880
+And what that suggests that somewhere in the center of our galaxy, we have positrons that are being
+
+115
+00:08:22.880 --> 00:08:29.300
+created and then annihilate it quickly with electrons that send out these photons somewhere in our galaxy.
+
+116
+00:08:29.480 --> 00:08:30.890
+This is happening, which is pretty cool.
+
+117
+00:08:30.900 --> 00:08:31.430
+Why?
+
+118
+00:08:32.360 --> 00:08:35.250
+Personally, I'm not sure why, but I know that does exist now.
+
+119
+00:08:35.720 --> 00:08:40.550
+What I think is the coolest use of this phenomenon is in the medical field, in the medical field.
+
+120
+00:08:40.910 --> 00:08:43.130
+We use something called a pet scan.
+
+121
+00:08:43.160 --> 00:08:44.480
+Have you ever heard of that before?
+
+122
+00:08:44.930 --> 00:08:46.790
+Do you know what the acronym actually stands for?
+
+123
+00:08:46.790 --> 00:08:51.110
+What it stands for is positron emission tomography.
+
+124
+00:08:51.350 --> 00:08:51.710
+OK.
+
+125
+00:08:52.130 --> 00:08:54.470
+So as the name implies.
+
+126
+00:08:55.750 --> 00:09:00.520
+We're emitting positrons, and you may be thinking, well, if there's a pilot trying to make quickly
+
+127
+00:09:00.520 --> 00:09:04.360
+annihilate with an electron that may send off some kind of light.
+
+128
+00:09:04.390 --> 00:09:08.140
+Well, what would happen if we had a detector that measured that light?
+
+129
+00:09:08.680 --> 00:09:13.930
+What we do is we get positron emitting chemicals and compounds.
+
+130
+00:09:14.290 --> 00:09:15.910
+We inject that into a patient.
+
+131
+00:09:16.540 --> 00:09:22.210
+And that chemical is going to get concentrated in different areas in a patient's body.
+
+132
+00:09:23.020 --> 00:09:28.900
+So in doing so, that can allow us to gather information about different areas of interest.
+
+133
+00:09:28.930 --> 00:09:29.170
+Right.
+
+134
+00:09:29.350 --> 00:09:32.650
+Let's say we want to monitor where glucose is being used.
+
+135
+00:09:33.010 --> 00:09:37.990
+You inject the chemical and the glucose is used pretty predominantly within the brain.
+
+136
+00:09:38.020 --> 00:09:38.320
+Right?
+
+137
+00:09:38.620 --> 00:09:40.480
+That's its main source.
+
+138
+00:09:40.480 --> 00:09:45.460
+I believe it's at least one of its fuels for you to think.
+
+139
+00:09:45.730 --> 00:09:47.950
+So this would concentrate in the brain.
+
+140
+00:09:49.180 --> 00:09:51.340
+Positrons would be emitted from that chemical.
+
+141
+00:09:52.620 --> 00:09:56.550
+And then it would annihilate quickly with the election, we have a lot of electrons in our body, right?
+
+142
+00:09:57.000 --> 00:10:00.720
+And then you would get some kind of radiation that you can observe.
+
+143
+00:10:00.750 --> 00:10:04.740
+So you could look on a scan and wear this light is pretty predominant.
+
+144
+00:10:05.430 --> 00:10:08.730
+That can tell you that different phenomena is occurring in the body.
+
+145
+00:10:09.120 --> 00:10:15.420
+We use this to take a look at, Oh, whether it does, this chemical can concentrated in an area with
+
+146
+00:10:15.420 --> 00:10:18.240
+cancer that can help us scan for cancer.
+
+147
+00:10:18.240 --> 00:10:22.620
+So this is a cool utilization of this concept of this idea.
+
+148
+00:10:23.130 --> 00:10:31.380
+And ever since we theorized about mass particles and verified it, which we'll talk about in the next
+
+149
+00:10:31.770 --> 00:10:35.850
+video, we've come up with pretty cool technology, pretty cool uses for it.
+
+150
+00:10:37.350 --> 00:10:39.240
+And yeah, this is a really cool idea.
+
+151
+00:10:39.240 --> 00:10:41.400
+So I hope you enjoyed that example.
+
+152
+00:10:41.580 --> 00:10:47.700
+I hope you enjoyed learning that, yes, a massive particle can exist and that it most likely is some
+
+153
+00:10:47.700 --> 00:10:48.630
+form of light.
+
+154
+00:10:49.290 --> 00:10:53.700
+What we're going to do in the next video is we're going to explore that idea and explore what scientists
+
+155
+00:10:53.700 --> 00:10:57.900
+actually had to delve into, what questions they ask, what experiments they conducted.
+
+156
+00:10:58.440 --> 00:11:03.210
+And we're going to figure out that this is going to elucidate some really, really cool, interesting
+
+157
+00:11:03.210 --> 00:11:08.310
+facts and we a big ripple effect within the theoretical body of physics.
+
+158
+00:11:09.790 --> 00:11:11.810
+And then we're going to wrap up the course.
+
+159
+00:11:11.830 --> 00:11:12.190
+All right.
+
+160
+00:11:12.520 --> 00:11:13.240
+Stay tuned.

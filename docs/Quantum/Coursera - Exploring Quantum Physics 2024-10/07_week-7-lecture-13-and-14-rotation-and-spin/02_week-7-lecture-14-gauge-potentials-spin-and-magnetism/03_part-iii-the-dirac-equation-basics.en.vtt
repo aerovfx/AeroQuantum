@@ -1,0 +1,497 @@
+WEBVTT
+
+1
+00:00:00.980 --> 00:00:01.630
+Hello everyone.
+
+2
+00:00:01.630 --> 00:00:03.910
+Welcome back to Exploring Quantum Physics.
+
+3
+00:00:03.910 --> 00:00:05.700
+I'm Charles Clark, and
+
+4
+00:00:05.700 --> 00:00:09.210
+in this part we're going to begin
+a study of the Dirac Equation,
+
+5
+00:00:09.210 --> 00:00:14.030
+which is the foundational equation of
+relativistic quantum mechanics for
+
+6
+00:00:14.030 --> 00:00:16.980
+description of the electron and
+other spin one-half particles.
+
+7
+00:00:19.840 --> 00:00:27.060
+So now we're going to begin,
+Introduction to the Dirac equation.
+
+8
+00:00:27.060 --> 00:00:31.610
+It's an amazing equation with
+unbelievable consequences, and
+
+9
+00:00:31.610 --> 00:00:35.510
+it's really sort of the first
+step down the road towards
+
+10
+00:00:35.510 --> 00:00:40.640
+relativistic quantum mechanics which
+is a deep subject in its own right.
+
+11
+00:00:40.640 --> 00:00:44.470
+And it is rather advanced for
+a survey course of this type.
+
+12
+00:00:44.470 --> 00:00:50.500
+And so, our treatment is going to be
+specific but not very comprehensive.
+
+13
+00:00:50.500 --> 00:00:54.790
+We're going to look at the original
+work of Dirac, who early on,
+
+14
+00:00:54.790 --> 00:00:59.782
+just a few years after the Schrodinger
+equation was discovered decided that
+
+15
+00:00:59.782 --> 00:01:03.994
+he would investigate the extension
+of quantum mechanical ideas
+
+16
+00:01:03.994 --> 00:01:07.673
+to make them consistent with
+the theory of relativity.
+
+17
+00:01:07.673 --> 00:01:11.716
+The Schrodinger equation you see is
+a non-relativistic equation based on
+
+18
+00:01:11.716 --> 00:01:15.899
+a non-relativistic description of
+mechanics due to classical mechanics.
+
+19
+00:01:15.899 --> 00:01:21.471
+So Dirac undertook to understand
+the nature of the wave equation for
+
+20
+00:01:21.471 --> 00:01:24.610
+the electron in a relativistic form.
+
+21
+00:01:26.773 --> 00:01:29.933
+So we're going to discuss
+just the equation for
+
+22
+00:01:29.933 --> 00:01:34.100
+a free particle in one dimension
+to keep things simple.
+
+23
+00:01:34.100 --> 00:01:39.270
+So here's the Schrodinger equation for
+free particle in one dimension.
+
+24
+00:01:39.270 --> 00:01:44.513
+And it's easy to find
+the solutions I mean,
+
+25
+00:01:44.513 --> 00:01:51.750
+basically the solutions are e to
+the i p dot r divided by h bar.
+
+26
+00:01:53.110 --> 00:01:57.070
+And then an e to the minus i omega t.
+
+27
+00:01:57.070 --> 00:01:58.440
+With e is equal to h bar omega.
+
+28
+00:02:00.080 --> 00:02:05.270
+So, Dirac saw to find
+a relativistic version
+
+29
+00:02:05.270 --> 00:02:11.040
+of this equation, which would have
+the following very important feature.
+
+30
+00:02:11.040 --> 00:02:16.300
+It would be homogeneous in time and
+spatial variables.
+
+31
+00:02:16.300 --> 00:02:20.430
+You see the non relativistic
+equation is first order in time and
+
+32
+00:02:20.430 --> 00:02:25.650
+second order in spatial derivative and
+because of the Lorentz transformation,
+
+33
+00:02:25.650 --> 00:02:31.120
+a fully invariant equation would
+have to be linear in space and time.
+
+34
+00:02:32.540 --> 00:02:36.770
+And also there's a reason why you
+want there to be an evolution
+
+35
+00:02:36.770 --> 00:02:42.010
+equation of this form, that is, you want
+to preserve the idea of a wave function.
+
+36
+00:02:42.010 --> 00:02:46.210
+And you want to understand how
+a wave function evolves in time.
+
+37
+00:02:47.900 --> 00:02:52.970
+So the only ingredients at your
+disposal are the momentum,
+
+38
+00:02:52.970 --> 00:03:01.190
+which of course is the p is
+equal to h bar over i d dx.
+
+39
+00:03:01.190 --> 00:03:03.620
+So that has the right
+relativistic invariance.
+
+40
+00:03:04.810 --> 00:03:07.900
+And then there's a requirement,
+
+41
+00:03:07.900 --> 00:03:12.410
+this is the relativistic dispersion
+relation, which describes
+
+42
+00:03:12.410 --> 00:03:18.060
+the relationship between the energy, and
+the momentum and the mass of a particle.
+
+43
+00:03:18.060 --> 00:03:20.790
+So you want your equation of motion
+
+44
+00:03:20.790 --> 00:03:25.370
+to satisfy this relativistic
+dispersion relation.
+
+45
+00:03:25.370 --> 00:03:28.650
+So, possibly there should
+be another term here,
+
+46
+00:03:28.650 --> 00:03:33.040
+which would then if you look at this and
+think about you'll see that this does.
+
+47
+00:03:34.080 --> 00:03:38.934
+This does satisfy
+the conditions of relativity,
+
+48
+00:03:38.934 --> 00:03:45.522
+provided that alpha squared and
+beta squared are both equal to 1 and
+
+49
+00:03:45.522 --> 00:03:50.856
+that they satisfy this
+anti-commutation relation.
+
+50
+00:03:50.856 --> 00:03:52.180
+Can you see why that is?
+
+51
+00:03:55.757 --> 00:04:03.340
+Okay so, you can see that alpha and
+beta can't just be pure numbers.
+
+52
+00:04:03.340 --> 00:04:06.390
+In fact, neither one of them can
+be an ordinary number because
+
+53
+00:04:06.390 --> 00:04:08.990
+the anti-commutation relation
+has to be satisfied.
+
+54
+00:04:10.925 --> 00:04:15.680
+But, in quantum mechanics we're quite
+used to using linear operators and
+
+55
+00:04:15.680 --> 00:04:19.230
+so for
+example here are choices of alpha and
+
+56
+00:04:19.230 --> 00:04:23.900
+beta, you can choose sigma one of
+the alpha and sigma 3 of the beta.
+
+57
+00:04:23.900 --> 00:04:26.940
+These are the so called Pauli matrices and
+
+58
+00:04:26.940 --> 00:04:30.810
+this has a very straightforward
+geometric interpretation.
+
+59
+00:04:30.810 --> 00:04:34.810
+So, you're familiar with
+non-commuting operations.
+
+60
+00:04:34.810 --> 00:04:39.890
+This one in a two-dimensional system
+reflects the vector about the 45 degree
+
+61
+00:04:39.890 --> 00:04:44.880
+line and
+sigma 3 here inverts the coordinates.
+
+62
+00:04:45.890 --> 00:04:49.122
+So here's how the sigma 1 acts,
+here's how sigma 3 acts.
+
+63
+00:04:49.122 --> 00:04:53.011
+So you can see that the operation sigma 3,
+
+64
+00:04:53.011 --> 00:04:58.208
+sigma 1 leaves this where
+sigma one sigma 3 gives that.
+
+65
+00:04:58.208 --> 00:05:03.988
+So, that gives us an example of the fact
+that these mysterious documenting
+
+66
+00:05:03.988 --> 00:05:10.150
+quantities can at least be mapped onto
+familiar geometrical representation.
+
+67
+00:05:15.480 --> 00:05:20.071
+So, in fact much of what we do now
+is not going to depend on choosing
+
+68
+00:05:20.071 --> 00:05:23.420
+a specific representation for
+alpha and beta.
+
+69
+00:05:24.830 --> 00:05:27.940
+First of all there are many,
+many choices that give the same result and
+
+70
+00:05:27.940 --> 00:05:31.730
+isn't unique, sort of like the gauge and
+variance problem.
+
+71
+00:05:31.730 --> 00:05:35.270
+What's important is that they
+satisfy the commutation relations.
+
+72
+00:05:35.270 --> 00:05:39.500
+But if you choose two by two
+matrices that's easy to solve,
+
+73
+00:05:40.570 --> 00:05:45.230
+the stationary equation, Dirac equation,
+it's just proportional to a plane wave
+
+74
+00:05:46.580 --> 00:05:53.370
+and the remarkable thing is that, you
+get both positive and negative energies.
+
+75
+00:05:54.640 --> 00:05:59.595
+Now you never get negative energies
+in the solution for free particle in
+
+76
+00:05:59.595 --> 00:06:04.570
+non-relativistic mechanics because that
+would require an imaginary momentum and
+
+77
+00:06:04.570 --> 00:06:08.190
+it would give rise to a non
+normalizable wave function.
+
+78
+00:06:08.190 --> 00:06:10.440
+But as you're going to
+find in the homework,
+
+79
+00:06:10.440 --> 00:06:15.510
+if you have a solution of the Dirac
+equation, that's a positive energy.
+
+80
+00:06:15.510 --> 00:06:19.620
+Then you can find from it, another
+solution that has a negative energy.
+
+81
+00:06:19.620 --> 00:06:23.560
+And it has the same
+desirable characteristics
+
+82
+00:06:23.560 --> 00:06:24.930
+of the positive energy solution.
+
+83
+00:06:24.930 --> 00:06:29.900
+So there's nothing in the mathematics that
+says you can exclude the negative energy
+
+84
+00:06:29.900 --> 00:06:34.456
+solutions, like there is in
+the non-relativistic Schrodinger equation.
+
+85
+00:06:34.456 --> 00:06:39.007
+And these indicate the existence
+of anti-matter, that is,
+
+86
+00:06:39.007 --> 00:06:45.222
+these negative energy solutions have been
+found to be associated with the existence
+
+87
+00:06:45.222 --> 00:06:50.315
+of anti-particles that are apparently
+present for all particles.
+
+88
+00:06:53.663 --> 00:06:58.580
+Okay, so now another consequence of
+the Dirac Equation, very significant one,
+
+89
+00:06:58.580 --> 00:07:03.712
+was actually found in the two-dimensional
+or three-dimensional versions both but
+
+90
+00:07:03.712 --> 00:07:08.010
+we'll go directly to the three
+dimensional equation.
+
+91
+00:07:08.010 --> 00:07:11.940
+So now you see this is
+a straightforward generalization
+
+92
+00:07:11.940 --> 00:07:15.270
+of the one-dimensional Dirac equation.
+
+93
+00:07:15.270 --> 00:07:21.800
+It has a contribution from each of the
+three spatial coordinates, and when you
+
+94
+00:07:21.800 --> 00:07:28.300
+go and require that this relativistic
+dispersion relation be satisfied,
+
+95
+00:07:28.300 --> 00:07:33.190
+you find that there's a class
+of anti-commutation relations.
+
+96
+00:07:33.190 --> 00:07:37.976
+So the alphas have to anti-commute among
+themselves in the way indicated here.
+
+97
+00:07:37.976 --> 00:07:43.527
+The alpha have to anti-commute with beta,
+and then beta square is equal to one.
+
+98
+00:07:45.972 --> 00:07:48.961
+Now, this part seems fine, but
+
+99
+00:07:48.961 --> 00:07:53.730
+what about the conservation
+of angular momentum?
+
+100
+00:07:53.730 --> 00:08:00.175
+That's one of these things that you
+would surely wish to see conserved,
+
+101
+00:08:00.175 --> 00:08:04.517
+but it doesn't commute
+with this Hamiltonian.
+
+102
+00:08:04.517 --> 00:08:09.485
+I think that's quite easy to see
+because this has the form of a vector.

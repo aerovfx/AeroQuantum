@@ -1,0 +1,165 @@
+WEBVTT
+
+WEBVTT
+
+00:00.880 --> 00:03.840
+We're going to do is we're going to consider a piece of copper.
+
+00:03.870 --> 00:06.290
+Copper is a very good conductor.
+
+00:06.330 --> 00:08.410
+It has 29 each.
+
+00:08.430 --> 00:15.840
+Each copper atom has 29 protons and each copper atom has 29 electrons so it's electrically neutral.
+
+00:15.840 --> 00:23.180
+Now when you take a piece of copper wire here I've drawn kind of these copper atoms everywhere.
+
+00:23.190 --> 00:29.040
+Now what happens here if you look at the electronic structure of copper the shell is kind of full and
+
+00:29.040 --> 00:35.520
+you have this one electron here out here that's kind of further away from the nucleus and it's really
+
+00:35.520 --> 00:40.970
+this electron here that takes part in the conduction the further away from the positive nucleus.
+
+00:41.040 --> 00:48.090
+Therefore it feels the least amount of attractive force to the nucleus and is basically free to move
+
+00:48.090 --> 00:48.920
+in the copper.
+
+00:49.180 --> 00:49.910
+OK.
+
+00:50.040 --> 00:54.930
+Now this picture here at the top basically shows you what would happen if I connect a piece of copper
+
+00:54.930 --> 00:56.830
+wire to a battery.
+
+00:56.910 --> 01:01.830
+So this here is the electric field imagine the battery produces an electric field that's pointing from
+
+01:01.830 --> 01:03.740
+the right side to the left side.
+
+01:04.170 --> 01:09.510
+So that means we saw in the previous picture there should be a force acting on these electrons and there
+
+01:09.510 --> 01:16.110
+should be an electron or an acceleration rather acting or an acceleration of these electrons given by
+
+01:16.110 --> 01:23.250
+this expression which would mean that the velocity if it starts from wrasse should be given by a Times
+
+01:23.560 --> 01:28.750
+some amount of time that should be what the velocity is in the bigger time as well.
+
+01:28.770 --> 01:30.900
+The bigger the velocity is.
+
+01:31.140 --> 01:36.810
+However that's not really what happens because these electrons out here these electrons well they're
+
+01:36.810 --> 01:38.850
+not in free space anymore.
+
+01:38.940 --> 01:46.200
+What happens to them is they end up colliding with these positive ions and they can also collide with
+
+01:46.230 --> 01:47.790
+other electrons going on.
+
+01:47.790 --> 01:51.930
+There's a lot of things that can happen with these electrons so although there is an electric field
+
+01:51.930 --> 01:57.750
+pointing from the right side to the left side the motion of an electron even when there is an electric
+
+01:57.750 --> 02:03.840
+field present is not really like this it accelerates for a little bit but then it bounces off and goes
+
+02:03.840 --> 02:09.030
+in a different direction it accelerates a little bit then it bounces off and goes in a different direction.
+
+02:09.030 --> 02:15.360
+So overall I mean the motion can kind of be kind of very complicated but there is kind of a net flow
+
+02:15.570 --> 02:22.020
+going from in this case from the left side you know toward this side but the motion is not just the
+
+02:22.020 --> 02:23.870
+nice smooth flow going.
+
+02:23.910 --> 02:29.790
+If I look at each individual electron the motion can be actually quite complicated and if you would
+
+02:29.790 --> 02:34.090
+turn off that electric field if I unplug the battery Well what would it look like.
+
+02:34.090 --> 02:41.480
+If you look at your wire again these wires are at room temperature and you look at each individual electron
+
+02:41.490 --> 02:47.490
+in that case what would happen is again it would still move just due to thermal fluctuation.
+
+02:47.500 --> 02:54.120
+However if you examine just one particular cross-section the number of electrons that would cross in
+
+02:54.120 --> 02:58.820
+one direction would be the same number of electrons that would cross in the other direction.
+
+02:58.830 --> 03:06.330
+So if the electric field is zero Chargers are still moving due to thermal fluctuations.
+
+03:06.570 --> 03:13.080
+But there is no net drift of these electrons so the drift velocity should go to zero on that limit which
+
+03:13.080 --> 03:16.240
+means that the current should go to zero if there is no electric field.
+
+03:17.770 --> 03:23.620
+So if you look at kind of the velocity of these electrons just due to thermal fluctuations you know
+
+03:23.740 --> 03:28.950
+in copper you're looking at numbers that are approximately 10 to the six meters per second.
+
+03:29.020 --> 03:31.700
+That's a really really fast.
+
+03:31.840 --> 03:39.670
+Now due to all of these collisions what happens that drift velocity just this net kind of constant velocity
+
+03:39.670 --> 03:46.060
+of these electrons kind of flowing down this drift velocity is to the order of.
+
+03:46.150 --> 03:48.870
+Let me just write it like this one millimeter per second.
+
+03:50.230 --> 03:50.790
+All right.
+
+03:50.870 --> 03:55.460
+This is one times tend to the negative 3 meters per second.
+
+03:55.910 --> 04:01.580
+It's orders of magnitude slower than the velocity of these electrons only because of all these collisions
+
+04:01.940 --> 04:04.800
+and everything else going on.
+
+04:05.010 --> 04:10.980
+And that's even in the best conductors can make this number a little bit bigger by increasing the magnitude
+
+04:10.980 --> 04:12.230
+of the electric field.
+
+04:12.510 --> 04:14.090
+We'll see this connection in just a minute.
+
+04:14.100 --> 04:18.960
+But this is just to give you kind of an idea of the orders of magnitude at play.

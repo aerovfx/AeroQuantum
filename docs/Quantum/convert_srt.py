@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 import os
 import re
+from deep_translator import GoogleTranslator
+
+translator = GoogleTranslator(source="en", target="vi")
 
 
 def parse_srt(content):
@@ -20,92 +23,120 @@ def parse_srt(content):
     return results
 
 
-def convert_to_vietnamese_markdown(srt_content, title):
-    """Convert SRT content to Vietnamese markdown"""
+def timestamp_to_markdown(ts):
+    """Convert SRT timestamp to markdown format"""
+    parts = ts.split(" --> ")
+    if len(parts) == 2:
+        start = parts[0].replace(",", ".")
+        end = parts[1].replace(",", ".")
+        return f"### {start} - {end}"
+    return ts
+
+
+def translate_batch(texts, batch_size=15):
+    """Translate a batch of texts"""
+    translated = []
+    for i in range(0, len(texts), batch_size):
+        batch = texts[i : i + batch_size]
+        combined = "|||".join(batch)
+        try:
+            result = translator.translate(combined)
+            parts = result.split("|||")
+            translated.extend(parts)
+        except Exception as e:
+            print(f"Batch translation error: {e}")
+            translated.extend(batch)
+    return translated
+
+
+def convert_to_vietnamese_markdown(srt_content):
+    """Convert SRT content to Vietnamese markdown with timestamps"""
     entries = parse_srt(srt_content)
 
-    # Extract chapter number and title
-    chapter_match = re.search(r"(\d+)\.\s*(.+)", title)
-    if chapter_match:
-        chapter_num = chapter_match.group(1)
-        chapter_title = chapter_match.group(2).replace(".srt", "")
-    else:
-        chapter_num = ""
-        chapter_title = title.replace(".srt", "")
+    texts = [text.strip() for idx, timestamp, text in entries if text.strip()]
+    translated_texts = translate_batch(texts)
 
-    # Start building markdown
-    md_content = f"# {chapter_title}\n\n"
-    md_content += "---\n\n"
-    md_content += "## Nội dung\n\n"
+    md_content = "## Nội dung\n\n"
 
-    # Group entries by paragraphs (roughly every few entries)
-    current_paragraph = []
-
+    trans_idx = 0
     for idx, timestamp, text in entries:
-        # Clean up the text
         text = text.strip()
         if not text:
             continue
 
-        # Handle mathematical expressions - convert common patterns to LaTeX
-        # Note: SRT files typically don't have formulas, but we'll prepare for them
+        ts_markdown = timestamp_to_markdown(timestamp)
+        translated_text = (
+            translated_texts[trans_idx] if trans_idx < len(translated_texts) else text
+        )
+        trans_idx += 1
 
-        current_paragraph.append(text)
-
-        # Create a new section roughly every 3-4 entries or on significant pauses
-        if len(current_paragraph) >= 4:
-            md_content += "###\n\n"
-            md_content += " ".join(current_paragraph) + "\n\n"
-            current_paragraph = []
-
-    # Add remaining paragraphs
-    if current_paragraph:
-        md_content += "###\n\n"
-        md_content += " ".join(current_paragraph) + "\n\n"
+        md_content += ts_markdown + "\n"
+        md_content += translated_text + "\n\n"
 
     return md_content
 
 
-def process_directory(dir_path):
-    """Process all SRT files in a directory"""
-    srt_files = [f for f in os.listdir(dir_path) if f.endswith(".srt")]
+def generate_md_path(srt_path):
+    """Generate the corresponding .md file path"""
+    dirname = os.path.dirname(srt_path)
+    basename = os.path.basename(srt_path)
 
-    for srt_file in sorted(srt_files):
-        srt_path = os.path.join(dir_path, srt_file)
-        md_file = srt_file.replace(".srt", ".md")
-        md_path = os.path.join(dir_path, md_file)
+    if basename.endswith("_translated.srt"):
+        md_name = basename[:-15] + ".md"
+    else:
+        md_name = basename.replace(".srt", ".md")
 
-        print(f"Converting: {srt_file} -> {md_file}")
+    return os.path.join(dirname, md_name)
+
+
+def process_all_srt(base_dir):
+    """Process all _translated.srt files in directory tree"""
+    srt_files = []
+
+    for root, dirs, files in os.walk(base_dir):
+        for f in files:
+            if f.endswith("_translated.srt"):
+                srt_files.append(os.path.join(root, f))
+
+    srt_files.sort()
+
+    converted = 0
+    skipped = 0
+
+    for srt_path in srt_files:
+        md_path = generate_md_path(srt_path)
+
+        if os.path.exists(md_path):
+            print(f"SKIP (exists): {os.path.basename(md_path)}")
+            skipped += 1
+            continue
+
+        print(f"TRANSLATING: {os.path.basename(srt_path)}")
 
         with open(srt_path, "r", encoding="utf-8") as f:
             srt_content = f.read()
 
-        md_content = convert_to_vietnamese_markdown(srt_content, srt_file)
+        md_content = convert_to_vietnamese_markdown(srt_content)
 
         with open(md_path, "w", encoding="utf-8") as f:
             f.write(md_content)
 
+        converted += 1
+        print(f"  -> Created: {os.path.basename(md_path)}")
+
+    print(f"\n=== Summary ===")
+    print(f"Converted: {converted}")
+    print(f"Skipped (already exist): {skipped}")
+    print(f"Total: {converted + skipped}")
+
 
 def main():
-    base_dir = "/Users/pixibox/AeroQuantum/docs/Quantum/Special Relativity The Wacky World of Modern Physics"
+    base_dir = "/Users/pixibox/AeroAgent/sub/eted/Udemy - Reinforcement Learning for Algorithmic Trading with Python 2024-8"
 
-    # Process each chapter directory
-    chapters = [
-        "1. Introduction Newtonian Relativity in Classical Physics",
-        "2. Redefining Our Conception of Space-Time - Part 1 Time Dilation",
-        "3. Redefining Our Conception of Space-Time - Part 2 Length Contraction",
-        "4. The Lorentz Transformation Developing an Absolute Conception of the Universe",
-        "5. Relativistic Doppler Shifts, Radar Systems, and Redshifts",
-        "6. Relativistic Mechanics - Part 1 Momentum",
-        "7. Relativistic Mechanics - Part 2 Energy",
-        "8. The Birth of Quantum Mechanics Massless Particles and the True Nature of Light",
-    ]
+    print(f"Processing: {base_dir}")
+    print("=" * 50)
 
-    for chapter in chapters:
-        chapter_dir = os.path.join(base_dir, chapter)
-        if os.path.exists(chapter_dir):
-            print(f"\n=== Processing: {chapter} ===")
-            process_directory(chapter_dir)
+    process_all_srt(base_dir)
 
     print("\n=== All conversions completed! ===")
 

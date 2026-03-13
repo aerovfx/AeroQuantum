@@ -1,0 +1,130 @@
+WEBVTT
+
+00:00.420 --> 00:07.280
+Art I mentioned before that for Olmec resistors you can write the total resistance as the material property
+
+00:07.300 --> 00:12.060
+the resistivity multiplied by the length divided by the area.
+
+00:12.600 --> 00:16.850
+And this first term the resistivity was really a property of materials.
+
+00:16.860 --> 00:23.200
+So what I've got here a resistivity values resistivity values are usually quartered at some temperature.
+
+00:23.340 --> 00:30.300
+They were the units in meters and on the left hand side here we have the resistivity for conductors.
+
+00:30.540 --> 00:36.420
+Again for conductors you'd expect it to be pretty small down over here on the right hand side have got
+
+00:36.420 --> 00:37.880
+different materials Semiconductor.
+
+00:37.890 --> 00:40.930
+And let's just compare it to insulators for now for example.
+
+00:41.100 --> 00:43.470
+Compare copper to wood.
+
+00:43.500 --> 00:46.980
+All right wood doesn't do well if you put it into a circuit.
+
+00:47.300 --> 00:54.500
+It's resistivity is these values here tend to the eight to 10 to 14 depending on which kind of wood
+
+00:54.500 --> 00:55.610
+you're looking at.
+
+00:55.610 --> 01:03.230
+Compare that to copper copper is a very good conductor its value of the resistivity is extremely low
+
+01:03.290 --> 01:08.970
+compared to would tend to the minus 8 0 meters.
+
+01:09.250 --> 01:14.470
+You can compare copper now to some of the other more common used conductors.
+
+01:14.470 --> 01:16.380
+Silver is a pretty good conductor.
+
+01:16.450 --> 01:19.450
+Resistivity is a little bit lower than that of copper.
+
+01:19.450 --> 01:22.920
+They also have aluminum a little bit higher but still pretty low.
+
+01:22.960 --> 01:29.550
+Again they're all in the range of 10 of the negative 8 here whereas the insulators are very very high.
+
+01:29.950 --> 01:32.030
+Rubber tended at 16 right.
+
+01:32.050 --> 01:33.650
+There is no charge conduction.
+
+01:33.700 --> 01:37.010
+Right very very little because the resistance is so high.
+
+01:37.030 --> 01:39.720
+So the current would be very very small.
+
+01:40.100 --> 01:43.530
+Or if you think about Ohm's law now you rearrange Ohm's law.
+
+01:44.030 --> 01:46.940
+You start with vehicles that are I.
+
+01:47.380 --> 01:55.330
+However if you think about it now the amount of current that you get for a potential difference is going
+
+01:55.330 --> 01:57.260
+to be divided by our.
+
+01:57.580 --> 02:02.090
+So if I make the resistance very very big Clearly I'm going to get very small current right so he'd
+
+02:02.110 --> 02:08.140
+get very small current with any of these insulators compared to the conductor elements.
+
+02:08.170 --> 02:11.470
+Now I just want to say one more thing here about this quantity over here.
+
+02:11.500 --> 02:15.290
+We notice the value here is listed at 20 degrees Celsius.
+
+02:15.340 --> 02:19.900
+In reality you can change that value add value depends on temperature.
+
+02:20.140 --> 02:25.390
+And for most of the materials if you plot the resistivity versus the absolute temperature you kind of
+
+02:25.390 --> 02:30.130
+get a value where even at absolute zero you're going to get some resistivity because you will have some
+
+02:30.130 --> 02:34.540
+of those collisions between the electrons and the ions.
+
+02:34.880 --> 02:40.840
+But generally what tends to happen at least for conductors is it's pretty linear relationship over a
+
+02:40.840 --> 02:43.240
+broad range of temperatures.
+
+02:43.570 --> 02:48.340
+So B is kind of proportional to T after a while.
+
+02:48.340 --> 02:54.170
+Anyway that's one way you can actually increase the resistance of the material is to make it hotter.
+
+02:54.170 --> 02:58.690
+All right if the temperature gets hotter the resistivity goes up the length in the area.
+
+02:58.690 --> 03:01.800
+Don't change a little bit there I mean there might be a little bit of thermal expansion.
+
+03:01.810 --> 03:07.750
+But the main impact will probably be on the resistivity and that's how you can change the electrical
+
+03:07.750 --> 03:09.100
+properties of resistors.

@@ -1,0 +1,103 @@
+WEBVTT
+
+00:00.330 --> 00:07.170
+Now you walk into any Home Depot over the weekend and you go try to buy some copper wire go into the
+
+00:07.170 --> 00:14.490
+electrical section and the copper wire that you're looking for has a certain size that's recommended
+
+00:14.490 --> 00:16.000
+by your electrician.
+
+00:16.350 --> 00:21.260
+Typically if you have a bigger cross-section you can have more current flowing through it.
+
+00:21.270 --> 00:25.140
+However again now you have to worry about how much resistance there is.
+
+00:25.140 --> 00:26.140
+Right.
+
+00:26.160 --> 00:31.440
+The bigger the cross-section the smaller the overall resistance of that will be a determination for
+
+00:31.440 --> 00:38.010
+your house into what kind of wire you're looking for wires in those common hardware stores are listed
+
+00:38.010 --> 00:44.740
+in kind of these units over here this is AWG which refers to the American wire gauge
+
+00:47.560 --> 00:55.110
+and it's simply a standardized method of calculating the diameters in cross-sectional areas of wires.
+
+00:55.750 --> 01:02.560
+So American wire gauge is listed using these integer numbers.
+
+01:02.560 --> 01:04.180
+There might be other ones here.
+
+01:04.450 --> 01:11.220
+Number four refers to a wire that has a diameter of a little bit over five millimeters.
+
+01:11.320 --> 01:18.100
+If you know the diameter you can calculate the cross-section as you increase the wire gauge number.
+
+01:18.100 --> 01:19.950
+Look what happens to the diameter.
+
+01:20.110 --> 01:29.170
+So a wire gauge that has a 20 listed under the American wire gauge is very very small compared to a
+
+01:29.170 --> 01:31.320
+wire that has a 4.
+
+01:31.570 --> 01:37.030
+So for a four you can handle a lot more amperage much higher values of the currents can go through the
+
+01:37.030 --> 01:41.850
+four rather than 20 for example.
+
+01:42.220 --> 01:47.300
+Again the resistance of any wire depends on what it's made from.
+
+01:47.300 --> 01:50.200
+This will be copper for all of these different wires.
+
+01:50.200 --> 01:51.070
+Depends on the length.
+
+01:51.080 --> 01:56.200
+Well that'll depend on whatever application you need but it also depends on that cross-sectional area
+
+01:56.200 --> 01:58.560
+and that's where this comes from.
+
+01:58.560 --> 01:59.190
+OK.
+
+01:59.380 --> 02:05.950
+So then the formula that links this number here for the wire gauge number that's the number and to the
+
+02:05.950 --> 02:10.160
+actual diameter and millimeters is given by this equation actually I found this on the web.
+
+02:10.300 --> 02:13.180
+I don't know exactly what the history is behind this.
+
+02:13.180 --> 02:17.320
+It's kind of interesting I thought I'd write it down and I checked it out and it works for a lot of
+
+02:17.320 --> 02:18.790
+those.
+
+02:19.390 --> 02:24.490
+So anyway just a little bit of background that if you go into a hardware store typically the wires are
+
+02:24.880 --> 02:29.500
+listed with this number this AWG number and that's all that it means it just refers to a particular
+
+02:29.500 --> 02:30.550
+diameter.
+
+02:30.550 --> 02:32.850
+And this is the relationship that links them together.

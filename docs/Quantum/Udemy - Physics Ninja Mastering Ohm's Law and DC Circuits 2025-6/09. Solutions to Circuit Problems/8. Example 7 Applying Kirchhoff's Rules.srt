@@ -1,0 +1,454 @@
+WEBVTT
+
+00:00.570 --> 00:03.450
+All right here's a multi loop problem.
+
+00:03.570 --> 00:06.590
+Probably the hardest one we've got so far.
+
+00:06.820 --> 00:08.730
+It says find the current Each branch.
+
+00:08.730 --> 00:10.750
+Now I've given you some labels here.
+
+00:10.980 --> 00:12.600
+You choose to use those or not.
+
+00:12.600 --> 00:14.430
+It's kind of up to you.
+
+00:14.760 --> 00:17.010
+So how do we find the current and branch well.
+
+00:17.040 --> 00:19.220
+We have to apply our rules.
+
+00:19.650 --> 00:22.160
+We have Kirchhoff's rules we have a junction rule.
+
+00:22.410 --> 00:27.510
+There's two junctions in this problem we can either use junction B or drunks and C we're going to get
+
+00:27.510 --> 00:28.880
+the same answer.
+
+00:29.260 --> 00:33.600
+So let's go ahead and write junction B what is the junction rule says whatever current flows into the
+
+00:33.600 --> 00:37.290
+junction has to be equal to the current flowing out.
+
+00:37.320 --> 00:44.450
+So we have I going into the junction that must be equal to one plus two.
+
+00:44.600 --> 00:49.950
+The way I've got them labeled there I want an IDE to leave the junction I goes into it and I call this
+
+00:49.950 --> 00:51.960
+equation 1.
+
+00:52.020 --> 00:55.350
+Now all we can do is we can do some loops.
+
+00:55.650 --> 01:03.470
+What I'm going to do first is I'm going to do a loop around this kind of smaller left side.
+
+01:03.770 --> 01:08.250
+I'm going to start at point F and I'm going to go around here in a clockwise fashion.
+
+01:08.250 --> 01:13.210
+So if I start at point f the first thing I encounter here is a 12 volt battery.
+
+01:13.350 --> 01:16.260
+So I get plus 12.
+
+01:16.260 --> 01:17.260
+Now nothing happens.
+
+01:17.270 --> 01:18.090
+I get to Point B.
+
+01:18.090 --> 01:25.440
+Now I'm going to go through this four ohm resistor so I get a voltage drop of four multiplied by the
+
+01:25.440 --> 01:29.430
+current flowing through that we've called that I won.
+
+01:29.460 --> 01:35.710
+Now I go to point E and I'm going to cross a three ohm resistor in the direction of the current negative
+
+01:35.750 --> 01:39.150
+voltage drop equal to three multiplied by the current.
+
+01:39.200 --> 01:41.260
+Careful these are different from each other now.
+
+01:41.660 --> 01:45.670
+I go back to point f that must be equal to zero.
+
+01:46.100 --> 01:55.910
+Let's call this equation to know for Equation 3 to go around the big loop go around the outside.
+
+01:56.180 --> 01:58.770
+Again we're going to start at point f.
+
+01:59.660 --> 02:05.030
+So the first part looks the same you get plus 12.
+
+02:05.030 --> 02:06.470
+The voltage of the battery.
+
+02:06.470 --> 02:09.370
+Now I'm going across a tool resistor.
+
+02:09.700 --> 02:15.330
+I get minus two multiplied by the current flowing through that guy it's Aitu.
+
+02:15.490 --> 02:16.280
+Now look what happened.
+
+02:16.280 --> 02:20.760
+Now I'm crossing a battery and I'm going from the positive to the negative side.
+
+02:21.100 --> 02:30.430
+So I get a voltage drop equal to the voltage of the battery and the last part now is minus three multiplied
+
+02:30.430 --> 02:32.130
+by the current That's the voltage drop.
+
+02:32.140 --> 02:34.960
+That's the same term as what I had in the equation.
+
+02:35.370 --> 02:39.790
+I go back to point f that's what I get.
+
+02:39.790 --> 02:45.880
+Now it could have gone and made another equation if I wanted to I could have gone through and either
+
+02:45.880 --> 02:49.290
+go clockwise or counterclockwise it doesn't really matter.
+
+02:49.430 --> 02:55.510
+And you went around like this you could have done that we can write down that equation.
+
+02:55.570 --> 02:57.390
+Since we're practicing here.
+
+02:57.730 --> 02:59.190
+So let's go around the same thing.
+
+02:59.210 --> 03:05.260
+First thing I encounter is that 2 ohm resistor that should be the same two times Aitu the voltage drop
+
+03:06.220 --> 03:08.460
+minus five.
+
+03:08.470 --> 03:13.780
+Now the only difference is when I'm going through this forum resistor in this case I'm going in the
+
+03:13.870 --> 03:15.670
+opposite direction of the current.
+
+03:15.910 --> 03:22.920
+So I have to have a potential gain now of four multiplied by one that equals to zero.
+
+03:23.590 --> 03:25.120
+So we have three unknowns.
+
+03:25.150 --> 03:31.030
+We have the current I have a one and we have two really.
+
+03:31.120 --> 03:37.280
+All we require to solve this are three equations.
+
+03:37.380 --> 03:39.850
+Right now we have four equations.
+
+03:39.870 --> 03:48.140
+However it turns out that the last one it doesn't give us any new information because I could have got
+
+03:48.140 --> 03:58.440
+this last equation if I simply would of taking the difference between equation 2 and Equation 3.
+
+03:58.440 --> 03:59.700
+Check it out for yourself right.
+
+03:59.700 --> 04:03.420
+If you take the difference between both of those what are you going to get the 12 volts are going to
+
+04:03.420 --> 04:07.630
+cancel out you're going to get minus four.
+
+04:07.630 --> 04:16.660
+I wonder you're going to get the minus three ones are going to cancel out or minus three times.
+
+04:16.660 --> 04:22.830
+I rather if I take the difference you're going to get plus five and you're going to get plus two.
+
+04:22.840 --> 04:27.310
+So at the end you're going to get the exact same equation except the signs are going to be flipped around.
+
+04:27.310 --> 04:33.680
+But if I would it did equation three minus equation too then I would have gotten the exact same.
+
+04:33.760 --> 04:42.970
+Or you could check it out minus two Aitu minus five and then plus four times I won OK.
+
+04:43.230 --> 04:46.730
+So we really don't get any new information from this equation.
+
+04:46.740 --> 04:48.350
+You can use it if you want it doesn't matter.
+
+04:48.350 --> 04:56.760
+But we really need to use at least the first three equations in order to solve what the currents are.
+
+04:56.880 --> 05:04.170
+You could substitute equation to an equation 3 for equation for whichever one you choose.
+
+05:04.170 --> 05:08.820
+All right so at this point now we just kind of get rid of that and discuss this enough.
+
+05:08.820 --> 05:11.570
+Let's just how do we get down to the algebra.
+
+05:11.570 --> 05:14.210
+Now all of the physics is actually done.
+
+05:14.280 --> 05:20.180
+All you have to do now is kind of manipulate these equations in order to solve the currents.
+
+05:20.410 --> 05:25.630
+It's a little bit tricky but the way I like to do it is I'm going to keep the first equation as is and
+
+05:25.740 --> 05:29.130
+what I'm going to try to do now is eliminate the currents.
+
+05:29.130 --> 05:32.470
+I want an aitu.
+
+05:32.760 --> 05:36.610
+Can I write both of these only in terms of I.
+
+05:37.440 --> 05:39.900
+Well in order to do that I'm going to use equation too.
+
+05:39.930 --> 05:41.360
+So let me write two over here.
+
+05:41.610 --> 05:45.930
+And what we're going to do is we're going to write I want in terms of I.
+
+05:46.000 --> 05:48.590
+So if I can rewrite this I'm going to get four.
+
+05:48.590 --> 05:54.320
+One has to be equal so for I want to get that by bringing it on the other side.
+
+05:54.570 --> 05:58.560
+This is simply 12 minus three times.
+
+05:59.370 --> 06:06.990
+Now if you divide through by 4 and get rid of it over here if I divide through by 4 what I'm going to
+
+06:06.990 --> 06:12.990
+end up getting is three minus three fourths multiplied by.
+
+06:12.990 --> 06:18.570
+And that's the equation I get for I 1 from equation 3 I can do something very very similar.
+
+06:18.750 --> 06:20.830
+I'm going to isolate what I 2 is.
+
+06:21.030 --> 06:30.110
+So I get to Aitu going to be equal to Looks like 712 minus five is seven minus three times I.
+
+06:30.570 --> 06:36.230
+And at the end we're going to simply divide by divide by 2 bring the two down stairs.
+
+06:37.200 --> 06:42.580
+So I'm going to get seven over to minus three over two multiplied by.
+
+06:42.930 --> 06:49.990
+So now I've written I won and I too in terms of the current in this left most branch.
+
+06:50.550 --> 06:54.660
+So what you do now is you simply substitute into this equation and you get kind of a messy looking thing
+
+06:54.690 --> 06:56.270
+but it's just algebra.
+
+06:56.580 --> 07:03.810
+So you get i equals to and instead of writing I won I'm simply going to write three minus three over
+
+07:03.810 --> 07:04.490
+four times.
+
+07:04.510 --> 07:07.590
+I thought of writing Aitu.
+
+07:07.910 --> 07:14.270
+I simply write seven over two loops minus three over two multiplied by.
+
+07:14.700 --> 07:20.550
+Now you've got to group everything together and at the end do but a week's worth of math a lot that
+
+07:20.620 --> 07:22.320
+will let you do that for yourself.
+
+07:22.320 --> 07:24.660
+You should get that I's equal to two imps
+
+07:28.460 --> 07:31.600
+from the last equation I wrote over here.
+
+07:31.610 --> 07:34.500
+Now once you get that I's equal to two.
+
+07:34.610 --> 07:35.450
+Now guess what.
+
+07:35.450 --> 07:41.450
+Now you can go back you can go ahead and substitute that over here and solve for what I want is you
+
+07:41.450 --> 07:47.220
+can go ahead and substitute that into this equation and get what the current Aitu is.
+
+07:47.930 --> 07:49.970
+Let's go ahead and do that.
+
+07:49.970 --> 07:53.900
+So what you get is three minus three or four.
+
+07:54.320 --> 07:57.040
+And that's multiplied by two.
+
+07:57.380 --> 08:04.520
+That gives me three here I can factor out to three minus 1.5.
+
+08:04.970 --> 08:07.400
+Should give me 1.5 amps.
+
+08:07.400 --> 08:09.190
+That's my current one.
+
+08:10.040 --> 08:18.920
+And that automatically means that if this is three point five seven over two minus three over two multiplied
+
+08:18.920 --> 08:25.370
+by two we're left with zero point five is the current Aitu.
+
+08:25.730 --> 08:28.830
+And that makes a lot of sense where I live we have two amps going in.
+
+08:28.940 --> 08:31.300
+You've got 1.5 going over here.
+
+08:31.400 --> 08:35.950
+And actually I got 0.5 out of a small current going on this side over here.
+
+08:36.500 --> 08:39.470
+All right so now we basically solve the first part.
+
+08:39.950 --> 08:46.140
+All we have to do now is let's find the energy dissipated in this four ohm resistor.
+
+08:46.220 --> 08:49.560
+So what does the energy dissipated over here.
+
+08:50.360 --> 08:54.620
+Actually they're asking you in a certain amount of time or what you can first do for Part B is find
+
+08:54.620 --> 08:59.210
+the power you can find the rate at which energy is being dissipated.
+
+08:59.240 --> 09:05.090
+All right the power being dissipated in any resistor is the value of the resistance multiplied by the
+
+09:05.090 --> 09:06.760
+current flowing through it.
+
+09:06.770 --> 09:08.580
+And don't forget to square that.
+
+09:09.050 --> 09:12.550
+And that's the power that's the rate that's the number of Joules per second.
+
+09:12.860 --> 09:18.300
+So in three seconds then I can find how much total energy was dissipated.
+
+09:18.530 --> 09:20.930
+But let's first start by finding the power.
+
+09:21.090 --> 09:23.630
+So you get for here and now the current.
+
+09:23.630 --> 09:29.340
+I would just solve for that too.
+
+09:30.170 --> 09:32.060
+Oh except I got to be a little bit careful.
+
+09:32.160 --> 09:41.120
+It's I one that goes in there or almost a costly mistake over there and the current one is 1.5 that
+
+09:41.120 --> 09:44.150
+have Raddy 1.5 that's going to be hard to square that.
+
+09:44.180 --> 09:48.440
+If I read it it is three over two that I square that it's going to be a little bit easier for me to
+
+09:48.440 --> 09:50.330
+do the math.
+
+09:50.330 --> 09:50.560
+All right.
+
+09:50.570 --> 09:58.940
+So we get four multiplied three squared gives me nine and two squared gives me four.
+
+09:59.360 --> 10:01.460
+So you see those fours cancel out nicely.
+
+10:01.490 --> 10:06.530
+So the power dissipated is nine Watts in that resistor.
+
+10:06.530 --> 10:11.890
+And if you wanted to find the energy Now remember the power you want to find the energy in three seconds
+
+10:11.900 --> 10:14.770
+it's simply the power multiplied by the time.
+
+10:15.560 --> 10:22.910
+So in this case simply nine multiplied by three seconds we get twenty seven joules.
+
+10:24.020 --> 10:29.910
+That is the energy dissipated in this forum resistor in three seconds.
+
+10:29.930 --> 10:30.460
+OK.
+
+10:30.770 --> 10:32.630
+So again pretty straightforward.
+
+10:33.090 --> 10:38.210
+Matthew gets a little bit tedious when you have multi loop circuits so this is kind of probably as hard
+
+10:38.210 --> 10:39.700
+as you would get in kind of on a test.
+
+10:39.710 --> 10:43.820
+I would assume I mean it's you're not going to get four or five loops unless there is kind of a trick
+
+10:43.820 --> 10:50.990
+to simplify it but otherwise you can get kind of complicated algebra if you have fractions just be a
+
+10:50.990 --> 10:55.700
+little bit careful with setting up the physics we should have that down.
+
+10:56.000 --> 10:57.770
+Don't forget our power relationships.
+
+10:57.800 --> 10:59.580
+That's all there is to it.

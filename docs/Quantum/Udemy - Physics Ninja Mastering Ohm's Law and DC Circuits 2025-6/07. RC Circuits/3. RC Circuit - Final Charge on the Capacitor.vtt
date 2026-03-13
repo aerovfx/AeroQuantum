@@ -1,0 +1,180 @@
+WEBVTT
+
+WEBVTT
+
+00:00.330 --> 00:06.510
+OK I now want to just compare the previous case now to spend a little bit more time on a long time limit.
+
+00:06.720 --> 00:12.600
+So the switch has been closed now for a longer period of time so my current We said DKs because of the
+
+00:12.600 --> 00:18.210
+build up of charge and the field produced by the capacitor inside the wire offsets the electric fuel
+
+00:18.210 --> 00:22.890
+produced by the battery inside the wire.
+
+00:22.890 --> 00:23.400
+All right.
+
+00:23.400 --> 00:29.750
+So we're down over here we know the current eventually gets to zero current eventually gets to zero.
+
+00:29.880 --> 00:32.590
+I've placed a maximum amount of charge here.
+
+00:32.700 --> 00:37.070
+Let's call a final charge on this capacitor QF.
+
+00:37.200 --> 00:40.360
+So there's plus QF on one charge on one plate.
+
+00:40.470 --> 00:44.000
+There is negative QF on the other plate.
+
+00:44.390 --> 00:47.910
+And let's go back to my loop rule.
+
+00:47.930 --> 00:50.970
+What would the Luper look like now in the long time limit.
+
+00:51.020 --> 00:52.970
+That was my equation 1.
+
+00:53.030 --> 01:00.960
+So in the long time limit Well let's rewrite it except this time I no longer have to worry about the
+
+01:00.960 --> 01:07.530
+current term because I remember I just said that the current goes to zero when the current goes to zero
+
+01:07.530 --> 01:08.790
+after a long time.
+
+01:08.820 --> 01:16.820
+It means there is no more voltage drop across this resistor so we can eliminate this term in the long
+
+01:16.820 --> 01:21.340
+time limit and that means we're immediately left with that the voltage.
+
+01:21.770 --> 01:23.470
+There's only two terms left here.
+
+01:23.720 --> 01:31.490
+You see that the voltage across the capacitor ends up being equal to the EMR for the battery and that
+
+01:31.490 --> 01:36.620
+is kind of this point over here that's when equilibrium is kind of set.
+
+01:36.620 --> 01:44.060
+Now if I use my capacitor equation Well the capacitor equation I know that the voltage across the capacitor
+
+01:44.060 --> 01:51.520
+is equal to and this time limit it's going to be the final charge divided by the capacitance which equals
+
+01:51.520 --> 01:54.170
+to the E-Myth of the battery.
+
+01:54.880 --> 02:01.660
+So lastly I just want to isolate for what the final charges the final charge on those plates is actually
+
+02:01.660 --> 02:07.640
+simply equal to the capacitance multiplied by the EMR of the battery.
+
+02:07.690 --> 02:09.850
+This is an important equation right here.
+
+02:11.810 --> 02:19.150
+One thing that we notice here is that it doesn't depend on our let's write that down.
+
+02:19.280 --> 02:28.120
+So regardless of what the resistances the final charge you get on the plates is independent of our does
+
+02:28.120 --> 02:32.040
+not depend on the value of the resistance.
+
+02:32.060 --> 02:34.390
+That's kind of interesting.
+
+02:34.440 --> 02:40.810
+Now if to this plot I'm going to add now what the charge looks like I'm going to plot it on the same
+
+02:40.810 --> 02:44.080
+y axis except the green line will represent the charge.
+
+02:44.080 --> 02:47.490
+The blackline will represent the current as I have it here.
+
+02:47.890 --> 02:51.520
+So initially what we had here is zero charge.
+
+02:51.520 --> 02:54.210
+So the charge actually started like this.
+
+02:54.210 --> 02:59.680
+And now we know that after a long period of time I'm going to reach some final value in the way it kind
+
+02:59.680 --> 03:00.870
+of does that.
+
+03:00.880 --> 03:11.490
+It looks like a opposite of an exponential decay like an exponentially kind of saturated value and this
+
+03:11.490 --> 03:21.440
+value here is simply QF which is equal to the capacitance multiplied by the EMI.
+
+03:21.460 --> 03:26.170
+OK so that's kind of just a qualitative look at what's going on in the short and the long time limit
+
+03:27.060 --> 03:29.950
+what we're going to do now is we're going to actually derive values.
+
+03:29.950 --> 03:35.470
+Now we're going to do a bit of calculus in the next video if you want to skip the calculus you can but
+
+03:36.520 --> 03:37.760
+it's not that bad.
+
+03:38.080 --> 03:42.340
+So we're going to actually look at these relationships and calculated the other thing you can see from
+
+03:42.340 --> 03:43.930
+both of these plots.
+
+03:43.960 --> 03:51.770
+Remember the connection here between the current and the charge the definition of the current tells
+
+03:51.770 --> 03:55.670
+you how does the charge change instantaneously right.
+
+03:55.880 --> 04:02.000
+It's the slope of the graph and that also makes sense from this plot.
+
+04:02.270 --> 04:04.880
+Let me plot the slope here in purple.
+
+04:05.390 --> 04:10.630
+If you look at the slope of the Green Line Well initially the slope is something like this.
+
+04:10.790 --> 04:11.760
+Right.
+
+04:11.810 --> 04:16.250
+It's large and it's positive and that's exactly what the current says right here.
+
+04:16.730 --> 04:18.330
+And then what happens to the slope.
+
+04:18.350 --> 04:22.560
+It still remains positive but it's not as steep.
+
+04:22.640 --> 04:29.110
+And once you get out over here it's not the best picture of the slope here but the slope tends towards
+
+04:29.110 --> 04:34.860
+zero once you get into the very long time limit because my current tends towards zero.
+
+04:35.320 --> 04:38.230
+OK so these pictures here are complimentary to one another.
+
+04:38.300 --> 04:43.740
+Recalling that my current is the instantaneous change of the charge with respect to time.

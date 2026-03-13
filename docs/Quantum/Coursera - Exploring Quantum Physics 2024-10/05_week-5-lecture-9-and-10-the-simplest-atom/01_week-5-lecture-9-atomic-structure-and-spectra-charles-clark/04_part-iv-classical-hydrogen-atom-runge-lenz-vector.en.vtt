@@ -1,0 +1,822 @@
+WEBVTT
+
+1
+00:00:02.820 --> 00:00:05.650
+Welcome back everyone to
+Exploring Quantum Physics.
+
+2
+00:00:05.650 --> 00:00:09.780
+Now, were going to complete the solution
+of hydrogen atom according to
+
+3
+00:00:09.780 --> 00:00:11.280
+class mechanics and
+
+4
+00:00:11.280 --> 00:00:17.040
+this brings in the identification
+of non-trivial concept of motion.
+
+5
+00:00:17.040 --> 00:00:23.581
+This something that was known for many
+years by people setting planetary motion,
+
+6
+00:00:23.581 --> 00:00:28.699
+but emerged as something of great
+importance in the development
+
+7
+00:00:28.699 --> 00:00:33.816
+of quantum mechanics and
+I think you'll see that it points one to
+
+8
+00:00:33.816 --> 00:00:39.692
+directions that are very fruitfully
+used when one goes to solving
+
+9
+00:00:39.692 --> 00:00:43.704
+equation for complex systems,
+well we'll see.
+
+10
+00:00:43.704 --> 00:00:47.361
+Now, just to remind you where we are,
+we're still working on,
+
+11
+00:00:47.361 --> 00:00:52.065
+wer're leading up to the Bohr model of
+the atom by solving the classical problem.
+
+12
+00:00:52.065 --> 00:00:54.371
+So, when you do the homework,
+
+13
+00:00:54.371 --> 00:00:58.559
+you'll probably be reminded
+of some of this material.
+
+14
+00:01:01.320 --> 00:01:06.050
+Again, I just like to keep in view
+that our objective is to understand
+
+15
+00:01:06.050 --> 00:01:07.960
+real physical systems.
+
+16
+00:01:07.960 --> 00:01:10.930
+And maybe some of you are tiring
+of seeing these spectral lines,
+
+17
+00:01:10.930 --> 00:01:15.840
+but I never get tired of them.
+
+18
+00:01:15.840 --> 00:01:20.210
+Okay, here's where we left things
+at the end of the last lecture.
+
+19
+00:01:20.210 --> 00:01:24.470
+We have these two constants in motion,
+energy and angular momentum and
+
+20
+00:01:24.470 --> 00:01:28.930
+that means we know whatever the initial
+configurations of the particles are,
+
+21
+00:01:28.930 --> 00:01:33.090
+they move in a plain that is
+determined by the initial orientation.
+
+22
+00:01:34.345 --> 00:01:41.125
+And then, the motion in that plane is also
+restricted to have a constant energy.
+
+23
+00:01:41.125 --> 00:01:46.845
+So then basically, there's going to
+be an orbit in the plane, because you
+
+24
+00:01:49.735 --> 00:01:56.350
+can't have a continuous,
+well at any given point,
+
+25
+00:01:56.350 --> 00:02:01.650
+there'll be some limits in the motion
+that are determined by the energy.
+
+26
+00:02:01.650 --> 00:02:02.475
+As we shall see.
+
+27
+00:02:02.475 --> 00:02:09.564
+Okay, now how do we make progress?
+
+28
+00:02:09.564 --> 00:02:14.050
+Well, we started with these two
+first order equations and motion.
+
+29
+00:02:14.050 --> 00:02:21.075
+Now, we then for the vectors r and p.
+
+30
+00:02:21.075 --> 00:02:27.350
+Then, we took scalar products,
+
+31
+00:02:27.350 --> 00:02:31.630
+you might say r is a scalar, r is
+the square root in the scalar product.
+
+32
+00:02:31.630 --> 00:02:36.160
+And we found that there
+was a conserved quantity,
+
+33
+00:02:36.160 --> 00:02:41.790
+the energy that just depended upon the
+scalar products of the vectors themselves.
+
+34
+00:02:41.790 --> 00:02:47.600
+Then, there was a vector
+constant of motion
+
+35
+00:02:47.600 --> 00:02:50.000
+naming them r cross p,
+that's also a constant in time.
+
+36
+00:02:51.210 --> 00:02:56.090
+Well, what other things
+do we have to look at.
+
+37
+00:02:56.090 --> 00:03:00.720
+Well, from the value of angle momentum,
+
+38
+00:03:02.180 --> 00:03:06.450
+we know that r and p lie in a plane.
+
+39
+00:03:08.810 --> 00:03:17.100
+So, what other independent vectors do
+we have that might lie in the plane.
+
+40
+00:03:17.100 --> 00:03:21.720
+I think you'll easily see that
+these two are cross L and
+
+41
+00:03:21.720 --> 00:03:26.710
+p cross L both lie in
+the same plane as r and p.
+
+42
+00:03:26.710 --> 00:03:29.610
+So, maybe there's some advantage.
+
+43
+00:03:29.610 --> 00:03:32.060
+And they're independent variables.
+
+44
+00:03:32.060 --> 00:03:35.860
+Maybe, there's some advantage to
+looking at the equations of motion.
+
+45
+00:03:35.860 --> 00:03:41.159
+When framed in terms of
+these two new factors.
+
+46
+00:03:41.159 --> 00:03:46.146
+Because after all, since they line
+the same plane, it's quite possible
+
+47
+00:03:46.146 --> 00:03:51.141
+that there's a simpler relationship
+between all four of these vectors.
+
+48
+00:03:51.141 --> 00:03:55.879
+Than is, that meets the eye right now.
+
+49
+00:03:55.879 --> 00:03:58.042
+Okay, let's see what progress we can make.
+
+50
+00:03:58.042 --> 00:04:03.802
+So here's let's take our cross L and
+look at it in greater depth,
+
+51
+00:04:03.802 --> 00:04:08.640
+so then we can just say that's,
+that's simply that.
+
+52
+00:04:09.680 --> 00:04:10.720
+R cross P.
+
+53
+00:04:12.130 --> 00:04:16.520
+Which is then just substituting for
+r and r dot takes that form.
+
+54
+00:04:20.890 --> 00:04:26.000
+Now, were going to invoke
+a well known vector
+
+55
+00:04:26.000 --> 00:04:31.030
+identity to this is the so
+called bac-cab rule.
+
+56
+00:04:33.520 --> 00:04:38.770
+Again, this is going to come up again in
+the Quantum Theory of Angular Momentum.
+
+57
+00:04:38.770 --> 00:04:44.450
+So, it's a good idea for you to at least
+be aware that such a thing exists,
+
+58
+00:04:44.450 --> 00:04:48.990
+and then later on we'll see how you'll
+develop a sort of vector calculus
+
+59
+00:04:48.990 --> 00:04:51.760
+that will help you easily rederive it.
+
+60
+00:04:51.760 --> 00:04:56.640
+So this is how you,
+when you have two cross products,
+
+61
+00:04:56.640 --> 00:04:59.070
+you can reduce them and simplify them.
+
+62
+00:04:59.070 --> 00:05:01.400
+And so that gives.
+
+63
+00:05:03.090 --> 00:05:08.146
+When one goes through the math,
+
+64
+00:05:08.146 --> 00:05:15.880
+here's this just rewriting that identity.
+
+65
+00:05:15.880 --> 00:05:20.790
+Then from the bac-cab rule,
+you get something that's
+
+66
+00:05:20.790 --> 00:05:23.330
+proportionate to the position vector and
+the velocity vector.
+
+67
+00:05:25.340 --> 00:05:27.830
+And now, a remarkable thing happens.
+
+68
+00:05:29.060 --> 00:05:34.760
+When you simplify this and I think it's
+really worth your writing notes on this or
+
+69
+00:05:34.760 --> 00:05:39.060
+freezing the screen,
+pausing the screen and taking yourself.
+
+70
+00:05:39.060 --> 00:05:45.709
+This is a very elementary derivation,
+
+71
+00:05:45.709 --> 00:05:51.350
+just a sequence of simple steps,
+
+72
+00:05:51.350 --> 00:05:56.385
+and you see what it gives you is
+
+73
+00:05:56.385 --> 00:06:02.428
+that R cross L is the time derivative
+
+74
+00:06:02.428 --> 00:06:08.090
+of the unit vector times r cubed.
+
+75
+00:06:10.060 --> 00:06:15.040
+Now, what about p cross L?
+
+76
+00:06:15.040 --> 00:06:21.030
+Let's look at its, let's look at
+the time derivative of P cross L.
+
+77
+00:06:21.030 --> 00:06:25.650
+So that is just, I mean this is an obvious
+
+78
+00:06:25.650 --> 00:06:30.510
+identity since L dot is zero and
+so we now get.
+
+79
+00:06:32.760 --> 00:06:35.650
+Another cross product for r cross L.
+
+80
+00:06:35.650 --> 00:06:40.458
+So, in other words, well,
+let's just see where that takes us.
+
+81
+00:06:44.150 --> 00:06:50.315
+So, you see that r cross
+
+82
+00:06:50.315 --> 00:06:57.910
+L Is equal to r cubed times
+unit vector of r dots.
+
+83
+00:06:57.910 --> 00:07:01.850
+So, this equation implies
+
+84
+00:07:03.500 --> 00:07:07.796
+that r unit vector dot is equal to
+
+85
+00:07:07.796 --> 00:07:13.330
+minus r cross L,
+
+86
+00:07:13.330 --> 00:07:19.490
+divided by r cubed, but
+you see that's what we have here.
+
+87
+00:07:20.980 --> 00:07:26.030
+So, that means that this vector the sum
+
+88
+00:07:26.030 --> 00:07:30.809
+of p cross L and
+the unit vector of r is a constant motion.
+
+89
+00:07:32.310 --> 00:07:35.350
+This is often called
+the Runge Lens vector.
+
+90
+00:07:35.350 --> 00:07:40.930
+There's a Wikipedia article on this
+that's very, very useful, very readable,
+
+91
+00:07:40.930 --> 00:07:47.470
+very informative but I hope I've
+given you a path to rederiving it.
+
+92
+00:07:47.470 --> 00:07:50.690
+Actually, when you know
+that something exists.
+
+93
+00:07:50.690 --> 00:07:55.680
+When you know that there's something
+involving p cross L the results
+
+94
+00:07:55.680 --> 00:08:00.580
+in the cost of the motion then you
+should be able to calculate it again for
+
+95
+00:08:00.580 --> 00:08:01.130
+this system.
+
+96
+00:08:02.980 --> 00:08:06.140
+Now, the remarkable thing here we are we
+have the energy, we have the [INAUDIBLE],
+
+97
+00:08:06.140 --> 00:08:08.410
+we have the Runge-Lenz vector.
+
+98
+00:08:08.410 --> 00:08:13.621
+The remarkable thing is that the,
+in some sense, the identification
+
+99
+00:08:13.621 --> 00:08:19.291
+of the Runge-Lenz vector solves
+the problem for us because, look at this.
+
+100
+00:08:19.291 --> 00:08:28.740
+Let's calculate the scalar product of r.A,
+
+101
+00:08:28.740 --> 00:08:34.078
+which is r A Cosine phi if.
+
+102
+00:08:37.336 --> 00:08:43.826
+This is r, and that's A and that's phi.
+
+103
+00:08:43.826 --> 00:08:51.574
+So, first of all we know that
+A lies in the same plane.
+
+104
+00:08:51.574 --> 00:08:58.150
+As r and p, and so we now know,
+
+105
+00:08:58.150 --> 00:09:02.098
+so that means that
+
+106
+00:09:02.098 --> 00:09:07.887
+the location of r is more or
+
+107
+00:09:07.887 --> 00:09:13.151
+less precisely defined
+
+108
+00:09:13.151 --> 00:09:17.380
+by the angle phi.
+
+109
+00:09:17.380 --> 00:09:24.260
+Okay, but now taking r.A just from here,
+using this identity,
+
+110
+00:09:24.260 --> 00:09:32.150
+to r A consign phi is this quantity here.
+
+111
+00:09:32.150 --> 00:09:38.593
+Now, here is here is one of these
+vector identities A dot B cross C.
+
+112
+00:09:38.593 --> 00:09:44.820
+I hope you recognize what to do with that.
+
+113
+00:09:44.820 --> 00:09:50.730
+And if you can recall their identity, you
+can use it to complete the inline quiz or
+
+114
+00:09:50.730 --> 00:09:55.160
+you can try computing
+that directly yourself.
+
+115
+00:09:56.340 --> 00:09:58.160
+And in any event,
+let's have a look at the quiz.
+
+116
+00:09:59.970 --> 00:10:04.955
+Okay, so dealing with this
+
+117
+00:10:04.955 --> 00:10:08.863
+it's A dot B cross c.
+
+118
+00:10:10.820 --> 00:10:12.630
+There's a cyclic identity.
+
+119
+00:10:12.630 --> 00:10:17.700
+That's equal to, let's say we move
+everything around cyclically.
+
+120
+00:10:17.700 --> 00:10:23.057
+That's equal to
+
+121
+00:10:23.057 --> 00:10:30.330
+C.(A x B) = B dot C.
+
+122
+00:10:30.330 --> 00:10:37.630
+C cross
+
+123
+00:10:41.580 --> 00:10:42.920
+A.
+And so on.
+
+124
+00:10:42.920 --> 00:10:44.380
+And so in other words,
+
+125
+00:10:45.390 --> 00:10:49.310
+this term just reduces to
+the square of the angular momentum.
+
+126
+00:10:49.310 --> 00:10:51.380
+And so now, let's see.
+
+127
+00:10:51.380 --> 00:10:53.874
+I'm sorry for making such a mess here.
+
+128
+00:10:53.874 --> 00:10:55.545
+Let's try to get rid of it.
+
+129
+00:10:58.306 --> 00:11:02.649
+It's a very straightforward derivation.
+
+130
+00:11:02.649 --> 00:11:09.081
+Well, now you see we have a very simple
+equation that relates r and phi.
+
+131
+00:11:15.136 --> 00:11:16.770
+Thusly.
+
+132
+00:11:16.770 --> 00:11:19.810
+So, here is an equation
+that defines the orbit.
+
+133
+00:11:19.810 --> 00:11:24.310
+It shows r as A rather simple
+function of the angle phi.
+
+134
+00:11:24.310 --> 00:11:29.350
+And that's,
+apart from specifying the origin of
+
+135
+00:11:29.350 --> 00:11:34.100
+time or once you have the values
+of these constants to
+
+136
+00:11:34.100 --> 00:11:38.300
+the motion,
+things pretty much fall into place.
+
+137
+00:11:39.700 --> 00:11:42.670
+So let's see, we've gone on for
+quite a while.
+
+138
+00:11:43.720 --> 00:11:45.990
+So one final calculation
+that we'll do here.
+
+139
+00:11:47.600 --> 00:11:55.020
+We have, this is by the way, an orbit
+which can be a circle, an ellipse or
+
+140
+00:11:55.020 --> 00:12:01.140
+a hyperbole and the distinction between
+those depends upon the energies.
+
+141
+00:12:01.140 --> 00:12:09.750
+There's one last calculation that is worth
+doing and that is to calculate A squared.
+
+142
+00:12:09.750 --> 00:12:12.990
+And I'm going to leave that
+to you as an exercise.
+
+143
+00:12:12.990 --> 00:12:18.110
+It's worth doing because it's a fairly
+straight forward calculation and
+
+144
+00:12:18.110 --> 00:12:22.990
+this is, that calculation gives us
+a relationship between the magnitude of
+
+145
+00:12:22.990 --> 00:12:27.800
+A between the energy and the angle.
+
+146
+00:12:27.800 --> 00:12:32.710
+So in other words, the energy angle,
+the angle momentum, and
+
+147
+00:12:32.710 --> 00:12:36.760
+the Runge-Lenz vector are each
+constants in motion but
+
+148
+00:12:36.760 --> 00:12:42.510
+as this equation shows they
+are not entirely dependent.
+
+149
+00:12:42.510 --> 00:12:49.170
+Okay forgive me but these is literally
+the last of the in line quizzes.
+
+150
+00:12:49.170 --> 00:12:54.380
+For the moment, and what, what it's
+going to be used for is to show you
+
+151
+00:12:57.100 --> 00:13:01.750
+the significance of
+the value of the energy.
+
+152
+00:13:01.750 --> 00:13:06.394
+In other words for this system,
+as we'll see, the energy can be any,
+
+153
+00:13:06.394 --> 00:13:08.535
+well let's just take the quiz.
+
+154
+00:13:11.403 --> 00:13:16.462
+So I hope you persuaded
+yourself that the energy
+
+155
+00:13:16.462 --> 00:13:21.395
+of this system can be
+absolutely anything from
+
+156
+00:13:21.395 --> 00:13:26.190
+between minus infinity and infinity.
+
+157
+00:13:26.190 --> 00:13:33.620
+For example, you can have the momentum
+vanish at some given time.
+
+158
+00:13:33.620 --> 00:13:38.340
+You just have these god like powers for
+specifying these conditions.
+
+159
+00:13:38.340 --> 00:13:44.910
+You can keep p at 0 and then bring
+the particles arbitrarily together,
+
+160
+00:13:44.910 --> 00:13:48.550
+arbitrarily large, negative energy or
+
+161
+00:13:48.550 --> 00:13:53.729
+you can move to some finite value of r and
+
+162
+00:13:53.729 --> 00:13:58.750
+then crank up the value of
+p to whatever you need.
+
+163
+00:13:58.750 --> 00:14:00.630
+You can make it as positive as you'd like.
+
+164
+00:14:00.630 --> 00:14:05.290
+And once you fix the energy,
+it stays that way for all time.
+
+165
+00:14:05.290 --> 00:14:11.090
+And now the critical thing to remember,
+this has to do with
+
+166
+00:14:11.090 --> 00:14:16.818
+some of the readings in the supplementary
+material would be in the homework.
+
+167
+00:14:16.818 --> 00:14:23.460
+Is that there's a point of separation
+
+168
+00:14:23.460 --> 00:14:27.880
+between positive energies or between
+negative energies and positive energies.
+
+169
+00:14:27.880 --> 00:14:30.620
+So when the energy is less than 0.
+
+170
+00:14:30.620 --> 00:14:34.390
+All the orbits are elliptical, so
+
+171
+00:14:34.390 --> 00:14:37.200
+these are like the orbits of
+the planets about the sun.
+
+172
+00:14:38.860 --> 00:14:43.310
+You can get the highly elliptical orbits,
+their far distance away.
+
+173
+00:14:43.310 --> 00:14:48.410
+Those orbits have negative energies,
+but they're approaching zero.
+
+174
+00:14:49.650 --> 00:14:51.480
+For e greater than zero,
+
+175
+00:14:51.480 --> 00:14:55.520
+you have a type of trajectory
+where let's say here's the proton,
+
+176
+00:14:55.520 --> 00:15:01.380
+the electron comes in and just,
+it just visits once and never leaves.
+
+177
+00:15:02.810 --> 00:15:06.070
+So these two types of classical orbits
+
+178
+00:15:06.070 --> 00:15:08.490
+actually have counter parts on
+the Quantum Mechanical Spectrum.

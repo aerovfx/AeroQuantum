@@ -1,0 +1,1038 @@
+WEBVTT
+
+WEBVTT
+
+00:00.760 --> 00:01.710
+Hi everyone.
+
+00:01.710 --> 00:04.710
+Today I want to look at another problem in electoral statics.
+
+00:04.830 --> 00:08.280
+I want to look at a dipole placed in an electric field this time.
+
+00:09.900 --> 00:11.400
+So we're going to get a couple different cases.
+
+00:11.400 --> 00:15.930
+I'm going to start with the simplest which is just a couple of dye Poles placed in a constant electric
+
+00:15.930 --> 00:16.960
+field.
+
+00:17.010 --> 00:18.600
+We're gonna look at the talk on the dipole.
+
+00:18.600 --> 00:24.120
+We're going to look at the energy associated with rotating a dye pole in that field and in the second
+
+00:24.120 --> 00:28.770
+case I want to actually make the field very in space.
+
+00:29.330 --> 00:32.530
+So we place the dipole in an in homogeneous electric field.
+
+00:32.590 --> 00:33.780
+We're going to see what happens to it.
+
+00:34.590 --> 00:37.950
+So here are a couple of cases there's dipole no one cares dipole number two.
+
+00:38.300 --> 00:43.580
+And now I'm going to place it in an electric field one.
+
+00:44.430 --> 00:47.010
+That's just make the field lines uniform.
+
+00:47.760 --> 00:53.770
+So I'm not telling you what produces the electric field I'm just telling you there is one in space and
+
+00:53.770 --> 00:59.620
+I'm placing dipole number one at an angle with respect to the electric field and dipole number to them
+
+00:59.620 --> 01:00.960
+and to place it at a different angle.
+
+01:00.970 --> 01:06.730
+With respect to the electric field so let's go see what's going to happen to these dye poles.
+
+01:06.790 --> 01:10.520
+First thing we can look at are the forces acting on the individual charges.
+
+01:10.640 --> 01:14.170
+No we have a dipole so that has a positive charge and negative charge.
+
+01:14.170 --> 01:15.580
+Separated by a distance
+
+01:18.520 --> 01:24.130
+there will be an electric force acting on the positive charge and electric forces in the same direction
+
+01:24.130 --> 01:26.260
+as the electric field.
+
+01:26.500 --> 01:31.650
+The electric force acting on the negative charge is going to be in this direction.
+
+01:31.990 --> 01:34.100
+The electric force is in the opposite direction.
+
+01:34.100 --> 01:37.130
+The electric field for negative charges.
+
+01:37.150 --> 01:38.080
+Well what about this guy.
+
+01:38.500 --> 01:39.780
+Let's look at dipole number two.
+
+01:39.780 --> 01:41.680
+Let's look at all the forces acting on dipole.
+
+01:41.680 --> 01:48.400
+Number two we have electric force acting on the positive side and we have a force acting on the negative
+
+01:48.400 --> 01:49.480
+side.
+
+01:52.420 --> 01:55.060
+So there is a difference between both of these pictures right.
+
+01:55.480 --> 02:03.250
+In case number one you notice that both of these forces are acting in opposite directions and they're
+
+02:03.250 --> 02:09.900
+going to tend to make the object rotate like this dipole will rotate in an electric field Hello.
+
+02:09.900 --> 02:16.990
+Case number two case number two simply have forces that are tending to stretch the dipole they don't
+
+02:16.990 --> 02:19.570
+tend to make the object rotate.
+
+02:19.700 --> 02:19.990
+OK.
+
+02:20.020 --> 02:25.300
+So when we're going to look at this a little bit more detail in a minute you're going to see that these
+
+02:25.300 --> 02:32.690
+forces on a dipole and this orientation will produce a talk on the dipole.
+
+02:33.010 --> 02:38.640
+Whereas if the dipole is oriented in the direction of the field or opposite of the field we're going
+
+02:38.630 --> 02:44.830
+to show that there is no torque because these forces don't tend to make the object rotate.
+
+02:44.860 --> 02:46.090
+Where in this case they do.
+
+02:46.930 --> 02:52.870
+So let's go to the interactive whiteboard and look at a couple specific examples.
+
+02:52.900 --> 02:53.140
+OK.
+
+02:53.170 --> 02:59.890
+So here we have our dipole again placed in our field the positive and negative charges are separated
+
+02:59.890 --> 03:01.950
+by distance let's call it D.
+
+03:03.110 --> 03:08.660
+And what I want to do now is I want to look at the torque produced by each one of these forces.
+
+03:08.710 --> 03:16.270
+So in order to calculate the the talk I remember that the force first has a magnitude of the charge
+
+03:17.170 --> 03:19.430
+times the electric field.
+
+03:19.930 --> 03:25.690
+And if we want to look at the torque produced by a constant force remember what that was.
+
+03:25.690 --> 03:27.190
+It was the distance to the pivot.
+
+03:27.220 --> 03:28.880
+Let's put the pivot right at the midpoint.
+
+03:29.020 --> 03:30.470
+So the distance to the pivot.
+
+03:30.640 --> 03:35.840
+So that's where the force is being applied is deep over to.
+
+03:36.220 --> 03:45.740
+It's the magnitude of the force which is f multiplied now times sign of the angle theta.
+
+03:46.020 --> 03:53.480
+And remember with the angle theta is in this particular case the angle theta is defined as this and
+
+03:53.500 --> 03:59.050
+that is the torque produced on or by the force acting on the positive charge.
+
+03:59.050 --> 04:04.690
+We also have to consider the torque produced by the force down over here on the negative charge.
+
+04:04.690 --> 04:06.870
+That one's going to have the exact same magnitude.
+
+04:06.910 --> 04:12.130
+The distance to the pivot is d over to the magnitude of the force is the same because we're looking
+
+04:12.130 --> 04:17.130
+at a dipole and the charge is the same and sign of the angle theta.
+
+04:18.220 --> 04:23.250
+Okay so we're just about done here and we want to look at the network.
+
+04:23.350 --> 04:25.030
+Remember this year only gives you the magnitude.
+
+04:25.030 --> 04:29.860
+However the direction is going to be the same for both of them.
+
+04:29.860 --> 04:32.320
+Let me add the directional were here.
+
+04:32.620 --> 04:37.870
+If this force over here on the positive charge is the only force acting on the system it's going to
+
+04:37.870 --> 04:41.540
+tend to make it rotate clockwise.
+
+04:41.540 --> 04:42.860
+How about the negative one.
+
+04:42.880 --> 04:48.010
+Again if the force down here is the only force acting on the dipole it's going to also tend to make
+
+04:48.010 --> 04:49.670
+it rotate clockwise.
+
+04:49.810 --> 04:51.380
+That's in the same direction.
+
+04:51.430 --> 04:54.510
+Therefore both of those vectors are in the same direction.
+
+04:54.940 --> 05:02.290
+So the net torque is simply going to be just the sum of both of those at the end of the day you get
+
+05:02.530 --> 05:06.700
+to and since they have the exact same magnitude.
+
+05:06.790 --> 05:12.550
+I'll go ahead now and substitute in the magnitude of the force F which is simply the charge times the
+
+05:12.550 --> 05:15.890
+magnitude of the field time sign of theta.
+
+05:16.090 --> 05:21.650
+And that's our net torque acting on the dipole.
+
+05:21.690 --> 05:23.620
+I could simplify this a little bit.
+
+05:23.620 --> 05:25.400
+This too will cancel without one.
+
+05:26.090 --> 05:33.980
+Let's go ahead and just write our final equation for the talk on a dipole can be written as Q D.
+
+05:35.530 --> 05:41.120
+E sign of theta so that's kind of a useful formula here.
+
+05:41.130 --> 05:49.020
+Remember you can also take this a step further and that's typically what people do is we're going to
+
+05:49.020 --> 05:57.030
+define a quantity and define a quantity you call the dipole moment.
+
+05:57.030 --> 06:03.610
+And in this case it's the electric dipole moment the electric dipole moment.
+
+06:03.990 --> 06:05.700
+We give it the letter P.
+
+06:05.700 --> 06:11.820
+It's actually going to be a vector and the magnitude of the vector is simply going to be the charge
+
+06:11.820 --> 06:12.770
+of the dipole.
+
+06:13.290 --> 06:20.670
+So the charge of either the positive or the negative multiplied times the distance between the two charges
+
+06:21.390 --> 06:31.800
+and the direction the convention is it points toward the positive charge points toward
+
+06:34.750 --> 06:38.280
+positive charge.
+
+06:38.780 --> 06:47.780
+OK so in this figure here if I'm going to plot with his vector P looks like the vector P basically points
+
+06:47.780 --> 06:51.170
+in this direction here.
+
+06:51.390 --> 06:54.820
+That is our dipole moment associated with that dipole.
+
+06:54.930 --> 07:01.590
+And the reason we're gonna want to define a dipole moment is because the talk now you can actually write
+
+07:01.590 --> 07:04.510
+it as a vector equation.
+
+07:04.580 --> 07:16.290
+The talk is a vector can be written very simply as our dipole moment vector cross product with the electric
+
+07:16.290 --> 07:19.040
+field.
+
+07:19.910 --> 07:20.630
+So there you have it.
+
+07:20.630 --> 07:24.110
+That is the same equation as the one I wrote up here.
+
+07:24.110 --> 07:31.520
+Remember how you expand a cross product is you take the magnitude of one vector multiplied by the magnitude
+
+07:31.520 --> 07:37.130
+of the other vector and then you multiply by sign of the angle between the two vectors.
+
+07:37.790 --> 07:41.600
+So in this specific case let me draw the vectors on the side here.
+
+07:41.720 --> 07:45.650
+So we have our dipole moment vector which is like this.
+
+07:45.650 --> 07:50.690
+It has a vector P which has a magnitude of the charge.
+
+07:50.690 --> 07:59.380
+Times the distance between the two our vector E is in this direction.
+
+08:00.290 --> 08:06.050
+That's the direction the electric field and the angle theta that goes into our talk equation is the
+
+08:06.050 --> 08:12.400
+angle between the dipole moment vector and the electric field vector.
+
+08:13.390 --> 08:23.280
+So in this direction here ends up being perpendicular to the dipole moment vector and the electric field
+
+08:23.280 --> 08:24.650
+vector.
+
+08:25.470 --> 08:31.560
+If things are in the plane like this usually you can pick a direction for the talk is being either clockwise
+
+08:31.560 --> 08:35.730
+or counterclockwise and that's kind of what I've done up here.
+
+08:38.080 --> 08:47.490
+OK so there you have it folks there is the talk of produced by an electric field on a dipole so it depends
+
+08:47.490 --> 08:48.350
+on the angle.
+
+08:48.450 --> 08:52.680
+We have our general equation here which is P E sign of theta.
+
+08:52.950 --> 08:57.090
+So we have a couple specific cases to look at.
+
+08:57.090 --> 09:01.640
+For example when is the torque a maximum value
+
+09:04.960 --> 09:12.970
+well for any given Dipole which has a dipole moment P the maximum angle or the maximum torque will be
+
+09:12.970 --> 09:16.390
+produced when sign of theta equals the one.
+
+09:16.630 --> 09:23.680
+When we have sign of theta equals the one that's going to produce the maximum torque for any given electric
+
+09:23.680 --> 09:32.530
+field and dipole and we get that when the dipole moment P is perpendicular to the electric field.
+
+09:32.740 --> 09:42.340
+Because in that case our angle theta is actually 90 degrees and the torque simply going to be the dipole
+
+09:42.340 --> 09:47.680
+moment times the electric field time sign of 90 which is 1.
+
+09:47.740 --> 09:48.310
+So that's it.
+
+09:48.300 --> 09:51.300
+The magnitude of the talk is simply this.
+
+09:53.800 --> 09:59.530
+If you want to write it now in terms of the charge remember you can simply do that with the charge.
+
+09:59.530 --> 10:03.810
+Times the distance between the positive and negative charge.
+
+10:03.970 --> 10:08.630
+Times the electric field and that's the magnitude of the talk.
+
+10:10.160 --> 10:13.860
+Okay so let's compare the two cases I had on a board now.
+
+10:13.860 --> 10:18.810
+So we have dipole one which is located in a constant electric field.
+
+10:18.850 --> 10:25.720
+However it makes an angle of 30 degrees with respect to the electric field whereas in case number two
+
+10:26.140 --> 10:31.120
+you have the dipole that's in the same direction as the electric field and in both cases we want to
+
+10:31.120 --> 10:33.710
+look at the torque acting on the dipole.
+
+10:33.760 --> 10:39.160
+Again we can look at each individual charge look at the forces however I want to use the formulae we
+
+10:39.160 --> 10:46.500
+had in the previous case which said that the talk is p cross E for both cases.
+
+10:46.510 --> 10:50.760
+Remember how that vector P was defined that was our dipole moment.
+
+10:51.190 --> 11:02.200
+The vector P was the charge q TIMES the distance between the two charges and the direction was from
+
+11:02.350 --> 11:04.680
+the negative to the positive.
+
+11:05.950 --> 11:08.560
+Negative to positive.
+
+11:09.970 --> 11:17.710
+So let's draw the vectors P and E for both of these cases for dipole 1 and dipole number 2.
+
+11:17.710 --> 11:19.980
+So here's what we have for dipole number 1.
+
+11:20.500 --> 11:23.740
+Here's the vector P.
+
+11:23.740 --> 11:24.910
+Here's our electric field
+
+11:28.650 --> 11:32.820
+and I've said that the angle here was 30 degrees
+
+11:37.030 --> 11:37.610
+all right.
+
+11:37.610 --> 11:40.730
+Compare that to case number two case number two.
+
+11:40.730 --> 11:45.150
+Again our dipole moment vector goes from negative to positive.
+
+11:45.320 --> 11:47.240
+So in that case it's the same magnitude.
+
+11:47.270 --> 11:49.450
+However the orientation is different.
+
+11:49.610 --> 11:57.380
+That's the direction of P and the direction of e is also in this direction.
+
+11:57.410 --> 12:03.400
+So in this case the angle between them is equal to zero degrees.
+
+12:03.560 --> 12:08.120
+So if we apply our torque equation and we want to find how big the talk is so let's just look at the
+
+12:08.120 --> 12:12.080
+magnitude of the torque the magnitude of the talk or simply BP.
+
+12:13.420 --> 12:23.690
+E time sign of 30 degrees so that's q TIMES THE DISTANCE BETWEEN THE POSITIVE AND NEGATIVE CHARGE.
+
+12:23.690 --> 12:29.360
+Times the magnitude of the field and sign of 30 degrees.
+
+12:30.470 --> 12:31.520
+So one last step.
+
+12:31.520 --> 12:35.980
+Q d e divided by two.
+
+12:36.320 --> 12:42.770
+All right compare that to this case the net torque acting on dipole number two is simply going to be
+
+12:42.770 --> 12:45.150
+PS The same is the same.
+
+12:45.290 --> 12:50.660
+However we have sign of zero degrees and sign of zero degrees is zero.
+
+12:50.660 --> 12:58.790
+Therefore the net torque acting on dipole number two is zero whereas the net torque for dipole number
+
+12:58.800 --> 13:03.270
+one definitely non-zero.
+
+13:03.350 --> 13:10.740
+So what we're gonna have here is in this case we're going to get some rotation of the dipole.
+
+13:10.940 --> 13:12.880
+In this case no rotation
+
+13:18.080 --> 13:18.670
+I'm.
+
+13:18.730 --> 13:23.680
+You look at the potential energy of a dive hole in a field again I'm going to use this definition of
+
+13:23.680 --> 13:28.540
+our electric dipole moment which is a vector that pointed from the negative charge to the positive charge
+
+13:31.400 --> 13:38.720
+and we can write the potential energy of a dipole in a constant electric field in terms of the electric
+
+13:38.720 --> 13:44.870
+field as dipole moment as p dot e.
+
+13:44.870 --> 13:51.110
+This is a scalar product so if you want to write that in terms of the angle between both of those vectors
+
+13:51.600 --> 14:01.940
+and just in terms of the magnitudes simply minus p e times cos of theta so that's kind of an important
+
+14:01.940 --> 14:02.480
+equation.
+
+14:04.160 --> 14:12.200
+So again the energy can range over a whole whole series of values because the angle fade I can place
+
+14:12.200 --> 14:18.740
+this dipole at any orientation with respect to the electric field you can look at when the potential
+
+14:18.740 --> 14:21.200
+energy is a maximum.
+
+14:21.210 --> 14:27.980
+So when when we have a maximum value for this potential energy we'd have a maximum value whenever the
+
+14:28.760 --> 14:37.250
+angle theta is equal to 180 degrees when the angle theta is equal to 180 degrees cos of 1 A.D. minus
+
+14:37.250 --> 14:38.290
+1.
+
+14:38.330 --> 14:47.450
+So the energy of the dipole in the field is P is you get minus p e times coast of 180 which is minus
+
+14:47.450 --> 14:55.400
+1 which cancels with the original one we get a minimum value of the potential energy when the angle
+
+14:55.520 --> 14:57.230
+theta equal to zero.
+
+14:57.230 --> 15:01.590
+In that case that's when the dipole moment is aligned with the electric field.
+
+15:01.610 --> 15:07.370
+In that case you have a minimum potential energy and the energy of the dipole in this case is minus
+
+15:07.370 --> 15:14.930
+p and there is a case where the potential energy is equal to zero right the potential energy equals
+
+15:14.930 --> 15:25.940
+to zero when the angle is 90 degrees in that case zero is when our angle theta equals 90 degrees the
+
+15:25.940 --> 15:30.970
+potential energy of the dipole is equal to zero.
+
+15:30.990 --> 15:31.980
+Okay.
+
+15:32.240 --> 15:35.680
+The actual values of potential energy aren't really that interesting.
+
+15:35.750 --> 15:41.420
+What's more interesting is when you change all right when we change the energy or when we try to rotate
+
+15:41.420 --> 15:47.530
+the dipole we might be asked how much work is needed to rotate a dipole in an electric field.
+
+15:47.540 --> 15:50.540
+We know there's forces that the field produces on the charge.
+
+15:50.540 --> 15:53.860
+So if I wanted to rotate I have to do work on the system.
+
+15:54.140 --> 15:57.350
+So let's look at this specific case here down at the bottom that I've sketched out.
+
+15:57.950 --> 16:03.350
+So I have an initial dipole where the dipole moment is aligned in the same direction as my electric
+
+16:03.350 --> 16:11.120
+field shown in red and in the final position I simply want to rotate this dipole by 180 degrees by some
+
+16:11.120 --> 16:16.580
+mechanism I'm not really showing you but I'm just giving you the initial and the final steps.
+
+16:16.580 --> 16:21.710
+What the orientation of dipole looks like in the field and we want to calculate how much energy is stored
+
+16:21.710 --> 16:26.360
+in the system or how much work did you have to do to accomplish this.
+
+16:26.390 --> 16:31.240
+So calculate how much work you needed to do.
+
+16:31.340 --> 16:38.040
+You simply have to look at the work needed.
+
+16:38.260 --> 16:41.550
+Basically just the change in potential energy.
+
+16:42.070 --> 16:43.180
+If you're not sure about this.
+
+16:43.180 --> 16:44.820
+Think about just the mass right.
+
+16:44.860 --> 16:52.840
+If I just have a mass on the ground and I want to lift it up all the way up to here and lift it up through
+
+16:52.840 --> 16:59.380
+some height if I want to know how much energy is required to do this all you have to do is simply compare
+
+16:59.380 --> 17:03.280
+the potential energy at the top versus the bottom.
+
+17:03.460 --> 17:08.770
+In this case you usually set the potential energy equal to zero at the bottom and the potential energy
+
+17:08.770 --> 17:11.390
+in the final step is simply M.G. H.
+
+17:12.760 --> 17:19.330
+So the amount of energy required to raise this mass a certain distance H is simply equal to M.G. H.
+
+17:19.330 --> 17:23.430
+You look at the change of potential energy in the system.
+
+17:23.590 --> 17:29.800
+That's exactly what we're going to do here for the dipole except the potential energy is not simply
+
+17:29.800 --> 17:34.870
+given by the mass times the gravity times the height above the ground.
+
+17:35.050 --> 17:41.050
+The potential energy for a dipole in a field is given by our other expression here which is negative
+
+17:41.250 --> 17:46.470
+dipole moment times the electric field times cos of the angle between both of those vectors.
+
+17:46.690 --> 17:50.260
+So the work needed is the change in potential energy.
+
+17:50.260 --> 17:55.770
+That's a final potential energy minus an initial potential energy.
+
+17:55.790 --> 17:59.160
+Now those are going to be different from each other because the angle is different in each case.
+
+17:59.170 --> 18:00.280
+You got to be a little bit careful.
+
+18:00.280 --> 18:05.310
+So our final value is simply well how did we start we started.
+
+18:06.210 --> 18:12.010
+So our final value is shown down here and that's the case where the angle is 180 between the dipole
+
+18:12.010 --> 18:14.140
+moment and the electric field.
+
+18:14.140 --> 18:16.080
+I've actually calculated that one right here.
+
+18:16.150 --> 18:24.400
+That was the value of the potential energy of the dipole in the field and so it's simply P minus What's
+
+18:24.400 --> 18:28.770
+the initial value in the initial configuration the dipole moment is a line in the same direction of
+
+18:28.770 --> 18:29.870
+the field.
+
+18:29.950 --> 18:35.410
+That is when the angle is zero degrees have shown that one here and the potential energy is negative
+
+18:35.410 --> 18:38.140
+P.
+
+18:38.590 --> 18:41.410
+So when you include everything together the work needed
+
+18:46.690 --> 18:53.900
+it's simply going to be two times the magnitude of the dipole moment.
+
+18:54.040 --> 19:00.100
+Times the magnitude of the electric field and that is going to be a quantity that's going to have units
+
+19:00.100 --> 19:07.670
+of joules corresponds to the amount of energy that's required in order to accomplish this.
+
+19:07.780 --> 19:09.720
+Notice we're gonna get a positive number.
+
+19:09.850 --> 19:14.710
+We're gonna get a positive number because we have to do work against the electric field in order to
+
+19:14.710 --> 19:16.320
+rotate this object.
+
+19:16.330 --> 19:18.080
+It's not going to rotate by itself.
+
+19:18.160 --> 19:20.150
+You have to put energy into the system.
+
+19:20.350 --> 19:25.940
+And this is how much energy you need to put in in order to rotate this dipole.
+
+19:26.780 --> 19:26.990
+OK.
+
+19:27.010 --> 19:31.600
+Now when to look at what happens when the electric field is not constant compared to the constant case
+
+19:31.600 --> 19:32.640
+over here.
+
+19:32.640 --> 19:37.780
+Now let's just look at the talk the talk for case number one where the dipole moment is a line in the
+
+19:37.780 --> 19:42.730
+same direction the field we just saw that the net torque was equal to zero.
+
+19:42.730 --> 19:51.540
+We had forces acting to the right on the positive charge force acting to the left on the negative charge.
+
+19:52.090 --> 19:59.320
+And those forces didn't produce any rotation for the case down or illustrated in the bottom figure if
+
+19:59.320 --> 20:00.880
+the fuel is constant.
+
+20:01.000 --> 20:09.770
+Again we had forces acting at a certain distance from the pivot and those forces produced a torque right
+
+20:09.790 --> 20:12.280
+they would tend to make the object rotate clockwise
+
+20:14.710 --> 20:16.340
+clockwise rotation.
+
+20:16.570 --> 20:24.630
+The magnitude of the talk was given by our dipole moment the magnitude of the electric field times a
+
+20:24.850 --> 20:28.120
+sign of the angle between them.
+
+20:28.120 --> 20:33.940
+If you substituted in our value for the dipole moment or the magnitude of the dipole moment which is
+
+20:33.940 --> 20:40.510
+simply Q times D sine and theta so that's the talk.
+
+20:40.630 --> 20:47.590
+One thing I didn't mentioned before however it's very very important when you write this down is the
+
+20:47.590 --> 20:54.400
+forces for case number two even for case number one the forces balance out actually is although they
+
+20:54.400 --> 20:57.320
+do produce a talk for case number two.
+
+20:57.610 --> 21:06.160
+The net force acting on the dipole is equal to zero because the charge is the same.
+
+21:06.160 --> 21:07.990
+The electric field is the same.
+
+21:08.320 --> 21:11.740
+These forces are equal in opposite directions.
+
+21:11.740 --> 21:18.960
+They produce a torque however they don't produce an acceleration of the dipole.
+
+21:19.000 --> 21:20.730
+You'll simply rotate it.
+
+21:20.800 --> 21:27.830
+You're not going to move the dipole you're not going to lead to any translational motion of the dipole.
+
+21:27.830 --> 21:34.510
+And that's kind of the big important point and the biggest difference here between the case where the
+
+21:34.870 --> 21:40.320
+electric fuel is constant versus when the electric field varies in space.
+
+21:40.870 --> 21:41.940
+So let's have a look at it.
+
+21:42.300 --> 21:48.080
+Okay so now let's compare the case where the key where the electric field is not uniform in space.
+
+21:48.220 --> 21:53.140
+For that I'm going to look at the fuel produced by negative charge and I'm going to place the dipole
+
+21:54.400 --> 22:02.830
+with its dipole moment aligned pointing toward the negative charge and making some angle that is shown
+
+22:02.830 --> 22:04.870
+in the bottom figure over here.
+
+22:05.020 --> 22:08.140
+So let's look at the forces acting on the dipole.
+
+22:08.230 --> 22:13.480
+Well you're gonna have an attractive force between the positive part of the dipole and the negative
+
+22:13.480 --> 22:15.890
+charge.
+
+22:15.890 --> 22:23.510
+So that's going to be a force pointing to the right and you're also going to have a repulsive force
+
+22:23.640 --> 22:30.060
+draw it in a different shade here because these two negatives will repel each other.
+
+22:30.290 --> 22:35.850
+So you're going to have another force pointing to the left this time.
+
+22:36.260 --> 22:39.920
+Let's call that f 2 and call our first one EF 1.
+
+22:39.950 --> 22:46.820
+Now one thing that is different from the case of the constant electric field is that both of the vectors
+
+22:46.820 --> 22:51.510
+for the constant field both of the force vectors had the same magnitude.
+
+22:51.560 --> 22:53.600
+In this case f 1
+
+22:57.260 --> 23:03.520
+in magnitude is going to be bigger than 2.
+
+23:03.710 --> 23:07.330
+Therefore there's going to be a net force acting on it.
+
+23:07.520 --> 23:10.100
+The net force is not equal to zero.
+
+23:10.250 --> 23:18.560
+Like in this case this net force acting on the dipole was equal to zero.
+
+23:18.560 --> 23:27.490
+So that means when the dipole is gonna be attracted to the negative charge if there's a net force there's
+
+23:27.500 --> 23:28.670
+gonna be an acceleration.
+
+23:33.560 --> 23:40.250
+How about the torque well even in this case here there is no torque although there's a net force acting
+
+23:40.250 --> 23:40.920
+on it.
+
+23:40.970 --> 23:50.510
+The torque acting on the dipole is going to be zero and you can see that just by looking at the figure.
+
+23:50.920 --> 23:56.300
+All of these forces do as the forces tend to make the object stretch right.
+
+23:56.320 --> 24:02.680
+They're acting in opposite directions but there's no rotation no rotation
+
+24:06.680 --> 24:07.790
+all right.
+
+24:08.120 --> 24:13.610
+Now take the case now where our dipole moment is again at some angle.
+
+24:13.670 --> 24:21.620
+With respect to the axis joining the negative charge producing another electric field in this particular
+
+24:21.620 --> 24:26.320
+case again we can look at the forces acting on the dipole and the forces.
+
+24:26.380 --> 24:29.080
+You're gonna have an attractive force acting this way.
+
+24:31.460 --> 24:37.170
+And you're going to have again a repulsive force acting away from it.
+
+24:37.300 --> 24:39.920
+Now these vectors have a
+
+24:42.640 --> 24:44.120
+different directions number one.
+
+24:44.140 --> 24:46.560
+So you're still going to have a net force acting on them.
+
+24:46.750 --> 24:51.430
+Both of these -- vectors will never cancel out to give you zero net force because they're in different
+
+24:51.430 --> 24:52.600
+directions.
+
+24:52.840 --> 24:54.400
+So we're gonna have a net force
+
+24:57.560 --> 24:59.560
+not equal to zero.
+
+24:59.590 --> 25:02.770
+In addition you're gonna have a net torque.
+
+25:03.250 --> 25:08.320
+You can calculate the torque by looking at each individual component and repeating the steps we did
+
+25:08.320 --> 25:12.040
+for the regular dial and a constant field.
+
+25:12.040 --> 25:17.260
+You can place a pivot here at the center of the dipole and look at the total torque produced by each
+
+25:17.260 --> 25:19.860
+force and then add them up as vectors.
+
+25:19.960 --> 25:27.400
+So we'd have to do the torque produced by the force F one as a vector plus the torque produced by the
+
+25:27.400 --> 25:30.400
+force F 2 is a vector.
+
+25:30.400 --> 25:35.920
+Each one of these cases I can use my equation I can use it's the distance to the pivot.
+
+25:36.070 --> 25:42.270
+It's the magnitude of the force and time sign the angle between them.
+
+25:42.270 --> 25:42.480
+OK.
+
+25:42.520 --> 25:48.190
+You'd have to do a little bit more algebra but the key point is that you can have a net force in this
+
+25:48.190 --> 25:50.980
+case and you can also have a net torque.
+
+25:51.010 --> 25:55.350
+This is to actually calculate the magnitude is a little bit more complicated
+
+26:00.060 --> 26:06.520
+however the concepts should be clear just by looking at the force diagrams okay.
+
+26:06.530 --> 26:12.810
+So just to summarize the key points we define a new vector today called the DI Paul moment.
+
+26:15.100 --> 26:22.090
+Dipole moment we gave it the letter P and the magnitude anyway it was the charge q of the dipole multiplied
+
+26:22.240 --> 26:29.770
+times the distance between the two charges and the direction was from the negative toward the positive
+
+26:29.770 --> 26:32.620
+charge of the dipole.
+
+26:32.620 --> 26:37.870
+This was particularly useful because you can then use the definition of dipole moment to look at the
+
+26:37.880 --> 26:40.030
+torque acting on a dipole.
+
+26:40.360 --> 26:46.480
+And the talk is simply written as P cross e and if you write that in terms of the magnitude of the torque
+
+26:47.260 --> 26:53.830
+you simply have the magnitude of the vector P the magnitude of our electric field and there's also that
+
+26:53.860 --> 26:59.110
+angular dependence that was really important because there's some orientations in the diaper hole in
+
+26:59.110 --> 27:06.310
+a field where there is no torque acting on it for example if it's parallel or a. parallel.
+
+27:06.910 --> 27:16.120
+The other important point that was that the net force of a dipole in a constant electric field is zero
+
+27:16.820 --> 27:17.640
+is constant
+
+27:21.260 --> 27:27.860
+because you have equal and opposite forces they don't produce a net force acting on the dipole.
+
+27:27.980 --> 27:30.250
+We also discuss potential energy.
+
+27:30.530 --> 27:37.170
+And we looked at a case where the dipole was placed in a constant electric field.
+
+27:37.190 --> 27:41.910
+In that case the potential energy of the dipole is simply minus Pitot e.
+
+27:42.360 --> 27:49.990
+If you expand that scalar product you simply have pea coat of theta.
+
+27:50.140 --> 27:56.850
+Now the actual individual values of the potential energy are really not that interesting.
+
+27:56.860 --> 28:04.240
+What's more interesting is when you change the potential energy of a dipole so you either have to do
+
+28:04.240 --> 28:07.360
+work or electric field does work
+
+28:12.080 --> 28:13.610
+work on the dipole.
+
+28:13.640 --> 28:19.670
+So we looked at one specific case where we rotated the dipole and looked at how much energy is required
+
+28:19.670 --> 28:22.410
+in order to accomplish that rotation.
+
+28:22.430 --> 28:30.590
+The last thing I looked at we looked at placing a dipole in a field that was in homogeneous.
+
+28:30.590 --> 28:31.640
+So it wasn't constant
+
+28:36.920 --> 28:40.330
+and what we found in that case you could still have a talk
+
+28:43.030 --> 28:48.990
+depending on the orientation of the dipole moment with the electric field
+
+28:51.990 --> 28:58.300
+and the major difference between that and the constant electric field was now the net force
+
+29:00.930 --> 29:02.570
+is non-zero.
+
+29:02.940 --> 29:08.010
+So the dipole will not only tend to rotate but it will also tend to accelerate.

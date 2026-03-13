@@ -1,0 +1,1270 @@
+WEBVTT
+
+1
+00:00:00.610 --> 00:00:03.370
+The quantum harmonic
+oscillates the problem.
+
+2
+00:00:03.370 --> 00:00:08.410
+And its solution go far beyond the simple
+
+3
+00:00:08.410 --> 00:00:13.510
+generalization of the particle and
+is bringing problem on classical physics.
+
+4
+00:00:13.510 --> 00:00:19.010
+And they appear in a variety of context
+in quantum physics as already mentioned.
+
+5
+00:00:19.010 --> 00:00:21.920
+For example, electromagnetic radiation
+
+6
+00:00:21.920 --> 00:00:26.590
+can be thought of as a collection of
+harmonic oscillators, the phonons.
+
+7
+00:00:26.590 --> 00:00:28.100
+And much more generally,
+
+8
+00:00:28.100 --> 00:00:33.830
+various complex structures in quantum
+mechanics oftentimes can be thought of
+
+9
+00:00:33.830 --> 00:00:39.730
+as being built of this small building
+blocks being quantum harmonic oscillators.
+
+10
+00:00:39.730 --> 00:00:41.590
+But in each particular piece,
+
+11
+00:00:41.590 --> 00:00:45.172
+the meaning of this individual
+oscillators is different.
+
+12
+00:00:45.172 --> 00:00:48.730
+And today I'm going to show you
+the appearance of this quantum harmonic
+
+13
+00:00:48.730 --> 00:00:52.240
+oscillators in the context of
+a very interesting problem.
+
+14
+00:00:52.240 --> 00:00:58.350
+That is sort of underlies solid state
+physics, or condensed metrophysics.
+
+15
+00:00:58.350 --> 00:01:02.660
+And this is a problem of
+excitations in crystals,
+
+16
+00:01:02.660 --> 00:01:08.250
+which are collections of many,
+many ions that form a periodic structure.
+
+17
+00:01:08.250 --> 00:01:12.770
+And these ions can oscillate, and
+these oscillations, quantum oscillations,
+
+18
+00:01:12.770 --> 00:01:14.060
+are called phonons.
+
+19
+00:01:14.060 --> 00:01:17.760
+And we will see how these phonons appear.
+
+20
+00:01:17.760 --> 00:01:21.370
+And we'll see also that they can be
+described in terms of the creation and
+
+21
+00:01:21.370 --> 00:01:25.540
+oscillation operators that have been
+introduced in the first lecture this week.
+
+22
+00:01:27.210 --> 00:01:31.903
+To understand the concept of a collective
+mode such as a phonon for example.
+
+23
+00:01:31.903 --> 00:01:38.011
+In a complex quantum system, we first
+can go back to classical physics and
+
+24
+00:01:38.011 --> 00:01:42.148
+remind ourselves the notion
+of a normal mode which
+
+25
+00:01:42.148 --> 00:01:46.150
+is equivalent to the quantum
+collective mode.
+
+26
+00:01:46.150 --> 00:01:49.770
+And this normal modes appear
+in complex classical systems.
+
+27
+00:01:49.770 --> 00:01:52.630
+So here I have a primitive
+classical system.
+
+28
+00:01:52.630 --> 00:01:57.200
+If you want this is a simple
+harmonic oscillator.
+
+29
+00:01:57.200 --> 00:02:00.980
+And in this case, as we know,
+the frequency of the oscillation
+
+30
+00:02:00.980 --> 00:02:06.480
+is equal to the square root of
+the stiffness of this spring
+
+31
+00:02:06.480 --> 00:02:11.549
+divided by the mass of this object.
+
+32
+00:02:11.549 --> 00:02:16.060
+Now if we made the system
+a little more complicated,
+
+33
+00:02:16.060 --> 00:02:20.510
+and instead of just one oscillator,
+consider,
+
+34
+00:02:20.510 --> 00:02:26.860
+let's say two masses attached to
+let's say three springs in this case.
+
+35
+00:02:26.860 --> 00:02:32.350
+So we have a system here with
+two degrees of freedom and
+
+36
+00:02:32.350 --> 00:02:37.890
+this system will have two
+different oscillation frequencies.
+
+37
+00:02:37.890 --> 00:02:40.810
+Responding to different times
+of oscillation motions.
+
+38
+00:02:40.810 --> 00:02:43.260
+So, for instance, this type of motion.
+
+39
+00:02:43.260 --> 00:02:49.373
+When the two masses sort of
+oscillate in phase with one another.
+
+40
+00:02:49.373 --> 00:02:53.649
+So this let’s say first type
+of motion is described by
+
+41
+00:02:53.649 --> 00:02:57.183
+the frequency which is exactly 2 to omega.
+
+42
+00:02:57.183 --> 00:03:01.467
+There is also second type of motion that
+we can imagine in this slightly more
+
+43
+00:03:01.467 --> 00:03:02.768
+complicated system.
+
+44
+00:03:02.768 --> 00:03:04.990
+In which case let’s say,
+
+45
+00:03:04.990 --> 00:03:10.150
+these guys oscillate out of phase,
+in this fashion sort of.
+
+46
+00:03:10.150 --> 00:03:14.650
+And this oscillation frequency,
+people two in this case,
+
+47
+00:03:14.650 --> 00:03:18.500
+is equal to square root of times
+the basic frequency of these guys.
+
+48
+00:03:18.500 --> 00:03:20.610
+So let's assume they all
+had the same stiffness.
+
+49
+00:03:21.950 --> 00:03:25.030
+And we can make things more and
+more complicated, and
+
+50
+00:03:25.030 --> 00:03:28.180
+let's say in this case have a six.
+
+51
+00:03:28.180 --> 00:03:33.710
+This six masses a dash, at the springs,
+and in which case we will have six
+
+52
+00:03:33.710 --> 00:03:39.040
+different degrees of freedom, and
+six different oscillation frequencies.
+
+53
+00:03:39.040 --> 00:03:43.390
+And this oscillation frequency's so
+called normal moles in classical physics,
+
+54
+00:03:43.390 --> 00:03:46.870
+they have an analog
+[INAUDIBLE] in quantum physics.
+
+55
+00:03:46.870 --> 00:03:53.090
+In particular, let's say in this
+example of two harmonic oscillators,
+
+56
+00:03:54.760 --> 00:03:59.590
+just by knowing the results
+of the classical calculation.
+
+57
+00:03:59.590 --> 00:04:02.370
+We can write down, as a matter of fact,
+
+58
+00:04:02.370 --> 00:04:06.590
+the spectrum of the corresponding
+quantum problem.
+
+59
+00:04:06.590 --> 00:04:11.610
+And the spectrum of the corresponding
+quantum problem will be simply.
+
+60
+00:04:11.610 --> 00:04:16.044
+The energy's going to
+be equal to h omega 1
+
+61
+00:04:16.044 --> 00:04:21.401
+(n1+1/2) + h omega 2 (2+1/1).
+
+62
+00:04:21.401 --> 00:04:25.799
+And it's going to depend on
+two quantum numbers, n1 and
+
+63
+00:04:25.799 --> 00:04:29.820
+n2 corresponding to two
+harmonic oscillators.
+
+64
+00:04:29.820 --> 00:04:33.420
+But these are going to be directly
+the harmonic oscillators built out of
+
+65
+00:04:33.420 --> 00:04:38.200
+let's say the coordinates and
+momentum of the two particles.
+
+66
+00:04:38.200 --> 00:04:44.205
+So these oscillators, so the corresponding
+creation and operations, there's going to
+
+67
+00:04:44.205 --> 00:04:50.310
+be a certain non-linear combination
+of these x1's and P1's, x2, and P2.
+
+68
+00:04:50.310 --> 00:04:54.310
+Which sort of describe
+the generalization of this in phase and
+
+69
+00:04:54.310 --> 00:04:56.950
+out of phase motions to quantum physics.
+
+70
+00:04:56.950 --> 00:05:01.300
+And in general, now we have a classical
+system with some normal modes,
+
+71
+00:05:01.300 --> 00:05:03.310
+there's a corresponding quantum
+system with the actual,
+
+72
+00:05:03.310 --> 00:05:07.020
+with the spectrum associated
+with these normal modes.
+
+73
+00:05:07.020 --> 00:05:12.500
+A very interesting example of a complex
+many particle quantum system is a crystal.
+
+74
+00:05:12.500 --> 00:05:16.090
+We know that crystalline
+structures of various types
+
+75
+00:05:16.090 --> 00:05:20.500
+appear in a variety of
+solid state materials.
+
+76
+00:05:20.500 --> 00:05:21.460
+And in this structure.
+
+77
+00:05:21.460 --> 00:05:27.470
+So what happens is that ions or atoms of
+which this solid state material is sort of
+
+78
+00:05:27.470 --> 00:05:33.970
+built, they arrange themselves
+into a unique order and pattern.
+
+79
+00:05:33.970 --> 00:05:35.370
+And so here, for instance,
+
+80
+00:05:35.370 --> 00:05:40.050
+I'm showing a fragment of
+a so-called simple cubic lattice.
+
+81
+00:05:40.050 --> 00:05:45.719
+And these blue balls in this
+picture respond to atoms sitting
+
+82
+00:05:45.719 --> 00:05:50.953
+on their equilibrium position
+on their lattice sides.
+
+83
+00:05:50.953 --> 00:05:55.352
+But this picture is a bit deceptive,
+actually it's probably better to
+
+84
+00:05:55.352 --> 00:06:00.240
+say incorrect,
+in that the atoms here in are not static.
+
+85
+00:06:00.240 --> 00:06:03.650
+So then indeed have some
+preferential positions,
+
+86
+00:06:03.650 --> 00:06:07.440
+some equilibrium positions, but
+they move around all the time.
+
+87
+00:06:07.440 --> 00:06:11.920
+So this position that they occupy
+responds to a minimum in some effect,
+
+88
+00:06:11.920 --> 00:06:13.490
+the potential the fuel.
+
+89
+00:06:13.490 --> 00:06:18.730
+But they can oscillate near the minimal
+of this potential, and these oscillations
+
+90
+00:06:18.730 --> 00:06:23.830
+are basically described locally as
+essentially harmonic oscillator motion.
+
+91
+00:06:23.830 --> 00:06:26.690
+So a better illustration
+of what a crystal is.
+
+92
+00:06:26.690 --> 00:06:32.453
+So that I put together, well, for
+simplicity, for two dimensional case.
+
+93
+00:06:32.453 --> 00:06:33.850
+So it is presented here.
+
+94
+00:06:33.850 --> 00:06:38.604
+So instead of thinking about atoms,
+which are sort of tied together in this
+
+95
+00:06:38.604 --> 00:06:41.630
+crystalline structure
+by some rigid objects.
+
+96
+00:06:41.630 --> 00:06:44.880
+We should think about
+atoms being tied together
+
+97
+00:06:44.880 --> 00:06:50.270
+by some elastic springs with some
+stiffness, which is fine, all right?
+
+98
+00:06:50.270 --> 00:06:52.290
+And so when we look at this system,
+
+99
+00:06:52.290 --> 00:06:57.270
+so by analogy to what I just
+discussed in the previous slide.
+
+100
+00:06:57.270 --> 00:07:01.180
+We can think about this system
+as a many-oscillator system
+
+101
+00:07:01.180 --> 00:07:02.600
+with a lot of degrees of freedom.
+
+102
+00:07:02.600 --> 00:07:05.430
+So in reality, in this material,
+
+103
+00:07:05.430 --> 00:07:09.800
+so there are not two or three or
+six atoms like in the previous lab.
+
+104
+00:07:09.800 --> 00:07:13.030
+But there are billions and
+billions of atoms.
+
+105
+00:07:13.030 --> 00:07:16.610
+And therefore, there are many frequencies,
+eigenfrequencies and
+
+106
+00:07:16.610 --> 00:07:19.580
+normal MOOS, classical normal MOOS.
+
+107
+00:07:19.580 --> 00:07:27.203
+And they can respond to various kinds of
+complicated oscillations in this system.
+
+108
+00:07:27.203 --> 00:07:30.533
+And in the limit of an infinite number,
+basically so
+
+109
+00:07:30.533 --> 00:07:35.693
+called thermodynamic limit when we
+consider essentially an infinite crystal.
+
+110
+00:07:35.693 --> 00:07:40.769
+So this creates normal MOOS
+that merge into continuum
+
+111
+00:07:40.769 --> 00:07:49.790
+curves which essentially corresponded to
+elastic waves running through this system.
+
+112
+00:07:49.790 --> 00:07:55.310
+And mathematically, these waves
+are described by a familiar expression.
+
+113
+00:07:55.310 --> 00:07:59.430
+So if we think, let's say,
+about the displacement of an atom
+
+114
+00:08:00.760 --> 00:08:04.210
+with regards to its equilibrium position,
+some delta r.
+
+115
+00:08:04.210 --> 00:08:08.780
+As a function of time for
+a particular atom, let's say nth atom.
+
+116
+00:08:08.780 --> 00:08:14.680
+So it's proportional to
+the familiar exponential of chi.r,
+
+117
+00:08:14.680 --> 00:08:20.010
+so where this atom is located,
+minus omega t.
+
+118
+00:08:20.010 --> 00:08:23.650
+But this omega is itself
+a function of key.
+
+119
+00:08:23.650 --> 00:08:28.290
+And so to find this so called photon
+
+120
+00:08:28.290 --> 00:08:32.320
+dispersion is the main question that
+appears in the context of this problem,
+
+121
+00:08:32.320 --> 00:08:35.030
+and this is what is going to
+be of interest to us.
+
+122
+00:08:35.030 --> 00:08:37.550
+Of particular interest is the question of
+
+123
+00:08:37.550 --> 00:08:42.440
+what are the low energy
+MOOS of this system.
+
+124
+00:08:42.440 --> 00:08:44.930
+So what it actually
+means is the following.
+
+125
+00:08:44.930 --> 00:08:49.950
+Suppose we have a completely
+static crystal.
+
+126
+00:08:49.950 --> 00:08:51.430
+So.
+Well, as static as it gets.
+
+127
+00:08:51.430 --> 00:08:52.260
+In quantum mechanics,
+
+128
+00:08:52.260 --> 00:08:55.780
+there is always zero point motion but
+we can consider a classical system.
+
+129
+00:08:55.780 --> 00:09:00.750
+Let's say we just physically built
+this model by attaching a bunch
+
+130
+00:09:00.750 --> 00:09:04.030
+of masses to the springs and
+arranging them.
+
+131
+00:09:04.030 --> 00:09:09.610
+In the equilibrium pattern, and let's
+see with touch this system a little bit.
+
+132
+00:09:09.610 --> 00:09:12.440
+We apply very weak perturbation.
+
+133
+00:09:12.440 --> 00:09:15.751
+So, the question I'm asking
+about the low energy modes is,
+
+134
+00:09:15.751 --> 00:09:20.810
+are we going to excite any
+oscillation in this crystal, or
+
+135
+00:09:20.810 --> 00:09:23.209
+this weak perturbation is not
+going to have any effect.
+
+136
+00:09:24.270 --> 00:09:29.210
+In other words, do we have to overcome
+any threshold or gap as condensed metric
+
+137
+00:09:29.210 --> 00:09:35.350
+people call it, in order to excite
+the minimal perturbation in the crystal.
+
+138
+00:09:35.350 --> 00:09:39.670
+And as we will see in a later,
+in today's lecture, so
+
+139
+00:09:39.670 --> 00:09:44.120
+the answer will be that it doesn't
+matter how weak the perturbation is.
+
+140
+00:09:44.120 --> 00:09:48.640
+There's always a very low energy mode,
+which corresponds to a long wavelength or
+
+141
+00:09:48.640 --> 00:09:55.960
+a small k wave running through
+the sample through this crystal.
+
+142
+00:09:55.960 --> 00:10:02.380
+And this type of an excitation
+is called an acoustic mode or
+
+143
+00:10:02.380 --> 00:10:07.779
+it corresponds to sound modes
+running through this crystal.
+
+144
+00:10:09.040 --> 00:10:14.015
+And it turns out that appearance
+of this acoustic sound modes,
+
+145
+00:10:14.015 --> 00:10:19.480
+has a very profound explanation which
+goes as far as relativistic quantum
+
+146
+00:10:19.480 --> 00:10:23.330
+physics actually where there is
+a theorem called gold stone theorem,
+
+147
+00:10:23.330 --> 00:10:28.100
+which guarantees the appearance
+of certain low energy moles.
+
+148
+00:10:28.100 --> 00:10:31.400
+And even though I'm talking
+now about a classical system,
+
+149
+00:10:31.400 --> 00:10:36.310
+let me nevertheless try to
+connect it to this therm.
+
+150
+00:10:36.310 --> 00:10:39.860
+But I will present sort of a poor's
+man's version of this Goldstone
+
+151
+00:10:39.860 --> 00:10:42.190
+theory which is relevant to our problem.
+
+152
+00:10:42.190 --> 00:10:45.560
+And then hopefully we will be able to
+understand how they are connected.
+
+153
+00:10:45.560 --> 00:10:48.470
+So this is going to be
+a little bit of detail work.
+
+154
+00:10:48.470 --> 00:10:53.630
+So the poor man's version of the Goldstone
+theorem that I'm presenting is related
+
+155
+00:10:53.630 --> 00:10:59.900
+to the notion of symmetry in quantum
+physics that we already discussed.
+
+156
+00:10:59.900 --> 00:11:04.260
+So suppose we have a quantum
+system which is invariant or
+
+157
+00:11:04.260 --> 00:11:07.750
+symmetric with respect to a certain
+class of transformations.
+
+158
+00:11:07.750 --> 00:11:12.850
+What it means is that there exist
+transformations, let me call them u, and
+
+159
+00:11:12.850 --> 00:11:19.200
+this operator commutes with the Hamil
+20 which describes this system.
+
+160
+00:11:19.200 --> 00:11:20.870
+So this is what it means.
+
+161
+00:11:20.870 --> 00:11:26.769
+Or in other words,
+UHU minus 1 is equal to H itself.
+
+162
+00:11:27.980 --> 00:11:31.420
+And let me consider the situation
+when there is not just one or
+
+163
+00:11:31.420 --> 00:11:33.510
+two symmetry operations that exist,
+
+164
+00:11:33.510 --> 00:11:38.590
+but as a matter of fact we can have
+a whole family of such operations.
+
+165
+00:11:38.590 --> 00:11:42.570
+Let's say labeled by some parameter,
+let me call it alpha.
+
+166
+00:11:42.570 --> 00:11:45.510
+So an example of such symmetry for
+
+167
+00:11:45.510 --> 00:11:48.920
+instance could be symmetry
+with respect to translation.
+
+168
+00:11:48.920 --> 00:11:53.260
+So let's see if our Hamiltonian is
+symmetric with respect to translating
+
+169
+00:11:53.260 --> 00:11:59.060
+everything, every single particle in
+space, let's say by a certain distance.
+
+170
+00:11:59.060 --> 00:12:04.460
+So it could be a distance of one meter,
+or one centimeter, or one kilometer.
+
+171
+00:12:04.460 --> 00:12:07.430
+So there's a whole
+continuum of distances and
+
+172
+00:12:07.430 --> 00:12:09.430
+directions in which we
+can translate our system,
+
+173
+00:12:09.430 --> 00:12:13.970
+in which case this alpha actually is a
+three dimensional vector of translations.
+
+174
+00:12:13.970 --> 00:12:17.100
+Well, another example could be
+symmetry with respect to rotation.
+
+175
+00:12:17.100 --> 00:12:17.710
+In which case,
+
+176
+00:12:17.710 --> 00:12:22.660
+alpha could represent an angle that we can
+choose by which we can rotate our system.
+
+177
+00:12:22.660 --> 00:12:24.070
+But in principle, can be anything.
+
+178
+00:12:24.070 --> 00:12:28.400
+So we just basically postulate
+the existence of some symmetry,
+
+179
+00:12:28.400 --> 00:12:31.900
+what is called symmetry group, but
+I'm not going to go into these details
+
+180
+00:12:31.900 --> 00:12:37.060
+with respect to which the felmonian
+of the system is invariant.
+
+181
+00:12:37.060 --> 00:12:42.430
+But a very interesting fact
+is that even though the model
+
+182
+00:12:42.430 --> 00:12:46.350
+itself can be invariant under
+certain symmetry operations.
+
+183
+00:12:46.350 --> 00:12:49.811
+The quantum states, the, for instance,
+
+184
+00:12:49.811 --> 00:12:54.908
+lowest energy state of the ground
+state does not necessarily,
+
+185
+00:12:54.908 --> 00:12:59.253
+have to be invariant,
+under this same symmetry, U.
+
+186
+00:12:59.253 --> 00:13:04.713
+So what it means is that the system,
+we find itself in a state,
+
+187
+00:13:04.713 --> 00:13:09.124
+let's see, let me call it such that U,
+
+188
+00:13:09.124 --> 00:13:13.370
+acting on this is not equal to.
+
+189
+00:13:13.370 --> 00:13:15.550
+So by translating, let's say,
+our system in space,
+
+190
+00:13:15.550 --> 00:13:19.370
+we do not necessarily
+represent the same state.
+
+191
+00:13:19.370 --> 00:13:25.050
+And in this case, we say that the symmetry
+is broken, or spontaneously broken.
+
+192
+00:13:26.060 --> 00:13:30.916
+But the key statement, which is also
+the statement of this Goldstone
+
+193
+00:13:30.916 --> 00:13:33.943
+theorem in this context is the following.
+
+194
+00:13:33.943 --> 00:13:38.631
+If once again we have a situation
+where the Hamiltonian is a variant
+
+195
+00:13:38.631 --> 00:13:42.398
+under a certain continuum of symmetries,
+but some or
+
+196
+00:13:42.398 --> 00:13:45.340
+all of these symmetries are broken.
+
+197
+00:13:45.340 --> 00:13:50.750
+In this state in which the system finds
+itself in this state, let's say sine r.
+
+198
+00:13:50.750 --> 00:13:53.890
+Then to each broken continuum symmetry,
+
+199
+00:13:53.890 --> 00:13:57.800
+their response low energy mode,
+sound like mode.
+
+200
+00:13:57.800 --> 00:14:00.120
+If you wanted, we just discuss.
+
+201
+00:14:00.120 --> 00:14:03.620
+And well, this statement,
+this correspondence is again,
+
+202
+00:14:03.620 --> 00:14:07.110
+the statement of its goals down here.
+
+203
+00:14:07.110 --> 00:14:10.590
+So I realize that there have been
+a lot of words that I've said,
+
+204
+00:14:10.590 --> 00:14:13.190
+but perhaps the best way to understand
+
+205
+00:14:13.190 --> 00:14:17.300
+the actual meaning of these words
+would be to provide an example.
+
+206
+00:14:17.300 --> 00:14:23.340
+Which also will explain why this
+discussion is relevant to what we
+
+207
+00:14:23.340 --> 00:14:28.190
+talked about before in the previous slides
+about crystals, and all these things.
+
+208
+00:14:28.190 --> 00:14:31.820
+Now let us look at a crystal
+structure once again.
+
+209
+00:14:31.820 --> 00:14:36.020
+So we have here a periodic
+arrangement of atoms, but
+
+210
+00:14:36.020 --> 00:14:38.720
+nobody puts this crystal
+structure by hand.
+
+211
+00:14:38.720 --> 00:14:41.990
+Right?
+So if we have a piece of some sort
+
+212
+00:14:41.990 --> 00:14:42.550
+of material.
+
+213
+00:14:42.550 --> 00:14:43.920
+Let's say a piece of copper.
+
+214
+00:14:43.920 --> 00:14:46.330
+So nobody builds it by hand,
+like atom by atom.
+
+215
+00:14:46.330 --> 00:14:47.890
+We don't have to do it.
+
+216
+00:14:47.890 --> 00:14:49.810
+So the nature does it itself.
+
+217
+00:14:49.810 --> 00:14:52.130
+So this structure, so
+they form spontaneously.
+
+218
+00:14:52.130 --> 00:14:53.983
+And there is some wave
+function if you want.
+
+219
+00:14:53.983 --> 00:14:57.920
+We described, well,
+very complicated wave functions.
+
+220
+00:14:57.920 --> 00:14:59.930
+We described this atom.
+
+221
+00:14:59.930 --> 00:15:04.048
+So how do this atom
+form in such a pattern?
+
+222
+00:15:04.048 --> 00:15:10.075
+So I know it is a solution to a certain
+Hamiltonian that describes those atoms,
+
+223
+00:15:10.075 --> 00:15:14.093
+and this Hamiltonian,
+it has a kinetic energy of all
+
+224
+00:15:14.093 --> 00:15:19.425
+the particles involved in the problem,
+all these atoms.
+
+225
+00:15:19.425 --> 00:15:24.790
+Plus, an energy describing
+its interaction.
+
+226
+00:15:24.790 --> 00:15:26.220
+And very importantly here.
+
+227
+00:15:27.430 --> 00:15:31.670
+Well, it depends only on
+the distance between the atoms.
+
+228
+00:15:31.670 --> 00:15:34.370
+So here n and
+then they labelled various atoms.
+
+229
+00:15:35.710 --> 00:15:38.885
+Now if you look at this Hamiltonian, so
+
+230
+00:15:38.885 --> 00:15:44.081
+you see that if we translated
+the whole thing, if we let's say,
+
+231
+00:15:44.081 --> 00:15:48.911
+change r to r plus some constant distance,
+let me call it d.
+
+232
+00:15:48.911 --> 00:15:52.343
+Then the Hamiltonian is not going to
+change since we have here only
+
+233
+00:15:52.343 --> 00:15:56.490
+the distance between particles which
+is the position of a nth particle minus
+
+234
+00:15:56.490 --> 00:15:58.174
+the position of nth particle,
+
+235
+00:15:58.174 --> 00:16:01.720
+if we translate both of
+them by the same distance.
+
+236
+00:16:01.720 --> 00:16:04.023
+The distance between them is
+not going to change right.
+
+237
+00:16:04.023 --> 00:16:08.727
+So therefore, in other words,
+what I'm saying here is that here
+
+238
+00:16:08.727 --> 00:16:13.443
+the Hamiltonian is inverted under
+a translations in real space.
+
+239
+00:16:13.443 --> 00:16:16.755
+But an arbitrary, it's very important,
+but an arbitrary distance.
+
+240
+00:16:17.825 --> 00:16:20.944
+So, but if you look at
+the crystalline arrangement here, so
+
+241
+00:16:20.944 --> 00:16:24.015
+it is no longer in variant
+under an arbitrary translation.
+
+242
+00:16:24.015 --> 00:16:29.592
+So if I remove my particles, let's say
+by a fraction of this lattice constant.
+
+243
+00:16:29.592 --> 00:16:30.832
+Another reproduce the crystal.
+
+244
+00:16:30.832 --> 00:16:34.962
+So the crystal is till symmetric but
+it has a symmetry which is sort of lower.
+
+245
+00:16:34.962 --> 00:16:36.462
+It has only decreased symmetry.
+
+246
+00:16:36.462 --> 00:16:39.932
+While the original symmetry of
+the problem was a continuum symmetry.
+
+247
+00:16:39.932 --> 00:16:41.252
+And that's the crucial difference.
+
+248
+00:16:41.252 --> 00:16:46.240
+And therefore here we have broken
+spontaneously broken if you want.
+
+249
+00:16:46.240 --> 00:16:50.008
+Three continual symmetries in the x,
+y and z directions.
+
+250
+00:16:50.008 --> 00:16:56.020
+And therefore there must exist three
+modes or three fold generic mode or
+
+251
+00:16:56.020 --> 00:17:00.600
+at least three low energy
+modes in this state.
+
+252
+00:17:00.600 --> 00:17:03.390
+And this modes are exactly
+the performance that we're going to find.
+
+253
+00:17:03.390 --> 00:17:08.940
+Of course now our solution is,
+we will see them automatically.
+
+254
+00:17:08.940 --> 00:17:13.970
+And they're not going to be related to
+a spontaneous symmetry breaking itself,
+
+255
+00:17:13.970 --> 00:17:16.100
+but it's very interesting.
+
+256
+00:17:16.100 --> 00:17:19.665
+This connection is very
+interesting because you can sort
+
+257
+00:17:19.665 --> 00:17:22.867
+of predict the existence
+of such low energy modes.
+
+258
+00:17:22.867 --> 00:17:29.400
+Just by the fact that certain types of
+structures form out of symmetric systems.
+
+259
+00:17:29.400 --> 00:17:32.660
+So in the rest of the lectures
+
+260
+00:17:32.660 --> 00:17:35.670
+today I'm not going to alluding
+to this Goldstone theorem.
+
+261
+00:17:35.670 --> 00:17:40.000
+So this was just a remark for those
+of you who are interested in advanced
+
+262
+00:17:40.000 --> 00:17:42.240
+understanding or advanced subjects.
+
+263
+00:17:42.240 --> 00:17:45.300
+But I just wanted to make
+this remark because I find it
+
+264
+00:17:45.300 --> 00:17:49.810
+quite illuminating because
+you can see the appearance of
+
+265
+00:17:49.810 --> 00:17:53.700
+the application of this very powerful
+theorem in the very simple example.

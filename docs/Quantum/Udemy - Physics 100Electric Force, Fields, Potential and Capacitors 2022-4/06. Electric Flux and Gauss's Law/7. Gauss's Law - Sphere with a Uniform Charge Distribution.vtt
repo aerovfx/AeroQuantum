@@ -1,0 +1,405 @@
+WEBVTT
+
+WEBVTT
+
+00:00.240 --> 00:00.470
+All right.
+
+00:00.500 --> 00:04.270
+I now want to apply Gauss his law to a slightly more complicated object.
+
+00:04.270 --> 00:11.040
+Again we're going to choose a spherical symmetric object in this case here is not going to be a conductor
+
+00:11.040 --> 00:12.430
+it will be an insulator.
+
+00:12.540 --> 00:18.720
+And imagine I have a ball and I've uniformly spread out charge inside the ball.
+
+00:18.720 --> 00:24.840
+OK so here I've illustrated over here The ball has a certain radius which I'm calling uppercase R and
+
+00:24.840 --> 00:27.320
+it does have a total charge which could be anything.
+
+00:27.380 --> 00:33.420
+Five columns 10 cool homes it doesn't matter but that charge is not just on the surface like a conductor.
+
+00:33.540 --> 00:35.660
+It's uniformly distributed.
+
+00:35.670 --> 00:35.890
+OK.
+
+00:35.910 --> 00:37.850
+So how would we actually apply Gauss is low.
+
+00:37.850 --> 00:41.310
+So in this case there's two different limits that you have to look at.
+
+00:41.340 --> 00:47.040
+OK we're first going to focus on the field outside this ball and then we're going to see well what happens
+
+00:47.040 --> 00:51.480
+if I was inside the ball what would the electric field look like inside the ball.
+
+00:51.480 --> 00:55.650
+OK so let's look at both of these cases and how we apply Gauss as law.
+
+00:55.650 --> 00:59.960
+First of all the left hand side of Gauss is law which has the field in the area.
+
+01:00.000 --> 01:04.490
+This case is always the same for spherical symmetric objects.
+
+01:04.530 --> 01:08.370
+The only thing that's going to be different now will be how much charges enclosed.
+
+01:08.400 --> 01:11.030
+OK so let's look at it you'll see what I mean.
+
+01:11.220 --> 01:11.480
+Right.
+
+01:11.490 --> 01:17.550
+So my first case is when I'm outside that means that I want to evaluate it at a point that is outside
+
+01:17.550 --> 01:18.630
+of this object.
+
+01:18.660 --> 01:24.480
+So in that case it becomes pretty similar to what we previously did you choose a gaussian surface that
+
+01:24.480 --> 01:26.370
+has the same symmetry as my object.
+
+01:26.370 --> 01:29.560
+So it will be a sphere and its radius is little.
+
+01:30.450 --> 01:36.000
+All right in this case again this total object here all of the charge that I've highlighted in orange
+
+01:36.360 --> 01:42.150
+has a total charge uppercase Q So let's imagine we're going to evaluate Gauss as law for this object.
+
+01:42.180 --> 01:47.690
+So the total charging close is just uppercase Q And that's divided by epsilon 0.
+
+01:47.700 --> 01:51.510
+That's the total flux going through this blue surface.
+
+01:51.570 --> 01:53.840
+So how would you evaluate the field now.
+
+01:54.000 --> 02:01.290
+Again the left hand side of Gauss is lost simply the magnitude of the field multiplied by the area in
+
+02:01.290 --> 02:05.970
+the area that I'm interested in is always the area of my closed surface.
+
+02:06.120 --> 02:06.400
+Right.
+
+02:06.420 --> 02:09.540
+It's always the close surface over here that we're interested in.
+
+02:09.570 --> 02:13.590
+So this here would be for PI and R squared.
+
+02:13.590 --> 02:17.430
+That is the area of a spherical object.
+
+02:17.550 --> 02:25.460
+So at the end the electric field is simply q over for Pi ask let's say sorry Epsilon 0.
+
+02:25.560 --> 02:27.600
+Multiply by our squared.
+
+02:27.600 --> 02:28.020
+Okay.
+
+02:28.140 --> 02:34.750
+This is the same result as we have before 1 over for pie Epsilon zero K Q over our squared right.
+
+02:34.980 --> 02:41.100
+When you're on the outside of this object it behaves again just like a point charge you get the same
+
+02:41.100 --> 02:47.430
+field as though you would have just a simple point charge and you were evaluating at some distance are
+
+02:47.430 --> 02:55.760
+away right this here is a distance are between here and here and I was evaluating the field that point
+
+02:55.760 --> 03:00.180
+P I could right away just simply write down this expression right.
+
+03:00.200 --> 03:05.390
+So outside it behaves very very similarly to our previous results what makes this problem a little bit
+
+03:05.540 --> 03:09.480
+more complicated now is to evaluate the field inside.
+
+03:09.570 --> 03:11.220
+Okay so let's look at this now.
+
+03:11.330 --> 03:11.600
+All right.
+
+03:11.640 --> 03:19.160
+Now I want to look at the case where I'm evaluating the electric field at some point inside this spherical
+
+03:19.160 --> 03:20.130
+object.
+
+03:20.210 --> 03:25.040
+All right so let's write down Gauss is log in we're going to have our Gaussian surface which is here
+
+03:25.300 --> 03:31.340
+the Goshen surface again has a little radius r and it's a spherical object so the left hand side of
+
+03:31.340 --> 03:32.590
+Gauss is law.
+
+03:32.600 --> 03:40.650
+Always the same the magnitude of the field multiplied by the total area of my spherical object.
+
+03:40.670 --> 03:45.640
+So this has to be equal to the enclosed charge divided by epsilon 0.
+
+03:45.650 --> 03:53.310
+The question is how much charge do I actually have inside this blue surface I don't have the total charge.
+
+03:53.310 --> 03:56.870
+Q I should have a fraction of it right.
+
+03:56.980 --> 04:02.160
+So the total charge again it has a uniform charge density over here.
+
+04:02.380 --> 04:11.170
+So you imagine here you have a uniform charge density the charge density typically for a volume you
+
+04:11.170 --> 04:18.010
+can write the charge density as being the letter row and that should be the total charge divided by
+
+04:18.010 --> 04:21.750
+the total volume of the object that I'm looking at.
+
+04:21.790 --> 04:27.760
+So the total v total is while it's a spherical object.
+
+04:27.780 --> 04:35.260
+So this would be four thirds pi r cube and notice I'm using uppercase Q because that's the charge density.
+
+04:37.270 --> 04:37.490
+All right.
+
+04:37.520 --> 04:42.410
+So how do I find how much charge is inside this other volume.
+
+04:42.410 --> 04:48.620
+Well it's gonna we're gonna call this the charging closed and close this simply going to be the charge
+
+04:48.620 --> 04:55.190
+density multiplied by the volume enclosed by that surface.
+
+04:55.190 --> 05:01.340
+So that B What's the density what's the volume in close what's the volume of my blue sphere over here.
+
+05:01.520 --> 05:06.830
+Again it's for third pi little r cube right.
+
+05:06.890 --> 05:07.120
+All right.
+
+05:07.130 --> 05:13.310
+So now you have to kind of substitute in what's our charge density our charge density is total charge
+
+05:13.880 --> 05:22.410
+divided by four thirds pi our cube and multiply by the term up here for third pi it's a different RB
+
+05:22.490 --> 05:24.110
+a little bit careful over here.
+
+05:24.350 --> 05:26.780
+This is the volume of the blues.
+
+05:27.320 --> 05:31.340
+And down here in the denominator is the total volume of my object.
+
+05:31.540 --> 05:31.810
+Okay.
+
+05:31.820 --> 05:35.060
+We can simplify some of these the four thirds pi leave.
+
+05:35.060 --> 05:39.830
+And now I actually have a nice expression for my charge that's enclosed.
+
+05:39.830 --> 05:40.120
+All right.
+
+05:40.160 --> 05:44.630
+The total charge and it's a little our cube divided by big our cube.
+
+05:44.630 --> 05:49.590
+All right we're gonna go ahead now and substitute that in my expression for the total charge.
+
+05:49.910 --> 05:54.330
+The total charge enclosed by my surface so it looks like this.
+
+05:54.410 --> 06:00.920
+This is little our cube divided by big our cube and I still have the Epsilon 0 over here and here let's
+
+06:00.920 --> 06:04.030
+just leave this term unchanged for now.
+
+06:04.410 --> 06:10.520
+I notice there's some simplifications we can make no one look at I have our squared over here and I
+
+06:10.520 --> 06:16.130
+have our cube over here I could get rid of two of those and if I get rid of two of those I'm gonna be
+
+06:16.130 --> 06:18.840
+left with one up there.
+
+06:18.860 --> 06:19.430
+OK.
+
+06:19.430 --> 06:21.350
+So what does this mean.
+
+06:21.350 --> 06:29.180
+Well that last expression that I get now is you're gonna get one over for Pi Epsilon zero group those
+
+06:29.180 --> 06:39.040
+terms together the total charge q here I have multiplied by R and this is divided by our cube.
+
+06:39.140 --> 06:47.030
+Okay so I have a look this expression is actually quite different from the previous case it tells me
+
+06:47.030 --> 06:49.700
+that the field actually gets bigger.
+
+06:49.940 --> 06:54.820
+So look at a couple of cases what happens if little R equals to zero.
+
+06:54.830 --> 06:59.170
+So what if what is the electric field right here at the center of the sphere.
+
+06:59.270 --> 07:07.310
+If a little R equals zero notice what we get we get that equals to zero because there is no charge inside
+
+07:07.310 --> 07:10.720
+a Goshen surface my Surface is really really small.
+
+07:10.910 --> 07:16.460
+Take the limit now what happens if the little radius goes all the way to the edge of my object.
+
+07:16.460 --> 07:20.870
+So that would look something like this if that was the case what would be the electric field.
+
+07:21.440 --> 07:27.560
+So a little R I would substitute by uppercase R and then you would get what you'd get the same expression
+
+07:27.560 --> 07:29.540
+that I previously had.
+
+07:29.750 --> 07:33.050
+This would be Q and this would be divided by our squared.
+
+07:33.050 --> 07:35.550
+This looks just like a point charge again.
+
+07:35.810 --> 07:40.080
+The only time when it's different is when you're inside the object.
+
+07:40.100 --> 07:43.970
+When you're inside it actually looks significantly different.
+
+07:43.970 --> 07:46.290
+It has this dependence over here.
+
+07:46.550 --> 07:51.680
+So if you were going to make a sketch of what the field looks like as a function of distance let me
+
+07:51.680 --> 07:54.350
+go ahead and kind of do that on the next page.
+
+07:54.470 --> 07:58.510
+Let me scroll down and let's plot both of these expressions.
+
+07:58.700 --> 08:06.830
+So what I want to do now is I want to make a plot of the electric field magnitude as a function of the
+
+08:06.830 --> 08:08.320
+distance are.
+
+08:08.540 --> 08:13.890
+And one thing we saw that when R equals to this I have some value.
+
+08:14.300 --> 08:18.920
+If you go back to the expression we have that on the inside.
+
+08:18.930 --> 08:22.560
+Let's scroll up here for a second on the inside look at what it looks like.
+
+08:22.670 --> 08:29.450
+All of this thing here is a constant and it's basically linear and R so an R gets bigger the field gets
+
+08:29.450 --> 08:30.720
+bigger.
+
+08:30.720 --> 08:34.480
+So let me go ahead and make a line that's this is a straight line.
+
+08:34.820 --> 08:45.830
+And the value right here will be 1 over for Pi Epsilon zero Q over our squared as I'm on the outside
+
+08:46.160 --> 08:47.660
+number on the outside.
+
+08:47.720 --> 08:53.560
+The dependence is actually something the fuel actually gets smaller as I get farther away from it.
+
+08:53.690 --> 08:55.810
+So the feel when I'm really really far away.
+
+08:55.810 --> 08:58.530
+The electric field is really small.
+
+08:58.670 --> 09:05.330
+So what you would say over here is that in this area over here the field is proportional to the distance
+
+09:06.320 --> 09:14.670
+and as over in this section over here the electric field is proportional to one over the distance squared.
+
+09:14.780 --> 09:19.850
+Just like a point charge up here over here it's significantly different it's not like a point charge
+
+09:19.850 --> 09:20.000
+right.
+
+09:20.000 --> 09:24.160
+The field depends linearly on the distance.
+
+09:25.000 --> 09:28.930
+All right kind of a nice problem it doesn't get any harder than that four point charges.
+
+09:29.060 --> 09:35.480
+Just make sure when you read problems you differentiate between insulating insulating spherical objects
+
+09:35.720 --> 09:39.370
+and conducting right because a conductor is significantly different.
+
+09:39.380 --> 09:45.500
+Remember our conductor now would look like this our conductor would have E equals to zero inside for
+
+09:45.500 --> 09:51.680
+a conductor because all the charges at the surface and then you would have this dependence here for
+
+09:51.680 --> 09:58.260
+a conductor the same as the case we just dealt with all right.
+
+09:58.390 --> 09:59.790
+Hopefully that makes sense to you.

@@ -1,0 +1,1027 @@
+1
+00:00:18,290 --> 00:00:24,170
+All right, in our last few videos, we're able to use our tools for special relativity to show that
+
+2
+00:00:24,500 --> 00:00:27,410
+a mass particle could indeed exist.
+
+3
+00:00:27,770 --> 00:00:32,390
+However, we didn't really know much about what it was or even if it did exist right.
+
+4
+00:00:32,810 --> 00:00:39,650
+The theory and the equations were telling us that this massless particle would have to have a speed
+
+5
+00:00:39,650 --> 00:00:44,750
+equivalent to the speed of light, which suggests that that massive particle is light.
+
+6
+00:00:45,440 --> 00:00:47,550
+But we have not actually observed yet.
+
+7
+00:00:47,570 --> 00:00:55,700
+So as I usually say and a lot of my videos is first, you want to observe, then analyze, develop theories
+
+8
+00:00:55,700 --> 00:00:57,220
+and then critique, right?
+
+9
+00:00:57,650 --> 00:01:03,590
+Whenever you try to prescribe how the universe should behave based upon theory that can lead you astray
+
+10
+00:01:03,800 --> 00:01:05,540
+and result in a lot of problems.
+
+11
+00:01:05,900 --> 00:01:12,410
+So back in the day when this was probably first observed and first looked at, it probably started very
+
+12
+00:01:12,410 --> 00:01:18,050
+strange, probably sounded like a radical idea that people were very hesitant to actually accept.
+
+13
+00:01:18,410 --> 00:01:24,380
+So what happened is a lot of experiments had to be conducted to try to figure out what in the world
+
+14
+00:01:24,680 --> 00:01:31,010
+this mass, this particle associated with light, which is has previously been theorized to be some
+
+15
+00:01:31,010 --> 00:01:31,970
+kind of wave.
+
+16
+00:01:32,270 --> 00:01:33,930
+What exactly is this?
+
+17
+00:01:33,990 --> 00:01:38,480
+What I'm going to do in this video is it's going to be sort of a history based lesson.
+
+18
+00:01:38,480 --> 00:01:42,950
+I'm going to talk about some of the experiments, some of the problems associated with them and the
+
+19
+00:01:42,950 --> 00:01:50,630
+results that came out of that, which helped to define what this mass was particle is and form the basis
+
+20
+00:01:50,870 --> 00:01:54,260
+of quantum mechanics as we know it today.
+
+21
+00:01:54,620 --> 00:02:01,160
+Now first, what I want to do is review what we know about light from a classical perspective from INET.
+
+22
+00:02:01,250 --> 00:02:01,490
+Right?
+
+23
+00:02:01,700 --> 00:02:07,940
+So from a classical perspective, physicists believe that the energy of radiation of light, of any
+
+24
+00:02:07,940 --> 00:02:15,620
+kind of wave which had a given frequency f should be a continuous, unchanging variable.
+
+25
+00:02:15,980 --> 00:02:20,960
+And it should also be proportional to the square of the amplitude or intensity of the wave.
+
+26
+00:02:20,970 --> 00:02:22,340
+What in the world am I talking about here?
+
+27
+00:02:22,580 --> 00:02:23,900
+Let me break that down for you.
+
+28
+00:02:24,110 --> 00:02:30,740
+Now, if you had a light and you increase the intensity or in other words, you made it brighter, they
+
+29
+00:02:30,740 --> 00:02:34,520
+theorized that that should increase the energy.
+
+30
+00:02:34,700 --> 00:02:40,010
+Furthermore, if you had some kind of light of some kind of frequency that was supposed to be continuous
+
+31
+00:02:40,010 --> 00:02:42,520
+throughout space, it should not be off.
+
+32
+00:02:42,770 --> 00:02:46,850
+OK, so this is an idea we took for granted back in the day.
+
+33
+00:02:47,000 --> 00:02:50,280
+That light was a wave and it had these properties.
+
+34
+00:02:50,290 --> 00:02:59,360
+So given that we started studying light further and the first instance in which we gave hints towards
+
+35
+00:02:59,360 --> 00:03:06,950
+a mass particle came in nineteen hundreds when we were studying the energy of black body radiation.
+
+36
+00:03:06,960 --> 00:03:10,240
+So during this time, scientists were taking a black body.
+
+37
+00:03:10,240 --> 00:03:14,150
+If you don't know what a black body is, as the name implies, it's black.
+
+38
+00:03:14,540 --> 00:03:18,470
+The color black absorbs all light, absorbs all energy.
+
+39
+00:03:18,470 --> 00:03:26,120
+It doesn't reflect anything, but all we know is that when that body is heated up, it emits some radiation.
+
+40
+00:03:26,510 --> 00:03:32,990
+And what scientists were trying to do is they're trying to measure the distribution of that energy or
+
+41
+00:03:33,080 --> 00:03:35,450
+radiation per each wavelength.
+
+42
+00:03:35,460 --> 00:03:38,600
+So they're trying really to develop some kind of spectrum.
+
+43
+00:03:39,230 --> 00:03:47,000
+And they were having a lot of difficulty doing it because they assumed that this was really in essence
+
+44
+00:03:47,000 --> 00:03:47,510
+what they did.
+
+45
+00:03:47,510 --> 00:03:51,560
+They feel the same lesson I talked about at the beginning of this course, right?
+
+46
+00:03:51,560 --> 00:03:57,050
+They are trying to prescribe how nature should behave instead of observing what it was doing and then
+
+47
+00:03:57,050 --> 00:04:00,050
+using that to develop their theories, right?
+
+48
+00:04:00,410 --> 00:04:06,980
+So what happened in nineteen, while this individual named Max Planck was studying the energy of black
+
+49
+00:04:06,980 --> 00:04:09,980
+body radiation trying to resolve this issue?
+
+50
+00:04:11,120 --> 00:04:17,660
+He first asserted that radiation emitted by a body is quantized, right?
+
+51
+00:04:18,320 --> 00:04:24,830
+It comes in discrete quantities, but it's also quantized by its integral multiples.
+
+52
+00:04:25,220 --> 00:04:32,840
+While this quantity h times f OK, you know what f is f is the frequency of the radiation of the light.
+
+53
+00:04:33,050 --> 00:04:40,670
+But when the world is this h guy, this h is called the Planck constant, and it's something he was
+
+54
+00:04:40,670 --> 00:04:43,340
+able to measure and determined experimentally.
+
+55
+00:04:44,180 --> 00:04:51,500
+But what he found is that whenever he assumed that radiation was quantized up, there are packets of
+
+56
+00:04:51,500 --> 00:04:53,720
+energy associated with it.
+
+57
+00:04:55,660 --> 00:04:57,880
+He got results which.
+
+58
+00:04:59,030 --> 00:05:04,850
+He was able to predict that the data behave in a certain way and it matches experimental results.
+
+59
+00:05:05,210 --> 00:05:11,450
+So this gave way to the fact that, hey, you know, this idea that it should be a continuous wave,
+
+60
+00:05:11,450 --> 00:05:12,500
+a continuous variable?
+
+61
+00:05:12,740 --> 00:05:14,180
+Maybe it's discrete ized.
+
+62
+00:05:14,480 --> 00:05:20,390
+Maybe it has quantized energy energy packets associated with it.
+
+63
+00:05:20,930 --> 00:05:25,100
+And it isn't what we have theorized to be in electromagnetism.
+
+64
+00:05:25,370 --> 00:05:32,900
+So this is the first instance in which we can all this quantized idea, and that should sound like quantum
+
+65
+00:05:32,900 --> 00:05:33,540
+mechanics.
+
+66
+00:05:34,010 --> 00:05:38,270
+And it's literally the birth of quantum mechanics of quantized ideas.
+
+67
+00:05:39,110 --> 00:05:39,560
+Now.
+
+68
+00:05:41,090 --> 00:05:48,200
+When we sort of gave name to this massless particle, it wasn't through black body radiation, but a
+
+69
+00:05:48,200 --> 00:05:56,090
+lot of the experiments that did give birth to what this NASA's particle is borrowed a lot from this
+
+70
+00:05:56,090 --> 00:06:01,040
+experimental black body radiation, which Max Planck first developed.
+
+71
+00:06:01,820 --> 00:06:03,770
+Now, jump ahead five years.
+
+72
+00:06:03,920 --> 00:06:04,640
+What happened?
+
+73
+00:06:05,390 --> 00:06:09,110
+This is when Einstein came into into the picture.
+
+74
+00:06:09,530 --> 00:06:16,640
+So at this time, scientists were struggling with another idea another new phenomena, which is known
+
+75
+00:06:16,640 --> 00:06:18,290
+as the photo electric effect.
+
+76
+00:06:18,620 --> 00:06:22,790
+Now, if you have not heard of this before, have it's probably associated.
+
+77
+00:06:23,150 --> 00:06:25,430
+You recall that it's associated with Einstein.
+
+78
+00:06:25,430 --> 00:06:32,360
+But if you have not heard of it before, as the name implies, you know, I like to say the words dictate
+
+79
+00:06:32,360 --> 00:06:33,680
+the meaning behind physics.
+
+80
+00:06:33,890 --> 00:06:40,550
+The photo electric effect states that if you have some kind of incident light upon a metal surface,
+
+81
+00:06:40,910 --> 00:06:45,350
+some metal body, it's going to emit electrons.
+
+82
+00:06:45,350 --> 00:06:53,120
+And what you can do is you can shine incident light on metal and you can collect those electrons and
+
+83
+00:06:53,120 --> 00:06:56,030
+measure some kind of current they create, right?
+
+84
+00:06:56,240 --> 00:07:01,130
+This is the basis of how solar panels work, right?
+
+85
+00:07:01,670 --> 00:07:08,150
+It takes the sunlight, it converts it into electrons, and then that that current is utilized.
+
+86
+00:07:08,310 --> 00:07:10,310
+OK, this is a modern use of this idea.
+
+87
+00:07:10,310 --> 00:07:16,760
+But back in the day, we're doing experiments on this photoelectric effect and some weird ideas were
+
+88
+00:07:16,760 --> 00:07:17,480
+cropping up.
+
+89
+00:07:17,800 --> 00:07:19,280
+OK, so how will we?
+
+90
+00:07:20,510 --> 00:07:27,020
+Measuring this effect back in the day, they put together this apparatus where they had a glass isolated
+
+91
+00:07:27,020 --> 00:07:34,040
+tube and they had two metal plates as depicted, one right here and one right there.
+
+92
+00:07:34,610 --> 00:07:37,490
+So scientists would do is they would shine some light.
+
+93
+00:07:38,630 --> 00:07:40,700
+Some radiation onto one plate.
+
+94
+00:07:42,320 --> 00:07:47,780
+And that what he meant electrons, which would zoom over to this other plate, which could collect those
+
+95
+00:07:47,780 --> 00:07:53,000
+electrons, and then you could measure the current as follows over here with nanometer.
+
+96
+00:07:56,600 --> 00:08:02,840
+Now, what you can do is you can apply a voltage to this plate here, and depending upon the voltage
+
+97
+00:08:03,170 --> 00:08:10,920
+that can either attract these negative particles, these negative electrons, or repel those electrons.
+
+98
+00:08:11,240 --> 00:08:11,660
+So.
+
+99
+00:08:12,730 --> 00:08:19,180
+You know, this idea in and of itself doesn't seem super strange from a classical standpoint because
+
+100
+00:08:19,540 --> 00:08:24,070
+you should light into something else, you know, maybe that absorbs light that he met some kind of
+
+101
+00:08:24,070 --> 00:08:24,910
+electrons.
+
+102
+00:08:25,450 --> 00:08:25,780
+Right?
+
+103
+00:08:26,020 --> 00:08:32,190
+And you can actually measure the energy of these emitted electrons using the voltage here.
+
+104
+00:08:32,200 --> 00:08:38,860
+What you can do is if you have a potential ness to see that when you increase the stopping potential,
+
+105
+00:08:39,190 --> 00:08:45,940
+the S on this plate, what's going to happen is that at some point that potential is going to be so
+
+106
+00:08:45,940 --> 00:08:52,900
+high that no electron has sufficient energy, kinetic energy to overcome that potential.
+
+107
+00:08:53,230 --> 00:08:56,550
+And you don't collect or generate any kind of current right.
+
+108
+00:08:57,010 --> 00:09:02,530
+So what you can say is that you can say the kinetic energy which is generated in this electron.
+
+109
+00:09:02,980 --> 00:09:10,270
+One of these emitted mass should be equal to the potential you measure towards the electron charge.
+
+110
+00:09:11,600 --> 00:09:12,500
+As follows, right?
+
+111
+00:09:12,680 --> 00:09:13,790
+Conservation of energy.
+
+112
+00:09:14,850 --> 00:09:20,970
+So you can equate the kinetic energy to the energy, what's trying to stop these electrons from being
+
+113
+00:09:20,970 --> 00:09:22,440
+collected and generating current?
+
+114
+00:09:23,530 --> 00:09:28,450
+And what we observed by measuring these quantities is something interesting.
+
+115
+00:09:29,620 --> 00:09:36,010
+So if we back up a bit back up here, classical theory in electromagnetism states that.
+
+116
+00:09:37,650 --> 00:09:44,700
+If you increase the intensity of your light, your energy of that radiation should increase proportionally.
+
+117
+00:09:45,450 --> 00:09:49,770
+But what we found is that if we increase this incident light upon this plate.
+
+118
+00:09:51,700 --> 00:09:57,370
+If it's increase that the intensity of the instability is increased, the number of ejected electrons
+
+119
+00:09:57,730 --> 00:10:02,050
+increases, but their kinetic energy does not change at all.
+
+120
+00:10:03,370 --> 00:10:05,360
+Instead, scientists were measuring this.
+
+121
+00:10:05,420 --> 00:10:12,070
+Yes, in such a way that you get the same kinetic energy with the same energy as electron.
+
+122
+00:10:14,800 --> 00:10:17,890
+Regardless of the intensity of the light that's coming in.
+
+123
+00:10:18,920 --> 00:10:24,710
+Right, so that was a problem that seemed like electromagnetism did not fail, that it did fail, it
+
+124
+00:10:24,710 --> 00:10:26,180
+could not explain this phenomenon.
+
+125
+00:10:27,110 --> 00:10:28,820
+We had another problem number two.
+
+126
+00:10:29,870 --> 00:10:36,650
+That, you know, is the incident lights frequency F is reduced below some critical frequency.
+
+127
+00:10:38,340 --> 00:10:39,090
+If not.
+
+128
+00:10:40,140 --> 00:10:43,440
+So I just found that no electrons were ejected.
+
+129
+00:10:44,820 --> 00:10:49,410
+They can increase the intensity of the light as much as they wanted, it would not get ejected, but
+
+130
+00:10:49,410 --> 00:10:55,950
+that seemed that seemed weird because, you know, if you got a small frequency, you could just bump
+
+131
+00:10:55,950 --> 00:10:57,840
+up the intensity according to this.
+
+132
+00:10:58,950 --> 00:11:00,270
+That would increase the amplitude.
+
+133
+00:11:00,810 --> 00:11:04,470
+That would increase the magnitude of that wave.
+
+134
+00:11:06,280 --> 00:11:11,380
+And that should increase the energy and allow some electrons to be ejected, so when the world is going
+
+135
+00:11:11,380 --> 00:11:16,690
+on here, and this was very confusing back in the day and it was not until I started looking around
+
+136
+00:11:16,690 --> 00:11:19,030
+and said, Push you crazy guys.
+
+137
+00:11:20,410 --> 00:11:21,610
+It's right in front of you.
+
+138
+00:11:22,960 --> 00:11:23,950
+Listen to Nature.
+
+139
+00:11:24,100 --> 00:11:25,090
+It's speaking to you.
+
+140
+00:11:26,410 --> 00:11:29,830
+Take what it's giving you and use that to develop your theories.
+
+141
+00:11:30,690 --> 00:11:33,490
+I don't try to save your precious electromagnetism.
+
+142
+00:11:35,580 --> 00:11:37,200
+Listen to the universe, that's your friend.
+
+143
+00:11:37,470 --> 00:11:44,220
+So what he said, he made this stark statement back in 1985 which resolved this.
+
+144
+00:11:45,690 --> 00:11:51,720
+And help to really identify some kind of massless particle, what he said is that the energy and a beam
+
+145
+00:11:51,720 --> 00:11:55,230
+of light is not distributed continuously through space.
+
+146
+00:11:55,770 --> 00:11:56,250
+No.
+
+147
+00:11:56,730 --> 00:12:04,710
+Rather, it consists of a finite number of energy quanta, just like Max Planck said, which are localized
+
+148
+00:12:04,710 --> 00:12:12,630
+at points which cannot be subdivided and which are absorbed and emitted only as whole units.
+
+149
+00:12:13,230 --> 00:12:13,580
+OK.
+
+150
+00:12:14,690 --> 00:12:19,730
+That's a big condensed statement, let's try to break that down, so we said it consists of a finite
+
+151
+00:12:19,730 --> 00:12:20,930
+number of energy quanta.
+
+152
+00:12:21,620 --> 00:12:28,040
+So another way of thinking about that is that, you know, maybe light is a wave and then it has some
+
+153
+00:12:28,040 --> 00:12:29,270
+packets of energy.
+
+154
+00:12:30,990 --> 00:12:39,030
+Along that wave, maybe something like this traveling along that wave, that's sort of like a wave particle
+
+155
+00:12:39,030 --> 00:12:41,040
+duality as such.
+
+156
+00:12:41,790 --> 00:12:47,250
+And as these, these little packets hit the electrons, the electron absorbed that energy and flies
+
+157
+00:12:47,250 --> 00:12:47,550
+out.
+
+158
+00:12:48,360 --> 00:12:51,540
+So in a finite number of energy, it's local.
+
+159
+00:12:51,540 --> 00:12:54,860
+Localized at different points can all be subdivided.
+
+160
+00:12:56,370 --> 00:13:01,440
+And it's absorbed any minute only as whole units, well, that sort of suggests that it's.
+
+161
+00:13:02,430 --> 00:13:05,340
+Sort of a particle, some particle with an energy.
+
+162
+00:13:06,340 --> 00:13:12,580
+That could be this hgf that Max Planck identified, but it's important to note that this idea here it
+
+163
+00:13:12,580 --> 00:13:19,510
+takes max plunks idea of quantization and builds upon it by stating that it's we have these segmented
+
+164
+00:13:19,510 --> 00:13:21,190
+packets of that energy.
+
+165
+00:13:22,660 --> 00:13:28,150
+Now, the question then becomes, how does this actually result with one this year?
+
+166
+00:13:28,820 --> 00:13:31,420
+Well, by adopting this theory.
+
+167
+00:13:32,990 --> 00:13:38,120
+It helps explain both one and two as well as well one states that, you know, at the intensity of the
+
+168
+00:13:38,120 --> 00:13:39,290
+incident like is increased.
+
+169
+00:13:39,740 --> 00:13:44,540
+We see that the number of ejected electron increases, but the kinetic energy does not change at all.
+
+170
+00:13:46,800 --> 00:13:51,150
+Well, we have higher intensity of light, we're going to have more packets or packets are going to
+
+171
+00:13:51,150 --> 00:13:52,170
+have a higher chance.
+
+172
+00:13:53,600 --> 00:13:58,460
+We're packets of protons have higher chance of hitting an electron, which means that you would get
+
+173
+00:13:58,460 --> 00:14:02,030
+more electrons emitted off of this place, so that makes sense.
+
+174
+00:14:02,840 --> 00:14:03,800
+But the energy?
+
+175
+00:14:04,790 --> 00:14:11,900
+Of each photon that's hitting it right, there has to be HSF, so the electrons that are emitted, the
+
+176
+00:14:12,260 --> 00:14:13,670
+energy must be equal to each.
+
+177
+00:14:14,300 --> 00:14:14,630
+Right.
+
+178
+00:14:14,900 --> 00:14:19,220
+There's just one photon hitting it, and that's the kinetic energy you get.
+
+179
+00:14:20,710 --> 00:14:26,920
+Kinetic energy is unchanged, so that explains that explains it pretty elegantly and very easily.
+
+180
+00:14:28,030 --> 00:14:33,700
+That's probably about, you know, if you have some frequency f that's reduced below a frequency, if
+
+181
+00:14:33,700 --> 00:14:36,520
+not, no electrons are ejected.
+
+182
+00:14:38,260 --> 00:14:40,810
+Well, to solve that again, that's pretty easy.
+
+183
+00:14:41,110 --> 00:14:48,610
+You can just say that if the photon energy earth is lower than the amount to eject an electron, right?
+
+184
+00:14:48,940 --> 00:14:53,950
+If a photon has lower energy than the electron needs to escape the metal.
+
+185
+00:14:55,600 --> 00:14:58,210
+The photo will be unable to eject any electron.
+
+186
+00:14:59,450 --> 00:14:59,720
+Right.
+
+187
+00:15:00,380 --> 00:15:01,160
+That's plausible.
+
+188
+00:15:02,000 --> 00:15:12,020
+So what we know is that an electron is bound to different metallic atoms and it requires energy to be
+
+189
+00:15:12,020 --> 00:15:12,800
+released from it.
+
+190
+00:15:13,520 --> 00:15:17,330
+So what if you fire a light that has photons packets of energy?
+
+191
+00:15:18,020 --> 00:15:23,270
+H f that's less than that energy, the work potential of that metal, that's what it's called.
+
+192
+00:15:25,120 --> 00:15:25,750
+To get by.
+
+193
+00:15:27,440 --> 00:15:29,840
+So we say the work potential to get out.
+
+194
+00:15:30,200 --> 00:15:33,140
+We define it as if not of metal.
+
+195
+00:15:33,650 --> 00:15:34,650
+What's going to happen?
+
+196
+00:15:34,700 --> 00:15:35,180
+Well.
+
+197
+00:15:36,330 --> 00:15:44,700
+It's going to stay intact, can't it can't escape its trapped in an energy potential sort of use quantum
+
+198
+00:15:44,700 --> 00:15:45,690
+mechanical terms.
+
+199
+00:15:46,140 --> 00:15:46,500
+So.
+
+200
+00:15:48,480 --> 00:15:52,520
+What Einstein did is he's like, guys, look, this makes sense, this is what nature is conveying.
+
+201
+00:15:52,530 --> 00:15:53,790
+This is what it's telling us.
+
+202
+00:15:54,420 --> 00:15:55,350
+Let's listen.
+
+203
+00:15:55,860 --> 00:15:56,400
+Let's listen.
+
+204
+00:15:56,400 --> 00:15:59,130
+Let's not let electromagnetism.
+
+205
+00:16:00,600 --> 00:16:04,290
+Plug our ears so we don't hear what the universe is communicating.
+
+206
+00:16:05,480 --> 00:16:08,330
+This is just what it is, and it explains everything brilliantly.
+
+207
+00:16:09,310 --> 00:16:10,540
+So we went a step further.
+
+208
+00:16:10,900 --> 00:16:17,410
+What he said is that, well, any kinetic energy that these electrons have, the photons are going to
+
+209
+00:16:17,410 --> 00:16:19,990
+hit the electron in this plate.
+
+210
+00:16:20,350 --> 00:16:23,530
+It's going to come off and the energy it has is.
+
+211
+00:16:24,500 --> 00:16:29,030
+The energy of the photon mines, the energy that is needed to escape.
+
+212
+00:16:30,430 --> 00:16:30,780
+Right.
+
+213
+00:16:31,340 --> 00:16:32,680
+That that's plausible.
+
+214
+00:16:33,160 --> 00:16:37,810
+So what he did, he said that if you do an experiment and measure all this, this stuff.
+
+215
+00:16:38,230 --> 00:16:39,250
+Measure this guy.
+
+216
+00:16:41,480 --> 00:16:42,740
+The actual energy.
+
+217
+00:16:44,490 --> 00:16:45,600
+Of that electron.
+
+218
+00:16:49,800 --> 00:16:52,470
+You should be able to confirm what I'm talking about here.
+
+219
+00:16:52,860 --> 00:16:57,570
+So Einstein did not do the experiment himself, and I'm sort of running out of space here, but.
+
+220
+00:16:59,560 --> 00:17:04,030
+Another individual later on, then an experiment, it was actually quite hard to conduct.
+
+221
+00:17:05,510 --> 00:17:07,430
+Much of the details myself, but.
+
+222
+00:17:09,120 --> 00:17:10,200
+He collected data.
+
+223
+00:17:11,340 --> 00:17:12,570
+Well, look, something like this.
+
+224
+00:17:19,610 --> 00:17:24,020
+And nowadays we use Excel, but if you fit some kind of line to this.
+
+225
+00:17:26,060 --> 00:17:31,940
+As as such, which is not working for me because my blue marker is dead.
+
+226
+00:17:34,950 --> 00:17:38,370
+It was just dead completely, so we're going to pack up and we're going to use a green.
+
+227
+00:17:40,090 --> 00:17:46,030
+So when you said a line, you got something like that, you see quite.
+
+228
+00:17:46,990 --> 00:17:50,260
+Quite clearly, basically this.
+
+229
+00:17:53,510 --> 00:17:54,830
+Resources, your energy.
+
+230
+00:17:56,820 --> 00:17:57,780
+Is your frequency?
+
+231
+00:18:01,190 --> 00:18:02,900
+And this guy is your intersect.
+
+232
+00:18:04,100 --> 00:18:07,550
+So using this, the URL to verify that this.
+
+233
+00:18:08,990 --> 00:18:12,500
+This guy here, energy is equal to Jeff Plant's constant.
+
+234
+00:18:14,000 --> 00:18:17,450
+They got a value for that and a match exactly what Max Clark was saying.
+
+235
+00:18:19,740 --> 00:18:21,150
+So you look at these experiments.
+
+236
+00:18:23,010 --> 00:18:25,800
+And we suddenly have evidence.
+
+237
+00:18:26,800 --> 00:18:31,090
+Which they vote is the fact that light and radiation.
+
+238
+00:18:33,580 --> 00:18:40,900
+Is composed of massless particles, which are quantized packets of energy, right?
+
+239
+00:18:43,150 --> 00:18:44,950
+So we have some evidence of it.
+
+240
+00:18:45,860 --> 00:18:50,900
+We can measure sort of the energy associated with that particle.
+
+241
+00:18:52,340 --> 00:18:56,150
+But it was still a little unclear because a particle.
+
+242
+00:18:56,330 --> 00:19:00,680
+It has energy, but it should also have momentum.
+
+243
+00:19:01,010 --> 00:19:01,490
+OK.
+
+244
+00:19:01,790 --> 00:19:04,100
+So how do you calculate the momentum?
+
+245
+00:19:06,160 --> 00:19:13,150
+So at this point, people still do not believe that there was a massive particle, that light must be
+
+246
+00:19:13,150 --> 00:19:16,810
+some kind of wave and it could not be a particle.
+
+247
+00:19:17,560 --> 00:19:21,850
+It did not have this wave particle duality, which you take for granted nowadays.
+
+248
+00:19:22,000 --> 00:19:22,390
+So.
+
+249
+00:19:24,000 --> 00:19:32,190
+What had happened is, and I'll talk about this in the next video, the next topic we'll dive into is
+
+250
+00:19:32,490 --> 00:19:38,790
+we had to do something known as the Compton experiment to assess the Compton effect.
+
+251
+00:19:39,620 --> 00:19:42,350
+And basically, what you could do is you could take any kind of instant light.
+
+252
+00:19:43,190 --> 00:19:47,300
+Try and scatter it against some kind of particle, some electron.
+
+253
+00:19:47,690 --> 00:19:53,180
+What have you and then measure the energy of that scattered particle?
+
+254
+00:19:53,660 --> 00:19:58,850
+And that can help you determine precisely both the energy and the momentum.
+
+255
+00:19:59,060 --> 00:19:59,440
+OK.
+
+256
+00:19:59,930 --> 00:20:02,420
+That's what we're going to talk about in the next video.
+
+257
+00:20:02,810 --> 00:20:03,590
+Stay tuned.

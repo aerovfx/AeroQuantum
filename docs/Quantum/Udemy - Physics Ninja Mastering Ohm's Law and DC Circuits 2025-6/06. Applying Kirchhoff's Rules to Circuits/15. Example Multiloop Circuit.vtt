@@ -1,0 +1,474 @@
+WEBVTT
+
+WEBVTT
+
+00:00.330 --> 00:02.280
+OK so it's like a full example now.
+
+00:02.310 --> 00:04.410
+So here's a nice kind of multi loop circuit.
+
+00:04.410 --> 00:09.120
+We've got one two three four five resistors and we've got a couple of questions here.
+
+00:09.120 --> 00:12.980
+First is find the potential difference across the five ohm resistor.
+
+00:13.050 --> 00:13.420
+OK.
+
+00:13.500 --> 00:14.250
+Well that's pretty easy.
+
+00:14.250 --> 00:17.320
+That's just really Ohm's law right.
+
+00:17.340 --> 00:23.770
+The potential differences across any resistor is the value of the resistance multiplied by the current.
+
+00:23.850 --> 00:26.650
+I need to find how much current is flowing through there.
+
+00:27.000 --> 00:31.660
+And Question 2 says Find the power dissipated by this forum resistor.
+
+00:31.980 --> 00:32.300
+OK.
+
+00:32.310 --> 00:35.540
+Well the find the power dissipated again that's a simple equation.
+
+00:36.030 --> 00:39.950
+It's simply the value of the resistance multiplied by the current squared.
+
+00:40.170 --> 00:42.990
+Oh I need to know the current flowing through this forum resistor.
+
+00:42.990 --> 00:43.380
+OK.
+
+00:43.500 --> 00:48.690
+So this problem here boils down to we've got to find what the current is flowing through each and every
+
+00:48.690 --> 00:49.970
+one of these resistors.
+
+00:50.160 --> 00:55.940
+So we're going to do let's start by labeling values of currents everywhere and then we'll see how we
+
+00:55.940 --> 00:58.430
+could proceed.
+
+00:58.430 --> 00:58.730
+All right.
+
+00:58.730 --> 01:06.140
+So down here through the battery I mean to call this oops I call this the current down here and this
+
+01:06.140 --> 01:12.770
+section right through this first branch here I'm going to call this the current one I'm going to call
+
+01:12.770 --> 01:16.100
+the current going appear to be equal to Aitu.
+
+01:16.650 --> 01:17.840
+Oh now look what happens here.
+
+01:17.840 --> 01:21.680
+Now there is a junction so part of the current is going to go up here part of the current is going to
+
+01:21.680 --> 01:23.300
+go down here.
+
+01:23.810 --> 01:30.230
+So when you call the current go into the top three current down here to be equal to I4.
+
+01:31.080 --> 01:31.760
+All right.
+
+01:31.790 --> 01:33.520
+Now they recombine.
+
+01:33.920 --> 01:38.650
+So whatever current I too was going in kind of breaks up but then it recombines over here.
+
+01:38.810 --> 01:44.690
+So you should also convince yourself you have a current Aitu flowing in this upper branch here through
+
+01:44.690 --> 01:47.620
+the form resistor.
+
+01:47.680 --> 01:49.760
+OK so that's what all the currents look like.
+
+01:49.780 --> 01:56.470
+The next thing I should do is well this looks like a network that I can simplify using the equivalent
+
+01:56.470 --> 01:58.100
+resistances.
+
+01:58.150 --> 02:01.850
+So what I'm going to do here is I'm going to start by kind of getting rid of this.
+
+02:02.050 --> 02:03.280
+That looks kind of complicated.
+
+02:03.280 --> 02:07.570
+However these are just two resistors that are in parallel with each other.
+
+02:07.930 --> 02:09.550
+So I can simplify this.
+
+02:09.550 --> 02:10.450
+All right.
+
+02:10.780 --> 02:12.150
+Let's just go ahead and do that up here.
+
+02:12.160 --> 02:14.380
+Call this our equivalent one.
+
+02:15.090 --> 02:15.500
+OK.
+
+02:15.580 --> 02:20.570
+And if there's two of them I can apply my little trick you multiply them divided by the sum.
+
+02:21.550 --> 02:31.000
+If you add them up that's a team you could simplify 18 18 six goes three times.
+
+02:31.180 --> 02:34.700
+I'm left with four looks like OK.
+
+02:34.720 --> 02:40.120
+So this whole thing here I can replace with a 400 resistor what's the next thing I can do.
+
+02:40.390 --> 02:44.420
+Well each one of these branches now simply has two resistors.
+
+02:44.440 --> 02:48.420
+We've gotten rid of this one and represented with a form resistor but that's fine.
+
+02:48.660 --> 02:50.300
+And now look what we have.
+
+02:50.350 --> 02:52.060
+So I mean redraw this.
+
+02:52.180 --> 02:53.440
+So it's over here.
+
+02:53.440 --> 02:56.220
+I'm going to try to make it a little bit smaller just to save on space.
+
+02:56.320 --> 03:00.990
+So we have a 12 volt battery and we're going to make it teeny tiny here.
+
+03:01.360 --> 03:06.260
+We have well three plus five Remember these are in series with one another.
+
+03:06.400 --> 03:08.770
+So that's just an 8 ohm resistor.
+
+03:08.890 --> 03:11.310
+So let's just substitute it with one value here.
+
+03:12.490 --> 03:13.320
+OK.
+
+03:14.360 --> 03:19.110
+And close that branch and this guy here is simply eight
+
+03:21.920 --> 03:24.090
+or using a rule for series resistors.
+
+03:24.230 --> 03:30.500
+And how about the top or the top I just said everything here in the orange blob is for oh then I have
+
+03:30.500 --> 03:32.680
+another for all that's pretty easy.
+
+03:32.680 --> 03:34.920
+It's also eight.
+
+03:35.160 --> 03:37.110
+That's easy.
+
+03:37.220 --> 03:41.290
+This problem is turning out to be pretty wimpy.
+
+03:41.780 --> 03:44.900
+OK and we have another 8 ohm resistor right here.
+
+03:45.920 --> 03:48.530
+OK so how do we combine both of these 8 ohm resistors.
+
+03:48.530 --> 03:50.810
+Well again we can use an equivalent resistance and that's it.
+
+03:50.840 --> 03:52.420
+This will be the last step.
+
+03:52.430 --> 03:57.860
+So it's really the total now equivalent resistance let's just call it our equivalent if you multiply
+
+03:57.860 --> 04:05.330
+them and divided by the sum multiply them divided by the sum you get eight times 8 64 64 divided by
+
+04:05.330 --> 04:08.460
+16 is four.
+
+04:08.930 --> 04:13.670
+Actually one thing you should notice by now is if the resistors are the same and they're in parallel
+
+04:13.670 --> 04:16.500
+with each other you always get half the value.
+
+04:16.730 --> 04:20.680
+That's always kind of a consequence of multiplying them and divided by the sum.
+
+04:21.130 --> 04:21.690
+OK.
+
+04:22.160 --> 04:24.100
+Hopefully you've noticed that.
+
+04:24.230 --> 04:24.490
+All right.
+
+04:24.500 --> 04:31.160
+So this entire network now is equivalent to one simple four ohm resistor are going to draw one last
+
+04:31.160 --> 04:39.950
+time down here just to save on space and just remind ourselves that we have an equivalent for home resistor.
+
+04:41.030 --> 04:46.460
+And the reason I like to do the equivalent resistance is it's fine if you're able to do it for that
+
+04:46.460 --> 04:47.440
+particular circuit.
+
+04:47.450 --> 04:50.790
+It's the easiest way to find the current in this bottom branch.
+
+04:50.930 --> 04:55.830
+Right because now we have this kind of very very straightforward little circuit down here.
+
+04:55.850 --> 04:58.870
+We know the voltage of the battery is still 12.
+
+04:58.940 --> 05:02.730
+So guess what the current ideas are you can automatically find with the current.
+
+05:02.790 --> 05:07.310
+As it simply the voltage of the battery divided by the total resistance.
+
+05:07.370 --> 05:10.130
+So we have to have three amps.
+
+05:10.400 --> 05:13.790
+So there's three amps over here and this bottom section.
+
+05:13.820 --> 05:14.090
+All right.
+
+05:14.090 --> 05:16.160
+Let me go ahead and kind of clear this out here.
+
+05:16.190 --> 05:18.460
+This is not required any more.
+
+05:18.770 --> 05:19.380
+All right.
+
+05:19.640 --> 05:20.620
+Now let's continue.
+
+05:20.750 --> 05:22.520
+Roger we've got to go back to our questions.
+
+05:22.610 --> 05:26.900
+Really our goal was to find how much current is flowing through here how much current is flowing through
+
+05:26.900 --> 05:27.950
+here.
+
+05:28.250 --> 05:30.440
+Well maybe I should have deleted that right away.
+
+05:30.440 --> 05:33.130
+Actually let's keep that up there for a second.
+
+05:34.130 --> 05:38.020
+Well the reason I want to keep this up here is because look what happens.
+
+05:38.120 --> 05:39.430
+Right.
+
+05:39.440 --> 05:44.090
+We have two branches here that are 8 ohms.
+
+05:44.270 --> 05:46.630
+That's the total resistance of each branch.
+
+05:46.880 --> 05:48.400
+And we just calculate the current.
+
+05:48.430 --> 05:55.420
+I I said there is three amps flowing through the battery and up here.
+
+05:55.460 --> 06:02.180
+And once it gets to this junction over here guess what's going to happen if the resistance is the same
+
+06:02.180 --> 06:04.250
+we just saw this on the previous video.
+
+06:04.290 --> 06:04.810
+Right.
+
+06:04.940 --> 06:08.960
+If the resistance is the same what's going to happen to those three amps.
+
+06:09.470 --> 06:16.730
+Well it means that the current is going to be evenly divided whatever current flows through here I wonder.
+
+06:16.960 --> 06:24.940
+And whenever current flows through here to it has to be they have to be the same because the total resistance
+
+06:24.940 --> 06:27.940
+is the same in each one of those branches.
+
+06:28.240 --> 06:35.230
+So we have to have that the current one equals to the current Aitu so that automatically means we know
+
+06:35.230 --> 06:37.620
+the value because we have three going in.
+
+06:38.200 --> 06:44.960
+And if I one has to be equal to Aitu Well guess what if you apply the junction rule here you have three
+
+06:44.960 --> 06:49.530
+going in and that must be equal to one plus two.
+
+06:50.240 --> 06:51.570
+But those are the same.
+
+06:51.770 --> 06:55.220
+So this must be equal to two times I want.
+
+06:55.310 --> 07:03.180
+So one has to be equal to three over to her 1.5 and that must be equal to the current Aitu.
+
+07:04.010 --> 07:04.480
+OK.
+
+07:04.550 --> 07:06.560
+So that's kind of an important relationship.
+
+07:06.860 --> 07:11.270
+So we're getting pretty good now at kind of finding currency I think.
+
+07:11.300 --> 07:15.860
+All right now that we know that really the currents through and now look at we know the current everywhere
+
+07:15.860 --> 07:24.810
+in this this first branch to 1.5 guess what we know also the current up here and we don't know the current
+
+07:24.810 --> 07:28.640
+through the six and the 12 but do we really need that for this question.
+
+07:28.650 --> 07:33.990
+All we're asking for is what is the power dissipated by this forum resistance to know the power dissipated
+
+07:33.990 --> 07:35.470
+by that resistance.
+
+07:35.550 --> 07:40.720
+All we need to know is the current flowing through it and that has to be Â£1.5.
+
+07:40.740 --> 07:41.050
+All right.
+
+07:41.070 --> 07:43.280
+So the last part.
+
+07:43.530 --> 07:44.850
+Let's go ahead and calculate.
+
+07:44.880 --> 07:48.080
+So this will be question a question B.
+
+07:48.120 --> 07:56.730
+So for question a the voltage between this point and this point to call it point 1 and point to that
+
+07:56.730 --> 07:58.180
+voltage difference.
+
+07:58.180 --> 08:03.870
+And again it's just given by Ohm's law and call a delta V or just call it V if you want against the
+
+08:03.870 --> 08:08.240
+value of the resistance are multiplied by the current flowing through it.
+
+08:08.250 --> 08:10.610
+We just said it was three over two.
+
+08:11.520 --> 08:11.860
+OK.
+
+08:11.880 --> 08:13.900
+So we get 15 divided by two.
+
+08:14.040 --> 08:18.550
+We get 7.5 volts.
+
+08:18.760 --> 08:19.050
+All right.
+
+08:19.050 --> 08:20.100
+How about Part B.
+
+08:20.100 --> 08:26.240
+Part B says Find the power dissipated in this forum resistance the power dissipated in the forum.
+
+08:26.400 --> 08:32.520
+Resistance is given by the value of the resistance which is four multiplied by the current going through
+
+08:32.520 --> 08:32.600
+it.
+
+08:32.610 --> 08:34.140
+We said again it's 1.5.
+
+08:34.140 --> 08:35.610
+Let's call it three over two.
+
+08:35.610 --> 08:37.780
+Easier to do the math for me.
+
+08:37.920 --> 08:40.800
+And don't forget the square that you get.
+
+08:40.810 --> 08:42.760
+So we get four.
+
+08:42.920 --> 08:46.740
+Why don't we get three squared is 9 2 squared is four.
+
+08:46.900 --> 08:48.370
+Well that's convenient.
+
+08:48.680 --> 08:56.470
+And cancel those out and at the end what you're left with is the power dissipated by that for resistance
+
+08:56.530 --> 09:00.680
+is given by nine Watts OK.
+
+09:01.130 --> 09:07.070
+So there's kind of a nice problem kind of we use some simplifications we use equivalent resistance to
+
+09:07.070 --> 09:13.310
+simplify things and we also use the fact that both of these branches had equal resistances that allowed
+
+09:13.310 --> 09:17.060
+us to kind of simplify this math a little bit and get to the answer quickly.

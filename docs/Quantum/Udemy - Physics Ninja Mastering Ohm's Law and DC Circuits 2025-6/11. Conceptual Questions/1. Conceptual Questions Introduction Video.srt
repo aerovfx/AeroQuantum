@@ -1,0 +1,49 @@
+WEBVTT
+
+00:00.090 --> 00:03.820
+Hi everybody and welcome to the conceptual problem set here.
+
+00:03.830 --> 00:05.670
+So I've got a whole series of problems.
+
+00:05.760 --> 00:11.520
+The first part includes just power supplies and resistors or light bulbs and in the second part there
+
+00:11.510 --> 00:17.620
+are seven questions based on adding capacitors in there and more conceptual style problems.
+
+00:17.970 --> 00:22.140
+Although their conceptual style problems feel free to write down equations and use what you learned
+
+00:22.140 --> 00:24.900
+to try to figure out what the answer is.
+
+00:24.990 --> 00:29.310
+In most cases you can assume that the power supplies of the batteries are ideal.
+
+00:29.310 --> 00:31.940
+However I think there's two problems.
+
+00:32.010 --> 00:37.470
+Five and six that you may have to include a tiny internal resistance because you might find that if
+
+00:37.470 --> 00:42.750
+you apply Kirchoff's rules and you try to argue you're going to run into a few problems and you know
+
+00:42.750 --> 00:45.090
+you'll see the solutions later on.
+
+00:45.120 --> 00:46.750
+Good luck with these problems folks.
+
+00:46.770 --> 00:51.840
+Again if you have any questions or leave a comment maybe I'll try to explain it slightly differently
+
+00:51.840 --> 00:53.110
+than what I did in the video.
+
+00:53.160 --> 00:53.390
+OK.
+
+00:53.400 --> 00:54.620
+Good luck guys.

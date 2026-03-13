@@ -1,0 +1,145 @@
+WEBVTT
+
+00:00.650 --> 00:00.950
+All right.
+
+00:00.950 --> 00:05.750
+So we start off with some basic things, some things that you might already know even before kind of
+
+00:05.750 --> 00:07.790
+studying anything to do with electrostatic.
+
+00:08.570 --> 00:13.070
+The first statement I have here is that like charges, they repel each other.
+
+00:13.370 --> 00:16.130
+So let's consider the two cases of like charges.
+
+00:16.130 --> 00:16.330
+Right?
+
+00:16.340 --> 00:18.530
+We have positive and a positive charge.
+
+00:19.400 --> 00:25.400
+Another case we would have would be a negative charge separated by a certain distance from another negative
+
+00:25.400 --> 00:26.000
+charge.
+
+00:26.450 --> 00:26.660
+All right.
+
+00:26.660 --> 00:28.700
+So these are the like charges.
+
+00:28.700 --> 00:34.670
+And, well, one thing we can do is write down the force acting between the like charges.
+
+00:35.000 --> 00:40.940
+So if a positive is next to a positive, there would be a force acting like this, acting on the left
+
+00:40.940 --> 00:41.450
+charge.
+
+00:41.450 --> 00:46.850
+And we're going to have a force acting to the right on this or on the left and the right.
+
+00:47.360 --> 00:49.310
+How about two negatives right next to each other?
+
+00:49.310 --> 00:53.360
+Again, they would feel a repulsive force between both of them.
+
+00:53.630 --> 00:57.200
+And I'm going to label that force just with the same letter F.
+
+00:58.490 --> 00:58.910
+All right.
+
+00:58.910 --> 01:00.350
+So a couple of things.
+
+01:00.350 --> 01:01.990
+These forces are opposite.
+
+01:02.000 --> 01:03.530
+They're equal magnitude.
+
+01:03.860 --> 01:04.220
+Right.
+
+01:04.460 --> 01:07.040
+And they're acting on the different charges.
+
+01:07.160 --> 01:11.390
+Let's consider the last statement over here says Opposite charges attract to each other.
+
+01:11.720 --> 01:14.990
+Now, I can plot it any way I want, but let's just do it this way.
+
+01:16.010 --> 01:20.270
+We have the positive separated from a negative by a certain distance.
+
+01:20.690 --> 01:22.550
+Again, now they attract each other.
+
+01:22.550 --> 01:27.760
+So that means the force that you would add would be like this one forces acting on the positive charge,
+
+01:27.770 --> 01:30.980
+the other force would be acting on the negative charge, and that's it.
+
+01:31.370 --> 01:35.300
+Now these forces form action reaction pairs, right?
+
+01:35.630 --> 01:38.620
+This is really Newton's third law at work here.
+
+01:38.630 --> 01:40.670
+So let me just write down that down.
+
+01:40.670 --> 01:46.460
+Newton's third law and third law says for every action there is an equal and opposite reaction.
+
+01:46.910 --> 01:49.490
+And you need three things for Newton's third law, right?
+
+01:49.490 --> 01:51.700
+We need the same force.
+
+01:51.710 --> 01:52.460
+That's what we have.
+
+01:53.680 --> 01:55.360
+We need opposite direction.
+
+01:55.480 --> 01:56.410
+That's what we have.
+
+01:57.630 --> 01:58.650
+I'll just write opposite.
+
+01:58.650 --> 01:59.400
+And number three.
+
+01:59.400 --> 02:01.950
+What we do need are different objects.
+
+02:02.490 --> 02:02.790
+Right.
+
+02:02.790 --> 02:04.350
+In this case, what are the objects?
+
+02:04.350 --> 02:06.150
+We have different charges.
+
+02:06.160 --> 02:07.770
+Okay, that is what's going on.
+
+02:08.010 --> 02:12.690
+So these action reaction pairs, this force here obeys Newton's third law.
+
+02:12.840 --> 02:14.820
+All right, so just get us started over here.

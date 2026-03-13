@@ -1,0 +1,139 @@
+WEBVTT
+
+00:00.070 --> 00:06.270
+All writer's concept check number six for RC circuits are you saying the same circuit as before.
+
+00:06.390 --> 00:09.440
+So which is close that time equals zero zip.
+
+00:09.450 --> 00:16.630
+Now we want to know what is the voltage now across the capacitor see long after the switch is closed
+
+00:16.650 --> 00:25.200
+so after a long time what is going to be the potential difference here across across those plates.
+
+00:25.210 --> 00:31.700
+OK so in order to solve this well you have to be a little bit careful you can't just say six volts here.
+
+00:31.840 --> 00:38.830
+If you say six volts in that case that's really not what's going to happen because this additional resistor
+
+00:38.830 --> 00:42.980
+up here is the reason why you're not going to get six volts.
+
+00:43.270 --> 00:47.670
+If you think about what happens now well again you're going to charge it up and eventually the charger
+
+00:47.670 --> 00:49.190
+is not going to change.
+
+00:49.420 --> 00:54.840
+Which means that you're not going to have any more current flow in this outer branch.
+
+00:55.630 --> 01:00.940
+If the current is going to be zero and this outer branch again you imagine use an injunction rule it
+
+01:00.940 --> 01:07.630
+says then whatever current flows into this junction is basically going to be the same current flowing
+
+01:07.630 --> 01:10.980
+down here because eventually this here becomes saturated.
+
+01:11.080 --> 01:17.710
+So let's calculate what this current ice is here through this left circuit member in the long time limit
+
+01:17.710 --> 01:23.530
+what you do is you basically replace this with a resistance that is very very big.
+
+01:24.310 --> 01:27.150
+So no more current is going to flow out here.
+
+01:27.250 --> 01:31.680
+So that means we simply have two resistors here that are in series with each other.
+
+01:32.350 --> 01:40.360
+So the equivalent resistance is basically just three ohm and a current I was going to be six divided
+
+01:40.360 --> 01:44.080
+by three going to be two amps.
+
+01:44.110 --> 01:47.770
+So even in a long time limit you have to be amps flowing here.
+
+01:49.050 --> 01:50.620
+So what does that mean.
+
+01:50.640 --> 01:54.590
+Now we use the fact that we have three branches right.
+
+01:54.780 --> 01:57.850
+We have the branch abey.
+
+01:58.200 --> 02:04.420
+We have the branch C.B and we have the branch with the capacitor in it.
+
+02:04.680 --> 02:13.260
+We know that for any circuit with parallel branches that the voltage across has to be the same.
+
+02:13.300 --> 02:16.780
+So actually you can either you can use any branch you want here.
+
+02:16.800 --> 02:17.310
+Right.
+
+02:17.320 --> 02:20.930
+Let's use this middle branch since we know how much current flows through it.
+
+02:21.040 --> 02:21.250
+Right.
+
+02:21.250 --> 02:28.930
+If you use the middle one it's right it out the potential difference between Point B and point C is
+
+02:28.930 --> 02:33.190
+basically equal to the voltage drop across the two ohm resistor.
+
+02:33.430 --> 02:39.910
+The voltage drop across the two Omers This is the value of the resistance multiplied by the current.
+
+02:40.000 --> 02:45.180
+In this case two times two which gives me four volts.
+
+02:45.340 --> 02:51.530
+I would have also gotten four volts if I look at the potential going from point A to Point B.
+
+02:51.640 --> 02:56.920
+Right then must also equal four because you get plus four here you get minus four when you get a drop
+
+02:56.920 --> 03:04.540
+across this resistor and you go back there you get zero right so let's ride that one out.
+
+03:04.590 --> 03:07.710
+If you start at point eight you're at some potential vitÃ¦.
+
+03:07.710 --> 03:10.550
+The next thing you encounter is that six mile battery.
+
+03:10.710 --> 03:13.500
+The next thing I encounter is a 1 ohm resistor.
+
+03:13.650 --> 03:19.330
+So there is a voltage drop across that resistor given by one multiplied by the current flowing through
+
+03:19.330 --> 03:23.620
+it which is two and that there must be equal to the potential at point B.
+
+03:25.270 --> 03:26.060
+At the end you get.
+
+03:26.060 --> 03:33.430
+VB mine is V.A also equals the four volts same as the previous one that we just did.
+
+03:33.430 --> 03:42.640
+So every single branch in this circuit including the capacitor now must be equal to four volts in a
+
+03:42.640 --> 03:44.140
+long time limit.
+
+03:44.400 --> 03:46.280
+So always five is the best choice for that.

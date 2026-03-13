@@ -1,0 +1,788 @@
+1
+00:00:00,710 --> 00:00:03,283
+Nowadays we don't really
+have to search too hard for
+
+2
+00:00:03,283 --> 00:00:05,278
+a motivation to study quantum physics.
+
+3
+00:00:05,278 --> 00:00:10,111
+There are plenty of experiments happening
+around the world every day which exhibit
+
+4
+00:00:10,111 --> 00:00:11,250
+quantum effects.
+
+5
+00:00:11,250 --> 00:00:15,010
+But the situation of course was quite
+different about 100 years ago or so
+
+6
+00:00:15,010 --> 00:00:17,598
+when quantum physics was born.
+
+7
+00:00:17,598 --> 00:00:21,100
+When people couldn't rely on such
+sophisticated techniques and
+
+8
+00:00:21,100 --> 00:00:25,210
+methods, and manifestations of quantum
+physics were very, very subtle.
+
+9
+00:00:26,630 --> 00:00:30,338
+In this video, I'm going to discuss
+two such pioneering experiments.
+
+10
+00:00:30,338 --> 00:00:34,819
+But before going to this part, let me
+tell you a little bit about the mood of
+
+11
+00:00:34,819 --> 00:00:39,231
+the scientists back then on the eve
+of the discovery of quantum physics,
+
+12
+00:00:39,231 --> 00:00:41,970
+which in fact was very pessimistic.
+
+13
+00:00:41,970 --> 00:00:46,635
+In that people believed that there was
+nothing else but classical science and
+
+14
+00:00:46,635 --> 00:00:51,024
+Maxwell's equations and
+Newton's equations and Newtonian gravity.
+
+15
+00:00:52,070 --> 00:00:56,050
+So to illustrate this, I here present two
+
+16
+00:00:56,050 --> 00:01:01,630
+quotes by very influential scientists,
+Albert Michelson and Lord Kelvin.
+
+17
+00:01:01,630 --> 00:01:07,140
+For example, Albert Michelson in
+1894 at the dedication ceremony for
+
+18
+00:01:07,140 --> 00:01:10,910
+a physical laboratory at the University
+of Chicago said the following.
+
+19
+00:01:10,910 --> 00:01:15,190
+The more important fundamental laws and
+facts of physical science have all been
+
+20
+00:01:15,190 --> 00:01:19,760
+discovered, and these are now so firmly
+established that the possibility of their
+
+21
+00:01:19,760 --> 00:01:24,205
+ever being supplanted in consequence of
+new discoveries, is exceedingly remote.
+
+22
+00:01:25,405 --> 00:01:28,135
+A little later Lord Kelvin says literally,
+
+23
+00:01:28,135 --> 00:01:30,795
+there is nothing new to be
+discovered in physics now.
+
+24
+00:01:30,795 --> 00:01:33,505
+All that remains is more and
+more precise measurement.
+
+25
+00:01:34,575 --> 00:01:39,205
+So you can see that even the most famous
+and the most influential physicists didn't
+
+26
+00:01:39,205 --> 00:01:43,300
+believe that there was anything new there,
+and they didn't expect anything new.
+
+27
+00:01:43,300 --> 00:01:44,360
+As a side comment here,
+
+28
+00:01:44,360 --> 00:01:49,320
+let me mention that Michelson actually
+received the 1907 Nobel Prize in physics
+
+29
+00:01:49,320 --> 00:01:52,750
+for his groundbreaking experiments on
+the measurement of the speed of light,
+
+30
+00:01:52,750 --> 00:01:55,670
+which laid the foundation
+of the relativity theory.
+
+31
+00:01:56,990 --> 00:02:00,940
+So he obviously was proven
+by wrong himself actually,
+
+32
+00:02:00,940 --> 00:02:04,250
+but back in the end of the 19th century,
+he and
+
+33
+00:02:04,250 --> 00:02:08,120
+Lord Kelvin where not the only one
+thinking in this pessimistic way.
+
+34
+00:02:09,250 --> 00:02:14,250
+So the reason for
+this was a lack of obvious experiments
+
+35
+00:02:14,250 --> 00:02:19,380
+available at the time that couldn't
+be explained by the classical theory.
+
+36
+00:02:20,560 --> 00:02:24,811
+So in some sense you may say,
+that the situation was similar to what's
+
+37
+00:02:24,811 --> 00:02:28,568
+going on now actually with
+the large Hadron Collider at CERN.
+
+38
+00:02:28,568 --> 00:02:30,708
+Where all experimental data,
+
+39
+00:02:30,708 --> 00:02:35,564
+including the discovery of the God
+particle, or Higgs Boson last year
+
+40
+00:02:35,564 --> 00:02:39,950
+are actually consistent with
+the so-called standard model.
+
+41
+00:02:39,950 --> 00:02:42,330
+So hopefully the situation
+will change soon and
+
+42
+00:02:42,330 --> 00:02:44,810
+there will be some
+exciting new discoveries.
+
+43
+00:02:44,810 --> 00:02:48,720
+Just like it did change
+back 100 years ago or
+
+44
+00:02:48,720 --> 00:02:52,860
+so when a few elephants sort
+of entered the classical room.
+
+45
+00:02:52,860 --> 00:02:58,430
+By which I mean, experimental data that
+couldn't be explained by classical theory.
+
+46
+00:02:58,430 --> 00:03:02,538
+So here I present a list
+of a few such experiments.
+
+47
+00:03:02,538 --> 00:03:06,310
+And two of them we're going to
+discuss later in this segment, but
+
+48
+00:03:06,310 --> 00:03:10,725
+among them is black-body radiation,
+quantization of atomic spectra,
+
+49
+00:03:10,725 --> 00:03:13,940
+which we'll talk about
+later in the course.
+
+50
+00:03:13,940 --> 00:03:18,220
+The photoelectric effect, which showed
+that under certain circumstances
+
+51
+00:03:18,220 --> 00:03:21,560
+light can behave as a beam of particles.
+
+52
+00:03:21,560 --> 00:03:26,190
+And also there was another very curious
+and interesting in its history experiment,
+
+53
+00:03:26,190 --> 00:03:30,362
+which I refer as accident in Bell Labs,
+shows electrons behave like waves,
+
+54
+00:03:30,362 --> 00:03:33,710
+which normally goes under
+the name of electron defraction.
+
+55
+00:03:34,790 --> 00:03:37,070
+So I will now discuss in
+detail these two experiments.
+
+56
+00:03:39,455 --> 00:03:41,950
+Philipp Lenard was a German physicist and
+
+57
+00:03:41,950 --> 00:03:48,440
+the winner of the 1905 Nobel Prize in
+physics for his work on cathode rays.
+
+58
+00:03:48,440 --> 00:03:53,880
+But back in the beginning of the 20th
+century, he was studying how
+
+59
+00:03:53,880 --> 00:03:59,998
+ultraviolet light interacts with metal
+by knocking off electrons from it.
+
+60
+00:03:59,998 --> 00:04:04,276
+This effect originally was discovered
+actually by Hertz in 1887.
+
+61
+00:04:04,276 --> 00:04:06,791
+It's now called the photoelectric effect,
+but
+
+62
+00:04:06,791 --> 00:04:09,920
+originally it was actually
+called the Hertz effect.
+
+63
+00:04:09,920 --> 00:04:14,780
+So here I present a schematic of Lenard's
+experiment copied from his original paper
+
+64
+00:04:14,780 --> 00:04:18,200
+published back in 1902,
+that is the year here.
+
+65
+00:04:18,200 --> 00:04:21,980
+In this experiment,
+he had two metal plates.
+
+66
+00:04:21,980 --> 00:04:27,051
+Here is the left plate and the right
+plate connected by an electric circuit,
+
+67
+00:04:27,051 --> 00:04:30,710
+so we should imagine having
+an electric circuit here.
+
+68
+00:04:32,010 --> 00:04:35,889
+And one could adjust
+voltage across the plates.
+
+69
+00:04:35,889 --> 00:04:41,109
+So in the photoelectric effect,
+light comes in from
+
+70
+00:04:41,109 --> 00:04:47,060
+a source somewhere here and
+illuminates a metallic plate.
+
+71
+00:04:47,060 --> 00:04:49,760
+So under certain conditions
+that we'll discuss in a second,
+
+72
+00:04:49,760 --> 00:04:53,670
+electrons are emitted from the metal.
+
+73
+00:04:53,670 --> 00:04:58,420
+And if their energy is large enough to
+overcome the potential difference here,
+
+74
+00:04:58,420 --> 00:05:01,800
+they reach the right plate,
+which effectively closes the circuit and
+
+75
+00:05:01,800 --> 00:05:03,510
+results in a measurable electric current.
+
+76
+00:05:05,060 --> 00:05:07,550
+So by adjusting the voltage
+across the plates,
+
+77
+00:05:07,550 --> 00:05:12,130
+one can measure the energy of
+the immediate electrons this way.
+
+78
+00:05:12,130 --> 00:05:16,770
+So what's very important is that if we
+rely on the classical theory of light,
+
+79
+00:05:16,770 --> 00:05:22,510
+which views it as an electromagnetic wave
+of this sort, here's an expression for
+
+80
+00:05:22,510 --> 00:05:26,230
+the electromagnetic wave, which we will
+see actually pretty often in this course.
+
+81
+00:05:26,230 --> 00:05:27,950
+So the classical theory
+would clearly predict,
+
+82
+00:05:27,950 --> 00:05:32,410
+and this is very important,
+that increasing the intensity of the light
+
+83
+00:05:32,410 --> 00:05:34,555
+should lead to more
+energetic photoelectrons.
+
+84
+00:05:35,780 --> 00:05:37,870
+So the more intense the light,
+
+85
+00:05:37,870 --> 00:05:41,929
+the higher the voltage that
+the electrons would be able to overcome.
+
+86
+00:05:43,030 --> 00:05:47,430
+Also the classical theory would
+predict that intense light of
+
+87
+00:05:47,430 --> 00:05:51,780
+any frequency should be able to kick
+some electrons off of the metal plate.
+
+88
+00:05:53,050 --> 00:05:55,030
+So these are very clear cut predictions,
+and
+
+89
+00:05:55,030 --> 00:05:58,490
+there was no way around them and
+the framework of classical physics.
+
+90
+00:05:59,940 --> 00:06:05,400
+However, this was not all what Lenard
+observed actually in his experiment.
+
+91
+00:06:05,400 --> 00:06:09,580
+As a matter of fact, his experiment
+observed exactly the opposite.
+
+92
+00:06:09,580 --> 00:06:13,340
+So first of all the energy of the emitted
+electrons didn't depend at all on
+
+93
+00:06:13,340 --> 00:06:14,620
+the intensity of the light,
+
+94
+00:06:14,620 --> 00:06:18,820
+which he was in sharp contradiction
+with the classical physics.
+
+95
+00:06:18,820 --> 00:06:23,236
+And also very importantly,
+no photoelectrons were produced if
+
+96
+00:06:23,236 --> 00:06:27,256
+the frequency was smaller than
+a certain critical value.
+
+97
+00:06:27,256 --> 00:06:30,534
+So the frequency of the light was
+smaller than some omega critical,
+
+98
+00:06:30,534 --> 00:06:31,570
+there was nothing.
+
+99
+00:06:31,570 --> 00:06:34,729
+No effect whatsoever, the electrons
+didn't reach the right plate.
+
+100
+00:06:36,130 --> 00:06:39,040
+And so
+this was a major mystery at the time, and
+
+101
+00:06:39,040 --> 00:06:42,320
+got actually Albert Einstein
+thinking about it.
+
+102
+00:06:43,550 --> 00:06:46,900
+So it's probably not very surprising
+that this mystery attracted Einstein's
+
+103
+00:06:46,900 --> 00:06:50,310
+attention, as he was obviously thinking
+about the properties of light at the time,
+
+104
+00:06:50,310 --> 00:06:50,830
+as we know.
+
+105
+00:06:52,620 --> 00:06:56,630
+So, three years after Lenard's
+paper in the year of 1905,
+
+106
+00:06:56,630 --> 00:07:02,370
+which is often called the miracle year,
+because in 1905 Einstein wrote
+
+107
+00:07:02,370 --> 00:07:07,130
+four amazing papers that have completely
+redefined the foundations of physics.
+
+108
+00:07:07,130 --> 00:07:12,380
+And one of these papers is this paper
+that we're now discussing concerning
+
+109
+00:07:12,380 --> 00:07:15,580
+an heuristic point of view toward
+the emission and transformation of light.
+
+110
+00:07:16,580 --> 00:07:21,070
+So in this paper, Einstein basically
+introduced the notion of a photon,
+
+111
+00:07:21,070 --> 00:07:25,740
+which resolved the mystery
+of Lenard's experiment.
+
+112
+00:07:25,740 --> 00:07:29,606
+So here I have a long quote
+from Einstein's paper.
+
+113
+00:07:29,606 --> 00:07:31,420
+These are Einstein's words in the paper.
+
+114
+00:07:31,420 --> 00:07:32,040
+So let me read it.
+
+115
+00:07:32,040 --> 00:07:35,990
+The usual conception that the energy of
+light is continuously distributed over
+
+116
+00:07:35,990 --> 00:07:39,050
+the space through which it
+propagates encounters very
+
+117
+00:07:39,050 --> 00:07:43,690
+serious difficulties when one attempts
+to explain the photoelectric phenomena.
+
+118
+00:07:43,690 --> 00:07:45,480
+As has been pointed out in
+Herr Lenard's pioneering paper,
+
+119
+00:07:45,480 --> 00:07:49,600
+the one we discussed
+in the previous slide.
+
+120
+00:07:49,600 --> 00:07:53,276
+And then he goes on to the main
+concept of the photon.
+
+121
+00:07:53,276 --> 00:07:57,385
+So according to the concept that the
+incident light consists of energy quanta,
+
+122
+00:07:57,385 --> 00:08:00,268
+however one can conceive of
+the ejection of electrons by
+
+123
+00:08:00,268 --> 00:08:02,480
+light in the following way.
+
+124
+00:08:02,480 --> 00:08:05,760
+Energy quanta penetrate into the surface
+layer of the body, and their
+
+125
+00:08:05,760 --> 00:08:10,030
+energy's transformed, at least in part
+into kinetic energy of electrons, etc.
+
+126
+00:08:10,030 --> 00:08:13,580
+Notice that Einstein didn't really
+call his proposal a theory,
+
+127
+00:08:13,580 --> 00:08:16,600
+but rather an heuristic point of a view,
+which it was.
+
+128
+00:08:16,600 --> 00:08:22,630
+It was more a quantitative picture, but
+a very important one because it introduced
+
+129
+00:08:22,630 --> 00:08:27,177
+the notion of photon, a particle of
+light carrying a quantized energy.
+
+130
+00:08:27,177 --> 00:08:33,900
+And so here is, I show a little animation
+which illustrates sort of Einstein's
+
+131
+00:08:33,900 --> 00:08:38,580
+view of what might be happening
+in the photoelectric effect.
+
+132
+00:08:38,580 --> 00:08:41,201
+In this picture, we have this particle.
+
+133
+00:08:41,201 --> 00:08:42,481
+So let me play it once again.
+
+134
+00:08:42,481 --> 00:08:46,156
+We have these particles which
+essentially represent light, and
+
+135
+00:08:46,156 --> 00:08:50,780
+each particle of light, each photon,
+interacts individually with electrons.
+
+136
+00:08:50,780 --> 00:08:55,630
+And therefore, only if the energy of a
+single photon exceeds a certain threshold,
+
+137
+00:08:55,630 --> 00:08:57,290
+photoelectric effect would occur.
+
+138
+00:08:58,360 --> 00:09:00,860
+And also, this picture explained
+
+139
+00:09:00,860 --> 00:09:05,298
+why the effect was not dependent on
+the intensity of light, or in other words,
+
+140
+00:09:05,298 --> 00:09:08,240
+on the number of photons heating
+this surface for a unit of time.
+
+141
+00:09:09,810 --> 00:09:14,809
+So another important element of the theory
+was the assumption that the frequency
+
+142
+00:09:14,809 --> 00:09:18,646
+of the light, lambda here,
+was proportional to the energy.
+
+143
+00:09:18,646 --> 00:09:21,751
+And the coefficient of proportionality
+become the energy, and
+
+144
+00:09:21,751 --> 00:09:23,617
+omega we now know is a blank constant.
+
+145
+00:09:23,617 --> 00:09:26,998
+So there's actually going to be
+two notations for Planck constant.
+
+146
+00:09:26,998 --> 00:09:28,756
+We use h and h bar.
+
+147
+00:09:28,756 --> 00:09:32,405
+So h bar we're going to use
+a little more often, and
+
+148
+00:09:32,405 --> 00:09:37,306
+the relation between them is just
+this numerical factor of 2 pi.
+
+149
+00:09:37,306 --> 00:09:38,326
+So in this picture,
+
+150
+00:09:38,326 --> 00:09:41,680
+basically it was clear why
+the frequency of the light was the key.
+
+151
+00:09:41,680 --> 00:09:46,380
+So the frequency of the light was related
+one to one to the energy of these photons,
+
+152
+00:09:46,380 --> 00:09:51,360
+and electrons would either be able
+to overcome the voltage here or
+
+153
+00:09:51,360 --> 00:09:55,030
+not, depending on whether or
+not the frequency was high enough.
+
+154
+00:09:55,030 --> 00:10:01,080
+And this essentially resolved the mystery
+behind the photoelectric effect.
+
+155
+00:10:01,080 --> 00:10:07,720
+So an interesting comment here is that
+Einstein received his 1921 Nobel Prize in
+
+156
+00:10:07,720 --> 00:10:12,950
+physics mostly for
+his work on the photoelectric effect.
+
+157
+00:10:12,950 --> 00:10:16,470
+Here is actually a citation for
+the Nobel Prize.
+
+158
+00:10:16,470 --> 00:10:20,690
+Actually, I think it's fair to say that
+for as important as this insight turned
+
+159
+00:10:20,690 --> 00:10:25,500
+out to be, the theory of photoelectric
+effect, his other achievements
+
+160
+00:10:25,500 --> 00:10:29,239
+in developing special and general
+relativity are even more impressive.
+
+161
+00:10:30,800 --> 00:10:33,040
+So finally,
+let me mention here that ironically,
+
+162
+00:10:33,040 --> 00:10:38,248
+Einstein being one of the pioneers
+of quantum theory, actually remained
+
+163
+00:10:38,248 --> 00:10:42,531
+skeptical of quantum mechanics throughout
+his life and never fully accepted it.

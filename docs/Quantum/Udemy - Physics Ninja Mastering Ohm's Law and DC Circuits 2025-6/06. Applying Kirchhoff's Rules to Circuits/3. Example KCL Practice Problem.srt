@@ -1,0 +1,199 @@
+WEBVTT
+
+00:00.610 --> 00:05.050
+All right here's an example of let us practice the junction rule and again the junction rule says whatever
+
+00:05.050 --> 00:10.880
+flows into a junction and the current has to be the same current flowing out of the junction.
+
+00:11.500 --> 00:15.640
+So let's begin by identifying all the various junctions here and the goal here is to determine what
+
+00:15.640 --> 00:20.820
+this current AI is all the way over here and this lower right hand branch.
+
+00:20.890 --> 00:22.350
+So we've got different junctions.
+
+00:22.370 --> 00:32.130
+There's one one call that a label this one be see D and E.
+
+00:32.610 --> 00:37.350
+And what we're going to do is we're going to apply the junction rule to each one of those.
+
+00:37.350 --> 00:42.080
+Now the reason you can't just immediately go to junction E and write down my junction rule.
+
+00:42.330 --> 00:47.030
+Well basically what you're going to be left with are two unknowns and only one equation is actually
+
+00:47.020 --> 00:51.720
+where we're going to do is we're just going to work over here from Junction and work our way down all
+
+00:51.720 --> 00:52.880
+the way to junction E..
+
+00:54.360 --> 00:56.160
+OK so let's practice.
+
+00:56.160 --> 01:00.540
+So for junction a how do we apply Kirchoff's current law.
+
+01:00.540 --> 01:02.580
+So again what flows into the junction.
+
+01:02.880 --> 01:05.850
+Well let's look at it there's two currents flowing in.
+
+01:05.850 --> 01:13.680
+So that automatically tells us that whatever current is is at junction a must be flowing out because
+
+01:13.680 --> 01:18.150
+you can have three currents all flowing into a junction.
+
+01:18.260 --> 01:22.470
+You wouldn't be able to conserve the charge if that was the case.
+
+01:22.540 --> 01:26.620
+So let's go ahead and find whatever the current this is again.
+
+01:26.620 --> 01:33.790
+Kirchhoff's current law says current flowing in there is a 1 amp from the top flowing in two amps from
+
+01:33.790 --> 01:35.660
+the left hand side flowing in.
+
+01:36.010 --> 01:42.530
+That must be equal to the current flowing out which must be equal to 3 amps.
+
+01:42.670 --> 01:49.150
+So this current over here must be 3 amps junction B is very very similar.
+
+01:49.250 --> 01:58.930
+We have two currents flowing in it automatically tells us that the third current must be flowing out.
+
+01:58.940 --> 02:04.340
+Let's go ahead and calculate that one square junction B again what's flowing in we just saw there was
+
+02:04.340 --> 02:06.910
+3 amps flowing in from the top.
+
+02:07.070 --> 02:13.860
+We have 5 amps flowing in from the left hand side that must be what's flowing out of junction B which
+
+02:13.860 --> 02:16.810
+is 8 amps.
+
+02:16.850 --> 02:17.160
+All right.
+
+02:17.160 --> 02:26.300
+Put that on the diagram so you have eight amps along this entire branch of the circuit.
+
+02:26.300 --> 02:28.310
+All right let me look at junction and see what's going on.
+
+02:28.310 --> 02:30.450
+Junction sees a little bit different.
+
+02:30.530 --> 02:35.430
+You're told that there's two amps flowing in from the left hand side or from the right hand side.
+
+02:35.780 --> 02:41.510
+And while I look at there's also three amps everywhere and this branch right here although they've only
+
+02:41.510 --> 02:43.660
+indicated the value of the current up here.
+
+02:43.820 --> 02:46.060
+It's also the same current right here.
+
+02:46.400 --> 02:49.370
+This is three.
+
+02:49.450 --> 02:50.550
+So let's have a look.
+
+02:50.740 --> 02:56.480
+So which direction should the current in this branch over here be directed.
+
+02:56.740 --> 03:01.840
+Well if you have two going in you probably know that you probably are going to need another current
+
+03:01.840 --> 03:07.360
+flowing in if you have three going out.
+
+03:07.530 --> 03:10.790
+Let's call this the current.
+
+03:10.990 --> 03:20.340
+I see if you apply the junction rule to junction c you're going to find that you have to plus the current
+
+03:20.480 --> 03:23.900
+icy must be equal to 3.
+
+03:24.060 --> 03:28.760
+So the current I see must be equal to 1.
+
+03:28.980 --> 03:32.580
+Put that one on the diagram and that makes sense right.
+
+03:32.580 --> 03:35.660
+You got two plus one gives me three.
+
+03:35.660 --> 03:35.940
+All right.
+
+03:35.950 --> 03:41.310
+And now that we have this information we can now solve what's going on at Junction D.
+
+03:41.700 --> 03:50.460
+If we have 8 going in and you have one going toward the top automatically you should be able to see
+
+03:50.460 --> 03:58.410
+that this current And this branch right here has to be flowing down and if I call this just the current
+
+03:58.500 --> 04:05.280
+I let's apply the junction rule over here at Junction D which you find is whatever current flowing in
+
+04:05.280 --> 04:06.660
+is 8 amps.
+
+04:06.810 --> 04:09.630
+This must be equal to the current flowing out.
+
+04:09.660 --> 04:14.870
+This must be one plus the current I which is what I was trying to solve for.
+
+04:15.020 --> 04:15.750
+So the current.
+
+04:15.750 --> 04:21.290
+I must be equal to 70 amps and we know the direction that's clear.
+
+04:24.230 --> 04:30.240
+We can actually also find what's going on over here in this branch to the right of junction.
+
+04:30.950 --> 04:37.780
+We know we have seven going in and we're told that there is six amps going down.
+
+04:38.030 --> 04:42.070
+So that tells us right away that we have to have.
+
+04:42.500 --> 04:43.850
+I'm not even going to write down the law.
+
+04:43.840 --> 04:46.200
+Now you could just write it down just by inspection.
+
+04:46.250 --> 04:48.920
+You have to have one amp going this way.
+
+04:49.100 --> 04:56.950
+This way we have seven going in the total current leaving the junction also has to be 70 amps OK.
+
+04:57.220 --> 05:02.440
+So here is kind of a nice simple example of applying the junction rule several times define the direction
+
+05:02.440 --> 05:03.040
+of the current.
